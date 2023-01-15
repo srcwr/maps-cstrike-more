@@ -23,6 +23,6 @@ for filename in glob.iglob("../hashed/*.bsp"):
         ents = bsp.ENTITIES.as_bytes()[:-1] # -1 to remove trailing null byte
         with open(newents, "wb") as f:
             f.write(ents)
-        with open(f"entitiesgz/{maphash}.cfg.gz", "wb") as f:
+        with gzip.open(f"entitiesgz/{maphash}.cfg.gz", "wb") as f:
             f.write(ents)
     #break
