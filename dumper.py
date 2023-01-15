@@ -2,6 +2,7 @@
 import os
 import glob
 import bsp_tool
+import gzip
 from pathlib import Path
 
 ignored = {}
@@ -21,5 +22,7 @@ for filename in glob.iglob("../hashed/*.bsp"):
     if "ENTITIES" in bsp.headers:
         ents = bsp.ENTITIES.as_bytes()[:-1] # -1 to remove trailing null byte
         with open(newents, "wb") as f:
+            f.write(ents)
+        with open(f"entitiesgz/{maphash}.cfg.gz", "wb") as f:
             f.write(ents)
     #break
