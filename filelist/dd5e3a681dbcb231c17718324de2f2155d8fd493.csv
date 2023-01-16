@@ -1,0 +1,9 @@
+filename,size,compressed
+materials/maps/deathrun_m_d/metal/citadel_tilewall005a_0_0_0.vmt,132,132
+materials/maps/deathrun_m_d/metal/citadel_metalwall063a_cheap_0_0_0.vmt,139,139
+materials/maps/deathrun_m_d/shadertest/watercheap_opaque_nofresnel_depth_44.vmt,125,125
+materials/maps/deathrun_m_d/dev/dev_water5_depth_159.vmt,102,102
+materials/maps/deathrun_m_d/cubemapdefault.vtf,28753,28753
+materials/maps/deathrun_m_d/c0_0_0.vtf,28753,28753
+materials/maps/deathrun_m_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/deathrun_m_d/c0_0_0.hdr.vtf,76528,76528

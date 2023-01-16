@@ -1,0 +1,27 @@
+filename,size,compressed
+materials/maps/surf_thay/metal/citadel_tilefloor016a_0_0_0.vmt,130,130
+materials/maps/surf_thay/nature/water_canals03_0_0_0.vmt,147,147
+materials/maps/surf_thay/concrete/milflr001_0_0_0.vmt,121,121
+materials/maps/surf_thay/glass/glasswindow007a_0_0_0.vmt,124,124
+materials/maps/surf_thay/metal/citadel_metalwall063a_0_0_0.vmt,130,130
+materials/maps/surf_thay/metal/metalfloor001a_0_0_0.vmt,123,123
+materials/maps/surf_thay/glass/combineglass001a_0_0_0.vmt,125,125
+materials/maps/surf_thay/nature/water_canals03_depth_3.vmt,107,107
+materials/maps/surf_thay/nature/water_canals_water2_depth_3.vmt,112,112
+materials/maps/surf_thay/nature/sewer_waterdarkfog2_depth_3.vmt,112,112
+materials/maps/surf_thay/cubemapdefault.vtf,4952,4952
+materials/maps/surf_thay/c0_0_0.vtf,4952,4952
+materials/skybox/black/blackbk.vmt,79,79
+materials/skybox/black/blackbk.vtf,699272,699272
+materials/skybox/black/blackdn.vmt,79,79
+materials/skybox/black/blackdn.vtf,699272,699272
+materials/skybox/black/blackft.vmt,79,79
+materials/skybox/black/blackft.vtf,699272,699272
+materials/skybox/black/blacklf.vmt,79,79
+materials/skybox/black/blacklf.vtf,699272,699272
+materials/skybox/black/blackrt.vmt,79,79
+materials/skybox/black/blackrt.vtf,699272,699272
+materials/skybox/black/blackup.vmt,79,79
+materials/skybox/black/blackup.vtf,699272,699272
+materials/Custom Tex/stars.vmt,114,114
+materials/Custom Tex/stars.vtf,5592640,5592640

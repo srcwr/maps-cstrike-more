@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/jb_octagonal/metal/metalpipe009a_0_0_0.vmt,125,125
+materials/maps/jb_octagonal/metal/metalpipe009b_0_0_0.vmt,125,125
+materials/maps/jb_octagonal/metal/metalwall077a_0_0_0.vmt,125,125
+materials/maps/jb_octagonal/metal/metalpipe005a_0_0_0.vmt,125,125
+materials/maps/jb_octagonal/metal/metalroof006a_0_0_0.vmt,125,125
+materials/maps/jb_octagonal/metal/metalwall076a_0_0_0.vmt,125,125
+materials/maps/jb_octagonal/glass/combineglass001a_0_0_0.vmt,128,128
+materials/maps/jb_octagonal/metal/citadel_metalwall077a_0_0_0.vmt,133,133
+materials/maps/jb_octagonal/dev/dev_water4_depth_8.vmt,100,100
+materials/maps/jb_octagonal/nature/water_canals03_dx70_depth_4.vmt,112,112
+materials/maps/jb_octagonal/nature/water_canals03_dx70_depth_3.vmt,112,112
+materials/maps/jb_octagonal/nature/water_canals03_dx70_depth_8.vmt,112,112
+materials/maps/jb_octagonal/cubemapdefault.vtf,9832,9832
+materials/maps/jb_octagonal/c0_0_0.vtf,9832,9832
+materials/maps/jb_octagonal/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jb_octagonal/c0_0_0.hdr.vtf,76528,76528

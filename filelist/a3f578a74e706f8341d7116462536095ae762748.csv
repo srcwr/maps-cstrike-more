@@ -1,0 +1,309 @@
+filename,size,compressed
+materials/maps/de_dust2_d/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/de_dust2_d/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/de_dust2_d/de_dust/tilefloor02_-1120_1440_-48.vmt,132,132
+materials/maps/de_dust2_d/de_dust/tilefloor02_-1120_1120_16.vmt,131,131
+materials/maps/de_dust2_d/de_dust/tilefloor02_-1536_1152_112.vmt,132,132
+materials/maps/de_dust2_d/de_dust/tilefloor02_-1664_992_112.vmt,131,131
+materials/maps/de_dust2_d/de_dust/tilefloor02_-1664_544_112.vmt,131,131
+materials/maps/de_dust2_d/de_dust/tilefloor02_-1984_1376_112.vmt,132,132
+materials/maps/de_dust2_d/de_dust/tilefloor02_-1984_1952_112.vmt,132,132
+materials/maps/de_dust2_d/de_dust/tilefloor02_-1824_1152_112.vmt,132,132
+materials/maps/de_dust2_d/de_dust/tilefloor02_-2048_1056_112.vmt,132,132
+materials/maps/de_dust2_d/de_dust/tilefloor02_-1344_1152_112.vmt,132,132
+materials/maps/de_dust2_d/de_dust/tilefloor02_-896_1440_-48.vmt,131,131
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_166_2162_-50.vmt,137,137
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_1424_2152_112.vmt,138,138
+materials/maps/de_dust2_d/glass/combineglass001a_1424_2152_112.vmt,134,134
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_1408_992_112.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_166_2162_-50.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall091a_1424_2152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_640_896_112.vmt,137,137
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_1408_992_112.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_352_2136_160.vmt,138,138
+materials/maps/de_dust2_d/metal/metalwall090a_352_2136_160.vmt,130,130
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_-1696_2688_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_-832_2168_-48.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_-1120_2208_80.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_-800_-832_240.vmt,139,139
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall_-832_2168_-48.vmt,170,170
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_64_-736_80.vmt,136,136
+materials/maps/de_dust2_d/metal/metalcombine001_640_64_112.vmt,130,130
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_64_-736_80.vmt,136,136
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_64_-736_80.vmt,136,136
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_640_64_112.vmt,136,136
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_-448_2144_-80.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-1120_2208_80.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-448_2144_-80.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-832_2168_-48.vmt,139,139
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall_-704_1440_-48.vmt,170,170
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall_-64_2144_-48.vmt,169,169
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall_-416_1440_-48.vmt,170,170
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall_-448_2144_-80.vmt,170,170
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall_-1120_2208_80.vmt,170,170
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-448_2144_-80.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_352_2136_160.vmt,137,137
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_cheap_-64_2144_-48.vmt,144,144
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-64_2144_-48.vmt,137,137
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_384_1512_120.vmt,137,137
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-1696_2688_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_cheap_816_2552_160.vmt,144,144
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_cheap_-448_2144_-80.vmt,145,145
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_-1120_2208_80.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_-1696_2688_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_1408_256_-80.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_640_64_112.vmt,136,136
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_1408_992_112.vmt,138,138
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall2_1408_256_-80.vmt,170,170
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_1424_2152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_416_2176_-50.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_704_2176_8.vmt,136,136
+materials/maps/de_dust2_d/metal/metalcombine001_1424_2152_112.vmt,133,133
+materials/maps/de_dust2_d/metal/metalwall090a_1424_2152_112.vmt,131,131
+materials/maps/de_dust2_d/metal/citadel_metalwall091a_cheap_1424_2152_112.vmt,145,145
+materials/maps/de_dust2_d/metal/metalwall090a_166_2162_-50.vmt,130,130
+materials/maps/de_dust2_d/metal/metalcombine001_704_2176_8.vmt,130,130
+materials/maps/de_dust2_d/metal/citadel_metalwall072a_1424_2152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall063a_1408_992_112.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall063a_1408_256_-80.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_1408_256_-80.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_1408_256_-80.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_1408_992_112.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_166_2162_-50.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_166_2162_-50.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall063a_640_896_112.vmt,137,137
+materials/maps/de_dust2_d/metal/citadel_metalwall063a_1424_2152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_1424_2152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_640_896_112.vmt,137,137
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_640_896_112.vmt,137,137
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_1424_2152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall063a_704_2176_8.vmt,136,136
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_704_2176_8.vmt,136,136
+materials/maps/de_dust2_d/metal/citadel_metalwall090a_704_2176_8.vmt,136,136
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_816_2552_160.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_1424_2152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_1424_2152_112.vmt,139,139
+materials/maps/de_dust2_d/glass/glasswindow070c_1424_2152_112.vmt,133,133
+materials/maps/de_dust2_d/glass/combineglass001a_166_2162_-50.vmt,133,133
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_166_2162_-50.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall091a_166_2162_-50.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall072b_1424_2152_112.vmt,139,139
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall2faded_704_2176_8.vmt,173,173
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall2faded_1424_2152_112.vmt,176,176
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall2faded_1408_992_112.vmt,175,175
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall2faded_416_2176_-50.vmt,175,175
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall2faded_-800_-832_240.vmt,176,176
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_384_1512_120.vmt,138,138
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall3_640_896_112.vmt,169,169
+materials/maps/de_dust2_d/effects/combineshield/comshieldwall3_1408_992_112.vmt,170,170
+materials/maps/de_dust2_d/metal/metalwall048a_1424_2152_112.vmt,131,131
+materials/maps/de_dust2_d/metal/metalcombine001_166_2162_-50.vmt,132,132
+materials/maps/de_dust2_d/metal/metalcombine001_384_1512_120.vmt,132,132
+materials/maps/de_dust2_d/metal/metalcombine001_-64_2144_-48.vmt,132,132
+materials/maps/de_dust2_d/metal/metalwall090a_-64_2144_-48.vmt,130,130
+materials/maps/de_dust2_d/metal/metalwall090a_384_1512_120.vmt,130,130
+materials/maps/de_dust2_d/metal/metalcombine001_352_2136_160.vmt,132,132
+materials/maps/de_dust2_d/metal/metalcombine001_416_2176_-50.vmt,132,132
+materials/maps/de_dust2_d/metal/metalwall090a_704_2176_8.vmt,128,128
+materials/maps/de_dust2_d/metal/metalwall090a_416_2176_-50.vmt,130,130
+materials/maps/de_dust2_d/metal/metalcombine001_816_2552_160.vmt,132,132
+materials/maps/de_dust2_d/metal/metalwall090a_816_2552_160.vmt,130,130
+materials/maps/de_dust2_d/metal/metalcombine001_-448_2144_-80.vmt,133,133
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_352_2136_160.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_704_2176_8.vmt,136,136
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_352_2136_160.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_-1696_2688_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_416_2176_-50.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_816_2552_160.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-64_2144_-48.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-704_1440_-48.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-416_1440_-48.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-416_1440_-48.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_384_1512_120.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_-64_2144_-48.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilefloor016a_416_2176_-50.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_-448_2144_-80.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_-704_1440_-48.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_-832_2168_-48.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-448_2144_-80.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-704_1440_-48.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall077a_166_2162_-50.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall077a_-1120_1440_-48.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall077a_-1120_2208_80.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall077a_-1984_1952_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-1984_1952_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-1696_2688_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-2048_1056_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_-448_384_112.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall078a_-2048_1056_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-1984_1280_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-1824_1152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-2048_1056_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-1536_1152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-1664_992_112.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-1344_1152_112.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-1120_1440_-48.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-1120_1120_16.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-896_1440_-48.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_tilewall005a_-704_1440_-48.vmt,138,138
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-1536_1152_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-1344_1152_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-1120_1440_-48.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall076a_-800_-832_240.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-1120_1440_-48.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-2048_1056_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-1824_1152_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-1120_1120_16.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-800_-832_240.vmt,139,139
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-1536_1152_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_-1344_1152_112.vmt,140,140
+materials/maps/de_dust2_d/metal/citadel_metalwall072c_384_1512_120.vmt,138,138
+materials/maps/de_dust2_d/cubemapdefault.vtf,9832,9832
+materials/maps/de_dust2_d/c-1120_1440_-48.vtf,9832,9832
+materials/maps/de_dust2_d/c-1120_1120_16.vtf,9832,9832
+materials/maps/de_dust2_d/c-1536_1152_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-1664_992_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-1664_544_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-1984_1376_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-1984_1952_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-1824_1152_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-2048_1056_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-1344_1152_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-896_1440_-48.vtf,9832,9832
+materials/maps/de_dust2_d/c166_2162_-50.vtf,9832,9832
+materials/maps/de_dust2_d/c1424_2152_112.vtf,9832,9832
+materials/maps/de_dust2_d/c1408_992_112.vtf,9832,9832
+materials/maps/de_dust2_d/c640_896_112.vtf,9832,9832
+materials/maps/de_dust2_d/c352_2136_160.vtf,9832,9832
+materials/maps/de_dust2_d/c-1696_2688_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-832_2168_-48.vtf,9832,9832
+materials/maps/de_dust2_d/c-1120_2208_80.vtf,9832,9832
+materials/maps/de_dust2_d/c-800_-832_240.vtf,9832,9832
+materials/maps/de_dust2_d/c64_-736_80.vtf,9832,9832
+materials/maps/de_dust2_d/c640_64_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-448_2144_-80.vtf,9832,9832
+materials/maps/de_dust2_d/c-704_1440_-48.vtf,9832,9832
+materials/maps/de_dust2_d/c-64_2144_-48.vtf,9832,9832
+materials/maps/de_dust2_d/c-416_1440_-48.vtf,9832,9832
+materials/maps/de_dust2_d/c384_1512_120.vtf,9832,9832
+materials/maps/de_dust2_d/c816_2552_160.vtf,9832,9832
+materials/maps/de_dust2_d/c1408_256_-80.vtf,9832,9832
+materials/maps/de_dust2_d/c416_2176_-50.vtf,9832,9832
+materials/maps/de_dust2_d/c704_2176_8.vtf,9832,9832
+materials/maps/de_dust2_d/c-448_384_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-1984_1280_112.vtf,9832,9832
+materials/maps/de_dust2_d/c640_480_112.vtf,9832,9832
+materials/maps/de_dust2_d/c-448_64_80.vtf,9832,9832
+materials/maps/de_dust2_d/c-448_-256_80.vtf,9832,9832
+materials/maps/de_dust2_d/c-448_-512_80.vtf,9832,9832
+materials/maps/de_dust2_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1120_1440_-48.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1120_1120_16.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1536_1152_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1664_992_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1664_544_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1984_1376_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1984_1952_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1824_1152_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-2048_1056_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1344_1152_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-896_1440_-48.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c166_2162_-50.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c1424_2152_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c1408_992_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c640_896_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c352_2136_160.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1696_2688_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-832_2168_-48.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1120_2208_80.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-800_-832_240.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c64_-736_80.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c640_64_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-448_2144_-80.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-704_1440_-48.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-64_2144_-48.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-416_1440_-48.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c384_1512_120.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c816_2552_160.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c1408_256_-80.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c416_2176_-50.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c704_2176_8.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-448_384_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-1984_1280_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c640_480_112.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-448_64_80.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-448_-256_80.hdr.vtf,76528,76528
+materials/maps/de_dust2_d/c-448_-512_80.hdr.vtf,76528,76528
+materials/maps/dust50/c166_2162_-50.vtf,19304,19304
+materials/maps/dust50/c704_2176_8.vtf,19304,19304
+materials/maps/dust50/c1424_2152_112.vtf,19304,19304
+materials/maps/dust50/c816_2552_160.vtf,19304,19304
+materials/maps/dust50/c352_2136_160.vtf,19304,19304
+materials/maps/dust50/c384_1512_120.vtf,19304,19304
+materials/maps/dust50/c-416_1440_-48.vtf,19304,19304
+materials/maps/dust50/c-448_384_112.vtf,19304,19304
+materials/maps/dust50/c-704_1440_-48.vtf,19304,19304
+materials/maps/dust50/c-1120_1440_-48.vtf,19304,19304
+materials/maps/dust50/c-1120_1120_16.vtf,19304,19304
+materials/maps/dust50/c-1536_1152_112.vtf,19304,19304
+materials/maps/dust50/c-1664_992_112.vtf,19304,19304
+materials/maps/dust50/c-1664_544_112.vtf,19304,19304
+materials/maps/dust50/c-1984_1376_112.vtf,19304,19304
+materials/maps/dust50/c-1984_1952_112.vtf,19304,19304
+materials/maps/dust50/c-1696_2688_112.vtf,19304,19304
+materials/maps/dust50/c-448_2144_-80.vtf,19304,19304
+materials/maps/dust50/c-64_2144_-48.vtf,19304,19304
+materials/maps/dust50/c416_2176_-50.vtf,19304,19304
+materials/maps/dust50/c640_64_112.vtf,19304,19304
+materials/maps/dust50/c640_480_112.vtf,19304,19304
+materials/maps/dust50/c640_896_112.vtf,19304,19304
+materials/maps/dust50/c1408_992_112.vtf,19304,19304
+materials/maps/dust50/c1408_256_-80.vtf,19304,19304
+materials/maps/dust50/c-448_64_80.vtf,19304,19304
+materials/maps/dust50/c-448_-256_80.vtf,19304,19304
+materials/maps/dust50/c-448_-512_80.vtf,19304,19304
+materials/maps/dust50/c64_-736_80.vtf,19304,19304
+materials/maps/dust50/c-800_-832_240.vtf,19304,19304
+materials/maps/dust50/c-832_2168_-48.vtf,19304,19304
+materials/maps/dust50/c-1120_2208_80.vtf,19304,19304
+materials/maps/dust50/c-1824_1152_112.vtf,19304,19304
+materials/maps/dust50/c-1984_1280_112.vtf,19304,19304
+materials/maps/dust50/c-2048_1056_112.vtf,19304,19304
+materials/maps/dust50/c-1344_1152_112.vtf,19304,19304
+materials/maps/dust50/c-896_1440_-48.vtf,19304,19304
+materials/maps/dust50/cubemapdefault.vtf,9832,9832
+materials/My textures/UNDERMAINTENANCE.vtf,699232,699232
+materials/My textures/UNDERMAINTENANCE.vmt,127,127
+materials/My textures/CTSPAWN.vtf,699232,699232
+materials/My textures/CTSPAWN.vmt,118,118
+materials/My textures/fallingrocks.vtf,699232,699232
+materials/My textures/fallingrocks.vmt,123,123
+materials/My textures/BOMSITEB.vtf,699232,699232
+materials/My textures/BOMSITEB.vmt,119,119
+materials/My textures/zzz.vtf,699232,699232
+materials/My textures/zzz.vmt,114,114
+materials/My textures/BOMBSITEA.vtf,699232,699232
+materials/My textures/WTD2.vmt,113,113
+materials/My textures/WTD2.vtf,699232,699232
+materials/My textures/BOMBSITEA.vmt,120,120
+materials/My textures/LONGMSGABOUTBABBANDCS.vtf,699232,699232
+materials/My textures/LONGMSGABOUTBABBANDCS.vmt,132,132
+materials/My textures/YOUCANTGOTOTHATPLACEYET.vtf,699232,699232
+materials/My textures/YOUCANTGOTOTHATPLACEYET.vmt,134,134
+scripts/soundscapes_dust50.txt,1203,1203
+scripts/soundscapes_manifest.txt,2349,2349
+sound/My sounds/teleport_windup.wav,608448,608448
+sound/My sounds/underground_hall_loop1.wav,223368,223368
+sound/My sounds/city_siren.wav,93408,93408
+sound/My sounds/HL1_song26.wav,6621740,6621740
+sound/My sounds/citadel_alert.wav,2785508,2785508
+sound/My sounds/apc_distant2.wav,153702,153702
+sound/My sounds/dust250yrsambient.wav,29106044,29106044
+sound/My sounds/field123.wav,302772,302772
+sound/My sounds/heli_distant1.wav,203856,203856
+sound/My sounds/manhack_machine.wav,274828,274828
+sound/My sounds/scanner_alert_pass1.wav,408762,408762
+sound/My sounds/underground.wav,107710,107710
+sound/My sounds/ambience_base.wav,217916,217916
+sound/My sounds/apc_distant1.wav,192082,192082
+sound/My sounds/CitySong.mp3,1451470,1451470

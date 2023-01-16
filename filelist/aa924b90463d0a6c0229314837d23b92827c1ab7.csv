@@ -1,0 +1,112 @@
+filename,size,compressed
+materials/maps/kz_bhop_sakura/cubemapdefault.vtf,28753,28753
+materials/maps/kz_bhop_sakura/cubemapdefault.hdr.vtf,76528,76528
+materials/Dev/reflectivity_50b.vmt,136,136
+materials/Dev/reflectivity_50b.vtf,888,888
+materials/Dev/reflectivity_10b.vmt,136,136
+materials/Dev/reflectivity_10b.vtf,888,888
+materials/sparx/another.vmt,74,74
+materials/sparx/another.vtf,5632,5632
+materials/ICECREAMLOCK/ORANGEGLASS.vmt,119,119
+materials/ICECREAMLOCK/orangeglass.vtf,2952,2952
+materials/badges/LADDERSPARX.vmt,85,85
+materials/badges/LADDERSPARX.vtf,87552,87552
+materials/RYAN_DEV/LIGHT_ORANGE1.vmt,62,62
+materials/RYAN_DEV/light_orange1.vtf,11144,11144
+materials/badges/2.vmt,69,69
+materials/badges/2.vtf,43872,43872
+materials/badges/6.vmt,69,69
+materials/badges/6.vtf,43872,43872
+materials/badges/4.vmt,69,69
+materials/badges/4.vtf,43872,43872
+materials/badges/5.vmt,69,69
+materials/badges/5.vtf,43872,43872
+materials/badges/3.vmt,69,69
+materials/badges/3.vtf,43872,43872
+materials/badges/1.vmt,69,69
+materials/badges/1.vtf,43872,43872
+materials/badges/0.vmt,69,69
+materials/badges/0.vtf,43872,43872
+materials/ICECREAMLOCK/REDGLASS.vmt,116,116
+materials/ICECREAMLOCK/redglass.vtf,2952,2952
+materials/RYAN_DEV/CMYK_RED.vmt,65,65
+materials/RYAN_DEV/cmyk_red.vtf,11144,11144
+materials/strafe/transpbox_unlit_rad.vmt,129,129
+materials/strafe/transpbox.vtf,87616,87616
+materials/RYAN_DEV/RBG_CYAN.vmt,65,65
+materials/RYAN_DEV/rbg_cyan.vtf,11144,11144
+materials/RYAN_DEV/pastel_cyan1.vmt,69,69
+materials/RYAN_DEV/pastel_cyan1.vtf,11144,11144
+materials/badges/7.vmt,69,69
+materials/badges/7.vtf,43872,43872
+materials/badges/9.vmt,69,69
+materials/badges/9.vtf,43872,43872
+materials/badges/8.vmt,69,69
+materials/badges/8.vtf,43872,43872
+materials/RYAN_DEV/LIGHT_YELLOW.vmt,69,69
+materials/RYAN_DEV/light_yellow.vtf,11144,11144
+materials/ICECREAMLOCK/YELLOWGLASS.vmt,119,119
+materials/ICECREAMLOCK/yellowglass.vtf,2952,2952
+materials/Dev/reflectivity_20b.vmt,136,136
+materials/Dev/reflectivity_20b.vtf,888,888
+materials/RYAN_DEV/WHITE.vmt,62,62
+materials/RYAN_DEV/white.vtf,11144,11144
+materials/Dev/reflectivity_40b.vmt,136,136
+materials/Dev/reflectivity_40b.vtf,888,888
+materials/sparx/auselitebhop.vmt,79,79
+materials/sparx/auselitebhop.vtf,43872,43872
+materials/sparx/tip.vmt,70,70
+materials/sparx/tip.vtf,43872,43872
+materials/sparx/ip.vmt,69,69
+materials/sparx/ip.vtf,43872,43872
+materials/ICECREAMLOCK/purpleglass.vmt,119,119
+materials/ICECREAMLOCK/purpleglass.vtf,2952,2952
+sound/sakura/energy.wav,64590,64590
+sound/sakura/boost.mp3,40959,40959
+scripts/soundscapes_kz_bhop_sakura.txt,1220,1220
+materials/sparx/blossoms.vmt,75,75
+materials/sparx/blossoms.vtf,1398336,1398336
+materials/sparx/Bonus.vmt,72,72
+materials/sparx/Bonus.vtf,5632,5632
+materials/sparx/chitoge.vmt,74,74
+materials/sparx/chitoge.vtf,87616,87616
+materials/sparx/End Timer.vmt,76,76
+materials/sparx/End Timer.vtf,5632,5632
+materials/sparx/kirino.vmt,73,73
+materials/sparx/kirino.vtf,87616,87616
+materials/sparx/kittymiku.vmt,76,76
+materials/sparx/kittymiku.vtf,87616,87616
+materials/sparx/Longjump Room.vmt,80,80
+materials/sparx/Longjump Room.vtf,5632,5632
+materials/sparx/Main Map.vmt,75,75
+materials/sparx/Main Map.vtf,5632,5632
+materials/sparx/names.vmt,72,72
+materials/sparx/names.vtf,349760,349760
+materials/sparx/restart.vmt,74,74
+materials/sparx/restart.vtf,5632,5632
+materials/sparx/satellizer_left.vmt,82,82
+materials/sparx/satellizer_left.vtf,87616,87616
+materials/sparx/sprites_blossoms.vmt,146,146
+materials/sparx/sprites_Bonus.vmt,143,143
+materials/sparx/sprites_chitoge.vmt,145,145
+materials/sparx/sprites_End Timer.vmt,147,147
+materials/sparx/sprites_kirino.vmt,144,144
+materials/sparx/sprites_kittymiku.vmt,147,147
+materials/sparx/sprites_Longjump Room.vmt,151,151
+materials/sparx/sprites_Main Map.vmt,146,146
+materials/sparx/sprites_names.vmt,143,143
+materials/sparx/sprites_restart.vmt,145,145
+materials/sparx/sprites_satellizer_left.vmt,153,153
+materials/sparx/sprites_Start Timer.vmt,149,149
+materials/sparx/sprites_tracknames.vmt,148,148
+materials/sparx/Start Timer.vmt,78,78
+materials/sparx/Start Timer.vtf,5632,5632
+materials/sparx/tracknames.vmt,77,77
+materials/sparx/tracknames.vtf,349760,349760
+sound/sakura/Affinity - 1995.mp3,2548091,2548091
+sound/sakura/Enaid - Hiraeth.mp3,3006697,3006697
+sound/sakura/Fort Road - Losing Faith.mp3,4566834,4566834
+sound/sakura/Loutseau - Streetwalker.mp3,3410759,3410759
+sound/sakura/O S L O - Frigus.mp3,4141456,4141456
+sound/sakura/Tulpa - Still Here.mp3,2933031,2933031
+sound/sakura/Tulpa - True Looks.mp3,2634608,2634608

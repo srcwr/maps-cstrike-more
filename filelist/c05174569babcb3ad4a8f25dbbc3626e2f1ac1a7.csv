@@ -1,0 +1,52 @@
+filename,size,compressed
+materials/maps/de_psp/glass/combineglass001a_542_-384_888.vmt,129,129
+materials/maps/de_psp/glass/glasswindow070c_542_-384_888.vmt,128,128
+materials/maps/de_psp/de_chateau/wall04pnl02_542_-384_888.vmt,129,129
+materials/maps/de_psp/cubemapdefault.vtf,9808,9808
+materials/maps/de_psp/c542_-384_888.vtf,9808,9808
+materials/psp/genvivi.vmt,59,59
+materials/psp/genvivi.vtf,87528,87528
+materials/psp/hold.vmt,62,62
+materials/psp/hold.vtf,174928,174928
+materials/psp/holes.vmt,60,60
+materials/psp/holes.vtf,87528,87528
+materials/psp/home.vmt,56,56
+materials/psp/home.vtf,21992,21992
+materials/psp/joystick.vmt,60,60
+materials/psp/joystick.vtf,11128,11128
+materials/psp/memory sides.vmt,64,64
+materials/psp/memory sides.vtf,43896,43896
+materials/psp/memory stick duo (psp-m32).vmt,78,78
+materials/psp/memory stick duo (psp-m32).vtf,43896,43896
+materials/psp/memory.vmt,58,58
+materials/psp/memory.vtf,43896,43896
+materials/psp/minus.vmt,57,57
+materials/psp/minus.vtf,21992,21992
+materials/psp/music.vmt,57,57
+materials/psp/music.vtf,21992,21992
+materials/psp/playstation_logo.vmt,68,68
+materials/psp/playstation_logo.vtf,87600,87600
+materials/psp/plus.vmt,56,56
+materials/psp/plus.vtf,21992,21992
+materials/psp/power.vmt,59,59
+materials/psp/power.vtf,174928,174928
+materials/psp/psp.vmt,55,55
+materials/psp/psp.vtf,21992,21992
+materials/psp/psplogo.vmt,62,62
+materials/psp/psplogo.vtf,174928,174928
+materials/psp/radiobutton.vmt,63,63
+materials/psp/radiobutton.vtf,43896,43896
+materials/psp/screenbutton.vmt,64,64
+materials/psp/screenbutton.vtf,21992,21992
+materials/psp/select.vmt,58,58
+materials/psp/select.vtf,21992,21992
+materials/psp/sony.vmt,59,59
+materials/psp/sony.vtf,87600,87600
+materials/psp/start.vmt,57,57
+materials/psp/start.vtf,21992,21992
+materials/psp/umd2.vmt,56,56
+materials/psp/umd2.vtf,174968,174968
+materials/psp/vol.vmt,55,55
+materials/psp/vol.vtf,21992,21992
+materials/shop2/paint_white.vmt,93,93
+materials/shop2/paint_white.vtf,22064,22064

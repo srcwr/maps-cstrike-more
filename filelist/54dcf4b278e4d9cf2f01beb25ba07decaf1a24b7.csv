@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/highfall_v1/de_train/blendgrassdirt001a_wvt_patch.vmt,129,129
+materials/maps/highfall_v1/de_tides/blendgrassstonepath_wvt_patch.vmt,276,276
+materials/maps/highfall_v1/nature/blendcliffgrass001a_wvt_patch.vmt,307,307
+materials/maps/highfall_v1/nature/water_canals_city_murky_-256_-256_-10688.vmt,169,169
+materials/maps/highfall_v1/nature/water_canals_city_murky_-4928_-320_-10720.vmt,170,170
+materials/maps/highfall_v1/maps/highfall_v1/nature/water_canals_city_murky_-4928_-320_-10720_depth_1088.vmt,154,154
+materials/maps/highfall_v1/maps/highfall_v1/nature/water_canals_city_murky_-256_-256_-10688_depth_1152.vmt,153,153
+materials/maps/highfall_v1/cubemapdefault.vtf,9832,9832
+materials/maps/highfall_v1/c-256_-256_-10688.vtf,9832,9832
+materials/maps/highfall_v1/c-4928_-320_-10720.vtf,9832,9832
+materials/maps/highfall_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/highfall_v1/c-256_-256_-10688.hdr.vtf,76528,76528
+materials/maps/highfall_v1/c-4928_-320_-10720.hdr.vtf,76528,76528

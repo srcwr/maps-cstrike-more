@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/bhop_hashtagfreeblank/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_hashtagfreeblank/cubemapdefault.hdr.vtf,76528,76528
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/neon/green.vmt,95,95
+materials/neon/green.vtf,174968,174968
+materials/neon/red.vmt,93,93
+materials/neon/red.vtf,174968,174968
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,349784,349784

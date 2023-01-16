@@ -1,0 +1,25 @@
+filename,size,compressed
+materials/maps/mg_gba_bowserscastle3_mariokart/cubemapdefault.vtf,9824,9824
+materials/SMB_TEXTURES/SMB_UNDERGROUNDFLOOR.vmt,130,130
+materials/SMB_Textures/SMB_UndergroundFloor.vtf,43912,43912
+materials/DECALS/SMB_UNDERGROUNDBRICK.vmt,130,130
+materials/SMB_Textures/SMB_UndergroundBrick.vtf,43912,43912
+materials/SMB_TEXTURES/SMB_BOWSERTOWER.vmt,125,125
+materials/SMB_Textures/SMB_Bowsertower.vtf,2872,2872
+materials/SMB_TEXTURES/SMB_BCASTLE.vmt,121,121
+materials/SMB_Textures/SMB_Bcastle.vtf,43912,43912
+materials/DEV/DEV_MEASUREGENERIC47.vmt,93,93
+materials/dev/dev_measuregeneric47.vtf,11144,11144
+materials/SMB_TEXTURES/SMB_RACE.vmt,118,118
+materials/SMB_Textures/SMB_RACE.vtf,2952,2952
+materials/SMB_TEXTURES/SMB_UNDERGROUNDBRICK.vmt,130,130
+materials/DEV/DEV_MEASUREGENERIC44.vmt,93,93
+materials/dev/dev_measuregeneric44.vtf,11144,11144
+materials/DECALS/SMB_QUESTIONMARK.vmt,126,126
+materials/SMB_Textures/SMB_QuestionMark.vtf,43912,43912
+materials/SMB_TEXTURES/SMB_THWOMP.vmt,120,120
+materials/SMB_Textures/SMB_thwomp.vtf,11144,11144
+materials/SMB_TEXTURES/SMB_FRYGUY.vmt,120,120
+materials/SMB_Textures/SMB_fryguy.vtf,22008,22008
+sound/tyrone's sounds/gba bowser castle 3.wav,26460044,26460044
+maps/soundcache/mg_gba_bowserscastle3_mariokart.cache,23326,23326

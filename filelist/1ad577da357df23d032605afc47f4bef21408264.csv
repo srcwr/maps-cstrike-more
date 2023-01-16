@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/he_glasshall_rx/glass/combineglass001a_558_-654_50.vmt,137,137
+materials/maps/he_glasshall_rx/tile/tileroof002a_558_-654_50.vmt,132,132
+materials/maps/he_glasshall_rx/de_dust/tilefloor02_558_-654_50.vmt,134,134
+materials/maps/he_glasshall_rx/glass/glasswindowbreak070b_558_-654_50.vmt,114,114
+materials/maps/he_glasshall_rx/glass/offwndwb_558_-654_50.vmt,212,212
+materials/maps/he_glasshall_rx/glass/glasswindowbreak070b_560_-322_78.vmt,114,114
+materials/maps/he_glasshall_rx/glass/offwndwb_560_-322_78.vmt,212,212
+materials/maps/he_glasshall_rx/liquids/aztecwater_560_-322_78.vmt,156,156
+materials/maps/he_glasshall_rx/liquids/aztecwater_558_-654_50.vmt,156,156
+materials/maps/he_glasshall_rx/maps/he_glasshall_rx/liquids/aztecwater_558_-654_50_depth_214.vmt,139,139
+materials/maps/he_glasshall_rx/maps/he_glasshall_rx/liquids/aztecwater_560_-322_78_depth_400.vmt,139,139
+materials/maps/he_glasshall_rx/cubemapdefault.vtf,9824,9824
+materials/maps/he_glasshall_rx/c558_-654_50.vtf,9824,9824
+materials/maps/he_glasshall_rx/c560_-322_78.vtf,9824,9824

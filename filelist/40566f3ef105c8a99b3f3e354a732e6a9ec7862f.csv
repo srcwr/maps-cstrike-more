@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/de_dusttech_v1/metal/metalpipe007a_154_598_8.vmt,131,131
+materials/maps/de_dusttech_v1/metal/metaldoor059a_154_598_8.vmt,131,131
+materials/maps/de_dusttech_v1/metal/metalwall001a_154_598_8.vmt,131,131
+materials/maps/de_dusttech_v1/glass/glasswindow008a_154_598_8.vmt,133,133
+materials/maps/de_dusttech_v1/dev/dev_water2_154_598_8.vmt,149,149
+materials/maps/de_dusttech_v1/maps/de_dusttech_v1/dev/dev_water2_154_598_8_depth_9.vmt,130,130
+materials/maps/de_dusttech_v1/cubemapdefault.vtf,9832,9832
+materials/maps/de_dusttech_v1/c154_598_8.vtf,9832,9832
+materials/maps/de_dusttech_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_dusttech_v1/c154_598_8.hdr.vtf,76528,76528
+maps/de_dusttech_v1.nav,268020,268020
+resource/overviews/de_dusttech_v1.txt,206,206
+materials/overviews/de_dustTech_v1.vmt,161,161
+materials/overviews/de_dustTech_v1.vtf,1398336,1398336

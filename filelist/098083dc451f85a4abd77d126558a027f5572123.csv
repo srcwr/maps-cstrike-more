@@ -1,0 +1,82 @@
+filename,size,compressed
+materials/maps/bhop_toc/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_toc/cubemapdefault.hdr.vtf,76528,76528
+materials/Crash Bandicoot/metal_crate_!.vmt,96,96
+materials/Crash Bandicoot/metal_crate_!.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_normal.vmt,101,101
+materials/Crash Bandicoot/metal_crate_normal.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_q.vmt,96,96
+materials/Crash Bandicoot/metal_crate_q.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_armored.vmt,106,106
+materials/Crash Bandicoot/wood_crate_armored.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_arrowup.vmt,104,104
+materials/Crash Bandicoot/wood_crate_arrowup.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_jump.vmt,103,103
+materials/Crash Bandicoot/wood_crate_jump.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_nitro.vmt,104,104
+materials/Crash Bandicoot/wood_crate_nitro.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_nitro_top.vmt,108,108
+materials/Crash Bandicoot/wood_crate_nitro_top.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_normal.vmt,105,105
+materials/Crash Bandicoot/wood_crate_normal.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt.vmt,102,102
+materials/Crash Bandicoot/wood_crate_tnt.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt_top.vmt,106,106
+materials/Crash Bandicoot/wood_crate_tnt_top.vtf,87616,87616
+materials/cyberspace/t_cyspwall1_black.vmt,70,70
+materials/cyberspace/t_cyspwall1_black.vtf,174984,174984
+materials/cyberspace/t_cyspwall1_black_a.vmt,100,100
+materials/cyberspace/t_cyspwall1_blue.vmt,69,69
+materials/cyberspace/t_cyspwall1_blue.vtf,174984,174984
+materials/cyberspace/t_cyspwall1_blue_a.vmt,99,99
+materials/cyberspace/t_cyspwall1_green.vmt,70,70
+materials/cyberspace/t_cyspwall1_green.vtf,174984,174984
+materials/cyberspace/t_cyspwall1_green_a.vmt,100,100
+materials/cyberspace/t_cyspwall1_orange.vmt,71,71
+materials/cyberspace/t_cyspwall1_orange.vtf,174984,174984
+materials/cyberspace/t_cyspwall1_orange_a.vmt,101,101
+materials/cyberspace/t_cyspwall1_red.vmt,68,68
+materials/cyberspace/t_cyspwall1_red.vtf,174984,174984
+materials/cyberspace/t_cyspwall1_red_a.vmt,98,98
+materials/cyberspace/wall_squaregrey.vmt,137,137
+materials/cyberspace/wall_squaregrey.vtf,87600,87600
+materials/skybox/mpa52bk.vmt,84,84
+materials/skybox/mpa52bk.vtf,699272,699272
+materials/skybox/mpa52dn.vmt,84,84
+materials/skybox/mpa52dn.vtf,699272,699272
+materials/skybox/mpa52ft.vmt,84,84
+materials/skybox/mpa52ft.vtf,699272,699272
+materials/skybox/mpa52lf.vmt,84,84
+materials/skybox/mpa52lf.vtf,699272,699272
+materials/skybox/mpa52rt.vmt,84,84
+materials/skybox/mpa52rt.vtf,699272,699272
+materials/skybox/mpa52up.vmt,84,84
+materials/skybox/mpa52up.vtf,699272,699272
+materials/texture/Texture_grise.vmt,99,99
+materials/texture/Texture_grise.vtf,2976,2976
+materials/texture_2e_map/carrelage_argent.vmt,103,103
+materials/texture_2e_map/carrelage_argent.vtf,175008,175008
+materials/texture_2e_map/carrelage_brun.vmt,101,101
+materials/texture_2e_map/carrelage_brun.vtf,175008,175008
+materials/texture_2e_map/carrelage_gris.vmt,99,99
+materials/texture_2e_map/carrelage_gris.vtf,175008,175008
+materials/texture_2e_map/carrelage_mur.vmt,98,98
+materials/texture_2e_map/carrelage_mur.vtf,175008,175008
+materials/texture_2e_map/carrelage_noir.vmt,101,101
+materials/texture_2e_map/carrelage_noir.vtf,175008,175008
+materials/texture_2e_map/checker.vmt,246,246
+materials/texture_2e_map/checker.vtf,349760,349760
+materials/texture_2e_map/ground01grass.vmt,95,95
+materials/texture_2e_map/ground01grass.VTF,174968,174968
+materials/texture_2e_map/map.vmt,127,127
+materials/texture_2e_map/map.vtf,1398296,1398296
+materials/texture_2e_map/normal.vtf,349760,349760
+materials/texture_2e_map/stonework01g.vmt,69,69
+materials/texture_2e_map/stonework01g.VTF,349744,349744
+materials/texture_2e_map/stonework01mossb.vmt,73,73
+materials/texture_2e_map/stonework01mossb.VTF,349744,349744
+scripts/soundscapes_bhop_toc.txt,584,584
+sound/ambient/sons_bhop_toc/CrashBandicoot.wav,6791550,6791550
+sound/ambient/sons_bhop_toc/CrashBandicootBonus.mp3,2763996,2763996
+sound/ambient/sons_bhop_toc/Domino.mp3,6825723,6825723
+sound/ambient/sons_bhop_toc/Flummifreuden.mp3,4898224,4898224

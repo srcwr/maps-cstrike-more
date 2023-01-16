@@ -1,0 +1,101 @@
+filename,size,compressed
+materials/maps/gg_inhell/cubemapdefault.vtf,9824,9824
+materials/maps/gg_inhell/c256_864_40.vtf,4952,4952
+materials/SILKROAD/FGWORLD/GATE09.vmt,95,95
+materials/Silkroad/FGWorld/gate09.vtf,174944,174944
+materials/SILKROAD/FGWORLD/TILE01.vmt,99,99
+materials/Silkroad/FGWorld/tile01.vtf,349760,349760
+materials/SILKROAD/FGWORLD/MAGMA.vmt,245,245
+materials/Silkroad/FGWorld/magma.vtf,349760,349760
+materials/SILKROAD/FGWORLD/RAIL01.vmt,95,95
+materials/Silkroad/FGWorld/rail01.vtf,174944,174944
+materials/SILKROAD/FGWORLD/MAGMA3.vmt,114,114
+materials/Silkroad/FGWorld/magma3.vtf,87616,87616
+materials/SILKROAD/FGWORLD/TILE04.vmt,95,95
+materials/Silkroad/FGWorld/tile04.vtf,349760,349760
+materials/SILKROAD/FGWORLD/STAIR01.vmt,96,96
+materials/Silkroad/FGWorld/stair01.vtf,87552,87552
+materials/SILKROAD/FGWORLD/WALL002.vmt,97,97
+materials/Silkroad/FGWorld/wall002.vtf,87616,87616
+materials/SILKROAD/FGWORLD/BLOCK04.vmt,97,97
+materials/Silkroad/FGWorld/block04.vtf,174944,174944
+materials/TUTORIAL/CARPET_RED.vmt,133,133
+materials/tutorial/carpet_red.vtf,87544,87544
+materials/SILKROAD/FGWORLD/WALL003.vmt,97,97
+materials/Silkroad/FGWorld/wall003.vtf,87616,87616
+materials/SILKROAD/FGWORLD/WINDOW01.vmt,117,117
+materials/Silkroad/FGWorld/window01.vtf,87616,87616
+materials/SILKROAD/FGWORLD/MAGMA06.vmt,96,96
+materials/Silkroad/FGWorld/magma06.vtf,349760,349760
+materials/SILKROAD/FGWORLD/MAGMA2.vmt,95,95
+materials/Silkroad/FGWorld/magma2.vtf,87616,87616
+materials/SILKROAD/FGWORLD/CEILING1.vmt,97,97
+materials/Silkroad/FGWorld/ceiling1.vtf,349760,349760
+materials/SILKROAD/FGWORLD/FLAMEWALL02.vmt,100,100
+materials/Silkroad/FGWorld/flamewall02.vtf,349760,349760
+materials/SILKROAD/FGWORLD/ROCKS01.vmt,96,96
+materials/Silkroad/FGWorld/rocks01.vtf,349760,349760
+materials/SILKROAD/FGWORLD/DOOR01.vmt,96,96
+materials/Silkroad/FGWorld/door01.vtf,174944,174944
+materials/SILKROAD/FGWORLD/GROUND1.vmt,96,96
+materials/Silkroad/FGWorld/ground1.vtf,349760,349760
+materials/SILKROAD/FGWORLD/WALL02.vmt,95,95
+materials/Silkroad/FGWorld/wall02.vtf,349760,349760
+materials/SILKROAD/FGWORLD/ROCKS02.vmt,96,96
+materials/Silkroad/FGWorld/rocks02.vtf,349760,349760
+materials/SILKROAD/FGWORLD/WALL01.vmt,95,95
+materials/Silkroad/FGWorld/wall01.vtf,349760,349760
+materials/SILKROAD/FGWORLD/COW02.vmt,94,94
+materials/Silkroad/FGWorld/cow02.vtf,349760,349760
+materials/SILKROAD/FGWORLD/GATE13.vmt,96,96
+materials/Silkroad/FGWorld/gate13.vtf,87616,87616
+materials/SILKROAD/FGWORLD/MAGMA7.vmt,95,95
+materials/Silkroad/FGWorld/magma7.vtf,349760,349760
+materials/SILKROAD/FGWORLD/TILE03.vmt,95,95
+materials/Silkroad/FGWorld/tile03.vtf,174944,174944
+materials/SILKROAD/FGWORLD/TILE02.vmt,99,99
+materials/Silkroad/FGWorld/tile02.vtf,349760,349760
+materials/SILKROAD/CHINA/CHINA_WALL_DOOR.vmt,97,97
+materials/Silkroad/China/china_wall_door.vtf,174944,174944
+materials/SILKROAD/EGYPT/GROUND (24).vmt,93,93
+materials/SILKROAD/EGYPT/ROOF (3).vmt,90,90
+materials/SILKROAD/EGYPT/WALL (112).vmt,92,92
+materials/SILKROAD/FGWORLD/BLOCK08.vmt,96,96
+materials/Silkroad/FGWorld/block08.vtf,349760,349760
+materials/SILKROAD/EGYPT/GROUND (18).vmt,74,74
+materials/NESH_TEXTURES/PANEL_NESH.vmt,136,136
+materials/nesh_textures/panel_nesh.vtf,349760,349760
+materials/SILKROAD/CHINA/JINSI_FLOOR1_J_BRIDGE_WALL03.vmt,110,110
+materials/Silkroad/China/jinsi_floor1_j_bridge_wall03.vtf,43872,43872
+materials/SILKROAD/FGWORLD/FLAG.vmt,88,88
+materials/Silkroad/FGWorld/flag.vtf,174944,174944
+materials/zeromapping/raccoon.vmt,313,313
+materials/zeromapping/raccoon.vtf,87616,87616
+materials/nesh_textures/pent_aren2.vmt,180,180
+materials/nesh_textures/pent_aren2.vtf,1398336,1398336
+materials/de_train/train_cement_stain_01.vmt,138,138
+materials/de_train/train_cement_stain_01.vtf,349744,349744
+materials/decals/infstains01.vmt,126,126
+materials/decals/infstains01.vtf,174928,174928
+materials/decals/infstains.vmt,85,85
+materials/decals/infstains.vtf,349744,349744
+models/props/de_cbble/cb_doorhalf32.mdl,1452,1452
+models/props/de_cbble/cb_doorhalf32.dx80.vtx,3333,3333
+models/props/de_cbble/cb_doorhalf32.dx90.vtx,3333,3333
+models/props/de_cbble/cb_doorhalf32.sw.vtx,3333,3333
+models/props/de_cbble/cb_doorhalf32.phy,2930,2930
+models/props/de_cbble/cb_doorhalf32.vvd,15168,15168
+materials/models/de_cbble/doorarch.vmt,94,94
+materials/models/de_cbble/doorarch.vtf,174968,174968
+maps/gg_inhell.nav,602285,602285
+maps/soundcache/gg_inhell.cache,16,16
+scripts/soundscapes_gg_inhell.txt,798,798
+sound/ambient/wind/lightwind.wav,200100,200100
+materials/Silkroad/Egypt/ground (18).vmt,74,74
+materials/Silkroad/Egypt/ground (18).vtf,87616,87616
+materials/Silkroad/Egypt/ground (24).vmt,93,93
+materials/Silkroad/Egypt/ground (24).vtf,87616,87616
+materials/Silkroad/Egypt/wall (112).vmt,92,92
+materials/Silkroad/Egypt/wall (112).vtf,43872,43872
+materials/Silkroad/Egypt/roof (3).vmt,90,90
+materials/Silkroad/Egypt/roof (3).vtf,87616,87616

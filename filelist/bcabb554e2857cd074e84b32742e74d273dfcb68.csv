@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/fy_killarena/tile/tilefloor010a_-992_120_560.vmt,131,131
+materials/maps/fy_killarena/tile/tilefloor010a_992_-120_560.vmt,131,131
+materials/maps/fy_killarena/metal/chromel001_-992_120_560.vmt,129,129
+materials/maps/fy_killarena/metal/chromel001_992_-120_560.vmt,129,129
+materials/maps/fy_killarena/effects/combineshield/comshieldwall2_-992_120_560.vmt,172,172
+materials/maps/fy_killarena/effects/combineshield/comshieldwall2_992_-120_560.vmt,172,172
+materials/maps/fy_killarena/cubemapdefault.vtf,9824,9824
+materials/maps/fy_killarena/c-992_120_560.vtf,9824,9824
+materials/maps/fy_killarena/c992_-120_560.vtf,9824,9824
+materials/maps/fy_killarena/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/fy_killarena/c-992_120_560.hdr.vtf,76520,76520
+materials/maps/fy_killarena/c992_-120_560.hdr.vtf,76520,76520

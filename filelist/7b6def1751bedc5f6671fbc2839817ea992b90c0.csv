@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/surf_matrix_v7/models/props_combine/citadel_cable_0_0_0.vmt,142,142
+materials/maps/surf_matrix_v7/models/props/de_nuke/light_red1_glass_0_0_0.vmt,145,145
+materials/maps/surf_matrix_v7/glass/unbreakable_0_0_0.vmt,125,125
+materials/maps/surf_matrix_v7/glass/glasswindow070c_0_0_0.vmt,129,129
+materials/maps/surf_matrix_v7/nature/water_movingplane_depth_21.vmt,111,111
+materials/maps/surf_matrix_v7/nature/water_movingplane_depth_8.vmt,110,110
+materials/maps/surf_matrix_v7/nature/water_movingplane_depth_91.vmt,111,111
+materials/maps/surf_matrix_v7/nature/water_movingplane_depth_16.vmt,111,111
+materials/maps/surf_matrix_v7/nature/water_movingplane_depth_13.vmt,111,111
+materials/maps/surf_matrix_v7/nature/water_movingplane_depth_15.vmt,111,111
+materials/maps/surf_matrix_v7/liquids/water_dx70_opaq_depth_18376.vmt,113,113
+materials/maps/surf_matrix_v7/cubemapdefault.vtf,7248,7248
+materials/maps/surf_matrix_v7/c0_0_0.vtf,7248,7248
+materials/CUSTOMMATERIALS/MATRIXCODE.vmt,312,312
+materials/custommaterials/matrixcode.vtf,524640,524640
+maps/soundcache/surf_matrix_v7.cache,1279971,1279971

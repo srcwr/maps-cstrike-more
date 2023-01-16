@@ -1,0 +1,117 @@
+filename,size,compressed
+materials/maps/projetbob2save2ddq/glass/combineglass001a_0_0_0.vmt,134,134
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_12.vmt,101,101
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_10.vmt,101,101
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_30.vmt,101,101
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_31.vmt,101,101
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_112.vmt,102,102
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_223.vmt,102,102
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_11.vmt,101,101
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_83.vmt,101,101
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_15.vmt,101,101
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_3.vmt,100,100
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_5.vmt,100,100
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_8.vmt,100,100
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_-1731.vmt,104,104
+materials/maps/projetbob2save2ddq/dev/dev_water4_depth_15427.vmt,104,104
+materials/maps/projetbob2save2ddq/cubemapdefault.vtf,4960,4960
+materials/maps/projetbob2save2ddq/c0_0_0.vtf,4960,4960
+materials/maps/projetbob2save2ddq/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/projetbob2save2ddq/c0_0_0.hdr.vtf,76528,76528
+materials/COLORS_PACK/WHITE.vmt,65,65
+materials/colors_pack/white.vtf,11144,11144
+materials/COLORS_PACK/BLACK.vmt,65,65
+materials/colors_pack/black.vtf,11144,11144
+materials/WATERFALL/WATERFALLFULL_1024_CLEAR.vmt,252,252
+materials/waterfall/WaterfallFULL_1024_CLEAR.vtf,1398336,1398336
+materials/COLORS_PACK/COLORS_PACK/WHITE.vmt,65,65
+materials/COLORS_PACK/COLORS_PACK/GREEN.vmt,65,65
+materials/colors_pack/green.vtf,11144,11144
+materials/SARDOX/BROKENA.vmt,106,106
+materials/Sardox/BrokenA.vtf,174984,174984
+materials/MAPOCALYPSE/BANNERWEBSITE.vmt,73,73
+materials/Mapocalypse/bannerwebsite.vtf,174944,174944
+materials/skybox/mpa115up.vmt,92,92
+materials/skybox/mpa115up.vtf,699272,699272
+materials/skybox/mpa115dn.vmt,92,92
+materials/skybox/mpa115dn.vtf,699272,699272
+materials/skybox/mpa115ft.vmt,92,92
+materials/skybox/mpa115ft.vtf,699272,699272
+materials/skybox/mpa115bk.vmt,92,92
+materials/skybox/mpa115bk.vtf,699272,699272
+materials/skybox/mpa115lf.vmt,92,92
+materials/skybox/mpa115lf.vtf,699272,699272
+materials/skybox/mpa115rt.vmt,92,92
+materials/skybox/mpa115rt.vtf,699272,699272
+models/player/gladosp.mdl,31268,31268
+models/player/gladosp.dx80.vtx,301465,301465
+models/player/gladosp.dx90.vtx,300481,300481
+models/player/gladosp.sw.vtx,299297,299297
+models/player/gladosp.phy,27937,27937
+models/player/gladosp.vvd,1095232,1095232
+sound/sardox/cmon.wav,18646550,18646550
+maps/soundcache/projetbob2save2ddq.cache,16,16
+materials/GlaDOS/01_skin.vmt,108,108
+materials/GlaDOS/01_skin.vtf,43912,43912
+materials/GlaDOS/anger core light.vtf,174984,174984
+materials/GlaDOS/anger core.vmt,176,176
+materials/GlaDOS/anger core.vtf,174984,174984
+materials/GlaDOS/black.vmt,106,106
+materials/GlaDOS/black.vtf,392,392
+materials/GlaDOS/black_00_00_00.vtf,392,392
+materials/GlaDOS/boots.vmt,106,106
+materials/GlaDOS/boots.vtf,43912,43912
+materials/GlaDOS/core blue big light.vtf,174984,174984
+materials/GlaDOS/core blue big.vmt,183,183
+materials/GlaDOS/core blue big.vtf,174984,174984
+materials/GlaDOS/core blue light.vtf,174984,174984
+materials/GlaDOS/core blue.vmt,176,176
+materials/GlaDOS/core blue.vtf,174984,174984
+materials/GlaDOS/dark_gray.vmt,110,110
+materials/GlaDOS/dark_gray.vtf,392,392
+materials/GlaDOS/eyeball_l.vmt,1476,1476
+materials/GlaDOS/eyeball_l.vtf,43912,43912
+materials/GlaDOS/eyeball_r.vmt,1478,1478
+materials/GlaDOS/eyeball_r.vtf,43912,43912
+materials/GlaDOS/eyeshadow.vmt,110,110
+materials/GlaDOS/eyeshadow.vtf,392,392
+materials/GlaDOS/face.vmt,105,105
+materials/GlaDOS/face.vtf,43912,43912
+materials/GlaDOS/fuku.vmt,105,105
+materials/GlaDOS/fuku.vtf,43912,43912
+materials/GlaDOS/giza.vmt,128,128
+materials/GlaDOS/giza.vtf,22008,22008
+materials/GlaDOS/gray.vmt,105,105
+materials/GlaDOS/gray.vtf,392,392
+materials/GlaDOS/hair.vmt,105,105
+materials/GlaDOS/hair.vtf,392,392
+materials/GlaDOS/hilight.vmt,150,150
+materials/GlaDOS/hitomi.vmt,107,107
+materials/GlaDOS/hitomi.vtf,392,392
+materials/GlaDOS/iris_l.vtf,349760,349760
+materials/GlaDOS/iris_r.vtf,349760,349760
+materials/GlaDOS/kousai.vmt,107,107
+materials/GlaDOS/kousai.vtf,392,392
+materials/GlaDOS/matsuge.vmt,108,108
+materials/GlaDOS/matsuge.vtf,392,392
+materials/GlaDOS/mouth.vmt,106,106
+materials/GlaDOS/mouth.vtf,392,392
+materials/GlaDOS/pants.vmt,106,106
+materials/GlaDOS/pants.vtf,392,392
+materials/GlaDOS/pink.vmt,105,105
+materials/GlaDOS/pink.vtf,392,392
+materials/GlaDOS/question core light.vtf,174984,174984
+materials/GlaDOS/question core.vmt,184,184
+materials/GlaDOS/question core.vtf,174984,174984
+materials/GlaDOS/sirome.vmt,107,107
+materials/GlaDOS/sirome.vtf,392,392
+materials/GlaDOS/skin.vmt,105,105
+materials/GlaDOS/skin.vtf,392,392
+materials/GlaDOS/sode.vmt,105,105
+materials/GlaDOS/sode.vtf,43912,43912
+materials/GlaDOS/tan.vmt,104,104
+materials/GlaDOS/tan.vtf,392,392
+materials/GlaDOS/teeth.vmt,106,106
+materials/GlaDOS/teeth.vtf,392,392
+materials/GlaDOS/tongue.vmt,107,107
+materials/GlaDOS/tongue.vtf,392,392

@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/de_orchid_beta/wood/woodfloor007a_0_0_0.vmt,126,126
+materials/maps/de_orchid_beta/concrete/concretefloor005a_0_0_0.vmt,134,134
+materials/maps/de_orchid_beta/de_piranesi/woodfloor01_0_0_0.vmt,131,131
+materials/maps/de_orchid_beta/glass/glasswindowbreak070a_0_0_0.vmt,134,134
+materials/maps/de_orchid_beta/metal/prodventa_0_0_0.vmt,123,123
+materials/maps/de_orchid_beta/dev/dev_water2_depth_14.vmt,101,101
+materials/maps/de_orchid_beta/dev/dev_water2_depth_8.vmt,100,100
+materials/maps/de_orchid_beta/dev/dev_water2_depth_28.vmt,101,101
+materials/maps/de_orchid_beta/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/de_orchid_beta/dev/dev_water2_depth_17.vmt,101,101
+materials/maps/de_orchid_beta/liquids/militiawater_dx70_beneath_depth_8.vmt,119,119
+materials/maps/de_orchid_beta/cubemapdefault.vtf,9824,9824
+materials/maps/de_orchid_beta/c0_0_0.vtf,9824,9824
+maps/de_orchid_beta.nav,759554,759554
+maps/soundcache/de_orchid_beta.cache,16,16

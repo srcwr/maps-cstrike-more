@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/aim_water_tower/glass/combineglass001a_552_-904_168.vmt,138,138
+materials/maps/aim_water_tower/glass/combineglass001a_552_-128_168.vmt,138,138
+materials/maps/aim_water_tower/metal/citadel_tilefloor016a_cheap_552_-904_168.vmt,149,149
+materials/maps/aim_water_tower/metal/citadel_tilefloor016a_cheap_552_-128_168.vmt,149,149
+materials/maps/aim_water_tower/nature/water_movingplane_dx70_depth_48.vmt,116,116
+materials/maps/aim_water_tower/cubemapdefault.vtf,9832,9832
+materials/maps/aim_water_tower/c552_-904_168.vtf,9832,9832
+materials/maps/aim_water_tower/c552_-128_168.vtf,9832,9832
+materials/maps/aim_water_tower/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_water_tower/c552_-904_168.hdr.vtf,76528,76528
+materials/maps/aim_water_tower/c552_-128_168.hdr.vtf,76528,76528

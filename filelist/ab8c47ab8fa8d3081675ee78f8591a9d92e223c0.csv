@@ -1,0 +1,39 @@
+filename,size,compressed
+materials/maps/shooting_range/tile/tilefloor010a_-176_-456_-240.vmt,135,135
+materials/maps/shooting_range/tile/tilefloor010a_280_-432_-240.vmt,134,134
+materials/maps/shooting_range/de_piranesi/marblefloor04_-176_-456_-240.vmt,142,142
+materials/maps/shooting_range/de_piranesi/marblefloor04_280_-432_-240.vmt,141,141
+materials/maps/shooting_range/glass/combineglass001a_-176_-456_-240.vmt,139,139
+materials/maps/shooting_range/glass/glasswindowbreak070a_-176_-456_-240.vmt,143,143
+materials/maps/shooting_range/glass/glasswindowbreak070a_280_-432_-240.vmt,142,142
+materials/maps/shooting_range/cubemapdefault.vtf,9824,9824
+materials/maps/shooting_range/c-176_-456_-240.vtf,9824,9824
+materials/maps/shooting_range/c280_-432_-240.vtf,9824,9824
+materials/dev_entity.vmt,56,56
+materials/dev_entity.vtf,65743,65743
+materials/dev_wallblue.vmt,58,58
+materials/dev_wallblue.vtf,65743,65743
+materials/killers tp/brick/killerbrick01.vmt,103,103
+materials/killers tp/brick/killerbrick01.vtf,174984,174984
+materials/killers tp/concrete/killerconcrete03.vmt,112,112
+materials/killers tp/concrete/killerconcrete03.vtf,174984,174984
+materials/killers tp/concrete/killerconcrete18.vmt,112,112
+materials/killers tp/concrete/killerconcrete18.vtf,349688,349688
+materials/killers tp/other/killerother02.vmt,149,149
+materials/killers tp/other/killerother02.vtf,699272,699272
+materials/killers tp/plastic/killerplastic01.vmt,112,112
+materials/killers tp/plastic/killerplastic01.vtf,349688,349688
+materials/killers tp/plastic/killerplastic06.vmt,112,112
+materials/killers tp/plastic/killerplastic06.vtf,174984,174984
+materials/signage/clock/clock_centiseconds.vmt,458,458
+materials/signage/clock/clock_dots.vmt,139,139
+materials/signage/clock/clock_dots.vtf,1528,1528
+materials/signage/clock/clock_milliseconds.vmt,466,466
+materials/signage/clock/clock_minutes.vmt,322,322
+materials/signage/clock/clock_minutes.vtf,22080,22080
+materials/signage/clock/clock_seconds.vmt,341,341
+materials/signage/clock/clock_seconds.vtf,1312528,1312528
+materials/signage/clock/Countdown.vtf,656368,656368
+materials/signage/clock/Countdown_blurred.vtf,109568,109568
+sound/rangeshot/startrange.wav,420374,420374
+sound/rangeshot/stoprange.wav,869468,869468

@@ -1,0 +1,71 @@
+filename,size,compressed
+materials/maps/cs 1/dev/dev_water2_-96_-13436_-464.vmt,145,145
+materials/maps/cs 1/dev/dev_water2_-96_-12394_-464.vmt,145,145
+materials/maps/cs 1/dev/dev_water2_-96_-11171_-464.vmt,145,145
+materials/maps/cs 1/dev/dev_water2_-96_-9635_-464.vmt,144,144
+materials/maps/cs 1/dev/dev_water2_-96_-8232_-464.vmt,144,144
+materials/maps/cs 1/dev/dev_water2_-96_-6812_-464.vmt,144,144
+materials/maps/cs 1/metal/citadel_tilefloor016a_-96_-5271_-464.vmt,134,134
+materials/maps/cs 1/dev/dev_water2_-96_-5271_-464.vmt,144,144
+materials/maps/cs 1/dev/dev_water2_-96_-14448_-464.vmt,145,145
+materials/maps/cs 1/metal/citadel_tilefloor016a_-96_-14448_-464.vmt,135,135
+materials/maps/cs 1/glass/glasswindowbreak070b_-96_-14448_-464.vmt,114,114
+materials/maps/cs 1/glass/offwndwb_-96_-14448_-464.vmt,198,198
+materials/maps/cs 1/maps/cs 1/dev/dev_water2_-96_-14448_-464_depth_16.vmt,127,127
+materials/maps/cs 1/maps/cs 1/dev/dev_water2_-96_-13436_-464_depth_16.vmt,127,127
+materials/maps/cs 1/maps/cs 1/dev/dev_water2_-96_-12394_-464_depth_16.vmt,127,127
+materials/maps/cs 1/maps/cs 1/dev/dev_water2_-96_-11171_-464_depth_16.vmt,127,127
+materials/maps/cs 1/maps/cs 1/dev/dev_water2_-96_-9635_-464_depth_16.vmt,126,126
+materials/maps/cs 1/maps/cs 1/dev/dev_water2_-96_-8232_-464_depth_16.vmt,126,126
+materials/maps/cs 1/maps/cs 1/dev/dev_water2_-96_-6812_-464_depth_16.vmt,126,126
+materials/maps/cs 1/maps/cs 1/dev/dev_water2_-96_-5271_-464_depth_16.vmt,126,126
+materials/maps/cs 1/cubemapdefault.vtf,4960,4960
+materials/maps/cs 1/c-96_-13436_-464.vtf,4960,4960
+materials/maps/cs 1/c-96_-12394_-464.vtf,4960,4960
+materials/maps/cs 1/c-96_-11171_-464.vtf,4960,4960
+materials/maps/cs 1/c-96_-9635_-464.vtf,4960,4960
+materials/maps/cs 1/c-96_-8232_-464.vtf,4960,4960
+materials/maps/cs 1/c-96_-6812_-464.vtf,4960,4960
+materials/maps/cs 1/c-96_-5271_-464.vtf,4960,4960
+materials/maps/cs 1/c-96_-14448_-464.vtf,4960,4960
+materials/maps/cs 1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cs 1/c-96_-13436_-464.hdr.vtf,76528,76528
+materials/maps/cs 1/c-96_-12394_-464.hdr.vtf,76528,76528
+materials/maps/cs 1/c-96_-11171_-464.hdr.vtf,76528,76528
+materials/maps/cs 1/c-96_-9635_-464.hdr.vtf,76528,76528
+materials/maps/cs 1/c-96_-8232_-464.hdr.vtf,76528,76528
+materials/maps/cs 1/c-96_-6812_-464.hdr.vtf,76528,76528
+materials/maps/cs 1/c-96_-5271_-464.hdr.vtf,76528,76528
+materials/maps/cs 1/c-96_-14448_-464.hdr.vtf,76528,76528
+materials/snowfix/snowfloor002aGmod.vmt,73,73
+materials/snowfix/snowfloor002aGmod.vtf,174968,174968
+materials/REAL_METAL/METAL_BLUE1.vmt,95,95
+materials/REAL_METAL/metal_blue1.vtf,699272,699272
+materials/REAL_METAL/METAL_BROWN.vmt,96,96
+materials/REAL_METAL/metal_brown.vtf,699272,699272
+materials/REAL_METAL/METAL_YELLOW.vmt,96,96
+materials/REAL_METAL/metal_yellow.vtf,699272,699272
+materials/REAL_METAL/METAL_GREEN.vmt,95,95
+materials/REAL_METAL/metal_green.vtf,699272,699272
+materials/SILKROAD/FGWORLD/ICE2.vmt,92,92
+materials/SILKROAD/FGWORLD/ice2.vtf,349760,349760
+materials/SILKROAD/FGWORLD/ICE8.vmt,92,92
+materials/SILKROAD/FGWORLD/ice8.vtf,349760,349760
+materials/REALISTICWALLSANDFLOORS/CARPET/CARPETFLOORBLUE.vmt,94,94
+materials/REALISTICWALLSANDFLOORS/CARPET/carpetfloorblue.vtf,43912,43912
+materials/SILKROAD/FGWORLD/ICE4.vmt,92,92
+materials/SILKROAD/FGWORLD/ice4.vtf,87616,87616
+materials/SILKROAD/FGWORLD/ICE7.vmt,92,92
+materials/SILKROAD/FGWORLD/ice7.vtf,349760,349760
+materials/skybox/sky41up.vmt,88,88
+materials/skybox/sky41up.vtf,699272,699272
+materials/skybox/sky41dn.vmt,88,88
+materials/skybox/sky41dn.vtf,699272,699272
+materials/skybox/sky41lf.vmt,88,88
+materials/skybox/sky41lf.vtf,699272,699272
+materials/skybox/sky41rt.vmt,88,88
+materials/skybox/sky41rt.vtf,699272,699272
+materials/skybox/sky41ft.vmt,88,88
+materials/skybox/sky41ft.vtf,699272,699272
+materials/skybox/sky41bk.vmt,88,88
+materials/skybox/sky41bk.vtf,699272,699272

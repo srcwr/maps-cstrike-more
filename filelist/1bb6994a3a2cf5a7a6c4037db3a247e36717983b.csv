@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/surf_jaqen2/devneons/white_neon_0_0_0.vmt,124,124
+materials/maps/surf_jaqen2/devneons/grey_neon_0_0_0.vmt,123,123
+materials/maps/surf_jaqen2/reacz/portal/dark/thin_framed/clean/small_clean (2)_0_0_0.vmt,156,156
+materials/maps/surf_jaqen2/cubemapdefault.vtf,28753,28753
+materials/maps/surf_jaqen2/c0_0_0.vtf,28753,28753
+materials/maps/surf_jaqen2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_jaqen2/c0_0_0.hdr.vtf,76528,76528
+materials/devneons/white_neon.vmt,177,177
+materials/devneons/white_neon.vtf,43912,43912
+materials/devneons/grey_neon.vmt,176,176
+materials/devneons/grey_neon.vtf,43912,43912
+materials/reacz/portal/dark/thin_framed/clean/small_clean (2).vmt,1460,1460
+materials/reacz/portal/dark/thin_framed/clean/small_clean.vtf,1398308,1398308
+materials/reacz/portal/dark/thin_framed/normals/clean/small_clean_nmap.vtf,1048783,1048783
+materials/reacz/detail/detail_metal_brushed.vtf,11168,11168
+materials/ryan_dev/dev_80.vmt,63,63
+materials/ryan_dev/dev_80.vtf,11144,11144
+materials/ryan_dev/80.vmt,59,59
+materials/ryan_dev/80.vtf,11144,11144
+materials/ryan_dev/10.vmt,59,59
+materials/ryan_dev/10.vtf,11144,11144
+materials/ryan_dev/40.vmt,59,59
+materials/ryan_dev/40.vtf,11144,11144
+materials/Custom/lines.vmt,79,79
+materials/Custom/lines.vtf,136,136
+materials/cs_italy/black.vmt,62,62
+materials/cs_italy/black.vtf,1584,1584
+materials/reacz/portal/light/clean/grey/medium_clean.vmt,922,922
+materials/reacz/portal/light/clean/grey/medium_clean.vtf,1398308,1398308
+materials/reacz/portal/light/normals/clean/medium_clean_nmap.vtf,1048783,1048783
+materials/reacz/detail/detail_concrete_03.vtf,174984,174984
+materials/Custom/jaqen2.vmt,82,82
+materials/Custom/jaqen2.vtf,349760,349760
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336

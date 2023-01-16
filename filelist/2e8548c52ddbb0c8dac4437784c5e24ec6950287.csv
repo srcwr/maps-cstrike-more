@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/bhop_64_64s/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_64_64s/cubemapdefault.hdr.vtf,76528,76528
+materials/skybox/Real_SkySunsetup.vmt,120,120
+materials/skybox/Real_SkySunsetup.vtf,1398208,1398208
+materials/skybox/Real_SkySunsetdn.vmt,120,120
+materials/skybox/Real_SkySunsetdn.vtf,1398208,1398208
+materials/skybox/Real_SkySunsetlf.vmt,120,120
+materials/skybox/Real_SkySunsetlf.vtf,1398208,1398208
+materials/skybox/Real_SkySunsetrt.vmt,120,120
+materials/skybox/Real_SkySunsetrt.vtf,1398208,1398208
+materials/skybox/Real_SkySunsetft.vmt,120,120
+materials/skybox/Real_SkySunsetft.vtf,1398208,1398208
+materials/skybox/Real_SkySunsetbk.vmt,120,120
+materials/skybox/Real_SkySunsetbk.vtf,1398208,1398208
+materials/detail/detailsprites.vmt,87,87
+materials/detail/detailsprites.vtf,1398360,1398360

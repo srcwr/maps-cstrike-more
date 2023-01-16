@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/surf_ghost/nature/sandfloor010a_0_0_0.vmt,124,124
+materials/maps/surf_ghost/metal/citadel_metalwall090a_0_0_0.vmt,131,131
+materials/maps/surf_ghost/metal/citadel_tilefloor016a_cheap_0_0_0.vmt,137,137
+materials/maps/surf_ghost/nature/water_lowmurkref_dx70_depth_32.vmt,115,115
+materials/maps/surf_ghost/dev/dev_water2_depth_53.vmt,101,101
+materials/maps/surf_ghost/nature/water_canals_water_murky_dx70_depth_16.vmt,123,123
+materials/maps/surf_ghost/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/surf_ghost/dev/dev_water2_depth_48.vmt,101,101
+materials/maps/surf_ghost/dev/dev_water2_depth_24.vmt,101,101
+materials/maps/surf_ghost/cubemapdefault.vtf,9824,9824
+materials/maps/surf_ghost/c0_0_0.vtf,9824,9824

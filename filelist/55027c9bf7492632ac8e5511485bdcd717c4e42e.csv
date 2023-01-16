@@ -1,0 +1,52 @@
+filename,size,compressed
+materials/maps/aim_wintermaze_2016_v1/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/aim_wintermaze_2016_v1/ground/blendsnow_conc_wvt_patch.vmt,91,91
+materials/maps/aim_wintermaze_2016_v1/ground/blendsnow_tracks_wvt_patch.vmt,87,87
+materials/maps/aim_wintermaze_2016_v1/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/aim_wintermaze_2016_v1/metal/citadel_metalwall076a_0_0_0.vmt,143,143
+materials/maps/aim_wintermaze_2016_v1/cubemapdefault.vtf,9832,9832
+materials/maps/aim_wintermaze_2016_v1/c0_0_0.vtf,9832,9832
+materials/maps/aim_wintermaze_2016_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_wintermaze_2016_v1/c0_0_0.hdr.vtf,76528,76528
+detail.vbsp,1013,1013
+maps/aim_wintermaze_2016_v1.txt,701,701
+resource/overviews/aim_wintermaze_2016_v1.txt,246,246
+resource/overviews/aim_wintermaze_2016_v1_radar.dds,3145856,3145856
+models/player/vad36gordon_hd/gordon.mdl,21404,21404
+models/player/vad36gordon_hd/gordon.dx80.vtx,98727,98727
+models/player/vad36gordon_hd/gordon.dx90.vtx,97162,97162
+models/player/vad36gordon_hd/gordon.phy,17336,17336
+models/player/vad36gordon_hd/gordon.sw.vtx,96722,96722
+models/player/vad36gordon_hd/gordon.vvd,363008,363008
+models/zm_2337/kran_base.mdl,2028,2028
+models/zm_2337/kran_base.dx80.vtx,183000,183000
+models/zm_2337/kran_base.dx90.vtx,183000,183000
+models/zm_2337/kran_base.phy,246828,246828
+models/zm_2337/kran_base.sw.vtx,183000,183000
+models/zm_2337/kran_base.vvd,931648,931648
+materials/rge_s/concretewall001a.vmt,112,112
+materials/rge_s/rost_kran.vmt,271,271
+materials/rge_s/rost_kran.vtf,699272,699272
+materials/rge_s/rost_kran_normal.vtf,699272,699272
+materials/rge_s/metalgrate011a.vmt,189,189
+materials/rge_s/metalgrate011a.vtf,349744,349744
+materials/rge_s/zink_cv.vmt,188,188
+materials/rge_s/zink_cv.vtf,699272,699272
+materials/rip hl/rip hl.vmt,125,125
+materials/rip hl/rip hl.vtf,349760,349760
+materials/map by/map by aim v1.vmt,139,139
+materials/map by/map by aim v1.vtf,699272,699272
+materials/skybox/snowyhillsbk.vmt,96,96
+materials/skybox/snowyhillsbk.vtf,1398208,1398208
+materials/skybox/snowyhillsdn.vmt,96,96
+materials/skybox/snowyhillsdn.vtf,1398208,1398208
+materials/skybox/snowyhillsft.vmt,96,96
+materials/skybox/snowyhillsft.vtf,1398208,1398208
+materials/skybox/snowyhillslf.vmt,96,96
+materials/skybox/snowyhillslf.vtf,1398208,1398208
+materials/skybox/snowyhillsrt.vmt,96,96
+materials/skybox/snowyhillsrt.vtf,1398208,1398208
+materials/skybox/snowyhillsup.vmt,96,96
+materials/skybox/snowyhillsup.vtf,1398208,1398208
+materials/overviews/aim_wintermaze_2016_v1.vmt,296,296
+materials/overviews/aim_wintermaze_2016_v1.vtf,1398336,1398336

@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/$2017$/de_chateau/interiortile03_1184_-1472_416.vmt,134,134
+materials/maps/$2017$/plaster/plasterwall005c_c17_1184_-1472_416.vmt,175,175
+materials/maps/$2017$/plaster/plasterwall005c_c17_2336_-1472_416.vmt,175,175
+materials/maps/$2017$/de_chateau/interiortile03_2336_-1472_416.vmt,134,134
+materials/maps/$2017$/glass/combineglass001a_1184_-1472_416.vmt,131,131
+materials/maps/$2017$/glass/combineglass001a_2336_-1472_416.vmt,131,131
+materials/maps/$2017$/cubemapdefault.vtf,9832,9832
+materials/maps/$2017$/c1184_-1472_416.vtf,9832,9832
+materials/maps/$2017$/c2336_-1472_416.vtf,9832,9832
+materials/maps/$2017$/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/$2017$/c1184_-1472_416.hdr.vtf,76528,76528
+materials/maps/$2017$/c2336_-1472_416.hdr.vtf,76528,76528

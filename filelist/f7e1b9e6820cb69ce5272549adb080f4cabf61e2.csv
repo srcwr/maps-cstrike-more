@@ -1,0 +1,970 @@
+filename,size,compressed
+materials/maps/kz_adv_cursedjourney_close2/egypt/sand_floor_blend_04_wvt_patch.vmt,110,110
+materials/maps/kz_adv_cursedjourney_close2/egypt/sandripple_stone_blend_wvt_patch.vmt,110,110
+materials/maps/kz_adv_cursedjourney_close2/egypt/sand_stone_blend_wvt_patch.vmt,110,110
+materials/maps/kz_adv_cursedjourney_close2/egypt/sand_cliff_blend_01_wvt_patch.vmt,113,113
+materials/maps/kz_adv_cursedjourney_close2/nature/water_wasteland002c_424_-2312_4964.vmt,179,179
+materials/maps/kz_adv_cursedjourney_close2/nature/water_wasteland002c_7280_-6584_-13035.vmt,182,182
+materials/maps/kz_adv_cursedjourney_close2/maps/kz_adv_cursedjourney_close2/nature/water_wasteland002c_7280_-6584_-13035_depth_16.vmt,164,164
+materials/maps/kz_adv_cursedjourney_close2/maps/kz_adv_cursedjourney_close2/nature/water_wasteland002c_424_-2312_4964_depth_16.vmt,161,161
+materials/maps/kz_adv_cursedjourney_close2/maps/kz_adv_cursedjourney_close2/nature/water_wasteland002c_424_-2312_4964_depth_128.vmt,162,162
+materials/maps/kz_adv_cursedjourney_close2/maps/bhop_exodus/liquids/infernowater_4672_1632_1856_depth_32.vmt,139,139
+materials/maps/kz_adv_cursedjourney_close2/maps/bhop_exodus/liquids/infernowater_4672_1632_1856_depth_28.vmt,139,139
+materials/maps/kz_adv_cursedjourney_close2/maps/kz_adv_cursedjourney_close2/nature/water_wasteland002c_424_-2312_4964_depth_52.vmt,161,161
+materials/maps/kz_adv_cursedjourney_close2/maps/kz_adv_cursedjourney_close2/nature/water_wasteland002c_424_-2312_4964_depth_32.vmt,161,161
+materials/TOOLS/TOOLSPLAYERCLIP.vmt,323,323
+materials/TOOLS/toolsplayerclip.vtf,5680,5680
+materials/EGYPT/FLAT_WALL_03.vmt,134,134
+materials/EGYPT/flat_wall_03.vtf,699272,699272
+materials/EGYPT/flat_wall_normal.vtf,4194511,4194511
+materials/FRAGTEX/SPIDERSWEB.vmt,110,110
+materials/FRAGTEX/spidersweb.vtf,349760,349760
+materials/EGYPT/FLAT_WALL_SKINNY_02.vmt,148,148
+materials/EGYPT/flat_wall_skinny_02.vtf,43832,43832
+materials/EGYPT/flat_wall_skinny_01_normal.vtf,262261,262261
+materials/EGYPT/FLAT_WALL_02.vmt,130,130
+materials/EGYPT/flat_wall_02.vtf,699272,699272
+materials/EGYPT/HYRO_BORDER_BUMP_NEW.vmt,140,140
+materials/EGYPT/hyro_outdoors_01.vtf,174928,174928
+materials/EGYPT/hyro_border_03_normal.vtf,174928,174928
+materials/maps/BHOP_EXODUS/LIQUIDS/INFERNOWATER_4672_1632_1856.vmt,157,157
+materials/maps/BHOP_EXODUS/c4672_1632_1856.vtf,4952,4952
+materials/EGYPT/BUMPY_WALL_02.vmt,123,123
+materials/EGYPT/bumpy_wall_01.vtf,174984,174984
+materials/TOMB/SWIRLEDSANDBRICK2.vmt,91,91
+materials/TOMB/SwirledSandbrick2.vtf,174984,174984
+materials/EGYPT/GROUND_BRICK_01.vmt,93,93
+materials/EGYPT/ground_brick_01.vtf,174984,174984
+materials/EGYPT/BUMPY_WALL_01.vmt,95,95
+materials/EGYPT/NOFLAT_WALL_02.vmt,132,132
+materials/EGYPT/noflat_wall_normal.vtf,1048783,1048783
+materials/WOOD/HOUSECEILING01.vmt,91,91
+materials/WOOD/HOUSECEILING01.vtf,174984,174984
+materials/GIZA/STONE-BLOCK.vmt,94,94
+materials/GIZA/stone-block.vtf,174968,174968
+materials/EGYPT/SMALLER_FLAT_EDGE_BORDER_01.vmt,167,167
+materials/EGYPT/smaller_flat_edge_border_01.vtf,22008,22008
+materials/EGYPT/smaller_flat_edge_border_01_normal.vtf,131197,131197
+materials/EGYPT/FLAT_WALL_SKINNY_01.vmt,148,148
+materials/EGYPT/flat_wall_skinny_01.vtf,43832,43832
+materials/EGYPT/STONE_FLOOR_01.vmt,96,96
+materials/EGYPT/stone_floor_01.vtf,699272,699272
+materials/TOOLS/TOOLSBLACK.vmt,168,168
+materials/TOOLS/toolsblack.vtf,2936,2936
+materials/NATURE/ROCKWALL004.vmt,286,286
+materials/NATURE/rockwall004.vtf,1398296,1398296
+materials/NATURE/rockwall004_bump-ssbump.vtf,1398296,1398296
+materials/overlays/detail004.vtf,699304,699304
+materials/EGYPT/SMALLER_LINED_EDGE_BORDER_01.vmt,168,168
+materials/EGYPT/smaller_lined_edge_border_01.vtf,22008,22008
+materials/GIZA/SANDRIPPLE.vmt,89,89
+materials/GIZA/sandripple.vtf,174968,174968
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/EGYPT/HYRO_03.vmt,143,143
+materials/EGYPT/hyro_flat_outdoors_01.vtf,175008,175008
+materials/EGYPT/hyro_wall_normal.vtf,175008,175008
+materials/METAL/METAL_EXT_04.vmt,91,91
+materials/METAL/METAL_EXT_04.vtf,174984,174984
+materials/HALFLIFE/BLACK.vmt,129,129
+materials/HALFLIFE/black.vtf,888,888
+materials/WATERSOURCE/WATERFALL/WATERFALLFULL_512_CLEAR.vmt,263,263
+materials/WATERSOURCE/WATERFALL/WaterfallFULL_512_CLEAR.vtf,349760,349760
+materials/KARNAK/SAND2.vmt,87,87
+materials/KARNAK/sand2.vtf,174968,174968
+materials/DOJO/WOOD_VERTICAL.vmt,131,131
+materials/DOJO/wood_vertical.vtf,131280,131280
+materials/DOJO/wood_vertical_normal.vtf,786640,786640
+materials/HALFLIFE/{LADDER2.vmt,159,159
+materials/HALFLIFE/{ladder2.vtf,1584,1584
+materials/EGYPT/BARBED_WIRE_FENCE_01.vmt,137,137
+materials/EGYPT/barbed_wire_fence_01.vtf,349760,349760
+materials/EGYPT/SAND_FLOOR_BLEND_04.vmt,275,275
+materials/EGYPT/sand_floor_05.vtf,699272,699272
+materials/EGYPT/sand_floor_04.vtf,699272,699272
+materials/concrete/concretefloor007_height-ssbump.vtf,699304,699304
+materials/EGYPT/SANDRIPPLE_STONE_BLEND.vmt,153,153
+materials/GIZA/sandsmooth.vtf,174968,174968
+materials/GIZA/SANDSMOOTH.vmt,132,132
+materials/GIZA/sandsmooth_normal.vtf,174968,174968
+materials/EGYPT/SAND_STONE_BLEND.vmt,151,151
+materials/EGYPT/SAND_CLIFF_BLEND_01.vmt,211,211
+materials/NATURE/Cliff_terrain03.vtf,699304,699304
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/KZ_OVI_RATS/SPIDERWEB.vmt,140,140
+materials/KZ_OVI_RATS/spiderweb.vtf,349732,349732
+materials/CURSEDJOURNEY/CREDSCURS.vmt,71,71
+materials/CURSEDJOURNEY/credscurs.vtf,174944,174944
+materials/TIMER_SWT/DIGITS.vmt,236,236
+materials/TIMER_SWT/digits.vtf,55088,55088
+materials/WATERSOURCE/WATERFALL/WATERFALLFULL_1024_CLEAR.vmt,264,264
+materials/WATERSOURCE/WATERFALL/WaterfallFULL_1024_CLEAR.vtf,1398336,1398336
+materials/WATERSOURCE/WATERFALL/WATERFALLHIGH.vmt,267,267
+materials/WATERSOURCE/WATERFALL/HighFall.vtf,174928,174928
+materials/TOOLS/TOOLSAREAPORTAL.vmt,288,288
+materials/TOOLS/toolsareaportal.vtf,5680,5680
+materials/KZ_DEBOD/2.vmt,87,87
+materials/KZ_DEBOD/2.vtf,11144,11144
+materials/KZ_DEBOD/9.vmt,87,87
+materials/KZ_DEBOD/9.vtf,11144,11144
+materials/KZ_DEBOD/1.vmt,87,87
+materials/KZ_DEBOD/1.vtf,11144,11144
+materials/KZ_DEBOD/4.vmt,87,87
+materials/KZ_DEBOD/4.vtf,11144,11144
+materials/KZ_DEBOD/0.vmt,87,87
+materials/KZ_DEBOD/0.vtf,11144,11144
+materials/KZ_DEBOD/6.vmt,87,87
+materials/KZ_DEBOD/6.vtf,11144,11144
+materials/KZ_DEBOD/5.vmt,87,87
+materials/KZ_DEBOD/5.vtf,11144,11144
+materials/KZ_DEBOD/8.vmt,87,87
+materials/KZ_DEBOD/8.vtf,11144,11144
+materials/KZ_DEBOD/3.vmt,87,87
+materials/KZ_DEBOD/3.vtf,11144,11144
+materials/EGYPT/FLAT_EDGE_BORDER_01.vmt,151,151
+materials/EGYPT/flat_edge_border_01.vtf,43832,43832
+materials/GIZA/STONE-BLOCKS-STAIN.vmt,101,101
+materials/GIZA/stone-blocks-stain.vtf,349760,349760
+materials/concrete/CONCRETEWALL_HANDLING01B_YELLOW.vmt,116,116
+materials/concrete/CONCRETEWALL_HANDLING01B_YELLOW.vtf,174984,174984
+materials/GIZA/STONE-BLOCKS.vmt,95,95
+materials/GIZA/stone-blocks.vtf,174968,174968
+materials/CRATES/CRATE_SEITE3.vmt,226,226
+materials/CRATES/crate_seite3.vtf,174984,174984
+materials/CRATES/crate_seite3_normal.vtf,174984,174984
+materials/CRATES/CRATE_SEITE4.vmt,203,203
+materials/CRATES/crate_seite4.vtf,174984,174984
+materials/CRATES/crate_seite4_normal.vtf,174984,174984
+materials/CRATES/CRATE_SEITE6.vmt,239,239
+materials/CRATES/crate_seite5.vtf,1398308,1398308
+materials/CRATES/crate_seite5_SSBump.vtf,174984,174984
+materials/CRATES/CRATE_SEITE2.vmt,203,203
+materials/CRATES/crate_seite2.vtf,174984,174984
+materials/CRATES/crate_seite2_normal.vtf,174984,174984
+materials/dev/dev_waterbeneath2.vmt,1105,1105
+materials/NATURE/water_dx70_beneath.vmt,1250,1250
+materials/dev/water.vtf,2535024,2535024
+materials/dev/water_dudv.vtf,5068290,5068290
+materials/dev/water_normal.vtf,10136388,10136388
+materials/decals/bombsite_right_arrow.vmt,147,147
+materials/decals/bombsite_right_arrow.vtf,43896,43896
+materials/decals/bombsite_left_arrow.vmt,146,146
+materials/decals/bombsite_left_arrow.vtf,43896,43896
+materials/decals/bombsite_x.vmt,137,137
+materials/decals/bombsite_x.vtf,349784,349784
+materials/overlays/lilly_01a.vmt,689,689
+materials/overlays/Lilly_01a.vtf,1398368,1398368
+materials/decals/bombsite_a.vmt,149,149
+materials/decals/bombsite_a.vtf,349744,349744
+materials/decals/bloodstain_003.vmt,98,98
+materials/decals/bloodstain_003.vtf,174888,174888
+materials/overlays/stain015.vmt,158,158
+materials/overlays/Stain015.vtf,1398368,1398368
+materials/overlays/stain016.vmt,158,158
+materials/overlays/Stain016.vtf,1398368,1398368
+materials/overlays/rug001a.vmt,96,96
+materials/overlays/rug001a.vtf,699216,699216
+models/egypt/wall_torch/wall_torch.mdl,1464,1464
+models/egypt/wall_torch/wall_torch.dx80.vtx,4992,4992
+models/egypt/wall_torch/wall_torch.dx90.vtx,4992,4992
+models/egypt/wall_torch/wall_torch.sw.vtx,4992,4992
+models/egypt/wall_torch/wall_torch.phy,703,703
+models/egypt/wall_torch/wall_torch.vvd,20480,20480
+materials/EGYPT/wall_torch/wall_torch_skin.vmt,91,91
+materials/EGYPT/wall_torch/wall_torch_skin.vtf,174984,174984
+models/egypt/palm_tree/palm_tree_medium.mdl,1460,1460
+models/egypt/palm_tree/palm_tree_medium.dx80.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_medium.dx90.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_medium.sw.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_medium.phy,1463,1463
+models/egypt/palm_tree/palm_tree_medium.vvd,87680,87680
+materials/EGYPT/palm_tree/palm_tree_Skin.vmt,89,89
+materials/EGYPT/palm_tree/palm_tree_skin.vtf,174984,174984
+models/egypt/stick_torch/stick_torch_big.mdl,1464,1464
+models/egypt/stick_torch/stick_torch_big.dx80.vtx,6810,6810
+models/egypt/stick_torch/stick_torch_big.dx90.vtx,6810,6810
+models/egypt/stick_torch/stick_torch_big.sw.vtx,6810,6810
+models/egypt/stick_torch/stick_torch_big.phy,1817,1817
+models/egypt/stick_torch/stick_torch_big.vvd,30848,30848
+materials/EGYPT/stick_torch/stick_torch_skin.vmt,93,93
+materials/EGYPT/stick_torch/stick_torch_skin.vtf,174984,174984
+models/egypt/pillar/pillar_big.mdl,1460,1460
+models/egypt/pillar/pillar_big.dx80.vtx,5391,5391
+models/egypt/pillar/pillar_big.dx90.vtx,5391,5391
+models/egypt/pillar/pillar_big.sw.vtx,5391,5391
+models/egypt/pillar/pillar_big.phy,8489,8489
+models/egypt/pillar/pillar_big.vvd,20416,20416
+materials/EGYPT/pillar/pillar_skin.vmt,83,83
+materials/EGYPT/pillar/pillar_skin.vtf,174984,174984
+models/egypt/pillar/pillar_medium.mdl,1460,1460
+models/egypt/pillar/pillar_medium.dx80.vtx,5391,5391
+models/egypt/pillar/pillar_medium.dx90.vtx,5391,5391
+models/egypt/pillar/pillar_medium.sw.vtx,5391,5391
+models/egypt/pillar/pillar_medium.phy,8489,8489
+models/egypt/pillar/pillar_medium.vvd,20416,20416
+models/egypt/pillar/pillar.mdl,1460,1460
+models/egypt/pillar/pillar.dx80.vtx,5391,5391
+models/egypt/pillar/pillar.dx90.vtx,5391,5391
+models/egypt/pillar/pillar.sw.vtx,5391,5391
+models/egypt/pillar/pillar.phy,8488,8488
+models/egypt/pillar/pillar.vvd,20416,20416
+models/egypt/palm_tree/palm_tree_big.mdl,1460,1460
+models/egypt/palm_tree/palm_tree_big.dx80.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_big.dx90.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_big.sw.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_big.phy,1463,1463
+models/egypt/palm_tree/palm_tree_big.vvd,87680,87680
+models/egypt/tent/tent.mdl,1452,1452
+models/egypt/tent/tent.dx80.vtx,7593,7593
+models/egypt/tent/tent.dx90.vtx,7593,7593
+models/egypt/tent/tent.sw.vtx,7593,7593
+models/egypt/tent/tent.phy,701,701
+models/egypt/tent/tent.vvd,31040,31040
+materials/EGYPT/tent/tent_skin.vmt,79,79
+materials/EGYPT/tent/tent_skin.vtf,699272,699272
+models/props_equipment/light_floodlight.mdl,2120,2120
+models/props_equipment/light_floodlight.dx80.vtx,47674,47674
+models/props_equipment/light_floodlight.dx90.vtx,47674,47674
+models/props_equipment/light_floodlight.phy,6718,6718
+models/props_equipment/light_floodlight.vvd,224896,224896
+models/props_urban/fence001_64.mdl,1724,1724
+models/props_urban/fence001_64.dx90.vtx,10767,10767
+models/props_urban/fence001_64.phy,715,715
+models/props_urban/fence001_64.vvd,48832,48832
+models/props_vehicles/floodlight_generator_pose02_static.mdl,1736,1736
+models/props_vehicles/floodlight_generator_pose02_static.dx90.vtx,79209,79209
+models/props_vehicles/floodlight_generator_pose02_static.phy,10969,10969
+models/props_vehicles/floodlight_generator_pose02_static.vvd,375872,375872
+models/kloetengott/spitzhacke.mdl,1444,1444
+models/kloetengott/spitzhacke.dx80.vtx,2040,2040
+models/kloetengott/spitzhacke.dx90.vtx,2040,2040
+models/kloetengott/spitzhacke.sw.vtx,2040,2040
+models/kloetengott/spitzhacke.phy,2229,2229
+models/kloetengott/spitzhacke.vvd,8448,8448
+materials/Kloetengott/Hacke.vmt,94,94
+materials/Kloetengott/hacke.vtf,174984,174984
+materials/skybox/sky_harvest_night_01up.vmt,169,169
+materials/skybox/sky_harvest_night_01up.vtf,4194535,4194535
+materials/skybox/sky_harvest_night_01up.vtf,4194535,4194535
+materials/skybox/sky_harvest_night_01dn.vmt,169,169
+materials/skybox/sky_harvest_night_01dn.vtf,1255,1255
+materials/skybox/sky_harvest_night_01dn.vtf,1255,1255
+materials/skybox/sky_harvest_night_01ft.vmt,241,241
+materials/skybox/sky_harvest_night_01ft.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01ft.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01bk.vmt,241,241
+materials/skybox/sky_harvest_night_01bk.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01bk.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01lf.vmt,241,241
+materials/skybox/sky_harvest_night_01lf.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01lf.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01rt.vmt,241,241
+materials/skybox/sky_harvest_night_01rt.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01rt.vtf,2097321,2097321
+materials/CURSEDJOURNEY/tape/longjumps.vmt,129,129
+materials/CURSEDJOURNEY/tape/longjumps.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/1nut.vmt,124,124
+materials/CURSEDJOURNEY/tape/1nut.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/chuck.vmt,125,125
+materials/CURSEDJOURNEY/tape/chuck.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/fafner.vmt,126,126
+materials/CURSEDJOURNEY/tape/fafner.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/frozen.vmt,126,126
+materials/CURSEDJOURNEY/tape/frozen.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/gym.vmt,123,123
+materials/CURSEDJOURNEY/tape/gym.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/joel.vmt,124,124
+materials/CURSEDJOURNEY/tape/joel.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/launders.vmt,128,128
+materials/CURSEDJOURNEY/tape/launders.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/panda.vmt,125,125
+materials/CURSEDJOURNEY/tape/panda.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/spherix.vmt,127,127
+materials/CURSEDJOURNEY/tape/spherix.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/steven.vmt,126,126
+materials/CURSEDJOURNEY/tape/steven.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/tech.vmt,124,124
+materials/CURSEDJOURNEY/tape/tech.vtf,22040,22040
+materials/CURSEDJOURNEY/selfie.vmt,121,121
+materials/CURSEDJOURNEY/selfie.vtf,175008,175008
+materials/CURSEDJOURNEY/tape/bhop.vmt,124,124
+materials/CURSEDJOURNEY/tape/bhop.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/keepgoing.vmt,129,129
+materials/CURSEDJOURNEY/tape/keepgoing.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/down.vmt,124,124
+materials/CURSEDJOURNEY/tape/down.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/almost.vmt,126,126
+materials/CURSEDJOURNEY/tape/almost.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/dhana.vmt,125,125
+materials/CURSEDJOURNEY/tape/dhana.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/halfway.vmt,127,127
+materials/CURSEDJOURNEY/tape/halfway.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/start.vmt,125,125
+materials/CURSEDJOURNEY/tape/start.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/sinful.vmt,126,126
+materials/CURSEDJOURNEY/tape/sinful.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/tired.vmt,125,125
+materials/CURSEDJOURNEY/tape/tired.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/shortcut.vmt,128,128
+materials/CURSEDJOURNEY/tape/shortcut.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/gap.vmt,123,123
+materials/CURSEDJOURNEY/tape/gap.vtf,22040,22040
+materials/CURSEDJOURNEY/maze.vmt,119,119
+materials/CURSEDJOURNEY/maze.vtf,43912,43912
+materials/CURSEDJOURNEY/tape/hoc.vmt,123,123
+materials/CURSEDJOURNEY/tape/hoc.vtf,22040,22040
+materials/CURSEDJOURNEY/tape/thanks.vmt,126,126
+materials/CURSEDJOURNEY/tape/thanks.vtf,22040,22040
+models/kzmod/buttons/button_classic.mdl,3488,3488
+models/kzmod/buttons/button_classic.dx80.vtx,20163,20163
+models/kzmod/buttons/button_classic.dx90.vtx,20163,20163
+models/kzmod/buttons/button_classic.sw.vtx,20131,20131
+models/kzmod/buttons/button_classic.phy,6357,6357
+models/kzmod/buttons/button_classic.vvd,76224,76224
+materials/models/kzmod/buttons/classic.vmt,260,260
+materials/models/kzmod/buttons/classic.vtf,174984,174984
+materials/models/kzmod/buttons/classic_normal.vtf,174984,174984
+materials/sprites/fire.vmt,124,124
+materials/sprites/fire.vtf,41496,41496
+materials/_cloudwalker/decals/sign_endpoint.vmt,134,134
+materials/_cloudwalker/decals/sign_getout.vmt,132,132
+materials/_cloudwalker/decals/sign_trip.vmt,130,130
+materials/cable/rope.vmt,159,159
+materials/cable/rope.vtf,1512,1512
+materials/cable/cablenormalmap.vtf,168,168
+materials/cable/cable.vmt,161,161
+materials/cable/black.vtf,75,75
+sound/solid/drip_loop1.wav,2337646,2337646
+materials/sprites/store/trails/banknote.vmt,121,121
+materials/sprites/store/trails/banknote.vtf,16592,16592
+materials/sprites/bluelaser1.vmt,149,149
+materials/sprites/bluelaser1.vtf,1512,1512
+materials/sprites/store/trails/rain.vmt,117,117
+materials/sprites/store/trails/rain.vtf,22080,22080
+materials/CURSEDJOURNEY/hocbanner.vmt,102,102
+materials/CURSEDJOURNEY/hocbanner.vtf,174976,174976
+materials/CURSEDJOURNEY/startjourney.vmt,124,124
+materials/CURSEDJOURNEY/startjourney.vtf,349760,349760
+models/egypt/pillar/pillar_skybox.mdl,1460,1460
+models/egypt/pillar/pillar_skybox.dx80.vtx,5391,5391
+models/egypt/pillar/pillar_skybox.dx90.vtx,5391,5391
+models/egypt/pillar/pillar_skybox.sw.vtx,5391,5391
+models/egypt/pillar/pillar_skybox.phy,7974,7974
+models/egypt/pillar/pillar_skybox.vvd,20416,20416
+materials/EGYPT/egypt_window.vmt,124,124
+materials/EGYPT/egypt_window.vtf,11144,11144
+models/egypt/palm_tree/palm_tree_skybox.mdl,1460,1460
+models/egypt/palm_tree/palm_tree_skybox.dx80.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_skybox.dx90.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_skybox.sw.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_skybox.phy,1396,1396
+models/egypt/palm_tree/palm_tree_skybox.vvd,87680,87680
+models/egypt/pyramid/pyramid_big.mdl,1460,1460
+models/egypt/pyramid/pyramid_big.dx80.vtx,1617,1617
+models/egypt/pyramid/pyramid_big.dx90.vtx,1617,1617
+models/egypt/pyramid/pyramid_big.sw.vtx,1617,1617
+models/egypt/pyramid/pyramid_big.phy,559,559
+models/egypt/pyramid/pyramid_big.vvd,8000,8000
+materials/EGYPT/pyramid/pyramid_skin.vmt,134,134
+materials/EGYPT/pyramid/pyramid_skin.vtf,174984,174984
+materials/EGYPT/pyramid/pyramid_skin_normal.vtf,1048783,1048783
+models/egypt/pyramid/pyramid.mdl,1460,1460
+models/egypt/pyramid/pyramid.dx80.vtx,1617,1617
+models/egypt/pyramid/pyramid.dx90.vtx,1617,1617
+models/egypt/pyramid/pyramid.sw.vtx,1617,1617
+models/egypt/pyramid/pyramid.phy,559,559
+models/egypt/pyramid/pyramid.vvd,8000,8000
+scripts/soundscapes_kz_adv_cursedjourney_v5.txt,5172,5172
+materials/_cloudwalker/decals/sign_endpoint.vtf,22016,22016
+materials/_cloudwalker/decals/sign_getout.vtf,22016,22016
+materials/_cloudwalker/decals/sign_trip.vtf,22016,22016
+models/props_equipment/light_floodlight.vtx,47674,47674
+materials/models/props_equipment/light_floodlight.vmt,80,80
+materials/models/props_equipment/light_floodlight.vtf,175008,175008
+materials/models/props_equipment/light_floodlight_on.vmt,97,97
+materials/models/props_equipment/light_floodlight_on.vtf,349784,349784
+materials/models/props_urban/fence001.vmt,217,217
+materials/models/props_urban/fence001.vtf,349784,349784
+materials/models/props_vehicles/floodlight_generator.vmt,108,108
+materials/models/props_vehicles/floodlight_generator.vtf,349784,349784
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_0.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_1.vhv,1536,1536
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_2.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_3.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_4.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_5.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_6.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_7.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_8.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_9.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_10.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_11.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_12.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_13.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_14.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_15.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_16.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_17.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_18.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_19.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_20.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_21.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_22.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_23.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_24.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_25.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_26.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_27.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_28.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_29.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_30.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_31.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_32.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_33.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_34.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_35.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_36.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_37.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_38.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_39.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_40.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_41.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_42.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_43.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_44.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_45.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_46.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_47.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_48.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_49.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_50.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_51.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_52.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_53.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_54.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_55.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_56.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_57.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_58.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_59.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_60.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_61.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_62.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_63.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_64.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_65.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_66.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_67.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_68.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_69.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_70.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_71.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_72.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_73.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_74.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_75.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_76.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_77.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_78.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_79.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_80.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_81.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_82.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_83.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_84.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_85.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_86.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_87.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_88.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_89.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_90.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_91.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_92.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_93.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_94.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_95.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_96.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_97.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_98.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_99.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_100.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_101.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_102.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_103.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_104.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_105.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_106.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_107.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_108.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_109.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_110.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_111.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_112.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_113.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_114.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_115.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_116.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_117.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_118.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_119.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_120.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_121.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_122.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_123.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_124.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_125.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_126.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_127.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_128.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_129.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_130.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_131.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_132.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_133.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_134.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_135.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_136.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_137.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_138.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_139.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_140.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_141.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_142.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_143.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_144.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_145.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_146.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_147.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_148.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_149.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_150.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_151.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_152.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_153.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_154.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_155.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_156.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_157.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_158.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_159.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_160.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_161.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_162.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_163.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_164.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_165.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_166.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_167.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_168.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_169.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_170.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_171.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_172.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_173.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_174.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_175.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_176.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_177.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_178.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_179.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_180.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_181.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_182.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_183.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_184.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_185.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_186.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_187.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_188.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_189.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_190.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_191.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_192.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_193.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_194.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_195.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_196.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_197.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_198.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_199.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_200.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_201.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_202.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_203.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_204.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_205.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_206.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_207.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_208.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_209.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_210.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_211.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_212.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_213.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_214.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_215.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_216.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_217.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_218.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_219.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_220.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_221.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_222.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_223.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_224.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_225.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_226.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_227.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_228.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_229.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_230.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_231.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_232.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_233.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_234.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_235.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_236.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_237.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_238.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_239.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_240.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_241.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_242.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_243.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_244.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_245.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_246.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_247.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_248.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_249.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_250.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_251.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_252.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_253.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_254.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_255.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_256.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_257.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_258.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_259.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_260.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_261.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_262.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_263.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_264.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_265.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_266.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_267.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_268.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_269.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_270.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_271.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_272.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_273.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_274.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_275.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_276.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_277.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_278.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_279.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_280.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_281.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_282.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_283.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_284.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_285.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_286.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_287.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_288.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_289.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_290.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_291.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_292.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_293.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_294.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_295.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_296.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_297.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_298.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_299.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_300.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_301.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_302.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_303.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_304.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_305.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_306.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_307.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_308.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_309.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_310.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_311.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_312.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_313.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_314.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_315.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_316.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_317.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_318.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_319.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_320.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_321.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_322.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_323.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_324.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_325.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_326.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_327.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_328.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_329.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_330.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_331.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_332.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_333.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_334.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_335.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_336.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_337.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_338.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_339.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_340.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_341.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_342.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_343.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_344.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_345.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_346.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_347.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_348.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_349.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_350.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_351.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_352.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_353.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_354.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_355.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_356.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_357.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_358.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_359.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_360.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_361.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_362.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_363.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_364.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_365.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_366.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_367.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_368.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_369.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_370.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_371.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_372.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_373.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_374.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_375.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_376.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_377.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_378.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_379.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_380.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_381.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_382.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_383.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_384.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_385.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_386.vhv,3584,3584
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_387.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_388.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_389.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_390.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_391.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_392.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_393.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_394.vhv,24064,24064
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_395.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_396.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_397.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_398.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_399.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_400.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_401.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_402.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_403.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_404.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_405.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_406.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_407.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_408.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_409.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_410.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_411.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_412.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_413.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_414.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_415.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_416.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_417.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_418.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_419.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_420.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_421.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_422.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_423.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_424.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_425.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_426.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_427.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_428.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_429.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_430.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_431.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_432.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_433.vhv,1536,1536
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_434.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_435.vhv,1536,1536
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_436.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_437.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_438.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_439.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_440.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_441.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_442.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_443.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_444.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_445.vhv,3072,3072
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_446.vhv,3072,3072
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_447.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_448.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_449.vhv,14848,14848
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_450.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_451.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_452.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_453.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_454.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_455.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_456.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_457.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_458.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_459.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_460.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_461.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_462.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_463.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_464.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_465.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_466.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_467.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_468.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_469.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_470.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_471.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_472.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_473.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_474.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_475.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_476.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_477.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_478.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_479.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_480.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_481.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_482.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_483.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_484.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_485.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_486.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_487.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_488.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_489.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_490.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_491.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_492.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_493.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_494.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_495.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_496.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_497.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_498.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_499.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_500.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_501.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_502.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_503.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_504.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_505.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_506.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_507.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_508.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_509.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_510.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_511.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_512.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_513.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_514.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_515.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_516.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_517.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_518.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_519.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_520.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_521.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_522.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_523.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_524.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_525.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_526.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_527.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_528.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_529.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_530.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_531.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_532.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_533.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_534.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_535.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_536.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_537.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_538.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_539.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_540.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_541.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_542.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_543.vhv,2560,2560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_544.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_545.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_546.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_547.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_548.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_549.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_550.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_551.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_552.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_553.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_554.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_555.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_556.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_557.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_558.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_559.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_560.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_561.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_562.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_563.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_564.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_565.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_566.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_567.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_568.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_569.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_570.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_571.vhv,6144,6144
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_572.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_573.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_574.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_575.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_576.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_577.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_578.vhv,2048,2048
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/vhv/sp_579.vhv,2048,2048

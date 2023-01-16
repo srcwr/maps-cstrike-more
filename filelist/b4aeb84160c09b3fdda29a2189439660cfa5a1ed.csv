@@ -1,0 +1,19 @@
+filename,size,compressed
+materials/maps/cs_armory_z-mez_final1/concrete/concretefloor033k_234_1053_295.vmt,149,149
+materials/maps/cs_armory_z-mez_final1/concrete/concretefloor033k_232_548_17.vmt,147,147
+materials/maps/cs_armory_z-mez_final1/wood/woodstair002b_234_1053_295.vmt,141,141
+materials/maps/cs_armory_z-mez_final1/environment maps/pipemetal001a_232_548_17.vmt,151,151
+materials/maps/cs_armory_z-mez_final1/metal/prodventa_232_548_17.vmt,136,136
+materials/maps/cs_armory_z-mez_final1/metal/prodventa_234_1053_295.vmt,138,138
+materials/maps/cs_armory_z-mez_final1/glass/combineglass001a_232_548_17.vmt,143,143
+materials/maps/cs_armory_z-mez_final1/glass/combineglass001a_232_715_17.vmt,143,143
+materials/maps/cs_armory_z-mez_final1/glass/combineglass001a_234_1053_295.vmt,145,145
+materials/maps/cs_armory_z-mez_final1/nature/sewer_waterdarkfog_dx70_depth_12.vmt,117,117
+materials/maps/cs_armory_z-mez_final1/cubemapdefault.vtf,9824,9824
+materials/maps/cs_armory_z-mez_final1/c234_1053_295.vtf,9824,9824
+materials/maps/cs_armory_z-mez_final1/c232_548_17.vtf,9824,9824
+materials/maps/cs_armory_z-mez_final1/c232_715_17.vtf,9824,9824
+materials/maps/cs_armory_z-mez_final1/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/cs_armory_z-mez_final1/c234_1053_295.hdr.vtf,76520,76520
+materials/maps/cs_armory_z-mez_final1/c232_548_17.hdr.vtf,76520,76520
+materials/maps/cs_armory_z-mez_final1/c232_715_17.hdr.vtf,76520,76520

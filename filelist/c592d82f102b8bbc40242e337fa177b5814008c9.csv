@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/awp_dustfloor/de_dust/tilefloor02_0_0_0.vmt,126,126
+materials/maps/awp_dustfloor/perftest/water_pretty1_depth_8.vmt,108,108
+materials/maps/awp_dustfloor/cubemapdefault.vtf,9832,9832
+materials/maps/awp_dustfloor/c0_0_0.vtf,9832,9832
+materials/maps/awp_dustfloor/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/awp_dustfloor/c0_0_0.hdr.vtf,76528,76528
+materials/new_matrix/ct.vmt,116,116
+materials/new_matrix/ct.vtf,262352,262352
+materials/new_matrix/matrix.vmt,120,120
+materials/new_matrix/matrix.vtf,262352,262352
+materials/new_matrix/t.vmt,115,115
+materials/new_matrix/t.vtf,262352,262352

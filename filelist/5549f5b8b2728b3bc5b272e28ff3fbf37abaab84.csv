@@ -1,0 +1,31 @@
+filename,size,compressed
+materials/maps/dr_grassy_death_beta6/nature/blendrocksgrass005a_wvt_patch.vmt,330,330
+materials/maps/dr_grassy_death_beta6/dev/dev_water2_depth_225.vmt,102,102
+materials/maps/dr_grassy_death_beta6/cubemapdefault.vtf,9832,9832
+materials/maps/dr_grassy_death_beta6/cubemapdefault.hdr.vtf,76528,76528
+materials/GECKO/GECKOHEX.vmt,197,197
+materials/gecko/geckohex.vtf,1398308,1398308
+materials/gecko/normals/geckohex_NRM.vtf,1048783,1048783
+materials/gecko/grayscales/geckohex_SPEC.vtf,1398308,1398308
+materials/SKYPPY3/CONCRETE_WALL02A.vmt,190,190
+materials/Skyppy3/concrete_wall02a.vtf,699272,699272
+materials/Skyppy3/normals/concrete_wall02ab_normal.vtf,699272,699272
+materials/SKYPPY3/BRICK_WALL01A.vmt,182,182
+materials/Skyppy3/brick_wall01a.vtf,699272,699272
+materials/Skyppy3/normals/brick_wall01abc_normal.vtf,699272,699272
+materials/SKYPPY3/CONCRETE_WALL01A.vmt,190,190
+materials/Skyppy3/concrete_wall01a.vtf,699272,699272
+materials/Skyppy3/normals/concrete_wall01ab_normal.vtf,699272,699272
+sound/my sounds/mlpfim.wav,769500,769500
+sound/my sounds/intheendclipped.wav,882120,882120
+materials/decals/ponies.vmt,124,124
+materials/decals/ponies.vtf,87544,87544
+materials/decals/deathrunsg.vmt,124,124
+materials/decals/deathrunsg.vtf,174944,174944
+models/player/paul/taddict/t_leet.mdl,25104,25104
+models/player/paul/taddict/t_leet.dx80.vtx,156569,156569
+models/player/paul/taddict/t_leet.dx90.vtx,149757,149757
+models/player/paul/taddict/t_leet.sw.vtx,147469,147469
+models/player/paul/taddict/t_leet.phy,17144,17144
+models/player/paul/taddict/t_leet.vvd,277808,277808
+maps/soundcache/dr_grassy_death_beta6.cache,16,16

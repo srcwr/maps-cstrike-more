@@ -1,0 +1,22 @@
+filename,size,compressed
+materials/maps/ze_voodoo_islands_o/nature/water_canals03_-2420_4721_145.vmt,166,166
+materials/maps/ze_voodoo_islands_o/tile/tilefloor012b_-2420_4721_145.vmt,140,140
+materials/maps/ze_voodoo_islands_o/tile/tilefloor012a_-2420_4721_145.vmt,140,140
+materials/maps/ze_voodoo_islands_o/metal/prodventa_-2420_4721_145.vmt,137,137
+materials/maps/ze_voodoo_islands_o/nature/rockwall015a_-2420_4721_145.vmt,141,141
+materials/maps/ze_voodoo_islands_o/concrete/concretefloor019a_-2420_4721_145.vmt,148,148
+materials/maps/ze_voodoo_islands_o/cs_havana/door04_-2420_4721_145.vmt,138,138
+materials/maps/ze_voodoo_islands_o/glass/combineglass001a_-2420_4721_145.vmt,144,144
+materials/maps/ze_voodoo_islands_o/effects/com_shield003a_-2420_4721_145.vmt,167,167
+materials/maps/ze_voodoo_islands_o/glass/offlightcover_off_-2420_4721_145.vmt,145,145
+materials/maps/ze_voodoo_islands_o/maps/ze_voodoo_islands_o/nature/water_canals03_-2420_4721_145_depth_124.vmt,149,149
+materials/maps/ze_voodoo_islands_o/maps/ze_voodoo_islands_o/nature/water_canals03_-2420_4721_145_depth_676.vmt,149,149
+materials/maps/ze_voodoo_islands_o/maps/ze_voodoo_islands_o/nature/water_canals03_-2420_4721_145_depth_4.vmt,147,147
+materials/maps/ze_voodoo_islands_o/cubemapdefault.vtf,9832,9832
+materials/maps/ze_voodoo_islands_o/c-2420_4721_145.vtf,9832,9832
+materials/maps/ze_voodoo_islands_o/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_voodoo_islands_o/c-2420_4721_145.hdr.vtf,76528,76528
+sound/denn15 sound/zeab.mp3,875589,875589
+sound/denn15 sound/zest.mp3,1708164,1708164
+materials/custom_nature/animatedlava2.vmt,253,253
+materials/custom_nature/animatedlava2.vtf,5593040,5593040

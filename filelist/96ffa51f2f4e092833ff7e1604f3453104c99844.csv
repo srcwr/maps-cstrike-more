@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/hex6_001/brick/offwlld_0_0_0.vmt,115,115
+materials/maps/hex6_001/cs_assault/pavement001_0_0_0.vmt,124,124
+materials/maps/hex6_001/de_chateau/floor02_0_0_0.vmt,120,120
+materials/maps/hex6_001/de_piranesi/marblefloor01_0_0_0.vmt,127,127
+materials/maps/hex6_001/de_chateau/wall04pnl_0_0_0.vmt,122,122
+materials/maps/hex6_001/de_piranesi/castle01e_0_0_0.vmt,123,123
+materials/maps/hex6_001/metal/citadel_tilewall005a_0_0_0.vmt,128,128
+materials/maps/hex6_001/cubemapdefault.vtf,9824,9824
+materials/maps/hex6_001/c0_0_0.vtf,7248,7248
+materials/maps/dom_hexxed/cubemapdefault.vtf,9824,9824
+resource/overviews/dom_hexxed.txt,343,343
+materials/Hex_Mael/dom_hexxed.vtf,1398308,1398308
+materials/Hex_Mael/hexrules.vmt,65,65
+materials/Hex_Mael/hexrules.vtf,174984,174984
+materials/Hex_Mael/dom_hexxed.vmt,141,141

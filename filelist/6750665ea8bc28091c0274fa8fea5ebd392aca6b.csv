@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/mg_phoenix_course_v1/glass/glasswindow070c_0_0_0.vmt,135,135
+materials/maps/mg_phoenix_course_v1/metal/citadel_tilewall005a_0_0_0.vmt,140,140
+materials/maps/mg_phoenix_course_v1/metal/metalcombine001_0_0_0.vmt,135,135
+materials/maps/mg_phoenix_course_v1/nature/water_dx70_depth_512.vmt,105,105
+materials/maps/mg_phoenix_course_v1/cubemapdefault.vtf,28753,28753
+materials/maps/mg_phoenix_course_v1/c0_0_0.vtf,28753,28753
+materials/maps/mg_phoenix_course_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_phoenix_course_v1/c0_0_0.hdr.vtf,76528,76528
+materials/RYAN_DEV/DEV_DARK_GREEN2.vmt,72,72
+materials/ryan_dev/dev_dark_green2.vtf,11144,11144
+materials/RYAN_DEV/DEV_BLACK.vmt,66,66
+materials/ryan_dev/dev_black.vtf,11144,11144

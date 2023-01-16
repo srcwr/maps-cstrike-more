@@ -1,0 +1,167 @@
+filename,size,compressed
+materials/maps/kz_bhop_souvenir/perftest/blendrockdirt001a_wvt_patch.vmt,168,168
+materials/maps/kz_bhop_souvenir/kc_main/blend_grumgrass_wvt_patch.vmt,116,116
+materials/maps/kz_bhop_souvenir/kz_communityjump/concrete_bts_wall001a_-5416_4826_1509.vmt,158,158
+materials/maps/kz_bhop_souvenir/kz_communityjump/concrete_53_-5416_4826_1509.vmt,148,148
+materials/maps/kz_bhop_souvenir/kz_communityjump/c3a2e_cfloor_-5416_4826_1509.vmt,149,149
+materials/maps/kz_bhop_souvenir/glass/glasswindow070c_-5416_4826_1509.vmt,141,141
+materials/maps/kz_bhop_souvenir/reacz/portal/glass/refractive/glass_refract01_-5416_4826_1509.vmt,165,165
+materials/maps/kz_bhop_souvenir/metal/citadel_tilefloor016a_-5416_4826_1509.vmt,147,147
+materials/maps/kz_bhop_souvenir/glass/glasswindow070a_-5416_4826_1509.vmt,141,141
+materials/maps/kz_bhop_souvenir/realworldtextures2/marble/inserts/marble_07_-5416_4826_1509.vmt,163,163
+materials/maps/kz_bhop_souvenir/dev/dev_water3_exp_depth_1.vmt,104,104
+materials/maps/kz_bhop_souvenir/cubemapdefault.vtf,28753,28753
+materials/maps/kz_bhop_souvenir/c-5416_4826_1509.vtf,28753,28753
+materials/maps/kz_bhop_souvenir/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/kz_bhop_souvenir/c-5416_4826_1509.hdr.vtf,76528,76528
+sound/kz_bhop_souvenir/chanson1.mp3,4354616,4354616
+sound/kz_bhop_souvenir/chanson2.mp3,4498808,4498808
+sound/kz_bhop_souvenir/chanson3.mp3,3458350,3458350
+scripts/soundscapes_kz_bhop_souvenir.txt,764,764
+materials/badges/b2start.vmt,75,75
+materials/badges/b2start.vtf,5632,5632
+materials/badges/b2stop.vmt,74,74
+materials/badges/b2stop.vtf,5632,5632
+materials/kc_main/grumble01.vtf,174968,174968
+materials/kz_communityjump/concrete_bts_wall001a.vmt,281,281
+materials/kz_communityjump/concrete_bts_wall001a.vtf,175008,175008
+materials/kz_communityjump/concrete_bts_wall001a_normal.vtf,349760,349760
+materials/kz_communityjump/concrete_53.vmt,258,258
+materials/kz_communityjump/concrete_53.vtf,174984,174984
+materials/kz_communityjump/concrete_53_nrm.vtf,174984,174984
+materials/kz_communityjump/c3a2e_cfloor.vmt,263,263
+materials/kz_communityjump/c3a2e_cfloor.vtf,174984,174984
+materials/kz_communityjump/c3a2e_cfloor_normal.vtf,349760,349760
+materials/reacz/portal/Glass/Refractive/Glass_refract01.vmt,495,495
+materials/reacz/portal/Glass/Refractive/Glass_refract01.vtf,1048783,1048783
+materials/RealWorldTextures2/Marble/inserts/marble_07.vmt,349,349
+materials/RealWorldTextures2/Marble/inserts/marble_07.vtf,174984,174984
+materials/RealWorldTextures2/Marble/inserts/marble_07_nrm.vtf,174984,174984
+materials/RealWorldTextures/de_artcenter/concrete01.vmt,117,117
+materials/RealWorldTextures/de_artcenter/concrete01.vtf,174984,174984
+materials/Silkroad/Ground/esteu_bloodyhill_grass_01.vmt,114,114
+materials/Silkroad/Ground/esteu_bloodyhill_grass_01.vtf,349760,349760
+materials/kz_shrubhop/concretefloor006a_bump.vmt,348,348
+materials/kz_shrubhop/concretefloor006a_normal.vtf,1048783,1048783
+materials/badges/4.vmt,69,69
+materials/badges/4.vtf,43872,43872
+materials/badges/0.vmt,69,69
+materials/badges/0.vtf,43872,43872
+materials/badges/2.vmt,69,69
+materials/badges/2.vtf,43872,43872
+materials/badges/1.vmt,69,69
+materials/badges/1.vtf,43872,43872
+materials/badges/6.vmt,69,69
+materials/badges/6.vtf,43872,43872
+materials/badges/8.vmt,69,69
+materials/badges/8.vtf,43872,43872
+materials/badges/9.vmt,69,69
+materials/badges/9.vtf,43872,43872
+materials/badges/7.vmt,69,69
+materials/badges/7.vtf,43872,43872
+materials/badges/5.vmt,69,69
+materials/badges/5.vtf,43872,43872
+materials/badges/3.vmt,69,69
+materials/badges/3.vtf,43872,43872
+materials/Silkroad/FGWorld/spider1.vmt,91,91
+materials/Silkroad/FGWorld/spider1.vtf,87616,87616
+materials/badges/comj2_graff (4).vmt,89,89
+materials/badges/comj2_graff (4).vtf,174944,174944
+materials/badges/ivy1.vmt,78,78
+materials/badges/ivy1.vtf,349760,349760
+materials/badges/comj2_graff (2).vmt,89,89
+materials/badges/comj2_graff (2).vtf,174944,174944
+materials/badges/comj2_graff (6).vmt,89,89
+materials/badges/comj2_graff (6).vtf,349760,349760
+materials/badges/comj2_graff (1).vmt,89,89
+materials/badges/comj2_graff (1).vtf,349760,349760
+materials/badges/comj2_graff (8).vmt,89,89
+materials/badges/comj2_graff (8).vtf,349760,349760
+materials/badges/comj2_graff (9).vmt,89,89
+materials/badges/comj2_graff (9).vtf,349760,349760
+materials/badges/comj2_graff (5).vmt,89,89
+materials/badges/comj2_graff (5).vtf,174944,174944
+materials/badges/graff (2).vmt,83,83
+materials/badges/graff (2).vtf,174944,174944
+materials/badges/graff (4).vmt,83,83
+materials/badges/graff (4).vtf,87616,87616
+materials/badges/graff (1).vmt,83,83
+materials/badges/graff (1).vtf,87616,87616
+materials/badges/comj2_graff (15).vmt,90,90
+materials/badges/comj2_graff (15).vtf,87616,87616
+materials/badges/comj2_graff (16).vmt,90,90
+materials/badges/comj2_graff (16).vtf,174944,174944
+materials/badges/comj2_graff (10).vmt,90,90
+materials/badges/comj2_graff (10).vtf,349760,349760
+materials/sprites/blend/banksy_lonelyflowers.vmt,99,99
+materials/sprites/blend/banksy_lonelyflowers.vtf,262352,262352
+materials/sprites/blend/Graffiti_Head.vmt,92,92
+materials/sprites/blend/Graffiti_Head.vtf,87616,87616
+materials/sprites/blend/banksy_originalthought.vmt,101,101
+materials/sprites/blend/banksy_originalthought.vtf,65744,65744
+materials/sprites/blend/banksy_monkeydetonate.vmt,100,100
+materials/sprites/blend/banksy_monkeydetonate.vtf,262352,262352
+materials/sprites/blend/banksy_childtv.vmt,93,93
+materials/sprites/blend/banksy_childtv.vtf,65744,65744
+materials/sprites/blend/banksy_barkdog.vmt,93,93
+materials/sprites/blend/banksy_barkdog.vtf,262352,262352
+materials/sprites/blend/banksy_monkeybigben.vmt,98,98
+materials/sprites/blend/banksy_monkeybigben.vtf,65744,65744
+materials/sprites/blend/banksy_libertyspoilt.vmt,99,99
+materials/sprites/blend/banksy_libertyspoilt.vtf,262352,262352
+materials/sprites/blend/banksy_corporateworship.vmt,102,102
+materials/sprites/blend/banksy_corporateworship.vtf,65744,65744
+materials/sprites/blend/banksy_paintover.vmt,95,95
+materials/sprites/blend/banksy_paintover.vtf,65744,65744
+materials/sprites/blend/banksy_jailwindow.vmt,96,96
+materials/sprites/blend/banksy_jailwindow.vtf,262352,262352
+materials/sprites/blend/banksy_looters.vmt,93,93
+materials/sprites/blend/banksy_looters.vtf,65744,65744
+materials/sprites/blend/banksy_childflowerpetals.vmt,103,103
+materials/sprites/blend/banksy_childflowerpetals.vtf,65744,65744
+materials/badges/graff (3).vmt,83,83
+materials/badges/graff (3).vtf,349760,349760
+models/fragmodels/gnubbel.mdl,1852,1852
+models/fragmodels/gnubbel.vvd,82048,82048
+models/fragmodels/gnubbel.dx90.vtx,17700,17700
+models/fragmodels/gnubbel.dx80.vtx,17700,17700
+models/fragmodels/gnubbel.sw.vtx,17700,17700
+models/fragmodels/gnubbel.phy,3611,3611
+materials/models/fragmodels/intstainewood09.vmt,129,129
+materials/models/fragmodels/intstainewood09.vtf,349760,349760
+materials/models/fragmodels/leuchtgnubbel.vmt,146,146
+materials/models/fragmodels/leuchtgnubbel.vtf,349760,349760
+materials/models/fragmodels/blatt3.vmt,172,172
+materials/models/fragmodels/blatt3.vtf,174944,174944
+models/fragmodels/gnubbel4.mdl,1660,1660
+models/fragmodels/gnubbel4.vvd,41024,41024
+models/fragmodels/gnubbel4.dx90.vtx,9318,9318
+models/fragmodels/gnubbel4.dx80.vtx,9318,9318
+models/fragmodels/gnubbel4.sw.vtx,9318,9318
+models/fragmodels/gnubbel4.phy,3185,3185
+models/fragmodels/hills_gnubbel.mdl,1852,1852
+models/fragmodels/hills_gnubbel.vvd,121472,121472
+models/fragmodels/hills_gnubbel.dx90.vtx,27042,27042
+models/fragmodels/hills_gnubbel.dx80.vtx,27042,27042
+models/fragmodels/hills_gnubbel.sw.vtx,27042,27042
+models/fragmodels/hills_gnubbel.phy,4044,4044
+models/fragmodels/pilzport.mdl,1460,1460
+models/fragmodels/pilzport.vvd,50944,50944
+models/fragmodels/pilzport.dx90.vtx,13506,13506
+models/fragmodels/pilzport.dx80.vtx,13506,13506
+models/fragmodels/pilzport.sw.vtx,13506,13506
+models/fragmodels/pilzport.phy,5339,5339
+materials/models/fragmodels/pilzport.vmt,191,191
+materials/models/fragmodels/pilzport.vtf,699272,699272
+models/fragmodels/foliage.mdl,1840,1840
+models/fragmodels/foliage.vvd,65664,65664
+models/fragmodels/foliage.dx90.vtx,14724,14724
+models/fragmodels/foliage.dx80.vtx,14724,14724
+models/fragmodels/foliage.sw.vtx,14724,14724
+models/fragmodels/foliage.phy,2409,2409
+materials/models/fragmodels/holzschild.vmt,151,151
+materials/models/fragmodels/holzschild.vtf,174984,174984
+materials/models/fragmodels/holzschild_normal.vtf,174984,174984
+materials/models/fragmodels/blaetter.vmt,174,174
+materials/models/fragmodels/blaetter.vtf,349760,349760
+maps/kz_bhop_souvenir.nav,205,205

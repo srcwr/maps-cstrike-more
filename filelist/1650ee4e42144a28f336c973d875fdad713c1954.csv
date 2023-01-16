@@ -1,0 +1,205 @@
+filename,size,compressed
+materials/maps/zm_deus_ex_chinatown/glass/unbreakable_0_0_0.vmt,131,131
+materials/maps/zm_deus_ex_chinatown/cubemapdefault.vtf,4960,4960
+materials/maps/zm_deus_ex_chinatown/c0_0_0.vtf,4960,4960
+materials/maps/zm_deus_ex_chinatown/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_deus_ex_chinatown/c0_0_0.hdr.vtf,76528,76528
+materials/DEUS EX TEXTURES/DE_CLENWHTEWALL_ADE_.vmt,123,123
+materials/DEUS EX TEXTURES/DE_CLENSTONWNDOW_BDE_.vmt,124,124
+materials/DEUS EX TEXTURES/DE_CLENGREYSDWLK_ADE_.vmt,124,124
+materials/DEUS EX TEXTURES/DE_CLENGREYCNCRT_BDE_.vmt,124,124
+materials/DEUS EX TEXTURES/DE_CLENWHTEWALL_DDE_.vmt,123,123
+materials/DEUS EX TEXTURES/DE_CLENVENT_WALL_ADE_.vmt,121,121
+materials/DEUS EX TEXTURES/DE_CLENBRWNWNDOW_ADE_.vmt,124,124
+materials/DEUS EX TEXTURES/DE_CLENGREYWNDOW_BDE_.vmt,121,121
+materials/DEUS EX TEXTURES/DE_CLENWHTEWALL_BDE_.vmt,123,123
+materials/DEUS EX TEXTURES/DE_CLENWHTEWALL_CDE_.vmt,123,123
+materials/DEUS EX TEXTURES/DE_CLENWHTEWALL_EDE_.vmt,123,123
+materials/DEUS EX TEXTURES/DE_CLENWHTEWALL_GDE_.vmt,123,123
+materials/DEUS EX TEXTURES/DE_CLENBRCKWNDOW_ADE_.vmt,124,124
+materials/DEUS EX TEXTURES/DE_CLENGREYCNCRT_ADE_.vmt,124,124
+materials/DEUS EX TEXTURES/DE_HKM_WALL_02DE_.vmt,120,120
+materials/DEUS EX TEXTURES/DE_CLENTMPL_WALL_BDE_.vmt,124,124
+materials/DEUS EX TEXTURES/DE_CLENTMPL_WALL_CDE_.vmt,124,124
+materials/DEUS EX TEXTURES/DE_CLENBROWNWOOD_ADE_.vmt,120,120
+materials/DEUS EX TEXTURES/DEUS EX NEW/BOATHOUSEWOOD_C.vmt,126,126
+materials/DEUS EX TEXTURES/DE_CLENTMPL_WALL_EDE_.vmt,124,124
+materials/DEUS EX TEXTURES/DEUS EX NEW/BOATHOUSEWOOD_A.vmt,126,126
+materials/DEUS EX TEXTURES/DE_CLENBRWNSNGLE_ADE_.vmt,128,128
+materials/DEUS EX TEXTURES/DE_CLENREDDSIGN_ADE_.vmt,120,120
+materials/DEUS EX TEXTURES/DE_FLOOR3DE_.vmt,111,111
+materials/DEUS EX TEXTURES/DE_FLWRCRPTPATRN_ADE_.vmt,122,122
+materials/DEUS EX TEXTURES/DE_FLTILE1DE_.vmt,112,112
+materials/DEUS EX TEXTURES/DEUS EX NEW/WHTCRETE.vmt,123,123
+materials/DEUS EX TEXTURES/DE_DRTYGREYBRICK_ADE_.vmt,121,121
+materials/DEUS EX TEXTURES/DEUS EX NEW/DRTYMETLDOOR_A.vmt,126,126
+materials/DEUS EX TEXTURES/DE_CLENBRWNFLOOR_ADE_.vmt,120,120
+materials/DEUS EX TEXTURES/DE_CLENTMPL_WALL_FDE_.vmt,123,123
+materials/DEUS EX TEXTURES/DE_CLENTMPL_WALL_IDE_.vmt,120,120
+materials/DEUS EX TEXTURES/DE_MARBWALL_01DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_CLENBRWNPATRN_ADE_.vmt,121,121
+materials/DEUS EX TEXTURES/DE_HKM_BRICKS_01DE_.vmt,119,119
+materials/DEUS EX TEXTURES/DE_HK_SIGN_CNRDDE_.vmt,118,118
+materials/DEUS EX TEXTURES/DE_HK_SIGN_CNRD1DE_.vmt,119,119
+materials/DEUS EX TEXTURES/DE_CLENGREYWNDOW_ADE_.vmt,121,121
+materials/DEUS EX TEXTURES/DE_CLENWHTEWALL_FDE_.vmt,123,123
+materials/DEUS EX TEXTURES/DE_CLENCHINAFLAG_ADE_.vmt,122,122
+materials/DEUS EX TEXTURES/DEUS EX NEW/SMTHGRAYCEMNT_A.vmt,130,130
+materials/DEUS EX TEXTURES/DE_HK_SIGN_21DE_.vmt,116,116
+materials/DEUS EX TEXTURES/POL_WALL.vmt,108,108
+materials/DEUS EX TEXTURES/DEUS EX NEW/CMPTRWALL_03.vmt,124,124
+materials/DEUS EX TEXTURES/DEUS EX NEW/AREA51CLNDER_B.vmt,126,126
+materials/TGAS/WHITENOISEBANIMATED.vmt,302,302
+materials/tgas/WhiteNoiseBanimated.vtf,65824,65824
+materials/DEUS EX TEXTURES/DE_LIGHT1DE_.vmt,112,112
+materials/DEUS EX TEXTURES/DEUS EX NEW/UN_MJ12LIGHT_B.vmt,126,126
+materials/DEUS EX TEXTURES/DE_CLENBRWNSCREN_ADE_.vmt,121,121
+materials/DEUS EX TEXTURES/DE_HK_SIGN_05DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_HK_SIGN_13DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_HK_SIGN_24DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_CLENGRENWLPPR_ADE_.vmt,122,122
+materials/DEUS EX TEXTURES/DEUS EX NEW/HOLYSMOKESBB.vmt,123,123
+materials/DEUS EX TEXTURES/DEUS EX NEW/TNCHROADSIGN_A.vmt,126,126
+materials/DEUS EX TEXTURES/DE_HK_SIGN_10DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_FISHTILEDE_.vmt,113,113
+materials/DEUS EX TEXTURES/DE_FLOOR2DE_.vmt,111,111
+materials/DEUS EX TEXTURES/DE_HK_SIGN_11DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_HK_SIGN_04DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_HK_SIGN_23DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_HK_SIGN_18DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DEUS EX NEW/SUPER45BB.vmt,120,120
+materials/DEUS EX TEXTURES/DE_HK_SIGN_LMDE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_HK_SIGN_09DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DE_HK_SIGN_25DE_.vmt,116,116
+materials/DEUS EX TEXTURES/DEUSCREDS.vmt,108,108
+materials/DEUS EX TEXTURES/DEUS EX NEW/RUG01.vmt,118,118
+materials/DEUS EX TEXTURES/DEUS EX NEW/WALLTILE_A.vmt,121,121
+materials/DEUS EX TEXTURES/DE_CHINAHAND_SIGN.vmt,107,107
+materials/DEUS EX TEXTURES/DE_HK_SIGN_LM2DE_.vmt,117,117
+materials/DEUS EX TEXTURES/DE_CLENREDDSIGN_VDE_.vmt,120,120
+materials/DEUS EX TEXTURES/DE_CLENGREYMTDOR_BDE_.vmt,121,121
+materials/DEUS EX TEXTURES/DEUS EX NEW/WIREBOX_A.vmt,121,121
+materials/DEUS EX TEXTURES/DEUS EX NEW/HEVYMETLGRATE_C.vmt,127,127
+materials/TGAS/H_NOISEANIMATED.vmt,298,298
+materials/tgas/H_noiseanimated.vtf,60576,60576
+materials/TGAS/RADARANIMATED.vmt,296,296
+materials/tgas/radaranimated.vtf,88016,88016
+materials/TGAS/TYPE_GRNANIMATED.vmt,299,299
+materials/tgas/Type_Grnanimated.vtf,22160,22160
+materials/TGAS/OBS_SCREENANIMATED.vmt,301,301
+materials/tgas/Obs_Screenanimated.vtf,22160,22160
+materials/DEUS EX TEXTURES/DE_OLDBRWNDOOR_ADE_.vmt,118,118
+materials/DEUS EX TEXTURES/DEUS EX NEW/DIAMPLATSTEEL_A.vmt,127,127
+materials/DEUS EX TEXTURES/DE_CLENBLUESIGN_ADE_.vmt,120,120
+materials/DEUS EX TEXTURES/DE_CLENBRWNSCREN_BDE_.vmt,121,121
+materials/DEUS EX TEXTURES/TRACERTONG.vmt,110,110
+materials/DEUS EX TEXTURES/DEUS EX NEW/KEYBOARD4.vmt,121,121
+materials/DEUS EX TEXTURES/DEUS EX NEW/TUBE_A06.vmt,120,120
+materials/DEUS EX TEXTURES/DE_CLENBRWNWNDOW_CDE_.vmt,124,124
+materials/skybox/mpa56up.vmt,84,84
+materials/skybox/mpa56up.vtf,699272,699272
+materials/skybox/mpa56dn.vmt,84,84
+materials/skybox/mpa56dn.vtf,699272,699272
+materials/skybox/mpa56ft.vmt,84,84
+materials/skybox/mpa56ft.vtf,699272,699272
+materials/skybox/mpa56bk.vmt,84,84
+materials/skybox/mpa56bk.vtf,699272,699272
+materials/skybox/mpa56lf.vmt,84,84
+materials/skybox/mpa56lf.vtf,699272,699272
+materials/skybox/mpa56rt.vmt,84,84
+materials/skybox/mpa56rt.vtf,699272,699272
+sound/ambience/unatcoshutdown3.wav,59536,59536
+sound/ambience/11 the synapse (hong kong streets).wav,3108830,3108830
+materials/Deus Ex Textures/Deus Ex new/area51clnder_b.vtf,11144,11144
+materials/Deus Ex Textures/Deus Ex new/BoatHouseWood_A.vtf,22008,22008
+materials/Deus Ex Textures/Deus Ex new/BoatHouseWood_C.vtf,22008,22008
+materials/Deus Ex Textures/Deus Ex new/CmptrWall_03.vtf,11144,11144
+materials/Deus Ex Textures/Deus Ex new/DiamPlatSteel_A.vtf,2952,2952
+materials/Deus Ex Textures/Deus Ex new/DrtyMetlDoor_A.vtf,22008,22008
+materials/Deus Ex Textures/Deus Ex new/HevyMetlGrate_C.vtf,22008,22008
+materials/Deus Ex Textures/Deus Ex new/HolySmokesBB.vtf,22008,22008
+materials/Deus Ex Textures/Deus Ex new/KEYBOARD4.vtf,5624,5624
+materials/Deus Ex Textures/Deus Ex new/SmthGrayCemnt_A.vtf,11144,11144
+materials/Deus Ex Textures/Deus Ex new/rug01.vtf,43912,43912
+materials/Deus Ex Textures/Deus Ex new/Super45BB.vtf,22008,22008
+materials/Deus Ex Textures/Deus Ex new/TnchRoadSign_A.vtf,11064,11064
+materials/Deus Ex Textures/Deus Ex new/Tube_A06.vtf,11144,11144
+materials/Deus Ex Textures/Deus Ex new/un_mj12light_b.vtf,1528,1528
+materials/Deus Ex Textures/Deus Ex new/WallTile_A.vtf,2952,2952
+materials/Deus Ex Textures/Deus Ex new/whtcrete.vtf,11144,11144
+materials/Deus Ex Textures/Deus Ex new/WireBox_A.vtf,11144,11144
+materials/Deus Ex Textures/de_chinahand_sign.vtf,11064,11064
+materials/Deus Ex Textures/de_ClenBlueSign_Ade_.vtf,2872,2872
+materials/Deus Ex Textures/de_ClenBlueWall_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenBrckWndow_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenBrownWood_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenBrwnFloor_Ade_.vtf,43912,43912
+materials/Deus Ex Textures/de_ClenBrwnPatrn_Ade_.vtf,2952,2952
+materials/Deus Ex Textures/de_ClenBrwnScren_Ade_.vtf,5624,5624
+materials/Deus Ex Textures/de_ClenBrwnScren_Bde_.vtf,22008,22008
+materials/Deus Ex Textures/de_ClenBrwnSngle_Ade_.vtf,904,904
+materials/Deus Ex Textures/de_ClenBrwnWndow_Cde_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenChinaFlag_Ade_.vtf,22008,22008
+materials/Deus Ex Textures/de_ClenGrenWlppr_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenGreyCncrt_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenGreyCncrt_Bde_.vtf,5624,5624
+materials/Deus Ex Textures/de_ClenGreyMtdor_Bde_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenGreySdwlk_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenGreyWndow_Ade_.vtf,2952,2952
+materials/Deus Ex Textures/de_ClenGreyWndow_Bde_.vtf,5624,5624
+materials/Deus Ex Textures/de_ClenReddSign_Ade_.vtf,1528,1528
+materials/Deus Ex Textures/de_ClenReddSign_Bde_.vtf,2872,2872
+materials/Deus Ex Textures/de_ClenReddSign_Vde_.vtf,2872,2872
+materials/Deus Ex Textures/de_ClenStonWndow_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenStonWndow_Bde_.vtf,5624,5624
+materials/Deus Ex Textures/de_ClenTmpl_Wall_Bde_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenTmpl_Wall_Cde_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenTmpl_Wall_Ede_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenTmpl_Wall_Fde_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenTmpl_Wall_Ide_.vtf,22008,22008
+materials/Deus Ex Textures/de_ClenTmpl_Wall_Gde_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenWhteWall_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenWhteWall_Bde_.vtf,5624,5624
+materials/Deus Ex Textures/de_ClenWhteWall_Cde_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenWhteWall_Dde_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenWhteWall_Ede_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenWhteWall_Fde_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenWhteWall_Gde_.vtf,11144,11144
+materials/Deus Ex Textures/de_DrtyGreyBrick_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_fabric1de_.vtf,11144,11144
+materials/Deus Ex Textures/de_fishtilede_.vtf,11144,11144
+materials/Deus Ex Textures/de_floor2de_.vtf,11144,11144
+materials/Deus Ex Textures/de_floor3de_.vtf,22008,22008
+materials/Deus Ex Textures/de_fltile1de_.vtf,11144,11144
+materials/Deus Ex Textures/de_FlwrCrptPatrn_Ade_.vtf,2952,2952
+materials/Deus Ex Textures/de_HK_Sign_04de_.vtf,2872,2872
+materials/Deus Ex Textures/de_HK_Sign_05de_.vtf,5624,5624
+materials/Deus Ex Textures/de_HK_Sign_09de_.vtf,5624,5624
+materials/Deus Ex Textures/de_HK_Sign_10de_.vtf,5624,5624
+materials/Deus Ex Textures/de_HK_Sign_11de_.vtf,5624,5624
+materials/Deus Ex Textures/de_HK_Sign_13de_.vtf,5624,5624
+materials/Deus Ex Textures/de_HK_Sign_18de_.vtf,5624,5624
+materials/Deus Ex Textures/de_HK_Sign_21de_.vtf,2872,2872
+materials/Deus Ex Textures/de_HK_Sign_23de_.vtf,5624,5624
+materials/Deus Ex Textures/de_HK_Sign_24de_.vtf,5624,5624
+materials/Deus Ex Textures/de_HK_Sign_25de_.vtf,5624,5624
+materials/Deus Ex Textures/de_HK_Sign_CNRD1de_.vtf,904,904
+materials/Deus Ex Textures/de_HK_Sign_CNRDde_.vtf,2872,2872
+materials/Deus Ex Textures/de_HK_Sign_LM2de_.vtf,2952,2952
+materials/Deus Ex Textures/de_HK_Sign_LMde_.vtf,5624,5624
+materials/Deus Ex Textures/de_HKM_Bricks_01de_.vtf,11144,11144
+materials/Deus Ex Textures/de_HKM_Wall_02de_.vtf,11144,11144
+materials/Deus Ex Textures/de_Light1de_.vtf,22008,22008
+materials/Deus Ex Textures/de_MarbWall_01de_.vtf,22008,22008
+materials/Deus Ex Textures/de_OldBrwnDoor_Ade_.vtf,22008,22008
+materials/Deus Ex Textures/deuscreds.vtf,349760,349760
+materials/Deus Ex Textures/pol_wall.vtf,11144,11144
+materials/Deus Ex Textures/TracerTong.vtf,2952,2952
+materials/tgas/H_noiseanimated.vtf,60576,60576
+materials/tgas/Obs_Screenanimated.vtf,22160,22160
+materials/tgas/radaranimated.vtf,88016,88016
+materials/tgas/Type_Grnanimated.vtf,22160,22160
+materials/tgas/WhiteNoiseanimated.vtf,16672,16672
+materials/tgas/WhiteNoiseBanimated.vtf,65824,65824
+materials/Deus Ex Textures/de_ClenBrwnWndow_Ade_.vtf,11144,11144
+materials/Deus Ex Textures/de_ClenVent_Wall_Ade_.vtf,11144,11144

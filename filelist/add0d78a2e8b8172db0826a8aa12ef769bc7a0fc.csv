@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/de_wingman/de_dust/tilefloor02_0_0_0.vmt,123,123
+materials/maps/de_wingman/cubemapdefault.vtf,9832,9832
+materials/maps/de_wingman/c0_0_0.vtf,9832,9832
+materials/maps/de_wingman/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_wingman/c0_0_0.hdr.vtf,76528,76528
+maps/de_wingman.nav,50592,50592
+resource/overviews/de_wingman.txt,316,316
+materials/overviews/de_wingman.vmt,132,132
+materials/overviews/de_wingman.vtf,1048664,1048664
+materials/overviews/de_wingman_radar.vmt,138,138
+materials/overviews/de_wingman_radar.vtf,1048664,1048664

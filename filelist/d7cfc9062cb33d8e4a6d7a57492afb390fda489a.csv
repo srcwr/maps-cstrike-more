@@ -1,0 +1,100 @@
+filename,size,compressed
+materials/maps/gg_murder_grounds/cubemapdefault.vtf,4952,4952
+materials/maps/gg_murder_grounds/c-256_-416_56.vtf,4952,4952
+materials/maps/gg_murder_grounds/c1158_-426_56.vtf,4952,4952
+materials/maps/gg_murder_grounds/c1148_1535_56.vtf,4952,4952
+materials/maps/gg_murder_grounds/c-295_1545_56.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_-57_-120.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_-56_-84.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_-57_-42.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_-56_-6.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_-56_36.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_-55_78.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_-57_113.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_1169_19.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_1165_124.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_1165_94.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_1165_58.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_1169_-16.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_1170_-55.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_1168_-89.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_1168_-122.vtf,4952,4952
+materials/maps/gg_murder_grounds/c426_1169_-150.vtf,4952,4952
+materials/COLOR/GREEN.vmt,62,62
+materials/color/green.vtf,11144,11144
+materials/COLOR/BLAZE ORANGE.vmt,69,69
+materials/color/blaze orange.vtf,11144,11144
+materials/COLOR/BLUE.vmt,61,61
+materials/color/blue.vtf,11144,11144
+materials/COLOR/BROWN.vmt,62,62
+materials/color/brown.vtf,11144,11144
+materials/COLOR/ORANGE WEB.vmt,67,67
+materials/color/orange web.vtf,11144,11144
+materials/COLOR/PEACH ORANGE.vmt,69,69
+materials/color/peach orange.vtf,11144,11144
+materials/COLOR/BURNT ORANGE.vmt,69,69
+materials/color/burnt orange.vtf,11144,11144
+materials/COLOR/CARROT ORANGE.vmt,70,70
+materials/color/carrot orange.vtf,11144,11144
+materials/COLOR/INTERNATIONAL ORANGE.vmt,77,77
+materials/color/international orange.vtf,11144,11144
+materials/COLOR/GOLDEN BROWN.vmt,69,69
+materials/color/golden brown.vtf,11144,11144
+materials/COLOR/CERULEAN BLUE.vmt,70,70
+materials/color/cerulean blue.vtf,11144,11144
+materials/COLOR/GOLDEN YELLOW.vmt,70,70
+materials/color/golden yellow.vtf,11144,11144
+materials/COLOR/SELECTIVE YELLOW.vmt,73,73
+materials/color/selective yellow.vtf,11144,11144
+materials/COLOR/YELLOW GREEN.vmt,69,69
+materials/color/yellow green.vtf,11144,11144
+materials/COLOR/BLACK.vmt,62,62
+materials/color/black.vtf,11144,11144
+materials/COLOR/WHITE.vmt,62,62
+materials/color/white.vtf,11144,11144
+materials/COLOR/RED.vmt,60,60
+materials/color/red.vtf,11144,11144
+materials/COLOR/FUCHSIA PINK.vmt,69,69
+materials/color/fuchsia pink.vtf,11144,11144
+materials/COLOR/PSYCHEDELIC PURPLE.vmt,75,75
+materials/color/psychedelic purple.vtf,11144,11144
+materials/COLOR/PURPLE TAUPE.vmt,69,69
+materials/color/purple taupe.vtf,11144,11144
+materials/COLOR/TYRIAN PURPLE.vmt,70,70
+materials/color/tyrian purple.vtf,11144,11144
+models/player/zh/zh_zombie003.mdl,17244,17244
+models/player/zh/zh_zombie003.dx80.vtx,44001,44001
+models/player/zh/zh_zombie003.dx90.vtx,42838,42838
+models/player/zh/zh_zombie003.sw.vtx,42478,42478
+models/player/zh/zh_zombie003.phy,32279,32279
+models/player/zh/zh_zombie003.vvd,157824,157824
+materials/models/player/zh/Zombie_Classic_sheet.vmt,270,270
+models/player/ics/skull_admin_v2/skull.mdl,17256,17256
+materials/models/player/ics/skull_admin_v2/terrortemp.vtf,699216,699216
+materials/models/player/ics/skull_admin_v2/terrortemp_normal.vtf,699216,699216
+models/player/ics/skull_admin_v2/skull.dx80.vtx,42082,42082
+models/player/ics/skull_admin_v2/skull.dx90.vtx,39892,39892
+models/player/ics/skull_admin_v2/skull.sw.vtx,39532,39532
+models/player/ics/skull_admin_v2/skull.phy,32231,32231
+models/player/ics/skull_admin_v2/skull.vvd,143616,143616
+materials/models/player/ics/skull_admin_v2/TerrorTemp.vmt,245,245
+models/player/zh/zh_ghost001.mdl,10976,10976
+models/player/zh/zh_ghost001.dx80.vtx,10665,10665
+models/player/zh/zh_ghost001.dx90.vtx,10665,10665
+models/player/zh/zh_ghost001.sw.vtx,10561,10561
+models/player/zh/zh_ghost001.phy,32182,32182
+models/player/zh/zh_ghost001.vvd,36672,36672
+materials/models/player/zh/Charple3_sheet.vmt,201,201
+models/player/zh/zh_corpse002_hs.mdl,17232,17232
+models/player/zh/zh_corpse002_hs.dx80.vtx,16449,16449
+models/player/zh/zh_corpse002_hs.dx90.vtx,15391,15391
+models/player/zh/zh_corpse002_hs.sw.vtx,15031,15031
+models/player/zh/zh_corpse002_hs.phy,32231,32231
+models/player/zh/zh_corpse002_hs.vvd,57792,57792
+materials/models/player/zh/corpse1.vmt,87,87
+models/player/zh/zh_corpse002_head.mdl,1456,1456
+models/player/zh/zh_corpse002_head.dx80.vtx,4677,4677
+models/player/zh/zh_corpse002_head.dx90.vtx,4677,4677
+models/player/zh/zh_corpse002_head.sw.vtx,4677,4677
+models/player/zh/zh_corpse002_head.phy,1272,1272
+models/player/zh/zh_corpse002_head.vvd,15680,15680

@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/dr_trap_challenge_final/metal/metalfloor001a_0_0_0.vmt,137,137
+materials/maps/dr_trap_challenge_final/metal/citadel_tilefloor016a_0_0_0.vmt,144,144
+materials/maps/dr_trap_challenge_final/metal/citadel_metalwall076a_0_0_0.vmt,144,144
+materials/maps/dr_trap_challenge_final/nature/sewer_water001_depth_64.vmt,108,108
+materials/maps/dr_trap_challenge_final/nature/toxicslime002a_depth_48.vmt,108,108
+materials/maps/dr_trap_challenge_final/nature/sewer_water001_depth_48.vmt,108,108
+materials/maps/dr_trap_challenge_final/nature/sewer_water001_depth_144.vmt,109,109
+materials/maps/dr_trap_challenge_final/cubemapdefault.vtf,9832,9832
+materials/maps/dr_trap_challenge_final/c0_0_0.vtf,9832,9832
+materials/maps/dr_trap_challenge_final/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/dr_trap_challenge_final/c0_0_0.hdr.vtf,76528,76528

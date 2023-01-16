@@ -1,0 +1,40 @@
+filename,size,compressed
+materials/maps/ka_soccer_berlin/glass/combineglass001a_0_0_0.vmt,132,132
+materials/maps/ka_soccer_berlin/metal/offelevdrsa_0_0_0.vmt,127,127
+materials/maps/ka_soccer_berlin/cubemapdefault.vtf,9824,9824
+materials/maps/ka_soccer_berlin/c0_0_0.vtf,9824,9824
+counter-strike source/cstrike/Sound/football/pfiff3.wav,27578,27578
+counter-strike source/cstrike/Sound/admin_plugin/fr/applause.wav,88164,88164
+models/forlix/soccer/soccerball.dx80.vtx,2655,2655
+models/forlix/soccer/soccerball.dx90.vtx,2655,2655
+models/forlix/soccer/soccerball.mdl,1540,1540
+models/forlix/soccer/soccerball.phy,5205,5205
+models/forlix/soccer/soccerball.sw.vtx,2655,2655
+models/forlix/soccer/soccerball.vvd,9408,9408
+models/forlix/soccer/soccerball.xbox.vtx,2655,2655
+materials/models/forlix/soccer/soccerball.vmt,100,100
+materials/models/forlix/soccer/soccerball.vtf,174984,174984
+materials/Color/black.vmt,62,62
+materials/Color/black.vtf,11144,11144
+materials/Color/lavender grey.vmt,70,70
+materials/Color/lavender grey.vtf,11144,11144
+materials/Color/white.vmt,62,62
+materials/Color/white.vtf,11144,11144
+materials/Color/cerulean blue.vmt,70,70
+materials/Color/cerulean blue.vtf,11144,11144
+materials/eigene/deutsch.vmt,73,73
+materials/eigene/deutsch.vtf,349744,349744
+materials/eigene/madeby.vmt,74,74
+materials/eigene/madeby.vtf,349744,349744
+materials/eigene/memory.vmt,76,76
+materials/eigene/memory.vtf,349744,349744
+materials/eigene/schale.vmt,76,76
+materials/eigene/schale.vtf,349744,349744
+materials/carpet2.vmt,55,55
+materials/carpet2.vtf,174984,174984
+materials/carpetl.vmt,55,55
+materials/carpetl.vtf,174984,174984
+materials/carpetl1.vmt,56,56
+materials/carpetl1.vtf,174984,174984
+materials/carpetl2.vmt,56,56
+materials/carpetl2.vtf,174984,174984

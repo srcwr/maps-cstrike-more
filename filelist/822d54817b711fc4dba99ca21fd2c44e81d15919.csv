@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/xc_nature/nature/water_canals03_384_144_144.vmt,153,153
+materials/maps/xc_nature/nature/blendmuddirt001a_-272_5728_1520.vmt,174,174
+materials/maps/xc_nature/glass/glasswindow007a_-272_5728_1520.vmt,133,133
+materials/maps/xc_nature/effects/combineshield/comshieldwall3_384_144_144.vmt,168,168
+materials/maps/xc_nature/effects/combineshield/comshieldwall3_-272_5728_1520.vmt,171,171
+materials/maps/xc_nature/maps/xc_nature/nature/water_canals03_384_144_144_depth_256.vmt,136,136
+materials/maps/xc_nature/maps/xc_nature/nature/water_canals03_384_144_144_depth_16.vmt,135,135
+materials/maps/xc_nature/cubemapdefault.vtf,9824,9824
+materials/maps/xc_nature/c384_144_144.vtf,9824,9824
+materials/maps/xc_nature/c-272_5728_1520.vtf,9824,9824
+materials/maps/xc_nature/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/xc_nature/c384_144_144.hdr.vtf,76520,76520
+materials/maps/xc_nature/c-272_5728_1520.hdr.vtf,76520,76520

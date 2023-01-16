@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/surf_j20/glass/combineglass001a_0_0_0.vmt,124,124
+materials/maps/surf_j20/metal/citadel_tilewall005a_0_0_0.vmt,128,128
+materials/maps/surf_j20/metal/citadel_metalwall078a_0_0_0.vmt,129,129
+materials/maps/surf_j20/nature/water_dx70_opaq_depth_7.vmt,108,108
+materials/maps/surf_j20/nature/water_dx70_opaq_depth_8.vmt,108,108
+materials/maps/surf_j20/cubemapdefault.vtf,9824,9824
+materials/maps/surf_j20/c0_0_0.vtf,9824,9824
+materials/maps/surf_j20/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/surf_j20/c0_0_0.hdr.vtf,76520,76520

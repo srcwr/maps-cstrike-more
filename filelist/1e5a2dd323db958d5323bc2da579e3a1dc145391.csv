@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/maps/gg_spacestation/glass/glasswindow017a_0_0_258.vmt,132,132
+materials/maps/gg_spacestation/glass/glasswindow070c_0_0_258.vmt,132,132
+materials/maps/gg_spacestation/cubemapdefault.vtf,4952,4952
+materials/maps/gg_spacestation/c0_0_258.vtf,4952,4952
+materials/maps/gg_spacestation/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/gg_spacestation/c0_0_258.hdr.vtf,76520,76520
+materials/COLOR/SILVER.vmt,63,63
+materials/color/silver.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC15.vmt,93,93
+materials/dev/dev_measuregeneric15.vtf,11144,11144
+materials/COLOR/BURNT ORANGE.vmt,69,69
+materials/COLOR/ALICE BLUE.vmt,67,67
+materials/skybox/down-under512_up.vmt,143,143
+materials/skybox/down-under512_up.vtf,131280,131280
+materials/skybox/down-under512_dn.vmt,143,143
+materials/skybox/down-under512_dn.vtf,131280,131280
+materials/skybox/down-under512_ft.vmt,143,143
+materials/skybox/down-under512_ft.vtf,131280,131280
+materials/skybox/down-under512_bk.vmt,143,143
+materials/skybox/down-under512_bk.vtf,131280,131280
+materials/skybox/down-under512_lf.vmt,143,143
+materials/skybox/down-under512_lf.vtf,131280,131280
+materials/skybox/down-under512_rt.vmt,143,143
+materials/skybox/down-under512_rt.vtf,131280,131280
+maps/soundcache/gg_spacestation.cache,16,16
+materials/Color/alice blue.vmt,67,67
+materials/Color/alice blue.vtf,11144,11144
+materials/Color/burnt orange.vmt,69,69
+materials/Color/burnt orange.vtf,11144,11144
+materials/Color/silver.vmt,63,63
+materials/Color/silver.vtf,11144,11144

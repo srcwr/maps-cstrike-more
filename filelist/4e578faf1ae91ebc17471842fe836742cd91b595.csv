@@ -1,0 +1,24 @@
+filename,size,compressed
+materials/maps/bhop_blue_platforms/perftest/water_pretty1_depth_8.vmt,108,108
+materials/maps/bhop_blue_platforms/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_blue_platforms/cubemapdefault.hdr.vtf,76528,76528
+materials/DEV/DEV_MEASUREGENERIC16.vmt,93,93
+materials/dev/dev_measuregeneric16.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC37.vmt,93,93
+materials/dev/dev_measuregeneric37.vtf,11144,11144
+materials/ICECREAMLOCK/BLUEGLASS.vmt,117,117
+materials/icecreamlock/blueglass.vtf,2952,2952
+materials/DEV/DEV_MEASUREGENERIC38.vmt,93,93
+materials/dev/dev_measuregeneric38.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC36.vmt,93,93
+materials/dev/dev_measuregeneric36.vtf,11144,11144
+materials/BHOP_BLUEPLATFORMS/START.vmt,91,91
+materials/bhop_blueplatforms/start.vtf,349760,349760
+materials/BHOP_BLUEPLATFORMS/MAPBY.vmt,91,91
+materials/bhop_blueplatforms/mapby.vtf,349760,349760
+materials/BHOP_BLUEPLATFORMS/THANKS.vmt,92,92
+materials/bhop_blueplatforms/thanks.vtf,349760,349760
+materials/BHOP_BLUEPLATFORMS/WIN.vmt,89,89
+materials/bhop_blueplatforms/win.vtf,349760,349760
+sound/bhop_blueplatforms/sam fonteyn - pizzicato playtime.mp3,3439374,3439374
+maps/soundcache/bhop_blue_platforms.cache,16,16

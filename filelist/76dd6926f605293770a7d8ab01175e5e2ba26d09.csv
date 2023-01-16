@@ -1,0 +1,51 @@
+filename,size,compressed
+materials/maps/bhop_akame_d/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_akame_d/cubemapdefault.hdr.vtf,76528,76528
+detail.vbsp,1013,1013
+materials/tools/toolsclip.vmt,358,358
+materials/tools/toolsclip.vtf,5680,5680
+materials/tools/toolsclip-dx10.vtf,5720,5720
+materials/color/lavender grey.vmt,70,70
+materials/color/lavender grey.vtf,11144,11144
+materials/color/chestnut.vmt,65,65
+materials/color/chestnut.vtf,11144,11144
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/color/periwinkle.vmt,67,67
+materials/color/periwinkle.vtf,11144,11144
+materials/devneons/green_neon.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/color/amaranth.vmt,65,65
+materials/color/amaranth.vtf,11144,11144
+materials/bhop_akame/akame-smile.vmt,90,90
+materials/bhop_akame/akame-smile.vtf,174944,174944
+materials/color/orange red.vmt,67,67
+materials/color/orange red.vtf,11144,11144
+materials/color/slate grey.vmt,67,67
+materials/color/slate grey.vtf,11144,11144
+materials/bhop_akame/akame-moont.vmt,90,90
+materials/bhop_akame/akame-moont.vtf,349688,349688
+materials/bhop_akame/akame-sit.vmt,88,88
+materials/bhop_akame/akame-sit.vtf,699272,699272
+materials/bhop_akame/akame-odsmile.vmt,92,92
+materials/bhop_akame/akame-odsmile.vtf,349688,349688
+materials/bhop_akame/akame-sword.vmt,90,90
+materials/bhop_akame/akame-sword.vtf,87544,87544
+materials/bhop_akame/akame-cookie.vmt,91,91
+materials/bhop_akame/akame-cookie.vtf,349688,349688
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/skybox/nukeblankbk.vmt,100,100
+materials/skybox/nukeblankup.vtf,904,904
+materials/skybox/nukeblankdn.vmt,100,100
+materials/skybox/nukeblankft.vmt,102,102
+materials/skybox/nukeblanklf.vmt,100,100
+materials/skybox/nukeblankrt.vmt,100,100
+materials/skybox/nukeblankup.vmt,100,100
+materials/detail/detailsprites.vmt,87,87
+materials/detail/detailsprites.vtf,1398360,1398360

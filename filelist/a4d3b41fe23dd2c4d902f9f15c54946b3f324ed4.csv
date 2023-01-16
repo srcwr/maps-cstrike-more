@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/dm_substation/concrete/concretefloor033o_448_-640_75.vmt,139,139
+materials/maps/dm_substation/concrete/concretefloor033o_260_-1408_73.vmt,140,140
+materials/maps/dm_substation/nature/blendmudmud001a_260_-1408_73.vmt,175,175
+materials/maps/dm_substation/metal/metaldoor046a_448_-640_75.vmt,132,132
+materials/maps/dm_substation/glass/glasswindow037a_260_-1408_73.vmt,135,135
+materials/maps/dm_substation/metal/metalroof004a_448_-640_75.vmt,132,132
+materials/maps/dm_substation/cubemapdefault.vtf,4960,4960
+materials/maps/dm_substation/c448_-640_75.vtf,4960,4960
+materials/maps/dm_substation/c260_-1408_73.vtf,4960,4960
+materials/maps/dm_substation/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/dm_substation/c448_-640_75.hdr.vtf,76528,76528
+materials/maps/dm_substation/c260_-1408_73.hdr.vtf,76528,76528

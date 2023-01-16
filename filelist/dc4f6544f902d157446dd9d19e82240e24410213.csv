@@ -1,0 +1,27 @@
+filename,size,compressed
+materials/maps/aim_junglerain_v4_d/de_tides/blendgrassstonepath_wvt_patch.vmt,276,276
+materials/maps/aim_junglerain_v4_d/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/aim_junglerain_v4_d/glass/combineglass001a_-1306_1505_471.vmt,144,144
+materials/maps/aim_junglerain_v4_d/glass/combineglass001a_751_-1048_456.vmt,143,143
+materials/maps/aim_junglerain_v4_d/glass/combineglass001a_-1334_1885_199.vmt,144,144
+materials/maps/aim_junglerain_v4_d/glass/glasswindow070a_751_-1048_456.vmt,142,142
+materials/maps/aim_junglerain_v4_d/glass/glasswindow070a_-1306_1505_471.vmt,143,143
+materials/maps/aim_junglerain_v4_d/glass/glasswindowbreak070b_-1306_1505_471.vmt,114,114
+materials/maps/aim_junglerain_v4_d/glass/offwndwb_-1306_1505_471.vmt,226,226
+materials/maps/aim_junglerain_v4_d/glass/glasswindowbreak070b_751_-1048_456.vmt,114,114
+materials/maps/aim_junglerain_v4_d/glass/offwndwb_751_-1048_456.vmt,224,224
+materials/maps/aim_junglerain_v4_d/glass/unbreakable_-1306_1505_471.vmt,139,139
+materials/maps/aim_junglerain_v4_d/glass/unbreakable_751_-1048_456.vmt,138,138
+materials/maps/aim_junglerain_v4_d/glass/glasswindow070c_-1306_1505_471.vmt,143,143
+materials/maps/aim_junglerain_v4_d/glass/glasswindow070c_751_-1048_456.vmt,142,142
+materials/maps/aim_junglerain_v4_d/glass/glasswindow070c_-1334_1885_199.vmt,143,143
+materials/maps/aim_junglerain_v4_d/glass/unbreakable_-1334_1885_199.vmt,139,139
+materials/maps/aim_junglerain_v4_d/cubemapdefault.vtf,9832,9832
+materials/maps/aim_junglerain_v4_d/c-1306_1505_471.vtf,9832,9832
+materials/maps/aim_junglerain_v4_d/c751_-1048_456.vtf,9832,9832
+materials/maps/aim_junglerain_v4_d/c-1334_1885_199.vtf,9832,9832
+materials/maps/aim_junglerain_v4_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_junglerain_v4_d/c-1306_1505_471.hdr.vtf,76528,76528
+materials/maps/aim_junglerain_v4_d/c751_-1048_456.hdr.vtf,76528,76528
+materials/maps/aim_junglerain_v4_d/c-1334_1885_199.hdr.vtf,76528,76528
+sound/admin_plugin/aves y rio.mp3,2477038,2477038

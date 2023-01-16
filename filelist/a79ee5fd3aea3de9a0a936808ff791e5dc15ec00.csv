@@ -1,0 +1,79 @@
+filename,size,compressed
+materials/maps/ze_sagreen_v1fix/cubemapdefault.vtf,28753,28753
+materials/maps/ze_sagreen_v1fix/cubemapdefault.hdr.vtf,76528,76528
+materials/NEW_MAP_GREEN/GREEN_WALL.vmt,87,87
+materials/new_map_green/green_wall.vtf,699288,699288
+materials/NEW_MAP_GREEN/GREEN_TILE.vmt,86,86
+materials/new_map_green/green_tile.vtf,175000,175000
+materials/NEW_MAP_GREEN/GREEN_TILE2.vmt,87,87
+materials/new_map_green/green_tile2.vtf,175000,175000
+materials/NEW_MAP_GREEN/GREEN_CRATE.vmt,93,93
+materials/new_map_green/green_crate.vtf,175000,175000
+materials/NEW_MAP_GREEN/GREEN_SAND.vmt,86,86
+materials/new_map_green/green_sand.vtf,175000,175000
+materials/NEW_MAP_GREEN/GREEN_CRATE_BREAKABLE.vmt,103,103
+materials/new_map_green/green_crate_breakable.vtf,175000,175000
+materials/NEW_MAP_GREEN/WOODM_GREEN.vmt,87,87
+materials/new_map_green/woodm_green.vtf,175000,175000
+materials/NEW_MAP_GREEN/PORTAL.vmt,221,221
+materials/new_map_green/portal.vtf,1573072,1573072
+materials/NEW_MAP_GREEN/GREEN_TILE3.vmt,87,87
+materials/new_map_green/green_tile3.vtf,175000,175000
+materials/skybox/overcast_skyup.vmt,91,91
+materials/skybox/overcast_skyup.vtf,3145952,3145952
+materials/skybox/overcast_skydn.vmt,89,89
+materials/skybox/overcast_skydn.vtf,3145952,3145952
+materials/skybox/overcast_skyft.vmt,89,89
+materials/skybox/overcast_skyft.vtf,3145952,3145952
+materials/skybox/overcast_skybk.vmt,93,93
+materials/skybox/overcast_skybk.vtf,3145952,3145952
+materials/skybox/overcast_skylf.vmt,89,89
+materials/skybox/overcast_skylf.vtf,3145952,3145952
+materials/skybox/overcast_skyrt.vmt,89,89
+materials/skybox/overcast_skyrt.vtf,3145952,3145952
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_gear.mdl,1848,1848
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_gear.dx80.vtx,669,669
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_gear.dx90.vtx,669,669
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_gear.sw.vtx,661,661
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_gear.phy,904,904
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_gear.vvd,2880,2880
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rtwheel.mdl,1840,1840
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rtwheel.dx80.vtx,3201,3201
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rtwheel.dx90.vtx,3201,3201
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rtwheel.sw.vtx,3265,3265
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rtwheel.phy,2636,2636
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rtwheel.vvd,10560,10560
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_lfwheel.mdl,1840,1840
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_lfwheel.dx80.vtx,3228,3228
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_lfwheel.dx90.vtx,3228,3228
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_lfwheel.sw.vtx,3292,3292
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_lfwheel.phy,2636,2636
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_lfwheel.vvd,10752,10752
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rotor.mdl,1836,1836
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rotor.dx80.vtx,20310,20310
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rotor.dx90.vtx,20310,20310
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rotor.sw.vtx,20302,20302
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rotor.phy,34511,34511
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_rotor.vvd,94336,94336
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j.mdl,3116,3116
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j.dx80.vtx,239583,239583
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j.dx90.vtx,239583,239583
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j.sw.vtx,239551,239551
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j.phy,54492,54492
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j.vvd,1121920,1121920
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_tail.mdl,1836,1836
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_tail.dx80.vtx,10026,10026
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_tail.dx90.vtx,10026,10026
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_tail.sw.vtx,10018,10018
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_tail.phy,13258,13258
+models/bf2/helicopters/mh-53j pave low iiie/mh-53j_tail.vvd,44672,44672
+sound/music_/waterflame-hidden-path.mp3,5705853,5705853
+materials/models/BF2/helicopters/MH-53J Pave Low IIIE/MH-53J Pave Low IIIE.vmt,290,290
+materials/models/BF2/helicopters/MH-53J Pave Low IIIE/MH-53J Pave Low IIIE.vtf,2796424,2796424
+materials/models/BF2/helicopters/MH-53J Pave Low IIIE/MH-53J Pave Low IIIE_bump.vtf,2796424,2796424
+materials/models/BF2/helicopters/MH-53J Pave Low IIIE/MH-53J Pave Low IIIE_cockpit.vmt,306,306
+materials/models/BF2/helicopters/MH-53J Pave Low IIIE/MH-53J Pave Low IIIE_cockpit.vtf,349688,349688
+materials/models/BF2/helicopters/MH-53J Pave Low IIIE/MH-53J Pave Low IIIE_glass.vmt,340,340
+materials/models/BF2/helicopters/MH-53J Pave Low IIIE/MH-53J Pave Low IIIE_glass.vtf,43856,43856
+materials/models/BF2/helicopters/MH-53J Pave Low IIIE/MH-53J Pave Low IIIE_interior.vmt,214,214
+materials/models/BF2/helicopters/MH-53J Pave Low IIIE/MH-53J Pave Low IIIE_interior.vtf,699272,699272

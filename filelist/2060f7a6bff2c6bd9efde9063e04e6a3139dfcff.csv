@@ -1,0 +1,138 @@
+filename,size,compressed
+materials/maps/jb_alzir_v2/de_nuke/nukwater_movingplane_dx70_depth_67.vmt,120,120
+materials/maps/jb_alzir_v2/de_nuke/nukwater_movingplane_dx70_depth_8.vmt,119,119
+materials/maps/jb_alzir_v2/cubemapdefault.vtf,9824,9824
+materials/maps/jb_alzir_v2/cubemapdefault.hdr.vtf,76520,76520
+materials/CUSTOM text/alzirAK47.vmt,88,88
+materials/CUSTOM text/alzirAK47.vtf,87616,87616
+materials/CUSTOM text/alzirALZIR.vmt,89,89
+materials/CUSTOM text/alzirALZIR.vtf,349760,349760
+materials/CUSTOM text/alzirARMOURY.vmt,91,91
+materials/CUSTOM text/alzirARMOURY.vtf,87616,87616
+materials/CUSTOM text/alzirAWP.vmt,87,87
+materials/CUSTOM text/alzirAWP.vtf,87616,87616
+materials/CUSTOM text/alzirBULLDOGS.vmt,92,92
+materials/CUSTOM text/alzirBULLDOGS.vtf,87616,87616
+materials/CUSTOM text/alzirCLINTON.vmt,91,91
+materials/CUSTOM text/alzirCLINTON.vtf,22080,22080
+materials/CUSTOM text/alzirCLOSE.vmt,89,89
+materials/CUSTOM text/alzirCLOSE.vtf,87616,87616
+materials/CUSTOM text/alzirCT.vmt,86,86
+materials/CUSTOM text/alzirCT.vtf,87616,87616
+materials/CUSTOM text/alzirDARKROOM.vmt,92,92
+materials/CUSTOM text/alzirDARKROOM.vtf,87616,87616
+materials/CUSTOM text/alzirDEAGLE.vmt,90,90
+materials/CUSTOM text/alzirDEAGLE.vtf,87616,87616
+materials/CUSTOM text/alzirDISCO.vmt,89,89
+materials/CUSTOM text/alzirDISCO.vtf,87616,87616
+materials/CUSTOM text/alzirDJ.vmt,86,86
+materials/CUSTOM text/alzirDJ.vtf,87616,87616
+materials/CUSTOM text/alzirENTER.vmt,89,89
+materials/CUSTOM text/alzirENTER.vtf,87616,87616
+materials/CUSTOM text/alzirEXIT.vmt,88,88
+materials/CUSTOM text/alzirEXIT.vtf,87616,87616
+materials/CUSTOM text/alzirGAMEZONE.vmt,92,92
+materials/CUSTOM text/alzirGAMEZONE.vtf,87616,87616
+materials/CUSTOM text/alzirGUNTOSS.vmt,91,91
+materials/CUSTOM text/alzirGUNTOSS.vtf,87616,87616
+materials/CUSTOM text/alzirHELP.vmt,88,88
+materials/CUSTOM text/alzirHELP.vtf,22080,22080
+materials/CUSTOM text/alzirHOME.vmt,88,88
+materials/CUSTOM text/alzirHOME.vtf,87616,87616
+materials/CUSTOM text/alzirINSANIA.vmt,91,91
+materials/CUSTOM text/alzirINSANIA.vtf,22080,22080
+materials/CUSTOM text/alzirKILL.vmt,88,88
+materials/CUSTOM text/alzirKILL.vtf,87616,87616
+materials/CUSTOM text/alzirKNIFEFIGHT.vmt,94,94
+materials/CUSTOM text/alzirKNIFEFIGHT.vtf,87616,87616
+materials/CUSTOM text/alzirLIGHTS.vmt,90,90
+materials/CUSTOM text/alzirLIGHTS.vtf,22080,22080
+materials/CUSTOM text/alzirLONGJUMP.vmt,92,92
+materials/CUSTOM text/alzirLONGJUMP.vtf,87616,87616
+materials/CUSTOM text/alzirM4.vmt,86,86
+materials/CUSTOM text/alzirM4.vtf,87616,87616
+materials/CUSTOM text/alzirMAZE.vmt,88,88
+materials/CUSTOM text/alzirMAZE.vtf,87616,87616
+materials/CUSTOM text/alzirMEDIC.vmt,89,89
+materials/CUSTOM text/alzirMEDIC.vtf,87616,87616
+materials/CUSTOM text/alzirMUSICALBLOCKS.vmt,97,97
+materials/CUSTOM text/alzirMUSICALBLOCKS.vtf,87616,87616
+materials/CUSTOM text/alzirNADE.vmt,88,88
+materials/CUSTOM text/alzirNADE.vtf,87616,87616
+materials/CUSTOM text/alzirOBSTACLE.vmt,92,92
+materials/CUSTOM text/alzirOBSTACLE.vtf,87616,87616
+materials/CUSTOM text/alzirOLYMPICS.vmt,92,92
+materials/CUSTOM text/alzirOLYMPICS.vtf,87616,87616
+materials/CUSTOM text/alzirOPEN.vmt,88,88
+materials/CUSTOM text/alzirOPEN.vtf,22080,22080
+materials/CUSTOM text/alzirPOOL.vmt,88,88
+materials/CUSTOM text/alzirPOOL.vtf,87616,87616
+materials/CUSTOM text/alzirRACE.vmt,88,88
+materials/CUSTOM text/alzirRACE.vtf,87616,87616
+materials/CUSTOM text/alzirRACEOFDEATH.vmt,95,95
+materials/CUSTOM text/alzirRACEOFDEATH.vtf,87616,87616
+materials/CUSTOM text/alzirRACES.vmt,89,89
+materials/CUSTOM text/alzirRACES.vtf,87616,87616
+materials/CUSTOM text/alzirRESET.vmt,89,89
+materials/CUSTOM text/alzirRESET.vtf,22080,22080
+materials/CUSTOM text/alzirRLGL.vmt,88,88
+materials/CUSTOM text/alzirRLGL.vtf,87616,87616
+materials/CUSTOM text/alzirRUNSIDE.vmt,91,91
+materials/CUSTOM text/alzirRUNSIDE.vtf,87616,87616
+materials/CUSTOM text/alzirS4S.vmt,87,87
+materials/CUSTOM text/alzirS4S.vtf,87616,87616
+materials/CUSTOM text/alzirSHOTPUT.vmt,91,91
+materials/CUSTOM text/alzirSHOTPUT.vtf,87616,87616
+materials/CUSTOM text/alzirSKATE.vmt,89,89
+materials/CUSTOM text/alzirSKATE.vtf,87616,87616
+materials/CUSTOM text/alzirSPAWNSIDE.vmt,93,93
+materials/CUSTOM text/alzirSPAWNSIDE.vtf,87616,87616
+materials/CUSTOM text/alzirSTART.vmt,89,89
+materials/CUSTOM text/alzirSTART.vtf,22080,22080
+materials/CUSTOM text/alzirSTOP.vmt,88,88
+materials/CUSTOM text/alzirSTOP.vtf,22080,22080
+materials/CUSTOM text/alzirT.vmt,85,85
+materials/CUSTOM text/alzirT.vtf,87616,87616
+materials/CUSTOM text/alzirTEAMTRIVIA.vmt,94,94
+materials/CUSTOM text/alzirTEAMTRIVIA.vtf,87616,87616
+materials/CUSTOM text/alzirTEMPLATE.vmt,92,92
+materials/CUSTOM text/alzirTEMPLATE.vtf,349760,349760
+materials/CUSTOM text/alzirTRIPLEJUMP.vmt,94,94
+materials/CUSTOM text/alzirTRIPLEJUMP.vtf,87616,87616
+materials/CUSTOM text/alzirTRIVIAM.vmt,91,91
+materials/CUSTOM text/alzirTRIVIAM.vtf,87616,87616
+materials/CUSTOM text/alzirTRIVIAP.vmt,91,91
+materials/CUSTOM text/alzirTRIVIAP.vtf,87616,87616
+materials/CUSTOM text/alzirTRIVIAZONE.vmt,94,94
+materials/CUSTOM text/alzirTRIVIAZONE.vtf,87616,87616
+materials/CUSTOM text/alzirVIP.vmt,87,87
+materials/CUSTOM text/alzirVIP.vtf,87616,87616
+materials/CUSTOM text/alzirWAR.vmt,87,87
+materials/CUSTOM text/alzirWAR.vtf,87616,87616
+materials/CUSTOM text/alzirWOLF.vmt,88,88
+materials/CUSTOM text/alzirWOLF.vtf,87616,87616
+materials/CUSTOM text/black.vmt,65,65
+materials/CUSTOM text/black.vtf,2952,2952
+materials/CUSTOM text/blue.vmt,64,64
+materials/CUSTOM text/blue.vtf,2952,2952
+materials/CUSTOM text/green.vmt,65,65
+materials/CUSTOM text/green.vtf,2952,2952
+materials/CUSTOM text/red.vmt,63,63
+materials/CUSTOM text/red.vtf,2952,2952
+materials/CUSTOM text/shotputlines.vmt,91,91
+materials/CUSTOM text/shotputlines.vtf,43872,43872
+materials/simianbanner.vmt,60,60
+materials/simianbanner.vtf,87552,87552
+sound/Rizlas Sounds/Aqua - Dr. Jones.wav,1807274,1807274
+sound/Rizlas Sounds/B Witched - Hey Mickey! .wav,675408,675408
+sound/Rizlas Sounds/Basshunter - All I Ever Wanted.wav,665162,665162
+sound/Rizlas Sounds/Basshunter - GPS.wav,630612,630612
+sound/Rizlas Sounds/Benny Hill - Theme Song.wav,662664,662664
+sound/Rizlas Sounds/Cyndie Lauper - Girls Just Want to have fun.wav,1880290,1880290
+sound/Rizlas Sounds/Dario G - Sunchyme.wav,1772804,1772804
+sound/Rizlas Sounds/dj gollum ft  scarlet - all the things she said.wav,708026,708026
+sound/Rizlas Sounds/El Chombo - Chacarron.wav,710114,710114
+sound/Rizlas Sounds/freedom.wav,269232,269232
+sound/Rizlas Sounds/Kings Of Leon - Sex is On Fire.wav,2319190,2319190
+sound/Rizlas Sounds/Ludacris ft. Sum 41 - Get Back (remix) .wav,1644662,1644662
+sound/Rizlas Sounds/SR-71- Right Now.wav,3580672,3580672

@@ -1,0 +1,27 @@
+filename,size,compressed
+materials/maps/surf_stonework2/nature/water_canals03_depth_16.vmt,108,108
+materials/maps/surf_stonework2/cubemapdefault.vtf,4960,4960
+materials/maps/surf_stonework2/cubemapdefault.hdr.vtf,76528,76528
+materials/mrcow/stonework2_credits.vtf,5592612,5592612
+materials/models/thespectator/cow/cow_uv.vmt,97,97
+materials/models/thespectator/cow/cow_uv.vtf,699256,699256
+materials/mrcow/stonework2_credits.vmt,118,118
+materials/skybox/mpa125bk.vmt,85,85
+materials/skybox/mpa125bk.vtf,699272,699272
+materials/skybox/mpa125dn.vmt,85,85
+materials/skybox/mpa125dn.vtf,699272,699272
+materials/skybox/mpa125ft.vmt,85,85
+materials/skybox/mpa125ft.vtf,699272,699272
+materials/skybox/mpa125lf.vmt,85,85
+materials/skybox/mpa125lf.vtf,699272,699272
+materials/skybox/mpa125rt.vmt,85,85
+materials/skybox/mpa125rt.vtf,699272,699272
+materials/skybox/mpa125up.vmt,85,85
+materials/skybox/mpa125up.vtf,699272,699272
+models/thespectator/cow.dx80.vtx,21768,21768
+models/thespectator/cow.dx90.vtx,21768,21768
+models/thespectator/cow.sw.vtx,21664,21664
+models/thespectator/cow.mdl,5056,5056
+models/thespectator/cow.phy,16747,16747
+models/thespectator/cow.vvd,74752,74752
+sound/stonework2 sounds/outdoor.wav,378814,378814

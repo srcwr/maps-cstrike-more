@@ -1,0 +1,24 @@
+filename,size,compressed
+materials/maps/cs_mansion_d/de_chateau/rockf_blend_wvt_patch.vmt,115,115
+materials/maps/cs_mansion_d/stone/stonefloor008a_528_-464_336.vmt,133,133
+materials/maps/cs_mansion_d/de_piranesi/woodfloor03_528_-464_336.vmt,136,136
+materials/maps/cs_mansion_d/de_chateau/chatcolumn01_528_-464_336.vmt,136,136
+materials/maps/cs_mansion_d/de_chateau/extdoor01_528_-464_336.vmt,133,133
+materials/maps/cs_mansion_d/de_chateau/floor03_528_-464_336.vmt,131,131
+materials/maps/cs_mansion_d/de_chateau/wall04pnl_528_-464_336.vmt,133,133
+materials/maps/cs_mansion_d/stone/stonefloor003a_528_-464_336.vmt,133,133
+materials/maps/cs_mansion_d/de_chateau/wall04pnl01_528_-464_336.vmt,135,135
+materials/maps/cs_mansion_d/de_chateau/wall04pnltrim_528_-464_336.vmt,137,137
+materials/maps/cs_mansion_d/environment maps/pipemetal004a_528_-464_336.vmt,143,143
+materials/maps/cs_mansion_d/environment maps/pipemetal004b_528_-464_336.vmt,143,143
+materials/maps/cs_mansion_d/liquids/water_pretty1_528_-464_336.vmt,157,157
+materials/maps/cs_mansion_d/de_chateau/exttile01_528_-464_336.vmt,133,133
+materials/maps/cs_mansion_d/cs_havana/door04_528_-464_336.vmt,129,129
+materials/maps/cs_mansion_d/de_piranesi/marblefloor01_528_-464_336.vmt,138,138
+materials/maps/cs_mansion_d/glass/glasswindowbreak070a_528_-464_336.vmt,139,139
+materials/maps/cs_mansion_d/models/props_pipes/pipemetal004a_528_-464_336.vmt,145,145
+materials/maps/cs_mansion_d/maps/cs_mansion_d/liquids/water_pretty1_528_-464_336_depth_16.vmt,139,139
+materials/maps/cs_mansion_d/cubemapdefault.vtf,9832,9832
+materials/maps/cs_mansion_d/c528_-464_336.vtf,9832,9832
+materials/maps/cs_mansion_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cs_mansion_d/c528_-464_336.hdr.vtf,76528,76528

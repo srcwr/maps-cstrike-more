@@ -1,0 +1,96 @@
+filename,size,compressed
+materials/maps/bhop_tinneri/nature/water_canals_cheap001_dx70_depth_64.vmt,120,120
+materials/maps/bhop_tinneri/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_tinneri/cubemapdefault.hdr.vtf,76528,76528
+materials/RealWorldTextures2/Ground/sand_13.vmt,374,374
+materials/RealWorldTextures2/Ground/sand_13.vtf,174984,174984
+materials/RealWorldTextures2/Ground/sand_13_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_smooth1.vtf,16807,16807
+materials/RealWorldTextures2/Rock/rock_43.vmt,374,374
+materials/RealWorldTextures2/Rock/rock_43.vtf,174984,174984
+materials/RealWorldTextures2/Rock/rock_43_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/rock_detail_01.vtf,1048999,1048999
+materials/Silkroad/China/jinsi_floor1_h_deck01.vmt,88,88
+materials/Silkroad/China/jinsi_floor1_h_deck01.vtf,87616,87616
+materials/Silkroad/China/china_wall_tile.vmt,82,82
+materials/Silkroad/China/china_wall_tile.vtf,87616,87616
+materials/Silkroad/Egypt/ground (2).vmt,77,77
+materials/Silkroad/Egypt/ground (2).vtf,87616,87616
+materials/Silkroad/Egypt/column (1).vmt,92,92
+materials/Silkroad/Egypt/column (1).vtf,87552,87552
+materials/RealWorldTextures/newer/1/Wood_1_04.vmt,107,107
+materials/RealWorldTextures/newer/1/Wood_1_04.vtf,174984,174984
+materials/Silkroad/Egypt/ground (12).vmt,78,78
+materials/Silkroad/Egypt/ground (12).vtf,87616,87616
+materials/Silkroad/Egypt/roof (3).vmt,90,90
+materials/Silkroad/Egypt/roof (3).vtf,87616,87616
+materials/ryan_dev/cmyk_magenta.vmt,83,83
+materials/ryan_dev/cmyk_magenta.vtf,11144,11144
+materials/Silkroad/China/cj_luxu_floor.vmt,95,95
+materials/Silkroad/China/cj_luxu_floor.vtf,22080,22080
+materials/srp/concrete/wall_concrete_medium01.vmt,111,111
+materials/srp/concrete/wall_concrete_medium01.vtf,1398336,1398336
+materials/srp/concrete/misc_concrete_medium01.vmt,111,111
+materials/srp/concrete/misc_concrete_medium01.vtf,349760,349760
+materials/RealWorldTextures/newer/1/Grass_1_03.vmt,109,109
+materials/RealWorldTextures/newer/1/Grass_1_03.vtf,174984,174984
+materials/ryan_dev/black.vmt,62,62
+materials/ryan_dev/black.vtf,11144,11144
+materials/RealWorldTextures/Floor/Floor_1_22.vmt,356,356
+materials/RealWorldTextures/Floor/Floor_1_22.vtf,43912,43912
+materials/RealWorldTextures/Floor/Floor_1_22_nrm.vtf,43912,43912
+materials/neon/green.vmt,95,95
+materials/neon/green.vtf,174968,174968
+materials/mytextures/zmei_wow/MM_IRNFG_FLOOR_.vmt,83,83
+materials/mytextures/zmei_wow/MM_IRNFG_FLOOR_.vtf,43912,43912
+materials/RealWorldTextures2/Metal/floor/metal_92.vmt,296,296
+materials/RealWorldTextures2/Metal/floor/metal_92.vtf,174984,174984
+materials/RealWorldTextures2/Metal/floor/metal_80_86_88_92_nrm.vtf,174984,174984
+materials/neon/red.vmt,93,93
+materials/neon/red.vtf,174968,174968
+materials/RealWorldTextures/newer/1/Trim_1_06.vmt,111,111
+materials/RealWorldTextures/newer/1/Trim_1_06.vtf,174984,174984
+materials/neon/yellow.vmt,96,96
+materials/neon/yellow.vtf,174968,174968
+materials/RealWorldTextures/Floor/wood_floor_6.vmt,108,108
+materials/RealWorldTextures/Floor/wood_floor_6.vtf,43912,43912
+materials/omat/stage22.vmt,85,85
+materials/omat/stage22.vtf,349760,349760
+materials/omat/stage11.vmt,85,85
+materials/omat/stage11.vtf,349760,349760
+models/z-o-m-b-i-e/ST/trees/st_trees_07.mdl,4072,4072
+models/z-o-m-b-i-e/ST/trees/st_trees_07.vvd,571168,571168
+models/z-o-m-b-i-e/ST/trees/st_trees_07.dx90.vtx,288028,288028
+models/z-o-m-b-i-e/ST/trees/st_trees_07.dx80.vtx,288028,288028
+models/z-o-m-b-i-e/ST/trees/st_trees_07.sw.vtx,288028,288028
+models/z-o-m-b-i-e/ST/trees/st_trees_07.phy,99167,99167
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_dub_bark.vmt,172,172
+materials/z-o-m-b-i-e/STALKER/trees/trees_dub_bark.vtf,174888,174888
+materials/z-o-m-b-i-e/STALKER/trees/trees_dub_bark_NORM.vtf,174904,174904
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_spil.vmt,163,163
+materials/z-o-m-b-i-e/STALKER/trees/trees_spil.vtf,43896,43896
+materials/z-o-m-b-i-e/STALKER/trees/trees_spil_NORM.vtf,174984,174984
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_vetkasux2.vmt,171,171
+materials/z-o-m-b-i-e/STALKER/trees/trees_vetkasux2.vtf,1398352,1398352
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_vetkagreen3.vmt,230,230
+materials/z-o-m-b-i-e/STALKER/trees/trees_vetkagreen3.vtf,349776,349776
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_vetkagreen1.vmt,173,173
+materials/z-o-m-b-i-e/STALKER/trees/trees_vetkagreen1.vtf,1398352,1398352
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_vetkagreen5.vmt,173,173
+materials/z-o-m-b-i-e/STALKER/trees/trees_vetkagreen5.vtf,349776,349776
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_orex_red.vmt,170,170
+materials/z-o-m-b-i-e/STALKER/trees/trees_orex_red.vtf,349776,349776
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_orex.vmt,166,166
+materials/z-o-m-b-i-e/STALKER/trees/trees_orex.vtf,349776,349776
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_dub_red.vmt,169,169
+materials/z-o-m-b-i-e/STALKER/trees/trees_dub_red.vtf,349776,349776
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_dub.vmt,165,165
+materials/z-o-m-b-i-e/STALKER/trees/trees_dub.vtf,349776,349776
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_sosna_low.vmt,171,171
+materials/z-o-m-b-i-e/STALKER/trees/trees_sosna_low.vtf,349776,349776
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_sosna_red_low.vmt,175,175
+materials/z-o-m-b-i-e/STALKER/trees/trees_sosna_red_low.vtf,349776,349776
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_sosna_sux_low.vmt,175,175
+materials/z-o-m-b-i-e/STALKER/trees/trees_sosna_sux_low.vtf,349776,349776
+materials/models/z-o-m-b-i-e/STALKER/trees/trees_vetkabig.vmt,170,170
+materials/z-o-m-b-i-e/STALKER/trees/trees_vetkabig.vtf,1398352,1398352

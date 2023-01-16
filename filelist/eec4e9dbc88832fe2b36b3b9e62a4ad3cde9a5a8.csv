@@ -1,0 +1,138 @@
+filename,size,compressed
+materials/maps/dr_space_final/nature/blendrockdirt002a_wvt_patch.vmt,220,220
+materials/maps/dr_space_final/metal/citadel_metalwall063a_0_0_0.vmt,135,135
+materials/maps/dr_space_final/metal/citadel_metalwall072c_0_0_0.vmt,135,135
+materials/maps/dr_space_final/metal/citadel_tilefloor016a_cheap_0_0_0.vmt,141,141
+materials/maps/dr_space_final/metal/citadel_metalwall078a_0_0_0.vmt,135,135
+materials/maps/dr_space_final/de_nuke/nukwater_movingplane_depth_15.vmt,115,115
+materials/maps/dr_space_final/de_nuke/nukwater_movingplane_depth_375.vmt,116,116
+materials/maps/dr_space_final/de_nuke/nukwater_movingplane_depth_16.vmt,115,115
+materials/maps/dr_space_final/cubemapdefault.vtf,4960,4960
+materials/maps/dr_space_final/c0_0_0.vtf,4960,4960
+materials/maps/dr_space_final/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/dr_space_final/c0_0_0.hdr.vtf,76528,76528
+materials/agent/agent.vmt,86,86
+materials/agent/agent.vtf,43912,43912
+materials/skybox/GalaxyBk.vmt,89,89
+materials/skybox/GalaxyBk.vtf,699272,699272
+materials/skybox/GalaxyDn.vmt,89,89
+materials/skybox/GalaxyDn.vtf,699272,699272
+materials/skybox/GalaxyFt.vmt,89,89
+materials/skybox/GalaxyFt.vtf,699272,699272
+materials/skybox/GalaxyLf.vmt,89,89
+materials/skybox/GalaxyLf.vtf,699272,699272
+materials/skybox/GalaxyRt.vmt,89,89
+materials/skybox/GalaxyRt.vtf,699272,699272
+materials/skybox/GalaxyUp.vmt,89,89
+materials/skybox/GalaxyUp.vtf,699272,699272
+materials/models/USS Voyager/Border1.vmt,80,80
+materials/models/USS Voyager/BridgeFloor.vmt,84,84
+materials/models/USS Voyager/Cabinet1.vmt,81,81
+materials/models/USS Voyager/CeilingPad2.vmt,103,103
+materials/models/USS Voyager/Cloudy.vmt,79,79
+materials/models/USS Voyager/ColumnFace.vmt,83,83
+materials/models/USS Voyager/Decor.vmt,193,193
+materials/models/USS Voyager/Dull.vmt,229,229
+materials/models/USS Voyager/DullHorizontalTiled.vmt,112,112
+materials/models/USS Voyager/DullNoCull.vmt,119,119
+materials/models/USS Voyager/DullTranslucent.vmt,239,239
+materials/models/USS Voyager/Exterior.vmt,307,307
+materials/models/USS Voyager/ExteriorNoCull.vmt,307,307
+materials/models/USS Voyager/Grate1.vmt,98,98
+materials/models/USS Voyager/Grey1.vmt,78,78
+materials/models/USS Voyager/Grey2.vmt,78,78
+materials/models/USS Voyager/MainExterior.vmt,121,121
+materials/models/USS Voyager/metalfloor006a.vmt,288,288
+materials/models/USS Voyager/metalhull002a.vmt,222,222
+materials/models/USS Voyager/MetalShutters.vmt,231,231
+materials/models/USS Voyager/Overhead.vmt,81,81
+materials/models/USS Voyager/OverheadLight.vmt,105,105
+materials/models/USS Voyager/OverheadVent.vmt,85,85
+materials/models/USS Voyager/Panels.vmt,96,96
+materials/models/USS Voyager/ScreenBottom1.vmt,86,86
+materials/models/USS Voyager/Shelf1.vmt,79,79
+materials/models/USS Voyager/Shelf2.vmt,79,79
+materials/models/USS Voyager/Shelf3.vmt,79,79
+materials/models/USS Voyager/Shiny.vmt,182,182
+materials/models/USS Voyager/Stripe1.vmt,80,80
+materials/models/USS Voyager/Tile1.vmt,78,78
+materials/models/USS Voyager/Vent1.vmt,78,78
+materials/models/USS Voyager/WallBase1.vmt,82,82
+materials/models/USS Voyager/WallBase2.vmt,82,82
+materials/models/USS Voyager/Wording.vmt,102,102
+materials/models/USS Voyager/Generic/Border1.vtf,2112,2112
+materials/models/USS Voyager/Generic/BridgeFloor.vtf,16448,16448
+materials/models/USS Voyager/Generic/Cabinet1.vtf,8256,8256
+materials/models/USS Voyager/Generic/CeilingPad2.vtf,65600,65600
+materials/models/USS Voyager/Generic/Cloudy.vtf,4160,4160
+materials/models/USS Voyager/Generic/ColumnFace.vtf,16448,16448
+materials/models/USS Voyager/Generic/Grate1.vtf,2112,2112
+materials/models/USS Voyager/Generic/Grey1.vtf,4160,4160
+materials/models/USS Voyager/Generic/Grey2.vtf,4160,4160
+materials/models/USS Voyager/Generic/MetalShutters-Reflect.vtf,8256,8256
+materials/models/USS Voyager/Generic/MetalShutters.vtf,8256,8256
+materials/models/USS Voyager/Generic/Overhead.vtf,8256,8256
+materials/models/USS Voyager/Generic/OverheadLight.vtf,8256,8256
+materials/models/USS Voyager/Generic/OverheadVent.vtf,8256,8256
+materials/models/USS Voyager/Generic/ScreenBottom1.vtf,2112,2112
+materials/models/USS Voyager/Generic/Shelf1.vtf,2112,2112
+materials/models/USS Voyager/Generic/Shelf2.vtf,4160,4160
+materials/models/USS Voyager/Generic/Shelf3.vtf,2112,2112
+materials/models/USS Voyager/Generic/Stripe1.vtf,4160,4160
+materials/models/USS Voyager/Generic/Tile1.vtf,4160,4160
+materials/models/USS Voyager/Generic/Vent1.vtf,4160,4160
+materials/models/USS Voyager/Generic/WallBase1.vtf,8256,8256
+materials/models/USS Voyager/Generic/WallBase2.vtf,4160,4160
+materials/models/USS Voyager/Enhanced/Decor-Reflect.vtf,524352,524352
+materials/models/USS Voyager/Enhanced/Decor.vtf,1048640,1048640
+materials/models/USS Voyager/Enhanced/Dull-Alpha.vtf,1048640,1048640
+materials/models/USS Voyager/Enhanced/Dull-Reflect.vtf,131136,131136
+materials/models/USS Voyager/Enhanced/Dull.vtf,1048640,1048640
+materials/models/USS Voyager/Enhanced/DullHorizontalTiled.vtf,131136,131136
+materials/models/USS Voyager/Enhanced/Exterior.vtf,1048656,1048656
+materials/models/USS Voyager/Enhanced/ExteriorDetail.vtf,524352,524352
+materials/models/USS Voyager/Enhanced/ExteriorNormal.vtf,2097216,2097216
+materials/models/USS Voyager/Enhanced/MainExterior.vtf,1048640,1048640
+materials/models/USS Voyager/Enhanced/metal_detail_01.vtf,175008,175008
+materials/models/USS Voyager/Enhanced/metalfloor006a.vtf,174968,174968
+materials/models/USS Voyager/Enhanced/metalfloor006a_normal.vtf,174968,174968
+materials/models/USS Voyager/Enhanced/metalhull002a.vtf,174968,174968
+materials/models/USS Voyager/Enhanced/Panels.vtf,32832,32832
+materials/models/USS Voyager/Enhanced/Shiny-Reflect.vtf,524352,524352
+materials/models/USS Voyager/Enhanced/Shiny.vtf,1048640,1048640
+materials/models/USS Voyager/Enhanced/Wording.vtf,16448,16448
+models/USS Voyager/Left Nacelle.dx80.vtx,10722,10722
+models/USS Voyager/Left Nacelle.dx90.vtx,10722,10722
+models/USS Voyager/left nacelle.mdl,2040,2040
+models/USS Voyager/Left Nacelle.phy,5620,5620
+models/USS Voyager/Left Nacelle.sw.vtx,10722,10722
+models/USS Voyager/left nacelle.vvd,48320,48320
+models/USS Voyager/Left Nacelle.xbox.vtx,10722,10722
+models/USS Voyager/Right Nacelle.dx80.vtx,10722,10722
+models/USS Voyager/Right Nacelle.dx90.vtx,10722,10722
+models/USS Voyager/right nacelle.mdl,2040,2040
+models/USS Voyager/Right Nacelle.phy,5621,5621
+models/USS Voyager/Right Nacelle.sw.vtx,10722,10722
+models/USS Voyager/right nacelle.vvd,48320,48320
+models/USS Voyager/Right Nacelle.xbox.vtx,10722,10722
+models/USS Voyager/Type 9 Door.dx80.vtx,2415,2415
+models/USS Voyager/Type 9 Door.dx90.vtx,2415,2415
+models/USS Voyager/type 9 door.mdl,1732,1732
+models/USS Voyager/Type 9 Door.phy,3678,3678
+models/USS Voyager/Type 9 Door.sw.vtx,2415,2415
+models/USS Voyager/type 9 door.vvd,9600,9600
+models/USS Voyager/Type 9 Door.xbox.vtx,2415,2415
+models/USS Voyager/Type 9 Shuttle.dx80.vtx,23067,23067
+models/USS Voyager/Type 9 Shuttle.dx90.vtx,23067,23067
+models/USS Voyager/type 9 shuttle.mdl,2036,2036
+models/USS Voyager/Type 9 Shuttle.phy,8596,8596
+models/USS Voyager/Type 9 Shuttle.sw.vtx,23067,23067
+models/USS Voyager/type 9 shuttle.vvd,109184,109184
+models/USS Voyager/Type 9 Shuttle.xbox.vtx,23067,23067
+models/USS Voyager/USS Voyager.dx80.vtx,258456,258456
+models/USS Voyager/USS Voyager.dx90.vtx,258456,258456
+models/USS Voyager/uss voyager.mdl,7212,7212
+models/USS Voyager/USS Voyager.phy,32862,32862
+models/USS Voyager/USS Voyager.sw.vtx,258456,258456
+models/USS Voyager/uss voyager.vvd,1196928,1196928
+models/USS Voyager/USS Voyager.xbox.vtx,258456,258456

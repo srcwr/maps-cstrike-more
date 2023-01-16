@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/surf_park_v2/nature/blenddirtgrass005a_wvt_patch.vmt,368,368
+materials/maps/surf_park_v2/nature/blenddirtgrass001b_wvt_patch.vmt,333,333
+materials/maps/surf_park_v2/glass/combineglass001a_0_0_0.vmt,128,128
+materials/maps/surf_park_v2/metal/metalroof006a_0_0_0.vmt,125,125
+materials/maps/surf_park_v2/liquids/militiawaterbeneath_depth_32.vmt,114,114
+materials/maps/surf_park_v2/liquids/militiawaterbeneath_depth_48.vmt,114,114
+materials/maps/surf_park_v2/cubemapdefault.vtf,28753,28753
+materials/maps/surf_park_v2/c0_0_0.vtf,28753,28753
+materials/maps/surf_park_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_park_v2/c0_0_0.hdr.vtf,76528,76528

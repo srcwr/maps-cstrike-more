@@ -1,0 +1,47 @@
+filename,size,compressed
+materials/maps/smash_red_and_white_v51/nature/water_canals_water2_depth_320.vmt,114,114
+materials/maps/smash_red_and_white_v51/cubemapdefault.vtf,4952,4952
+materials/METAL/metalfloor003a_red.vmt,72,72
+materials/METAL/metalfloor003a_red.vtf,349760,349760
+materials/METAL/metalfloor003a_white.vmt,74,74
+materials/METAL/metalfloor003a_white.vtf,349760,349760
+materials/VGUI/logos/TBG.vmt,120,120
+materials/VGUI/logos/UI/tbg.vmt,204,204
+materials/VGUI/logos/TBG.vtf,87616,87616
+materials/glass/red.vmt,83,83
+materials/glass/red.vtf,349760,349760
+materials/models/player/techknow/tmnt/red.vmt,222,222
+materials/models/player/techknow/tmnt/red.vtf,22008,22008
+materials/models/player/po_css/red.vmt,81,81
+materials/models/player/po_css/red.vtf,524496,524496
+materials/models/csff/kitt2009/red.vtf,699196,699196
+materials/models/csff/kitt2009/red.vmt,252,252
+materials/THW_Mario/Black.vtf,576,576
+materials/paintball/pb_black.vmt,153,153
+materials/sample2/THW_Mario/Black.vmt,87,87
+materials/THW_Mario/Black.vmt,87,87
+materials/models/player/techknow/robocop/black.vmt,216,216
+materials/models/csff/kitt2009/black.vtf,699196,699196
+materials/models/csff/kitt2009/black.vmt,232,232
+materials/models/player/techknow/bart/black.vmt,250,250
+materials/models/player/techknow/bart/black.vtf,11144,11144
+materials/sample2/THW_Mario/Black.vtf,576,576
+materials/METAL/metalfloor003a_blue.vmt,73,73
+materials/METAL/metalfloor003a_blue.vtf,349760,349760
+materials/skybox/mpa45rt.vtf,699272,699272
+materials/skybox/mpa45up.vmt,84,84
+materials/skybox/mpa45rt.vmt,84,84
+materials/skybox/mpa45lf.vmt,84,84
+materials/skybox/mpa45ft.vmt,84,84
+materials/skybox/mpa45dn.vmt,84,84
+materials/skybox/mpa45bk.vmt,84,84
+materials/skybox/mpa45up.vtf,699272,699272
+materials/skybox/mpa45bk.vtf,699272,699272
+materials/skybox/mpa45dn.vtf,699272,699272
+materials/skybox/mpa45ft.vtf,699272,699272
+materials/skybox/mpa45lf.vtf,699272,699272
+sound/xix/01.mp3,5244504,5244504
+sound/xix/14 - Pendulum - Axle Grinder.mp3,4058043,4058043
+sound/xix/13 - Pendulum - Blood Sugar.mp3,5143064,5143064
+sound/xix/02 - Pendulum - Slam.mp3,5610754,5610754
+soundcache/smash_red_and_white_v51.cache,16,16

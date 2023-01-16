@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/ka_soccer_howzat/cubemapdefault.vtf,9824,9824
+materials/sub/ceil_white.vmt,123,123
+materials/sub/ceil_white.vtf,174968,174968
+materials/sub/ceil_white_normal.vtf,174968,174968
+sound/ka_soccer_2006/crowd_1.wav,27210,27210
+sound/ka_soccer_2006/sifflet_but.wav,20698,20698
+materials/IndoorSoccer/ball.vmt,88,88
+materials/IndoorSoccer/ball.vtf,1398308,1398308
+materials/IndoorSoccer/cubemap.vmt,65,65
+materials/IndoorSoccer/cubemap.vtf,19272,19272
+materials/IndoorSoccer/floor.vmt,198,198
+materials/IndoorSoccer/floor.vtf,174968,174968
+materials/IndoorSoccer/goalnetting.vmt,89,89
+materials/IndoorSoccer/goalnetting.vtf,87588,87588
+materials/IndoorSoccer/wallnetting.vmt,91,91
+materials/IndoorSoccer/wallnetting.vtf,22080,22080

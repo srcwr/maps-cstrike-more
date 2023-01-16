@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/ak47_m4a1_dust/cubemapdefault.vtf,9824,9824
+materials/maps/ak47_m4a1_dust/c-512_-640_72.vtf,4952,4952
+materials/maps/ak47_m4a1_dust/c512_-640_72.vtf,4952,4952
+materials/maps/ak47_m4a1_dust/c512_640_72.vtf,4952,4952
+materials/maps/ak47_m4a1_dust/c-512_640_72.vtf,4952,4952
+materials/maps/ak47_m4a1_dust/c-384_0_72.vtf,4952,4952
+materials/maps/ak47_m4a1_dust/c384_0_72.vtf,4952,4952
+materials/maps/ak47_m4a1_dust/c-512_-640_72.hdr.vtf,76520,76520
+materials/maps/ak47_m4a1_dust/c512_-640_72.hdr.vtf,76520,76520
+materials/maps/ak47_m4a1_dust/c512_640_72.hdr.vtf,76520,76520
+materials/maps/ak47_m4a1_dust/c-512_640_72.hdr.vtf,76520,76520
+materials/maps/ak47_m4a1_dust/c-384_0_72.hdr.vtf,76520,76520
+materials/maps/ak47_m4a1_dust/c384_0_72.hdr.vtf,76520,76520
+maps/ak47_m4a1_dust.txt,103,103

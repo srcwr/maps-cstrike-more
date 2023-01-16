@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/gg_sycozos_v3/concrete/concretefloor011a_c17_-384_-548_240.vmt,184,184
+materials/maps/gg_sycozos_v3/brick/offwllb_-544_-549_242.vmt,128,128
+materials/maps/gg_sycozos_v3/brick/offwllb_-384_-548_240.vmt,128,128
+materials/maps/gg_sycozos_v3/concrete/concretefloor011a_c17_-544_-549_242.vmt,184,184
+materials/maps/gg_sycozos_v3/de_nuke/nukfloorb_-384_-548_240.vmt,132,132
+materials/maps/gg_sycozos_v3/glass/glasswindowbreak070b_-384_-548_240.vmt,114,114
+materials/maps/gg_sycozos_v3/glass/offwndwb_-384_-548_240.vmt,212,212
+materials/maps/gg_sycozos_v3/glass/glasswindowbreak070b_-544_-549_242.vmt,114,114
+materials/maps/gg_sycozos_v3/glass/offwndwb_-544_-549_242.vmt,212,212
+materials/maps/gg_sycozos_v3/de_piranesi/woodfloor02_-384_-548_240.vmt,138,138
+materials/maps/gg_sycozos_v3/de_piranesi/woodfloor02_-544_-549_242.vmt,138,138
+materials/maps/gg_sycozos_v3/cubemapdefault.vtf,9824,9824
+materials/maps/gg_sycozos_v3/c-384_-548_240.vtf,9824,9824
+materials/maps/gg_sycozos_v3/c-544_-549_242.vtf,9824,9824
+maps/gg_sycozos_v3.nav,147605,147605
+maps/soundcache/gg_sycozos_v3.cache,16,16

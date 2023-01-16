@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/zm_death_house/tile/tilewall006a_0_0_0.vmt,125,125
+materials/maps/zm_death_house/de_chateau/floor02_0_0_0.vmt,126,126
+materials/maps/zm_death_house/metal/metalpipe009a_0_0_0.vmt,127,127
+materials/maps/zm_death_house/metal/citadel_metalwall063a_0_0_0.vmt,135,135
+materials/maps/zm_death_house/metal/metalfloor001a_0_0_0.vmt,128,128
+materials/maps/zm_death_house/de_nuke/nukwater_movingplane_dx70_depth_74.vmt,120,120
+materials/maps/zm_death_house/cubemapdefault.vtf,28753,28753
+materials/maps/zm_death_house/c0_0_0.vtf,28753,28753
+materials/maps/zm_death_house/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_death_house/c0_0_0.hdr.vtf,76528,76528
+materials/mytextures/coretemp.vmt,67,67
+materials/mytextures/coretemp.vtf,22008,22008

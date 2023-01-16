@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/002/stone/stonefloor003a_832_-1536_192.vmt,125,125
+materials/maps/002/metal/metalwall048a_832_-1536_192.vmt,124,124
+materials/maps/002/metal/metalfloor001a_832_-1536_192.vmt,125,125
+materials/maps/002/brick/brickwall014f_832_-1536_192.vmt,124,124
+materials/maps/002/de_chateau/interiortile02_832_-1536_192.vmt,130,130
+materials/maps/002/building_template/building_template002o_832_-1536_192.vmt,144,144
+materials/maps/002/metal/citadel_tilewall005a_832_-1536_192.vmt,131,131
+materials/maps/002/cubemapdefault.vtf,28753,28753
+materials/maps/002/c832_-1536_192.vtf,28753,28753
+materials/maps/002/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/002/c832_-1536_192.hdr.vtf,76528,76528

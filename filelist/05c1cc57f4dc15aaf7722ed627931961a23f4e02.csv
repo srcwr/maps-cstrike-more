@@ -1,0 +1,190 @@
+filename,size,compressed
+materials/maps/mg_crash_bandicoot_party_v1/nature/water_canals03_-470_-1358_91.vmt,173,173
+materials/maps/mg_crash_bandicoot_party_v1/effects/combineshield/comshieldwall2faded_-470_-1358_91.vmt,193,193
+materials/maps/mg_crash_bandicoot_party_v1/metal/metalwall048a_-470_-1358_91.vmt,148,148
+materials/maps/mg_crash_bandicoot_party_v1/metal/metalpipe005a_-470_-1358_91.vmt,148,148
+materials/maps/mg_crash_bandicoot_party_v1/glass/glasswindow070c_-470_-1358_91.vmt,150,150
+materials/maps/mg_crash_bandicoot_party_v1/stone/stonefloor006a_-470_-1358_91.vmt,149,149
+materials/maps/mg_crash_bandicoot_party_v1/metal/metalpipeendcap001a_-470_-1358_91.vmt,154,154
+materials/maps/mg_crash_bandicoot_party_v1/maps/mg_crash_bandicoot_party_v1/nature/water_canals03_-470_-1358_91_depth_104.vmt,156,156
+materials/maps/mg_crash_bandicoot_party_v1/maps/mg_crash_bandicoot_party_v1/nature/water_canals03_-470_-1358_91_depth_256.vmt,156,156
+materials/maps/mg_crash_bandicoot_party_v1/maps/mg_crash_bandicoot_party_v1/nature/water_canals03_-470_-1358_91_depth_64.vmt,155,155
+materials/maps/mg_crash_bandicoot_party_v1/maps/mg_crash_bandicoot_party_v1/nature/water_canals03_-470_-1358_91_depth_11.vmt,155,155
+materials/maps/mg_crash_bandicoot_party_v1/maps/mg_crash_bandicoot_party_v1/nature/water_canals03_-470_-1358_91_depth_366.vmt,156,156
+materials/maps/mg_crash_bandicoot_party_v1/liquids/militiawater_dx70_depth_255.vmt,113,113
+materials/maps/mg_crash_bandicoot_party_v1/cubemapdefault.vtf,9832,9832
+materials/maps/mg_crash_bandicoot_party_v1/c-470_-1358_91.vtf,9832,9832
+materials/maps/mg_crash_bandicoot_party_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_crash_bandicoot_party_v1/c-470_-1358_91.hdr.vtf,76528,76528
+sound/teleport.mp3,33271,33271
+sound/crash_music1.mp3,1671290,1671290
+sound/crash_lightout_music.mp3,4882092,4882092
+sound/woah.mp3,9657,9657
+sound/crash_spacedout_music.mp3,5041757,5041757
+sound/crash_futurefrenzy_music.mp3,4977686,4977686
+sound/trigger.mp3,14254,14254
+sound/waterup.mp3,38496,38496
+sound/waterdown.mp3,29719,29719
+sound/crash_tombwader_music.mp3,5015184,5015184
+sound/crash_plantfood_music.mp3,4844481,4844481
+sound/fall.mp3,16344,16344
+sound/crash_snowgo_music.mp3,5235012,5235012
+sound/pushdown.mp3,23867,23867
+sound/crash_rockit_music.mp3,5117954,5117954
+sound/crash_lostcity_music.mp3,4959858,4959858
+sound/gem.mp3,33332,33332
+sound/nitrotrigger.mp3,51147,51147
+materials/Crash B. Texture/akuaku.vmt,114,114
+materials/Crash B. Texture/akuaku.vtf,1600,1600
+materials/Crash B. Texture/box.vmt,111,111
+materials/Crash B. Texture/box.vtf,1600,1600
+materials/Crash B. Texture/casebox.vmt,115,115
+materials/Crash B. Texture/casebox.vtf,1600,1600
+materials/Crash B. Texture/checkpoint.vmt,118,118
+materials/Crash B. Texture/checkpoint.vtf,1600,1600
+materials/Crash B. Texture/credits.vmt,111,111
+materials/Crash B. Texture/credits.vtf,2796424,2796424
+materials/Crash B. Texture/darkcastlecourse.vmt,120,120
+materials/Crash B. Texture/darkcastlecourse.vtf,349688,349688
+materials/Crash B. Texture/future_frenzy_text1.vmt,109,109
+materials/Crash B. Texture/future_frenzy_text1.vtf,1600,1600
+materials/Crash B. Texture/future_frenzy_text2.vmt,109,109
+materials/Crash B. Texture/future_frenzy_text2.vtf,5696,5696
+materials/Crash B. Texture/future_frenzy_text3.vmt,109,109
+materials/Crash B. Texture/future_frenzy_text3.vtf,5696,5696
+materials/Crash B. Texture/future_frenzy_text4.vmt,109,109
+materials/Crash B. Texture/future_frenzy_text4.vtf,1600,1600
+materials/Crash B. Texture/future_frenzy_text5.vmt,109,109
+materials/Crash B. Texture/future_frenzy_text5.vtf,87616,87616
+materials/Crash B. Texture/futuristicawp.vmt,117,117
+materials/Crash B. Texture/futuristicawp.vtf,349688,349688
+materials/Crash B. Texture/gem.vmt,110,110
+materials/Crash B. Texture/gem.vtf,576,576
+materials/Crash B. Texture/ironbox.vmt,116,116
+materials/Crash B. Texture/ironbox.vtf,1600,1600
+materials/Crash B. Texture/irongreenbox.vmt,121,121
+materials/Crash B. Texture/irongreenbox.vtf,1600,1600
+materials/Crash B. Texture/jump&jump.vmt,113,113
+materials/Crash B. Texture/jump&jump.vtf,349688,349688
+materials/Crash B. Texture/jumpbox.vmt,115,115
+materials/Crash B. Texture/jumpbox.vtf,1600,1600
+materials/Crash B. Texture/knifewaders.vmt,115,115
+materials/Crash B. Texture/knifewaders.vtf,349688,349688
+materials/Crash B. Texture/lights_out_text1.vmt,105,105
+materials/Crash B. Texture/lights_out_text1.vtf,22080,22080
+materials/Crash B. Texture/lights_out_text2.vmt,111,111
+materials/Crash B. Texture/lights_out_text2.vtf,22080,22080
+materials/Crash B. Texture/lights_out_text3.vmt,111,111
+materials/Crash B. Texture/lights_out_text3.vtf,11104,11104
+materials/Crash B. Texture/lights_out_text4.vmt,105,105
+materials/Crash B. Texture/lights_out_text4.vtf,22080,22080
+materials/Crash B. Texture/lights_out_text5.vmt,111,111
+materials/Crash B. Texture/lights_out_text5.vtf,5696,5696
+materials/Crash B. Texture/lights_out_text6.vmt,111,111
+materials/Crash B. Texture/lights_out_text6.vtf,5696,5696
+materials/Crash B. Texture/lights_out_text7.vmt,106,106
+materials/Crash B. Texture/lights_out_text7.vtf,5696,5696
+materials/Crash B. Texture/lost_city_text1.vmt,104,104
+materials/Crash B. Texture/lost_city_text1.vtf,5696,5696
+materials/Crash B. Texture/lost_city_text2.vmt,104,104
+materials/Crash B. Texture/lost_city_text2.vtf,1600,1600
+materials/Crash B. Texture/lost_city_text3.vmt,104,104
+materials/Crash B. Texture/lost_city_text3.vtf,5696,5696
+materials/Crash B. Texture/lost_city_text4.vmt,104,104
+materials/Crash B. Texture/lost_city_text4.vtf,1536,1536
+materials/Crash B. Texture/lowgravitywar.vmt,117,117
+materials/Crash B. Texture/lowgravitywar.vtf,349688,349688
+materials/Crash B. Texture/n_sanity_text1.vmt,105,105
+materials/Crash B. Texture/n_sanity_text1.vtf,1600,1600
+materials/Crash B. Texture/nitrobox.vmt,116,116
+materials/Crash B. Texture/nitrobox.vtf,1600,1600
+materials/Crash B. Texture/nitroboxup.vmt,118,118
+materials/Crash B. Texture/nitroboxup.vtf,1600,1600
+materials/Crash B. Texture/nitrodetonator.vmt,123,123
+materials/Crash B. Texture/nitrodetonator.vtf,1600,1600
+materials/Crash B. Texture/plant_food_text1.vmt,105,105
+materials/Crash B. Texture/plant_food_text1.vtf,22080,22080
+materials/Crash B. Texture/plant_food_text2.vmt,105,105
+materials/Crash B. Texture/plant_food_text2.vtf,22080,22080
+materials/Crash B. Texture/plant_food_text3.vmt,105,105
+materials/Crash B. Texture/plant_food_text3.vtf,5696,5696
+materials/Crash B. Texture/plant_food_text4.vmt,105,105
+materials/Crash B. Texture/plant_food_text4.vtf,1536,1536
+materials/Crash B. Texture/plant_food_text5.vmt,105,105
+materials/Crash B. Texture/plant_food_text5.vtf,5696,5696
+materials/Crash B. Texture/plant_food_text6.vmt,105,105
+materials/Crash B. Texture/plant_food_text6.vtf,2912,2912
+materials/Crash B. Texture/plant_food_text7.vmt,105,105
+materials/Crash B. Texture/plant_food_text7.vtf,1600,1600
+materials/Crash B. Texture/riverbhop.vmt,113,113
+materials/Crash B. Texture/riverbhop.vtf,349688,349688
+materials/Crash B. Texture/rock_it_text1.vmt,126,126
+materials/Crash B. Texture/rock_it_text1.vtf,1600,1600
+materials/Crash B. Texture/rock_it_text2.vmt,103,103
+materials/Crash B. Texture/rock_it_text2.vtf,5696,5696
+materials/Crash B. Texture/rock_it_text3.vmt,103,103
+materials/Crash B. Texture/rock_it_text3.vtf,22080,22080
+materials/Crash B. Texture/rock_it_text4.vmt,103,103
+materials/Crash B. Texture/rock_it_text4.vtf,1600,1600
+materials/Crash B. Texture/rock_it_text5.vmt,103,103
+materials/Crash B. Texture/rock_it_text5.vtf,2912,2912
+materials/Crash B. Texture/rock_it_text6.vmt,103,103
+materials/Crash B. Texture/rock_it_text6.vtf,22080,22080
+materials/Crash B. Texture/rock_it_text7.vmt,103,103
+materials/Crash B. Texture/rock_it_text7.vtf,11104,11104
+materials/Crash B. Texture/rock_it_text8.vmt,103,103
+materials/Crash B. Texture/rock_it_text8.vtf,1600,1600
+materials/Crash B. Texture/search&kill.vmt,115,115
+materials/Crash B. Texture/search&kill.vtf,349688,349688
+materials/Crash B. Texture/shipbattle.vmt,114,114
+materials/Crash B. Texture/shipbattle.vtf,349688,349688
+materials/Crash B. Texture/slipperycourse.vmt,118,118
+materials/Crash B. Texture/slipperycourse.vtf,349688,349688
+materials/Crash B. Texture/snow_go_text1.vmt,101,101
+materials/Crash B. Texture/snow_go_text1.vtf,22080,22080
+materials/Crash B. Texture/snow_go_text2.vmt,102,102
+materials/Crash B. Texture/snow_go_text2.vtf,5696,5696
+materials/Crash B. Texture/snow_go_text3.vmt,102,102
+materials/Crash B. Texture/snow_go_text3.vtf,43872,43872
+materials/Crash B. Texture/snow_go_text4.vmt,102,102
+materials/Crash B. Texture/snow_go_text4.vtf,22080,22080
+materials/Crash B. Texture/snow_go_text5.vmt,108,108
+materials/Crash B. Texture/snow_go_text5.vtf,5696,5696
+materials/Crash B. Texture/snow_go_text6.vmt,108,108
+materials/Crash B. Texture/snow_go_text6.vtf,2912,2912
+materials/Crash B. Texture/spaced_out_text1.vmt,106,106
+materials/Crash B. Texture/spaced_out_text1.vtf,1600,1600
+materials/Crash B. Texture/spaced_out_text2.vmt,106,106
+materials/Crash B. Texture/spaced_out_text2.vtf,5696,5696
+materials/Crash B. Texture/spaced_out_text3.vmt,106,106
+materials/Crash B. Texture/spaced_out_text3.vtf,11104,11104
+materials/Crash B. Texture/spaced_out_text4.vmt,109,109
+materials/Crash B. Texture/spaced_out_text4.vtf,1528,1528
+materials/Crash B. Texture/spaced_out_text5.vmt,106,106
+materials/Crash B. Texture/spaced_out_text5.vtf,1536,1536
+materials/Crash B. Texture/spaced_out_text6.vmt,106,106
+materials/Crash B. Texture/spaced_out_text6.vtf,5696,5696
+materials/Crash B. Texture/spaced_out_text7.vmt,106,106
+materials/Crash B. Texture/spaced_out_text7.vtf,1600,1600
+materials/Crash B. Texture/strongbox.vmt,119,119
+materials/Crash B. Texture/strongbox.vtf,1600,1600
+materials/Crash B. Texture/techcourse.vmt,114,114
+materials/Crash B. Texture/techcourse.vtf,349688,349688
+materials/Crash B. Texture/tomb_wader_text1.vmt,105,105
+materials/Crash B. Texture/tomb_wader_text1.vtf,2912,2912
+materials/Crash B. Texture/tomb_wader_text2.vmt,105,105
+materials/Crash B. Texture/tomb_wader_text2.vtf,5696,5696
+materials/Crash B. Texture/tomb_wader_text3.vmt,111,111
+materials/Crash B. Texture/tomb_wader_text3.vtf,2912,2912
+materials/Crash B. Texture/tomb_wader_text4.vmt,105,105
+materials/Crash B. Texture/tomb_wader_text4.vtf,1600,1600
+materials/Crash B. Texture/tomb_wader_text5.vmt,105,105
+materials/Crash B. Texture/tomb_wader_text5.vtf,11104,11104
+materials/Crash B. Texture/tomb_wader_text6.vmt,120,120
+materials/Crash B. Texture/tomb_wader_text6.vtf,5696,5696
+materials/Crash B. Texture/tombdeagle.vmt,114,114
+materials/Crash B. Texture/tombdeagle.vtf,349688,349688
+materials/Crash B. Texture/tomorrowwar.vmt,115,115
+materials/Crash B. Texture/tomorrowwar.vtf,349688,349688
+materials/Crash B. Texture/triggerbox.vmt,119,119
+materials/Crash B. Texture/triggerbox.vtf,1600,1600

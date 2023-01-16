@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/ba_hs_basedlargegames_v3_001/tile/tilefloor021a_0_0_0.vmt,140,140
+materials/maps/ba_hs_basedlargegames_v3_001/tile/tilewall006a_0_0_0.vmt,139,139
+materials/maps/ba_hs_basedlargegames_v3_001/metal/citadel_metalwall101b_0_0_0.vmt,149,149
+materials/maps/ba_hs_basedlargegames_v3_001/glass/combineglass001a_0_0_0.vmt,144,144
+materials/maps/ba_hs_basedlargegames_v3_001/liquids/militiawater_dx70_depth_464.vmt,113,113
+materials/maps/ba_hs_basedlargegames_v3_001/liquids/militiawater_dx70_depth_76.vmt,112,112
+materials/maps/ba_hs_basedlargegames_v3_001/liquids/militiawater_dx70_depth_160.vmt,113,113
+materials/maps/ba_hs_basedlargegames_v3_001/de_nuke/nukwater_movingplane_dx70_depth_229.vmt,121,121
+materials/maps/ba_hs_basedlargegames_v3_001/de_nuke/nukwater_movingplane_dx70_depth_14.vmt,120,120
+materials/maps/ba_hs_basedlargegames_v3_001/cubemapdefault.vtf,9824,9824
+materials/maps/ba_hs_basedlargegames_v3_001/c0_0_0.vtf,9824,9824
+materials/VGUI/LOGOS/KG.vmt,119,119
+materials/vgui/logos/kg.vtf,87616,87616
+maps/soundcache/ba_hs_basedlargegames_v3_001.cache,16,16

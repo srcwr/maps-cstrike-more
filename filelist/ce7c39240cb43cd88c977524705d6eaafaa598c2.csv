@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/de_dustbrad/de_dust/tilefloor02_-899_-112_264.vmt,132,132
+materials/maps/de_dustbrad/de_dust/tilefloor02_724_-127_264.vmt,131,131
+materials/maps/de_dustbrad/de_dust/tilefloor02_-124_-716_139.vmt,132,132
+materials/maps/de_dustbrad/de_dust/tilefloor02_-105_-149_26.vmt,131,131
+materials/maps/de_dustbrad/de_dust/tilefloor02_-118_386_139.vmt,131,131
+materials/maps/de_dustbrad/cubemapdefault.vtf,9824,9824
+materials/maps/de_dustbrad/c-899_-112_264.vtf,4952,4952
+materials/maps/de_dustbrad/c724_-127_264.vtf,4952,4952
+materials/maps/de_dustbrad/c-124_-716_139.vtf,4952,4952
+materials/maps/de_dustbrad/c-105_-149_26.vtf,4952,4952
+materials/maps/de_dustbrad/c-118_386_139.vtf,4952,4952
+materials/maps/de_dustbrad/c-124_-716_139.hdr.vtf,76520,76520
+materials/maps/de_dustbrad/c-105_-149_26.hdr.vtf,76520,76520
+materials/maps/de_dustbrad/c-118_386_139.hdr.vtf,76520,76520
+materials/maps/de_dustbrad/c-899_-112_264.hdr.vtf,76520,76520
+materials/maps/de_dustbrad/c724_-127_264.hdr.vtf,76520,76520

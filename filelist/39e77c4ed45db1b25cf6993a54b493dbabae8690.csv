@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/deathrun_big_2/metal/metalwall090a_0_0_0.vmt,127,127
+materials/maps/deathrun_big_2/metal/metalwall077a_0_0_0.vmt,127,127
+materials/maps/deathrun_big_2/shadertest/water_refract_only_0_0_0.vmt,160,160
+materials/maps/deathrun_big_2/metal/metalwall101b_0_0_0.vmt,127,127
+materials/maps/deathrun_big_2/shadertest/water_refract_only_depth_120.vmt,117,117
+materials/maps/deathrun_big_2/shadertest/water_refract_only_depth_178.vmt,117,117
+materials/maps/deathrun_big_2/shadertest/water_refract_only_depth_204.vmt,117,117
+materials/maps/deathrun_big_2/cubemapdefault.vtf,9824,9824
+materials/maps/deathrun_big_2/c0_0_0.vtf,9824,9824

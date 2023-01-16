@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/industrial_scouter/de_cbble/grassdirt_blend_wvt_patch.vmt,165,165
+materials/maps/industrial_scouter/vehicle/metaltrain001d_0_0_0.vmt,134,134
+materials/maps/industrial_scouter/tile/tileroof004a_0_0_0.vmt,129,129
+materials/maps/industrial_scouter/cubemapdefault.vtf,28753,28753
+materials/maps/industrial_scouter/c0_0_0.vtf,28753,28753
+materials/maps/industrial_scouter/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/industrial_scouter/c0_0_0.hdr.vtf,76528,76528
+materials/COLOR/RED.vmt,60,60
+materials/color/red.vtf,11144,11144
+maps/industrial_scouter.nav,378998,378998
+maps/soundcache/industrial_scouter.cache,16,16

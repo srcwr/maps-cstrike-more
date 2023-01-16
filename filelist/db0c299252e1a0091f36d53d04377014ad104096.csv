@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/surf_bigair/de_piranesi/marblefloor01_0_0_0.vmt,130,130
+materials/maps/surf_bigair/de_piranesi/marblefloor08_0_0_0.vmt,130,130
+materials/maps/surf_bigair/de_piranesi/marblefloor13_0_0_0.vmt,130,130
+materials/maps/surf_bigair/vehicle/metaltrain002a_0_0_0.vmt,127,127
+materials/maps/surf_bigair/vehicle/rubbertrainfloor001a_0_0_0.vmt,133,133
+materials/maps/surf_bigair/tile/tileroof004a_0_0_0.vmt,122,122
+materials/maps/surf_bigair/tile/tilewall006a_0_0_0.vmt,122,122
+materials/maps/surf_bigair/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/surf_bigair/dev/dev_water2_depth_8.vmt,100,100
+materials/maps/surf_bigair/dev/dev_water2_depth_32.vmt,101,101
+materials/maps/surf_bigair/dev/dev_water2_depth_216.vmt,102,102
+materials/maps/surf_bigair/cubemapdefault.vtf,9808,9808
+materials/maps/surf_bigair/c0_0_0.vtf,9808,9808

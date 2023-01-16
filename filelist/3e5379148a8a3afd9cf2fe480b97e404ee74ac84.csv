@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/fy_cataracta/liquids/water_pretty1_-1136_881_-312.vmt,159,159
+materials/maps/fy_cataracta/maps/fy_cataracta/liquids/water_pretty1_-1136_881_-312_depth_100.vmt,142,142
+materials/maps/fy_cataracta/cubemapdefault.vtf,9824,9824
+materials/maps/fy_cataracta/c-1136_881_-312.vtf,9824,9824
+materials/maps/fy_cataracta/c-1180_1771_-243.vtf,9824,9824
+materials/maps/fy_cataracta/c-995_87_-241.vtf,9824,9824
+materials/maps/fy_cataracta/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/fy_cataracta/c-1136_881_-312.hdr.vtf,76520,76520
+materials/maps/fy_cataracta/c-1180_1771_-243.hdr.vtf,76520,76520
+materials/maps/fy_cataracta/c-995_87_-241.hdr.vtf,76520,76520
+materials/WATERSOURCE/WATERFALL/WATERFALLFULL_512_CLEAR.vmt,263,263
+materials/Watersource/waterfall/WaterfallFULL_512_CLEAR.vtf,349760,349760
+materials/WATERSOURCE/WATERFALL/WATERFALLSOFT_1024_CLEAR.vmt,264,264
+materials/Watersource/waterfall/WaterfallSOFT_1024_CLEAR.vtf,1048784,1048784
+sound/river.wav,83856,83856
+sound/hills.wav,138252,138252

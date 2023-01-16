@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/souce_zbeta/de_train/blendgraveldirt001a_wvt_patch.vmt,130,130
+materials/maps/souce_zbeta/nature/blenddirtgrass008a_wvt_patch.vmt,433,433
+materials/maps/souce_zbeta/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/souce_zbeta/dev/dev_water2_cheap_329_-3545_42.vmt,155,155
+materials/maps/souce_zbeta/dev/dev_water2_cheap_-2259_-4649_14.vmt,157,157
+materials/maps/souce_zbeta/cs_assault/pavement001a_-2259_-4649_14.vmt,137,137
+materials/maps/souce_zbeta/cs_assault/pavement001a_329_-3545_42.vmt,135,135
+materials/maps/souce_zbeta/metal/metalwall101b_329_-3545_42.vmt,131,131
+materials/maps/souce_zbeta/maps/souce_zbeta/dev/dev_water2_cheap_-2259_-4649_14_depth_257.vmt,140,140
+materials/maps/souce_zbeta/maps/souce_zbeta/dev/dev_water2_cheap_329_-3545_42_depth_257.vmt,138,138
+materials/maps/souce_zbeta/cubemapdefault.vtf,28753,28753
+materials/maps/souce_zbeta/c329_-3545_42.vtf,28753,28753
+materials/maps/souce_zbeta/c-2259_-4649_14.vtf,28753,28753
+materials/maps/souce_zbeta/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/souce_zbeta/c329_-3545_42.hdr.vtf,76528,76528
+materials/maps/souce_zbeta/c-2259_-4649_14.hdr.vtf,76528,76528

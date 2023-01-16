@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/awp_fgp_b2/shadertest/watercheap_opaque_-187_-265_17.vmt,162,162
+materials/maps/awp_fgp_b2/concrete/concretefloor033o_-187_-265_17.vmt,137,137
+materials/maps/awp_fgp_b2/metal/citadel_metalwall078a_-187_-265_17.vmt,138,138
+materials/maps/awp_fgp_b2/metal/citadel_metalwall090a_-187_-265_17.vmt,138,138
+materials/maps/awp_fgp_b2/metal/citadel_tilewall005a_-187_-265_17.vmt,137,137
+materials/maps/awp_fgp_b2/maps/awp_fgp_b2/shadertest/watercheap_opaque_-187_-265_17_depth_448.vmt,145,145
+materials/maps/awp_fgp_b2/cubemapdefault.vtf,9824,9824
+materials/maps/awp_fgp_b2/c-187_-265_17.vtf,9824,9824
+materials/maps/awp_fgp_b2/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/awp_fgp_b2/c-187_-265_17.hdr.vtf,76520,76520

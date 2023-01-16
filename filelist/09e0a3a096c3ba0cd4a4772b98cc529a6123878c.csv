@@ -1,0 +1,50 @@
+filename,size,compressed
+materials/CUBES/GREEN_NOCUBEMAP.vmt,117,117
+materials/cubes/green.vtf,43912,43912
+materials/cubes/normal.vtf,262351,262351
+materials/CUBES/WHITE_NOCUBEMAP.vmt,117,117
+materials/cubes/white.vtf,43912,43912
+materials/CUBES/BLACK_NOCUBEMAP.vmt,117,117
+materials/cubes/black.vtf,43912,43912
+materials/CUBES/RED_NOCUBEMAP.vmt,115,115
+materials/cubes/red.vtf,43912,43912
+materials/CUBES/BLUE_NOCUBEMAP.vmt,116,116
+materials/cubes/blue.vtf,43912,43912
+materials/TOOLS/TOOLSSKYBOX.vmt,235,235
+materials/Tools/toolsskybox.vtf,11168,11168
+materials/TOOLS/TOOLSINVISIBLE.vmt,304,304
+materials/Tools/toolsinvisible.vtf,5680,5680
+materials/MAGIC.vmt,101,101
+materials/magic.vtf,1048656,1048656
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/Tools/toolstrigger.vtf,5680,5680
+materials/CUBES/GREY_NOCUBEMAP.vmt,116,116
+materials/cubes/grey.vtf,43912,43912
+materials/CUSTOM/CKOLAM.vmt,57,57
+materials/custom/ckolam.vtf,174984,174984
+materials/THOMAS.vmt,52,52
+materials/thomas.vtf,349760,349760
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/Tools/toolsnodraw.vtf,2936,2936
+materials/DEV_NYRO/DEV_RED_B-08.vmt,72,72
+materials/dev_nyro/dev_red_b-08.vtf,22064,22064
+materials/SIMPLY-GREY.vmt,63,63
+materials/Simply-Grey.vtf,1398264,1398264
+materials/skybox/new_worlds_up.vmt,266,266
+materials/skybox/new_worlds_up.vtf,2097360,2097360
+materials/skybox/new_worlds_dn.vmt,266,266
+materials/skybox/new_worlds_dn.vtf,2097360,2097360
+materials/skybox/new_worlds_ft.vmt,266,266
+materials/skybox/new_worlds_ft.vtf,5592640,5592640
+materials/skybox/new_worlds_bk.vmt,266,266
+materials/skybox/new_worlds_bk.vtf,5592640,5592640
+materials/skybox/new_worlds_lf.vmt,266,266
+materials/skybox/new_worlds_lf.vtf,2097360,2097360
+materials/skybox/new_worlds_rt.vmt,266,266
+materials/skybox/new_worlds_rt.vtf,2097360,2097360
+sound/meh sound/allahu akbar sound effect.mp3,41578,41578
+sound/meh sound/pendulum - showdown.mp3,3630014,3630014
+sound/meh sound/the prodigy - omen.mp3,5785129,5785129
+sound/meh sound/everybody's circulation (mashup) - tmabird.mp3,3581650,3581650
+materials/sprites/zerogxplode.vmt,113,113
+materials/sprites/zerogxplode.vtf,41392,41392

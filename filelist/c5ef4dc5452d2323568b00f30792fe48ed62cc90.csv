@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/zm_downtown_b1/nature/blendgrassgravel001a_wvt_patch.vmt,283,283
+materials/maps/zm_downtown_b1/environment maps/pipemetal001a_1588_-828_-572.vmt,147,147
+materials/maps/zm_downtown_b1/tile/tileroof004a_1588_-828_-572.vmt,134,134
+materials/maps/zm_downtown_b1/concrete/concretefloor028c_c17_1588_-828_-572.vmt,186,186
+materials/maps/zm_downtown_b1/brick/brickwall055b_1588_-828_-572.vmt,136,136
+materials/maps/zm_downtown_b1/concrete/concretefloor033k_c17_1588_-828_-572.vmt,186,186
+materials/maps/zm_downtown_b1/brick/brickwall014b_1588_-828_-572.vmt,136,136
+materials/maps/zm_downtown_b1/metal/metalfloor001a_1588_-828_-572.vmt,137,137
+materials/maps/zm_downtown_b1/tile/tileroof002a_1588_-828_-572.vmt,134,134
+materials/maps/zm_downtown_b1/brick/brickwall014f_1588_-828_-572.vmt,136,136
+materials/maps/zm_downtown_b1/plaster/plasterwall043e_1588_-828_-572.vmt,140,140
+materials/maps/zm_downtown_b1/de_dust/tilefloor02_1588_-828_-572.vmt,136,136
+materials/maps/zm_downtown_b1/glass/glasswindowbreak070b_1588_-828_-572.vmt,114,114
+materials/maps/zm_downtown_b1/glass/prodwndwa_1588_-828_-572.vmt,217,217
+materials/maps/zm_downtown_b1/glass/offwndwb_1588_-828_-572.vmt,216,216
+materials/maps/zm_downtown_b1/wood/wooddoor007b_1588_-828_-572.vmt,134,134
+materials/maps/zm_downtown_b1/nature/water_coast01_beneath_depth_28.vmt,115,115
+materials/maps/zm_downtown_b1/cubemapdefault.vtf,9832,9832
+materials/maps/zm_downtown_b1/c1588_-828_-572.vtf,9832,9832
+materials/maps/zm_downtown_b1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_downtown_b1/c1588_-828_-572.hdr.vtf,76528,76528
+materials/MAPBYMAX1.vmt,57,57
+materials/mapbymax1.vtf,349760,349760
+materials/THKS1.vmt,53,53
+materials/thks1.vtf,349760,349760

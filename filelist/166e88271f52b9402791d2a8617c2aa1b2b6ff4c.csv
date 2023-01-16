@@ -1,0 +1,5 @@
+filename,size,compressed
+materials/maps/ch_dogers/liquids/water_pretty1_depth_16.vmt,108,108
+materials/maps/ch_dogers/shadertest/water_refract_only_nofresnel_depth_32.vmt,126,126
+materials/maps/ch_dogers/cubemapdefault.vtf,9824,9824
+materials/maps/ch_dogers/cubemapdefault.hdr.vtf,76520,76520

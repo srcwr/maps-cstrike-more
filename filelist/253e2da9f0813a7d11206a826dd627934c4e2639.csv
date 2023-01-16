@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/xmas_joulusauna/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/xmas_joulusauna/ground/blendsnow_conc_wvt_patch.vmt,91,91
+materials/maps/xmas_joulusauna/tile/tilefloor010a_0_0_0.vmt,127,127
+materials/maps/xmas_joulusauna/de_cbble/woodfloor01_0_0_0.vmt,129,129
+materials/maps/xmas_joulusauna/de_piranesi/woodfloor01_0_0_0.vmt,132,132
+materials/maps/xmas_joulusauna/cubemapdefault.vtf,28753,28753
+materials/maps/xmas_joulusauna/c0_0_0.vtf,28753,28753
+materials/maps/xmas_joulusauna/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/xmas_joulusauna/c0_0_0.hdr.vtf,76528,76528
+sound/pazi sounds/xmas_snl.wav,835810,835810
+sound/pazi sounds/mamba - kulkuset.wav,1482690,1482690
+sound/pazi sounds/nm_wonderfulxmastime.wav,665800,665800
+maps/soundcache/xmas_joulusauna.cache,16,16

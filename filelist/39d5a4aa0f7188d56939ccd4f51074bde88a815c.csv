@@ -1,0 +1,27 @@
+filename,size,compressed
+materials/maps/bhop_rbth/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_rbth/cubemapdefault.hdr.vtf,76528,76528
+materials/SILKROAD/EGYPT/GROUND (20).vmt,75,75
+materials/SILKROAD/EGYPT/WALL (100).vmt,92,92
+materials/SILKROAD/EGYPT/GROUND (8).vmt,77,77
+materials/SILKROAD/EGYPT/GROUND (22).vmt,93,93
+materials/SILKROAD/EGYPT/GROUND (12).vmt,78,78
+materials/TOOLS/TOOLSSKYBOX.vmt,325,325
+materials/Tools/toolsskybox.vtf,11128,11128
+materials/BASEGREEN.vmt,57,57
+materials/basegreen.vtf,43912,43912
+materials/DECALS/CONCRETE/CONCRETE_TRIM_C2A2DEEPTNL_03_RED.vmt,149,149
+materials/Decals/concrete/concrete_trim_c2a2deeptnl_03_red.vtf,349696,349696
+materials/skybox/sky183up.vmt,85,85
+materials/skybox/sky183up.vtf,4194511,4194511
+materials/skybox/sky183dn.vmt,83,83
+materials/skybox/sky183dn.vtf,4194511,4194511
+materials/skybox/sky183ft.vmt,83,83
+materials/skybox/sky183ft.vtf,4194511,4194511
+materials/skybox/sky183bk.vmt,87,87
+materials/skybox/sky183bk.vtf,4194511,4194511
+materials/skybox/sky183lf.vmt,83,83
+materials/skybox/sky183lf.vtf,4194511,4194511
+materials/skybox/sky183rt.vmt,83,83
+materials/skybox/sky183rt.vtf,4194511,4194511
+maps/bhop_rbth.nav,205,205

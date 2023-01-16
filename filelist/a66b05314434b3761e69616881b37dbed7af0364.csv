@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/maps/ze_vaultofglass_beta/nature/blendmilrock002_2b_wvt_patch.vmt,144,144
+materials/maps/ze_vaultofglass_beta/nature/blendgrassgrass001a_wvt_patch.vmt,181,181
+materials/maps/ze_vaultofglass_beta/nature/rocks_red_grass_wvt_patch.vmt,348,348
+materials/maps/ze_vaultofglass_beta/liquids/water_pretty1_0_0_0.vmt,158,158
+materials/maps/ze_vaultofglass_beta/vbd/pack 2 remnont/remn_metal_p15_e_base_0_0_0.vmt,154,154
+materials/maps/ze_vaultofglass_beta/vbd/pack 2 remnont/remn_metal_p1a_0_0_0.vmt,147,147
+materials/maps/ze_vaultofglass_beta/vbd/pack 2 remnont/remn_metal_p9b_0_0_0.vmt,147,147
+materials/maps/ze_vaultofglass_beta/liquids/militiawater_depth_24.vmt,107,107
+materials/maps/ze_vaultofglass_beta/liquids/water_pretty1_depth_80.vmt,108,108
+materials/maps/ze_vaultofglass_beta/de_nuke/nukwater_movingplane_dx70_depth_128.vmt,121,121
+materials/maps/ze_vaultofglass_beta/cubemapdefault.vtf,9832,9832
+materials/maps/ze_vaultofglass_beta/c0_0_0.vtf,9832,9832
+materials/maps/ze_vaultofglass_beta/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_vaultofglass_beta/c0_0_0.hdr.vtf,76528,76528
+materials/Watersource/waterfall/WaterfallFULL_256_CLEAR.vmt,263,263
+materials/Watersource/waterfall/WaterfallFULL_256_CLEAR.vtf,87616,87616
+materials/VBD/Pack 2 Remnont/remn_metal_p15_e_base.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_metal_p15_e_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_e_base_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_metal_p1_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metal_p9b.vmt,324,324
+materials/VBD/Pack 2 Remnont/remn_metal_p9b.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p9b_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor3_normal.vtf,349760,349760
+sound/vaultofglass/finalBattle.mp3,4478886,4478886
+sound/vaultofglass/oracle1.wav,225836,225836
+sound/vaultofglass/oracle2.wav,225836,225836

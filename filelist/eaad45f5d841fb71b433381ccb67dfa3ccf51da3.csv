@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/break_dancef/de_dust/tilefloor02_-256_256_512.vmt,132,132
+materials/maps/break_dancef/cubemapdefault.vtf,9832,9832
+materials/maps/break_dancef/c-256_256_512.vtf,28753,28753
+materials/maps/break_dancef/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/break_dancef/c-256_256_512.hdr.vtf,4893432,4893432
+sound/admin_plugin/b1.mp3,5002263,5002263
+sound/admin_plugin/b2.mp3,3913897,3913897
+sound/admin_plugin/b3.mp3,3381835,3381835
+sound/admin_plugin/b4.mp3,3120193,3120193
+sound/admin_plugin/b5.mp3,3350488,3350488
+maps/soundcache/break_dancef.cache,16,16

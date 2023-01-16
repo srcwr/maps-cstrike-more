@@ -1,0 +1,64 @@
+filename,size,compressed
+materials/maps/bhop_danmark/nature/water_canals_city_murky_dx70_depth_32.vmt,122,122
+materials/maps/bhop_danmark/cubemapdefault.vtf,4952,4952
+materials/maps/bhop_danmark/c160_512_112.vtf,4952,4952
+materials/hammer textures/bhop_denmark/31_denmark_flag_1.vmt,113,113
+materials/hammer textures/bhop_denmark/31_denmark_flag_1.vtf,349760,349760
+materials/hammer textures/bhop_denmark/31_denmark_flag_2.vmt,113,113
+materials/hammer textures/bhop_denmark/31_denmark_flag_2.vtf,87616,87616
+materials/hammer textures/bhop_denmark/31_denmark_flag_3.vmt,113,113
+materials/hammer textures/bhop_denmark/31_denmark_flag_3.vtf,87616,87616
+materials/hammer textures/bhop_denmark/31_denmark_flag_4.vmt,94,94
+materials/hammer textures/bhop_denmark/31_denmark_flag_4.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_flagrope_1.vmt,117,117
+materials/hammer textures/bhop_denmark/31_denmark_flagrope_1.vtf,87616,87616
+materials/hammer textures/bhop_denmark/31_denmark_floor_1.vmt,122,122
+materials/hammer textures/bhop_denmark/31_denmark_floor_1.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_floor_opaci_1.vmt,145,145
+materials/hammer textures/bhop_denmark/31_denmark_floor_opaci_1.vtf,87616,87616
+materials/hammer textures/bhop_denmark/31_denmark_ground_1.vmt,120,120
+materials/hammer textures/bhop_denmark/31_denmark_ground_1.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_ground_2.vmt,120,120
+materials/hammer textures/bhop_denmark/31_denmark_ground_2.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_ground_3.vmt,120,120
+materials/hammer textures/bhop_denmark/31_denmark_ground_3.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_groundtofloor_1.vmt,130,130
+materials/hammer textures/bhop_denmark/31_denmark_groundtofloor_1.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_groundtorock_1.vmt,126,126
+materials/hammer textures/bhop_denmark/31_denmark_groundtorock_1.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_groundtowallwhite_1.vmt,132,132
+materials/hammer textures/bhop_denmark/31_denmark_groundtowallwhite_1.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_jump_1.vmt,121,121
+materials/hammer textures/bhop_denmark/31_denmark_jump_1.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_jumpcolor_1.vmt,126,126
+materials/hammer textures/bhop_denmark/31_denmark_jumpcolor_1.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_lvlsandbonus_1.vmt,121,121
+materials/hammer textures/bhop_denmark/31_denmark_lvlsandbonus_1.vtf,349760,349760
+materials/hammer textures/bhop_denmark/31_denmark_mapby_1.vmt,114,114
+materials/hammer textures/bhop_denmark/31_denmark_mapby_1.vtf,349760,349760
+materials/hammer textures/bhop_denmark/31_denmark_nextlvl_1.vmt,116,116
+materials/hammer textures/bhop_denmark/31_denmark_nextlvl_1.vtf,87616,87616
+materials/hammer textures/bhop_denmark/31_denmark_rock_1.vmt,118,118
+materials/hammer textures/bhop_denmark/31_denmark_rock_1.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_solid_red.vmt,97,97
+materials/hammer textures/bhop_denmark/31_denmark_solid_red.vtf,904,904
+materials/hammer textures/bhop_denmark/31_denmark_solid_white.vmt,99,99
+materials/hammer textures/bhop_denmark/31_denmark_solid_white.vtf,904,904
+materials/hammer textures/bhop_denmark/31_denmark_spear_1.vmt,114,114
+materials/hammer textures/bhop_denmark/31_denmark_spear_1.vtf,349760,349760
+materials/hammer textures/bhop_denmark/31_denmark_wallred_1.vmt,122,122
+materials/hammer textures/bhop_denmark/31_denmark_wallred_1.vtf,43912,43912
+materials/hammer textures/bhop_denmark/31_denmark_wallwhite_1.vmt,124,124
+materials/hammer textures/bhop_denmark/31_denmark_wallwhite_1.vtf,43912,43912
+materials/skybox/31_dkbk.vmt,85,85
+materials/skybox/31_dkbk.vtf,174984,174984
+materials/skybox/31_dkdn.vmt,85,85
+materials/skybox/31_dkdn.vtf,174984,174984
+materials/skybox/31_dkft.vmt,85,85
+materials/skybox/31_dkft.vtf,174984,174984
+materials/skybox/31_dklf.vmt,85,85
+materials/skybox/31_dklf.vtf,174984,174984
+materials/skybox/31_dkrt.vmt,85,85
+materials/skybox/31_dkrt.vtf,174984,174984
+materials/skybox/31_dkup.vmt,85,85
+materials/skybox/31_dkup.vtf,174984,174984

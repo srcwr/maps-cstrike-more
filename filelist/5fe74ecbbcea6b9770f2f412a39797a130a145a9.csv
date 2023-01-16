@@ -1,0 +1,51 @@
+filename,size,compressed
+materials/maps/mg_sceri_course_v1_2/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/mg_sceri_course_v1_2/effects/combineshield/comshieldwall2faded_2423_-438_12.vmt,185,185
+materials/maps/mg_sceri_course_v1_2/effects/combineshield/comshieldwall2faded_608_-187_256.vmt,185,185
+materials/maps/mg_sceri_course_v1_2/effects/combineshield/comshieldwall2faded_-132_72_178.vmt,184,184
+materials/maps/mg_sceri_course_v1_2/shadertest/watercheap_opaque_4484_-432_12.vmt,172,172
+materials/maps/mg_sceri_course_v1_2/nature/mudfloor001a_4937_-453_250.vmt,180,180
+materials/maps/mg_sceri_course_v1_2/nature/mudfloor001a_4484_-432_12.vmt,179,179
+materials/maps/mg_sceri_course_v1_2/nature/mudfloor001a_5349_-409_12.vmt,179,179
+materials/maps/mg_sceri_course_v1_2/nature/water_movingplane_4937_-453_250.vmt,169,169
+materials/maps/mg_sceri_course_v1_2/props/plasticceiling003a_4693_43_1128.vmt,145,145
+materials/maps/mg_sceri_course_v1_2/props/plasticceiling003a_5349_-409_12.vmt,145,145
+materials/maps/mg_sceri_course_v1_2/perftest/water_pretty1_beneath_-132_72_178.vmt,173,173
+materials/maps/mg_sceri_course_v1_2/perftest/water_pretty1_-132_72_178.vmt,258,258
+materials/maps/mg_sceri_course_v1_2/tile/tileroof004a_608_-187_256.vmt,138,138
+materials/maps/mg_sceri_course_v1_2/tile/tileroof004a_4693_43_1128.vmt,138,138
+materials/maps/mg_sceri_course_v1_2/props/plasticceiling003a_4937_-453_250.vmt,146,146
+materials/maps/mg_sceri_course_v1_2/nature/water_canals03_4693_43_1128.vmt,165,165
+materials/maps/mg_sceri_course_v1_2/metal/citadel_tilewall005a_4484_-432_12.vmt,147,147
+materials/maps/mg_sceri_course_v1_2/metal/citadel_tilewall005a_4937_-453_250.vmt,148,148
+materials/maps/mg_sceri_course_v1_2/metal/citadel_tilewall005a_4693_43_1128.vmt,147,147
+materials/maps/mg_sceri_course_v1_2/metal/citadel_tilewall005a_5349_-409_12.vmt,147,147
+materials/maps/mg_sceri_course_v1_2/glass/unbreakable_4693_43_1128.vmt,138,138
+materials/maps/mg_sceri_course_v1_2/glass/unbreakable_4937_-453_250.vmt,139,139
+materials/maps/mg_sceri_course_v1_2/environment maps/pipemetal004a_130_-251_92.vmt,150,150
+materials/maps/mg_sceri_course_v1_2/environment maps/pipemetal004a_608_-187_256.vmt,151,151
+materials/maps/mg_sceri_course_v1_2/environment maps/pipemetal004a_-132_72_178.vmt,150,150
+materials/maps/mg_sceri_course_v1_2/environment maps/pipemetal004a_-214_-337_282.vmt,152,152
+materials/maps/mg_sceri_course_v1_2/environment maps/pipemetal004a_2423_-438_12.vmt,151,151
+materials/maps/mg_sceri_course_v1_2/environment maps/pipemetal004a_556_-236_87.vmt,150,150
+materials/maps/mg_sceri_course_v1_2/metal/citadel_metalwall076a_3172_-414_12.vmt,148,148
+materials/maps/mg_sceri_course_v1_2/metal/citadel_metalwall076a_4484_-432_12.vmt,148,148
+materials/maps/mg_sceri_course_v1_2/metal/citadel_metalwall076a_4693_43_1128.vmt,148,148
+materials/maps/mg_sceri_course_v1_2/metal/citadel_metalwall076a_5349_-409_12.vmt,148,148
+materials/maps/mg_sceri_course_v1_2/metal/citadel_metalwall076a_4937_-453_250.vmt,149,149
+materials/maps/mg_sceri_course_v1_2/maps/mg_sceri_course_v1_2/perftest/water_pretty1_-132_72_178_depth_188.vmt,148,148
+materials/maps/mg_sceri_course_v1_2/maps/mg_sceri_course_v1_2/shadertest/watercheap_opaque_4484_-432_12_depth_2.vmt,153,153
+materials/maps/mg_sceri_course_v1_2/maps/mg_sceri_course_v1_2/nature/water_canals03_4693_43_1128_depth_45.vmt,147,147
+materials/maps/mg_sceri_course_v1_2/maps/mg_sceri_course_v1_2/nature/water_movingplane_4937_-453_250_depth_2.vmt,150,150
+materials/maps/mg_sceri_course_v1_2/cubemapdefault.vtf,9832,9832
+materials/maps/mg_sceri_course_v1_2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_sceri_course_v1_2/c556_-236_87.hdr.vtf,76528,76528
+materials/maps/mg_sceri_course_v1_2/c3172_-414_12.hdr.vtf,76528,76528
+materials/maps/mg_sceri_course_v1_2/c2539_-45_12.hdr.vtf,76528,76528
+materials/vgui/logos/454511950.vmt,142,142
+materials/vgui/logos/454511950.vtf,87640,87640
+materials/omatekstuuri/omatekstuuri2.vmt,74,74
+materials/omatekstuuri/omatekstuuri2.vtf,5592592,5592592
+sound/sceri_course/New Beginning.mp3,4842098,4842098
+sound/sceri_course/dnb_-_feint_-_snake_eyes_feat_coma_monster-cvq7Jy-TFAU_fmt37.mp3,5983205,5983205
+sound/sceri_course/feint_-_lift_instrumental-sQCufd-orR4_fmt22.mp3,4662056,4662056

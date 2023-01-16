@@ -1,0 +1,21 @@
+filename,size,compressed
+materials/maps/mg_mk_colosseum_x/metal/citadel_metalwall091a_860_613_93.vmt,143,143
+materials/maps/mg_mk_colosseum_x/cubemapdefault.vtf,9832,9832
+materials/maps/mg_mk_colosseum_x/c860_613_93.vtf,4968,4968
+materials/maps/mg_mk_colosseum_x/c-77_-1052_74.vtf,4968,4968
+materials/maps/mg_mk_colosseum_x/c-878_418_84.vtf,4968,4968
+materials/maps/mg_mk_colosseum_x/c-117_582_-5575.vtf,4968,4968
+materials/maps/mg_mk_colosseum_x/c4359_2149_182.vtf,4968,4968
+materials/maps/mg_mk_colosseum_x/c3833_-959_189.vtf,4968,4968
+materials/maps/mg_mk_colosseum_x/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_mk_colosseum_x/c860_613_93.hdr.vtf,76528,76528
+materials/maps/mg_mk_colosseum_x/c-77_-1052_74.hdr.vtf,76528,76528
+materials/maps/mg_mk_colosseum_x/c-878_418_84.hdr.vtf,76528,76528
+materials/maps/mg_mk_colosseum_x/c-117_582_-5575.hdr.vtf,76528,76528
+materials/maps/mg_mk_colosseum_x/c4359_2149_182.hdr.vtf,76528,76528
+materials/maps/mg_mk_colosseum_x/c3833_-959_189.hdr.vtf,76528,76528
+sound/custom sounds/crowd.mp3,164289,164289
+sound/custom sounds/matrix.mp3,3780231,3780231
+sound/custom sounds/inception.mp3,3458226,3458226
+sound/custom sounds/sparta.mp3,47856,47856
+maps/soundcache/mg_mk_colosseum_x.cache,16,16

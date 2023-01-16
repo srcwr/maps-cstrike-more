@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/cssp_aiming_training/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/cssp_aiming_training/dev/dev_water2_-160_1115_416.vmt,159,159
+materials/maps/cssp_aiming_training/glass/combineglass001a_-160_1115_416.vmt,144,144
+materials/maps/cssp_aiming_training/maps/cssp_aiming_training/dev/dev_water2_-160_1115_416_depth_70.vmt,141,141
+materials/maps/cssp_aiming_training/cubemapdefault.vtf,9832,9832
+materials/maps/cssp_aiming_training/c-160_1115_416.vtf,9832,9832
+materials/maps/cssp_aiming_training/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cssp_aiming_training/c-160_1115_416.hdr.vtf,76528,76528
+maps/cssp_aiming_training.nav,698,698
+materials/customdev/dev_measuregeneric01blu.vmt,168,168
+materials/customdev/dev_measuregeneric01blu.vtf,11144,11144
+materials/customdev/dev_measuregeneric01red.vmt,168,168
+materials/customdev/dev_measuregeneric01red.vtf,11144,11144

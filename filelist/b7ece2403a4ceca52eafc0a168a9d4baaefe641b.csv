@@ -1,0 +1,23 @@
+filename,size,compressed
+materials/maps/fy_iceworld_adv/cubemapdefault.vtf,9808,9808
+materials/maps/fy_iceworld_adv/nature/sandfloor009a.vmt,136,136
+materials/maps/fy_iceworld_adv/liquids/aztecwater.vmt,134,134
+materials/maps/fy_iceworld_adv/environment maps/pipemetal004a.vmt,146,146
+materials/maps/fy_iceworld_adv/dev/dev_waterbeneath2.vmt,137,137
+materials/maps/fy_iceworld_adv/maps/fy_iceworld_adv/liquids/aztecwater_depth_20.vmt,126,126
+materials/nature/snowfloor001a.vmt,132,132
+materials/nature/snowfloor001a.vtf,174968,174968
+materials/cs_office_cz/vtffiles/sphinx_snowrock.vmt,85,85
+materials/cs_office_cz/vtffiles/sphinx_snowrock.vtf,87600,87600
+materials/nature/sandfloor009a.vmt,272,272
+materials/nature/sandfloor009a.vtf,349744,349744
+materials/nature/sandfloor009a_normal.vtf,349744,349744
+materials/liquids/water_dx70.vmt,1590,1590
+materials/dev/dev_waterbeneath2.vmt,953,953
+materials/fy_iceworld_adv/box_top.vmt,71,71
+materials/fy_iceworld_adv/box_top.vtf,349744,349744
+materials/fy_iceworld_adv/box_side.vmt,72,72
+materials/fy_iceworld_adv/box_side.vtf,349744,349744
+materials/brick/brickwall009a.vmt,120,120
+materials/brick/brickwall009a.vtf,174968,174968
+materials/liquids/aztecwater.vmt,968,968

@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/karta/dev/dev_water2_-318_463_53.vmt,142,142
+materials/maps/karta/dev/dev_water2_37_-446_41.vmt,141,141
+materials/maps/karta/dev/dev_water2_54_-39_161.vmt,141,141
+materials/maps/karta/maps/karta/dev/dev_water2_37_-446_41_depth_56.vmt,123,123
+materials/maps/karta/maps/karta/dev/dev_water2_54_-39_161_depth_28.vmt,123,123
+materials/maps/karta/maps/karta/dev/dev_water2_54_-39_161_depth_24.vmt,123,123
+materials/maps/karta/maps/karta/dev/dev_water2_-318_463_53_depth_180.vmt,125,125
+materials/maps/karta/cubemapdefault.vtf,9832,9832
+materials/maps/karta/c-318_463_53.vtf,9832,9832
+materials/maps/karta/c37_-446_41.vtf,9832,9832
+materials/maps/karta/c54_-39_161.vtf,9832,9832
+materials/maps/karta/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/karta/c-318_463_53.hdr.vtf,76528,76528
+materials/maps/karta/c37_-446_41.hdr.vtf,76528,76528
+materials/maps/karta/c54_-39_161.hdr.vtf,76528,76528

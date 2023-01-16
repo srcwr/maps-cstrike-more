@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/xc_dustclimbing_fixed1_timer/nature/water_canals_city_murky_depth_160.vmt,118,118
+materials/maps/xc_dustclimbing_fixed1_timer/nature/water_canals_city_murky_depth_60.vmt,117,117
+materials/maps/xc_dustclimbing_fixed1_timer/nature/water_canals_city_murky_depth_360.vmt,118,118
+materials/maps/xc_dustclimbing_fixed1_timer/nature/water_canals_city_murky_depth_1.vmt,116,116
+materials/maps/xc_dustclimbing_fixed1_timer/cubemapdefault.vtf,9824,9824
+materials/KC_MAIN/STARTTIMERSIGN.vmt,103,103
+materials/kc_main/starttimersign.vtf,22080,22080
+materials/TIMER_SWT/DIGITS.vmt,236,236
+materials/timer_swt/digits.vtf,55088,55088
+materials/TIMER_SWT/INVALID_TIME.vmt,83,83
+materials/timer_swt/invalid_time.vtf,43904,43904
+maps/soundcache/xc_dustclimbing_fixed1_timer.cache,16,16
+maps/xc_dustclimbing_fixed1_timer.txt,79,79

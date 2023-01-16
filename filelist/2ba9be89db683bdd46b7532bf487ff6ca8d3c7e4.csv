@@ -1,0 +1,171 @@
+filename,size,compressed
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_floor_clean_dark_1_16_168_64.vmt,171,171
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_floor_blue_1_16_168_64.vmt,165,165
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_floor_green_1_16_168_64.vmt,166,166
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_floor_purple_1_16_168_64.vmt,167,167
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_floor_yellow_1_16_168_64.vmt,167,167
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_floor_red_1_16_168_64.vmt,164,164
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_floor_multi_1_16_168_64.vmt,166,166
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpsides_red_1_16_168_64.vmt,168,168
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_floor_clean_1_16_168_64.vmt,166,166
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpblock_red_1_16_168_64.vmt,168,168
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpsides_green_1_16_168_64.vmt,170,170
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpblock_green_1_16_168_64.vmt,170,170
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpsides_blue_1_16_168_64.vmt,169,169
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpblock_blue_1_16_168_64.vmt,169,169
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpsides_purple_1_16_168_64.vmt,171,171
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpblock_purple_1_16_168_64.vmt,171,171
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpsides_yellow_1_16_168_64.vmt,171,171
+materials/maps/ze_bhop_facility_final_1/hammer textures/eazy2/31_eazy2_jumpblock_yellow_1_16_168_64.vmt,171,171
+materials/maps/ze_bhop_facility_final_1/cubemapdefault.vtf,28753,28753
+materials/maps/ze_bhop_facility_final_1/c16_168_64.vtf,28753,28753
+materials/maps/ze_bhop_facility_final_1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_bhop_facility_final_1/c16_168_64.hdr.vtf,76528,76528
+maps/ze_bhop_facility_final_1_particles.txt,78,78
+particles/ze_bhop_facility_particles.pcf,118410,118410
+materials/realworldtextures/walls/sci_fi_lvl3_22blue.vmt,148,148
+materials/realworldtextures/walls/sci_fi_lvl3_22blue.vtf,43912,43912
+materials/particle/fire_particle_2/fire_particle_2.vmt,133,133
+materials/particle/fire_particle_2/fire_particle_2.vtf,703288,703288
+materials/particle/particle_cloud2.vmt,147,147
+materials/effects/citadel_sky_card_01.vtf,1398308,1398308
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2952,2952
+materials/hammer textures/eazy2/31_eazy2_wall_clean_1.vmt,116,116
+materials/hammer textures/eazy2/31_eazy2_wall_clean_1.vtf,174984,174984
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11144,11144
+materials/hammer textures/eazy2/31_eazy2_wall_blueline_1.vmt,122,122
+materials/hammer textures/eazy2/31_eazy2_wall_blueline_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_floor_black_1.vmt,120,120
+materials/hammer textures/eazy2/31_eazy2_floor_black_1.vtf,43912,43912
+materials/hammer textures/eazy2/31_eazy2_wall_greenline_1.vmt,123,123
+materials/hammer textures/eazy2/31_eazy2_wall_greenline_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_wall_purpleline_1.vmt,124,124
+materials/hammer textures/eazy2/31_eazy2_wall_purpleline_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_wall_yellowline_1.vmt,124,124
+materials/hammer textures/eazy2/31_eazy2_wall_yellowline_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_wall_redline_1.vmt,121,121
+materials/hammer textures/eazy2/31_eazy2_wall_redline_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_wall_multiline_1.vmt,121,121
+materials/hammer textures/eazy2/31_eazy2_wall_multiline_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_glass_blue_1.vmt,135,135
+materials/hammer textures/eazy2/31_eazy2_glass_blue_1.vtf,349760,349760
+materials/hammer textures/eazy2/31_eazy2_glass_green_1.vmt,136,136
+materials/hammer textures/eazy2/31_eazy2_glass_green_1.vtf,349760,349760
+materials/hammer textures/eazy2/31_eazy2_glass_purple_1.vmt,137,137
+materials/hammer textures/eazy2/31_eazy2_glass_purple_1.vtf,349760,349760
+materials/hammer textures/eazy2/31_eazy2_glass_yellow_1.vmt,137,137
+materials/hammer textures/eazy2/31_eazy2_glass_yellow_1.vtf,349760,349760
+materials/hammer textures/eazy2/31_eazy2_glass_red_1.vmt,134,134
+materials/hammer textures/eazy2/31_eazy2_glass_red_1.vtf,349760,349760
+materials/hammer textures/eazy2/31_eazy_web_blue_1.vmt,107,107
+materials/hammer textures/eazy2/31_eazy_web_blue_1.vtf,22080,22080
+materials/hammer textures/eazy2/31_eazy_web_purple_1.vmt,109,109
+materials/hammer textures/eazy2/31_eazy_web_purple_1.vtf,22080,22080
+materials/hammer textures/eazy2/31_eazy_web_green_1.vmt,108,108
+materials/hammer textures/eazy2/31_eazy_web_green_1.vtf,22080,22080
+materials/hammer textures/eazy2/31_eazy_web_yellow_1.vmt,109,109
+materials/hammer textures/eazy2/31_eazy_web_yellow_1.vtf,22080,22080
+materials/hammer textures/eazy2/31_eazy_web_red_1.vmt,106,106
+materials/hammer textures/eazy2/31_eazy_web_red_1.vtf,22080,22080
+materials/hammer textures/eazy2/31_eazy2_glass_multi_1.vmt,136,136
+materials/hammer textures/eazy2/31_eazy2_glass_multi_1.vtf,349760,349760
+materials/hammer textures/eazy2/31_eazy_web_multi_1.vmt,108,108
+materials/hammer textures/eazy2/31_eazy_web_multi_1.vtf,22080,22080
+materials/tools/toolsnpcclip.vmt,327,327
+materials/tools/toolsnpcclip.vtf,5680,5680
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5696,5696
+materials/tools/toolstrigger-dx10.vtf,5696,5696
+materials/ze_two_ways/grey_black.vmt,251,251
+materials/ze_two_ways/grey_black.vtf,2952,2952
+materials/realworldtextures/walls/bhop_tutorial.vmt,122,122
+materials/realworldtextures/walls/bhop_tutorial.vtf,349688,349688
+materials/hammer textures/eazy2/31_eazy2_wall_clean_purple_1.vmt,123,123
+materials/hammer textures/eazy2/31_eazy2_wall_clean_purple_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_wall_clean_red_1.vmt,120,120
+materials/hammer textures/eazy2/31_eazy2_wall_clean_red_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_wall_clean_yellow_1.vmt,123,123
+materials/hammer textures/eazy2/31_eazy2_wall_clean_yellow_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_wall_clean_green_1.vmt,122,122
+materials/hammer textures/eazy2/31_eazy2_wall_clean_green_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_wall_clean_blue_1.vmt,121,121
+materials/hammer textures/eazy2/31_eazy2_wall_clean_blue_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_jumpsides_multi_1.vmt,115,115
+materials/hammer textures/eazy2/31_eazy2_jumpsides_multi_1.vtf,11136,11136
+materials/hammer textures/eazy2/31_eazy2_jumpblock_multi_1.vmt,115,115
+materials/hammer textures/eazy2/31_eazy2_jumpblock_multi_1.vtf,87616,87616
+materials/hammer textures/eazy2/31_eazy2_laserthings_1.vmt,285,285
+materials/hammer textures/eazy2/31_eazy2_laserthings_1.vtf,349760,349760
+materials/realworldtextures/walls/sci_fi_lvl2_button.vmt,134,134
+materials/realworldtextures/walls/sci_fi_lvl2_button.vtf,699272,699272
+materials/realworldtextures/walls/sci_fi_lvl2_26a.vmt,125,125
+materials/realworldtextures/walls/sci_fi_lvl2_26.vtf,43912,43912
+materials/realworldtextures/walls/sci_fin3.vmt,127,127
+materials/realworldtextures/walls/sci_fin3.vtf,174984,174984
+materials/realworldtextures/walls/sci_fin2.vmt,127,127
+materials/realworldtextures/walls/sci_fin2.vtf,174984,174984
+materials/realworldtextures/walls/sci_fin1.vmt,127,127
+materials/realworldtextures/walls/sci_fin1.vtf,174984,174984
+materials/skybox/mr_58bk.vmt,81,81
+materials/skybox/mr_58bk.vtf,4194511,4194511
+materials/skybox/mr_58dn.vmt,81,81
+materials/skybox/mr_58dn.vtf,4194511,4194511
+materials/skybox/mr_58ft.vmt,81,81
+materials/skybox/mr_58ft.vtf,4194511,4194511
+materials/skybox/mr_58lf.vmt,81,81
+materials/skybox/mr_58lf.vtf,4194511,4194511
+materials/skybox/mr_58rt.vmt,81,81
+materials/skybox/mr_58rt.vtf,4194511,4194511
+materials/skybox/mr_58up.vmt,81,81
+materials/skybox/mr_58up.vtf,4194511,4194511
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/hammer textures/eazy2/31_eazy2_floor_blue_1.vmt,176,176
+materials/hammer textures/eazy2/31_eazy2_floor_blue_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_floor_clean_1.vmt,177,177
+materials/hammer textures/eazy2/31_eazy2_floor_clean_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_floor_clean_dark_1.vmt,182,182
+materials/hammer textures/eazy2/31_eazy2_floor_clean_dark_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_floor_green_1.vmt,177,177
+materials/hammer textures/eazy2/31_eazy2_floor_green_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_floor_multi_1.vmt,177,177
+materials/hammer textures/eazy2/31_eazy2_floor_multi_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_floor_purple_1.vmt,178,178
+materials/hammer textures/eazy2/31_eazy2_floor_purple_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_floor_red_1.vmt,175,175
+materials/hammer textures/eazy2/31_eazy2_floor_red_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_floor_yellow_1.vmt,178,178
+materials/hammer textures/eazy2/31_eazy2_floor_yellow_1.vtf,174984,174984
+materials/hammer textures/eazy2/31_eazy2_jumpblock_blue_1.vmt,180,180
+materials/hammer textures/eazy2/31_eazy2_jumpblock_blue_1.vtf,43912,43912
+materials/hammer textures/eazy2/31_eazy2_jumpblock_green_1.vmt,181,181
+materials/hammer textures/eazy2/31_eazy2_jumpblock_green_1.vtf,43912,43912
+materials/hammer textures/eazy2/31_eazy2_jumpblock_purple_1.vmt,182,182
+materials/hammer textures/eazy2/31_eazy2_jumpblock_purple_1.vtf,43912,43912
+materials/hammer textures/eazy2/31_eazy2_jumpblock_red_1.vmt,179,179
+materials/hammer textures/eazy2/31_eazy2_jumpblock_red_1.vtf,43912,43912
+materials/hammer textures/eazy2/31_eazy2_jumpblock_yellow_1.vmt,182,182
+materials/hammer textures/eazy2/31_eazy2_jumpblock_yellow_1.vtf,43912,43912
+materials/hammer textures/eazy2/31_eazy2_jumpsides_blue_1.vmt,180,180
+materials/hammer textures/eazy2/31_eazy2_jumpsides_blue_1.vtf,904,904
+materials/hammer textures/eazy2/31_eazy2_jumpsides_green_1.vmt,181,181
+materials/hammer textures/eazy2/31_eazy2_jumpsides_green_1.vtf,904,904
+materials/hammer textures/eazy2/31_eazy2_jumpsides_purple_1.vmt,182,182
+materials/hammer textures/eazy2/31_eazy2_jumpsides_purple_1.vtf,904,904
+materials/hammer textures/eazy2/31_eazy2_jumpsides_red_1.vmt,179,179
+materials/hammer textures/eazy2/31_eazy2_jumpsides_red_1.vtf,904,904
+materials/hammer textures/eazy2/31_eazy2_jumpsides_yellow_1.vmt,182,182
+materials/hammer textures/eazy2/31_eazy2_jumpsides_yellow_1.vtf,904,904
+sound/bhop_3_2.mp3,5727578,5727578
+sound/bhop_7a.mp3,8700802,8700802
+sound/laser.wav,112238,112238
+sound/arena_5a.mp3,9235801,9235801
+sound/bhop_3_final.mp3,5550518,5550518
+sound/bhop_5a.mp3,4778147,4778147
+sound/bhop_3_1.mp3,5055318,5055318
+sound/bhop_2a.mp3,5617625,5617625
+sound/bhop_4a.mp3,5928267,5928267
+sound/bhop_3a.mp3,4385086,4385086
+sound/bhop_6a.mp3,4609581,4609581

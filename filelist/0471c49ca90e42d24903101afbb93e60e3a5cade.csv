@@ -1,0 +1,1339 @@
+filename,size,compressed
+materials/maps/ze_descent_into_cerberon_s1/concrete/sewer_concretewall02a_1937_-2036_940.vmt,160,149
+materials/maps/ze_descent_into_cerberon_s1/additional_textures/metalwall005b_cubemaps_1937_-2036_940.vmt,172,164
+materials/maps/ze_descent_into_cerberon_s1/additional_textures/muggy_water_depth_216.vmt,119,110
+materials/maps/ze_descent_into_cerberon_s1/additional_textures/muggy_water_depth_60.vmt,118,110
+materials/maps/ze_descent_into_cerberon_s1/additional_textures/muggy_water_depth_24.vmt,118,110
+materials/maps/ze_descent_into_cerberon_s1/additional_textures/muggy_water_depth_16.vmt,118,110
+materials/maps/ze_descent_into_cerberon_s1/cubemapdefault.vtf,9832,106
+materials/maps/ze_descent_into_cerberon_s1/c1937_-2036_940.vtf,9832,106
+materials/maps/ze_descent_into_cerberon_s1/cubemapdefault.hdr.vtf,76528,127
+materials/maps/ze_descent_into_cerberon_s1/c1937_-2036_940.hdr.vtf,76528,127
+sp_0.vhv,6656,1680
+sp_1.vhv,6656,1689
+sp_2.vhv,6656,1636
+sp_3.vhv,6656,1686
+sp_4.vhv,6656,1578
+sp_5.vhv,6656,1737
+sp_6.vhv,6656,1597
+sp_7.vhv,6656,1786
+sp_8.vhv,6656,1760
+sp_9.vhv,6656,1797
+sp_10.vhv,6656,1706
+sp_11.vhv,6656,1686
+sp_12.vhv,6656,1661
+sp_13.vhv,6656,1748
+sp_14.vhv,6656,1655
+sp_15.vhv,6656,1752
+sp_16.vhv,6656,1749
+sp_17.vhv,6656,1682
+sp_18.vhv,6656,1713
+sp_19.vhv,6656,1701
+sp_20.vhv,6656,1664
+sp_21.vhv,6656,1719
+sp_22.vhv,6656,1662
+sp_23.vhv,6656,1760
+sp_24.vhv,6656,1610
+sp_25.vhv,6656,1635
+sp_26.vhv,6656,1595
+sp_27.vhv,6656,1761
+sp_28.vhv,6656,1713
+sp_29.vhv,6656,1719
+sp_30.vhv,6656,1663
+sp_31.vhv,6656,1594
+sp_32.vhv,6656,1561
+sp_33.vhv,6656,1518
+sp_34.vhv,6656,1594
+sp_35.vhv,6656,1658
+sp_36.vhv,6656,1626
+sp_37.vhv,6656,1613
+sp_38.vhv,6656,1684
+sp_39.vhv,6656,1088
+sp_40.vhv,6656,1054
+sp_41.vhv,6656,1776
+sp_42.vhv,6656,1645
+sp_43.vhv,6656,1694
+sp_44.vhv,6656,1664
+sp_45.vhv,6656,1696
+sp_46.vhv,6656,1790
+sp_47.vhv,6656,1466
+sp_48.vhv,6656,1793
+sp_49.vhv,6656,1747
+sp_50.vhv,6656,1721
+sp_51.vhv,6656,1721
+sp_52.vhv,6656,1702
+sp_53.vhv,6656,1701
+sp_54.vhv,6656,1659
+sp_55.vhv,6656,1472
+sp_56.vhv,6656,1690
+sp_57.vhv,6656,1625
+sp_58.vhv,6656,1591
+sp_59.vhv,6656,1669
+sp_60.vhv,6656,1646
+sp_61.vhv,6656,1676
+sp_62.vhv,6656,1723
+sp_63.vhv,6656,1772
+sp_64.vhv,6656,1705
+sp_65.vhv,6656,1756
+sp_66.vhv,6656,1793
+sp_67.vhv,6656,1749
+sp_68.vhv,6656,1707
+sp_69.vhv,6656,1627
+sp_70.vhv,6656,1672
+sp_71.vhv,6656,1725
+sp_72.vhv,6656,1805
+sp_73.vhv,6656,1655
+sp_74.vhv,6656,1778
+sp_75.vhv,6656,1803
+sp_76.vhv,6656,1833
+sp_77.vhv,6656,1737
+sp_78.vhv,6656,1827
+sp_79.vhv,6656,1754
+sp_80.vhv,6656,1839
+sp_81.vhv,6656,1727
+sp_82.vhv,6656,1632
+sp_83.vhv,6656,1755
+sp_84.vhv,6656,1718
+sp_85.vhv,6656,1676
+sp_86.vhv,6656,1712
+sp_87.vhv,6656,1621
+sp_88.vhv,6656,1436
+sp_89.vhv,6656,1444
+sp_90.vhv,6656,1431
+sp_91.vhv,6656,1459
+sp_92.vhv,6656,1432
+sp_93.vhv,6656,1498
+sp_94.vhv,6656,1398
+sp_95.vhv,6656,1389
+sp_96.vhv,6656,1483
+sp_97.vhv,6656,1461
+sp_98.vhv,6656,1456
+sp_99.vhv,6656,1393
+sp_100.vhv,6656,1260
+sp_101.vhv,6656,1154
+sp_102.vhv,6656,1103
+sp_103.vhv,6656,1203
+sp_104.vhv,6656,1447
+sp_105.vhv,6656,1594
+sp_106.vhv,6656,1624
+sp_107.vhv,2048,572
+sp_108.vhv,2048,575
+sp_109.vhv,2048,535
+sp_110.vhv,2048,554
+sp_111.vhv,2048,611
+sp_112.vhv,2048,597
+sp_113.vhv,2048,513
+sp_114.vhv,2048,543
+sp_115.vhv,2048,390
+sp_116.vhv,2048,437
+sp_117.vhv,4096,1164
+sp_118.vhv,4096,1034
+sp_119.vhv,4096,890
+sp_120.vhv,5120,1272
+sp_121.vhv,2048,573
+sp_122.vhv,5120,1715
+sp_123.vhv,3072,876
+sp_124.vhv,1024,114
+sp_125.vhv,1024,113
+sp_126.vhv,11776,2570
+sp_127.vhv,1024,120
+sp_128.vhv,41472,10995
+sp_129.vhv,1024,116
+sp_130.vhv,1024,121
+sp_131.vhv,1024,123
+sp_132.vhv,1024,112
+sp_133.vhv,1024,130
+sp_134.vhv,1024,127
+sp_135.vhv,1024,125
+sp_136.vhv,1024,114
+sp_137.vhv,1024,116
+sp_138.vhv,1024,117
+sp_139.vhv,1024,120
+sp_140.vhv,6656,1765
+sp_141.vhv,6656,1808
+sp_142.vhv,1024,110
+sp_143.vhv,1024,123
+sp_144.vhv,1024,120
+sp_145.vhv,1024,124
+sp_146.vhv,1024,117
+sp_147.vhv,1024,114
+sp_148.vhv,1024,113
+sp_149.vhv,1024,124
+sp_150.vhv,1024,126
+sp_151.vhv,1024,120
+sp_152.vhv,1024,116
+sp_153.vhv,1024,114
+sp_154.vhv,1024,106
+sp_155.vhv,1024,101
+sp_156.vhv,1024,119
+sp_157.vhv,1024,124
+sp_158.vhv,1024,122
+sp_159.vhv,1024,123
+sp_160.vhv,1024,121
+sp_161.vhv,11776,2606
+sp_162.vhv,11776,2550
+sp_163.vhv,5120,1167
+sp_164.vhv,5120,1156
+sp_165.vhv,6656,1541
+sp_166.vhv,6656,1645
+sp_167.vhv,6656,1666
+sp_168.vhv,6656,1833
+sp_169.vhv,6656,1836
+sp_170.vhv,11776,2771
+sp_171.vhv,11776,2770
+sp_172.vhv,2048,592
+sp_173.vhv,1024,119
+sp_174.vhv,1024,119
+sp_hdr_0.vhv,6656,1940
+sp_hdr_1.vhv,6656,1857
+sp_hdr_2.vhv,6656,1773
+sp_hdr_3.vhv,6656,1847
+sp_hdr_4.vhv,6656,1737
+sp_hdr_5.vhv,6656,1908
+sp_hdr_6.vhv,6656,1834
+sp_hdr_7.vhv,6656,1786
+sp_hdr_8.vhv,6656,2084
+sp_hdr_9.vhv,6656,2036
+sp_hdr_10.vhv,6656,1912
+sp_hdr_11.vhv,6656,1939
+sp_hdr_12.vhv,6656,1661
+sp_hdr_13.vhv,6656,1743
+sp_hdr_14.vhv,6656,1656
+sp_hdr_15.vhv,6656,1754
+sp_hdr_16.vhv,6656,1749
+sp_hdr_17.vhv,6656,1681
+sp_hdr_18.vhv,6656,1709
+sp_hdr_19.vhv,6656,1705
+sp_hdr_20.vhv,6656,1678
+sp_hdr_21.vhv,6656,1717
+sp_hdr_22.vhv,6656,1656
+sp_hdr_23.vhv,6656,1760
+sp_hdr_24.vhv,6656,1610
+sp_hdr_25.vhv,6656,1634
+sp_hdr_26.vhv,6656,1582
+sp_hdr_27.vhv,6656,1754
+sp_hdr_28.vhv,6656,1713
+sp_hdr_29.vhv,6656,1719
+sp_hdr_30.vhv,6656,1663
+sp_hdr_31.vhv,6656,1594
+sp_hdr_32.vhv,6656,1566
+sp_hdr_33.vhv,6656,1518
+sp_hdr_34.vhv,6656,1595
+sp_hdr_35.vhv,6656,1658
+sp_hdr_36.vhv,6656,1626
+sp_hdr_37.vhv,6656,1600
+sp_hdr_38.vhv,6656,1673
+sp_hdr_39.vhv,6656,1857
+sp_hdr_40.vhv,6656,1820
+sp_hdr_41.vhv,6656,1778
+sp_hdr_42.vhv,6656,1645
+sp_hdr_43.vhv,6656,1689
+sp_hdr_44.vhv,6656,1664
+sp_hdr_45.vhv,6656,1698
+sp_hdr_46.vhv,6656,1788
+sp_hdr_47.vhv,6656,1478
+sp_hdr_48.vhv,6656,1792
+sp_hdr_49.vhv,6656,1743
+sp_hdr_50.vhv,6656,1721
+sp_hdr_51.vhv,6656,1721
+sp_hdr_52.vhv,6656,1702
+sp_hdr_53.vhv,6656,1701
+sp_hdr_54.vhv,6656,1659
+sp_hdr_55.vhv,6656,1472
+sp_hdr_56.vhv,6656,1690
+sp_hdr_57.vhv,6656,1625
+sp_hdr_58.vhv,6656,1591
+sp_hdr_59.vhv,6656,1675
+sp_hdr_60.vhv,6656,1761
+sp_hdr_61.vhv,6656,1801
+sp_hdr_62.vhv,6656,1901
+sp_hdr_63.vhv,6656,1957
+sp_hdr_64.vhv,6656,1827
+sp_hdr_65.vhv,6656,1839
+sp_hdr_66.vhv,6656,1993
+sp_hdr_67.vhv,6656,1868
+sp_hdr_68.vhv,6656,1707
+sp_hdr_69.vhv,6656,1627
+sp_hdr_70.vhv,6656,1824
+sp_hdr_71.vhv,6656,1900
+sp_hdr_72.vhv,6656,1935
+sp_hdr_73.vhv,6656,1798
+sp_hdr_74.vhv,6656,1778
+sp_hdr_75.vhv,6656,1803
+sp_hdr_76.vhv,6656,1833
+sp_hdr_77.vhv,6656,1738
+sp_hdr_78.vhv,6656,1827
+sp_hdr_79.vhv,6656,1754
+sp_hdr_80.vhv,6656,1839
+sp_hdr_81.vhv,6656,1727
+sp_hdr_82.vhv,6656,1632
+sp_hdr_83.vhv,6656,1769
+sp_hdr_84.vhv,6656,1718
+sp_hdr_85.vhv,6656,1676
+sp_hdr_86.vhv,6656,1712
+sp_hdr_87.vhv,6656,1621
+sp_hdr_88.vhv,6656,1350
+sp_hdr_89.vhv,6656,1391
+sp_hdr_90.vhv,6656,1362
+sp_hdr_91.vhv,6656,1385
+sp_hdr_92.vhv,6656,1339
+sp_hdr_93.vhv,6656,1398
+sp_hdr_94.vhv,6656,1277
+sp_hdr_95.vhv,6656,1300
+sp_hdr_96.vhv,6656,1345
+sp_hdr_97.vhv,6656,1397
+sp_hdr_98.vhv,6656,1372
+sp_hdr_99.vhv,6656,1280
+sp_hdr_100.vhv,6656,1267
+sp_hdr_101.vhv,6656,1142
+sp_hdr_102.vhv,6656,1110
+sp_hdr_103.vhv,6656,1205
+sp_hdr_104.vhv,6656,1437
+sp_hdr_105.vhv,6656,1595
+sp_hdr_106.vhv,6656,1619
+sp_hdr_107.vhv,2048,572
+sp_hdr_108.vhv,2048,575
+sp_hdr_109.vhv,2048,535
+sp_hdr_110.vhv,2048,554
+sp_hdr_111.vhv,2048,611
+sp_hdr_112.vhv,2048,597
+sp_hdr_113.vhv,2048,513
+sp_hdr_114.vhv,2048,543
+sp_hdr_115.vhv,2048,390
+sp_hdr_116.vhv,2048,437
+sp_hdr_117.vhv,4096,1164
+sp_hdr_118.vhv,4096,1034
+sp_hdr_119.vhv,4096,890
+sp_hdr_120.vhv,5120,1438
+sp_hdr_121.vhv,2048,638
+sp_hdr_122.vhv,5120,1938
+sp_hdr_123.vhv,3072,955
+sp_hdr_124.vhv,1024,121
+sp_hdr_125.vhv,1024,125
+sp_hdr_126.vhv,11776,2864
+sp_hdr_127.vhv,1024,125
+sp_hdr_128.vhv,41472,12734
+sp_hdr_129.vhv,1024,129
+sp_hdr_130.vhv,1024,124
+sp_hdr_131.vhv,1024,124
+sp_hdr_132.vhv,1024,117
+sp_hdr_133.vhv,1024,127
+sp_hdr_134.vhv,1024,131
+sp_hdr_135.vhv,1024,127
+sp_hdr_136.vhv,1024,133
+sp_hdr_137.vhv,1024,137
+sp_hdr_138.vhv,1024,135
+sp_hdr_139.vhv,1024,120
+sp_hdr_140.vhv,6656,1765
+sp_hdr_141.vhv,6656,1808
+sp_hdr_142.vhv,1024,110
+sp_hdr_143.vhv,1024,123
+sp_hdr_144.vhv,1024,120
+sp_hdr_145.vhv,1024,124
+sp_hdr_146.vhv,1024,117
+sp_hdr_147.vhv,1024,115
+sp_hdr_148.vhv,1024,113
+sp_hdr_149.vhv,1024,124
+sp_hdr_150.vhv,1024,126
+sp_hdr_151.vhv,1024,127
+sp_hdr_152.vhv,1024,131
+sp_hdr_153.vhv,1024,126
+sp_hdr_154.vhv,1024,118
+sp_hdr_155.vhv,1024,116
+sp_hdr_156.vhv,1024,119
+sp_hdr_157.vhv,1024,124
+sp_hdr_158.vhv,1024,122
+sp_hdr_159.vhv,1024,123
+sp_hdr_160.vhv,1024,121
+sp_hdr_161.vhv,11776,2608
+sp_hdr_162.vhv,11776,2552
+sp_hdr_163.vhv,5120,1485
+sp_hdr_164.vhv,5120,1505
+sp_hdr_165.vhv,6656,1762
+sp_hdr_166.vhv,6656,1945
+sp_hdr_167.vhv,6656,1666
+sp_hdr_168.vhv,6656,1833
+sp_hdr_169.vhv,6656,1836
+sp_hdr_170.vhv,11776,2781
+sp_hdr_171.vhv,11776,2766
+sp_hdr_172.vhv,2048,644
+sp_hdr_173.vhv,1024,127
+sp_hdr_174.vhv,1024,119
+materials/additional_textures/metalwall005b_cubemaps.vmt,519,307
+materials/additional_textures/muggy_water.vmt,1706,697
+materials/concrete/conc_map-ssbump.vtf,349784,306616
+materials/concrete/sewer_concretewall02a.vmt,256,172
+materials/concrete/sewer_concretewall02a.vtf,175008,117421
+materials/decals/hpe_gradient_shadow_decal.vmt,180,132
+materials/decals/hpe_gradient_shadow_decal.vtf,87616,16621
+materials/dev/dev_waterbeneath2.vmt,1312,656
+materials/dev/water_normal.vtf,10136388,1620035
+materials/de_aztec/aztec_carving01_normal.vtf,174984,102819
+materials/de_aztec/aztec_carving02_normal.vtf,174984,103677
+materials/de_aztec/aztec_carving_01.vmt,167,133
+materials/de_aztec/aztec_carving_01.vtf,175008,121823
+materials/de_aztec/aztec_carving_02a.vmt,168,134
+materials/de_aztec/aztec_carving_02a.vtf,175008,129508
+materials/de_aztec/aztec_stone05_normal.vtf,175008,141155
+materials/de_aztec/carving01.vtf,349776,138678
+materials/de_aztec/carving01_cheap.vmt,158,132
+materials/de_aztec/carving03b.vtf,175008,128798
+materials/de_aztec/carving03b_cheap.vmt,160,134
+materials/de_aztec/hpe_aztec_stone01.vmt,210,158
+materials/de_aztec/hpe_aztec_stone01.vtf,175008,121636
+materials/de_aztec/hpe_aztec_stone01b.vmt,203,160
+materials/de_aztec/hpe_aztec_stone01b.vtf,175008,112983
+materials/de_aztec/hpe_aztec_stone01_height-ssbump.vtf,349784,337648
+materials/de_aztec/hpe_aztec_stone03.vtf,175008,135747
+materials/de_aztec/hpe_aztec_stone03_cheap.vmt,174,136
+materials/de_aztec/stairsfake01.vtf,175008,128577
+materials/de_aztec/stairsfake01_cheap.vmt,164,134
+materials/de_aztec/hr_aztec/hr_aztec_wall_plaster_03_bottom_color.vmt,318,177
+materials/de_aztec/hr_aztec/hr_aztec_wall_plaster_03_bottom_color.vtf,699272,490671
+materials/de_aztec/hr_aztec/hr_aztec_wall_plaster_03_normal.vtf,174984,146650
+materials/models/fibbs/torch.vmt,178,136
+materials/models/fibbs/torch.vtf,174984,77078
+materials/models/fibbs/torchmount.vmt,199,146
+materials/models/fibbs/torchmount.vtf,43912,13986
+materials/models/fibbs/torchmount_n.vtf,87632,45061
+materials/models/fibbs/torch_n.vtf,349776,247492
+materials/models/props/de_aztec/aztec_block.vmt,387,230
+materials/models/props/de_aztec/aztec_block.vtf,699296,482955
+materials/models/props/de_aztec/statue01.vmt,76,85
+materials/models/props/de_aztec/statue01.vtf,699296,552504
+materials/models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_planks.vmt,231,146
+materials/models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_planks_color.vtf,1398264,1017503
+materials/models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_planks_normal.vtf,349688,268992
+materials/models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_platform.vmt,235,148
+materials/models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_platform_color.vtf,699272,456678
+materials/models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_platform_normal.vtf,174984,118862
+materials/models/props_equipment/metalladder003.vmt,83,92
+materials/models/props_equipment/metalladder003.vtf,43936,32049
+materials/models/props_equipment/metal_ladder002_new_color.vmt,577,315
+materials/models/props_equipment/metal_ladder002_new_color.vtf,174968,66880
+materials/models/props_equipment/metal_ladder002_new_normal.vtf,174968,102503
+materials/nature/water_frame01_normal.vtf,262375,69454
+materials/quake 2/baldo_metalf_esq.vmt,93,98
+materials/quake 2/baldo_metalf_esq.vtf,87560,30162
+materials/quake 2/baselt_2.vmt,85,90
+materials/quake 2/baselt_2.vtf,43848,27326
+materials/quake 2/basemap.vmt,84,88
+materials/quake 2/basemap.vtf,349704,75187
+materials/quake 2/basic1_1.vmt,85,92
+materials/quake 2/basic1_1.vtf,43928,25361
+materials/quake 2/basic1_2.vmt,85,92
+materials/quake 2/basic1_2.vtf,43928,25042
+materials/quake 2/basic1_4.vmt,85,92
+materials/quake 2/basic1_4.vtf,11160,6016
+materials/quake 2/basic1_5.vmt,85,92
+materials/quake 2/basic1_5.vtf,43928,25444
+materials/quake 2/basic1_7.vmt,85,92
+materials/quake 2/basic1_7.vtf,43928,18343
+materials/quake 2/bflor3_3.vmt,85,92
+materials/quake 2/bflor3_3.vtf,43928,28320
+materials/quake 2/bigmet1_1 (2).vmt,90,96
+materials/quake 2/bigmet1_1 (2).vtf,175000,95134
+materials/quake 2/bigmet1_1.vmt,86,92
+materials/quake 2/bigmet1_1.vtf,175000,95134
+materials/quake 2/blum11_1.vmt,85,92
+materials/quake 2/blum11_1.vtf,175000,84915
+materials/quake 2/blum12_1.vmt,85,92
+materials/quake 2/blum12_1.vtf,175000,96355
+materials/quake 2/blum13_1.vmt,85,92
+materials/quake 2/blum13_1.vtf,175000,94278
+materials/quake 2/blum14_1.vmt,83,90
+materials/quake 2/blum14_1.vtf,175000,99921
+materials/quake 2/blum15_1.vmt,83,90
+materials/quake 2/blum15_1.vtf,175000,100211
+materials/quake 2/blum15_2.vmt,83,90
+materials/quake 2/blum15_2.vtf,175000,101567
+materials/quake 2/blume4_1.vmt,85,92
+materials/quake 2/blume4_1.vtf,175000,92373
+materials/quake 2/blume4_2.vmt,85,92
+materials/quake 2/blume4_2.vtf,175000,95628
+materials/quake 2/blume5_1.vmt,85,92
+materials/quake 2/blume5_1.vtf,175000,106901
+materials/quake 2/blume6_2.vmt,85,92
+materials/quake 2/blume6_2.vtf,175000,94994
+materials/quake 2/blume7_2.vmt,85,92
+materials/quake 2/blume7_2.vtf,175000,98895
+materials/quake 2/blume8_1.vmt,85,92
+materials/quake 2/blume8_1.vtf,175000,105505
+materials/quake 2/bmetal11_1.vmt,85,89
+materials/quake 2/bmetal11_1.vtf,175000,113402
+materials/quake 2/bmetal11_2.vmt,85,89
+materials/quake 2/bmetal11_2.vtf,175000,112720
+materials/quake 2/bmetal12_1.vmt,85,90
+materials/quake 2/bmetal12_1.vtf,175000,113267
+materials/quake 2/bmetal13_2.vmt,85,90
+materials/quake 2/bmetal13_2.vtf,175000,113842
+materials/quake 2/bmetl2_1.vmt,83,90
+materials/quake 2/bmetl2_1.vtf,87560,48401
+materials/quake 2/bmtb13_1.vmt,83,90
+materials/quake 2/bmtb13_1.vtf,175000,111756
+materials/quake 2/bossdr2.vmt,84,91
+materials/quake 2/bossdr2.vtf,43848,7614
+materials/quake 2/box1_5.vmt,83,90
+materials/quake 2/box1_5.vtf,43928,25615
+materials/quake 2/box1_6.vmt,83,90
+materials/quake 2/box1_6.vtf,43928,23280
+materials/quake 2/box3_1.vmt,83,90
+materials/quake 2/box3_1.vtf,43928,26186
+materials/quake 2/box3_2.vmt,83,90
+materials/quake 2/box3_2.vtf,43928,27539
+materials/quake 2/box3_3.vmt,83,90
+materials/quake 2/box3_3.vtf,43928,26976
+materials/quake 2/box3_4.vmt,83,90
+materials/quake 2/box3_4.vtf,43928,23366
+materials/quake 2/box3_5.vmt,83,90
+materials/quake 2/box3_5.vtf,43928,24218
+materials/quake 2/box3_6.vmt,83,90
+materials/quake 2/box3_6.vtf,43928,24781
+materials/quake 2/box3_7.vmt,83,90
+materials/quake 2/box3_7.vtf,43928,27683
+materials/quake 2/box3_8.vmt,83,90
+materials/quake 2/box3_8.vtf,43928,28889
+materials/quake 2/box4_1.vmt,83,90
+materials/quake 2/box4_1.vtf,87560,50874
+materials/quake 2/btdoor.vmt,83,89
+materials/quake 2/btdoor.vtf,11160,7898
+materials/quake 2/btelev_dn3.vmt,87,93
+materials/quake 2/btelev_dn3.vtf,11160,6885
+materials/quake 2/caution1_1.vmt,87,93
+materials/quake 2/caution1_1.vtf,43848,22985
+materials/quake 2/cb_towerfront_dwn.vmt,94,100
+materials/quake 2/cb_towerfront_dwn.vtf,699288,406473
+materials/quake 2/ceil1_11.vmt,85,91
+materials/quake 2/ceil1_11.vtf,2968,2384
+materials/quake 2/ceil1_12.vmt,85,92
+materials/quake 2/ceil1_12.vtf,2968,2576
+materials/quake 2/ceil1_13.vmt,85,92
+materials/quake 2/ceil1_13.vtf,2968,2501
+materials/quake 2/ceil1_14.vmt,85,92
+materials/quake 2/ceil1_14.vtf,2968,2534
+materials/quake 2/ceil1_2.vmt,84,91
+materials/quake 2/ceil1_2.vtf,2968,2531
+materials/quake 2/ceil1_3.vmt,84,91
+materials/quake 2/ceil1_3.vtf,2968,2534
+materials/quake 2/ceil1_4.vmt,84,91
+materials/quake 2/ceil1_4.vtf,2968,2583
+materials/quake 2/ceil1_7.vmt,84,91
+materials/quake 2/ceil1_7.vtf,2968,2442
+materials/quake 2/cindr2_2.vmt,85,92
+materials/quake 2/cindr2_2.vtf,175000,86322
+materials/quake 2/cindr8_1.vmt,85,92
+materials/quake 2/cindr8_1.vtf,175000,95464
+materials/quake 2/color1_3.vmt,85,92
+materials/quake 2/color1_3.vtf,43928,25372
+materials/quake 2/color1_4.vmt,85,92
+materials/quake 2/color1_4.vtf,43928,28298
+materials/quake 2/columnametal.vmt,89,95
+materials/quake 2/columnametal.vtf,43848,27846
+materials/quake 2/comp3_3.vmt,84,91
+materials/quake 2/comp3_3.vtf,43928,20101
+materials/quake 2/comp3_8.vmt,84,91
+materials/quake 2/comp3_8.vtf,43928,21941
+materials/quake 2/comp5_1.vmt,84,91
+materials/quake 2/comp5_1.vtf,43928,24652
+materials/quake 2/comp5_2.vmt,84,91
+materials/quake 2/comp5_2.vtf,43928,19945
+materials/quake 2/comp5_3.vmt,84,91
+materials/quake 2/comp5_3.vtf,43928,21536
+materials/quake 2/core1_1.vmt,84,91
+materials/quake 2/core1_1.vtf,87560,57822
+materials/quake 2/core2_7.vmt,84,91
+materials/quake 2/core2_7.vtf,43928,34062
+materials/quake 2/core3_1 (2).vmt,88,95
+materials/quake 2/core3_1 (2).vtf,87560,48298
+materials/quake 2/core4_3.vmt,84,91
+materials/quake 2/core4_3.vtf,87560,52133
+materials/quake 2/crate1_1.vmt,85,91
+materials/quake 2/crate1_1.vtf,43928,23724
+materials/quake 2/crate1_6.vmt,85,91
+materials/quake 2/crate1_6.vtf,43928,26644
+materials/quake 2/crate2_2.vmt,85,91
+materials/quake 2/crate2_2.vtf,43928,26216
+materials/quake 2/crate2_6.vmt,85,91
+materials/quake 2/crate2_6.vtf,43928,26817
+materials/quake 2/c_met11_2.vmt,86,93
+materials/quake 2/c_met11_2.vtf,175000,108634
+materials/quake 2/c_met51a.vmt,85,92
+materials/quake 2/c_met51a.vtf,175000,105707
+materials/quake 2/c_met51c.vmt,83,90
+materials/quake 2/c_met51c.vtf,22024,13315
+materials/quake 2/c_met52a.vmt,85,92
+materials/quake 2/c_met52a.vtf,175000,106914
+materials/quake 2/c_met5_1.vmt,85,92
+materials/quake 2/c_met5_1.vtf,175000,106365
+materials/quake 2/c_met5_2.vmt,85,92
+materials/quake 2/c_met5_2.vtf,175000,106456
+materials/quake 2/c_met7_1.vmt,85,92
+materials/quake 2/c_met7_1.vtf,175000,106842
+materials/quake 2/c_met7_2.vmt,85,92
+materials/quake 2/c_met7_2.vtf,43928,27591
+materials/quake 2/c_met8_2.vmt,85,92
+materials/quake 2/c_met8_2.vtf,43928,27779
+materials/quake 2/damage1_2.vmt,86,92
+materials/quake 2/damage1_2.vtf,175000,105229
+materials/quake 2/doorbot.vmt,84,89
+materials/quake 2/doorbot.vtf,43928,19212
+materials/quake 2/dormine01.vmt,86,92
+materials/quake 2/dormine01.vtf,175000,113306
+materials/quake 2/dr02_1.vmt,83,90
+materials/quake 2/dr02_1.vtf,175000,105195
+materials/quake 2/dr02_2.vmt,83,90
+materials/quake 2/dr02_2.vtf,175000,98758
+materials/quake 2/dump1_1.vmt,84,91
+materials/quake 2/dump1_1.vtf,175000,82567
+materials/quake 2/dump1_2.vmt,84,91
+materials/quake 2/dump1_2.vtf,175000,86393
+materials/quake 2/dump3_1.vmt,84,91
+materials/quake 2/dump3_1.vtf,43928,20362
+materials/quake 2/elev_dr1.vmt,85,92
+materials/quake 2/elev_dr1.vtf,175000,109465
+materials/quake 2/elev_dr2.vmt,85,92
+materials/quake 2/elev_dr2.vtf,175000,122956
+materials/quake 2/endsign1_8.vmt,87,93
+materials/quake 2/endsign1_8.vtf,11080,6938
+materials/quake 2/endsign1_9.vmt,87,93
+materials/quake 2/endsign1_9.vtf,11080,6984
+materials/quake 2/exitsymbol2.vmt,88,94
+materials/quake 2/exitsymbol2.vtf,11160,9002
+materials/quake 2/flat1_2.vmt,84,91
+materials/quake 2/flat1_2.vtf,43928,26085
+materials/quake 2/floor1_1.vmt,85,92
+materials/quake 2/floor1_1.vtf,43928,25220
+materials/quake 2/floor1_2.vmt,85,92
+materials/quake 2/floor1_2.vtf,43928,24548
+materials/quake 2/floor1_4.vmt,85,92
+materials/quake 2/floor1_4.vtf,43928,24147
+materials/quake 2/floor1_6.vmt,85,92
+materials/quake 2/floor1_6.vtf,43928,25251
+materials/quake 2/floor1_7.vmt,85,92
+materials/quake 2/floor1_7.vtf,43928,22510
+materials/quake 2/floor2_4.vmt,85,92
+materials/quake 2/floor2_4.vtf,43928,20264
+materials/quake 2/floor2_6.vmt,85,92
+materials/quake 2/floor2_6.vtf,43928,24841
+materials/quake 2/floor2_7.vmt,85,92
+materials/quake 2/floor2_7.vtf,43928,25567
+materials/quake 2/floor3_1.vmt,85,92
+materials/quake 2/floor3_1.vtf,43928,25447
+materials/quake 2/floor3_2.vmt,85,92
+materials/quake 2/floor3_2.vtf,43928,23411
+materials/quake 2/floor3_3.vmt,85,92
+materials/quake 2/floor3_3.vtf,43928,28320
+materials/quake 2/florr1_5.vmt,83,90
+materials/quake 2/florr1_5.vtf,43928,24382
+materials/quake 2/florr2_5.vmt,85,92
+materials/quake 2/florr2_5.vtf,43928,23422
+materials/quake 2/florr2_7.vmt,85,92
+materials/quake 2/florr2_7.vtf,43928,25918
+materials/quake 2/fmet2_3.vmt,84,91
+materials/quake 2/fmet2_3.vtf,87560,36340
+materials/quake 2/fmet2_4.vmt,82,89
+materials/quake 2/fmet2_4.vtf,22024,9456
+materials/quake 2/fmet3_1.vmt,84,91
+materials/quake 2/fmet3_1.vtf,87560,39369
+materials/quake 2/ggrat12_4.vmt,86,93
+materials/quake 2/ggrat12_4.vtf,43928,25524
+materials/quake 2/ggrat2_7.vmt,83,90
+materials/quake 2/ggrat2_7.vtf,11160,6091
+materials/quake 2/ggrat4_1.vmt,85,92
+materials/quake 2/ggrat4_1.vtf,175000,96916
+materials/quake 2/ggrat4_2.vmt,85,92
+materials/quake 2/ggrat4_2.vtf,175000,100555
+materials/quake 2/ggrat4_4.vmt,85,92
+materials/quake 2/ggrat4_4.vtf,2968,1887
+materials/quake 2/ggrat5_1.vmt,85,92
+materials/quake 2/ggrat5_1.vtf,175000,101705
+materials/quake 2/ggrat5_2.vmt,85,92
+materials/quake 2/ggrat5_2.vtf,175000,101917
+materials/quake 2/ggrat6_1.vmt,85,92
+materials/quake 2/ggrat6_1.vtf,175000,102348
+materials/quake 2/ggrat6_2.vmt,85,92
+materials/quake 2/ggrat6_2.vtf,175000,101484
+materials/quake 2/ggrate9_2.vmt,86,92
+materials/quake 2/ggrate9_2.vtf,175000,96514
+materials/quake 2/grate1_1.vmt,85,91
+materials/quake 2/grate1_1.vtf,43928,24342
+materials/quake 2/grate1_2.vmt,85,91
+materials/quake 2/grate1_2.vtf,43928,22399
+materials/quake 2/grate1_3.vmt,85,91
+materials/quake 2/grate1_3.vtf,43928,31655
+materials/quake 2/grate1_4.vmt,85,91
+materials/quake 2/grate1_4.vtf,43928,19344
+materials/quake 2/grate1_5.vmt,85,91
+materials/quake 2/grate1_5.vtf,43928,25910
+materials/quake 2/grate1_6.vmt,85,91
+materials/quake 2/grate1_6.vtf,43928,27280
+materials/quake 2/grate2_1.vmt,85,91
+materials/quake 2/grate2_1.vtf,43928,31415
+materials/quake 2/grate2_2.vmt,85,91
+materials/quake 2/grate2_2.vtf,43928,25753
+materials/quake 2/grate2_3.vmt,85,91
+materials/quake 2/grate2_3.vtf,43928,27187
+materials/quake 2/grate2_4.vmt,85,91
+materials/quake 2/grate2_4.vtf,43928,27666
+materials/quake 2/grate2_5.vmt,85,91
+materials/quake 2/grate2_5.vtf,43928,25186
+materials/quake 2/grate2_6.vmt,85,91
+materials/quake 2/grate2_6.vtf,43928,26263
+materials/quake 2/grate2_7.vmt,85,91
+materials/quake 2/grate2_7.vtf,43928,25855
+materials/quake 2/grate2_8.vmt,85,91
+materials/quake 2/grate2_8.vtf,43928,25289
+materials/quake 2/green2_2.vmt,85,92
+materials/quake 2/green2_2.vtf,87560,46999
+materials/quake 2/green2_3.vmt,85,92
+materials/quake 2/green2_3.vtf,87560,42754
+materials/quake 2/green3_1.vmt,85,92
+materials/quake 2/green3_1.vtf,87560,54114
+materials/quake 2/green3_2.vmt,85,92
+materials/quake 2/green3_2.vtf,87560,55519
+materials/quake 2/green3_3.vmt,85,92
+materials/quake 2/green3_3.vtf,87560,54142
+materials/quake 2/green3_4.vmt,85,92
+materials/quake 2/green3_4.vtf,87560,45889
+materials/quake 2/grey1_3.vmt,84,91
+materials/quake 2/grey1_3.vtf,43928,22386
+materials/quake 2/grnx1_1.vmt,82,90
+materials/quake 2/grnx1_1.vtf,175000,104364
+materials/quake 2/grnx1_2.vmt,82,90
+materials/quake 2/grnx1_2.vtf,175000,94567
+materials/quake 2/grnx2_2.vmt,84,91
+materials/quake 2/grnx2_2.vtf,43928,28339
+materials/quake 2/grnx2_3.vmt,82,90
+materials/quake 2/grnx2_3.vtf,43928,27748
+materials/quake 2/grnx2_6.vmt,84,91
+materials/quake 2/grnx2_6.vtf,43928,25906
+materials/quake 2/grnx2_8.vmt,84,91
+materials/quake 2/grnx2_8.vtf,43928,10784
+materials/quake 2/grnx3_3.vmt,84,91
+materials/quake 2/grnx3_3.vtf,87560,46544
+materials/quake 2/hvydoor1_1.vmt,87,94
+materials/quake 2/hvydoor1_1.vtf,175000,105210
+materials/quake 2/hvy_dr1_2.vmt,84,92
+materials/quake 2/hvy_dr1_2.vtf,175000,113114
+materials/quake 2/hvy_dr2_1.vmt,84,92
+materials/quake 2/hvy_dr2_1.vtf,175000,111864
+materials/quake 2/hvy_dr3_2.vmt,84,92
+materials/quake 2/hvy_dr3_2.vtf,175000,91366
+materials/quake 2/jalt2_tilefloor.vmt,92,97
+materials/quake 2/jalt2_tilefloor.vtf,43928,25991
+materials/quake 2/jal_clanggrate.vmt,91,96
+materials/quake 2/jal_clanggrate.vtf,43928,21308
+materials/quake 2/keydran1_1.vmt,87,93
+materials/quake 2/keydran1_1.vtf,175000,118943
+materials/quake 2/keydran2_1.vmt,87,93
+materials/quake 2/keydran2_1.vtf,175000,118826
+materials/quake 2/lava.vmt,342,166
+materials/quake 2/lava.vtf,43928,24178
+materials/quake 2/lead1_1.vmt,84,91
+materials/quake 2/lead1_1.vtf,87560,51013
+materials/quake 2/lead1_2.vmt,84,91
+materials/quake 2/lead1_2.vtf,87560,53474
+materials/quake 2/lever3.vmt,83,89
+materials/quake 2/lever3.vtf,11160,6007
+materials/quake 2/light03_1.vmt,86,92
+materials/quake 2/light03_1.vtf,43928,21501
+materials/quake 2/met1_1.vmt,83,90
+materials/quake 2/met1_1.vtf,87560,53021
+materials/quake 2/met1_2 (2).vmt,87,94
+materials/quake 2/met1_2 (2).vtf,87560,54397
+materials/quake 2/met1_2.vmt,83,90
+materials/quake 2/met1_2.vtf,87560,49777
+materials/quake 2/met1_4.vmt,83,90
+materials/quake 2/met1_4.vtf,87560,47814
+materials/quake 2/met2_1.vmt,83,90
+materials/quake 2/met2_1.vtf,87560,51215
+materials/quake 2/met2_3 (2).vmt,87,94
+materials/quake 2/met2_3 (2).vtf,87560,49904
+materials/quake 2/met4_3 (2).vmt,87,94
+materials/quake 2/met4_3 (2).vtf,43928,26512
+materials/quake 2/met4_3.vmt,83,90
+materials/quake 2/met4_3.vtf,43928,26512
+materials/quake 2/met4_4.vmt,83,90
+materials/quake 2/met4_4.vtf,43928,26727
+materials/quake 2/metal12_2.vmt,86,92
+materials/quake 2/metal12_2.vtf,87560,48561
+materials/quake 2/metal13_1.vmt,86,93
+materials/quake 2/metal13_1.vtf,175000,116532
+materials/quake 2/metal13_2.vmt,86,93
+materials/quake 2/metal13_2.vtf,87560,58883
+materials/quake 2/metal15_1.vmt,84,89
+materials/quake 2/metal15_1.vtf,175000,107602
+materials/quake 2/metal15_2.vmt,86,93
+materials/quake 2/metal15_2.vtf,175000,107907
+materials/quake 2/metal1_1.vmt,85,92
+materials/quake 2/metal1_1.vtf,43928,28818
+materials/quake 2/metal1_3.vmt,85,92
+materials/quake 2/metal1_3.vtf,43928,28439
+materials/quake 2/metal1_4.vmt,85,92
+materials/quake 2/metal1_4.vtf,43928,28443
+materials/quake 2/metal1_5.vmt,85,92
+materials/quake 2/metal1_5.vtf,43928,28263
+materials/quake 2/metal1_7.vmt,85,92
+materials/quake 2/metal1_7.vtf,43928,28559
+materials/quake 2/metal22_2.vmt,86,92
+materials/quake 2/metal22_2.vtf,175000,88967
+materials/quake 2/metal24_3.vmt,86,93
+materials/quake 2/metal24_3.vtf,87560,28899
+materials/quake 2/metal25_3.vmt,86,93
+materials/quake 2/metal25_3.vtf,87560,48237
+materials/quake 2/metal2_1.vmt,85,92
+materials/quake 2/metal2_1.vtf,87560,55534
+materials/quake 2/metal2_4.vmt,85,92
+materials/quake 2/metal2_4.vtf,87560,56227
+materials/quake 2/metal33_2.vmt,86,92
+materials/quake 2/metal33_2.vtf,175000,102560
+materials/quake 2/metal36_4.vmt,86,93
+materials/quake 2/metal36_4.vtf,87560,47894
+materials/quake 2/metal3_1.vmt,85,92
+materials/quake 2/metal3_1.vtf,43928,27613
+materials/quake 2/metal3_2.vmt,85,92
+materials/quake 2/metal3_2.vtf,43928,27300
+materials/quake 2/metal3_3.vmt,85,92
+materials/quake 2/metal3_3.vtf,43928,26839
+materials/quake 2/metal4_2.vmt,85,92
+materials/quake 2/metal4_2.vtf,87560,59590
+materials/quake 2/metal9_2.vmt,85,92
+materials/quake 2/metal9_2.vtf,43848,23139
+materials/quake 2/metals_1.vmt,85,91
+materials/quake 2/metals_1.vtf,87560,48916
+materials/quake 2/metl10_2.vmt,85,92
+materials/quake 2/metl10_2.vtf,175000,106208
+materials/quake 2/metl12_1.vmt,85,92
+materials/quake 2/metl12_1.vtf,175000,107813
+materials/quake 2/mfloor_esc_waste.vmt,93,99
+materials/quake 2/mfloor_esc_waste.vtf,43928,23443
+materials/quake 2/mine04_1.vmt,85,92
+materials/quake 2/mine04_1.vtf,175000,74142
+materials/quake 2/mine05_1.vmt,85,92
+materials/quake 2/mine05_1.vtf,175000,65240
+materials/quake 2/mine05_2.vmt,85,92
+materials/quake 2/mine05_2.vtf,175000,67069
+materials/quake 2/mine06_3.vmt,85,92
+materials/quake 2/mine06_3.vtf,87560,28476
+materials/quake 2/mine07_1.vmt,85,92
+materials/quake 2/mine07_1.vtf,87560,35321
+materials/quake 2/mine07_2.vmt,85,92
+materials/quake 2/mine07_2.vtf,87560,28878
+materials/quake 2/mine07_3.vmt,85,92
+materials/quake 2/mine07_3.vtf,87560,35600
+materials/quake 2/mine13_2.vmt,85,92
+materials/quake 2/mine13_2.vtf,175000,85816
+materials/quake 2/mlfloor_armor.vmt,90,95
+materials/quake 2/mlfloor_armor.vtf,175000,37663
+materials/quake 2/mlfloor_g.vmt,86,92
+materials/quake 2/mlfloor_g.vtf,43928,23443
+materials/quake 2/patch10_beatup2.vmt,92,97
+materials/quake 2/patch10_beatup2.vtf,175000,96276
+materials/quake 2/pilr01_3.vmt,85,92
+materials/quake 2/pilr01_3.vtf,87560,39001
+materials/quake 2/pip01_2.vmt,84,91
+materials/quake 2/pip01_2.vtf,87560,48189
+materials/quake 2/pip01_4.vmt,84,91
+materials/quake 2/pip01_4.vtf,87560,49937
+materials/quake 2/pip02_1.vmt,84,91
+materials/quake 2/pip02_1.vtf,87560,55935
+materials/quake 2/pip04_5.vmt,84,91
+materials/quake 2/pip04_5.vtf,43928,27306
+materials/quake 2/pipe1_3.vmt,84,91
+materials/quake 2/pipe1_3.vtf,43928,27155
+materials/quake 2/pipe1_4.vmt,84,91
+materials/quake 2/pipe1_4.vtf,43928,28631
+materials/quake 2/pipe1_5.vmt,84,91
+materials/quake 2/pipe1_5.vtf,43928,29404
+materials/quake 2/plate1_2.vmt,85,92
+materials/quake 2/plate1_2.vtf,43928,17907
+materials/quake 2/plate1_3.vmt,85,92
+materials/quake 2/plate1_3.vtf,43928,22518
+materials/quake 2/plate1_5.vmt,85,92
+materials/quake 2/plate1_5.vtf,43928,18191
+materials/quake 2/plate5_2.vmt,85,92
+materials/quake 2/plate5_2.vtf,43928,25463
+materials/quake 2/pow2_1 (2).vmt,87,94
+materials/quake 2/pow2_1 (2).vtf,175000,29188
+materials/quake 2/pow2_2 (2).vmt,87,94
+materials/quake 2/pow2_2 (2).vtf,175000,33489
+materials/quake 2/pow2_2.vmt,83,90
+materials/quake 2/pow2_2.vtf,175000,33489
+materials/quake 2/pow4_2 (2).vmt,87,94
+materials/quake 2/pow4_2 (2).vtf,175000,59244
+materials/quake 2/powr21_1.vmt,85,92
+materials/quake 2/powr21_1.vtf,175000,113492
+materials/quake 2/powr21_2.vmt,85,92
+materials/quake 2/powr21_2.vtf,175000,109447
+materials/quake 2/prwlt1_4.vmt,85,92
+materials/quake 2/prwlt1_4.vtf,87560,54651
+materials/quake 2/pthnm3_3.vmt,85,92
+materials/quake 2/pthnm3_3.vtf,43928,27770
+materials/quake 2/pwr_dr1.vmt,84,91
+materials/quake 2/pwr_dr1.vtf,175000,113249
+materials/quake 2/pwr_dr2.vmt,84,91
+materials/quake 2/pwr_dr2.vtf,175000,116620
+materials/quake 2/p_lit_02.vmt,85,92
+materials/quake 2/p_lit_02.vtf,2968,2597
+materials/quake 2/p_tub1_1.vmt,85,92
+materials/quake 2/p_tub1_1.vtf,87560,54732
+materials/quake 2/p_tub2_3.vmt,85,92
+materials/quake 2/p_tub2_3.vtf,87560,41303
+materials/quake 2/red1_1.vmt,83,90
+materials/quake 2/red1_1.vtf,43928,27289
+materials/quake 2/red1_2.vmt,83,90
+materials/quake 2/red1_2.vtf,43928,25841
+materials/quake 2/red1_3.vmt,83,90
+materials/quake 2/red1_3.vtf,175000,103126
+materials/quake 2/reflt1_10.vmt,86,93
+materials/quake 2/reflt1_10.vtf,2968,2558
+materials/quake 2/reflt3_1.vmt,85,92
+materials/quake 2/reflt3_1.vtf,43848,27710
+materials/quake 2/rmetal4_2.vmt,86,92
+materials/quake 2/rmetal4_2.vtf,87560,53737
+materials/quake 2/rmetal5_1.vmt,86,92
+materials/quake 2/rmetal5_1.vtf,175000,110786
+materials/quake 2/rmetal6_1.vmt,86,92
+materials/quake 2/rmetal6_1.vtf,87560,45743
+materials/quake 2/rmtl36_4.vmt,85,92
+materials/quake 2/rmtl36_4.vtf,87560,45487
+materials/quake 2/rocks19_1.vmt,86,93
+materials/quake 2/rocks19_1.vtf,349704,203289
+materials/quake 2/rocks24_2.vmt,86,93
+materials/quake 2/rocks24_2.vtf,175000,113871
+materials/quake 2/slots1_1.vmt,85,92
+materials/quake 2/slots1_1.vtf,43928,21521
+materials/quake 2/slots1_2.vmt,85,92
+materials/quake 2/slots1_2.vtf,43928,22239
+materials/quake 2/slots1_4.vmt,85,92
+materials/quake 2/slots1_4.vtf,43928,18124
+materials/quake 2/slots1_5.vmt,85,92
+materials/quake 2/slots1_5.vtf,43928,19216
+materials/quake 2/slots1_6.vmt,85,92
+materials/quake 2/slots1_6.vtf,43928,19771
+materials/quake 2/stairs1_1.vmt,86,92
+materials/quake 2/stairs1_1.vtf,43928,22810
+materials/quake 2/stairs1_2.vmt,86,92
+materials/quake 2/stairs1_2.vtf,43928,22810
+materials/quake 2/stairs1_3.vmt,84,91
+materials/quake 2/stairs1_3.vtf,43928,23942
+materials/quake 2/stflr1_4.vmt,85,92
+materials/quake 2/stflr1_4.vtf,43928,22140
+materials/quake 2/stflr1_5.vmt,85,92
+materials/quake 2/stflr1_5.vtf,11080,6208
+materials/quake 2/support1_6.vmt,87,94
+materials/quake 2/support1_6.vtf,22024,13674
+materials/quake 2/support1_7.vmt,87,94
+materials/quake 2/support1_7.vtf,22024,12924
+materials/quake 2/tcmet5_4.vmt,85,92
+materials/quake 2/tcmet5_4.vtf,87560,42940
+materials/quake 2/thinm1_1.vmt,85,92
+materials/quake 2/thinm1_1.vtf,87560,57984
+materials/quake 2/thinm1_3.vmt,85,92
+materials/quake 2/thinm1_3.vtf,87560,51959
+materials/quake 2/thinm2_3.vmt,85,92
+materials/quake 2/thinm2_3.vtf,87560,54142
+materials/quake 2/train1_3.vmt,85,92
+materials/quake 2/train1_3.vtf,43928,27408
+materials/quake 2/train1_5.vmt,85,92
+materials/quake 2/train1_5.vtf,11080,7674
+materials/quake 2/train1_7.vmt,85,92
+materials/quake 2/train1_7.vtf,43928,26751
+materials/quake 2/tram01_2.vmt,85,92
+materials/quake 2/tram01_2.vtf,175000,52043
+materials/quake 2/tram02_2.vmt,85,92
+materials/quake 2/tram02_2.vtf,43928,19447
+materials/quake 2/troof1_6.vmt,85,92
+materials/quake 2/troof1_6.vtf,43928,26276
+materials/quake 2/troof4_2.vmt,85,92
+materials/quake 2/troof4_2.vtf,43928,28305
+materials/quake 2/troof4_4.vmt,85,92
+materials/quake 2/troof4_4.vtf,43928,24158
+materials/quake 2/tunl2_3.vmt,84,91
+materials/quake 2/tunl2_3.vtf,43928,30044
+materials/quake 2/walbase02 (2).vmt,90,95
+materials/quake 2/walbase02 (2).vtf,43928,29082
+materials/quake 2/walbase05 (2).vmt,90,95
+materials/quake 2/walbase05 (2).vtf,43928,28281
+materials/quake 2/walbase05.vmt,86,91
+materials/quake 2/walbase05.vtf,43928,28281
+materials/quake 2/walbase06.vmt,86,91
+materials/quake 2/walbase06.vtf,87560,54613
+materials/quake 2/walbase07.vmt,86,91
+materials/quake 2/walbase07.vtf,43928,34411
+materials/quake 2/walbase09.vmt,86,91
+materials/quake 2/walbase09.vtf,43928,33550
+materials/quake 2/walbase10 (2).vmt,90,95
+materials/quake 2/walbase10 (2).vtf,43928,31432
+materials/quake 2/walbase12 (2).vmt,90,95
+materials/quake 2/walbase12 (2).vtf,43928,29388
+materials/quake 2/walbase12.vmt,86,91
+materials/quake 2/walbase12.vtf,43928,29388
+materials/quake 2/walbase15 (2).vmt,90,95
+materials/quake 2/walbase15 (2).vtf,43928,28004
+materials/quake 2/walbase16.vmt,86,91
+materials/quake 2/walbase16.vtf,43928,26971
+materials/quake 2/wall1_2.vmt,84,91
+materials/quake 2/wall1_2.vtf,349704,153883
+materials/quake 2/watrt1_1.vmt,85,91
+materials/quake 2/watrt1_1.vtf,175000,93613
+materials/quake 2/watrt1_2.vmt,85,91
+materials/quake 2/watrt1_2.vtf,175000,94071
+materials/quake 2/watrt2_1.vmt,85,91
+materials/quake 2/watrt2_1.vtf,175000,94774
+materials/quake 2/watrt2_2.vmt,85,91
+materials/quake 2/watrt2_2.vtf,22024,13381
+materials/quake 2/watrt3_2.vmt,85,91
+materials/quake 2/watrt3_2.vtf,175000,102502
+materials/quake 2/wbasic1_1.vmt,86,93
+materials/quake 2/wbasic1_1.vtf,43928,25361
+materials/quake 2/wbox3_1.vmt,84,91
+materials/quake 2/wbox3_1.vtf,43928,30303
+materials/quake 2/wbox3_2.vmt,84,91
+materials/quake 2/wbox3_2.vtf,43928,32296
+materials/quake 2/wbox3_4.vmt,84,91
+materials/quake 2/wbox3_4.vtf,43928,28499
+materials/quake 2/wbox3_5.vmt,84,91
+materials/quake 2/wbox3_5.vtf,43928,31159
+materials/quake 2/wgrate1_1.vmt,86,92
+materials/quake 2/wgrate1_1.vtf,43928,22723
+materials/quake 2/wgrate1_2.vmt,86,92
+materials/quake 2/wgrate1_2.vtf,43928,22780
+materials/quake 2/wgrate1_3.vmt,86,92
+materials/quake 2/wgrate1_3.vtf,43928,21759
+materials/quake 2/wgrate1_4.vmt,86,92
+materials/quake 2/wgrate1_4.vtf,43928,19715
+materials/quake 2/wmetl6_1.vmt,85,92
+materials/quake 2/wmetl6_1.vtf,43928,28145
+materials/quake 2/wmtal3_3.vmt,85,92
+materials/quake 2/wmtal3_3.vtf,87560,40130
+materials/quake 2/wmtal3_5.vmt,85,92
+materials/quake 2/wmtal3_5.vtf,11160,6774
+materials/quake 2/wslt1_1.vmt,84,91
+materials/quake 2/wslt1_1.vtf,175000,78154
+materials/quake 2/wslt1_4.vmt,84,91
+materials/quake 2/wslt1_4.vtf,43928,22382
+materials/quake 2/wslt1_6.vmt,84,91
+materials/quake 2/wslt1_6.vtf,11080,7050
+materials/quake 2/wstfl2_5.vmt,85,92
+materials/quake 2/wstfl2_5.vtf,43928,30036
+materials/quake 2/wstfl2_6.vmt,85,92
+materials/quake 2/wstfl2_6.vtf,43928,23753
+materials/quake 2/wstlt1_1.vmt,85,92
+materials/quake 2/wstlt1_1.vtf,22024,12899
+materials/quake 2/wswall1_1.vmt,86,92
+materials/quake 2/wswall1_1.vtf,349704,108354
+materials/quake 2/wswall1_2.vmt,86,92
+materials/quake 2/wswall1_2.vtf,349704,116169
+materials/quake 2/wtroof1_5.vmt,86,93
+materials/quake 2/wtroof1_5.vtf,43928,26841
+materials/quake 2/wtroof4_2.vmt,86,93
+materials/quake 2/wtroof4_2.vtf,43928,23540
+materials/quake 2/wtroof4_3.vmt,86,93
+materials/quake 2/wtroof4_3.vtf,43928,24922
+materials/quake 2/wtroof4_5.vmt,86,93
+materials/quake 2/wtroof4_5.vtf,43928,24373
+materials/tools/climb.vmt,170,131
+materials/tools/climb.vtf,11168,2898
+materials/tools/climb_alpha.vmt,811,399
+materials/tools/climb_alpha.vtf,22104,4428
+materials/tools/climb_versus.vmt,776,382
+materials/unreal/baseaa_bs_0.vmt,66,77
+materials/unreal/baseaa_bs_0.vtf,175000,107506
+materials/unreal/basebase3_0.vmt,93,95
+materials/unreal/basebase3_0.vtf,175000,118209
+materials/unreal/basedanger_0.vmt,94,98
+materials/unreal/basedanger_0.vtf,175000,117589
+materials/unreal/basewall0_0.vmt,66,77
+materials/unreal/basewall0_0.vtf,11160,7720
+materials/unreal/ceilingaceilin1_0.vmt,72,80
+materials/unreal/ceilingaceilin1_0.vtf,11160,8962
+materials/unreal/ceilingceiling3_0.vmt,72,77
+materials/unreal/ceilingceiling3_0.vtf,11160,9071
+materials/unreal/decoawallwkc_0.vmt,96,100
+materials/unreal/decoawallwkc_0.vtf,175000,124034
+materials/unreal/decoaz-1a_0.vmt,93,98
+materials/unreal/decoaz-1a_0.vtf,175000,117491
+materials/unreal/decoaz-2_0.vmt,92,96
+materials/unreal/decoaz-2_0.vtf,175000,131801
+materials/unreal/decoaz-3a_0.vmt,66,78
+materials/unreal/decoaz-3a_0.vtf,175000,126083
+materials/unreal/decoaz-3b_0.vmt,66,77
+materials/unreal/decoaz-3b_0.vtf,175000,130227
+materials/unreal/decoaz-3_0.vmt,65,76
+materials/unreal/decoaz-3_0.vtf,175000,122430
+materials/unreal/decoa_stt_0.vmt,93,96
+materials/unreal/decoa_stt_0.vtf,175000,117846
+materials/unreal/decocasbld02_0.vmt,96,101
+materials/unreal/decocasbld02_0.vtf,175000,119751
+materials/unreal/decocasbld03_0.vmt,96,101
+materials/unreal/decocasbld03_0.vtf,175000,119724
+materials/unreal/decocasbld05_0.vmt,96,101
+materials/unreal/decocasbld05_0.vtf,175000,119793
+materials/unreal/decodra2_0.vmt,65,76
+materials/unreal/decodra2_0.vtf,43928,35800
+materials/unreal/decoext_1b_0.vmt,94,99
+materials/unreal/decoext_1b_0.vtf,175000,111306
+materials/unreal/decohyro4_0.vmt,66,77
+materials/unreal/decohyro4_0.vtf,43928,31052
+materials/unreal/decohyro5_0.vmt,66,77
+materials/unreal/decohyro5_0.vtf,43928,31059
+materials/unreal/decohyro6_0.vmt,66,77
+materials/unreal/decohyro6_0.vtf,43928,32414
+materials/unreal/decohyro7_0.vmt,66,77
+materials/unreal/decohyro7_0.vtf,43928,32836
+materials/unreal/decohyro8_0.vmt,66,77
+materials/unreal/decohyro8_0.vtf,43928,31206
+materials/unreal/decoskantis_0.vmt,95,98
+materials/unreal/decoskantis_0.vtf,175000,131346
+materials/unreal/decotop-carv2b_0.vmt,71,82
+materials/unreal/decotop-carv2b_0.vtf,87560,50845
+materials/unreal/decotstn1b_0.vmt,67,78
+materials/unreal/decotstn1b_0.vtf,11160,8130
+materials/unreal/decotstn1c_0.vmt,67,78
+materials/unreal/decotstn1c_0.vtf,11160,8210
+materials/unreal/decowal-tg_0.vmt,67,79
+materials/unreal/decowal-tg_0.vtf,43928,30672
+materials/unreal/decowal-t_0.vmt,66,78
+materials/unreal/decowal-t_0.vtf,43928,30819
+materials/unreal/decowallmrl_0.vmt,68,79
+materials/unreal/decowallmrl_0.vtf,22024,17002
+materials/unreal/doordth_dr_0.vmt,67,78
+materials/unreal/doordth_dr_0.vtf,43928,34788
+materials/unreal/flooraz-floor_0.vmt,70,79
+materials/unreal/flooraz-floor_0.vtf,43928,34119
+materials/unreal/floordmflor1a_0.vmt,97,98
+materials/unreal/floordmflor1a_0.vtf,175000,110009
+materials/unreal/floordpanel4_0.vmt,96,99
+materials/unreal/floordpanel4_0.vtf,175000,113443
+materials/unreal/floorfloor1_0.vmt,95,99
+materials/unreal/floorfloor1_0.vtf,175000,113391
+materials/unreal/floorfloor2b2_0.vmt,70,78
+materials/unreal/floorfloor2b2_0.vtf,11160,8509
+materials/unreal/floorfloor2j2_0.vmt,70,82
+materials/unreal/floorfloor2j2_0.vtf,11160,8735
+materials/unreal/floorfloor2_0.vmt,95,99
+materials/unreal/floorfloor2_0.vtf,175000,120326
+materials/unreal/floorflorrok1_0.vmt,97,101
+materials/unreal/floorflorrok1_0.vtf,175000,115621
+materials/unreal/floorn-floor5_0.vmt,97,98
+materials/unreal/floorn-floor5_0.vtf,175000,110068
+materials/unreal/floorn-floor6_0.vmt,97,98
+materials/unreal/floorn-floor6_0.vtf,175000,112615
+materials/unreal/floornblock2z_0.vmt,70,81
+materials/unreal/floornblock2z_0.vtf,5640,4311
+materials/unreal/floorscarpet2_0.vmt,70,81
+materials/unreal/floorscarpet2_0.vtf,43928,28232
+materials/unreal/floorsfloorb2_0.vmt,70,78
+materials/unreal/floorsfloorb2_0.vtf,11160,7951
+materials/unreal/floorsfloorb3_0.vmt,70,78
+materials/unreal/floorsfloorb3_0.vtf,11160,7910
+materials/unreal/floorsfloorb_0.vmt,69,77
+materials/unreal/floorsfloorb_0.vtf,11160,8011
+materials/unreal/floorsteps_0.vmt,67,78
+materials/unreal/floorsteps_0.vtf,22024,15671
+materials/unreal/groundbasicw5_0.vmt,97,101
+materials/unreal/groundbasicw5_0.vtf,175000,105613
+materials/unreal/grounddirt1_0.vmt,95,98
+materials/unreal/grounddirt1_0.vtf,175000,118343
+materials/unreal/panelhiwall2a_0.vmt,70,82
+materials/unreal/panelhiwall2a_0.vtf,22024,16789
+materials/unreal/panelhiwall2c_0.vmt,70,82
+materials/unreal/panelhiwall2c_0.vtf,22024,16539
+materials/unreal/panelhiwall2d_0.vmt,70,82
+materials/unreal/panelhiwall2d_0.vtf,22024,16628
+materials/unreal/paneltext2_0.vmt,67,77
+materials/unreal/paneltext2_0.vtf,2888,2291
+materials/unreal/pillarcolumn3_0.vmt,70,82
+materials/unreal/pillarcolumn3_0.vtf,11080,8936
+materials/unreal/pillarvertdeco_0.vmt,71,81
+materials/unreal/pillarvertdeco_0.vtf,5640,4537
+materials/unreal/pillarwalldrip_0.vmt,71,82
+materials/unreal/pillarwalldrip_0.vtf,11080,9515
+materials/unreal/rockrockwal5_0.vmt,96,98
+materials/unreal/rockrockwal5_0.vtf,175000,121071
+materials/unreal/rockwrcka1a3_0.vmt,93,98
+materials/unreal/rockwrcka1a3_0.vtf,175000,114792
+materials/unreal/rockwrcka3_0.vmt,94,99
+materials/unreal/rockwrcka3_0.vtf,175000,117564
+materials/unreal/rockwrckxa3_0.vmt,95,100
+materials/unreal/rockwrckxa3_0.vtf,175000,116965
+materials/unreal/trimdwall51_0.vmt,68,80
+materials/unreal/trimdwall51_0.vtf,11160,7628
+materials/unreal/trimgougede2_0.vmt,69,81
+materials/unreal/trimgougede2_0.vtf,11160,2734
+materials/unreal/trimgougede_0.vmt,68,80
+materials/unreal/trimgougede_0.vtf,5640,4394
+materials/unreal/trimtilemos3_0.vmt,69,80
+materials/unreal/trimtilemos3_0.vtf,11160,9353
+materials/unreal/trimtilesa_0.vmt,67,78
+materials/unreal/trimtilesa_0.vtf,11160,9207
+materials/unreal/wallbasic2-v2_0.vmt,70,81
+materials/unreal/wallbasic2-v2_0.vtf,175000,118346
+materials/unreal/wallbasic2-v3_0.vmt,70,81
+materials/unreal/wallbasic2-v3_0.vtf,175000,124608
+materials/unreal/wallbasic2-v4_0.vmt,70,81
+materials/unreal/wallbasic2-v4_0.vtf,175000,113671
+materials/unreal/wallbasicrok2_0.vmt,70,80
+materials/unreal/wallbasicrok2_0.vtf,11160,8954
+materials/unreal/wallbrixf_0.vmt,66,78
+materials/unreal/wallbrixf_0.vtf,11160,8512
+materials/unreal/wallbrixg2_0.vmt,67,79
+materials/unreal/wallbrixg2_0.vtf,11160,8171
+materials/unreal/wallbrixg3a_0.vmt,68,80
+materials/unreal/wallbrixg3a_0.vtf,11160,9707
+materials/unreal/wallbrixg4_0.vmt,67,79
+materials/unreal/wallbrixg4_0.vtf,11160,8934
+materials/unreal/wallbrixg_0.vmt,66,78
+materials/unreal/wallbrixg_0.vtf,11160,8092
+materials/unreal/wallbrixk3g_0.vmt,95,100
+materials/unreal/wallbrixk3g_0.vtf,175000,107668
+materials/unreal/wallbrixk3_0.vmt,94,99
+materials/unreal/wallbrixk3_0.vtf,175000,113303
+materials/unreal/wallbrixn1_0.vmt,67,79
+materials/unreal/wallbrixn1_0.vtf,11160,8221
+materials/unreal/wallbrixn2_0.vmt,67,79
+materials/unreal/wallbrixn2_0.vtf,11160,8049
+materials/unreal/wallbrixn3_0.vmt,67,79
+materials/unreal/wallbrixn3_0.vtf,11160,7898
+materials/unreal/wallbrkwall1_0.vmt,96,99
+materials/unreal/wallbrkwall1_0.vtf,175000,113676
+materials/unreal/wallbrkwall3_0.vmt,69,79
+materials/unreal/wallbrkwall3_0.vtf,11160,9362
+materials/unreal/wallcobble_0.vmt,67,79
+materials/unreal/wallcobble_0.vtf,11160,7815
+materials/unreal/walle_wl_0.vmt,92,97
+materials/unreal/walle_wl_0.vtf,175000,126206
+materials/unreal/wallgatewal1_0.vmt,96,99
+materials/unreal/wallgatewal1_0.vtf,175000,107224
+materials/unreal/wallgouged-v_0.vmt,69,79
+materials/unreal/wallgouged-v_0.vtf,43928,29920
+materials/unreal/wallgougedk2_0.vmt,69,81
+materials/unreal/wallgougedk2_0.vtf,11160,8322
+materials/unreal/wallhiwall1_0.vmt,68,78
+materials/unreal/wallhiwall1_0.vtf,22024,16220
+materials/unreal/wallpinkhigh_0.vmt,96,100
+materials/unreal/wallpinkhigh_0.vtf,175000,88680
+materials/unreal/wallpinkwal3_0.vmt,96,100
+materials/unreal/wallpinkwal3_0.vtf,175000,116176
+materials/unreal/wallsdwall2_0.vmt,68,78
+materials/unreal/wallsdwall2_0.vtf,11160,9101
+materials/unreal/wallshiwal2b_0.vmt,96,99
+materials/unreal/wallshiwal2b_0.vtf,175000,75738
+materials/unreal/walltrans1a_0.vmt,68,79
+materials/unreal/walltrans1a_0.vtf,11160,9072
+materials/unreal/wallwalla1_0.vmt,94,99
+materials/unreal/wallwalla1_0.vtf,175000,118964
+materials/unreal/wallwalla2_0.vmt,67,78
+materials/unreal/wallwalla2_0.vtf,11160,8884
+materials/unreal/wallwalla7_0.vmt,67,78
+materials/unreal/wallwalla7_0.vtf,11160,8387
+materials/unreal/wallwgmb_0.vmt,92,96
+materials/unreal/wallwgmb_0.vtf,175000,113277
+materials/unreal/wallwgmcs_0.vmt,66,77
+materials/unreal/wallwgmcs_0.vtf,43928,31235
+models/fibbs/torch/lods/torchwithmount.dx80.vtx,21369,4069
+models/fibbs/torch/lods/torchwithmount.dx90.vtx,21369,4068
+models/fibbs/torch/lods/torchwithmount.mdl,1948,496
+models/fibbs/torch/lods/torchwithmount.phy,8911,4636
+models/fibbs/torch/lods/torchwithmount.sw.vtx,21369,3893
+models/fibbs/torch/lods/torchwithmount.vvd,48288,14968
+models/props/de_aztec/aztec_block.dx80.vtx,5895,1499
+models/props/de_aztec/aztec_block.dx90.vtx,5895,1499
+models/props/de_aztec/aztec_block.mdl,1760,439
+models/props/de_aztec/aztec_block.phy,3661,1786
+models/props/de_aztec/aztec_block.sw.vtx,5895,1472
+models/props/de_aztec/aztec_block.vvd,21440,10532
+models/props/de_aztec/aztec_block_wrapped_02.dx80.vtx,9555,2141
+models/props/de_aztec/aztec_block_wrapped_02.dx90.vtx,9555,2141
+models/props/de_aztec/aztec_block_wrapped_02.mdl,1772,449
+models/props/de_aztec/aztec_block_wrapped_02.phy,3672,1796
+models/props/de_aztec/aztec_block_wrapped_02.sw.vtx,9555,2111
+models/props/de_aztec/aztec_block_wrapped_02.vvd,38592,14181
+models/props/de_aztec/statue01.dx80.vtx,33117,5501
+models/props/de_aztec/statue01.dx90.vtx,33117,5490
+models/props/de_aztec/statue01.mdl,1760,446
+models/props/de_aztec/statue01.phy,697,428
+models/props/de_aztec/statue01.sw.vtx,33117,5495
+models/props/de_aztec/statue01.vvd,173248,39603
+models/props/de_aztec/statue01_2.dx80.vtx,33117,5269
+models/props/de_aztec/statue01_2.dx90.vtx,33117,5269
+models/props/de_aztec/statue01_2.mdl,1764,443
+models/props/de_aztec/statue01_2.phy,698,423
+models/props/de_aztec/statue01_2.sw.vtx,33117,5193
+models/props/de_aztec/statue01_2.vvd,173248,40274
+models/props/de_aztec/statue02.dx80.vtx,16221,3175
+models/props/de_aztec/statue02.dx90.vtx,16221,3233
+models/props/de_aztec/statue02.mdl,1752,449
+models/props/de_aztec/statue02.phy,6706,3559
+models/props/de_aztec/statue02.sw.vtx,16221,3163
+models/props/de_aztec/statue02.vvd,73536,24496
+models/props/de_aztec/statue02_15.dx80.vtx,16221,3145
+models/props/de_aztec/statue02_15.dx90.vtx,16221,3174
+models/props/de_aztec/statue02_15.mdl,1756,451
+models/props/de_aztec/statue02_15.phy,6707,3563
+models/props/de_aztec/statue02_15.sw.vtx,16221,3095
+models/props/de_aztec/statue02_15.vvd,73536,24754
+models/props/de_dust/du_crate_128x128_stone.dx80.vtx,429,149
+models/props/de_dust/du_crate_128x128_stone.dx90.vtx,429,149
+models/props/de_dust/du_crate_128x128_stone.mdl,1848,426
+models/props/de_dust/du_crate_128x128_stone.phy,723,432
+models/props/de_dust/du_crate_128x128_stone.sw.vtx,429,148
+models/props/de_dust/du_crate_128x128_stone.vvd,1600,268
+models/props/de_dust/du_crate_64x64_stone.dx80.vtx,429,149
+models/props/de_dust/du_crate_64x64_stone.dx90.vtx,429,149
+models/props/de_dust/du_crate_64x64_stone.mdl,1848,424
+models/props/de_dust/du_crate_64x64_stone.phy,722,433
+models/props/de_dust/du_crate_64x64_stone.sw.vtx,429,148
+models/props/de_dust/du_crate_64x64_stone.vvd,1600,269
+models/props/de_dust/du_crate_96x96_stone.dx80.vtx,429,149
+models/props/de_dust/du_crate_96x96_stone.dx90.vtx,429,149
+models/props/de_dust/du_crate_96x96_stone.mdl,1848,429
+models/props/de_dust/du_crate_96x96_stone.phy,722,428
+models/props/de_dust/du_crate_96x96_stone.sw.vtx,429,149
+models/props/de_dust/du_crate_96x96_stone.vvd,1600,285
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01.dx80.vtx,167067,31366
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01.dx90.vtx,167067,31491
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01.mdl,2176,568
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01.phy,18681,9363
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01.sw.vtx,167067,31000
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01.vvd,648320,208096
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01_panels.dx80.vtx,12132,2803
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01_panels.dx90.vtx,12132,2803
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01_panels.mdl,2240,573
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01_panels.phy,2453,1594
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01_panels.sw.vtx,12132,2757
+models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_scaffold_corner_01_panels.vvd,44992,14030
+models/props_equipment/metalladder002.dx80.vtx,5211,1034
+models/props_equipment/metalladder002.dx90.vtx,5211,1017
+models/props_equipment/metalladder002.mdl,1768,438
+models/props_equipment/metalladder002.phy,1563,947
+models/props_equipment/metalladder002.sw.vtx,5211,1004
+models/props_equipment/metalladder002.vvd,23232,5637
+sound/music/descent/music/prodeus_dark_matter.mp3,3302433,3289380
+sound/music/descent/music/quake_2_adrenaline_junkie.mp3,2748251,2720171
+sound/music/descent/music/quake_2_counter_attack.mp3,2468186,2449206
+sound/music/descent/music/quake_2_descent_into_cerberon.mp3,5817292,5732658
+sound/music/descent/music/quake_3_tribulation.mp3,4101179,4056574
+sound/music/descent/music/resident_evil_2_remake_last_judgment.mp3,3309467,3252048
+sound/music/descent/music/turok_ancient_city.mp3,3042071,3015915
+sound/music/descent/music/turok_jungle.mp3,2881992,2807544
+sound/music/descent/music/turok_ruins.mp3,3961902,3926151
+sound/music/descent/sounds/butn2.mp3,10075,8667
+sound/music/descent/sounds/dr1_end.mp3,17180,15579
+sound/music/descent/sounds/dr1_mid.mp3,23031,21125
+sound/music/descent/sounds/hoverengineend.mp3,92589,77366
+sound/music/descent/sounds/hoverenginemiddle.mp3,652077,627349
+sound/music/descent/sounds/hoverenginestart.mp3,68013,66531
+sound/music/descent/sounds/lift_end.mp3,54379,49006
+sound/music/descent/sounds/lift_start.mp3,82069,71445
+sound/music/descent/sounds/pt1_end.mp3,9971,8843
+sound/music/descent/sounds/pt1_start.mp3,12164,10761
+sound/music/descent/sounds/radio1.mp3,46019,39397
+sound/music/descent/sounds/radio2.mp3,65663,59721
+sound/music/descent/sounds/radio3.mp3,52288,47474
+sound/music/descent/sounds/radio4.mp3,63573,57098
+sound/music/descent/sounds/radio5.mp3,55632,49906
+sound/music/descent/sounds/radio6.mp3,57304,50260
+sound/music/descent/sounds/radio7.mp3,45183,38794
+sound/music/descent/sounds/radio8.mp3,54796,47889

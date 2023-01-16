@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/bhop_gonnatry/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_gonnatry/cubemapdefault.hdr.vtf,76528,76528
+materials/SIMPLE_COLORS_BLOCKS/04_DARK_GREY.vmt,81,81
+materials/simple_colors_blocks/04_dark_grey.vtf,8416,8416
+materials/ICECREAMLOCK/CYANGLASS.vmt,117,117
+materials/icecreamlock/cyanglass.vtf,2952,2952
+materials/SIMPLE_COLORS_BLOCKS/02_LIGHT_GREY.vmt,82,82
+materials/simple_colors_blocks/02_light_grey.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/07_CYAN.vmt,76,76
+materials/simple_colors_blocks/07_cyan.vtf,8416,8416
+sound/bhop_hvadfandensounds/gtavthemesong.wav,27565100,27565100
+sound/looping_radio_mix.wav,970348,970348
+scripts/soundscapes_bhop_gonnatry.txt,142,142

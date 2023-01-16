@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/aim_bomb_war/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/aim_bomb_war/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/aim_bomb_war/glass/glasswindow070c_0_0_0.vmt,127,127
+materials/maps/aim_bomb_war/de_nuke/nukwater_movingplane_dx70_depth_16256.vmt,123,123
+materials/maps/aim_bomb_war/cubemapdefault.vtf,28753,28753
+materials/maps/aim_bomb_war/c0_0_0.vtf,28753,28753
+materials/maps/aim_bomb_war/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_bomb_war/c0_0_0.hdr.vtf,76528,76528
+maps/aim_bomb_war.nav,55672,55672
+maps/soundcache/aim_bomb_war.cache,16,16
+maps/aim_bomb_war.txt,313,313

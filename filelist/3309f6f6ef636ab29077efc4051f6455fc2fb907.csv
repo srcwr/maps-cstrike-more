@@ -1,0 +1,91 @@
+filename,size,compressed
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor1_0_-512_128.vmt,148,148
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_0_-512_128.vmt,148,148
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor1_224_-530_288.vmt,150,150
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor1_-205_-556_288.vmt,151,151
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor1_386_614_192.vmt,149,149
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_-416_-58_160.vmt,150,150
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_-396_-1069_160.vmt,152,152
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor1_-396_-1069_160.vmt,152,152
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor1_398_208_160.vmt,149,149
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_-205_-556_288.vmt,148,148
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_0_-512_128.vmt,145,145
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_-205_-556_288.vmt,151,151
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_224_-530_288.vmt,147,147
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_224_-530_288.vmt,150,150
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_386_614_192.vmt,149,149
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_-396_-1069_160.vmt,149,149
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_487_-1063_160.vmt,148,148
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_-416_-58_160.vmt,147,147
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_398_208_160.vmt,146,146
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_487_-1063_160.vmt,151,151
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_398_208_160.vmt,149,149
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_386_614_192.vmt,146,146
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_318_-1649_192.vmt,148,148
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_318_-1649_192.vmt,151,151
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_-225_628_192.vmt,147,147
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_-225_628_192.vmt,150,150
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metal_p9_-281_-1640_192.vmt,149,149
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_metalfloor9_-281_-1640_192.vmt,152,152
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_-281_-1640_192.vmt,154,154
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_487_-1063_160.vmt,153,153
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_318_-1649_192.vmt,153,153
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_224_-530_288.vmt,152,152
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_-396_-1069_160.vmt,154,154
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_-416_-58_160.vmt,152,152
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_386_614_192.vmt,151,151
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_-225_628_192.vmt,152,152
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_-205_-556_288.vmt,153,153
+materials/maps/gg_space_bridge_v1/pack 2 remnont/remn_inner_window1_398_208_160.vmt,151,151
+materials/maps/gg_space_bridge_v1/cubemapdefault.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c0_-512_128.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c224_-530_288.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c-205_-556_288.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c386_614_192.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c-416_-58_160.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c-396_-1069_160.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c398_208_160.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c487_-1063_160.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c318_-1649_192.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c-225_628_192.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/c-281_-1640_192.vtf,4960,4960
+materials/maps/gg_space_bridge_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c0_-512_128.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c224_-530_288.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c-205_-556_288.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c386_614_192.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c-416_-58_160.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c-396_-1069_160.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c398_208_160.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c487_-1063_160.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c318_-1649_192.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c-225_628_192.hdr.vtf,76528,76528
+materials/maps/gg_space_bridge_v1/c-281_-1640_192.hdr.vtf,76528,76528
+materials/skybox/spacebk.vmt,82,82
+materials/skybox/spacebk.vtf,699272,699272
+materials/skybox/spacedn.vmt,82,82
+materials/skybox/spacedn.vtf,699272,699272
+materials/skybox/spaceft.vmt,82,82
+materials/skybox/spaceft.vtf,699272,699272
+materials/skybox/spacelf.vmt,82,82
+materials/skybox/spacelf.vtf,699272,699272
+materials/skybox/spacert.vmt,82,82
+materials/skybox/spacert.vtf,699272,699272
+materials/skybox/spaceup.vmt,82,82
+materials/skybox/spaceup.vtf,699272,699272
+materials/Pack 2 Remnont/remn_inner_window1.vmt,343,343
+materials/Pack 2 Remnont/remn_inner_window1.vtf,174944,174944
+materials/Pack 2 Remnont/remn_inner_window1_normal.vtf,174944,174944
+materials/Pack 2 Remnont/remn_metal_p9.vmt,314,314
+materials/Pack 2 Remnont/remn_metal_p9.vtf,87544,87544
+materials/Pack 2 Remnont/remn_metal_p9_normal.vtf,174944,174944
+materials/Pack 2 Remnont/remn_metalfloor1.vmt,320,320
+materials/Pack 2 Remnont/remn_metalfloor1.vtf,174984,174984
+materials/Pack 2 Remnont/remn_metalfloor1_normal.vtf,349760,349760
+materials/Pack 2 Remnont/remn_metalfloor9.vmt,320,320
+materials/Pack 2 Remnont/remn_metalfloor9.vtf,174984,174984
+materials/Pack 2 Remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/simple_colors_blocks/B14_red.vmt,76,76
+materials/simple_colors_blocks/B14_red.vtf,8416,8416
+materials/simple_colors_blocks/B6_blue.vmt,76,76
+materials/simple_colors_blocks/B6_blue.vtf,8416,8416

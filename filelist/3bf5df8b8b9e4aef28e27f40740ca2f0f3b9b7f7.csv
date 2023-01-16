@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/fy_indportals/metal/metalfloor001a_144_-677_456.vmt,134,134
+materials/maps/fy_indportals/environment maps/pipemetal004a_144_-677_456.vmt,144,144
+materials/maps/fy_indportals/glass/glasswindow070c_144_-677_456.vmt,135,135
+materials/maps/fy_indportals/cubemapdefault.vtf,9832,9832
+materials/maps/fy_indportals/c144_-677_456.vtf,9832,9832
+materials/maps/fy_indportals/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/fy_indportals/c144_-677_456.hdr.vtf,76528,76528
+materials/DMTEX/STUCCO.vmt,60,60
+materials/dmtex/stucco.vtf,87544,87544
+materials/DMTEX/METAL2.vmt,60,60
+materials/dmtex/metal2.vtf,87544,87544
+materials/DMTEX/BRICK9.vmt,60,60
+materials/dmtex/brick9.vtf,87544,87544
+materials/DMTEX/ZIMMER7.vmt,61,61
+materials/dmtex/zimmer7.vtf,87544,87544
+materials/DMTEX/BROWNHUG.vmt,62,62
+materials/dmtex/brownhug.vtf,87544,87544
+materials/DMTEX/GRAYBIG.vmt,61,61
+materials/dmtex/graybig.vtf,174984,174984
+materials/SMFM/HXPORTAL.vmt,228,228
+materials/DMTEX/TANROCK3.vmt,62,62
+materials/dmtex/tanrock3.vtf,87544,87544
+maps/soundcache/fy_indportals.cache,16,16
+maps/fy_indportals.txt,239,239
+materials/smfm/hxportal.vtf,49464,49464

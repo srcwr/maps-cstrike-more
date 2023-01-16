@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/gg_ley_line/cubemapdefault.vtf,9832,9832
+materials/maps/gg_ley_line/cubemapdefault.hdr.vtf,76528,76528
+materials/BEAUTIFUL_GLASS/BLUE.vmt,243,243
+materials/beautiful_glass/normal.vtf,349760,349760
+materials/beautiful_glass/blue.vtf,174984,174984
+materials/BEAUTIFUL_GLASS/GREEN.vmt,245,245
+materials/beautiful_glass/green.vtf,174984,174984
+materials/BEAUTIFUL_GLASS/CHECKER.vmt,249,249
+materials/beautiful_glass/checker.vtf,349760,349760
+materials/BEAUTIFUL_GLASS/YELLOW.vmt,247,247
+materials/beautiful_glass/yellow.vtf,174984,174984
+materials/BEAUTIFUL_GLASS/RED.vmt,241,241
+materials/beautiful_glass/red.vtf,174984,174984
+materials/BEAUTIFUL_GLASS/AQUA.vmt,243,243
+materials/beautiful_glass/aqua.vtf,349760,349760
+maps/soundcache/gg_ley_line.cache,16,16

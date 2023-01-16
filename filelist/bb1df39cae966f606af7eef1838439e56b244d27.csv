@@ -1,0 +1,45 @@
+filename,size,compressed
+materials/maps/zm_bio_nightfall_b2/concrete/concretewall001c_-1981_1792_-503.vmt,148,148
+materials/maps/zm_bio_nightfall_b2/concrete/concretewall001c_1069_-1545_-431.vmt,148,148
+materials/maps/zm_bio_nightfall_b2/tile/tilefloor009a_1943_-2239_-471.vmt,141,141
+materials/maps/zm_bio_nightfall_b2/wood/woodfloor006a_1209_-2324_-431.vmt,141,141
+materials/maps/zm_bio_nightfall_b2/dev/dev_water2_1069_-1545_-431.vmt,160,160
+materials/maps/zm_bio_nightfall_b2/dev/dev_water2_-722_1693_-502.vmt,159,159
+materials/maps/zm_bio_nightfall_b2/cs_havana/furniturewooddresser001b_1209_-2324_-431.vmt,157,157
+materials/maps/zm_bio_nightfall_b2/cs_havana/furniturewooddresser001b_-722_1693_-502.vmt,156,156
+materials/maps/zm_bio_nightfall_b2/cs_havana/furniturewooddresser001b_1750_-2414_-471.vmt,157,157
+materials/maps/zm_bio_nightfall_b2/tile/tileroof004a_1219_-1816_-431.vmt,140,140
+materials/maps/zm_bio_nightfall_b2/tile/tileroof004a_1943_-2239_-471.vmt,140,140
+materials/maps/zm_bio_nightfall_b2/tile/tileroof004a_1750_-2414_-471.vmt,140,140
+materials/maps/zm_bio_nightfall_b2/tile/tileroof004a_1209_-2324_-431.vmt,140,140
+materials/maps/zm_bio_nightfall_b2/metal/metalwall076a_-1981_1792_-503.vmt,142,142
+materials/maps/zm_bio_nightfall_b2/metal/metalwall076a_1069_-1545_-431.vmt,142,142
+materials/maps/zm_bio_nightfall_b2/metal/metalwall076a_-722_1693_-502.vmt,141,141
+materials/maps/zm_bio_nightfall_b2/glass/unbreakable_-722_1693_-502.vmt,139,139
+materials/maps/zm_bio_nightfall_b2/glass/unbreakable_1069_-1545_-431.vmt,140,140
+materials/maps/zm_bio_nightfall_b2/glass/unbreakable_1209_-2324_-431.vmt,140,140
+materials/maps/zm_bio_nightfall_b2/environment maps/pipemetal001a_-1981_1792_-503.vmt,153,153
+materials/maps/zm_bio_nightfall_b2/environment maps/pipemetal001a_1069_-1545_-431.vmt,153,153
+materials/maps/zm_bio_nightfall_b2/environment maps/pipemetal001a_1209_-2324_-431.vmt,153,153
+materials/maps/zm_bio_nightfall_b2/de_cbble/woodfloor01_1209_-2324_-431.vmt,143,143
+materials/maps/zm_bio_nightfall_b2/de_cbble/woodfloor01_1750_-2414_-471.vmt,143,143
+materials/maps/zm_bio_nightfall_b2/de_cbble/woodfloor01_1219_-1816_-431.vmt,143,143
+materials/maps/zm_bio_nightfall_b2/metal/citadel_tilefloor016a_-722_1693_-502.vmt,149,149
+materials/maps/zm_bio_nightfall_b2/metal/citadel_tilefloor016a_1209_-2324_-431.vmt,150,150
+materials/maps/zm_bio_nightfall_b2/metal/citadel_tilefloor016a_1219_-1816_-431.vmt,150,150
+materials/maps/zm_bio_nightfall_b2/metal/citadel_tilefloor016a_1750_-2414_-471.vmt,150,150
+materials/maps/zm_bio_nightfall_b2/metal/citadel_tilefloor016a_1069_-1545_-431.vmt,150,150
+materials/maps/zm_bio_nightfall_b2/metal/citadel_tilefloor016a_-1981_1792_-503.vmt,150,150
+materials/maps/zm_bio_nightfall_b2/glass/combineglass001a_-1981_1792_-503.vmt,145,145
+materials/maps/zm_bio_nightfall_b2/glass/combineglass001a_1069_-1545_-431.vmt,145,145
+materials/maps/zm_bio_nightfall_b2/glass/combineglass001a_1209_-2324_-431.vmt,145,145
+materials/maps/zm_bio_nightfall_b2/environment maps/pipemetal001a_-722_1693_-502.vmt,152,152
+materials/maps/zm_bio_nightfall_b2/maps/zm_bio_nightfall_b2/dev/dev_water2_-722_1693_-502_depth_249.vmt,142,142
+materials/maps/zm_bio_nightfall_b2/cubemapdefault.vtf,9824,9824
+materials/maps/zm_bio_nightfall_b2/c-1981_1792_-503.vtf,9824,9824
+materials/maps/zm_bio_nightfall_b2/c1069_-1545_-431.vtf,9824,9824
+materials/maps/zm_bio_nightfall_b2/c1943_-2239_-471.vtf,9824,9824
+materials/maps/zm_bio_nightfall_b2/c1209_-2324_-431.vtf,9824,9824
+materials/maps/zm_bio_nightfall_b2/c-722_1693_-502.vtf,9824,9824
+materials/maps/zm_bio_nightfall_b2/c1750_-2414_-471.vtf,9824,9824
+materials/maps/zm_bio_nightfall_b2/c1219_-1816_-431.vtf,9824,9824

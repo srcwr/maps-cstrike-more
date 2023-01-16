@@ -1,0 +1,164 @@
+filename,size,compressed
+materials/maps/aim_usp_b/tile/tilefloor021a_2811_171_-6019.vmt,130,130
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_3256_357_-6016.vmt,136,136
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_2811_171_-6019.vmt,136,136
+materials/maps/aim_usp_b/nature/water_canals03_1017_-538_72.vmt,154,154
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_1017_-538_72.vmt,134,134
+materials/maps/aim_usp_b/tile/tilefloor013a_4230_-886_-6020.vmt,131,131
+materials/maps/aim_usp_b/tile/tilefloor016a_4230_-886_-6020.vmt,131,131
+materials/maps/aim_usp_b/tile/tilefloor013a_3991_-878_-6019.vmt,131,131
+materials/maps/aim_usp_b/tile/tilefloor013a_3819_-875_-6019.vmt,131,131
+materials/maps/aim_usp_b/tile/tilefloor013a_1181_-1166_589.vmt,130,130
+materials/maps/aim_usp_b/tile/tilefloor016a_3991_-878_-6019.vmt,131,131
+materials/maps/aim_usp_b/de_piranesi/marblefloor03_3256_357_-6016.vmt,137,137
+materials/maps/aim_usp_b/tile/tilefloor016a_3819_-875_-6019.vmt,131,131
+materials/maps/aim_usp_b/de_piranesi/marblefloor06_1017_-538_72.vmt,135,135
+materials/maps/aim_usp_b/de_piranesi/marblefloor03_3819_-875_-6019.vmt,138,138
+materials/maps/aim_usp_b/de_piranesi/marblefloor04_3819_-875_-6019.vmt,138,138
+materials/maps/aim_usp_b/de_piranesi/marblefloor03_4230_-886_-6020.vmt,138,138
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_3819_-875_-6019.vmt,137,137
+materials/maps/aim_usp_b/de_piranesi/marblefloor03_3991_-878_-6019.vmt,138,138
+materials/maps/aim_usp_b/tile/tilefloor013a_3256_357_-6016.vmt,130,130
+materials/maps/aim_usp_b/tile/tilefloor016a_3256_357_-6016.vmt,130,130
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_1105_617_111.vmt,134,134
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_4230_-886_-6020.vmt,137,137
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_1462_248_580.vmt,134,134
+materials/maps/aim_usp_b/de_piranesi/marblefloor06_1105_617_111.vmt,135,135
+materials/maps/aim_usp_b/de_piranesi/marblefloor06_4230_-886_-6020.vmt,138,138
+materials/maps/aim_usp_b/de_piranesi/marblefloor04_4230_-886_-6020.vmt,138,138
+materials/maps/aim_usp_b/de_piranesi/marblefloor01_4230_-886_-6020.vmt,138,138
+materials/maps/aim_usp_b/de_piranesi/marblefloor01_3256_357_-6016.vmt,137,137
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_2802_600_-6019.vmt,136,136
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_1477_1063_581.vmt,135,135
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_972_62_77.vmt,131,131
+materials/maps/aim_usp_b/glass/glasswindowbreak070a_4230_-886_-6020.vmt,139,139
+materials/maps/aim_usp_b/glass/glasswindowbreak070a_3256_357_-6016.vmt,138,138
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_-8_267_76.vmt,131,131
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_112_-53_68.vmt,132,132
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_24_-177_78.vmt,132,132
+materials/maps/aim_usp_b/tile/tilefloor020a_cheap_-307_-100_87.vmt,134,134
+materials/maps/aim_usp_b/de_piranesi/marblefloor01_1462_248_580.vmt,135,135
+materials/maps/aim_usp_b/de_piranesi/marblefloor01_1105_617_111.vmt,135,135
+materials/maps/aim_usp_b/maps/aim_usp_b/nature/water_canals03_1017_-538_72_depth_22467.vmt,139,139
+materials/maps/aim_usp_b/cubemapdefault.vtf,9824,9824
+materials/maps/aim_usp_b/c2811_171_-6019.vtf,4952,4952
+materials/maps/aim_usp_b/c3256_357_-6016.vtf,4952,4952
+materials/maps/aim_usp_b/c1017_-538_72.vtf,4952,4952
+materials/maps/aim_usp_b/c4230_-886_-6020.vtf,4952,4952
+materials/maps/aim_usp_b/c3991_-878_-6019.vtf,4952,4952
+materials/maps/aim_usp_b/c3819_-875_-6019.vtf,4952,4952
+materials/maps/aim_usp_b/c1181_-1166_589.vtf,4952,4952
+materials/maps/aim_usp_b/c1105_617_111.vtf,4952,4952
+materials/maps/aim_usp_b/c1462_248_580.vtf,4952,4952
+materials/maps/aim_usp_b/c2802_600_-6019.vtf,4952,4952
+materials/maps/aim_usp_b/c1477_1063_581.vtf,4952,4952
+materials/maps/aim_usp_b/c972_62_77.vtf,4952,4952
+materials/maps/aim_usp_b/c-8_267_76.vtf,4952,4952
+materials/maps/aim_usp_b/c112_-53_68.vtf,4952,4952
+materials/maps/aim_usp_b/c24_-177_78.vtf,4952,4952
+materials/maps/aim_usp_b/c-307_-100_87.vtf,4952,4952
+materials/maps/aim_usp_b/c1464_-646_580.vtf,4952,4952
+materials/maps/aim_usp_b/c678_961_579.vtf,4952,4952
+materials/maps/aim_usp_b/c302_986_579.vtf,4952,4952
+materials/maps/aim_usp_b/c-194_935_577.vtf,4952,4952
+materials/maps/aim_usp_b/c-751_1178_595.vtf,4952,4952
+materials/maps/aim_usp_b/c-680_666_580.vtf,4952,4952
+materials/maps/aim_usp_b/c-651_126_580.vtf,4952,4952
+materials/maps/aim_usp_b/c-663_-613_580.vtf,4952,4952
+materials/maps/aim_usp_b/c-514_-1111_582.vtf,4952,4952
+materials/maps/aim_usp_b/c246_-1002_579.vtf,4952,4952
+materials/maps/aim_usp_b/c488_-1066_580.vtf,4952,4952
+materials/maps/aim_usp_b/c652_-596_70.vtf,4952,4952
+materials/maps/aim_usp_b/c681_-215_78.vtf,4952,4952
+materials/maps/aim_usp_b/c367_-144_70.vtf,4952,4952
+materials/maps/aim_usp_b/c616_443_91.vtf,4952,4952
+materials/maps/aim_usp_b/c447_362_71.vtf,4952,4952
+materials/maps/aim_usp_b/c233_507_78.vtf,4952,4952
+materials/maps/aim_usp_b/c-305_601_88.vtf,4952,4952
+materials/maps/aim_usp_b/c-209_-400_75.vtf,4952,4952
+materials/maps/aim_usp_b/c-216_-706_99.vtf,4952,4952
+materials/maps/aim_usp_b/c110_-535_62.vtf,4952,4952
+materials/maps/aim_usp_b/c451_-718_104.vtf,4952,4952
+materials/maps/aim_usp_b/c374_135_68.vtf,4952,4952
+materials/maps/aim_usp_b/c1462_248_580.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c1464_-646_580.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c1477_1063_581.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c678_961_579.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c302_986_579.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-194_935_577.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-751_1178_595.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-680_666_580.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-651_126_580.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-663_-613_580.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-514_-1111_582.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c246_-1002_579.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c1181_-1166_589.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c488_-1066_580.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c1017_-538_72.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c652_-596_70.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c681_-215_78.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c367_-144_70.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c24_-177_78.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c972_62_77.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c616_443_91.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c1105_617_111.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c447_362_71.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c233_507_78.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-305_601_88.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-8_267_76.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-307_-100_87.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-209_-400_75.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c-216_-706_99.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c110_-535_62.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c451_-718_104.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c374_135_68.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c112_-53_68.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c2811_171_-6019.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c2802_600_-6019.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c3256_357_-6016.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c3991_-878_-6019.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c4230_-886_-6020.hdr.vtf,76520,76520
+materials/maps/aim_usp_b/c3819_-875_-6019.hdr.vtf,76520,76520
+materials/manslayertextures/ms_rock.vmt,180,180
+materials/manslayertextures/ms_rock.vtf,174984,174984
+materials/manslayertextures/ms banners/aim_ak-colt.vmt,112,112
+materials/manslayertextures/ms banners/aim_ak-colt.vtf,174984,174984
+materials/manslayertextures/ms banners/aim_nightfall.vmt,114,114
+materials/manslayertextures/ms banners/aim_nightfall.vtf,174984,174984
+materials/manslayertextures/ms banners/aim_usp_ms.vmt,111,111
+materials/manslayertextures/ms banners/aim_usp_ms.vtf,174984,174984
+materials/manslayertextures/ms banners/dod_orange_corridor.vmt,120,120
+materials/manslayertextures/ms banners/dod_orange_corridor.vtf,174984,174984
+materials/manslayertextures/ms banners/drive_arena.vmt,112,112
+materials/manslayertextures/ms banners/drive_arena.vtf,174984,174984
+materials/manslayertextures/ms banners/fy_tis_the_season.vmt,118,118
+materials/manslayertextures/ms banners/fy_tis_the_season.vtf,174984,174984
+materials/manslayertextures/ms banners/gg_contained.vmt,113,113
+materials/manslayertextures/ms banners/gg_contained.vtf,174984,174984
+materials/manslayertextures/ms banners/gg_control.vmt,111,111
+materials/manslayertextures/ms banners/gg_control.vtf,174984,174984
+materials/manslayertextures/ms banners/gg_end.vmt,107,107
+materials/manslayertextures/ms banners/gg_end.vtf,174984,174984
+materials/manslayertextures/ms banners/manslayer_banner01.vmt,119,119
+materials/manslayertextures/ms banners/manslayer_banner01.vtf,699272,699272
+materials/manslayertextures/ms banners/scoutzknivez_ms.vmt,116,116
+materials/manslayertextures/ms banners/scoutzknivez_ms.vtf,174984,174984
+materials/manslayertextures/ms banners/scoutzknivez_sky_garden.vmt,124,124
+materials/manslayertextures/ms banners/scoutzknivez_sky_garden.vtf,174984,174984
+materials/manslayertextures/ms banners/surf_ak-colt.vmt,113,113
+materials/manslayertextures/ms banners/surf_ak-colt.vtf,174984,174984
+materials/skybox/mpa22bk.vmt,84,84
+materials/skybox/mpa22bk.vtf,699272,699272
+materials/skybox/mpa22dn.vmt,84,84
+materials/skybox/mpa22dn.vtf,699272,699272
+materials/skybox/mpa22ft.vmt,84,84
+materials/skybox/mpa22ft.vtf,699272,699272
+materials/skybox/mpa22lf.vmt,84,84
+materials/skybox/mpa22lf.vtf,699272,699272
+materials/skybox/mpa22rt.vmt,84,84
+materials/skybox/mpa22rt.vtf,699272,699272
+materials/skybox/mpa22up.vmt,84,84
+materials/skybox/mpa22up.vtf,699272,699272
+sound/manslayer/44-TempleOfTime.mp3,781270,781270
+maps/aim_usp_4th_fix.nav,151011,151011
+maps/aim_usp_4th_fix.txt,17,17

@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/ka_kingdom/stone/stonefloor003a_0_0_0.vmt,124,124
+materials/maps/ka_kingdom/perftest/water_pretty1_depth_8.vmt,108,108
+materials/maps/ka_kingdom/perftest/water_pretty1_depth_16.vmt,109,109
+materials/maps/ka_kingdom/cubemapdefault.vtf,4960,4960
+materials/maps/ka_kingdom/c0_0_0.vtf,4960,4960
+materials/maps/ka_kingdom/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ka_kingdom/c0_0_0.hdr.vtf,76528,76528
+materials/CONCRETE/CONCRETE_BTS_FLOOR001A.vmt,170,170
+materials/concrete/concrete_bts_floor001a.vtf,174968,174968
+maps/soundcache/ka_kingdom.cache,16,16

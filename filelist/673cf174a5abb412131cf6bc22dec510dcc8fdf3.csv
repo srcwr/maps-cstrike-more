@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/bhop_norma/ryan_dev/light_magenta3_0_0_0.vmt,127,127
+materials/maps/bhop_norma/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_norma/c0_0_0.vtf,9832,9832
+materials/maps/bhop_norma/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_norma/c0_0_0.hdr.vtf,76528,76528
+materials/ryan_dev/light_magenta3.vmt,97,97
+materials/ryan_dev/light_magenta3.vtf,11144,11144
+materials/ryan_dev/pastel_blue1.vmt,69,69
+materials/ryan_dev/pastel_blue1.vtf,11144,11144
+maps/bhop_norma.nav,205,205
+maps/bhop_norma_particles.txt,66,66
+particles/frostieparticles.pcf,5531,5531

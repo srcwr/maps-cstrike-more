@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/ba_prison-break/tile/tilefloor020a_1400_0_222.vmt,132,132
+materials/maps/ba_prison-break/tile/tilefloor021a_1400_0_222.vmt,132,132
+materials/maps/ba_prison-break/metal/citadel_tilewall005a_1400_0_222.vmt,140,140
+materials/maps/ba_prison-break/tile/tilefloor009b_1400_0_222.vmt,132,132
+materials/maps/ba_prison-break/metal/citadel_metalwall063a_cheap_1400_0_222.vmt,147,147
+materials/maps/ba_prison-break/metal/citadel_metalwall072b_1400_0_222.vmt,141,141
+materials/maps/ba_prison-break/glass/glasswindow070c_1400_0_222.vmt,135,135
+materials/maps/ba_prison-break/metal/citadel_metalwall078a_1400_0_222.vmt,141,141
+materials/maps/ba_prison-break/glass/glasswindow070a_1400_0_222.vmt,135,135
+materials/maps/ba_prison-break/metal/citadel_metalwall077a_1400_0_222.vmt,141,141
+materials/maps/ba_prison-break/nature/water_movingplane_1400_0_222.vmt,161,161
+materials/maps/ba_prison-break/maps/ba_prison-break/nature/water_movingplane_1400_0_222_depth_65.vmt,143,143
+materials/maps/ba_prison-break/cubemapdefault.vtf,9824,9824
+materials/maps/ba_prison-break/c1400_0_222.vtf,9824,9824
+materials/ma texture/aim_knoppers.vmt,115,115
+materials/ma texture/aim_knoppers.vtf,87544,87544

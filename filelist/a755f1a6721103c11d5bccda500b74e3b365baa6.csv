@@ -1,0 +1,495 @@
+filename,size,compressed
+materials/maps/mg_arcs_multigames_fix_final/glass/unbreakable_0_0_0.vmt,139,139
+materials/maps/mg_arcs_multigames_fix_final/cubemapdefault.vtf,38308,38308
+materials/maps/mg_arcs_multigames_fix_final/c0_0_0.vtf,38308,38308
+materials/maps/mg_arcs_multigames_fix_final/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_arcs_multigames_fix_final/c0_0_0.hdr.vtf,76528,76528
+materials/Arcy_Tiles/arcy_brownscale_a-07.vmt,79,79
+materials/Arcy_Tiles/arcy_brownscale_a-07.vtf,11144,11144
+materials/Arcy_Tiles/arcy_brownscale_a-09.vmt,79,79
+materials/Arcy_Tiles/arcy_brownscale_a-09.vtf,11144,11144
+materials/Arcy_Tiles/arcy_gcyan_a-05.vmt,74,74
+materials/Arcy_Tiles/arcy_gcyan_a-05.vtf,11144,11144
+materials/Arcy_Tiles/arcy_gcyan_d-01.vmt,74,74
+materials/Arcy_Tiles/arcy_gcyan_d-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_bmagenta_c-07.vmt,77,77
+materials/Arcy_Tiles/arcy_bmagenta_c-07.vtf,11144,11144
+materials/Arcy_Tiles/arcy_magenta_b-07.vmt,76,76
+materials/Arcy_Tiles/arcy_magenta_b-07.vtf,11144,11144
+materials/Arcy_Tiles/arcy_rmagenta_b-01.vmt,77,77
+materials/Arcy_Tiles/arcy_rmagenta_b-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_rmagenta_b-02.vmt,77,77
+materials/Arcy_Tiles/arcy_rmagenta_b-02.vtf,11144,11144
+materials/Arcy_Tiles/arcy_magenta_c-04.vmt,76,76
+materials/Arcy_Tiles/arcy_magenta_c-04.vtf,11144,11144
+materials/Arcy_Tiles/arcy_orange_a-02.vmt,75,75
+materials/Arcy_Tiles/arcy_orange_a-02.vtf,11144,11144
+materials/Arcy_Tiles/arcy_yellow_c-01.vmt,75,75
+materials/Arcy_Tiles/arcy_yellow_c-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_cblue_a-04.vmt,74,74
+materials/Arcy_Tiles/arcy_cblue_a-04.vtf,11144,11144
+materials/Arcy_Tiles/arcy_cblue_d-01.vmt,74,74
+materials/Arcy_Tiles/arcy_cblue_d-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_blue_a-05.vmt,73,73
+materials/Arcy_Tiles/arcy_blue_a-05.vtf,11144,11144
+materials/Arcy_Tiles/arcy_cblue_b-01.vmt,74,74
+materials/Arcy_Tiles/arcy_cblue_b-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_bmagenta_a-01.vmt,77,77
+materials/Arcy_Tiles/arcy_bmagenta_a-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_greyscale_b-01.vmt,78,78
+materials/Arcy_Tiles/arcy_greyscale_b-01.vtf,11144,11144
+materials/Arcy_Tiles_modded/arcy_greyscale_b-01_scroll.vmt,238,238
+materials/Arcy_Tiles_modded/arcy_greyscale_b-01_scroll.vtf,11144,11144
+materials/Arcy_Tiles/arcy_greyscale_24.vmt,76,76
+materials/Arcy_Tiles/arcy_greyscale_24.vtf,11144,11144
+materials/Arcy_Tiles/arcy_cyan_c-04.vmt,73,73
+materials/Arcy_Tiles/arcy_cyan_c-04.vtf,11144,11144
+materials/Arcy_Tiles/arcy_brownscale_a-04.vmt,79,79
+materials/Arcy_Tiles/arcy_brownscale_a-04.vtf,11144,11144
+materials/course map/black.vmt,64,64
+materials/course map/black.vtf,96,96
+materials/Arcy_Tiles/arcy_greyscale_21.vmt,76,76
+materials/Arcy_Tiles/arcy_greyscale_21.vtf,11144,11144
+materials/Arcy_Tiles/arcy_yellow_b-02.vmt,75,75
+materials/Arcy_Tiles/arcy_yellow_b-02.vtf,11144,11144
+materials/Arcy_Tiles/arcy_yellow_a-01.vmt,75,75
+materials/Arcy_Tiles/arcy_yellow_a-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_greyscale_18.vmt,76,76
+materials/Arcy_Tiles/arcy_greyscale_18.vtf,11144,11144
+materials/Arcy_Tiles/arcy_orange_c-01.vmt,75,75
+materials/Arcy_Tiles/arcy_orange_c-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_yellow_d-01.vmt,75,75
+materials/Arcy_Tiles/arcy_yellow_d-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_orange_d-03.vmt,75,75
+materials/Arcy_Tiles/arcy_orange_d-03.vtf,11144,11144
+materials/Arcy_Tiles/arcy_red_a-02.vmt,72,72
+materials/Arcy_Tiles/arcy_red_a-02.vtf,11144,11144
+materials/Arcy_Tiles/arcy_orange_a-04.vmt,75,75
+materials/Arcy_Tiles/arcy_orange_a-04.vtf,11144,11144
+materials/Arcy_Tiles_modded/arcy_orange_a-01_scroll.vmt,235,235
+materials/Arcy_Tiles_modded/arcy_orange_a-01_scroll.vtf,11144,11144
+materials/Arcy_Tiles/arcy_greyscale_03.vmt,76,76
+materials/Arcy_Tiles/arcy_greyscale_03.vtf,11144,11144
+materials/Arcy_Tiles/arcy_yellow_b-01.vmt,75,75
+materials/Arcy_Tiles/arcy_yellow_b-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_greyscale_23.vmt,76,76
+materials/Arcy_Tiles/arcy_greyscale_23.vtf,11144,11144
+materials/Arcy_Tiles/arcy_red_d-01.vmt,72,72
+materials/Arcy_Tiles/arcy_red_d-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_red_c-01.vmt,72,72
+materials/Arcy_Tiles/arcy_red_c-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_red_b-01.vmt,72,72
+materials/Arcy_Tiles/arcy_red_b-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_red_a-01.vmt,72,72
+materials/Arcy_Tiles/arcy_red_a-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_red_a-07.vmt,72,72
+materials/Arcy_Tiles/arcy_red_a-07.vtf,11144,11144
+materials/Arcy_Tiles/arcy_checked_blue.vmt,76,76
+materials/Arcy_Tiles/arcy_checked_blue.vtf,43912,43912
+materials/Arcy_Tiles/arcy_checked_red.vmt,75,75
+materials/Arcy_Tiles/arcy_checked_red.vtf,43912,43912
+materials/Arcy_Tiles/arcy_bmagenta_b-05.vmt,77,77
+materials/Arcy_Tiles/arcy_bmagenta_b-05.vtf,11144,11144
+materials/Arcy_Tiles/arcy_checked_gold.vmt,76,76
+materials/Arcy_Tiles/arcy_checked_gold.vtf,43912,43912
+materials/Arcy_Tiles/arcy_brownscale_a-05.vmt,79,79
+materials/Arcy_Tiles/arcy_brownscale_a-05.vtf,11144,11144
+materials/misc/128x128 buy screenie.vmt,73,73
+materials/misc/128x128 buy screenie.vtf,174984,174984
+materials/Arcy_Tiles/arcy_orange_b-02.vmt,75,75
+materials/Arcy_Tiles/arcy_orange_b-02.vtf,11144,11144
+materials/Arcy_Tiles/arcy_orange_a-01.vmt,75,75
+materials/Arcy_Tiles/arcy_orange_a-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_orange_a-06.vmt,75,75
+materials/Arcy_Tiles/arcy_orange_a-06.vtf,11144,11144
+materials/misc/128x128 trains text.vmt,72,72
+materials/misc/128x128 trains text.vtf,699272,699272
+materials/Arcy_Tiles/arcy_checked_bluegreen.vmt,81,81
+materials/Arcy_Tiles/arcy_checked_bluegreen.vtf,43912,43912
+materials/Arcy_Tiles/arcy_checked_orange.vmt,78,78
+materials/Arcy_Tiles/arcy_checked_orange.vtf,43912,43912
+materials/misc/128x16 sliderace text.vmt,74,74
+materials/misc/128x16 sliderace text.vtf,22008,22008
+materials/misc/128x16 bunnyhop text.vmt,73,73
+materials/misc/128x16 bunnyhop text.vtf,22008,22008
+materials/misc/128x16 defuse text.vmt,71,71
+materials/misc/128x16 defuse text.vtf,22008,22008
+materials/misc/128x16 snipers text.vmt,72,72
+materials/misc/128x16 snipers text.vtf,22008,22008
+materials/misc/128x16 boosterknife text.vmt,77,77
+materials/misc/128x16 boosterknife text.vtf,22008,22008
+materials/misc/128x16 buy text.vmt,68,68
+materials/misc/128x16 buy text.vtf,22008,22008
+materials/misc/128x16 trains text.vmt,71,71
+materials/misc/128x16 trains text.vtf,22008,22008
+materials/Arcy_Tiles/arcy_checked_green.vmt,77,77
+materials/Arcy_Tiles/arcy_checked_green.vtf,43912,43912
+materials/misc/128x128 random text.vmt,72,72
+materials/misc/128x128 random text.vtf,22008,22008
+materials/misc/128x128 lens flare.vmt,71,71
+materials/misc/128x128 lens flare.vtf,174984,174984
+materials/misc/128x128 question marks.vmt,243,243
+materials/misc/128x128 question marks.vtf,349760,349760
+materials/misc/128x128 question marks2.vmt,245,245
+materials/misc/128x128 question marks2.vtf,349760,349760
+materials/misc/128x128 smallawp screenie.vmt,78,78
+materials/misc/128x128 smallawp screenie.vtf,699272,699272
+materials/misc/128x16 snipers small text.vmt,78,78
+materials/misc/128x16 snipers small text.vtf,22008,22008
+materials/misc/128x128 spray wall_fix.vmt,242,242
+materials/misc/128x128 spray wall_fix.vtf,349760,349760
+materials/Arcy_Tiles/arcy_magenta_a-05.vmt,76,76
+materials/Arcy_Tiles/arcy_magenta_a-05.vtf,11144,11144
+materials/Arcy_Tiles/arcy_blue_d-05.vmt,73,73
+materials/Arcy_Tiles/arcy_blue_d-05.vtf,11144,11144
+materials/Arcy_Tiles/arcy_bmagenta_a-05.vmt,77,77
+materials/Arcy_Tiles/arcy_bmagenta_a-05.vtf,11144,11144
+materials/Arcy_Tiles/arcy_rmagenta_a-01.vmt,77,77
+materials/Arcy_Tiles/arcy_rmagenta_a-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_magenta_b-01.vmt,76,76
+materials/Arcy_Tiles/arcy_magenta_b-01.vtf,11144,11144
+materials/misc/128x128 shotgun screenie.vmt,77,77
+materials/misc/128x128 shotgun screenie.vtf,174984,174984
+materials/misc/128x16 shotgun text.vmt,72,72
+materials/misc/128x16 shotgun text.vtf,22008,22008
+materials/misc/128x16 knife text.vmt,70,70
+materials/misc/128x16 knife text.vtf,22008,22008
+materials/grids/128x128 knife screenie.vmt,76,76
+materials/grids/128x128 knife screenie.vtf,699272,699272
+materials/misc/128x128 arena screenie.vmt,75,75
+materials/misc/128x128 arena screenie.vtf,174984,174984
+materials/misc/128x16 arena text2.vmt,71,71
+materials/misc/128x16 arena text2.vtf,22008,22008
+materials/misc/128x16 arena text3.vmt,71,71
+materials/misc/128x16 arena text3.vtf,22008,22008
+materials/misc/32x32 backstab.vmt,67,67
+materials/misc/32x32 backstab.vtf,11144,11144
+materials/misc/128x128 iceskate screenie.vmt,78,78
+materials/misc/128x128 iceskate screenie.vtf,699272,699272
+materials/misc/128x16 iceskate text.vmt,73,73
+materials/misc/128x16 iceskate text.vtf,22008,22008
+materials/misc/128x128 cannonsurf screenie.vmt,80,80
+materials/misc/128x128 cannonsurf screenie.vtf,699272,699272
+materials/misc/128x16 cannonsurf text.vmt,75,75
+materials/misc/128x16 cannonsurf text.vtf,22008,22008
+materials/misc/128x128 blinddeagle screenshot.vmt,83,83
+materials/misc/128x128 blinddeagle screenshot.vtf,174984,174984
+materials/misc/128x16 blinddeagle text.vmt,76,76
+materials/misc/128x16 blinddeagle text.vtf,22008,22008
+materials/misc/256x128 lastthanks.vmt,92,92
+materials/misc/256x128 lastthanks.vtf,699232,699232
+materials/misc/256x256 special thanks.vmt,96,96
+materials/misc/256x256 special thanks.vtf,1398336,1398336
+materials/misc/256x128 name wall.vmt,91,91
+materials/misc/256x128 name wall.vtf,1398336,1398336
+materials/misc/256x256 music credits.vmt,95,95
+materials/misc/256x256 music credits.vtf,1398336,1398336
+materials/misc/32x32_sprite_replicant_texture.vmt,113,113
+materials/misc/32x32_sprite_replicant_texture.vtf,11144,11144
+materials/Arcy_Tiles/arcy_checked_cyan.vmt,76,76
+materials/Arcy_Tiles/arcy_checked_cyan.vtf,43912,43912
+materials/Arcy_Tiles/arcy_blue_c-06.vmt,73,73
+materials/Arcy_Tiles/arcy_blue_c-06.vtf,11144,11144
+materials/Arcy_Tiles/arcy_blue_c-05.vmt,73,73
+materials/Arcy_Tiles/arcy_blue_c-05.vtf,11144,11144
+materials/Arcy_Tiles/arcy_bmagenta_a-06.vmt,77,77
+materials/Arcy_Tiles/arcy_bmagenta_a-06.vtf,11144,11144
+materials/Arcy_Tiles/arcy_red_a-06.vmt,72,72
+materials/Arcy_Tiles/arcy_red_a-06.vtf,11144,11144
+materials/Arcy_Tiles/arcy_blue_d-04.vmt,73,73
+materials/Arcy_Tiles/arcy_blue_d-04.vtf,11144,11144
+materials/Arcy_Tiles/arcy_checked_magenta.vmt,79,79
+materials/Arcy_Tiles/arcy_checked_magenta.vtf,43912,43912
+materials/Arcy_Tiles/arcy_cblue_a-05.vmt,74,74
+materials/Arcy_Tiles/arcy_cblue_a-05.vtf,11144,11144
+materials/Arcy_Tiles/arcy_blue_b-02.vmt,73,73
+materials/Arcy_Tiles/arcy_blue_b-02.vtf,11144,11144
+materials/Arcy_Tiles/arcy_gcyan_a-06.vmt,74,74
+materials/Arcy_Tiles/arcy_gcyan_a-06.vtf,11144,11144
+materials/Arcy_Tiles/arcy_ggreen_a-01.vmt,75,75
+materials/Arcy_Tiles/arcy_ggreen_a-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_bmagenta_b-04.vmt,77,77
+materials/Arcy_Tiles/arcy_bmagenta_b-04.vtf,11144,11144
+materials/Arcy_Tiles/arcy_ggreen_d-04.vmt,75,75
+materials/Arcy_Tiles/arcy_ggreen_d-04.vtf,11144,11144
+materials/Arcy_Tiles/arcy_gcyan_d-02.vmt,74,74
+materials/Arcy_Tiles/arcy_gcyan_d-02.vtf,11144,11144
+materials/Arcy_Tiles/arcy_green_a-01.vmt,74,74
+materials/Arcy_Tiles/arcy_green_a-01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_blue_a-03.vmt,73,73
+materials/Arcy_Tiles/arcy_blue_a-03.vtf,11144,11144
+materials/Arcy_Tiles/arcy_blue_a-06.vmt,73,73
+materials/Arcy_Tiles/arcy_blue_a-06.vtf,11144,11144
+materials/Arcy_Tiles/arcy_yellow_d-05.vmt,75,75
+materials/Arcy_Tiles/arcy_yellow_d-05.vtf,11144,11144
+materials/grids/128x128 orange coral tile.vmt,79,79
+materials/grids/128x128 orange coral tile.vtf,174984,174984
+materials/Arcy_Tiles/arcy_brownscale_a-14.vmt,79,79
+materials/Arcy_Tiles/arcy_brownscale_a-14.vtf,11144,11144
+materials/Arcy_Tiles/arcy_cblue_b-03.vmt,74,74
+materials/Arcy_Tiles/arcy_cblue_b-03.vtf,11144,11144
+materials/Arcy_Tiles/arcy_greyscale_b-05.vmt,78,78
+materials/Arcy_Tiles/arcy_greyscale_b-05.vtf,11144,11144
+materials/Arcy_Tiles/arcy_bmagenta_b-07.vmt,77,77
+materials/Arcy_Tiles/arcy_bmagenta_b-07.vtf,11144,11144
+materials/Arcy_Tiles/arcy_red_a-08.vmt,72,72
+materials/Arcy_Tiles/arcy_red_a-08.vtf,11144,11144
+materials/Arcy_Tiles/arcy_magenta_d-01.vmt,76,76
+materials/Arcy_Tiles/arcy_magenta_d-01.vtf,11144,11144
+materials/misc/128x128 boosterknife screenie.vmt,82,82
+materials/misc/128x128 boosterknife screenie.vtf,699272,699272
+materials/grids/128x128 awp screenie.vmt,74,74
+materials/grids/128x128 awp screenie.vtf,699272,699272
+materials/Arcy_Tiles/arcy_brownscale_a-12.vmt,79,79
+materials/Arcy_Tiles/arcy_brownscale_a-12.vtf,11144,11144
+materials/misc/128x128 speedclimb screenie.vmt,80,80
+materials/misc/128x128 speedclimb screenie.vtf,174984,174984
+materials/misc/128x128 sliderace screenie.vmt,79,79
+materials/misc/128x128 sliderace screenie.vtf,174984,174984
+materials/misc/128x128 bunnyhop screenie.vmt,78,78
+materials/misc/128x128 bunnyhop screenie.vtf,699272,699272
+materials/Arcy_Tiles/arcy_red_a-04.vmt,72,72
+materials/Arcy_Tiles/arcy_red_a-04.vtf,11144,11144
+materials/Arcy_Tiles/arcy_greyscale_01.vmt,76,76
+materials/Arcy_Tiles/arcy_greyscale_01.vtf,11144,11144
+materials/Arcy_Tiles/arcy_greyscale_08.vmt,76,76
+materials/Arcy_Tiles/arcy_greyscale_08.vtf,11144,11144
+materials/Arcy_Tiles/arcy_greyscale_20.vmt,76,76
+materials/Arcy_Tiles/arcy_greyscale_20.vtf,11144,11144
+materials/misc/128x128 breakbox screenie.vmt,78,78
+materials/misc/128x128 breakbox screenie.vtf,174984,174984
+materials/misc/128x16 breakbox text.vmt,73,73
+materials/misc/128x16 breakbox text.vtf,22008,22008
+materials/skybox/icebergsup.vmt,94,94
+materials/skybox/icebergsup.vtf,5592612,5592612
+materials/skybox/icebergsdn.vmt,94,94
+materials/skybox/icebergsdn.vtf,5592612,5592612
+materials/skybox/icebergslf.vmt,94,94
+materials/skybox/icebergslf.vtf,5592612,5592612
+materials/skybox/icebergsrt.vmt,94,94
+materials/skybox/icebergsrt.vtf,5592612,5592612
+materials/skybox/icebergsft.vmt,94,94
+materials/skybox/icebergsft.vtf,5592612,5592612
+materials/skybox/icebergsbk.vmt,94,94
+materials/skybox/icebergsbk.vtf,5592612,5592612
+sound/misc/spy_JarateHit02.wav,49242,49242
+sound/misc/explosions/giant_common_explodes_01.wav,23642,23642
+sound/misc/explosions/giant_demoman_grenade_shoot.wav,17534,17534
+sound/misc/explosions/giant_soldier_rocket_explode.wav,44122,44122
+sound/misc/explosions/giant_soldier_rocket_shoot.wav,30810,30810
+sound/misc/Swoosh05_doublespeed.mp3,7214,7214
+models/props/mg_arcs_multigames/taterss.mdl,2312,2312
+models/props/mg_arcs_multigames/taterss.vvd,44160,44160
+models/props/mg_arcs_multigames/taterss.dx90.vtx,9093,9093
+models/props/mg_arcs_multigames/taterss.dx80.vtx,9093,9093
+models/props/mg_arcs_multigames/taterss.sw.vtx,9093,9093
+materials/models/props/dev_nyro/dev_gray-21.vmt,84,84
+materials/dev_nyro/dev_gray-21.vtf,22064,22064
+materials/models/props/dev_nyro/dev_gray-19.vmt,84,84
+materials/dev_nyro/dev_gray-19.vtf,22064,22064
+materials/models/props/dev_nyro/dev_gray-01.vmt,84,84
+materials/dev_nyro/dev_gray-01.vtf,22064,22064
+materials/models/props/dev_nyro/dev_gray-04.vmt,84,84
+materials/dev_nyro/dev_gray-04.vtf,22064,22064
+models/props/mg_arcs_multigames/zhanming.mdl,1924,1924
+models/props/mg_arcs_multigames/zhanming.vvd,52160,52160
+models/props/mg_arcs_multigames/zhanming.dx90.vtx,10116,10116
+models/props/mg_arcs_multigames/zhanming.dx80.vtx,10116,10116
+models/props/mg_arcs_multigames/zhanming.sw.vtx,10116,10116
+models/props/mg_arcs_multigames/love_red.mdl,1924,1924
+models/props/mg_arcs_multigames/love_red.vvd,57344,57344
+models/props/mg_arcs_multigames/love_red.dx90.vtx,11457,11457
+models/props/mg_arcs_multigames/love_red.dx80.vtx,11457,11457
+models/props/mg_arcs_multigames/love_red.sw.vtx,11457,11457
+models/props/mg_arcs_multigames/jonkers.mdl,1924,1924
+models/props/mg_arcs_multigames/jonkers.vvd,59904,59904
+models/props/mg_arcs_multigames/jonkers.dx90.vtx,11709,11709
+models/props/mg_arcs_multigames/jonkers.dx80.vtx,11709,11709
+models/props/mg_arcs_multigames/jonkers.sw.vtx,11709,11709
+models/props/mg_arcs_multigames/beachmoneyweed.mdl,2120,2120
+models/props/mg_arcs_multigames/beachmoneyweed.vvd,124672,124672
+models/props/mg_arcs_multigames/beachmoneyweed.dx90.vtx,24066,24066
+models/props/mg_arcs_multigames/beachmoneyweed.dx80.vtx,24066,24066
+models/props/mg_arcs_multigames/beachmoneyweed.sw.vtx,24066,24066
+materials/models/props/dev_nyro/dev_gray-17.vmt,84,84
+materials/dev_nyro/dev_gray-17.vtf,22064,22064
+models/props/mg_arcs_multigames/alicia.mdl,1924,1924
+models/props/mg_arcs_multigames/alicia.vvd,40192,40192
+models/props/mg_arcs_multigames/alicia.dx90.vtx,7569,7569
+models/props/mg_arcs_multigames/alicia.dx80.vtx,7569,7569
+models/props/mg_arcs_multigames/alicia.sw.vtx,7569,7569
+models/props/mg_arcs_multigames/ninja_boss.mdl,1924,1924
+models/props/mg_arcs_multigames/ninja_boss.vvd,75584,75584
+models/props/mg_arcs_multigames/ninja_boss.dx90.vtx,14454,14454
+models/props/mg_arcs_multigames/ninja_boss.dx80.vtx,14454,14454
+models/props/mg_arcs_multigames/ninja_boss.sw.vtx,14454,14454
+models/props/mg_arcs_multigames/stormyiceangel.mdl,1924,1924
+models/props/mg_arcs_multigames/stormyiceangel.vvd,110912,110912
+models/props/mg_arcs_multigames/stormyiceangel.dx90.vtx,21282,21282
+models/props/mg_arcs_multigames/stormyiceangel.dx80.vtx,21282,21282
+models/props/mg_arcs_multigames/stormyiceangel.sw.vtx,21282,21282
+models/props/mg_arcs_multigames/angiebagel.mdl,1924,1924
+models/props/mg_arcs_multigames/angiebagel.vvd,77504,77504
+models/props/mg_arcs_multigames/angiebagel.dx90.vtx,15228,15228
+models/props/mg_arcs_multigames/angiebagel.dx80.vtx,15228,15228
+models/props/mg_arcs_multigames/angiebagel.sw.vtx,15228,15228
+models/props/mg_arcs_multigames/gir.mdl,1924,1924
+models/props/mg_arcs_multigames/gir.vvd,21824,21824
+models/props/mg_arcs_multigames/gir.dx90.vtx,4554,4554
+models/props/mg_arcs_multigames/gir.dx80.vtx,4554,4554
+models/props/mg_arcs_multigames/gir.sw.vtx,4554,4554
+models/props/mg_arcs_multigames/warmkoolaid.mdl,1924,1924
+models/props/mg_arcs_multigames/warmkoolaid.vvd,98304,98304
+models/props/mg_arcs_multigames/warmkoolaid.dx90.vtx,18801,18801
+models/props/mg_arcs_multigames/warmkoolaid.dx80.vtx,18801,18801
+models/props/mg_arcs_multigames/warmkoolaid.sw.vtx,18801,18801
+models/props/mg_arcs_multigames/samantha.mdl,1924,1924
+models/props/mg_arcs_multigames/samantha.vvd,57536,57536
+models/props/mg_arcs_multigames/samantha.dx90.vtx,10992,10992
+models/props/mg_arcs_multigames/samantha.dx80.vtx,10992,10992
+models/props/mg_arcs_multigames/samantha.sw.vtx,10992,10992
+models/props/mg_arcs_multigames/beast702.mdl,1924,1924
+models/props/mg_arcs_multigames/beast702.vvd,80704,80704
+models/props/mg_arcs_multigames/beast702.dx90.vtx,15414,15414
+models/props/mg_arcs_multigames/beast702.dx80.vtx,15414,15414
+models/props/mg_arcs_multigames/beast702.sw.vtx,15414,15414
+models/props/letters/1.mdl,1668,1668
+models/props/letters/1.vvd,832,832
+models/props/letters/1.dx90.vtx,285,285
+models/props/letters/1.dx80.vtx,285,285
+models/props/letters/1.sw.vtx,285,285
+materials/models/props/dev_nyro/glow_gray-21.vmt,99,99
+models/props/letters/h.mdl,1668,1668
+models/props/letters/h.vvd,832,832
+models/props/letters/h.dx90.vtx,285,285
+models/props/letters/h.dx80.vtx,285,285
+models/props/letters/h.sw.vtx,285,285
+models/props/letters/p.mdl,1668,1668
+models/props/letters/p.vvd,1088,1088
+models/props/letters/p.dx90.vtx,333,333
+models/props/letters/p.dx80.vtx,333,333
+models/props/letters/p.sw.vtx,333,333
+models/props/letters/k.mdl,1668,1668
+models/props/letters/k.vvd,1600,1600
+models/props/letters/k.dx90.vtx,429,429
+models/props/letters/k.dx80.vtx,429,429
+models/props/letters/k.sw.vtx,429,429
+models/props/letters/n.mdl,1668,1668
+models/props/letters/n.vvd,1856,1856
+models/props/letters/n.dx90.vtx,477,477
+models/props/letters/n.dx80.vtx,477,477
+models/props/letters/n.sw.vtx,477,477
+models/props/letters/i.mdl,1668,1668
+models/props/letters/i.vvd,832,832
+models/props/letters/i.dx90.vtx,285,285
+models/props/letters/i.dx80.vtx,285,285
+models/props/letters/i.sw.vtx,285,285
+models/props/letters/f.mdl,1668,1668
+models/props/letters/f.vvd,704,704
+models/props/letters/f.dx90.vtx,267,267
+models/props/letters/f.dx80.vtx,267,267
+models/props/letters/f.sw.vtx,267,267
+models/props/letters/e.mdl,1668,1668
+models/props/letters/e.vvd,960,960
+models/props/letters/e.dx90.vtx,315,315
+models/props/letters/e.dx80.vtx,315,315
+models/props/letters/e.sw.vtx,315,315
+models/props/letters/5.mdl,1668,1668
+models/props/letters/5.vvd,1088,1088
+models/props/letters/5.dx90.vtx,345,345
+models/props/letters/5.dx80.vtx,345,345
+models/props/letters/5.sw.vtx,345,345
+models/props/letters/u.mdl,1668,1668
+models/props/letters/u.vvd,832,832
+models/props/letters/u.dx90.vtx,285,285
+models/props/letters/u.dx80.vtx,285,285
+models/props/letters/u.sw.vtx,285,285
+models/props/letters/s.mdl,1668,1668
+models/props/letters/s.vvd,1344,1344
+models/props/letters/s.dx90.vtx,381,381
+models/props/letters/s.dx80.vtx,381,381
+models/props/letters/s.sw.vtx,381,381
+models/props/letters/0.mdl,1668,1668
+models/props/letters/0.vvd,960,960
+models/props/letters/0.dx90.vtx,315,315
+models/props/letters/0.dx80.vtx,315,315
+models/props/letters/0.sw.vtx,315,315
+models/props/letters/l.mdl,1668,1668
+models/props/letters/l.vvd,576,576
+models/props/letters/l.dx90.vtx,237,237
+models/props/letters/l.dx80.vtx,237,237
+models/props/letters/l.sw.vtx,237,237
+models/props/letters/t.mdl,1668,1668
+models/props/letters/t.vvd,576,576
+models/props/letters/t.dx90.vtx,237,237
+models/props/letters/t.dx80.vtx,237,237
+models/props/letters/t.sw.vtx,237,237
+models/props/letters/m.mdl,1668,1668
+models/props/letters/m.vvd,2112,2112
+models/props/letters/m.dx90.vtx,525,525
+models/props/letters/m.dx80.vtx,525,525
+models/props/letters/m.sw.vtx,525,525
+models/props/letters/2.mdl,1668,1668
+models/props/letters/2.vvd,1216,1216
+models/props/letters/2.dx90.vtx,363,363
+models/props/letters/2.dx80.vtx,363,363
+models/props/letters/2.sw.vtx,363,363
+models/props/letters/4.mdl,1668,1668
+models/props/letters/4.vvd,832,832
+models/props/letters/4.dx90.vtx,285,285
+models/props/letters/4.dx80.vtx,285,285
+models/props/letters/4.sw.vtx,285,285
+models/props/letters/a.mdl,1668,1668
+models/props/letters/a.vvd,1088,1088
+models/props/letters/a.dx90.vtx,333,333
+models/props/letters/a.dx80.vtx,333,333
+models/props/letters/a.sw.vtx,333,333
+models/props/letters/7.mdl,1668,1668
+models/props/letters/7.vvd,448,448
+models/props/letters/7.dx90.vtx,219,219
+models/props/letters/7.dx80.vtx,219,219
+models/props/letters/7.sw.vtx,219,219
+models/props/letters/3.mdl,1668,1668
+models/props/letters/3.vvd,960,960
+models/props/letters/3.dx90.vtx,315,315
+models/props/letters/3.dx80.vtx,315,315
+models/props/letters/3.sw.vtx,315,315
+models/props/letters/w.mdl,1668,1668
+models/props/letters/w.vvd,3136,3136
+models/props/letters/w.dx90.vtx,717,717
+models/props/letters/w.dx80.vtx,717,717
+models/props/letters/w.sw.vtx,717,717
+resource/overviews/mg_arcs_multigames_fix.txt,179,179
+sound/arcs_multigames_music/133937_popcorn.mp3,1537724,1537724
+sound/arcs_multigames_music/276864_C_333EA.mp3,1223072,1223072
+sound/arcs_multigames_music/277279_good_melody_YAY.mp3,996248,996248
+sound/arcs_multigames_music/317073_Pirates_of_the_Cari.mp3,1252400,1252400
+sound/arcs_multigames_music/351234_power_of_celtic.mp3,1792316,1792316
+sound/arcs_multigames_music/461757_Strength_to_fight.mp3,568652,568652
+sound/arcs_multigames_music/494618_Synesthesion.mp3,1897616,1897616
+sound/arcs_multigames_music/beverly hills cop theme song.mp3,643220,643220
+sound/arcs_multigames_music/level2_avicii.mp3,952880,952880
+sound/arcs_multigames_music/Speed.mp3,1159736,1159736
+sound/arcs_multigames_music/Third_door.mp3,701564,701564
+sound/arcs_multigames_music/Visionary_for_the_map.mp3,1550360,1550360
+sound/arcs_multigames_music/Wake Me Up.mp3,1597004,1597004
+materials/overviews/mg_arcs_multigames_fix.vmt,155,155
+materials/overviews/mg_arcs_multigames_fix.vtf,699272,699272
+materials/misc/64x64 saying_helen_keller.vmt,134,134
+materials/misc/64x64 saying_helen_keller.vtf,87616,87616
+materials/misc/64x64 saying_henry_thoreau.vmt,135,135
+materials/misc/64x64 saying_henry_thoreau.vtf,87616,87616
+materials/misc/64x64 saying_lucille_ball.vmt,134,134
+materials/misc/64x64 saying_lucille_ball.vtf,87616,87616
+materials/misc/64x64 saying_mark_twain.vmt,132,132
+materials/misc/64x64 saying_mark_twain.vtf,87616,87616
+materials/misc/64x64 saying_norman_peale.vmt,134,134
+materials/misc/64x64 saying_norman_peale.vtf,87616,87616
+materials/misc/64x64 saying_old_playing.vmt,133,133
+materials/misc/64x64 saying_old_playing.vtf,87616,87616
+materials/models/props/dev_nyro/glow_gray-07.vmt,99,99
+materials/models/props/dev_nyro/glow_gray-14.vmt,99,99
+materials/models/props/letters/glow_gray-21.vmt,81,81
+sound/misc/explosions/giant_common_explodes_02.wav,26874,26874
+materials/misc/arcanine.vmt,117,117
+materials/misc/arcanine.vtf,349760,349760

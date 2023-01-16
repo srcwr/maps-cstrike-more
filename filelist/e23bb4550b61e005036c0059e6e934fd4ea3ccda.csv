@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/gg_megalomania/nature/sewer_water001_1472_2560_448.vmt,160,160
+materials/maps/gg_megalomania/building_template/building_template001b_1472_2560_448.vmt,155,155
+materials/maps/gg_megalomania/concrete/concretefloor033k_c17_1472_2560_448.vmt,185,185
+materials/maps/gg_megalomania/samichan/waterfall_main_1472_2560_448.vmt,162,162
+materials/maps/gg_megalomania/maps/gg_megalomania/nature/sewer_water001_1472_2560_448_depth_120.vmt,143,143
+materials/maps/gg_megalomania/cubemapdefault.vtf,9824,9824
+materials/maps/gg_megalomania/c1472_2560_448.vtf,9824,9824
+materials/samichan/color_murkywater.vmt,83,83
+materials/samichan/color_murkywater.vtf,22080,22080
+materials/samichan/waterfall_main.vmt,496,496
+materials/samichan/waterfall_main.vtf,87616,87616
+materials/samichan/waterfall_main_normal.vtf,87616,87616
+materials/samichan/waterfall_main_dudv.vtf,87616,87616
+materials/correction/armoredcore4.raw,98304,98304
+materials/maps/gg_megalomania/c1472_2560_448.hdr.vtf,76520,76520

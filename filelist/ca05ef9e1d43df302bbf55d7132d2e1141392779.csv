@@ -1,0 +1,66 @@
+filename,size,compressed
+materials/maps/ze_stone_pit/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/ze_stone_pit/nature/blendsandgrass008a_wvt_patch.vmt,409,409
+materials/maps/ze_stone_pit/nature/blendsandrock004a_wvt_patch.vmt,260,260
+materials/maps/ze_stone_pit/nature/blendsandsand008a_wvt_patch.vmt,373,373
+materials/maps/ze_stone_pit/nature/blendrocksgrass005a_wvt_patch.vmt,330,330
+materials/maps/ze_stone_pit/tile/tilefloor012b_0_0_0.vmt,124,124
+materials/maps/ze_stone_pit/metal/metalfloor001a_0_0_0.vmt,126,126
+materials/maps/ze_stone_pit/metal/metalwall048a_0_0_0.vmt,125,125
+materials/maps/ze_stone_pit/de_nuke/nukwater_movingplane_beneath_depth_2.vmt,122,122
+materials/maps/ze_stone_pit/dev/dev_water2_depth_135.vmt,102,102
+materials/maps/ze_stone_pit/dev/dev_water2_depth_178.vmt,102,102
+materials/maps/ze_stone_pit/nature/water_canals03_depth_113.vmt,109,109
+materials/maps/ze_stone_pit/nature/water_movingplane_beneath_depth_8.vmt,118,118
+materials/maps/ze_stone_pit/dev/dev_water2_depth_282.vmt,102,102
+materials/maps/ze_stone_pit/dev/dev_water2_depth_5.vmt,100,100
+materials/maps/ze_stone_pit/nature/water_canals03_depth_1092.vmt,110,110
+materials/maps/ze_stone_pit/nature/water_canals03_depth_299.vmt,109,109
+materials/maps/ze_stone_pit/nature/water_canals03_depth_107.vmt,109,109
+materials/maps/ze_stone_pit/nature/water_canals03_depth_15.vmt,108,108
+materials/maps/ze_stone_pit/nature/water_canals03_depth_121.vmt,109,109
+materials/maps/ze_stone_pit/cubemapdefault.vtf,9832,9832
+materials/maps/ze_stone_pit/c0_0_0.vtf,9832,9832
+materials/maps/ze_stone_pit/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_stone_pit/c0_0_0.hdr.vtf,76528,76528
+materials/WATERSOURCE/RIVER/FOAM.vmt,252,252
+materials/Watersource/river/foam.vtf,1398336,1398336
+materials/MEMS/NO_LAZERS.vmt,109,109
+materials/mems/no_lazers.vtf,349688,349688
+materials/MEMS/LAZERS.vmt,106,106
+materials/mems/lazers.vtf,349688,349688
+materials/MEMS/NE_ZARAZIT_ZOMBI.vmt,116,116
+materials/mems/ne_zarazit_zombi.vtf,349688,349688
+materials/MEMS/NET4ALL.vmt,107,107
+materials/mems/net4all.vtf,349688,349688
+materials/MEMS/KOT.vmt,103,103
+materials/mems/kot.vtf,699272,699272
+materials/MEMS/SHKURA.vmt,106,106
+materials/mems/shkura.vtf,174984,174984
+materials/MEMS/TAPOK.vmt,105,105
+materials/mems/tapok.vtf,174984,174984
+materials/MEMS/ISXOD_KOD.vmt,109,109
+materials/mems/isxod_kod.vtf,174984,174984
+materials/MEMS/PANIKA.vmt,106,106
+materials/mems/panika.vtf,174984,174984
+materials/MEMS/KAMA.vmt,104,104
+materials/mems/kama.vtf,349688,349688
+materials/MEMS/PINGVIN.vmt,107,107
+materials/mems/pingvin.vtf,174984,174984
+materials/MEMS/DRUZKO.vmt,106,106
+materials/mems/druzko.vtf,174984,174984
+sound/Pendulum - The Island (MaxNRG official remix).mp3,4965677,4965677
+sound/Ac Back in Black.mp3,8284790,8284790
+sound/AC DC - HIGWAY TO HELL.mp3,8343648,8343648
+sound/AlexAnder and Dr. Ozi - Down Low.mp3,8593273,8593273
+sound/Feint - Fury (Original Mix).mp3,9264496,9264496
+sound/Metal Gear Rising - A Stranger I Remain.mp3,13423047,13423047
+sound/Ninja1.mp3,2952670,2952670
+sound/Noisia  The Upbeats - Dustup.mp3,12060297,12060297
+sound/The Chain Gang Of 1974 - Sleepwalking (OST GTA 5).mp3,9472364,9472364
+sound/The prodigy - Vodoo People.mp3,6197287,6197287
+sound/The Qemists - No More.mp3,9965597,9965597
+sound/Track.mp3,9228582,9228582
+particles/waterfall.pcf,9349,9349
+maps/ze_stone_pit_v2_b5.txt,629,629
+maps/ze_stone_pit_v2_b5_particles.txt,114,114

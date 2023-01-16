@@ -1,0 +1,40 @@
+filename,size,compressed
+materials/maps/ba_jail_tentcity_v2a/cs_havana/glass2_-618_-2393_7.vmt,137,137
+materials/maps/ba_jail_tentcity_v2a/models/props_combine/introomarea_glass_-618_-2393_7.vmt,159,159
+materials/maps/ba_jail_tentcity_v2a/cs_havana/glass2_-1268_-2483_512.vmt,140,140
+materials/maps/ba_jail_tentcity_v2a/concrete/concretefloor011a_c17_4_-2393_362.vmt,189,189
+materials/maps/ba_jail_tentcity_v2a/concrete/concretefloor011a_c17_-618_-2393_7.vmt,190,190
+materials/maps/ba_jail_tentcity_v2a/de_piranesi/marblefloor04_-618_-2393_7.vmt,146,146
+materials/maps/ba_jail_tentcity_v2a/de_piranesi/marblefloor04_4_-2393_362.vmt,145,145
+materials/maps/ba_jail_tentcity_v2a/de_piranesi/marblefloor04_96_-3073_360.vmt,146,146
+materials/maps/ba_jail_tentcity_v2a/de_piranesi/marblefloor04_-1268_-2483_512.vmt,149,149
+materials/maps/ba_jail_tentcity_v2a/de_nuke/nukwater_movingplane_-1268_-2483_512.vmt,175,175
+materials/maps/ba_jail_tentcity_v2a/cs_havana/glass2_96_-3073_360.vmt,137,137
+materials/maps/ba_jail_tentcity_v2a/cs_havana/glass2_4_-2393_362.vmt,136,136
+materials/maps/ba_jail_tentcity_v2a/de_chateau/cnstrcttarpb_96_-3073_360.vmt,144,144
+materials/maps/ba_jail_tentcity_v2a/de_chateau/cnstrcttarpb_-618_-2393_7.vmt,144,144
+materials/maps/ba_jail_tentcity_v2a/de_chateau/cnstrcttarpb_-1268_-2483_512.vmt,147,147
+materials/maps/ba_jail_tentcity_v2a/de_chateau/cnstrcttarpb_4_-2393_362.vmt,143,143
+materials/maps/ba_jail_tentcity_v2a/wood/wooddoor007a_-1268_-2483_512.vmt,141,141
+materials/maps/ba_jail_tentcity_v2a/wood/wooddoor007a_4_-2393_362.vmt,137,137
+materials/maps/ba_jail_tentcity_v2a/wood/wooddoor007a_-618_-2393_7.vmt,138,138
+materials/maps/ba_jail_tentcity_v2a/wood/wooddoor007a_96_-3073_360.vmt,138,138
+materials/maps/ba_jail_tentcity_v2a/environment maps/pipemetal004a_4_-2393_362.vmt,150,150
+materials/maps/ba_jail_tentcity_v2a/environment maps/pipemetal004a_96_-3073_360.vmt,151,151
+materials/maps/ba_jail_tentcity_v2a/environment maps/pipemetal004a_-618_-2393_7.vmt,151,151
+materials/maps/ba_jail_tentcity_v2a/environment maps/pipemetal004a_-1268_-2483_512.vmt,154,154
+materials/maps/ba_jail_tentcity_v2a/models/props/de_nuke/light_red1_glass_-1268_-2483_512.vmt,161,161
+materials/maps/ba_jail_tentcity_v2a/models/props/de_nuke/light_red1_glass_-618_-2393_7.vmt,158,158
+materials/maps/ba_jail_tentcity_v2a/models/props/de_nuke/light_red1_glass_96_-3073_360.vmt,158,158
+materials/maps/ba_jail_tentcity_v2a/concrete/concretefloor011a_c17_96_-3073_360.vmt,190,190
+materials/maps/ba_jail_tentcity_v2a/concrete/concretefloor011a_c17_-1268_-2483_512.vmt,193,193
+materials/maps/ba_jail_tentcity_v2a/models/props_combine/introomarea_glass_4_-2393_362.vmt,158,158
+materials/maps/ba_jail_tentcity_v2a/maps/ba_jail_tentcity_v2a/de_nuke/nukwater_movingplane_-1268_-2483_512_depth_3.vmt,156,156
+materials/maps/ba_jail_tentcity_v2a/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_tentcity_v2a/c-618_-2393_7.vtf,4952,4952
+materials/maps/ba_jail_tentcity_v2a/c-1268_-2483_512.vtf,4952,4952
+materials/maps/ba_jail_tentcity_v2a/c4_-2393_362.vtf,4952,4952
+materials/maps/ba_jail_tentcity_v2a/c96_-3073_360.vtf,4952,4952
+materials/MYTEXES/BLUE.vmt,92,92
+materials/mytexes/blue.vtf,11128,11128
+maps/soundcache/ba_jail_tentcity_v2a.cache,16,16

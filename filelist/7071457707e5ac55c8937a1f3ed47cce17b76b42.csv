@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/gg_cassius_b1/glass/glasswindow070c_0_0_0.vmt,128,128
+materials/maps/gg_cassius_b1/vehicle/metaltrain001c_0_0_0.vmt,129,129
+materials/maps/gg_cassius_b1/tile/tilefloor021a_0_0_0.vmt,125,125
+materials/maps/gg_cassius_b1/cubemapdefault.vtf,9824,9824
+materials/maps/gg_cassius_b1/c0_0_0.vtf,9824,9824
+materials/PHOTOREALISTIC_CONCRETE/CONCRETE004.vmt,108,108
+materials/photorealistic_concrete/concrete004.vtf,87600,87600
+materials/PHOTOREALISTIC_BRICKS/BRICK043B.vmt,79,79
+materials/photorealistic_bricks/brick043b.vtf,349744,349744
+materials/DEV/DEV_MEASUREGENERIC41.vmt,93,93
+materials/dev/dev_measuregeneric41.vtf,11144,11144
+materials/PHOTOREALISTIC_BRICKS/BRICK040+.vmt,101,101
+materials/photorealistic_bricks/brick040+.vtf,349744,349744
+materials/PHOTOREALISTIC_BRICKS/BRICK043.vmt,78,78
+materials/photorealistic_bricks/brick043.vtf,349744,349744
+maps/soundcache/gg_cassius_b1.cache,16,16

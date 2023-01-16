@@ -1,0 +1,31 @@
+filename,size,compressed
+materials/maps/ba_jail_pokerpenis/tile/tilefloor011a_-1634_-579_-126.vmt,140,140
+materials/maps/ba_jail_pokerpenis/tile/tilewall006a_-1634_-579_-126.vmt,139,139
+materials/maps/ba_jail_pokerpenis/glass/combineglass001a_-1634_-579_-126.vmt,144,144
+materials/maps/ba_jail_pokerpenis/metal/metalcombine001_-1634_-579_-126.vmt,143,143
+materials/maps/ba_jail_pokerpenis/vehicle/rubbertrainfloor001a_-1634_-579_-126.vmt,150,150
+materials/maps/ba_jail_pokerpenis/models/props/de_nuke/light_red1_glass_-1634_-579_-126.vmt,159,159
+materials/maps/ba_jail_pokerpenis/metal/citadel_metalwall076a_-1634_-579_-126.vmt,149,149
+materials/maps/ba_jail_pokerpenis/metal/metalwall045a_nobump_-1634_-579_-126.vmt,148,148
+materials/maps/ba_jail_pokerpenis/tile/tilefloor021a_-1634_-579_-126.vmt,140,140
+materials/maps/ba_jail_pokerpenis/metal/citadel_metalwall101b_-1634_-579_-126.vmt,149,149
+materials/maps/ba_jail_pokerpenis/de_nuke/nuke_metaldoor_01_-1634_-579_-126.vmt,147,147
+materials/maps/ba_jail_pokerpenis/liquids/water_chateau_dx70_depth_173.vmt,114,114
+materials/maps/ba_jail_pokerpenis/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_pokerpenis/c-1634_-579_-126.vtf,9824,9824
+sound/admin_plugin/115-laurent_wolf_-_no_stress.mp3,4484141,4484141
+sound/admin_plugin/Dj CafΘ - EnΘrgy.wav,5199962,5199962
+materials/dev_entity.vmt,56,56
+materials/dev_entity.vtf,65743,65743
+materials/dev_wallblue.vmt,58,58
+materials/dev_wallblue.vtf,65743,65743
+materials/dev_wallgreen.vmt,59,59
+materials/dev_wallgreen.vtf,65743,65743
+materials/dev_wallorange.vmt,62,62
+materials/dev_wallorange.vtf,65743,65743
+materials/dev_wallpurple.vmt,62,62
+materials/dev_wallpurple.vtf,65743,65743
+materials/dev_wallred.vmt,59,59
+materials/dev_wallred.vtf,65743,65743
+materials/map by 2.vmt,56,56
+materials/map by 2.vtf,174976,174976

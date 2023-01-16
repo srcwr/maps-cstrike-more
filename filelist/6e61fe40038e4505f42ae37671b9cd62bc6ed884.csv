@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/awp_akolit/de_cbble/grassdirt_blend_wvt_patch.vmt,165,165
+materials/maps/awp_akolit/dev/dev_water2_192_768_64.vmt,146,146
+materials/maps/awp_akolit/maps/awp_akolit/dev/dev_water2_192_768_64_depth_16.vmt,128,128
+materials/maps/awp_akolit/cubemapdefault.vtf,9832,9832
+materials/maps/awp_akolit/c192_768_64.vtf,9832,9832
+materials/maps/awp_akolit/c192_-1280_64.vtf,9832,9832
+materials/maps/awp_akolit/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/awp_akolit/c192_768_64.hdr.vtf,76528,76528
+materials/maps/awp_akolit/c192_-1280_64.hdr.vtf,76528,76528

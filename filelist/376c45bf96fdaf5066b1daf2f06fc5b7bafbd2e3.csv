@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/ze_apollo_beta/nature/water_lowdirty001_0_0_0.vmt,155,155
+materials/maps/ze_apollo_beta/metal/metalwall063a_0_0_0.vmt,127,127
+materials/maps/ze_apollo_beta/glass/glasswindow070c_0_0_0.vmt,129,129
+materials/maps/ze_apollo_beta/concrete/concretefloor028a_0_0_0.vmt,134,134
+materials/maps/ze_apollo_beta/de_nuke/nukslidea_0_0_0.vmt,125,125
+materials/maps/ze_apollo_beta/nature/water_lowdirty002_depth_8.vmt,110,110
+materials/maps/ze_apollo_beta/nature/water_canals_city_depth_8.vmt,110,110
+materials/maps/ze_apollo_beta/nature/water_lowdirty001_depth_128.vmt,112,112
+materials/maps/ze_apollo_beta/cubemapdefault.vtf,9824,9824
+materials/maps/ze_apollo_beta/c0_0_0.vtf,9824,9824
+materials/maps/ze_apollo_beta/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/ze_apollo_beta/c0_0_0.hdr.vtf,76520,76520

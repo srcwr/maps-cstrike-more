@@ -1,0 +1,44 @@
+filename,size,compressed
+materials/360G/BLAU.vmt,117,117
+materials/360g/Blau.vtf,43896,43896
+materials/360G/FU▀BALL.vmt,123,123
+materials/360g/fu▀ball.vtf,43896,43896
+"materials/360G/GRAU 0,5.vmt",199,199
+"materials/360g/grau 0,5.vtf",43896,43896
+materials/360G/POOL.vmt,117,117
+materials/360g/pool.vtf,43896,43896
+materials/360G/ROT.vmt,91,91
+materials/360g/Rot.vtf,43896,43896
+"materials/maps/maggi/360g/grau 0,5_-992_2304_8.vmt",118,118
+materials/maps/maggi/c-992_2304_8.hdr.vtf,76528,76528
+materials/maps/maggi/c-992_2304_8.vtf,4960,4960
+materials/maps/maggi/concrete/concretefloor013c_-992_2304_8.vmt,131,131
+materials/maps/maggi/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/maggi/cubemapdefault.vtf,4960,4960
+materials/maps/maggi/glass/combineglass001a_-992_2304_8.vmt,127,127
+materials/maps/maggi/glass/glasswindow070a_-992_2304_8.vmt,126,126
+materials/maps/maggi/liquids/militiawater_dx70_depth_152.vmt,113,113
+materials/maps/maggi/liquids/militiawater_dx70_depth_312.vmt,113,113
+materials/maps/maggi/metal/metaldoor046a_-992_2304_8.vmt,124,124
+materials/maps/maggi/plaster/plasterwall034c_-992_2304_8.vmt,128,128
+materials/maps/maggi/plaster/plasterwall034e_-992_2304_8.vmt,128,128
+materials/models/forlix/soccer/soccerball.vmt,100,100
+materials/models/forlix/soccer/soccerball.vtf,174984,174984
+materials/skybox/spacebk.vmt,56,56
+materials/skybox/spacebk.vtf,43896,43896
+materials/skybox/spacedn.vmt,56,56
+materials/skybox/spacedn.vtf,43896,43896
+materials/skybox/spaceft.vmt,56,56
+materials/skybox/spaceft.vtf,43896,43896
+materials/skybox/spacelf.vmt,56,56
+materials/skybox/spacelf.vtf,43896,43896
+materials/skybox/spacert.vmt,56,56
+materials/skybox/spacert.vtf,43896,43896
+materials/SKYBOX/SPACEUP.vmt,56,56
+materials/skybox/spaceup.vtf,43896,43896
+models/forlix/soccer/soccerball.dx80.vtx,2655,2655
+models/forlix/soccer/soccerball.dx90.vtx,2655,2655
+models/forlix/soccer/soccerball.mdl,1540,1540
+models/forlix/soccer/soccerball.phy,5205,5205
+models/forlix/soccer/soccerball.sw.vtx,2655,2655
+models/forlix/soccer/soccerball.vvd,9408,9408

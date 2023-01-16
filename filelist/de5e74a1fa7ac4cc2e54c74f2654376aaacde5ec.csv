@@ -1,0 +1,86 @@
+filename,size,compressed
+materials/maps/bhop_hive_openbeta/metal/prodventa_0_0_0.vmt,127,127
+materials/maps/bhop_hive_openbeta/nature/toxicslime002a_depth_3.vmt,107,107
+materials/maps/bhop_hive_openbeta/nature/water_canals03_depth_408.vmt,109,109
+materials/maps/bhop_hive_openbeta/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_hive_openbeta/c0_0_0.vtf,28753,28753
+materials/maps/bhop_hive_openbeta/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_hive_openbeta/c0_0_0.hdr.vtf,76528,76528
+materials/explorer2/240schwarz.vmt,87,87
+materials/explorer2/240schwarz.vtf,22080,22080
+materials/explorer2/blau.vmt,81,81
+materials/explorer2/blau.vtf,349760,349760
+materials/explorer2/blau75.vmt,83,83
+materials/explorer2/blau75.vtf,349760,349760
+materials/explorer2/blaupipe.vmt,85,85
+materials/explorer2/blaupipe.vtf,349760,349760
+materials/explorer2/credits.vmt,84,84
+materials/explorer2/credits.vtf,1398336,1398336
+materials/explorer2/gelb.vmt,81,81
+materials/explorer2/gelb.vtf,349760,349760
+materials/explorer2/graudreckig.vmt,71,71
+materials/explorer2/graudreckig.vtf,349760,349760
+materials/explorer2/graugrund.vmt,69,69
+materials/explorer2/graugrund.vtf,349760,349760
+materials/explorer2/gruenhell.vmt,69,69
+materials/explorer2/gruenhell.vtf,349760,349760
+materials/explorer2/gruenhell75.vmt,88,88
+materials/explorer2/gruenhell75.vtf,349760,349760
+materials/explorer2/hexafarb.vmt,68,68
+materials/explorer2/hexafarb.vtf,349760,349760
+materials/explorer2/hexagruen.vmt,67,67
+materials/explorer2/hexagruen.vtf,349760,349760
+materials/explorer2/hexatex.vmt,67,67
+materials/explorer2/hexatex.vtf,349760,349760
+materials/explorer2/hexatexboden.vmt,72,72
+materials/explorer2/hexatexboden.vtf,349760,349760
+materials/explorer2/liste.vmt,82,82
+materials/explorer2/liste.vtf,1398336,1398336
+materials/explorer2/mint.vmt,79,79
+materials/explorer2/mint.vtf,349760,349760
+materials/explorer2/orange.vmt,83,83
+materials/explorer2/orange.vtf,349760,349760
+materials/explorer2/portal.vmt,64,64
+materials/explorer2/portal.vtf,174984,174984
+materials/explorer2/restart.vmt,84,84
+materials/explorer2/restart.vtf,87616,87616
+materials/explorer2/rot.vmt,63,63
+materials/explorer2/rot.vtf,349760,349760
+materials/explorer2/rotpipe.vmt,84,84
+materials/explorer2/rotpipe.vtf,349760,349760
+materials/explorer2/schwarzfit.vmt,70,70
+materials/explorer2/schwarzfit.vtf,349760,349760
+materials/explorer3/graudreckig.vmt,69,69
+materials/overviews/bhop_hive_openbeta.vmt,130,130
+materials/precision/grau1.vmt,96,96
+materials/precision/grau1.vtf,43896,43896
+materials/precision/grau2.vmt,96,96
+materials/precision/grau2.vtf,43896,43896
+materials/precision/grau3.vmt,96,96
+materials/precision/grau3.vtf,43896,43896
+materials/precision/hexa3.vmt,96,96
+materials/precision/hexa3.vtf,174968,174968
+resource/overviews/bhop_hive_openbeta.txt,569,569
+sound/hive/e.mp3,6185827,6185827
+sound/hive/p1.mp3,796244,796244
+sound/hive/p2.mp3,374908,374908
+sound/hive/badfeeling.wav,495660,495660
+sound/hive/energieschild 1 akt.wav,419884,419884
+sound/hive/energieschild 1 deak.wav,452652,452652
+sound/hive/energieschild 2 akt.wav,372780,372780
+sound/hive/energieschild 2 deak.wav,430124,430124
+sound/hive/freakin.wav,360032,360032
+sound/hive/help.wav,360492,360492
+sound/hive/keycard.wav,639020,639020
+sound/hive/kuehlturm 1.wav,403500,403500
+sound/hive/kuehlturm 2.wav,428076,428076
+sound/hive/kuehlturm 3.wav,428076,428076
+sound/hive/pls leave.wav,858156,858156
+sound/hive/plskeycard.wav,385068,385068
+sound/hive/powerarmor.wav,475180,475180
+sound/hive/reallybad.wav,630828,630828
+sound/hive/shutting down core.wav,282668,282668
+sound/hive/started security protocol.wav,401452,401452
+sound/hive/tooeasy.wav,307244,307244
+sound/hive/warning core overheats.wav,368684,368684
+sound/hive/watercold.wav,376876,376876

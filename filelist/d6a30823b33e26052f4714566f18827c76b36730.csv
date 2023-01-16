@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/surf_boost_b1/cubemapdefault.vtf,4952,4952
+materials/skybox/mpa121up.vmt,85,85
+materials/skybox/mpa121up.vtf,699272,699272
+materials/skybox/mpa121dn.vmt,85,85
+materials/skybox/mpa121dn.vtf,699272,699272
+materials/skybox/mpa121ft.vmt,85,85
+materials/skybox/mpa121ft.vtf,699272,699272
+materials/skybox/mpa121bk.vmt,85,85
+materials/skybox/mpa121bk.vtf,699272,699272
+materials/skybox/mpa121lf.vmt,85,85
+materials/skybox/mpa121lf.vtf,699272,699272
+materials/skybox/mpa121rt.vmt,85,85
+materials/skybox/mpa121rt.vtf,699272,699272
+sound/misc/ping.wav,24158,24158
+maps/soundcache/surf_boost_b1.cache,397843,397843

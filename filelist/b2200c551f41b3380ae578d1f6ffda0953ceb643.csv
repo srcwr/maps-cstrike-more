@@ -1,0 +1,76 @@
+filename,size,compressed
+materials/maps/gg_bandicoot_snow/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/gg_bandicoot_snow/cubemapdefault.vtf,9832,9832
+materials/maps/gg_bandicoot_snow/c-8_508_140.vtf,4968,4968
+materials/maps/gg_bandicoot_snow/c-328_20_140.vtf,4968,4968
+materials/maps/gg_bandicoot_snow/c436_8_140.vtf,4968,4968
+materials/maps/gg_bandicoot_snow/c240_-272_140.vtf,4968,4968
+materials/maps/gg_bandicoot_snow/c-192_-208_140.vtf,4968,4968
+materials/maps/gg_bandicoot_snow/c-24_-480_140.vtf,4968,4968
+materials/maps/gg_bandicoot_snow/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_bandicoot_snow/c-8_508_140.hdr.vtf,76528,76528
+materials/maps/gg_bandicoot_snow/c-328_20_140.hdr.vtf,76528,76528
+materials/maps/gg_bandicoot_snow/c436_8_140.hdr.vtf,76528,76528
+materials/maps/gg_bandicoot_snow/c240_-272_140.hdr.vtf,76528,76528
+materials/maps/gg_bandicoot_snow/c-192_-208_140.hdr.vtf,76528,76528
+materials/maps/gg_bandicoot_snow/c-24_-480_140.hdr.vtf,76528,76528
+materials/CRASH BANDICOOT/WOOD_CRATE_NORMAL.vmt,111,111
+materials/CRASH BANDICOOT/METAL_CRATE_NORMAL.vmt,107,107
+materials/CRASH BANDICOOT/WOOD_CRATE_ARMORED.vmt,112,112
+materials/CRASH BANDICOOT/METAL_CRATE_NORMALG.vmt,108,108
+materials/CRASH BANDICOOT/METAL_CRATE_G!.vmt,107,107
+sound/bandicoot/snow_go_snow_biz_cold_hard_crash.mp3,5634677,5634677
+maps/soundcache/gg_bandicoot_snow.cache,16,16
+resource/overviews/gg_bandicoot_snow.txt,327,327
+materials/overviews/gg_bandicoot_snow.vmt,151,151
+materials/overviews/gg_bandicoot_snow.vtf,1048784,1048784
+materials/Crash Bandicoot/item_crate_ak47.vmt,109,109
+materials/Crash Bandicoot/item_crate_ak47.vtf,43912,43912
+materials/Crash Bandicoot/item_crate_awp.vmt,108,108
+materials/Crash Bandicoot/item_crate_awp.vtf,43912,43912
+materials/Crash Bandicoot/item_crate_blank.vmt,110,110
+materials/Crash Bandicoot/item_crate_blank.vtf,87616,87616
+materials/Crash Bandicoot/item_crate_deagle.vmt,111,111
+materials/Crash Bandicoot/item_crate_deagle.vtf,43912,43912
+materials/Crash Bandicoot/item_crate_flashbang.vmt,114,114
+materials/Crash Bandicoot/item_crate_flashbang.vtf,43912,43912
+materials/Crash Bandicoot/item_crate_hegrenade.vmt,114,114
+materials/Crash Bandicoot/item_crate_hegrenade.vtf,43912,43912
+materials/Crash Bandicoot/item_crate_smoke.vmt,110,110
+materials/Crash Bandicoot/item_crate_smoke.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_!.vmt,102,102
+materials/Crash Bandicoot/metal_crate_!.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_g!.vmt,107,107
+materials/Crash Bandicoot/metal_crate_g!.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_normal.vmt,107,107
+materials/Crash Bandicoot/metal_crate_normal.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_normalg.vmt,108,108
+materials/Crash Bandicoot/metal_crate_normalg.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_q.vmt,102,102
+materials/Crash Bandicoot/metal_crate_q.vtf,87616,87616
+materials/Crash Bandicoot/nitro_explode_sprite.vmt,143,143
+materials/Crash Bandicoot/nitro_explode_sprite.vtf,4304,4304
+materials/Crash Bandicoot/wood_crate_armored.vmt,112,112
+materials/Crash Bandicoot/wood_crate_armored.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_arrowup.vmt,110,110
+materials/Crash Bandicoot/wood_crate_arrowup.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_check.vmt,110,110
+materials/Crash Bandicoot/wood_crate_check.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_jump.vmt,109,109
+materials/Crash Bandicoot/wood_crate_jump.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_life.vmt,109,109
+materials/Crash Bandicoot/wood_crate_life.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_mask.vmt,109,109
+materials/Crash Bandicoot/wood_crate_mask.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_nitro.vmt,110,110
+materials/Crash Bandicoot/wood_crate_nitro.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_nitro_top.vmt,114,114
+materials/Crash Bandicoot/wood_crate_nitro_top.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_normal.vmt,111,111
+materials/Crash Bandicoot/wood_crate_normal.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_q.vmt,106,106
+materials/Crash Bandicoot/wood_crate_q.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt.vmt,108,108
+materials/Crash Bandicoot/wood_crate_tnt.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt_top.vmt,112,112
+materials/Crash Bandicoot/wood_crate_tnt_top.vtf,87616,87616

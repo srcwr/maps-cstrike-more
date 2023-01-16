@@ -1,0 +1,44 @@
+filename,size,compressed
+materials/maps/bhop_danmark_lessgay/nature/water_canals_city_murky_dx70_depth_32.vmt,122,122
+materials/maps/bhop_danmark_lessgay/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_danmark_lessgay/c2096_2944_112.vtf,4960,4960
+materials/maps/bhop_danmark_lessgay/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_danmark_lessgay/c2096_2944_112.hdr.vtf,76528,76528
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/Tools/toolsnodraw.vtf,2936,2936
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_GROUND_2.vmt,120,120
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_ROCK_1.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_WALLWHITE_1.vmt,124,124
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_WALLRED_1.vmt,122,122
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_JUMPCOLOR_1.vmt,126,126
+materials/TOOLS/TOOLSINVISIBLE.vmt,304,304
+materials/Tools/toolsinvisible.vtf,5680,5680
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_FLOOR_1.vmt,122,122
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_FLOOR_OPACI_1.vmt,145,145
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/Tools/toolsskybox.vtf,11128,11128
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_JUMP_1.vmt,121,121
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_SPEAR_1.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_FLAGROPE_1.vmt,117,117
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_FLAG_1.vmt,113,113
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_FLAG_3.vmt,113,113
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/Tools/toolstrigger.vtf,5680,5680
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_NEXTLVL_1.vmt,116,116
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_FLAG_4.vmt,94,94
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_MAPBY_1.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_LVLSANDBONUS_1.vmt,121,121
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_SOLID_RED.vmt,97,97
+materials/HAMMER TEXTURES/BHOP_DENMARK/31_DENMARK_SOLID_WHITE.vmt,99,99
+materials/skybox/31_dkup.vmt,85,85
+materials/skybox/31_dkup.vtf,174984,174984
+materials/skybox/31_dkdn.vmt,85,85
+materials/skybox/31_dkdn.vtf,174984,174984
+materials/skybox/31_dkft.vmt,85,85
+materials/skybox/31_dkft.vtf,174984,174984
+materials/skybox/31_dkbk.vmt,85,85
+materials/skybox/31_dkbk.vtf,174984,174984
+materials/skybox/31_dklf.vmt,85,85
+materials/skybox/31_dklf.vtf,174984,174984
+materials/skybox/31_dkrt.vmt,85,85
+materials/skybox/31_dkrt.vtf,174984,174984

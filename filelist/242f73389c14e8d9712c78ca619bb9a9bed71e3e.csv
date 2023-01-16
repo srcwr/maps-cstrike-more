@@ -1,0 +1,103 @@
+filename,size,compressed
+materials/maps/mg_mario_kart_rainbow_v2/cubemapdefault.vtf,4960,4960
+materials/maps/mg_mario_kart_rainbow_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/MARIO KART/MARIO_RAINBOW_ROAD_TRANS.vmt,102,102
+materials/mario kart/mario_rainbow_road_trans.vtf,5592640,5592640
+materials/THW_MARIO/CLOUDGUY.vmt,109,109
+materials/THW_Mario/cloudguy.vtf,43872,43872
+materials/THW_MARIO/FLOOR1.vmt,89,89
+materials/THW_Mario/Floor1.vtf,11144,11144
+materials/PHOTOREALISTIC_ROAD/ROAD02_01.vmt,77,77
+materials/photorealistic_road/road02_01.vtf,349744,349744
+materials/BA_MARIO_MAP/MARIO_FLOOR_1.vmt,102,102
+materials/ba_mario_map/mario_floor_1.vtf,43912,43912
+materials/BA_MARIO_MAP/MARIO_PURPLE_BRICK.vmt,104,104
+materials/ba_mario_map/mario_purple_brick.vtf,22080,22080
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/Tools/toolsskybox.vtf,11128,11128
+materials/THW_MARIO/BLOCK1.vmt,88,88
+materials/THW_Mario/Block1.vtf,5696,5696
+materials/PHOTOREALISTIC_DOOR/DOOR001R.vmt,76,76
+materials/photorealistic_door/door001r.vtf,349744,349744
+materials/PHOTOREALISTIC_DOOR/DOOR001B.vmt,76,76
+materials/photorealistic_door/door001b.vtf,349744,349744
+materials/THW_MARIO/BLOCK2.vmt,88,88
+materials/THW_Mario/Block2.vtf,5696,5696
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/Tools/toolstrigger.vtf,5680,5680
+materials/MARIO KART/MARIO_STAR.vmt,88,88
+materials/mario kart/mario_star.vtf,1398336,1398336
+materials/CHARLITEXTURE/MARIO_SIGN_1.vmt,89,89
+materials/ZX2_CAR/1.vmt,121,121
+materials/zx2_car/1.vtf,87616,87616
+materials/ZX2_CAR/2.vmt,121,121
+materials/zx2_car/2.vtf,87616,87616
+materials/ZX2_CAR/3.vmt,121,121
+materials/zx2_car/3.vtf,87616,87616
+materials/ZX2_CAR/GO.vmt,122,122
+materials/zx2_car/go.vtf,87616,87616
+materials/CHARLITEXTURE/MARIO_FINNISH_LINE_1.vmt,97,97
+materials/CHARLITEXTURE/MARIO_SIGN_SCROLL_1.vmt,234,234
+materials/CharliTexture/mario_sign_scroll_1.vtf,22080,22080
+materials/MARIO KART/CHAIN_CHOMP_MARIO.vmt,95,95
+materials/mario kart/chain_chomp_mario.vtf,699232,699232
+materials/MARIO KART/BEGINNER.vmt,86,86
+materials/mario kart/beginner.vtf,22016,22016
+materials/MARIO KART/INTERMEDIATE.vmt,90,90
+materials/mario kart/intermediate.vtf,43904,43904
+materials/MARIO KART/EXPERT.vmt,84,84
+materials/mario kart/expert.vtf,22016,22016
+sound/charli_sound/fireball.wav,3746,3746
+materials/charlitexture/shell_sprite_1.vmt,137,137
+materials/CharliTexture/shell_sprite_1.vtf,22080,22080
+sound/charli_sound/defeat bowser.wav,267972,267972
+models/charli_propper/mario_car_7.mdl,5440,5440
+models/charli_propper/mario_car_7.dx80.vtx,18672,18672
+models/charli_propper/mario_car_7.dx90.vtx,18672,18672
+models/charli_propper/mario_car_7.sw.vtx,18672,18672
+models/charli_propper/mario_car_7.phy,27662,27662
+models/charli_propper/mario_car_7.vvd,90752,90752
+sound/charli_sound/i m warior.wav,481264,481264
+models/charli_propper/mario_car_6.mdl,5732,5732
+models/charli_propper/mario_car_6.dx80.vtx,18927,18927
+models/charli_propper/mario_car_6.dx90.vtx,18927,18927
+models/charli_propper/mario_car_6.sw.vtx,18927,18927
+models/charli_propper/mario_car_6.phy,28598,28598
+models/charli_propper/mario_car_6.vvd,91520,91520
+sound/charli_sound/moveout.wav,244888,244888
+models/charli_propper/mario_car_4.mdl,4936,4936
+models/charli_propper/mario_car_4.dx80.vtx,21042,21042
+models/charli_propper/mario_car_4.dx90.vtx,21042,21042
+models/charli_propper/mario_car_4.sw.vtx,21042,21042
+models/charli_propper/mario_car_4.phy,32534,32534
+models/charli_propper/mario_car_4.vvd,103424,103424
+sound/charli_sound/mama mia.wav,155276,155276
+sound/charli_sound/i m luigi.wav,473620,473620
+models/charli_propper/mario_car_5.mdl,4936,4936
+models/charli_propper/mario_car_5.dx80.vtx,21024,21024
+models/charli_propper/mario_car_5.dx90.vtx,21024,21024
+models/charli_propper/mario_car_5.sw.vtx,21024,21024
+models/charli_propper/mario_car_5.phy,32534,32534
+models/charli_propper/mario_car_5.vvd,103296,103296
+materials/charlitexture/mario_w_2.vmt,86,86
+materials/charlitexture/mario_k_2.vmt,86,86
+materials/charlitexture/mario_l_2.vmt,86,86
+materials/charlitexture/mario_m_2.vmt,86,86
+sound/charli_sound/coin.wav,36710,36710
+materials/charlitexture/whatblock_sprite_1.vmt,139,139
+materials/CharliTexture/WhatBlock_sprite_1.vtf,16672,16672
+sound/charli_sound/mk64_welcome.wav,222310,222310
+sound/mariosounds/star_road_song.mp3,4472919,4472919
+sound/charli_sound/c4_explode1.wav,1547672,1547672
+materials/skybox/GalaxyBk.vmt,89,89
+materials/skybox/GalaxyBk.vtf,699272,699272
+materials/skybox/GalaxyDn.vmt,89,89
+materials/skybox/GalaxyDn.vtf,699272,699272
+materials/skybox/GalaxyFt.vmt,89,89
+materials/skybox/GalaxyFt.vtf,699272,699272
+materials/skybox/GalaxyLf.vmt,89,89
+materials/skybox/GalaxyLf.vtf,699272,699272
+materials/skybox/GalaxyRt.vmt,89,89
+materials/skybox/GalaxyRt.vtf,699272,699272
+materials/skybox/GalaxyUp.vmt,89,89
+materials/skybox/GalaxyUp.vtf,699272,699272

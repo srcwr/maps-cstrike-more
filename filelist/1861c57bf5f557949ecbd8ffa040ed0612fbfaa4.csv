@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/sdk_shader_samples/tile/tilewall009b_-64_-48_80.vmt,134,134
+materials/maps/sdk_shader_samples/tile/tilewall009b_96_-48_80.vmt,133,133
+materials/maps/sdk_shader_samples/tile/tilewall009b_-64_48_80.vmt,133,133
+materials/maps/sdk_shader_samples/tile/tilewall009b_96_48_80.vmt,132,132
+materials/maps/sdk_shader_samples/cubemapdefault.vtf,9808,9808
+materials/maps/sdk_shader_samples/c-64_-48_80.vtf,9808,9808
+materials/maps/sdk_shader_samples/c96_-48_80.vtf,9808,9808
+materials/maps/sdk_shader_samples/c-64_48_80.vtf,9808,9808
+materials/maps/sdk_shader_samples/c96_48_80.vtf,9808,9808

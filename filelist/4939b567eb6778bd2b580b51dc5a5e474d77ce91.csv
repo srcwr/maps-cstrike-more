@@ -1,0 +1,37 @@
+filename,size,compressed
+materials/maps/mg_rh_last_rain_fix3/nature/blenddirtgrass001a_wvt_patch.vmt,306,306
+materials/maps/mg_rh_last_rain_fix3/nature/water_canals_city_murky_depth_11.vmt,117,117
+materials/maps/mg_rh_last_rain_fix3/cubemapdefault.vtf,9832,9832
+materials/maps/mg_rh_last_rain_fix3/cubemapdefault.hdr.vtf,76528,76528
+materials/overviews/mg_rh_last_rain_f.vmt,172,172
+materials/overviews/mg_rh_last_rain_f.vtf,1048656,1048656
+materials/overviews/mg_rh_last_rain__f_radar.vmt,180,180
+materials/overviews/mg_rh_last_rain__f_radar.vtf,1048656,1048656
+resource/overviews/mg_rh_last_rain_f.txt,228,228
+materials/models/player/hhp227/hulk/eyeballs.vmt,80,80
+materials/models/player/hhp227/hulk/eyeballs.vtf,22036,22036
+materials/models/player/hhp227/hulk/hair.vmt,129,129
+materials/models/player/hhp227/hulk/hair.vtf,174892,174892
+materials/models/player/hhp227/hulk/hulk.vmt,296,296
+materials/models/player/hhp227/hulk/hulk.vtf,1398292,1398292
+materials/models/player/hhp227/hulk/hulk_normal.vtf,1398292,1398292
+models/player/hhp227/hulk_monster/hulk.dx80.vtx,53317,53317
+models/player/hhp227/hulk_monster/hulk.dx90.vtx,53058,53058
+models/player/hhp227/hulk_monster/hulk.mdl,79276,79276
+models/player/hhp227/hulk_monster/hulk.phy,17154,17154
+models/player/hhp227/hulk_monster/hulk.sw.vtx,52866,52866
+models/player/hhp227/hulk_monster/hulk.vvd,178688,178688
+sound/hulk/dieselboy - invid (hulk vip).mp3,3652159,3652159
+sound/hulk/the clown song.mp3,3476198,3476198
+sound/hulk/hulk - joe durt.mp3,2095679,2095679
+sound/hulk/hulk - robotz yo (sluggo remix).mp3,5334027,5334027
+sound/hulk/hulk - run train.mp3,2424195,2424195
+sound/hulk/subvert - wiggle.mp3,4082657,4082657
+sound/hulk/datsik - firepower.mp3,1733308,1733308
+sound/hulk/skrillex - kill everybody.mp3,4805726,4805726
+sound/hulk/excision - shambhala edit.mp3,4800740,4800740
+sound/hulk/hulk_saying.wav,56112,56112
+maps/mg_rh_last_rain_f.txt,362,362
+materials/mytex/fi3ndmaps.vmt,149,149
+materials/mytex/fi3ndmaps.vtf,87500,87500
+materials/maps/mg_rh_last_rain_f/cubemapdefault.vtf,9832,9832

@@ -1,0 +1,33 @@
+filename,size,compressed
+materials/maps/bhop_dungeon/glass/glasswindow070c_1271_2940_138.vmt,135,135
+materials/maps/bhop_dungeon/effects/combineshield/comshieldwall2_1271_2940_138.vmt,173,173
+materials/maps/bhop_dungeon/metal/citadel_metalwall078a_1271_2940_138.vmt,141,141
+materials/maps/bhop_dungeon/concrete/concretefloor011a_c17_1271_2940_138.vmt,183,183
+materials/maps/bhop_dungeon/concrete/concretewall041d_1271_2940_138.vmt,139,139
+materials/maps/bhop_dungeon/concrete/concretefloor005a_1271_2940_138.vmt,140,140
+materials/maps/bhop_dungeon/cubemapdefault.vtf,4952,4952
+materials/maps/bhop_dungeon/c1271_2940_138.vtf,4952,4952
+materials/maps/bhop_dungeon/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/bhop_dungeon/c1271_2940_138.hdr.vtf,76520,76520
+materials/Custom Textures/ConcretePlates0004_1_S.vmt,139,139
+materials/Custom Textures/ConcretePlates0004_1_S.vtf,174984,174984
+materials/Custom Textures/FloorHerringbone0011_2_S.vmt,145,145
+materials/Custom Textures/FloorHerringbone0011_2_S.vtf,174984,174984
+materials/Custom Textures/Tiles_01_UV_H_CM_1.vmt,135,135
+materials/Custom Textures/Tiles_01_UV_H_CM_1.vtf,699272,699272
+materials/Custom Textures/Tiles_05_UV_M_CM_1.vmt,135,135
+materials/Custom Textures/Tiles_05_UV_M_CM_1.vtf,174984,174984
+materials/Custom Textures/watermark2.vmt,130,130
+materials/Custom Textures/watermark2.vtf,349688,349688
+materials/skybox/DreamworldNightbk.vmt,155,155
+materials/skybox/DreamworldNightbk.vtf,699272,699272
+materials/skybox/DreamworldNightdn.vmt,155,155
+materials/skybox/DreamworldNightdn.vtf,699272,699272
+materials/skybox/DreamworldNightft.vmt,155,155
+materials/skybox/DreamworldNightft.vtf,699272,699272
+materials/skybox/DreamworldNightlf.vmt,155,155
+materials/skybox/DreamworldNightlf.vtf,699272,699272
+materials/skybox/DreamworldNightrt.vmt,155,155
+materials/skybox/DreamworldNightrt.vtf,699272,699272
+materials/skybox/DreamworldNightup.vmt,155,155
+materials/skybox/DreamworldNightup.vtf,699272,699272

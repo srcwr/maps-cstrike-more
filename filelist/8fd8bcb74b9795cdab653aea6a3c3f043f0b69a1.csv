@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/nir_dust_fixedv2/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/nir_dust_fixedv2/wood/woodfloor007a_c17_0_0_0.vmt,171,171
+materials/maps/nir_dust_fixedv2/liquids/infernowater_depth_26.vmt,107,107
+materials/maps/nir_dust_fixedv2/cubemapdefault.vtf,9832,9832
+materials/maps/nir_dust_fixedv2/c0_0_0.vtf,9832,9832
+materials/maps/nir_dust_fixedv2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/nir_dust_fixedv2/c0_0_0.hdr.vtf,76528,76528
+maps/nir_dust_fixedv2.nav,220494,220494
+maps/soundcache/nir_dust_fixedv2.cache,16,16
+resource/overviews/nir_dust_fixedv2.txt,354,354
+materials/overviews/Nir_dust_fixedv2.vmt,147,147
+materials/overviews/Nir_dust_fixedv2.vtf,5592612,5592612

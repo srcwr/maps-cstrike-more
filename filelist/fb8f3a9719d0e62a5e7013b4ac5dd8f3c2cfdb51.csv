@@ -1,0 +1,47 @@
+filename,size,compressed
+materials/maps/bhop_dots/nature/water_canals_city_murky_dx70_depth_32.vmt,122,122
+materials/maps/bhop_dots/nature/water_canals_city_murky_dx70_depth_24.vmt,122,122
+materials/maps/bhop_dots/cubemapdefault.vtf,9824,9824
+materials/maps/bhop_dots/c128_-64_112.vtf,9824,9824
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_GROUND_2.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_WALL_BLACK.vmt,124,124
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_GROUND_1.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_WIERDSURFACE_RED.vmt,132,132
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_WIERDSURFACE_YELLOW.vmt,135,135
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_ARROW.vmt,110,110
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_JUMPBLOCK.vmt,119,119
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_GROUND_3.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_YELLOW.vmt,116,116
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_CYAN.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_GREEN.vmt,115,115
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_PINK.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_MAPBY.vmt,110,110
+maps/soundcache/bhop_dots.cache,16,16
+materials/hammer textures/bhop_wierdo/31_wierdo_arrow.vmt,110,110
+materials/hammer textures/bhop_wierdo/31_wierdo_arrow.vtf,87616,87616
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_cyan.vmt,114,114
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_cyan.vtf,349760,349760
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_green.vmt,115,115
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_green.vtf,349760,349760
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_pink.vmt,114,114
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_pink.vtf,349760,349760
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_red.vmt,113,113
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_red.vtf,349760,349760
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_yellow.vmt,116,116
+materials/hammer textures/bhop_wierdo/31_wierdo_dots_yellow.vtf,349760,349760
+materials/hammer textures/bhop_wierdo/31_wierdo_ground_1.vmt,118,118
+materials/hammer textures/bhop_wierdo/31_wierdo_ground_1.vtf,43912,43912
+materials/hammer textures/bhop_wierdo/31_wierdo_ground_2.vmt,118,118
+materials/hammer textures/bhop_wierdo/31_wierdo_ground_2.vtf,43912,43912
+materials/hammer textures/bhop_wierdo/31_wierdo_ground_3.vmt,118,118
+materials/hammer textures/bhop_wierdo/31_wierdo_ground_3.vtf,43912,43912
+materials/hammer textures/bhop_wierdo/31_wierdo_jumpblock.vmt,119,119
+materials/hammer textures/bhop_wierdo/31_wierdo_jumpblock.vtf,43912,43912
+materials/hammer textures/bhop_wierdo/31_wierdo_mapby.vmt,110,110
+materials/hammer textures/bhop_wierdo/31_wierdo_mapby.vtf,349760,349760
+materials/hammer textures/bhop_wierdo/31_wierdo_wall_black.vmt,124,124
+materials/hammer textures/bhop_wierdo/31_wierdo_wall_black.vtf,43912,43912
+materials/hammer textures/bhop_wierdo/31_wierdo_wierdsurface_red.vmt,132,132
+materials/hammer textures/bhop_wierdo/31_wierdo_wierdsurface_red.vtf,43912,43912
+materials/hammer textures/bhop_wierdo/31_wierdo_wierdsurface_yellow.vmt,135,135
+materials/hammer textures/bhop_wierdo/31_wierdo_wierdsurface_yellow.vtf,43912,43912

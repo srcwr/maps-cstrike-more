@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/ba_jb_snowdonia_final_beta/tile/tilewall007e_116_-540_-13.vmt,144,144
+materials/maps/ba_jb_snowdonia_final_beta/metal/metalwall048a_116_-540_-13.vmt,146,146
+materials/maps/ba_jb_snowdonia_final_beta/metal/metalceiling005a_116_-540_-13.vmt,149,149
+materials/maps/ba_jb_snowdonia_final_beta/tile/tilefloor018a_116_-540_-13.vmt,145,145
+materials/maps/ba_jb_snowdonia_final_beta/glass/unbreakable_116_-540_-13.vmt,144,144
+materials/maps/ba_jb_snowdonia_final_beta/tile/milflr002_116_-540_-13.vmt,141,141
+materials/maps/ba_jb_snowdonia_final_beta/tile/tilewall006a_116_-540_-13.vmt,144,144
+materials/maps/ba_jb_snowdonia_final_beta/tile/tilewall009d_116_-540_-13.vmt,144,144
+materials/maps/ba_jb_snowdonia_final_beta/de_nuke/nukwater_movingplane_dx70_depth_80.vmt,120,120
+materials/maps/ba_jb_snowdonia_final_beta/de_nuke/nukwater_movingplane_dx70_depth_136.vmt,121,121
+materials/maps/ba_jb_snowdonia_final_beta/nature/water_lowmurkref_dx70_depth_224.vmt,116,116
+materials/maps/ba_jb_snowdonia_final_beta/cubemapdefault.vtf,28753,28753
+materials/maps/ba_jb_snowdonia_final_beta/c116_-540_-13.vtf,28753,28753
+materials/maps/ba_jb_snowdonia_final_beta/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ba_jb_snowdonia_final_beta/c116_-540_-13.hdr.vtf,76528,76528

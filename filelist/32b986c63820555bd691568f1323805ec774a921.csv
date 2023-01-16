@@ -1,0 +1,238 @@
+filename,size,compressed
+materials/dafiel texturen/dafiel/dafiel_gelb.vmt,240,240
+materials/dafiel texturen/dafiel/dafiel_gelb.vtf,87640,87640
+materials/dafiel texturen/dafiel/dafiel_ssbump.vtf,349732,349732
+materials/dafiel texturen/glas/glas_1.vmt,252,252
+materials/dafiel texturen/glas/glas_1.vtf,87616,87616
+materials/dafiel texturen/glas/glas_10.vmt,254,254
+materials/dafiel texturen/glas/glas_10.vtf,87616,87616
+materials/dafiel texturen/glas/glas_3.vmt,252,252
+materials/dafiel texturen/glas/glas_3.vtf,87616,87616
+materials/dafiel texturen/lego/muster/blau_1.vmt,199,199
+materials/dafiel texturen/lego/muster/blau_1.vtf,349784,349784
+materials/dafiel texturen/lego/muster/rot_1.vmt,198,198
+materials/dafiel texturen/lego/muster/rot_1.vtf,349784,349784
+materials/dafiel texturen/lego/oben/blau.vmt,196,196
+materials/dafiel texturen/lego/oben/blau.vtf,349784,349784
+materials/dafiel texturen/lego/oben/gelb.vmt,194,194
+materials/dafiel texturen/lego/oben/gelb.vtf,349784,349784
+materials/dafiel texturen/lego/oben/grau.vmt,194,194
+materials/dafiel texturen/lego/oben/grau.vtf,349784,349784
+materials/dafiel texturen/lego/oben/rot.vmt,193,193
+materials/dafiel texturen/lego/oben/rot.vtf,349784,349784
+materials/dafiel texturen/lego/oben/weiss.vmt,195,195
+materials/dafiel texturen/lego/oben/weiss.vtf,349784,349784
+materials/dafiel texturen/lego/seite/blau.vmt,196,196
+materials/dafiel texturen/lego/seite/blau.vtf,349784,349784
+materials/dafiel texturen/lego/seite/gelb.vmt,196,196
+materials/dafiel texturen/lego/seite/gelb.vtf,349784,349784
+materials/dafiel texturen/lego/seite/grau.vmt,196,196
+materials/dafiel texturen/lego/seite/grau.vtf,349784,349784
+materials/dafiel texturen/lego/seite/rot.vmt,195,195
+materials/dafiel texturen/lego/seite/rot.vtf,349784,349784
+materials/dafiel texturen/lego/seite/weiss.vmt,197,197
+materials/dafiel texturen/lego/seite/weiss.vtf,349784,349784
+materials/dafiel texturen/lego/special/oben_ssbump.vtf,1398332,1398332
+materials/dafiel texturen/lego/special/seite_ssbump.vtf,1398332,1398332
+materials/dafiel texturen/lego/special/unten_ssbump.vtf,1398332,1398332
+materials/dafiel texturen/lego/unten/blau.vmt,196,196
+materials/dafiel texturen/lego/unten/blau.vtf,349784,349784
+materials/dafiel texturen/lego/unten/gelb.vmt,196,196
+materials/dafiel texturen/lego/unten/gelb.vtf,349784,349784
+materials/dafiel texturen/lego/unten/rot.vmt,195,195
+materials/dafiel texturen/lego/unten/rot.vtf,349784,349784
+materials/dafiel texturen/lego/unten/weiss.vmt,197,197
+materials/dafiel texturen/lego/unten/weiss.vtf,349784,349784
+materials/dafiel texturen/neon/weiss.vmt,168,168
+materials/dafiel texturen/neon/weiss.vtf,22076,22076
+materials/maps/gg_df_lego_haus_b/c-132_-4_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-132_-4_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-132_252_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-132_252_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-136_-256_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-136_-256_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-233_448_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-233_448_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-236_1_-191.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-236_1_-191.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-240_-452_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-240_-452_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-335_1_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-335_1_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-384_-129_-256.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-384_-129_-256.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-391_126_-256.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-391_126_-256.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-440_-136_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-440_-136_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-440_136_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-440_136_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-448_-276_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-448_-276_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-448_284_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-448_284_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-570_-129_-256.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-570_-129_-256.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-570_127_-256.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-570_127_-256.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-576_-372_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-576_-372_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c-584_356_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c-584_356_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c0_187_-248.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c0_187_-248.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c0_360_-312.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c0_360_-312.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c132_-256_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c132_-256_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c132_260_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c132_260_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c156_-4_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c156_-4_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c235_449_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c235_449_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c240_-1_-191.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c240_-1_-191.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c252_-448_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c252_-448_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c341_0_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c341_0_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c381_-127_-256.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c381_-127_-256.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c382_126_-256.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c382_126_-256.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c3_2_-192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c3_2_-192.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c439_130_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c439_130_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c441_-130_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c441_-130_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c444_-284_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c444_-284_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c452_272_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c452_272_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c4_-360_-312.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c4_-360_-312.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c4_-4_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c4_-4_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c4_-508_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c4_-508_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c4_516_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c4_516_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c573_-131_-256.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c573_-131_-256.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c575_132_-256.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c575_132_-256.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c576_-356_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c576_-356_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c580_368_-384.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c580_368_-384.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/c8_-169_-248.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/c8_-169_-248.vtf,4960,4960
+materials/maps/gg_df_lego_haus_b/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_haus_b/cubemapdefault.vtf,4960,4960
+materials/skybox/tooncastlebk.vmt,100,100
+materials/skybox/tooncastlebk.vtf,699272,699272
+materials/skybox/tooncastledn.vmt,100,100
+materials/skybox/tooncastledn.vtf,699272,699272
+materials/skybox/tooncastleft.vmt,100,100
+materials/skybox/tooncastleft.vtf,699272,699272
+materials/skybox/tooncastlelf.vmt,100,100
+materials/skybox/tooncastlelf.vtf,699272,699272
+materials/skybox/tooncastlert.vmt,100,100
+materials/skybox/tooncastlert.vtf,699272,699272
+materials/skybox/tooncastleup.vmt,100,100
+materials/skybox/tooncastleup.vtf,699272,699272
+materials/maps/gg_df_lego_haus/c382_126_-256.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c575_132_-256.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c573_-131_-256.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-391_126_-256.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-384_-129_-256.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-570_-129_-256.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-570_127_-256.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-236_1_-191.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c240_-1_-191.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c3_2_-192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c381_-127_-256.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c0_360_-312.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c0_187_-248.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c8_-169_-248.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c4_-360_-312.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c576_-356_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c4_-508_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c444_-284_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c132_-256_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c252_-448_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-136_-256_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-240_-452_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-448_-276_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-576_-372_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-132_-4_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-132_252_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c132_260_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c156_-4_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c4_-4_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-335_1_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c341_0_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-440_-136_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c441_-130_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-440_136_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c439_130_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-448_284_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c452_272_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c580_368_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-584_356_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c-233_448_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c235_449_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/c4_516_-384.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_haus/cubemapdefault.vtf,9832,9832
+materials/maps/gg_df_lego_haus/c382_126_-256.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c575_132_-256.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c573_-131_-256.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-391_126_-256.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-384_-129_-256.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-570_-129_-256.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-570_127_-256.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-236_1_-191.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c240_-1_-191.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c3_2_-192.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c381_-127_-256.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c0_360_-312.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c0_187_-248.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c8_-169_-248.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c4_-360_-312.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c576_-356_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c4_-508_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c444_-284_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c132_-256_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c252_-448_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-136_-256_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-240_-452_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-448_-276_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-576_-372_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-132_-4_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-132_252_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c132_260_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c156_-4_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c4_-4_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-335_1_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c341_0_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-440_-136_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c441_-130_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-440_136_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c439_130_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-448_284_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c452_272_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c580_368_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-584_356_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c-233_448_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c235_449_-384.vtf,4968,4968
+materials/maps/gg_df_lego_haus/c4_516_-384.vtf,4968,4968
+maps/gg_df_lego_haus.nav,31140,31140
+maps/gg_df_lego_haus.txt,90,90
+materials/overviews/gg_df_lego_haus.vmt,151,151
+materials/overviews/gg_df_lego_haus.vtf,4194512,4194512
+materials/overviews/gg_df_lego_haus_radar.vmt,157,157
+materials/overviews/gg_df_lego_haus_radar.vtf,4194528,4194528
+resource/overviews/gg_df_lego_haus.txt,165,165
+resource/overviews/gg_df_lego_haus_radar.txt,177,177

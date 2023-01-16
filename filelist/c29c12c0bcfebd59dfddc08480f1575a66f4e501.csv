@@ -1,0 +1,82 @@
+filename,size,compressed
+materials/maps/mg_blibs_mario_world_v2/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/mg_blibs_mario_world_v2/nature/water_lowdirty001_dx70_depth_13.vmt,116,116
+materials/maps/mg_blibs_mario_world_v2/nature/water_lowdirty001_dx70_depth_2966.vmt,118,118
+materials/maps/mg_blibs_mario_world_v2/nature/water_lowdirty001_dx70_depth_8.vmt,115,115
+materials/maps/mg_blibs_mario_world_v2/nature/water_lowdirty001_dx70_depth_35.vmt,116,116
+materials/maps/mg_blibs_mario_world_v2/nature/water_lowdirty001_dx70_depth_59.vmt,116,116
+materials/maps/mg_blibs_mario_world_v2/nature/water_lowdirty001_dx70_depth_150.vmt,117,117
+materials/maps/mg_blibs_mario_world_v2/cubemapdefault.vtf,28753,28753
+materials/maps/mg_blibs_mario_world_v2/cubemapdefault.hdr.vtf,76528,76528
+sound/Mariocore - Super Mario Bros. techno remix by DJ Chaos.mp3,3307783,3307783
+sound/Pendulum - Propane Nightmares (Official Video + Lyrics).mp3,5257145,5257145
+sound/Super Mario Theme Tune.mp3,3699411,3699411
+sound/YouTube - The Script - For The First Time with Lyrics.mp4.mp3,3953530,3953530
+materials/blibs textures/blib_banner1.vmt,124,124
+materials/blibs textures/blib_banner1.vtf,174984,174984
+materials/blibs textures/blib_end.vmt,120,120
+materials/blibs textures/blib_end.vtf,174984,174984
+materials/blibs textures/blib_scouts.vmt,123,123
+materials/blibs textures/blib_scouts.vtf,174984,174984
+materials/devneons/blue_dev_neon.vmt,107,107
+materials/devneons/blue_dev_neon.vtf,11144,11144
+materials/devneons/blue_neon.vmt,103,103
+materials/devneons/blue_neon.vtf,43912,43912
+materials/devneons/green_dev_neon.vmt,108,108
+materials/devneons/green_dev_neon.vtf,11144,11144
+materials/devneons/green_neon.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/devneons/grey_dev_neon.vmt,107,107
+materials/devneons/grey_dev_neon.vtf,11144,11144
+materials/devneons/grey_neon.vmt,103,103
+materials/devneons/grey_neon.vtf,43912,43912
+materials/devneons/orange_dev_neon.vmt,109,109
+materials/devneons/orange_dev_neon.vtf,11144,11144
+materials/devneons/orange_neon.vmt,105,105
+materials/devneons/orange_neon.vtf,43912,43912
+materials/devneons/pink_dev_neon.vmt,107,107
+materials/devneons/pink_dev_neon.vtf,11144,11144
+materials/devneons/pink_neon.vmt,103,103
+materials/devneons/pink_neon.vtf,43912,43912
+materials/devneons/purple_dev_neon.vmt,109,109
+materials/devneons/purple_dev_neon.vtf,11144,11144
+materials/devneons/purple_neon.vmt,105,105
+materials/devneons/purple_neon.vtf,43912,43912
+materials/devneons/red_dev_neon.vmt,106,106
+materials/devneons/red_dev_neon.vtf,11144,11144
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/devneons/white_dev_neon.vmt,108,108
+materials/devneons/white_dev_neon.vtf,11144,11144
+materials/devneons/white_neon.vmt,104,104
+materials/devneons/white_neon.vtf,43912,43912
+materials/devneons/yellow_dev_neon.vmt,109,109
+materials/devneons/yellow_dev_neon.vtf,11144,11144
+materials/devneons/yellow_neon.vmt,105,105
+materials/devneons/yellow_neon.vtf,43912,43912
+materials/SMB_Textures/SMB_BowserBrick.vmt,125,125
+materials/SMB_Textures/SMB_BowserBrick.vtf,43912,43912
+materials/SMB_Textures/SMB_BowserFloor.vmt,125,125
+materials/SMB_Textures/SMB_BowserFloor.vtf,43912,43912
+materials/SMB_Textures/SMB_Brick.vmt,119,119
+materials/SMB_Textures/SMB_Brick.vtf,43912,43912
+materials/SMB_Textures/SMB_DeadQuestionMark.vmt,130,130
+materials/SMB_Textures/SMB_DeadQuestionMark.vtf,43912,43912
+materials/SMB_Textures/SMB_GroundBlock.vmt,125,125
+materials/SMB_Textures/SMB_GroundBlock.vtf,43912,43912
+materials/SMB_Textures/SMB_GroundFloor.vmt,125,125
+materials/SMB_Textures/SMB_GroundFloor.vtf,43912,43912
+materials/SMB_Textures/SMB_QuestionMark.vmt,126,126
+materials/SMB_Textures/SMB_QuestionMark.vtf,43912,43912
+materials/SMB_Textures/SMB_TunnelBottom.vmt,126,126
+materials/SMB_Textures/SMB_TunnelBottom.vtf,43912,43912
+materials/SMB_Textures/SMB_TunnelTop.vmt,123,123
+materials/SMB_Textures/SMB_TunnelTop.vtf,43912,43912
+materials/SMB_Textures/SMB_UndergroundBlock.vmt,130,130
+materials/SMB_Textures/SMB_UndergroundBlock.vtf,43912,43912
+materials/SMB_Textures/SMB_UndergroundBrick.vmt,130,130
+materials/SMB_Textures/SMB_UndergroundBrick.vtf,43912,43912
+materials/SMB_Textures/SMB_UndergroundFloor.vmt,129,129
+materials/SMB_Textures/SMB_UndergroundFloor.vtf,43912,43912
+materials/SMB_Textures/SMB_UnderwaterFloor.vmt,129,129
+materials/SMB_Textures/SMB_UnderwaterFloor.vtf,43912,43912

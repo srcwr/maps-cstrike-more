@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/gg_yellow_shotty/cubemapdefault.vtf,9832,9832
+materials/maps/gg_yellow_shotty/cubemapdefault.hdr.vtf,76528,76528
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/Color/WHITE.vmt,62,62
+materials/Color/white.vtf,11144,11144
+materials/Color/white_illum.vmt,104,104
+materials/detail/detailsprites.vmt,135,135
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/LESS/B5.vmt,55,55
+materials/LESS/b5.vtf,349760,349760
+materials/LESS/A15.vmt,84,84
+materials/LESS/a15.vtf,11144,11144

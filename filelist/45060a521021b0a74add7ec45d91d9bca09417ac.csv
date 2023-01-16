@@ -1,0 +1,52 @@
+filename,size,compressed
+materials/maps/zm_goldstar_sv1/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/zm_goldstar_sv1/vbd/pack 2 remnont/remn_metalfloor1_0_0_0.vmt,144,144
+materials/maps/zm_goldstar_sv1/dev/dev_water2_depth_8.vmt,100,100
+materials/maps/zm_goldstar_sv1/de_nuke/nukwater_movingplane_dx70_depth_739.vmt,121,121
+materials/maps/zm_goldstar_sv1/liquids/militiawater_depth_774.vmt,108,108
+materials/maps/zm_goldstar_sv1/cubemapdefault.vtf,9832,9832
+materials/maps/zm_goldstar_sv1/c0_0_0.vtf,9832,9832
+materials/maps/zm_goldstar_sv1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_goldstar_sv1/c0_0_0.hdr.vtf,76528,76528
+materials/VBD/PACK 2 REMNONT/REMN_METALFLOOR3.vmt,328,328
+materials/DASMATZE/CONCRETE/ROAD.vmt,144,144
+materials/DasMatze/Concrete/Road.vtf,699272,699272
+materials/DasMatze/Concrete/AsphaltDetail.vtf,174984,174984
+materials/ICECREAMLOCK/LABWALL.vmt,99,99
+materials/icecreamlock/labwall.vtf,174984,174984
+materials/ICECREAMLOCK/KINDER.vmt,96,96
+materials/icecreamlock/kinder.vtf,174984,174984
+materials/ICECREAMLOCK/PAPERWALL.vmt,101,101
+materials/icecreamlock/paperwall.vtf,174984,174984
+materials/COLOUR/GLASS/LOLGLASS.vmt,116,116
+materials/colour/glass/lolglass.vtf,2952,2952
+materials/COLOUR/GLASS/REDGLASS.vmt,116,116
+materials/colour/glass/redglass.vtf,2952,2952
+materials/ICECREAMLOCK/LABDARK.vmt,97,97
+materials/icecreamlock/labdark.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/REMN_METALFLOOR1.vmt,328,328
+materials/VBD/PACK 2 REMNONT/REMN_WALL_SUP_CENTER2.vmt,338,338
+materials/COLOUR/METAL/TRAIN_METALCEILING_02_GREEN.vmt,88,88
+materials/colour/metal/train_metalceiling_02_green.vtf,349760,349760
+materials/WOOD BOX.vmt,84,84
+materials/GOLD/GOLD2.vmt,83,83
+materials/Gold/Gold2.vtf,349760,349760
+materials/BMTP3/ALAB1_FIREDOOR1A.vmt,140,140
+materials/BMTP3/alab1_firedoor1a.vtf,1398308,1398308
+materials/BMTP3/alab1_firedoor1a_normal.vtf,1398308,1398308
+materials/ICECREAMLOCK/SPACEWALL.vmt,99,99
+materials/icecreamlock/spacewall.vtf,174984,174984
+materials/BMTP3/ALAB1_PNL1.vmt,128,128
+materials/BMTP3/alab1_pnl1.vtf,174908,174908
+materials/BMTP3/alab1_pnl1_normal.vtf,174908,174908
+materials/VBD/PACK 2 REMNONT/REMN_WALL1.vmt,316,316
+materials/ICECREAMLOCK/METALFLOOR.vmt,105,105
+materials/icecreamlock/metalfloor.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/REMN_METAL_P9B.vmt,324,324
+maps/soundcache/zm_goldstar_sv1.cache,16,16
+materials/wood box.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metal_p9b.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall1.vtf,174984,174984

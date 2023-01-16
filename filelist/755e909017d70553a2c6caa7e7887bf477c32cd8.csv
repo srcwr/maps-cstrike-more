@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/breakwall/cubemapdefault.vtf,9824,9824
+materials/CENT/BREAKWALL/4.vmt,64,64
+materials/cent/breakwall/4.vtf,87600,87600
+materials/CENT/BREAKWALL/8.vmt,64,64
+materials/cent/breakwall/8.vtf,87600,87600
+materials/CENT/BREAKWALL/10.vmt,65,65
+materials/cent/breakwall/10.vtf,87600,87600
+materials/cent/breakwall/19.vmt,115,115
+materials/cent/breakwall/19.vtf,349824,349824
+materials/cent/breakfloor/cent1.vmt,119,119
+materials/cent/breakfloor/cent1.vtf,174944,174944
+maps/breakwall.nav,13598,13598
+maps/soundcache/breakwall.cache,16,16

@@ -1,0 +1,42 @@
+filename,size,compressed
+materials/maps/ba_jail_b37_v3/dev/dev_water2_173_-895_-183.vmt,153,153
+materials/maps/ba_jail_b37_v3/glass/glasswindowbreak070b_173_-895_-183.vmt,114,114
+materials/maps/ba_jail_b37_v3/glass/offwndwb_173_-895_-183.vmt,214,214
+materials/maps/ba_jail_b37_v3/props/rubberfloor009a_173_-895_-183.vmt,137,137
+materials/maps/ba_jail_b37_v3/tile/tilefloor012a_173_-895_-183.vmt,134,134
+materials/maps/ba_jail_b37_v3/tile/tilefloor018a_c17_173_-895_-183.vmt,177,177
+materials/maps/ba_jail_b37_v3/tile/tilefloor010a_173_-895_-183.vmt,134,134
+materials/maps/ba_jail_b37_v3/de_piranesi/marblefloor10_173_-895_-183.vmt,141,141
+materials/maps/ba_jail_b37_v3/de_piranesi/woodfloor01_173_-895_-183.vmt,139,139
+materials/maps/ba_jail_b37_v3/de_piranesi/marblefloor13_173_-895_-183.vmt,141,141
+materials/maps/ba_jail_b37_v3/de_piranesi/woodfloor02_173_-895_-183.vmt,139,139
+materials/maps/ba_jail_b37_v3/glass/combineglass001a_173_-895_-183.vmt,138,138
+materials/maps/ba_jail_b37_v3/metal/citadel_metalwall078a_173_-895_-183.vmt,143,143
+materials/maps/ba_jail_b37_v3/wood/woodfloor007a_c17_173_-895_-183.vmt,177,177
+materials/maps/ba_jail_b37_v3/metal/metalwall001a_173_-895_-183.vmt,135,135
+materials/maps/ba_jail_b37_v3/maps/ba_jail_b37_v3/dev/dev_water2_173_-895_-183_depth_31.vmt,135,135
+materials/maps/ba_jail_b37_v3/maps/ba_jail_b37_v3/dev/dev_water2_173_-895_-183_depth_39.vmt,135,135
+materials/maps/ba_jail_b37_v3/maps/ba_jail_b37_v3/dev/dev_water2_173_-895_-183_depth_23.vmt,135,135
+materials/maps/ba_jail_b37_v3/maps/ba_jail_b37_v3/dev/dev_water2_173_-895_-183_depth_24.vmt,135,135
+materials/maps/ba_jail_b37_v3/maps/ba_jail_b37_v3/dev/dev_water2_173_-895_-183_depth_55.vmt,135,135
+materials/maps/ba_jail_b37_v3/maps/ba_jail_b37_v3/dev/dev_water2_173_-895_-183_depth_4.vmt,134,134
+materials/maps/ba_jail_b37_v3/de_nuke/nukwater_movingplane_beneath_depth_195.vmt,124,124
+materials/maps/ba_jail_b37_v3/maps/ba_jail_b37_v3/dev/dev_water2_173_-895_-183_depth_7.vmt,134,134
+materials/maps/ba_jail_b37_v3/maps/ba_jail_b37_v3/dev/dev_water2_173_-895_-183_depth_-1201.vmt,138,138
+materials/maps/ba_jail_b37_v3/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_b37_v3/c173_-895_-183.vtf,9824,9824
+materials/maps/ba_jail_b37_v3/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/ba_jail_b37_v3/c173_-895_-183.hdr.vtf,76520,76520
+materials/decals/b37clan.vmt,109,109
+materials/decals/b37clan.vtf,174944,174944
+materials/scary/evildeadguy.vmt,98,98
+materials/scary/evildeadguy.vtf,174968,174968
+materials/scary/grudgeboy.vmt,96,96
+materials/scary/grudgeboy.vtf,174968,174968
+materials/scary/jigsaw.vmt,93,93
+materials/scary/jigsaw.vtf,174968,174968
+sound/My Sounds/10000 fists.mp3,1857854,1857854
+sound/My Sounds/Cha Cha Slide.mp3,3071817,3071817
+sound/My Sounds/Im on a boat.mp3,8775858,8775858
+sound/My Sounds/Victory.mp3,84080,84080
+sound/My Sounds/Victory.wav,219500,219500

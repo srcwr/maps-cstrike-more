@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/ba_jail_spec_original/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/ba_jail_spec_original/metal/metalroof008a_c17_0_0_0.vmt,177,177
+materials/maps/ba_jail_spec_original/metal/citadel_metalwall078a_0_0_0.vmt,142,142
+materials/maps/ba_jail_spec_original/de_nuke/nukwater_movingplane_dx70_depth_98.vmt,120,120
+materials/maps/ba_jail_spec_original/cubemapdefault.vtf,9832,9832
+materials/maps/ba_jail_spec_original/c0_0_0.vtf,9832,9832
+materials/maps/ba_jail_spec_original/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ba_jail_spec_original/c0_0_0.hdr.vtf,76528,76528
+sound/ambient/ministry.mp3,4086805,4086805
+sound/ambient/memories.mp3,3331553,3331553
+sound/ambient/laibach.mp3,3187775,3187775
+maps/soundcache/ba_jail_spec_original.cache,16,16

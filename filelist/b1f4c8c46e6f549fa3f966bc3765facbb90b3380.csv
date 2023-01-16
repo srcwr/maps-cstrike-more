@@ -1,0 +1,150 @@
+filename,size,compressed
+materials/maps/zm_wts_base_v1/metal/citadel_metalwall076a_-1754_2_57.vmt,140,140
+materials/maps/zm_wts_base_v1/metal/citadel_metalwall076a_2265_-14_50.vmt,141,141
+materials/maps/zm_wts_base_v1/metal/citadel_metalwall076a_264_-1_512.vmt,140,140
+materials/maps/zm_wts_base_v1/metal/citadel_metalwall076a_-849_1727_657.vmt,143,143
+materials/maps/zm_wts_base_v1/metal/citadel_metalwall076a_7_1706_691.vmt,140,140
+materials/maps/zm_wts_base_v1/metal/citadel_metalwall076a_661_1696_758.vmt,142,142
+materials/maps/zm_wts_base_v1/glass/combineglass001a_264_-1_512.vmt,135,135
+materials/maps/zm_wts_base_v1/glass/combineglass001a_256_0_1040.vmt,135,135
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_-1754_2_57.vmt,139,139
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_2265_-14_50.vmt,140,140
+materials/maps/zm_wts_base_v1/glass/combineglass001a_272_1_2368.vmt,135,135
+materials/maps/zm_wts_base_v1/glass/combineglass001a_2172_-9_960.vmt,136,136
+materials/maps/zm_wts_base_v1/glass/combineglass001a_261_685_1935.vmt,137,137
+materials/maps/zm_wts_base_v1/glass/combineglass001a_-1857_2001_640.vmt,139,139
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_261_685_1935.vmt,141,141
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_272_1_2368.vmt,139,139
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_256_0_1040.vmt,139,139
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_264_-1_512.vmt,139,139
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_7_1706_691.vmt,139,139
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_661_1696_758.vmt,141,141
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_-1632_10_960.vmt,141,141
+materials/maps/zm_wts_base_v1/concrete/concretefloor033a_2172_-9_960.vmt,140,140
+materials/maps/zm_wts_base_v1/glass/combineglass001a_-1754_2_57.vmt,135,135
+materials/maps/zm_wts_base_v1/glass/combineglass001a_-1220_1736_667.vmt,139,139
+materials/maps/zm_wts_base_v1/effects/combineshield/comshieldwall3_264_-1_512.vmt,172,172
+materials/maps/zm_wts_base_v1/effects/combineshield/comshieldwall3_2265_-14_50.vmt,173,173
+materials/maps/zm_wts_base_v1/effects/combineshield/comshieldwall3_661_1696_758.vmt,174,174
+materials/maps/zm_wts_base_v1/effects/combineshield/comshieldwall3_-1754_2_57.vmt,172,172
+materials/maps/zm_wts_base_v1/effects/combineshield/comshieldwall3_-849_1727_657.vmt,175,175
+materials/maps/zm_wts_base_v1/effects/combineshield/comshieldwall3_7_1706_691.vmt,172,172
+materials/maps/zm_wts_base_v1/cubemapdefault.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c-1754_2_57.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c2265_-14_50.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c264_-1_512.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c-849_1727_657.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c7_1706_691.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c661_1696_758.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c256_0_1040.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c272_1_2368.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c2172_-9_960.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c261_685_1935.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c-1857_2001_640.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c-1632_10_960.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c-1220_1736_667.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c269_720_2051.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c2370_1989_641.vtf,4960,4960
+materials/maps/zm_wts_base_v1/c190_1988_601.vtf,4960,4960
+materials/maps/zm_wts_base_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c-1754_2_57.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c2265_-14_50.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c264_-1_512.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c-849_1727_657.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c7_1706_691.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c661_1696_758.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c256_0_1040.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c272_1_2368.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c2172_-9_960.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c261_685_1935.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c-1857_2001_640.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c-1632_10_960.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c-1220_1736_667.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c269_720_2051.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c2370_1989_641.hdr.vtf,76528,76528
+materials/maps/zm_wts_base_v1/c190_1988_601.hdr.vtf,76528,76528
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/sound/forafewdollarsmore.mp3,15726277,15726277
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/egypt/block02a.vmt,62,62
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/egypt/block02a.vtf,43912,43912
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/egypt/solidgrate1b.vmt,66,66
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/egypt/solidgrate1b.vtf,11144,11144
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/egypt/stone01c.vmt,62,62
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/egypt/stone01c.vtf,43912,43912
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/egypt/stone01d.vmt,62,62
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/egypt/stone01d.vtf,43912,43912
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57bk.vmt,84,84
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57bk.vtf,699272,699272
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57dn.vmt,84,84
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57dn.vtf,699272,699272
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57ft.vmt,84,84
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57ft.vtf,699272,699272
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57lf.vmt,84,84
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57lf.vtf,699272,699272
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57rt.vmt,84,84
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57rt.vtf,699272,699272
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57up.vmt,84,84
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/skybox/mpa57up.vtf,699272,699272
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/signatureprophet.vmt,70,70
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/signatureprophet.vtf,87544,87544
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telcentre.vmt,63,63
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telcentre.vtf,349688,349688
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telcentreplanque.vmt,70,70
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telcentreplanque.vtf,174984,174984
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/teldessus.vmt,63,63
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/teldessus.vtf,349688,349688
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telplblueu.vmt,64,64
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telplblueu.vtf,349688,349688
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telplred.vmt,62,62
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telplred.vtf,349688,349688
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telsalletel1.vmt,66,66
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telsalletel1.vtf,174984,174984
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telsalletel2.vmt,66,66
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telsalletel2.vtf,174984,174984
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telsoutplanque.vmt,68,68
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telsoutplanque.vtf,174984,174984
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telspawnct.vmt,64,64
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telspawnct.vtf,349688,349688
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telspawnterro.vmt,67,67
+c:/program files (x86)/steam/steamapps/thedamkek/counter-strike source/cstrike/materials/zmwst/telspawnterro.vtf,349688,349688
+materials/egypt/block02a.vmt,62,62
+materials/egypt/block02a.vtf,43912,43912
+materials/egypt/solidgrate1b.vmt,66,66
+materials/egypt/solidgrate1b.vtf,11144,11144
+materials/egypt/stone01c.vmt,62,62
+materials/egypt/stone01c.vtf,43912,43912
+materials/egypt/stone01d.vmt,62,62
+materials/egypt/stone01d.vtf,43912,43912
+materials/skybox/mpa57bk.vmt,84,84
+materials/skybox/mpa57bk.vtf,699272,699272
+materials/skybox/mpa57dn.vmt,84,84
+materials/skybox/mpa57dn.vtf,699272,699272
+materials/skybox/mpa57ft.vmt,84,84
+materials/skybox/mpa57ft.vtf,699272,699272
+materials/skybox/mpa57lf.vmt,84,84
+materials/skybox/mpa57lf.vtf,699272,699272
+materials/skybox/mpa57rt.vmt,84,84
+materials/skybox/mpa57rt.vtf,699272,699272
+materials/skybox/mpa57up.vmt,84,84
+materials/skybox/mpa57up.vtf,699272,699272
+materials/zmwst/signatureprophet.vmt,70,70
+materials/zmwst/signatureprophet.vtf,87544,87544
+materials/zmwst/telcentre.vmt,63,63
+materials/zmwst/telcentre.vtf,349688,349688
+materials/zmwst/telcentreplanque.vmt,70,70
+materials/zmwst/telcentreplanque.vtf,174984,174984
+materials/zmwst/teldessus.vmt,63,63
+materials/zmwst/teldessus.vtf,349688,349688
+materials/zmwst/telplblueu.vmt,64,64
+materials/zmwst/telplblueu.vtf,349688,349688
+materials/zmwst/telplred.vmt,62,62
+materials/zmwst/telplred.vtf,349688,349688
+materials/zmwst/telsalletel1.vmt,66,66
+materials/zmwst/telsalletel1.vtf,174984,174984
+materials/zmwst/telsalletel2.vmt,66,66
+materials/zmwst/telsalletel2.vtf,174984,174984
+materials/zmwst/telsoutplanque.vmt,68,68
+materials/zmwst/telsoutplanque.vtf,174984,174984
+materials/zmwst/telspawnct.vmt,64,64
+materials/zmwst/telspawnct.vtf,349688,349688
+materials/zmwst/telspawnterro.vmt,67,67
+materials/zmwst/telspawnterro.vtf,349688,349688

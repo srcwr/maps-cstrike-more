@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/de_strike2_b2/dev/dev_water2_2303_1847_201.vmt,152,152
+materials/maps/de_strike2_b2/cs_italy/cobble03_2303_1847_201.vmt,132,132
+materials/maps/de_strike2_b2/brick/infwndwb_2303_1847_201.vmt,129,129
+materials/maps/de_strike2_b2/brick/infwndwb_off_2303_1847_201.vmt,133,133
+materials/maps/de_strike2_b2/brick/infwndwc_off_2303_1847_201.vmt,133,133
+materials/maps/de_strike2_b2/plaster/infwndwa_off_2303_1847_201.vmt,135,135
+materials/maps/de_strike2_b2/plaster/infwndwa_2303_1847_201.vmt,131,131
+materials/maps/de_strike2_b2/brick/infwndwa_off_2303_1847_201.vmt,133,133
+materials/maps/de_strike2_b2/plaster/infwndwb_2303_1847_201.vmt,131,131
+materials/maps/de_strike2_b2/cs_italy/cobble04_2303_1847_201.vmt,132,132
+materials/maps/de_strike2_b2/stone/infwindwa_2303_1847_201.vmt,130,130
+materials/maps/de_strike2_b2/de_piranesi/marblefloor04_2303_1847_201.vmt,140,140
+materials/maps/de_strike2_b2/plaster/infwndwg_2303_1847_201.vmt,131,131
+materials/maps/de_strike2_b2/tile/tilefloor009a_2303_1847_201.vmt,133,133
+materials/maps/de_strike2_b2/plaster/infintwndwa_2303_1847_201.vmt,134,134
+materials/maps/de_strike2_b2/glass/glasswindow010b_2303_1847_201.vmt,136,136
+materials/maps/de_strike2_b2/maps/de_strike2_b2/dev/dev_water2_2303_1847_201_depth_32.vmt,134,134
+materials/maps/de_strike2_b2/cubemapdefault.vtf,9824,9824
+materials/maps/de_strike2_b2/c2303_1847_201.vtf,4952,4952
+materials/maps/de_strike2_b2/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/de_strike2_b2/c2303_1847_201.hdr.vtf,76520,76520
+materials/DE_STRIKE/STRIKE_CRATE.vmt,100,100
+materials/de_strike/strike_crate.vtf,174984,174984
+materials/DE_CPL_STRIKE/STONEWALL006.vmt,123,123
+materials/de_cpl_strike/stonewall006.vtf,1048783,1048783
+materials/DE_CPL_STRIKE/STONEWALL017.vmt,123,123
+materials/de_cpl_strike/stonewall017.vtf,524433,524433
+maps/soundcache/de_strike2_b2.cache,16,16
+resource/overviews/de_strike2_b2.txt,326,326
+materials/overviews/de_strike2_b2.vmt,125,125
+materials/overviews/de_strike2_b2.vtf,1398336,1398336
+D:/Program Files/Steam/steamapps/sheligalo/counter-strike source/cstrike/maps/de_strike2_b2.nav,738034,738034
+D:/Program Files/Steam/steamapps/sheligalo/counter-strike source/cstrike/maps/de_strike2_b2.txt,141,141
+maps/de_strike2_b2.nav,738034,738034
+maps/de_strike2_b2.txt,141,141

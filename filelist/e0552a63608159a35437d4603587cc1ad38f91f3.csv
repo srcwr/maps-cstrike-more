@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/fy_icecave/cubemapdefault.vtf,9824,9824
+materials/ICECAVE/SNOW_ICE_03.vmt,88,88
+materials/icecave/snow_ice_03.vtf,174984,174984
+materials/ICECAVE/BLEND_SNOWICE02.vmt,217,217
+materials/icecave/snow_ice_02.vtf,174984,174984
+materials/ICECAVE/SNOW_ICE_02.vmt,146,146
+materials/ICECAVE/SELFLIT_ICE.vmt,163,163
+materials/icecave/selflit_ice.vtf,349760,349760
+maps/fy_icecave.nav,217348,217348
+maps/soundcache/fy_icecave.cache,16,16
+resource/overviews/fy_icecave.txt,339,339
+materials/overviews/fy_icecave.vmt,137,137
+materials/overviews/fy_icecave.vtf,1398336,1398336

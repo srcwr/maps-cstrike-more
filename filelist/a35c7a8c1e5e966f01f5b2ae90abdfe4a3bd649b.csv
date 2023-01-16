@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/gg_aa/cubemapdefault.vtf,9824,9824
+materials/skybox/halo_ringup.vmt,87,87
+materials/skybox/halo_ringup.vtf,1398336,1398336
+materials/skybox/halo_ringdn.vmt,87,87
+materials/skybox/halo_ringdn.vtf,1398336,1398336
+materials/skybox/halo_ringft.vmt,87,87
+materials/skybox/halo_ringft.vtf,1398336,1398336
+materials/skybox/halo_ringbk.vmt,87,87
+materials/skybox/halo_ringbk.vtf,1398336,1398336
+materials/skybox/halo_ringlf.vmt,87,87
+materials/skybox/halo_ringlf.vtf,1398336,1398336
+materials/skybox/halo_ringrt.vmt,87,87
+materials/skybox/halo_ringrt.vtf,1398336,1398336
+maps/soundcache/gg_aa.cache,16,16
+materials/icecreamlock/darkglass.vmt,117,117
+materials/icecreamlock/darkglass.vtf,2952,2952

@@ -1,0 +1,53 @@
+filename,size,compressed
+materials/maps/mg_ig_ace/gecko/geckometal3_0_0_0.vmt,120,120
+materials/maps/mg_ig_ace/gecko/geckowall1_0_0_0.vmt,119,119
+materials/maps/mg_ig_ace/cubemapdefault.vtf,28753,28753
+materials/maps/mg_ig_ace/c0_0_0.vtf,28753,28753
+materials/maps/mg_ig_ace/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_ig_ace/c0_0_0.hdr.vtf,76528,76528
+materials/GECKO/GECKOMETAL3.vmt,206,206
+materials/gecko/geckometal3.vtf,1398308,1398308
+materials/gecko/normals/geckometal3_NRM.vtf,1048783,1048783
+materials/gecko/grayscales/geckometal3_SPEC.vtf,1398308,1398308
+materials/COLOR/BLACK.vmt,62,62
+materials/color/black.vtf,11144,11144
+materials/GECKO/GECKOWALL1.vmt,205,205
+materials/gecko/geckowall1.vtf,1398308,1398308
+materials/gecko/normals/geckowall1_NRM.vtf,1048783,1048783
+materials/gecko/grayscales/geckowall1_SPEC.vtf,1398308,1398308
+materials/GECKO/GECKO_AQUA.vmt,203,203
+materials/gecko/gecko_aqua.vtf,1398308,1398308
+materials/gecko/normals/gecko_aqua_NRM.vtf,1048783,1048783
+materials/gecko/grayscales/gecko_aqua_SPEC.vtf,1398308,1398308
+materials/GECKO/GECKO_WALL2.vmt,206,206
+materials/gecko/gecko_wall2.vtf,1398308,1398308
+materials/gecko/normals/gecko_wall2_NRM.vtf,1048783,1048783
+materials/gecko/grayscales/gecko_wall2_SPEC.vtf,1398308,1398308
+materials/GECKO/GECKO_TECH1.vmt,206,206
+materials/gecko/gecko_tech1.vtf,1398308,1398308
+materials/gecko/normals/gecko_tech1_NRM.vtf,1048783,1048783
+materials/gecko/grayscales/gecko_tech1_SPEC.vtf,1398308,1398308
+materials/DECALS/CUSTOM/WMP1.vmt,70,70
+materials/decals/custom/wmp1.vtf,699272,699272
+materials/DECALS/CUSTOM/WMP2.vmt,70,70
+materials/decals/custom/wmp2.vtf,699272,699272
+materials/DECALS/CUSTOM/WMP3.vmt,70,70
+materials/decals/custom/wmp3.vtf,699272,699272
+materials/DECALS/CUSTOM/WMP4.vmt,70,70
+materials/decals/custom/wmp4.vtf,699272,699272
+sound/hudba2/crazytown - butterfly.mp3,1271154,1271154
+sound/hudba2/02 - breathe.mp3,1948254,1948254
+sound/hudba2/steriogram- walkie talkie man.mp3,2215688,2215688
+sound/hudba2/canttouchthis.mp3,645355,645355
+sound/hudba2/eminem - just lose it.mp3,1939839,1939839
+maps/soundcache/mg_ig_ace.cache,16,16
+materials/you tube banner.vmt,107,107
+materials/you tube banner.vtf,349732,349732
+materials/Color/dark pink.vmt,66,66
+materials/Color/dark pink.vtf,11144,11144
+materials/Color/pink orange.vmt,68,68
+materials/Color/pink orange.vtf,11144,11144
+materials/Color/psychedelic purple.vmt,75,75
+materials/Color/psychedelic purple.vtf,11144,11144
+materials/Color/shocking pink.vmt,70,70
+materials/Color/shocking pink.vtf,11144,11144

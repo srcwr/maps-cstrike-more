@@ -1,0 +1,25 @@
+filename,size,compressed
+materials/maps/surf_test11/metal/citadel_tilefloor016a_0_0_0.vmt,132,132
+materials/maps/surf_test11/nature/water_coast01_0_0_0.vmt,148,148
+materials/maps/surf_test11/nature/water_coast01_depth_8.vmt,106,106
+materials/maps/surf_test11/nature/water_coast01_depth_16.vmt,107,107
+materials/maps/surf_test11/nature/water_coast01_depth_4.vmt,106,106
+materials/maps/surf_test11/cubemapdefault.vtf,28753,28753
+materials/maps/surf_test11/c0_0_0.vtf,28753,28753
+materials/maps/surf_test11/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_test11/c0_0_0.hdr.vtf,76528,76528
+materials/mytexture/es1.vmt,82,82
+materials/mytexture/es1.vtf,174984,174984
+materials/mytexture/surf_jail.vmt,88,88
+materials/mytexture/surf_jail.vtf,349760,349760
+materials/mytexture/surf_spawn.vmt,89,89
+materials/mytexture/surf_spawn.vtf,349760,349760
+materials/mytexture/surf_speed.vmt,89,89
+materials/mytexture/surf_speed.vtf,349760,349760
+materials/mytexture/surf_top.vmt,87,87
+materials/mytexture/surf_top.vtf,349760,349760
+materials/mytexture/zeizei.vmt,85,85
+materials/mytexture/zeizei.vtf,349760,349760
+materials/decals/ukcs/poster0085.vmt,146,146
+materials/decals/ukcs/poster0085.vtf,349760,349760
+sound/munmusa/2pm - Tetris.mp3,4376966,4376966

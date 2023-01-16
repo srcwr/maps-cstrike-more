@@ -1,0 +1,29 @@
+filename,size,compressed
+materials/maps/sound_test/glass/combineglass001a_-63_209_104.vmt,132,132
+materials/maps/sound_test/de_chateau/floor02_-64_0_76.vmt,125,125
+materials/maps/sound_test/de_dust/tilefloor02_0_-352_76.vmt,127,127
+materials/maps/sound_test/metal/metalwall076a_-63_209_104.vmt,129,129
+materials/maps/sound_test/metal/metalwall076a_-64_0_76.vmt,126,126
+materials/maps/sound_test/metal/metalwall076a_0_-352_76.vmt,127,127
+materials/maps/sound_test/glass/combineglass001a_-64_0_76.vmt,129,129
+materials/maps/sound_test/cubemapdefault.vtf,28753,28753
+materials/maps/sound_test/c-63_209_104.vtf,28753,28753
+materials/maps/sound_test/c-64_0_76.vtf,28753,28753
+materials/maps/sound_test/c0_-352_76.vtf,28753,28753
+materials/maps/sound_test/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/sound_test/c-63_209_104.hdr.vtf,76528,76528
+materials/maps/sound_test/c-64_0_76.hdr.vtf,76528,76528
+materials/maps/sound_test/c0_-352_76.hdr.vtf,76528,76528
+materials/maps/sgt_peppers/vinyl_texture.vmt,107,107
+materials/maps/sgt_peppers/vinyl_texture.vtf,174984,174984
+materials/maps/sgt_peppers/pepper_back.vmt,106,106
+materials/maps/sgt_peppers/pepper_back.vtf,43912,43912
+materials/maps/sgt_peppers/pepper_cover.vmt,107,107
+materials/maps/sgt_peppers/pepper_cover.vtf,174984,174984
+sound/sgt peppers/sgt_right.mp3,2910248,2910248
+sound/sgt peppers/sgt_left.mp3,2910248,2910248
+maps/soundcache/sound_test.cache,16,16
+materials/maps/sgt_peppers/c-64_0_76.vtf,76648,76648
+materials/maps/sgt_peppers/c0_-352_76.vtf,4968,4968
+materials/maps/sgt_peppers/c-63_209_104.vtf,76648,76648
+materials/maps/sgt_peppers/cubemapdefault.vtf,9832,9832

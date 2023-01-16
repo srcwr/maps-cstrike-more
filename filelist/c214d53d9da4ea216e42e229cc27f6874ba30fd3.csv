@@ -1,0 +1,43 @@
+filename,size,compressed
+materials/maps/ze_gods_wrath_v5/nature/blendcliffgrass001a_wvt_patch.vmt,307,307
+materials/maps/ze_gods_wrath_v5/tile/tilefloor020a_0_0_0.vmt,128,128
+materials/maps/ze_gods_wrath_v5/tile/tilefloor016a_0_0_0.vmt,128,128
+materials/maps/ze_gods_wrath_v5/tile/tilefloor010a_0_0_0.vmt,128,128
+materials/maps/ze_gods_wrath_v5/perftest/water_pretty1_depth_592.vmt,110,110
+materials/maps/ze_gods_wrath_v5/perftest/water_pretty1_depth_480.vmt,110,110
+materials/maps/ze_gods_wrath_v5/perftest/water_pretty1_depth_120.vmt,110,110
+materials/maps/ze_gods_wrath_v5/perftest/water_pretty1_depth_434.vmt,110,110
+materials/maps/ze_gods_wrath_v5/liquids/water_pretty1_depth_112.vmt,109,109
+materials/maps/ze_gods_wrath_v5/perftest/water_pretty1_depth_112.vmt,110,110
+materials/maps/ze_gods_wrath_v5/dev/dev_water2_depth_32.vmt,101,101
+materials/maps/ze_gods_wrath_v5/dev/dev_water2_depth_424.vmt,102,102
+materials/maps/ze_gods_wrath_v5/perftest/water_pretty1_depth_288.vmt,110,110
+materials/maps/ze_gods_wrath_v5/perftest/water_pretty1_depth_32.vmt,109,109
+materials/maps/ze_gods_wrath_v5/cubemapdefault.vtf,4960,4960
+materials/maps/ze_gods_wrath_v5/c0_0_0.vtf,4960,4960
+materials/maps/ze_gods_wrath_v5/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_gods_wrath_v5/c0_0_0.hdr.vtf,76528,76528
+materials/KOMAOKC/CRACKEDICE.vmt,150,150
+materials/komaokc/crackedIce.vtf,174984,174984
+materials/KOMAOKC/ICE.vmt,142,142
+materials/komaokc/ice.vtf,174984,174984
+materials/KOMAOKC/LAVA2.vmt,85,85
+materials/komaokc/lava2.vtf,174984,174984
+materials/skybox/otherworldup.vmt,96,96
+materials/skybox/otherworldup.vtf,699272,699272
+materials/skybox/otherworlddn.vmt,96,96
+materials/skybox/otherworlddn.vtf,699272,699272
+materials/skybox/otherworldft.vmt,96,96
+materials/skybox/otherworldft.vtf,699272,699272
+materials/skybox/otherworldbk.vmt,96,96
+materials/skybox/otherworldbk.vtf,699272,699272
+materials/skybox/otherworldlf.vmt,96,96
+materials/skybox/otherworldlf.vtf,699272,699272
+materials/skybox/otherworldrt.vmt,96,96
+materials/skybox/otherworldrt.vtf,699272,699272
+sound/gods_wrath_music/black  white music - script 2 (320 x 240).mp3,891122,891122
+sound/gods_wrath_music/black  white music - creature big fight (320 x 240).mp3,2226919,2226919
+sound/gods_wrath_music/black & white music - gregorian.mp3,615268,615268
+sound/gods_wrath_music/black  white music - nemesis (320 x 240).mp3,2029642,2029642
+sound/gods_wrath_music/black & white music - script 3.mp3,994357,994357
+maps/soundcache/ze_gods_wrath_v5.cache,16,16

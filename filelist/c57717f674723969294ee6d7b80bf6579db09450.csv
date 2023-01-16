@@ -1,0 +1,163 @@
+filename,size,compressed
+materials/maps/bhop_old_storm/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/bhop_old_storm/glass/glasswindowbreak070b_3392_512_320.vmt,114,114
+materials/maps/bhop_old_storm/glass/offwndwb_3392_512_320.vmt,212,212
+materials/maps/bhop_old_storm/nature/water_coast02_3392_512_320.vmt,158,158
+materials/maps/bhop_old_storm/glass/combineglass001a_3392_512_320.vmt,137,137
+materials/maps/bhop_old_storm/maps/bhop_old_storm/nature/water_coast02_3392_512_320_depth_64.vmt,140,140
+materials/maps/bhop_old_storm/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_old_storm/c3392_512_320.vtf,28753,28753
+materials/maps/bhop_old_storm/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_old_storm/c3392_512_320.hdr.vtf,76528,76528
+materials/neon/blue.bmp,786486,786486
+materials/neon/blue.vmt,94,94
+materials/neon/blue.vtf,174968,174968
+materials/neon/green.bmp,786486,786486
+materials/neon/green.vmt,95,95
+materials/neon/green.vtf,174968,174968
+materials/neon/orange.bmp,786486,786486
+materials/neon/orange.vmt,96,96
+materials/neon/orange.vtf,174968,174968
+materials/neon/readme.txt,628,628
+materials/neon/red.bmp,786486,786486
+materials/neon/red.vmt,93,93
+materials/neon/red.vtf,174968,174968
+materials/neon/yellow.bmp,786486,786486
+materials/neon/yellow.vmt,96,96
+materials/neon/yellow.vtf,174968,174968
+materials/XenoXtile/xenox_bhop_glass_blue.vmt,118,118
+materials/XenoXtile/xenox_bhop_glass_blue.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_darkblue.vmt,122,122
+materials/XenoXtile/xenox_bhop_glass_darkblue.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_glass_darkgreen.vmt,123,123
+materials/XenoXtile/xenox_bhop_glass_darkgreen.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_darkgrey.vmt,122,122
+materials/XenoXtile/xenox_bhop_glass_darkgrey.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_darkpink.vmt,122,122
+materials/XenoXtile/xenox_bhop_glass_darkpink.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_darkred.vmt,121,121
+materials/XenoXtile/xenox_bhop_glass_darkred.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_darkyellow.vmt,124,124
+materials/XenoXtile/xenox_bhop_glass_darkyellow.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_green.vmt,119,119
+materials/XenoXtile/xenox_bhop_glass_green.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_grey.vmt,118,118
+materials/XenoXtile/xenox_bhop_glass_grey.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_midblue.vmt,121,121
+materials/XenoXtile/xenox_bhop_glass_midblue.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_midgreen.vmt,122,122
+materials/XenoXtile/xenox_bhop_glass_midgreen.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_midpink.vmt,121,121
+materials/XenoXtile/xenox_bhop_glass_midpink.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_midred.vmt,120,120
+materials/XenoXtile/xenox_bhop_glass_midred.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_midyellow.vmt,123,123
+materials/XenoXtile/xenox_bhop_glass_midyellow.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_pink.vmt,118,118
+materials/XenoXtile/xenox_bhop_glass_pink.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_red.vmt,117,117
+materials/XenoXtile/xenox_bhop_glass_red.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_white.vmt,119,119
+materials/XenoXtile/xenox_bhop_glass_white.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_glass_yellow.vmt,120,120
+materials/XenoXtile/xenox_bhop_glass_yellow.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_tile_blue.vmt,103,103
+materials/XenoXtile/xenox_bhop_tile_blue.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_darkblue.vmt,107,107
+materials/XenoXtile/xenox_bhop_tile_darkblue.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_darkgreen.vmt,108,108
+materials/XenoXtile/xenox_bhop_tile_darkgreen.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_darkgrey.vmt,107,107
+materials/XenoXtile/xenox_bhop_tile_darkgrey.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_tile_darkpink.vmt,107,107
+materials/XenoXtile/xenox_bhop_tile_darkpink.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_darkred.vmt,106,106
+materials/XenoXtile/xenox_bhop_tile_darkred.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_darkyellow.vmt,109,109
+materials/XenoXtile/xenox_bhop_tile_darkyellow.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_green.vmt,104,104
+materials/XenoXtile/xenox_bhop_tile_green.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_grey.vmt,103,103
+materials/XenoXtile/xenox_bhop_tile_grey.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_tile_midblue.vmt,106,106
+materials/XenoXtile/xenox_bhop_tile_midblue.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_midgreen.vmt,107,107
+materials/XenoXtile/xenox_bhop_tile_midgreen.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_midpink.vmt,106,106
+materials/XenoXtile/xenox_bhop_tile_midpink.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_midred.vmt,105,105
+materials/XenoXtile/xenox_bhop_tile_midred.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_midyellow.vmt,108,108
+materials/XenoXtile/xenox_bhop_tile_midyellow.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_pink.vmt,103,103
+materials/XenoXtile/xenox_bhop_tile_pink.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_red.vmt,102,102
+materials/XenoXtile/xenox_bhop_tile_red.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_white.vmt,104,104
+materials/XenoXtile/xenox_bhop_tile_white.vtf,349732,349732
+materials/XenoXtile/xenox_bhop_tile_yellow.vmt,105,105
+materials/XenoXtile/xenox_bhop_tile_yellow.vtf,87616,87616
+materials/z3phyr/brick2.vmt,86,86
+materials/z3phyr/brick2.vtf,5592640,5592640
+materials/z3phyr/brick3.vmt,86,86
+materials/z3phyr/brick3.vtf,174944,174944
+materials/z3phyr/brick4.vmt,86,86
+materials/z3phyr/brick4.vtf,5592640,5592640
+materials/z3phyr/Carbon Wall.vmt,110,110
+materials/z3phyr/Carbon Wall.vtf,87616,87616
+materials/z3phyr/carpet1.vmt,87,87
+materials/z3phyr/carpet1.vtf,1398336,1398336
+materials/z3phyr/carpet2.vmt,87,87
+materials/z3phyr/carpet2.vtf,349760,349760
+materials/z3phyr/comb tile.vmt,88,88
+materials/z3phyr/comb tile.vtf,87616,87616
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass01.vmt,186,186
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass01.vtf,87616,87616
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass02.vmt,186,186
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass02.vtf,87616,87616
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass03.vmt,186,186
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass03.vtf,87616,87616
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass04.vmt,186,186
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass04.vtf,87616,87616
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass05.vmt,186,186
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass05.vtf,87616,87616
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass06.vmt,186,186
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass06.vtf,87616,87616
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass07.vmt,186,186
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass07.vtf,87616,87616
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass08.vmt,186,186
+materials/z3phyr/Honey Comb Glass/Honey Comb Glass08.vtf,87616,87616
+materials/z3phyr/Lowerwall01.vmt,94,94
+materials/z3phyr/Lowerwall01.vtf,87616,87616
+materials/z3phyr/Lowerwall02.vmt,94,94
+materials/z3phyr/Lowerwall02.vtf,87616,87616
+materials/z3phyr/Lowerwall03.vmt,94,94
+materials/z3phyr/Lowerwall03.vtf,87616,87616
+materials/z3phyr/Lowerwall04.vmt,94,94
+materials/z3phyr/Lowerwall04.vtf,87616,87616
+materials/z3phyr/metal1.vmt,91,91
+materials/z3phyr/metal1.vtf,349760,349760
+materials/z3phyr/Upperwall01.vmt,94,94
+materials/z3phyr/Upperwall01.vtf,87616,87616
+materials/z3phyr/Upperwall02.vmt,94,94
+materials/z3phyr/Upperwall02.vtf,87616,87616
+materials/z3phyr/Upperwall03.vmt,94,94
+materials/z3phyr/Upperwall03.vtf,87616,87616
+materials/z3phyr/Upperwall04.vmt,94,94
+materials/z3phyr/Upperwall04.vtf,87616,87616
+materials/z3phyr/wall6.vmt,88,88
+materials/z3phyr/wall6.vtf,2796384,2796384
+materials/z3phyr/wall7.vmt,88,88
+materials/z3phyr/wall7.vtf,87616,87616
+materials/z3phyr/Walltrim.vmt,91,91
+materials/z3phyr/Walltrim.vtf,87616,87616
+materials/z3phyr/wood2.vmt,90,90
+materials/z3phyr/wood2.vtf,5592640,5592640
+materials/z3phyr/wood3.vmt,90,90
+materials/z3phyr/wood3.vtf,349760,349760
+materials/z3phyr/wood4.vmt,90,90
+materials/z3phyr/wood4.vtf,1398336,1398336
+materials/z3phyr/wood5.vmt,90,90
+materials/z3phyr/wood5.vtf,1398336,1398336
+materials/z3phyr/wood7.vmt,90,90
+materials/z3phyr/wood7.vtf,349760,349760

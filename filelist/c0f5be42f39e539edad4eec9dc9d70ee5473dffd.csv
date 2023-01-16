@@ -1,0 +1,72 @@
+filename,size,compressed
+materials/maps/fy_woods/nature/blendsandweed005a_wvt_patch.vmt,222,222
+materials/maps/fy_woods/nature/water_coast03_depth_32.vmt,107,107
+materials/maps/fy_woods/cubemapdefault.vtf,28753,28753
+materials/maps/fy_woods/cubemapdefault.hdr.vtf,76528,76528
+materials/VGUI/LOGOS/UI/AVP3___PREDATOR_BY_DARKCYBERXENO.vmt,233,233
+materials/VGUI/logos/AVP3___Predator_by_darkcyberxeno.vtf,43936,43936
+models/cod4/tree_oak_med.mdl,1616,1616
+models/cod4/tree_oak_med.dx80.vtx,31311,31311
+models/cod4/tree_oak_med.dx90.vtx,31311,31311
+models/cod4/tree_oak_med.sw.vtx,31295,31295
+models/cod4/tree_oak_med.vvd,150656,150656
+materials/cod4/tree_grey_oak_leaves_col.vmt,149,149
+materials/cod4/tree_grey_oak_leaves_col.vtf,2796332,2796332
+materials/cod4/tree_grey_oak_col.vmt,161,161
+materials/cod4/tree_grey_oak_col.vtf,2796332,2796332
+materials/cod4/tree_grey_oak_nml.vtf,2796332,2796332
+models/cod4/tree_oak_xl.mdl,1616,1616
+models/cod4/tree_oak_xl.dx80.vtx,38151,38151
+models/cod4/tree_oak_xl.dx90.vtx,38151,38151
+models/cod4/tree_oak_xl.sw.vtx,38135,38135
+models/cod4/tree_oak_xl.vvd,188928,188928
+models/cod4/tree_oak_lg.mdl,1616,1616
+models/cod4/tree_oak_lg.dx80.vtx,40074,40074
+models/cod4/tree_oak_lg.dx90.vtx,40074,40074
+models/cod4/tree_oak_lg.sw.vtx,40058,40058
+models/cod4/tree_oak_lg.vvd,194112,194112
+models/cod4/desertbushy_brown.mdl,1420,1420
+models/cod4/desertbushy_brown.dx80.vtx,7569,7569
+models/cod4/desertbushy_brown.dx90.vtx,7569,7569
+models/cod4/desertbushy_brown.sw.vtx,7561,7561
+models/cod4/desertbushy_brown.vvd,40768,40768
+materials/cod4/tree_desertbushy_brown_col.vmt,151,151
+materials/cod4/tree_desertbushy_brown_col.vtf,1398292,1398292
+models/cod4/red_pine_lg.mdl,1608,1608
+models/cod4/red_pine_lg.dx80.vtx,26043,26043
+models/cod4/red_pine_lg.dx90.vtx,26043,26043
+models/cod4/red_pine_lg.sw.vtx,26027,26027
+models/cod4/red_pine_lg.vvd,125568,125568
+materials/cod4/red_pine_leaves_col.vmt,144,144
+materials/cod4/red_pine_leaves_col.vtf,2796332,2796332
+materials/cod4/red_pine_col.vmt,153,153
+materials/cod4/red_pine_col.vtf,2796332,2796332
+materials/cod4/red_pine_nml.vtf,2796332,2796332
+models/cod4/destroyed1.mdl,1620,1620
+models/cod4/destroyed1.dx80.vtx,18357,18357
+models/cod4/destroyed1.dx90.vtx,18357,18357
+models/cod4/destroyed1.sw.vtx,18341,18341
+models/cod4/destroyed1.vvd,83712,83712
+materials/cod4/tree_destroyed_col.vmt,163,163
+materials/cod4/tree_destroyed_col.vtf,2796332,2796332
+materials/cod4/tree_destroyed_nml.vtf,2796332,2796332
+models/bf2/helicopters/ah-1 cobra/ah1z_r.mdl,1752,1752
+models/bf2/helicopters/ah-1 cobra/ah1z_r.dx80.vtx,10938,10938
+models/bf2/helicopters/ah-1 cobra/ah1z_r.dx90.vtx,10938,10938
+models/bf2/helicopters/ah-1 cobra/ah1z_r.sw.vtx,10938,10938
+models/bf2/helicopters/ah-1 cobra/ah1z_r.phy,2348,2348
+models/bf2/helicopters/ah-1 cobra/ah1z_r.vvd,53248,53248
+models/bfv/bfvhuey.mdl,2084,2084
+models/bfv/bfvhuey.dx80.vtx,150609,150609
+models/bfv/bfvhuey.dx90.vtx,150609,150609
+models/bfv/bfvhuey.sw.vtx,150591,150591
+models/bfv/bfvhuey.phy,24191,24191
+models/bfv/bfvhuey.vvd,806976,806976
+models/bf2/helicopters/ah-1 cobra/ah1z_tr.mdl,1748,1748
+models/bf2/helicopters/ah-1 cobra/ah1z_tr.dx80.vtx,2511,2511
+models/bf2/helicopters/ah-1 cobra/ah1z_tr.dx90.vtx,2511,2511
+models/bf2/helicopters/ah-1 cobra/ah1z_tr.sw.vtx,2511,2511
+models/bf2/helicopters/ah-1 cobra/ah1z_tr.phy,2381,2381
+models/bf2/helicopters/ah-1 cobra/ah1z_tr.vvd,13504,13504
+maps/fy_woods.nav,76332,76332
+maps/soundcache/fy_woods.cache,127286,127286

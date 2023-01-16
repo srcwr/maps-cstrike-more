@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/mg_space/cubemapdefault.vtf,9824,9824
+materials/CUSTOM/JAMES/GREEN.vmt,85,85
+materials/custom/james/green.vtf,87616,87616
+materials/skybox/spaceup.vmt,83,83
+materials/skybox/spaceup.vtf,1398336,1398336
+materials/skybox/spacedn.vmt,83,83
+materials/skybox/spacedn.vtf,1398336,1398336
+materials/skybox/spaceft.vmt,83,83
+materials/skybox/spaceft.vtf,1398336,1398336
+materials/skybox/spacebk.vmt,83,83
+materials/skybox/spacebk.vtf,1398336,1398336
+materials/skybox/spacelf.vmt,83,83
+materials/skybox/spacelf.vtf,1398336,1398336
+materials/skybox/spacert.vmt,83,83
+materials/skybox/spacert.vtf,1398336,1398336
+maps/soundcache/mg_space.cache,110643,110643

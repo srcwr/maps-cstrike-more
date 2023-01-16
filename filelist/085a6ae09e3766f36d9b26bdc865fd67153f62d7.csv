@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/surf_luckystrike_fix/metal/citadel_metalwall078a_0_0_0.vmt,141,141
+materials/maps/surf_luckystrike_fix/de_nuke/nukwater_movingplane_depth_4.vmt,114,114
+materials/maps/surf_luckystrike_fix/de_nuke/nukwater_movingplane_depth_3.vmt,114,114
+materials/maps/surf_luckystrike_fix/de_nuke/nukwater_movingplane_depth_8.vmt,114,114
+materials/maps/surf_luckystrike_fix/cubemapdefault.vtf,9832,9832
+materials/maps/surf_luckystrike_fix/c0_0_0.vtf,9832,9832
+materials/maps/surf_luckystrike_fix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_luckystrike_fix/c0_0_0.hdr.vtf,76528,76528
+materials/tools/toolsskybox.vmt,277,277
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/toolstrigger.vmt,277,277
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolsnodraw.vmt,247,247
+materials/tools/toolsnodraw.vtf,2936,2936

@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/surf_leet_xl_timed/glass/glasswindow070c_-9936_-4992_-11750.vmt,146,146
+materials/maps/surf_leet_xl_timed/vehicle/rubbertrainfloor001a_-9936_-4992_-11750.vmt,153,153
+materials/maps/surf_leet_xl_timed/metal/citadel_metalwall078a_-10256_-4992_-11759.vmt,153,153
+materials/maps/surf_leet_xl_timed/metal/citadel_metalwall078a_-9936_-4992_-11750.vmt,152,152
+materials/maps/surf_leet_xl_timed/metal/citadel_metalwall078a_-10096_-3600_-11759.vmt,153,153
+materials/maps/surf_leet_xl_timed/dev/dev_water4_depth_8.vmt,100,100
+materials/maps/surf_leet_xl_timed/leet_timed/water_movingplane_noenvmap_depth_79.vmt,124,124
+materials/maps/surf_leet_xl_timed/cubemapdefault.vtf,9824,9824
+materials/maps/surf_leet_xl_timed/c-9936_-4992_-11750.vtf,9824,9824
+materials/maps/surf_leet_xl_timed/c-10256_-4992_-11759.vtf,9824,9824
+materials/maps/surf_leet_xl_timed/c-10096_-3600_-11759.vtf,9824,9824
+materials/leet_timed/ssdecal.vmt,126,126
+materials/leet_timed/ssdecal.vtf,262256,262256
+materials/leet_timed/water_movingplane_noenvmap.vmt,851,851

@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/surf_advanced/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/surf_advanced/nature/mudfloor001a_0_0_0.vmt,165,165
+materials/maps/surf_advanced/dev/dev_water2_0_0_0.vmt,144,144
+materials/maps/surf_advanced/glass/unbreakable_0_0_0.vmt,124,124
+materials/maps/surf_advanced/dev/dev_water2_depth_32.vmt,101,101
+materials/maps/surf_advanced/dev/dev_water2_depth_64.vmt,101,101
+materials/maps/surf_advanced/dev/dev_water2_depth_128.vmt,102,102
+materials/maps/surf_advanced/dev/dev_water2_depth_48.vmt,101,101
+materials/maps/surf_advanced/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/surf_advanced/dev/dev_water2_depth_4.vmt,100,100
+materials/maps/surf_advanced/dev/dev_water2_depth_31480.vmt,104,104
+materials/maps/surf_advanced/cubemapdefault.vtf,28753,28753
+materials/maps/surf_advanced/c0_0_0.vtf,28753,28753
+materials/maps/surf_advanced/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_advanced/c0_0_0.hdr.vtf,76528,76528

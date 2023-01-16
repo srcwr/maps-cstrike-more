@@ -1,0 +1,144 @@
+filename,size,compressed
+materials/maps/gg_simpsons_toxic-flood/water/water_slime01_depth_121.vmt,107,107
+materials/maps/gg_simpsons_toxic-flood/cubemapdefault.vtf,4960,4960
+materials/maps/gg_simpsons_toxic-flood/cubemapdefault.hdr.vtf,76528,76528
+materials/textures/cow.vtf,11144,11144
+materials/textures/ew.vtf,11144,11144
+materials/watersource/waterfall/highfall.vtf,174928,174928
+materials/castle textures/arena_darkblue.vmt,78,78
+materials/castle textures/arena_darkblue.vtf,43912,43912
+materials/castle textures/arena_white.vmt,75,75
+materials/castle textures/arena_white.vtf,43912,43912
+materials/castle textures/barnydrunk.vtf,87616,87616
+materials/castle textures/barnydrunka.vmt,93,93
+materials/castle textures/bart.vtf,22080,22080
+materials/castle textures/barta.vmt,87,87
+materials/castle textures/busdriversimpsons.vtf,349760,349760
+materials/castle textures/busdriversimpsonsa.vmt,100,100
+materials/castle textures/canbottom.vtf,22080,22080
+materials/castle textures/canbottoma.vmt,117,117
+materials/castle textures/cantop.vtf,22080,22080
+materials/castle textures/cantopa.vmt,114,114
+materials/castle textures/duffbeercan.vtf,22008,22008
+materials/castle textures/duffbeercana.vmt,100,100
+materials/castle textures/homer.vtf,43872,43872
+materials/castle textures/homera.vmt,88,88
+materials/castle textures/lizwormandcow.vtf,349760,349760
+materials/castle textures/lizwormandcowa.vmt,96,96
+materials/castle textures/maggysimpson.vtf,87616,87616
+materials/castle textures/maggysimpsona.vmt,95,95
+materials/castle textures/margesimpson.vtf,87552,87552
+materials/castle textures/margesimpsona.vmt,95,95
+materials/castle textures/sideshowbob.vtf,174944,174944
+materials/castle textures/sideshowboba.vmt,94,94
+materials/castle textures/simp.vtf,22016,22016
+materials/castle textures/simpa.vmt,87,87
+materials/castle textures/simpgaragedoor.vmt,78,78
+materials/castle textures/simpgaragedoor.vtf,11144,11144
+materials/castle textures/simpsonscatanddog.vtf,349760,349760
+materials/castle textures/simpsonscatanddoga.vmt,100,100
+materials/dev/dev_measuregeneric10.vmt,93,93
+materials/dev/dev_measuregeneric10.vtf,11144,11144
+materials/ew_arena_colors/orange4.vmt,71,71
+materials/ew_arena_colors/orange4.vtf,43912,43912
+materials/ew_arena_colors/pink3.vmt,69,69
+materials/ew_arena_colors/pink3.vtf,43912,43912
+materials/farm/wood.vmt,78,78
+materials/ryan_dev/black.vmt,62,62
+materials/ryan_dev/black.vtf,11144,11144
+materials/ryan_dev/brown10.vmt,64,64
+materials/ryan_dev/brown10.vtf,11144,11144
+materials/ryan_dev/brown5.vtf,11144,11144
+materials/ryan_dev/pastel_yellow2.vmt,71,71
+materials/ryan_dev/pastel_yellow2.vtf,11144,11144
+materials/ryan_dev/pure_orange1.vmt,69,69
+materials/ryan_dev/pure_orange1.vtf,11144,11144
+materials/ryan_dev/rbg_red.vmt,64,64
+materials/ryan_dev/rbg_red.vtf,11144,11144
+materials/simpsons/bankroof.vmt,81,81
+materials/simpsons/bankroof.vtf,43872,43872
+materials/simpsons/brown.vmt,78,78
+materials/simpsons/brown.vtf,43912,43912
+materials/simpsons/burnsceiling.vmt,64,64
+materials/simpsons/burnsceiling.vtf,43912,43912
+materials/simpsons/burnsdoor.vmt,61,61
+materials/simpsons/burnsdoor.vtf,5624,5624
+materials/simpsons/burnswalls.vmt,90,90
+materials/simpsons/burnswalls.vtf,43912,43912
+materials/simpsons/bushs.vmt,80,80
+materials/simpsons/bushs.vtf,2952,2952
+materials/simpsons/cement.vmt,84,84
+materials/simpsons/cement.vtf,43912,43912
+materials/simpsons/duff.vmt,56,56
+materials/simpsons/duff.vtf,22080,22080
+materials/simpsons/duffmachine.vmt,63,63
+materials/simpsons/duffmachine.vtf,43872,43872
+materials/simpsons/duffmachineside.vmt,92,92
+materials/simpsons/duffmachineside.vtf,22008,22008
+materials/simpsons/fence.vmt,85,85
+materials/simpsons/fence.vtf,11144,11144
+materials/simpsons/flanders.vmt,60,60
+materials/simpsons/flanders.vtf,11144,11144
+materials/simpsons/flandersgarage.vmt,66,66
+materials/simpsons/flandersgarage.vtf,11144,11144
+materials/simpsons/flandersroof.vmt,64,64
+materials/simpsons/flandersroof.vtf,11144,11144
+materials/simpsons/kwikimart.vmt,61,61
+materials/simpsons/kwikimart.vtf,87616,87616
+materials/simpsons/kwikimartsign2.vmt,66,66
+materials/simpsons/kwikimartsign2.vtf,87616,87616
+materials/simpsons/moes.vmt,56,56
+materials/simpsons/moes.vtf,87616,87616
+materials/simpsons/moesign.vmt,59,59
+materials/simpsons/moesign.vtf,11104,11104
+materials/simpsons/moesside.vmt,60,60
+materials/simpsons/moesside.vtf,87616,87616
+materials/simpsons/nucwall.vmt,59,59
+materials/simpsons/nucwall.vtf,43912,43912
+materials/simpsons/nukehalls.vmt,61,61
+materials/simpsons/nukehalls.vtf,87616,87616
+materials/simpsons/nukeoutside.vmt,85,85
+materials/simpsons/nukeoutside.vtf,174984,174984
+materials/simpsons/plexposter.vmt,62,62
+materials/simpsons/plexposter.vtf,87616,87616
+materials/simpsons/plexposter2.vmt,63,63
+materials/simpsons/plexposter2.vtf,87616,87616
+materials/simpsons/smallwindow.vmt,57,57
+materials/simpsons/smallwindow.vtf,11144,11144
+materials/simpsons/stucco.vmt,58,58
+materials/simpsons/stucco.vtf,43912,43912
+materials/simpsons/trailer.vmt,59,59
+materials/simpsons/trailer.vtf,174984,174984
+materials/simpsons/window.vmt,52,52
+materials/simpsons/window.vtf,43912,43912
+materials/simpsons/wood.vmt,78,78
+materials/simpsons/wood.vtf,5624,5624
+materials/simpsons/{3ifish.vmt,129,129
+materials/simpsons/{3ifish.vtf,22080,22080
+materials/simpsons/{99store.vmt,107,107
+materials/simpsons/{99store.vtf,87616,87616
+materials/simpsons/{branch1.vmt,132,132
+materials/simpsons/{branch1.vtf,349760,349760
+materials/simpsons/{comicstoreawn.vmt,113,113
+materials/simpsons/{comicstoreawn.vtf,43872,43872
+materials/simpsons/{javaserver.vmt,110,110
+materials/simpsons/{javaserver.vtf,87616,87616
+materials/skybox/simpsonsbk.vtf,43784,43784
+materials/skybox/simpsonsdn.vtf,43784,43784
+materials/skybox/simpsonsft.vtf,43784,43784
+materials/skybox/simpsonslf.vtf,43784,43784
+materials/skybox/simpsonsrt.vtf,43784,43784
+materials/skybox/simpsonsup.vtf,43784,43784
+materials/skybox/simpsonsbk.vmt,78,78
+materials/skybox/simpsonsdn.vmt,78,78
+materials/skybox/simpsonsft.vmt,78,78
+materials/skybox/simpsonslf.vmt,78,78
+materials/skybox/simpsonsrt.vmt,78,78
+materials/skybox/simpsonsup.vmt,78,78
+materials/textures/brown5.vmt,63,63
+materials/textures/cow.vmt,60,60
+materials/textures/ew.vmt,59,59
+materials/water/water_slime01.vmt,1441,1441
+materials/water/water_slime01_beneath.vmt,1158,1158
+materials/water/water_slime01_dx70.vmt,1636,1636
+materials/watersource/waterfall/waterfallhigh.vmt,267,267

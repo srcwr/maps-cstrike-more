@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/de_metallurgy/metal/metalroof004a_0_0_0.vmt,126,126
+materials/maps/de_metallurgy/nature/mudfloor001a_0_0_0.vmt,165,165
+materials/maps/de_metallurgy/cubemapdefault.vtf,9824,9824
+materials/maps/de_metallurgy/c0_0_0.vtf,9824,9824
+materials/maps/de_metallurgy/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/de_metallurgy/c0_0_0.hdr.vtf,76520,76520
+resource/overviews/de_metallurgy.txt,344,344
+materials/overviews/de_metallurgy.vmt,140,140
+materials/overviews/de_metallurgy.vtf,1398336,1398336
+materials/overviews/de_metallurgy_radar.vmt,146,146
+materials/overviews/de_metallurgy_radar.vtf,1398336,1398336

@@ -1,0 +1,200 @@
+filename,size,compressed
+materials/maps/bhop_zion/dev/dev_water2_-3560_-2414_-832.vmt,151,151
+materials/maps/bhop_zion/nature/water_wasteland002a_2432_4208_-658.vmt,161,161
+materials/maps/bhop_zion/nature/water_wasteland002a_-3560_-2414_-832.vmt,163,163
+materials/maps/bhop_zion/maps/bhop_zion/nature/water_wasteland002a_-3560_-2414_-832_depth_8.vmt,144,144
+materials/maps/bhop_zion/maps/bhop_zion/dev/dev_water2_-3560_-2414_-832_depth_8.vmt,132,132
+materials/maps/bhop_zion/maps/bhop_zion/nature/water_wasteland002a_2432_4208_-658_depth_520.vmt,144,144
+materials/maps/bhop_zion/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_zion/c-3560_-2414_-832.vtf,4960,4960
+materials/maps/bhop_zion/c2432_4208_-658.vtf,4960,4960
+materials/maps/bhop_zion/c-2188_-2424_-832.vtf,4960,4960
+materials/maps/bhop_zion/c-1160_-2424_-832.vtf,4960,4960
+materials/maps/bhop_zion/c-1160_-2000_-832.vtf,4960,4960
+materials/maps/bhop_zion/c-1160_-1336_-760.vtf,4960,4960
+materials/maps/bhop_zion/c-1160_168_-526.vtf,4960,4960
+materials/maps/bhop_zion/c-1160_1520_-502.vtf,4960,4960
+materials/maps/bhop_zion/c-1160_2672_-456.vtf,4960,4960
+materials/maps/bhop_zion/c-1160_3952_-488.vtf,4960,4960
+materials/maps/bhop_zion/c320_-2304_1104.vtf,4960,4960
+materials/maps/bhop_zion/c784_-2304_1104.vtf,4960,4960
+materials/maps/bhop_zion/c3254_5010_-610.vtf,4960,4960
+materials/maps/bhop_zion/c1664_5298_-812.vtf,4960,4960
+materials/maps/bhop_zion/c1474_4976_-702.vtf,4960,4960
+materials/maps/bhop_zion/c1850_4976_-702.vtf,4960,4960
+materials/maps/bhop_zion/c1848_4976_-922.vtf,4960,4960
+materials/maps/bhop_zion/c1472_4976_-922.vtf,4960,4960
+materials/maps/bhop_zion/c1074_3952_-1188.vtf,4960,4960
+materials/maps/bhop_zion/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_zion/c-3560_-2414_-832.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c2432_4208_-658.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c-2188_-2424_-832.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c-1160_-2424_-832.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c-1160_-2000_-832.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c-1160_-1336_-760.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c-1160_168_-526.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c-1160_1520_-502.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c-1160_2672_-456.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c-1160_3952_-488.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c320_-2304_1104.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c784_-2304_1104.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c3254_5010_-610.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c1664_5298_-812.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c1474_4976_-702.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c1850_4976_-702.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c1848_4976_-922.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c1472_4976_-922.hdr.vtf,76536,76536
+materials/maps/bhop_zion/c1074_3952_-1188.hdr.vtf,76536,76536
+sp_hdr_0.vhv,13312,13312
+sp_hdr_1.vhv,1536,1536
+materials/silkroad/egypt/wall (49).vmt,91,91
+materials/silkroad/egypt/wall (49).vtf,87616,87616
+materials/silkroad/egypt/ground (20).vmt,78,78
+materials/silkroad/egypt/ground (20).vtf,87616,87616
+materials/silkroad/egypt/wall (19).vmt,91,91
+materials/silkroad/egypt/wall (19).vtf,87616,87616
+materials/silkroad/egypt/wall (58).vmt,76,76
+materials/silkroad/egypt/wall (58).vtf,87616,87616
+materials/silkroad/egypt/wall (59).vmt,76,76
+materials/silkroad/egypt/wall (59).vtf,87616,87616
+materials/silkroad/egypt/ground (6).vmt,92,92
+materials/silkroad/egypt/ground (6).vtf,87616,87616
+materials/silkroad/egypt/wall (48).vmt,76,76
+materials/silkroad/egypt/wall (48).vtf,174944,174944
+materials/silkroad/egypt/wall (29).vmt,76,76
+materials/silkroad/egypt/wall (29).vtf,87616,87616
+materials/silkroad/egypt/ground (16).vmt,78,78
+materials/silkroad/egypt/ground (16).vtf,87616,87616
+materials/silkroad/egypt/ground (12).vmt,78,78
+materials/silkroad/egypt/ground (12).vtf,87616,87616
+materials/silkroad/egypt/wall (84).vmt,76,76
+materials/silkroad/egypt/wall (84).vtf,349760,349760
+materials/silkroad/egypt/wall (11).vmt,76,76
+materials/silkroad/egypt/wall (11).vtf,174944,174944
+materials/silkroad/egypt/wall (3).vmt,75,75
+materials/silkroad/egypt/wall (3).vtf,87616,87616
+materials/silkroad/egypt/ground (9).vmt,92,92
+materials/silkroad/egypt/ground (9).vtf,87616,87616
+materials/silkroad/ground/mong_sand_01.vmt,100,100
+materials/silkroad/ground/mong_sand_01.vtf,349760,349760
+materials/silkroad/egypt/wall (87).vmt,76,76
+materials/silkroad/egypt/wall (87).vtf,349760,349760
+materials/silkroad/egypt/wall (85).vmt,76,76
+materials/silkroad/egypt/wall (85).vtf,349760,349760
+materials/silkroad/egypt/wall (89).vmt,76,76
+materials/silkroad/egypt/wall (89).vtf,87616,87616
+materials/silkroad/egypt/wall (77).vmt,76,76
+materials/silkroad/egypt/wall (77).vtf,87616,87616
+materials/silkroad/egypt/wall (21).vmt,76,76
+materials/silkroad/egypt/wall (21).vtf,349760,349760
+materials/silkroad/egypt/wall (86).vmt,76,76
+materials/silkroad/egypt/wall (86).vtf,349760,349760
+materials/silkroad/egypt/wall (54).vmt,76,76
+materials/silkroad/egypt/wall (54).vtf,174944,174944
+materials/silkroad/egypt/wall (37).vmt,76,76
+materials/silkroad/egypt/wall (37).vtf,87616,87616
+materials/silkroad/egypt/wall (27).vmt,76,76
+materials/silkroad/egypt/wall (27).vtf,87616,87616
+materials/silkroad/egypt/wall (53).vmt,76,76
+materials/silkroad/egypt/wall (53).vtf,174944,174944
+materials/silkroad/egypt/ground (2).vmt,77,77
+materials/silkroad/egypt/ground (2).vtf,87616,87616
+materials/silkroad/egypt/wall (35).vmt,76,76
+materials/silkroad/egypt/wall (35).vtf,87616,87616
+materials/silkroad/egypt/ground (7).vmt,92,92
+materials/silkroad/egypt/ground (7).vtf,87616,87616
+materials/silkroad/egypt/teleport3.vmt,93,93
+materials/silkroad/egypt/teleport3.vtf,349760,349760
+materials/silkroad/egypt/wall (55).vmt,76,76
+materials/silkroad/egypt/wall (55).vtf,349760,349760
+materials/silkroad/egypt/ground (8).vmt,77,77
+materials/silkroad/egypt/ground (8).vtf,87616,87616
+materials/silkroad/egypt/ground (19).vmt,78,78
+materials/silkroad/egypt/ground (19).vtf,87616,87616
+materials/silkroad/egypt/wall (110).vmt,77,77
+materials/silkroad/egypt/wall (110).vtf,174944,174944
+materials/silkroad/egypt/wall (2).vmt,90,90
+materials/silkroad/egypt/wall (2).vtf,349760,349760
+materials/custom/zion.vmt,59,59
+materials/custom/zion.vtf,699272,699272
+materials/silkroad/egypt/roof (2).vmt,90,90
+materials/silkroad/egypt/roof (2).vtf,87616,87616
+materials/silkroad/egypt/lavablue.vmt,114,114
+materials/silkroad/egypt/lavablue.vtf,349760,349760
+materials/silkroad/egypt/wall (88).vmt,76,76
+materials/silkroad/egypt/wall (88).vtf,349760,349760
+materials/silkroad/egypt/teleport2.vmt,234,234
+materials/silkroad/egypt/teleport2.vtf,349760,349760
+materials/silkroad/egypt/ground (13).vmt,78,78
+materials/silkroad/egypt/ground (13).vtf,87616,87616
+materials/silkroad/egypt/wall (14).vmt,76,76
+materials/silkroad/egypt/wall (14).vtf,87616,87616
+materials/silkroad/egypt/wall (105).vmt,77,77
+materials/silkroad/egypt/wall (105).vtf,174944,174944
+materials/silkroad/egypt/wall (34).vmt,91,91
+materials/silkroad/egypt/wall (34).vtf,174944,174944
+materials/silkroad/egypt/wall (28).vmt,91,91
+materials/silkroad/egypt/wall (28).vtf,349760,349760
+materials/silkroad/egypt/wall (74).vmt,76,76
+materials/silkroad/egypt/wall (74).vtf,174944,174944
+materials/silkroad/egypt/wall (71).vmt,76,76
+materials/silkroad/egypt/wall (71).vtf,174944,174944
+materials/silkroad/egypt/wall (78).vmt,76,76
+materials/silkroad/egypt/wall (78).vtf,349760,349760
+materials/silkroad/egypt/wall (72).vmt,76,76
+materials/silkroad/egypt/wall (72).vtf,174944,174944
+materials/silkroad/egypt/wall (73).vmt,76,76
+materials/silkroad/egypt/wall (73).vtf,174944,174944
+materials/silkroad/egypt/column (1).vmt,92,92
+materials/silkroad/egypt/column (1).vtf,87552,87552
+materials/silkroad/egypt/wall (100).vmt,92,92
+materials/silkroad/egypt/wall (100).vtf,174944,174944
+materials/silkroad/egypt/ground (23).vmt,93,93
+materials/silkroad/egypt/ground (23).vtf,22080,22080
+materials/silkroad/egypt/wall (7).vmt,75,75
+materials/silkroad/egypt/wall (7).vtf,349760,349760
+materials/silkroad/egypt/wall (13).vmt,76,76
+materials/silkroad/egypt/wall (13).vtf,22080,22080
+materials/watersource/waterfall/waterfallfull_1024_clear.vmt,264,264
+materials/watersource/waterfall/waterfallfull_1024_clear.vtf,1398336,1398336
+materials/silkroad/egypt/wall (33).vmt,76,76
+materials/silkroad/egypt/wall (33).vtf,87616,87616
+materials/silkroad/egypt/wall (42).vmt,76,76
+materials/silkroad/egypt/wall (42).vtf,87616,87616
+materials/silkroad/egypt/ground (11).vmt,93,93
+materials/silkroad/egypt/ground (11).vtf,87616,87616
+materials/custom/callsign.vmt,63,63
+materials/custom/callsign.vtf,349760,349760
+materials/skybox/otherworldbk.vmt,96,96
+materials/skybox/otherworldbk.vtf,699272,699272
+materials/skybox/otherworlddn.vmt,96,96
+materials/skybox/otherworlddn.vtf,699272,699272
+materials/skybox/otherworldft.vmt,96,96
+materials/skybox/otherworldft.vtf,699272,699272
+materials/skybox/otherworldlf.vmt,96,96
+materials/skybox/otherworldlf.vtf,699272,699272
+materials/skybox/otherworldrt.vmt,96,96
+materials/skybox/otherworldrt.vtf,699272,699272
+materials/skybox/otherworldup.vmt,96,96
+materials/skybox/otherworldup.vtf,699272,699272
+sound/zion.wav,57712648,57712648
+materials/maps/bhop_zion_v2/c-3560_-2414_-832.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c-2188_-2424_-832.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c-1160_-2424_-832.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c-1160_-2000_-832.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c-1160_-1336_-760.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c-1160_168_-526.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c-1160_1520_-502.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c-1160_2672_-456.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c-1160_3952_-488.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c320_-2304_1104.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c784_-2304_1104.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c2432_4208_-658.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c3254_5010_-610.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c1664_5298_-812.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c1474_4976_-702.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c1850_4976_-702.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c1848_4976_-922.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c1472_4976_-922.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/c1074_3952_-1188.hdr.vtf,76536,76536
+materials/maps/bhop_zion_v2/cubemapdefault.vtf,9832,9832

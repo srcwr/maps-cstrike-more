@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/bhop_log_bram/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_log_bram/cubemapdefault.hdr.vtf,76528,76528
+materials/neon/cyan.png,930,930
+materials/neon/cyan.vmt,94,94
+materials/neon/cyan.vtf,349732,349732
+materials/neon/pink.png,776,776
+materials/neon/pink.vmt,94,94
+materials/neon/pink.vtf,349732,349732
+materialsrc/neon/cyan.png,930,930
+materialsrc/neon/cyan.vmt,94,94
+materialsrc/neon/cyan.vtf,349732,349732
+materialsrc/neon/pink.png,776,776
+materialsrc/neon/pink.vmt,93,93
+materialsrc/neon/pink.vtf,349732,349732

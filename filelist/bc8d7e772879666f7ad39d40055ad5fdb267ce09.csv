@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/surf_beyer/glass/combineglass001a_0_0_0.vmt,126,126
+materials/maps/surf_beyer/metal/metalpipe009a_0_0_0.vmt,123,123
+materials/maps/surf_beyer/metal/citadel_metalwall072c_0_0_0.vmt,131,131
+materials/maps/surf_beyer/metal/metalcombine001_0_0_0.vmt,125,125
+materials/maps/surf_beyer/cubemapdefault.vtf,9832,9832
+materials/maps/surf_beyer/c0_0_0.vtf,9832,9832
+materials/maps/surf_beyer/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_beyer/c0_0_0.hdr.vtf,76528,76528
+materials/DECALS/TESTERS.vmt,118,118
+materials/decals/Testers.vtf,1398336,1398336
+maps/soundcache/surf_beyer.cache,16,16

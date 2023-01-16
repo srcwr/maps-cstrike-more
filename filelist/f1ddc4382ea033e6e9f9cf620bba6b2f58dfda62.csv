@@ -1,0 +1,34 @@
+filename,size,compressed
+materials/maps/mg_aircraftcarrier_v1/concrete/concretewall001c_640_-6784_-576.vmt,149,149
+materials/maps/mg_aircraftcarrier_v1/concrete/concretewall001c_640_7360_-576.vmt,148,148
+materials/maps/mg_aircraftcarrier_v1/metal/metalceiling005a_640_-6784_-576.vmt,146,146
+materials/maps/mg_aircraftcarrier_v1/glass/glasswindow070a_640_-6784_-576.vmt,145,145
+materials/maps/mg_aircraftcarrier_v1/glass/glasswindow070a_640_7360_-576.vmt,144,144
+materials/maps/mg_aircraftcarrier_v1/metal/metalceiling005a_640_7360_-576.vmt,145,145
+materials/maps/mg_aircraftcarrier_v1/cubemapdefault.vtf,9832,9832
+materials/maps/mg_aircraftcarrier_v1/c640_-6784_-576.vtf,9832,9832
+materials/maps/mg_aircraftcarrier_v1/c640_7360_-576.vtf,9832,9832
+materials/maps/mg_aircraftcarrier_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_aircraftcarrier_v1/c640_-6784_-576.hdr.vtf,76528,76528
+materials/maps/mg_aircraftcarrier_v1/c640_7360_-576.hdr.vtf,76528,76528
+maps/mg_aircraftcarrier_v1.nav,64704,64704
+materials/charli texture/charli.vtf,174984,174984
+materials/charli texture/f22.vtf,174984,174984
+materials/boat/toolsinvisiblewood.vmt,228,228
+materials/boat/toolsinvisiblewood.vtf,5680,5680
+materials/charli texture/charli.vmt,84,84
+materials/charli texture/f22.vmt,81,81
+materials/skybox/lakeboxbk.vmt,93,93
+materials/skybox/lakeboxbk.vtf,1398208,1398208
+materials/skybox/lakeboxdn.vmt,93,93
+materials/skybox/lakeboxdn.vtf,1398208,1398208
+materials/skybox/lakeboxft.vmt,93,93
+materials/skybox/lakeboxft.vtf,1398208,1398208
+materials/skybox/lakeboxlf.vmt,93,93
+materials/skybox/lakeboxlf.vtf,1398208,1398208
+materials/skybox/lakeboxrt.vmt,93,93
+materials/skybox/lakeboxrt.vtf,1398208,1398208
+materials/skybox/lakeboxup.vmt,93,93
+materials/skybox/lakeboxup.vtf,1398208,1398208
+sound/charli music/bf2142-theme.mp3.wav,3167422,3167422
+sound/charli music/bf2142-theme.mp3,3167422,3167422

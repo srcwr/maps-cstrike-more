@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/scout_grav150_v2/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/scout_grav150_v2/cubemapdefault.vtf,4960,4960
+materials/maps/scout_grav150_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/skybox/down-under512_bk.vmt,143,143
+materials/skybox/down-under512_bk.vtf,131280,131280
+materials/skybox/down-under512_dn.vmt,143,143
+materials/skybox/down-under512_dn.vtf,131280,131280
+materials/skybox/down-under512_ft.vmt,143,143
+materials/skybox/down-under512_ft.vtf,131280,131280
+materials/skybox/down-under512_lf.vmt,143,143
+materials/skybox/down-under512_lf.vtf,131280,131280
+materials/skybox/down-under512_rt.vmt,143,143
+materials/skybox/down-under512_rt.vtf,131280,131280
+materials/skybox/down-under512_up.vmt,143,143
+materials/skybox/down-under512_up.vtf,131280,131280

@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/awp_l_india_v3_tz_test/cubemapdefault.vtf,9824,9824
+materials/models/weapons/v_models/knife_t/knife_t.vmt,173,173
+materials/models/weapons/v_models/knife_t/knife_t.vtf,87528,87528
+materials/models/weapons/v_models/knife_t/knife_t_ref.vtf,87528,87528
+materials/models/weapons/v_models/snip_awp/v_AWP.vmt,171,171
+materials/models/weapons/v_models/snip_awp/v_AWP.vtf,349672,349672
+materials/models/weapons/v_models/snip_awp/v_AWP_ref.vtf,349672,349672
+materials/models/weapons/v_models/snip_awp/v_awp_scope.vmt,199,199
+materials/models/weapons/v_models/snip_awp/v_AWP_scope.vtf,2936,2936
+materials/models/weapons/v_models/snip_awp/v_AWP_scope_ref.vtf,2936,2936
+materials/models/weapons/w_models/w_knife_t/w_knife_t.vmt,89,89
+materials/models/weapons/w_models/w_knife_t/w_knife_t.vtf,87528,87528
+materials/models/weapons/w_models/w_snip_awp/w_snip_awp.vmt,91,91
+materials/models/weapons/w_models/w_snip_awp/w_snip_awp.vtf,174968,174968

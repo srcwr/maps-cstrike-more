@@ -1,0 +1,28 @@
+filename,size,compressed
+materials/maps/ze_voodoo_islands_v8_2_d/nature/water_canals03_-2420_4721_145.vmt,171,171
+materials/maps/ze_voodoo_islands_v8_2_d/tile/tilefloor012b_-2420_4721_145.vmt,145,145
+materials/maps/ze_voodoo_islands_v8_2_d/tile/tilefloor012a_-2420_4721_145.vmt,145,145
+materials/maps/ze_voodoo_islands_v8_2_d/metal/prodventa_-2420_4721_145.vmt,142,142
+materials/maps/ze_voodoo_islands_v8_2_d/nature/rockwall015a_-2420_4721_145.vmt,146,146
+materials/maps/ze_voodoo_islands_v8_2_d/concrete/concretefloor019a_-2420_4721_145.vmt,153,153
+materials/maps/ze_voodoo_islands_v8_2_d/effects/com_shield003a_-2420_4721_145.vmt,172,172
+materials/maps/ze_voodoo_islands_v8_2_d/glass/offlightcover_off_-2420_4721_145.vmt,150,150
+materials/maps/ze_voodoo_islands_v8_2_d/cs_havana/door04_-2420_4721_145.vmt,143,143
+materials/maps/ze_voodoo_islands_v8_2_d/glass/combineglass001a_-2420_4721_145.vmt,149,149
+materials/maps/ze_voodoo_islands_v8_2_d/maps/ze_voodoo_islands_v8_2_d/nature/water_canals03_-2420_4721_145_depth_124.vmt,154,154
+materials/maps/ze_voodoo_islands_v8_2_d/maps/ze_voodoo_islands_v8_2_d/nature/water_canals03_-2420_4721_145_depth_140.vmt,154,154
+materials/maps/ze_voodoo_islands_v8_2_d/maps/ze_voodoo_islands_v8_2_d/nature/water_canals03_-2420_4721_145_depth_4.vmt,152,152
+materials/maps/ze_voodoo_islands_v8_2_d/cubemapdefault.vtf,9832,9832
+materials/maps/ze_voodoo_islands_v8_2_d/c-2420_4721_145.vtf,9832,9832
+materials/maps/ze_voodoo_islands_v8_2_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_voodoo_islands_v8_2_d/c-2420_4721_145.hdr.vtf,76528,76528
+sound/denn15 sound/zeab.mp3,875589,875589
+sound/denn15 sound/zest.mp3,1708164,1708164
+materials/custom_nature/animatedlava.vmt,252,252
+materials/custom_nature/animatedlava.vtf,5593040,5593040
+materials/custom_nature/animatedlava2.vmt,253,253
+materials/custom_nature/animatedlava2.vtf,5593040,5593040
+materials/devneons/red_dev_neon.vmt,106,106
+materials/devneons/red_dev_neon.vtf,11144,11144
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912

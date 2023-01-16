@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/mesnak/stone/stonefloor006a_2048_-1319_56.vmt,128,128
+materials/maps/mesnak/brick/brickwall031g_2048_-1319_56.vmt,127,127
+materials/maps/mesnak/brick/brickwall031b_2048_-1319_56.vmt,127,127
+materials/maps/mesnak/dev/dev_water2_2048_-1319_56.vmt,145,145
+materials/maps/mesnak/plaster/plasterwall049c_2048_-1319_56.vmt,131,131
+materials/maps/mesnak/plaster/plasterwall013g_2048_-1319_56.vmt,131,131
+materials/maps/mesnak/maps/mesnak/dev/dev_water2_2048_-1319_56_depth_8.vmt,126,126
+materials/maps/mesnak/cubemapdefault.vtf,9832,9832
+materials/maps/mesnak/c2048_-1319_56.vtf,9832,9832
+materials/maps/mesnak/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mesnak/c2048_-1319_56.hdr.vtf,76528,76528

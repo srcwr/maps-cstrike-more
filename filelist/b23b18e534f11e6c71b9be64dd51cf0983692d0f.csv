@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/gg_barnone/cubemapdefault.vtf,28753,28753
+materials/maps/gg_barnone/c128_-384_393.vtf,28753,28753
+materials/maps/gg_barnone/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_barnone/c128_-384_393.hdr.vtf,76528,76528
+materials/decals/custom/cds/cds_worm.vmt,132,132
+materials/decals/custom/cDS/cDS_Worm.vtf,1528,1528
+maps/gg_barnone.nav,69954,69954
+maps/soundcache/gg_barnone.cache,16,16
+resource/overviews/gg_barnone.txt,129,129
+materials/overviews/gg_barnone.vmt,143,143
+materials/overviews/gg_barnone_radar.vtf,699272,699272

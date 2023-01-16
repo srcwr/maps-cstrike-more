@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/bhop_fairworld_beta1/metal/metalwall048a_128_-256_-320.vmt,141,141
+materials/maps/bhop_fairworld_beta1/glass/unbreakable_128_-256_-320.vmt,139,139
+materials/maps/bhop_fairworld_beta1/metal/metalpipe009a_128_-256_-320.vmt,141,141
+materials/maps/bhop_fairworld_beta1/dev/dev_water2_128_-256_-320.vmt,159,159
+materials/maps/bhop_fairworld_beta1/cs_assault/pavement001a_128_-256_-320.vmt,145,145
+materials/maps/bhop_fairworld_beta1/dev/dev_water5_128_-256_-320.vmt,159,159
+materials/maps/bhop_fairworld_beta1/maps/bhop_fairworld_beta1/dev/dev_water2_128_-256_-320_depth_56.vmt,141,141
+materials/maps/bhop_fairworld_beta1/maps/bhop_fairworld_beta1/dev/dev_water2_128_-256_-320_depth_4.vmt,140,140
+materials/maps/bhop_fairworld_beta1/maps/bhop_fairworld_beta1/dev/dev_water5_128_-256_-320_depth_192.vmt,142,142
+materials/maps/bhop_fairworld_beta1/cubemapdefault.vtf,9824,9824
+materials/maps/bhop_fairworld_beta1/c128_-256_-320.vtf,4952,4952
+materials/maps/bhop_fairworld_beta1/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/bhop_fairworld_beta1/c128_-256_-320.hdr.vtf,76520,76520

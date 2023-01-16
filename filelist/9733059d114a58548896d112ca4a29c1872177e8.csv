@@ -1,0 +1,80 @@
+filename,size,compressed
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_8.vmt,112,112
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_6.vmt,112,112
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_16.vmt,113,113
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_590.vmt,114,114
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_7.vmt,112,112
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_168.vmt,114,114
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_15.vmt,113,113
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_862.vmt,114,114
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_1492.vmt,115,115
+materials/maps/surf_forbidden_tomb3/nature/water_canals03_dx70_depth_4.vmt,112,112
+materials/maps/surf_forbidden_tomb3/cubemapdefault.vtf,9824,9824
+materials/GIZA/STONE-BLOCKS.vmt,95,95
+materials/giza/stone-blocks.vtf,174968,174968
+materials/GIZA/SANDRIPPLE.vmt,89,89
+materials/giza/sandripple.vtf,174968,174968
+materials/GIZA/EGYPTWALL1.vmt,65,65
+materials/giza/EgyptWall1.vtf,174984,174984
+materials/GIZA/TOMB-GLYPHS.vmt,94,94
+materials/giza/tomb-glyphs.vtf,174968,174968
+materials/DECALS/EGYPTDECAL2B.vmt,112,112
+materials/decals/egyptdecal3.vtf,699232,699232
+materials/GIZA/STONE-BLOCK.vmt,94,94
+materials/giza/stone-block.vtf,174968,174968
+materials/RYAN_DEV/RBG_BLUE.vmt,96,96
+materials/ryan_dev/rbg_blue.vtf,11144,11144
+materials/RYAN_DEV/RBG_MAGENTA.vmt,99,99
+materials/ryan_dev/rbg_magenta.vtf,11144,11144
+materials/DECALS/CUSTOM/MANI_ADMIN_PLUGIN/METALFLOORBLACK.vmt,185,185
+materials/decals/custom/mani_admin_plugin/metalfloorBlack.vtf,349760,349760
+materials/RYAN_DEV/RBG_YELLOW.vmt,98,98
+materials/ryan_dev/rbg_yellow.vtf,11144,11144
+materials/RYAN_DEV/RBG_RED.vmt,95,95
+materials/ryan_dev/rbg_red.vtf,11144,11144
+materials/RYAN_DEV/RBG_CYAN.vmt,96,96
+materials/ryan_dev/rbg_cyan.vtf,11144,11144
+materials/RYAN_DEV/PURE_RED.vmt,65,65
+materials/ryan_dev/pure_red.vtf,11144,11144
+models/_amstaff_/egypt1/amstaff_big.mdl,1664,1664
+models/_amstaff_/egypt1/amstaff_big.dx80.vtx,115482,115482
+models/_amstaff_/egypt1/amstaff_big.dx90.vtx,115482,115482
+models/_amstaff_/egypt1/amstaff_big.sw.vtx,115482,115482
+models/_amstaff_/egypt1/amstaff_big.phy,5990,5990
+models/_amstaff_/egypt1/amstaff_big.vvd,440384,440384
+materials/models/_AmstaFF_/egypt1/anubis_stand.vmt,263,263
+materials/models/_AmstaFF_/egypt1/anubis_stand.vtf,2796424,2796424
+materials/models/_AmstaFF_/egypt1/anubis_stand1.vmt,264,264
+materials/models/_AmstaFF_/egypt1/anubis_stand1.vtf,699272,699272
+models/_amstaff_/egypt1/amstaff_normal.mdl,1464,1464
+models/_amstaff_/egypt1/amstaff_normal.dx80.vtx,66657,66657
+models/_amstaff_/egypt1/amstaff_normal.dx90.vtx,66657,66657
+models/_amstaff_/egypt1/amstaff_normal.sw.vtx,66657,66657
+models/_amstaff_/egypt1/amstaff_normal.phy,4312,4312
+models/_amstaff_/egypt1/amstaff_normal.vvd,241728,241728
+materials/models/_AmstaFF_/egypt1/anubis.vmt,257,257
+materials/models/_AmstaFF_/egypt1/anubis.vtf,699272,699272
+models/_amstaff_/egypt1/anubis_.mdl,1664,1664
+models/_amstaff_/egypt1/anubis_.dx80.vtx,115482,115482
+models/_amstaff_/egypt1/anubis_.dx90.vtx,115482,115482
+models/_amstaff_/egypt1/anubis_.sw.vtx,115482,115482
+models/_amstaff_/egypt1/anubis_.phy,5653,5653
+models/_amstaff_/egypt1/anubis_.vvd,440384,440384
+models/_amstaff_/egypt1/anubis_normal.mdl,1464,1464
+models/_amstaff_/egypt1/anubis_normal.dx80.vtx,66657,66657
+models/_amstaff_/egypt1/anubis_normal.dx90.vtx,66657,66657
+models/_amstaff_/egypt1/anubis_normal.sw.vtx,66657,66657
+models/_amstaff_/egypt1/anubis_normal.phy,2967,2967
+models/_amstaff_/egypt1/anubis_normal.vvd,241728,241728
+materials/decals/egyptdecal2.vmt,112,112
+materials/decals/egyptdecal2.vtf,174944,174944
+materials/decals/egyptdecal3.vmt,112,112
+sound/ciuri ciuri css.mp3,1283755,1283755
+sound/nowyou'regone css.mp3,1105704,1105704
+sound/harmonica css.mp3,1777782,1777782
+sound/manontherun css.mp3,2174008,2174008
+sound/gipsyromano css.mp3,1262439,1262439
+sound/thrapp css.mp3,1162376,1162376
+sound/what css.mp3,1220681,1220681
+sound/runforcover css.mp3,1715336,1715336
+maps/soundcache/surf_forbidden_tomb3.cache,159397,159397

@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/bihapproject/maps/trikz_noflash/water1/toolswater_depth_16_depth_32.vmt,132,132
+materials/maps/bihapproject/cubemapdefault.vtf,4960,4960
+materials/maps/bihapproject/cubemapdefault.hdr.vtf,76528,76528
+materials/RYAN_DEV/RBG_CYAN.vmt,65,65
+materials/ryan_dev/rbg_cyan.vtf,11144,11144
+materials/RYAN_DEV/PASTEL_CYAN2.vmt,61,61
+materials/ryan_dev/pastel_cyan2.vtf,11144,11144
+materials/MAPS/TRIKZ_NOFLASH/WATER1/TOOLSWATER_DEPTH_16.vmt,104,104
+materials/water1/toolswater.vmt,265,265
+materials/water1/toolswater.vtf,22080,22080
+materials/water1/toolswater_beneath.vmt,225,225
+materials/water1/toolswater_beneath.vtf,22080,22080
+materials/DEVURA/REFLECTIVITY_50B.vmt,136,136
+materials/B2/CYANGLASS.vmt,107,107
+materials/b2/cyanglass.vtf,2952,2952
+materials/RYAN_DEV/80.vmt,59,59
+materials/ryan_dev/80.vtf,11144,11144
+materials/RYAN_DEV/WHITE.vmt,62,62
+materials/ryan_dev/white.vtf,11144,11144
+materials/skybox/toolsskybox11up.vmt,55,55
+materials/skybox/Toolsskybox11up.vtf,174984,174984
+materials/skybox/toolsskybox11dn.vmt,55,55
+materials/skybox/Toolsskybox11dn.vtf,174984,174984
+materials/skybox/toolsskybox11ft.vmt,55,55
+materials/skybox/Toolsskybox11ft.vtf,174984,174984
+materials/skybox/toolsskybox11bk.vmt,55,55
+materials/skybox/Toolsskybox11bk.vtf,174984,174984
+materials/skybox/toolsskybox11lf.vmt,55,55
+materials/skybox/Toolsskybox11lf.vtf,174984,174984
+materials/skybox/toolsskybox11rt.vmt,55,55
+materials/skybox/Toolsskybox11rt.vtf,174984,174984
+materials/sparx/End Timer.vmt,76,76
+materials/sparx/End Timer.vtf,5632,5632
+materials/sparx/Start Timer.vmt,78,78
+materials/sparx/Start Timer.vtf,5632,5632

@@ -1,0 +1,9 @@
+filename,size,compressed
+materials/maps/dm_waterpool/tile/milflr002_0_0_0.vmt,120,120
+materials/maps/dm_waterpool/dev/dev_water2_0_0_0.vmt,143,143
+materials/maps/dm_waterpool/dev/dev_water2_depth_86.vmt,101,101
+materials/maps/dm_waterpool/liquids/militiawaterbeneath_depth_16.vmt,114,114
+materials/maps/dm_waterpool/cubemapdefault.vtf,28753,28753
+materials/maps/dm_waterpool/c0_0_0.vtf,28753,28753
+materials/maps/dm_waterpool/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/dm_waterpool/c0_0_0.hdr.vtf,76528,76528

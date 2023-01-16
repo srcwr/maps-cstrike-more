@@ -1,0 +1,73 @@
+filename,size,compressed
+materials/maps/bhop_peepoo/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_peepoo/cubemapdefault.hdr.vtf,76528,76528
+materials/Color/deep pink.vmt,67,67
+materials/Color/alice blue.vtf,11144,11144
+materials/Color/black.vmt,62,62
+materials/Color/black.vtf,11144,11144
+materials/Color/dark slate gray.vmt,72,72
+materials/Color/dark slate gray.vtf,11144,11144
+materials/cveta/black.vmt,57,57
+materials/cveta/black2.vtf,1398308,1398308
+materials/dark_dirt_reflection.vmt,62,62
+materials/dark_dirt_reflection.vtf,175000,175000
+materials/Color/dark cerulean.vmt,70,70
+materials/Color/dark cerulean.vtf,11144,11144
+materials/Color/blue green.vmt,67,67
+materials/Color/blue green.vtf,11144,11144
+materials/Saspatoon/Glass/GlassCyan.vmt,227,227
+materials/Saspatoon/Glass/GlassCyan.vtf,349760,349760
+materials/Color/white.vmt,62,62
+materials/Color/white.vtf,11144,11144
+materials/Color/amaranth.vmt,65,65
+materials/Color/amaranth.vtf,11144,11144
+materials/Color/tangerine yellow.vmt,73,73
+materials/Color/tangerine yellow.vtf,11144,11144
+materials/Color/blue.vmt,61,61
+materials/Color/blue.vtf,11144,11144
+materials/Color/dark turquoise.vmt,71,71
+materials/Color/dark turquoise.vtf,11144,11144
+materials/RealWorldTextures2/Wood/wood_crate_03.vmt,323,323
+materials/RealWorldTextures2/Wood/wood_crate_03.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_wood1.vtf,16807,16807
+materials/Color/deep lilac.vmt,67,67
+materials/Color/deep lilac.vtf,11144,11144
+materials/Color/bright green.vmt,69,69
+materials/Color/bright green.vtf,11144,11144
+materials/Color/aqua.vmt,61,61
+materials/Color/aqua.vtf,11144,11144
+materials/Color/brilliant rose.vmt,71,71
+materials/Color/brilliant rose.vtf,11144,11144
+materials/Color/blaze orange.vmt,69,69
+materials/Color/blaze orange.vtf,11144,11144
+materials/Color/electric blue.vmt,70,70
+materials/Color/electric blue.vtf,11144,11144
+materials/Color/army green.vmt,67,67
+materials/Color/army green.vtf,11144,11144
+materials/skybox/sky177up.vmt,85,85
+materials/skybox/sky177up.vtf,16777423,16777423
+materials/skybox/sky177dn.vmt,83,83
+materials/skybox/sky177dn.vtf,16777423,16777423
+materials/skybox/sky177lf.vmt,83,83
+materials/skybox/sky177lf.vtf,16777423,16777423
+materials/skybox/sky177rt.vmt,83,83
+materials/skybox/sky177rt.vtf,16777423,16777423
+materials/skybox/sky177ft.vmt,83,83
+materials/skybox/sky177ft.vtf,16777423,16777423
+materials/skybox/sky177bk.vmt,87,87
+materials/skybox/sky177bk.vtf,16777423,16777423
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_l_02_n.mdl,2444,2444
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_l_02_n.vvd,559104,559104
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_n.dx90.vtx,110949,110949
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_n.dx80.vtx,110949,110949
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_n.sw.vtx,110949,110949
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_n.phy,2014,2014
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/bark_06.vmt,122,122
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/bark_06.vtf,2796448,2796448
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_n.vmt,157,157
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_n.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_n.vmt,157,157
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_n.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/branch_02.vmt,150,150
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/branch_02.vtf,1398360,1398360
+maps/bhop_peepoo.nav,205,205

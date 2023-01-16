@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/aim_ultra/nature/blendmilground004_12_wvt_patch.vmt,93,93
+materials/maps/aim_ultra/concrete/milflr001_0_0_0.vmt,121,121
+materials/maps/aim_ultra/nature/sewer_water001_depth_16.vmt,108,108
+materials/maps/aim_ultra/cubemapdefault.vtf,9832,9832
+materials/maps/aim_ultra/c0_0_0.vtf,9832,9832
+materials/maps/aim_ultra/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_ultra/c0_0_0.hdr.vtf,76528,76528
+maps/aim_ultra.nav,334479,334479
+maps/aim_ultra.txt,203,203
+materials/acidtex/acid_credits.vmt,104,104
+materials/acidtex/acid_credits.vtf,87616,87616
+materials/overviews/aim_ultra.vmt,141,141
+materials/overviews/aim_ultra.vtf,87616,87616
+resource/overviews/aim_ultra.txt,163,163

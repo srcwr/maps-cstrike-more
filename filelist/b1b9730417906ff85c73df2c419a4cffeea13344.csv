@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/ttw_3way/tile/milflr002_0_0_0.vmt,116,116
+materials/maps/ttw_3way/tile/tilewall006a_0_0_0.vmt,119,119
+materials/maps/ttw_3way/tile/tilewall006c_0_0_0.vmt,119,119
+materials/maps/ttw_3way/tile/tilewall006b_0_0_0.vmt,119,119
+materials/maps/ttw_3way/cubemapdefault.vtf,9824,9824
+materials/maps/ttw_3way/c0_0_0.vtf,9824,9824
+materials/gangstakill test/killblue.vmt,92,92
+materials/gangstakill test/killred.vmt,91,91
+materials/vgui/logos/gangstakillblue2red.vmt,136,136
+materials/vgui/logos/gangstakillblue2red.vtf,87616,87616

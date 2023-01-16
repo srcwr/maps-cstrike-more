@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/sevens_gungame_map/cubemapdefault.vtf,9824,9824
+materials/maps/sevens_gungame_map/c0_0_64.vtf,4952,4952
+materials/maps/sevens_gungame_map/c0_640_64.vtf,4952,4952
+materials/maps/sevens_gungame_map/c0_-640_64.vtf,4952,4952
+materials/maps/sevens_gungame_map/c-640_0_64.vtf,4952,4952
+materials/maps/sevens_gungame_map/c640_0_64.vtf,4952,4952
+materials/maps/sevens_gungame_map/c-512_1280_64.vtf,4952,4952
+materials/maps/sevens_gungame_map/c512_1280_64.vtf,4952,4952
+materials/maps/sevens_gungame_map/c-512_-1280_64.vtf,4952,4952
+materials/maps/sevens_gungame_map/c512_-1280_64.vtf,4952,4952

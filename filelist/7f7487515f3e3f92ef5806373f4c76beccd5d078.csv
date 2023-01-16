@@ -1,0 +1,20 @@
+filename,size,compressed
+materials/maps/zm_greenbriar_b5_o/tile/tilewall009b_-1952_-1125_-200.vmt,140,140
+materials/maps/zm_greenbriar_b5_o/tile/tilefloor018a_-1952_-1125_-200.vmt,141,141
+materials/maps/zm_greenbriar_b5_o/tile/tilewall009b_-2504_-1386_-184.vmt,140,140
+materials/maps/zm_greenbriar_b5_o/tile/tilewall009b_-2614_-948_-200.vmt,139,139
+materials/maps/zm_greenbriar_b5_o/nature/water_canals_water_murky_-1952_-1125_-200.vmt,177,177
+materials/maps/zm_greenbriar_b5_o/nature/water_canals_water_murky_-2504_-1386_-184.vmt,177,177
+materials/maps/zm_greenbriar_b5_o/metal/metalfloor001a_-1952_-1125_-200.vmt,143,143
+materials/maps/zm_greenbriar_b5_o/metal/metalfloor001a_-2504_-1386_-184.vmt,143,143
+materials/maps/zm_greenbriar_b5_o/maps/zm_greenbriar_b5_o/nature/water_canals_water_murky_-2504_-1386_-184_depth_40.vmt,159,159
+materials/maps/zm_greenbriar_b5_o/cubemapdefault.vtf,28753,28753
+materials/maps/zm_greenbriar_b5_o/c-1952_-1125_-200.vtf,28753,28753
+materials/maps/zm_greenbriar_b5_o/c-2504_-1386_-184.vtf,28753,28753
+materials/maps/zm_greenbriar_b5_o/c-2614_-948_-200.vtf,28753,28753
+materials/maps/zm_greenbriar_b5_o/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_greenbriar_b5_o/c-1952_-1125_-200.hdr.vtf,76528,76528
+materials/maps/zm_greenbriar_b5_o/c-2504_-1386_-184.hdr.vtf,76528,76528
+materials/maps/zm_greenbriar_b5_o/c-2614_-948_-200.hdr.vtf,76528,76528
+sound/custom/03 - lustmord - congregants requests 1.mp3,15564410,15564410
+sound/custom/04 - lustmord - black star.mp3,21617260,21617260

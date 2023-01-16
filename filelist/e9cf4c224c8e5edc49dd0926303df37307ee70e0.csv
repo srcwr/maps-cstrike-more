@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/fight_park/liquids/infernowater_-384_-352_104.vmt,155,155
+materials/maps/fight_park/liquids/infernowater_512_1088_0.vmt,152,152
+materials/maps/fight_park/maps/fight_park/liquids/infernowater_-384_-352_104_depth_48.vmt,137,137
+materials/maps/fight_park/maps/fight_park/liquids/infernowater_512_1088_0_depth_80.vmt,134,134
+materials/maps/fight_park/cubemapdefault.vtf,9832,9832
+materials/maps/fight_park/c-384_-352_104.vtf,9832,9832
+materials/maps/fight_park/c512_1088_0.vtf,9832,9832
+materials/maps/fight_park/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/fight_park/c-384_-352_104.hdr.vtf,76528,76528
+materials/maps/fight_park/c512_1088_0.hdr.vtf,76528,76528

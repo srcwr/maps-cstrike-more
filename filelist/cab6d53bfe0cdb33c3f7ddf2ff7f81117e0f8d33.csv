@@ -1,0 +1,43 @@
+filename,size,compressed
+materials/maps/reflex3final/environment maps/pipemetal004b_768_-768_128.vmt,143,143
+materials/maps/reflex3final/environment maps/pipemetal004b_1072_-720_192.vmt,144,144
+materials/maps/reflex3final/environment maps/pipemetal004b_464_-720_192.vmt,143,143
+materials/maps/reflex3final/environment maps/pipemetal004b_-98_-736_288.vmt,143,143
+materials/maps/reflex3final/environment maps/pipemetal004b_768_-192_128.vmt,143,143
+materials/maps/reflex3final/environment maps/pipemetal004b_464_-240_192.vmt,143,143
+materials/maps/reflex3final/environment maps/pipemetal004b_1072_-240_192.vmt,144,144
+materials/maps/reflex3final/environment maps/pipemetal001a_-98_-224_288.vmt,143,143
+materials/maps/reflex3final/cubemapdefault.vtf,9808,9808
+materials/maps/reflex3final/c768_-768_128.vtf,4936,4936
+materials/maps/reflex3final/c1072_-720_192.vtf,4936,4936
+materials/maps/reflex3final/c464_-720_192.vtf,4936,4936
+materials/maps/reflex3final/c-98_-736_288.vtf,4936,4936
+materials/maps/reflex3final/c768_-192_128.vtf,4936,4936
+materials/maps/reflex3final/c464_-240_192.vtf,4936,4936
+materials/maps/reflex3final/c1072_-240_192.vtf,4936,4936
+materials/maps/reflex3final/c-98_-224_288.vtf,4936,4936
+materials/cs_reflex3/cs_reflex3.vmt,69,69
+materials/cs_reflex3/cs_reflex3.vtf,43816,43816
+materials/maps/reflex3final/c112_-480_268.vtf,4936,4936
+materials/maps/reflex3final/c768_-480_128.vtf,4936,4936
+materials/maps/reflex3final/c1792_-480_320.vtf,4936,4936
+materials/maps/reflex3final/c1634_-736_288.vtf,4936,4936
+materials/maps/reflex3final/c1634_-224_288.vtf,4936,4936
+materials/maps/reflex3final/c1424_-480_268.vtf,4936,4936
+materials/maps/reflex3final/c-256_-480_320.vtf,4936,4936
+materials/maps/cs_reflex3/c-98_-736_288.vtf,4936,4936
+materials/maps/cs_reflex3/c-98_-224_288.vtf,4936,4936
+materials/maps/cs_reflex3/c112_-480_268.vtf,4936,4936
+materials/maps/cs_reflex3/c464_-240_192.vtf,4936,4936
+materials/maps/cs_reflex3/c464_-720_192.vtf,4936,4936
+materials/maps/cs_reflex3/c768_-480_128.vtf,4936,4936
+materials/maps/cs_reflex3/c768_-768_128.vtf,4936,4936
+materials/maps/cs_reflex3/c768_-192_128.vtf,4936,4936
+materials/maps/cs_reflex3/c1792_-480_320.vtf,4936,4936
+materials/maps/cs_reflex3/c1634_-736_288.vtf,4936,4936
+materials/maps/cs_reflex3/c1634_-224_288.vtf,4936,4936
+materials/maps/cs_reflex3/c1424_-480_268.vtf,4936,4936
+materials/maps/cs_reflex3/c1072_-720_192.vtf,4936,4936
+materials/maps/cs_reflex3/c1072_-240_192.vtf,4936,4936
+materials/maps/cs_reflex3/c-256_-480_320.vtf,4936,4936
+materials/maps/cs_reflex3/cubemapdefault.vtf,9808,9808

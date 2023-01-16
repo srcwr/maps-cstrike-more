@@ -1,0 +1,88 @@
+filename,size,compressed
+materials/360G/GLAS/MILCHGLAS GLASTEXTUR.vmt,260,260
+materials/360g/Glas/Milchglas Glastextur.vtf,349744,349744
+materials/360g/Glas/Milchglas Glastextur_Specular.vtf,349744,349744
+materials/360G/SONSTIGES/PFEIL_WEISS.vmt,129,129
+materials/360g/Sonstiges/pfeil_weiss.vtf,349744,349744
+materials/360G/SONSTIGES/SURF_CRZYFROG_SPECBILD.vmt,295,295
+materials/360g/Sonstiges/surf_crzyfrog_specbild.vtf,349672,349672
+materials/Customs/neon_rot.vtf,87600,87600
+materials/CUSTOMS/ROT_TEX.vmt,88,88
+materials/MAPS/STENESFOREST/NATURE/WATER_CANALS03_-786_692_-191.vmt,158,158
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_-12556_8844_-1010.vmt,158,158
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_-9039_6159_7064.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_-9039_7798_7064.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_10008_-2687_3315.vmt,157,157
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_10293_-3308_3234.vmt,157,157
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_7663_-8550_4600.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_9460_-3309_3234.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_9735_-3740_3315.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_9752_-2687_3315.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_9777_-1951_2919.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_9876_-102_3488.vmt,155,155
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_9876_-2687_3558.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_9876_-3285_3558.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_9984_-1952_2919.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/360g/glas/milchglas glastextur_9992_-3740_3315.vmt,156,156
+materials/maps/surf_crzyfrog_reloaded/c-10405_-6984_55.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c-12556_8844_-1010.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c-166_-8548_-2400.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c-6960_6978_7208.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c-9039_6159_7064.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c-9039_7798_7064.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c10008_-2687_3315.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c10293_-3308_3234.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c3934_-8546_-2400.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c6680_-8550_1306.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c7663_-8550_4600.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c8628_-14074_-632.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9460_-3309_3234.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9735_-3740_3315.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9752_-2687_3315.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9777_-1951_2919.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9876_-102_3488.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9876_-2687_3558.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9876_-3285_3558.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9876_7485_1087.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9984_-1952_2919.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/c9992_-3740_3315.vtf,4952,4952
+materials/maps/surf_crzyfrog_reloaded/cubemapdefault.vtf,9824,9824
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_-10405_-6984_55.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_-12556_8844_-1010.vmt,149,149
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_-166_-8548_-2400.vmt,148,148
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_-6960_6978_7208.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_-9039_6159_7064.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_-9039_7798_7064.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_10293_-3308_3234.vmt,148,148
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_3934_-8546_-2400.vmt,148,148
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_6680_-8550_1306.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_7663_-8550_4600.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_8628_-14074_-632.vmt,148,148
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_9460_-3309_3234.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_9735_-3740_3315.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_9777_-1951_2919.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_9876_-102_3488.vmt,146,146
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_9876_-2687_3558.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_9876_7485_1087.vmt,146,146
+materials/maps/surf_crzyfrog_reloaded/glass/glasswindow007a_9984_-1952_2919.vmt,147,147
+materials/maps/surf_crzyfrog_reloaded/maps/stenesforest/nature/water_canals03_-786_692_-191_depth_16.vmt,140,140
+materials/maps/surf_crzyfrog_reloaded/maps/stenesforest/nature/water_canals03_-786_692_-191_depth_4.vmt,139,139
+materials/maps/surf_crzyfrog_reloaded/maps/stenesforest/nature/water_canals03_-786_692_-191_depth_8.vmt,139,139
+materials/maps/surf_crzyfrog_reloaded/maps/stenesforest/nature/water_canals03_-786_692_-191_depth_96.vmt,140,140
+materials/skybox/karatekΣfer/mpa15_2bk.vmt,98,98
+materials/skybox/KaratekΣfer/mpa15_2bk.vtf,699272,699272
+materials/skybox/karatekΣfer/mpa15_2dn.vmt,98,98
+materials/skybox/KaratekΣfer/mpa15_2dn.vtf,699272,699272
+materials/skybox/karatekΣfer/mpa15_2ft.vmt,98,98
+materials/skybox/KaratekΣfer/mpa15_2ft.vtf,699272,699272
+materials/skybox/karatekΣfer/mpa15_2lf.vmt,98,98
+materials/skybox/KaratekΣfer/mpa15_2lf.vtf,699272,699272
+materials/skybox/karatekΣfer/mpa15_2rt.vmt,98,98
+materials/skybox/KaratekΣfer/mpa15_2rt.vtf,699272,699272
+materials/skybox/karatekΣfer/mpa15_2up.vmt,98,98
+materials/skybox/KaratekΣfer/mpa15_2up.vtf,699272,699272
+materials/VNIX/VNIX.vtf,87600,87600
+materials/VNIX/VNIXA.vmt,82,82
+materials/VNIX/VNIXB.vmt,88,88
+materials/VNIX/VNIXC.vmt,79,79
+materials/VNIX/VNIXD.vmt,79,79

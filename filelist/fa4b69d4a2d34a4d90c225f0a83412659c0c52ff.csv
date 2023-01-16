@@ -1,0 +1,75 @@
+filename,size,compressed
+materials/maps/zm_appartment_x2/vbd/pack 2 remnont/remn_met_trim3_0_0_0.vmt,143,143
+materials/maps/zm_appartment_x2/colour/water/water_cyan01_depth_128.vmt,113,113
+materials/maps/zm_appartment_x2/cubemapdefault.vtf,9832,9832
+materials/maps/zm_appartment_x2/c0_0_0.vtf,4960,4960
+materials/maps/zm_appartment_x2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_appartment_x2/c0_0_0.hdr.vtf,76528,76528
+materials/REALWORLDTEXTURES/NEW/TILES_WHITE.vmt,231,231
+materials/RealWorldTextures/new/Tiles_white.vtf,174984,174984
+materials/RealWorldTextures/new/Tiles_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_BLUE.vmt,230,230
+materials/RealWorldTextures/new/Tiles_Blue.vtf,174984,174984
+materials/COLOUR/METAL/TRAIN_METALCEILING_02_RED.vmt,86,86
+materials/colour/metal/train_metalceiling_02_red.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/REMN_METAL_P1A.vmt,323,323
+materials/VBD/PACK 2 REMNONT/REMN_METALFLOOR3.vmt,328,328
+materials/REALWORLDTEXTURES/NEW/TILES_RED.vmt,229,229
+materials/RealWorldTextures/new/Tiles_red.vtf,174984,174984
+materials/WOOD BOX.vmt,84,84
+materials/COLOUR/METAL/METALWALL013A_BLUE.vmt,79,79
+materials/colour/metal/metalwall013a_blue.vtf,349760,349760
+materials/COLOUR/METAL/PRODCAUTION_RED.vmt,76,76
+materials/colour/metal/prodcaution_red.vtf,87616,87616
+materials/COLOUR/GLASS/LOLGLASS.vmt,116,116
+materials/colour/glass/lolglass.vtf,2952,2952
+materials/ICECREAMLOCK/SPACEWALL.vmt,99,99
+materials/icecreamlock/spacewall.vtf,174984,174984
+materials/COLOUR/NEON/WHITE_NEON.vmt,107,107
+materials/colour/neon/white_neon.vtf,43912,43912
+materials/COLOUR/METAL/METALFLOOR003A_BLUE.vmt,80,80
+materials/colour/metal/metalfloor003a_blue.vtf,349760,349760
+materials/ICECREAMLOCK/METALFLOOR.vmt,105,105
+materials/icecreamlock/metalfloor.vtf,174984,174984
+materials/COLOUR/METAL/METALFLOOR003A_RED.vmt,79,79
+materials/colour/metal/metalfloor003a_red.vtf,349760,349760
+materials/COLOUR/WATER/WATER_CYAN01.vmt,1441,1441
+materials/water/water_cyan01_dx70.vmt,1640,1640
+materials/water/water_cyan01_beneath.vmt,1159,1159
+materials/COLOUR/METAL/METALFLOOR003A_BLACK.vmt,81,81
+materials/colour/metal/metalfloor003a_black.vtf,349760,349760
+materials/BMTP3/ALAB1_FIREDOOR1A.vmt,140,140
+materials/BMTP3/alab1_firedoor1a.vtf,1398308,1398308
+materials/BMTP3/alab1_firedoor1a_normal.vtf,1398308,1398308
+materials/VBD/PACK 2 REMNONT/REMN_WALL_SUP_CENTER2.vmt,338,338
+materials/COLOUR/METAL/TRAIN_METALCEILING_02_PURPLE.vmt,89,89
+materials/colour/metal/train_metalceiling_02_purple.vtf,349760,349760
+materials/COLOUR/METAL/TRAIN_METALCEILING_02_CYAN.vmt,87,87
+materials/colour/metal/train_metalceiling_02_cyan.vtf,349760,349760
+materials/COLOUR/METAL/TRAIN_METALCEILING_02_YELLOW.vmt,89,89
+materials/colour/metal/train_metalceiling_02_yellow.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/REMN_WALL1.vmt,316,316
+materials/COLOUR/METAL/TRAIN_METALCEILING_02_BLUE.vmt,87,87
+materials/colour/metal/train_metalceiling_02_blue.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/REMN_MET_TRIM3.vmt,324,324
+materials/SILKROAD/DONSWHANG/CJ_FERRY_BOX.vmt,98,98
+materials/Silkroad/Donswhang/cj_ferry_box.vtf,22080,22080
+materials/COLOUR/NEON/BLUE_NEON.vmt,106,106
+materials/colour/neon/blue_neon.vtf,43912,43912
+materials/skybox/mpa100up.vmt,85,85
+materials/skybox/mpa100up.vtf,699272,699272
+materials/skybox/mpa100dn.vmt,85,85
+materials/skybox/mpa100dn.vtf,699272,699272
+materials/skybox/mpa100ft.vmt,85,85
+materials/skybox/mpa100ft.vtf,699272,699272
+materials/skybox/mpa100bk.vmt,85,85
+materials/skybox/mpa100bk.vtf,699272,699272
+materials/skybox/mpa100lf.vmt,85,85
+materials/skybox/mpa100lf.vtf,699272,699272
+materials/skybox/mpa100rt.vmt,85,85
+materials/skybox/mpa100rt.vtf,699272,699272
+maps/soundcache/zm_appartment_x2.cache,16,16
+materials/wood box.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_met_trim3.vtf,22008,22008

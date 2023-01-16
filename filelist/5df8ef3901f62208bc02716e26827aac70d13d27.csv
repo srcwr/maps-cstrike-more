@@ -1,0 +1,147 @@
+filename,size,compressed
+materials/CUSTOM/CRYSTAL TILES.vmt,89,89
+materials/custom/Crystal Tiles.vtf,174984,174984
+materials/CUSTOM/FRUIT JELLY.vmt,92,92
+materials/custom/Fruit Jelly.vtf,174984,174984
+materials/CUSTOM/LIQUID CRYSTAL 2.vmt,94,94
+materials/custom/Liquid Crystal 2.vtf,174984,174984
+materials/CUSTOM/MELTING RUBBER.vmt,92,92
+materials/custom/Melting Rubber.vtf,174984,174984
+materials/CUSTOM/SKAR012.vmt,83,83
+materials/custom/skar012.vtf,174984,174984
+materials/CUSTOM/SKAR013.vmt,83,83
+materials/custom/skar013.vtf,174984,174984
+materials/CUSTOM/SKAR1BLUE.vmt,85,85
+materials/custom/skar1blue.vtf,174944,174944
+materials/CUSTOM/SKAR1RED.vmt,84,84
+materials/custom/skar1red.vtf,174944,174944
+materials/CUSTOM/SKAR1WHITE.vmt,86,86
+materials/custom/skar1white.vtf,174944,174944
+materials/CUSTOM/SMUDGED DIRT.vmt,87,87
+materials/custom/Smudged Dirt.vtf,174984,174984
+materials/CUSTOM/STEEL OCEAN.vmt,87,87
+materials/custom/Steel Ocean.vtf,174984,174984
+materials/CUSTOM/WORN BROWN BRICKWORK.vmt,96,96
+materials/custom/Worn Brown Brickwork.vtf,174984,174984
+materials/maps/popopo/c-12800_12595_12896.vtf,4952,4952
+materials/maps/popopo/c-1680_-460_5728.vtf,4952,4952
+materials/maps/popopo/c-1936_-1013_2016.vtf,4952,4952
+materials/maps/popopo/c-3200_-128_1280.vtf,4952,4952
+materials/maps/popopo/c-4222_-608_-6944.vtf,4952,4952
+materials/maps/popopo/c-4352_-1152_1280.vtf,4952,4952
+materials/maps/popopo/c-4800_-1121_-3008.vtf,4952,4952
+materials/maps/popopo/c-5632_-1024_1280.vtf,4952,4952
+materials/maps/popopo/c-5632_128_1280.vtf,4952,4952
+materials/maps/popopo/c-5904_-497_1320.vtf,4952,4952
+materials/maps/popopo/c-992_1_-664.vtf,4952,4952
+materials/maps/popopo/c2256_33_688.vtf,4952,4952
+materials/maps/popopo/c2976_87_-2332.vtf,4952,4952
+materials/maps/popopo/c6432_-4066_-704.vtf,4952,4952
+materials/maps/popopo/cubemapdefault.vtf,4952,4952
+materials/maps/popopo/de_piranesi/woodfloor02_-12800_12595_12896.vmt,136,136
+materials/maps/popopo/de_piranesi/woodfloor02_2976_87_-2332.vmt,131,131
+materials/maps/popopo/de_piranesi/woodfloor02_6432_-4066_-704.vmt,133,133
+materials/maps/popopo/glass/combineglass001a_-12800_12595_12896.vmt,135,135
+materials/maps/popopo/glass/combineglass001a_-1680_-460_5728.vmt,132,132
+materials/maps/popopo/glass/combineglass001a_-4222_-608_-6944.vmt,133,133
+materials/maps/popopo/glass/combineglass001a_-4800_-1121_-3008.vmt,134,134
+materials/maps/popopo/glass/combineglass001a_-5632_128_1280.vmt,131,131
+materials/maps/popopo/glass/combineglass001a_-5904_-497_1320.vmt,132,132
+materials/maps/popopo/glass/combineglass001a_-992_1_-664.vmt,128,128
+materials/maps/popopo/glass/combineglass001a_2256_33_688.vmt,128,128
+materials/maps/popopo/glass/combineglass001a_2976_87_-2332.vmt,130,130
+materials/maps/popopo/glass/combineglass001a_6432_-4066_-704.vmt,132,132
+materials/maps/popopo/glass/glasswindow007a_-12800_12595_12896.vmt,134,134
+materials/maps/popopo/glass/glasswindow007a_-4222_-608_-6944.vmt,132,132
+materials/maps/popopo/glass/glasswindow007a_-4800_-1121_-3008.vmt,133,133
+materials/maps/popopo/glass/glasswindow007a_-5632_128_1280.vmt,130,130
+materials/maps/popopo/glass/glasswindow007a_-992_1_-664.vmt,127,127
+materials/maps/popopo/glass/glasswindow007a_2976_87_-2332.vmt,129,129
+materials/maps/popopo/glass/glasswindow007a_6432_-4066_-704.vmt,131,131
+materials/maps/popopo/glass/glasswindow070c_-12800_12595_12896.vmt,134,134
+materials/maps/popopo/glass/glasswindow070c_-1680_-460_5728.vmt,131,131
+materials/maps/popopo/glass/glasswindow070c_-3200_-128_1280.vmt,131,131
+materials/maps/popopo/glass/glasswindow070c_2256_33_688.vmt,127,127
+materials/maps/popopo/glass/glasswindow070c_6432_-4066_-704.vmt,131,131
+materials/maps/popopo/glass/unbreakable_-12800_12595_12896.vmt,130,130
+materials/maps/popopo/glass/unbreakable_-1680_-460_5728.vmt,127,127
+materials/maps/popopo/glass/unbreakable_-5632_-1024_1280.vmt,128,128
+materials/maps/popopo/glass/unbreakable_-5632_128_1280.vmt,126,126
+materials/maps/popopo/glass/unbreakable_-5904_-497_1320.vmt,127,127
+materials/maps/popopo/maps/popopo/nature/water_canals03_-1680_-460_5728_depth_16.vmt,136,136
+materials/maps/popopo/maps/popopo/nature/water_canals03_-1680_-460_5728_depth_8.vmt,135,135
+materials/maps/popopo/maps/popopo/nature/water_canals03_-1936_-1013_2016_depth_16.vmt,137,137
+materials/maps/popopo/maps/popopo/nature/water_canals03_-4222_-608_-6944_depth_8.vmt,136,136
+materials/maps/popopo/maps/popopo/nature/water_canals03_-4800_-1121_-3008_depth_8.vmt,137,137
+materials/maps/popopo/maps/popopo/nature/water_canals03_-5904_-497_1320_depth_8.vmt,135,135
+materials/maps/popopo/maps/popopo/nature/water_canals03_-992_1_-664_depth_8.vmt,131,131
+materials/maps/popopo/maps/popopo/nature/water_canals03_2256_33_688_depth_16.vmt,132,132
+materials/maps/popopo/maps/popopo/nature/water_canals03_2976_87_-2332_depth_8.vmt,133,133
+materials/maps/popopo/maps/popopo/nature/water_canals03_6432_-4066_-704_depth_8.vmt,135,135
+materials/maps/popopo/metal/citadel_metalwall072c_-12800_12595_12896.vmt,140,140
+materials/maps/popopo/metal/citadel_metalwall072c_-1680_-460_5728.vmt,137,137
+materials/maps/popopo/metal/citadel_metalwall072c_-1936_-1013_2016.vmt,138,138
+materials/maps/popopo/metal/citadel_metalwall072c_-3200_-128_1280.vmt,137,137
+materials/maps/popopo/metal/citadel_metalwall072c_-4222_-608_-6944.vmt,138,138
+materials/maps/popopo/metal/citadel_metalwall072c_-4352_-1152_1280.vmt,138,138
+materials/maps/popopo/metal/citadel_metalwall072c_-4800_-1121_-3008.vmt,139,139
+materials/maps/popopo/metal/citadel_metalwall072c_-5632_-1024_1280.vmt,138,138
+materials/maps/popopo/metal/citadel_metalwall072c_-5632_128_1280.vmt,136,136
+materials/maps/popopo/metal/citadel_metalwall072c_-5904_-497_1320.vmt,137,137
+materials/maps/popopo/metal/citadel_metalwall072c_-992_1_-664.vmt,133,133
+materials/maps/popopo/metal/citadel_metalwall072c_6432_-4066_-704.vmt,137,137
+materials/maps/popopo/metal/metalwall001a_-12800_12595_12896.vmt,132,132
+materials/maps/popopo/metal/metalwall001a_-4800_-1121_-3008.vmt,131,131
+materials/maps/popopo/metal/metalwall001a_-5632_-1024_1280.vmt,130,130
+materials/maps/popopo/metal/metalwall001a_-5904_-497_1320.vmt,129,129
+materials/maps/popopo/metal/metalwall001b_-12800_12595_12896.vmt,171,171
+materials/maps/popopo/metal/metalwall001b_-1936_-1013_2016.vmt,169,169
+materials/maps/popopo/metal/metalwall001b_-4800_-1121_-3008.vmt,170,170
+materials/maps/popopo/metal/metalwall001b_-5632_-1024_1280.vmt,169,169
+materials/maps/popopo/metal/metalwall001c_-12800_12595_12896.vmt,132,132
+materials/maps/popopo/metal/metalwall001c_-4800_-1121_-3008.vmt,131,131
+materials/maps/popopo/metal/metalwall001c_-5632_-1024_1280.vmt,130,130
+materials/maps/popopo/metal/metalwall001c_-5904_-497_1320.vmt,129,129
+materials/maps/popopo/metal/metalwall048a_-12800_12595_12896.vmt,132,132
+materials/maps/popopo/metal/metalwall048a_-1936_-1013_2016.vmt,130,130
+materials/maps/popopo/metal/metalwall048a_-4222_-608_-6944.vmt,130,130
+materials/maps/popopo/metal/metalwall048a_-4352_-1152_1280.vmt,130,130
+materials/maps/popopo/metal/metalwall048a_-4800_-1121_-3008.vmt,131,131
+materials/maps/popopo/metal/metalwall048a_-5632_-1024_1280.vmt,130,130
+materials/maps/popopo/metal/metalwall048a_-5632_128_1280.vmt,128,128
+materials/maps/popopo/metal/metalwall048a_-992_1_-664.vmt,125,125
+materials/maps/popopo/metal/metalwall048a_2256_33_688.vmt,125,125
+materials/maps/popopo/metal/metalwall048a_2976_87_-2332.vmt,127,127
+materials/maps/popopo/metal/metalwall048a_6432_-4066_-704.vmt,129,129
+materials/maps/popopo/models/props/de_nuke/light_red1_glass_on_-12800_12595_12896.vmt,153,153
+materials/maps/popopo/models/props/de_nuke/light_red1_glass_on_-1680_-460_5728.vmt,150,150
+materials/maps/popopo/models/props/de_nuke/light_red1_glass_on_-3200_-128_1280.vmt,150,150
+materials/maps/popopo/models/props/de_nuke/light_red1_glass_on_-4352_-1152_1280.vmt,151,151
+materials/maps/popopo/models/props/de_nuke/light_red1_glass_on_-5904_-497_1320.vmt,150,150
+materials/maps/popopo/models/props/de_nuke/light_red1_glass_on_6432_-4066_-704.vmt,150,150
+materials/maps/popopo/nature/water_canals03_-12800_12595_12896.vmt,157,157
+materials/maps/popopo/nature/water_canals03_-1680_-460_5728.vmt,154,154
+materials/maps/popopo/nature/water_canals03_-1936_-1013_2016.vmt,155,155
+materials/maps/popopo/nature/water_canals03_-3200_-128_1280.vmt,154,154
+materials/maps/popopo/nature/water_canals03_-4222_-608_-6944.vmt,155,155
+materials/maps/popopo/nature/water_canals03_-4352_-1152_1280.vmt,155,155
+materials/maps/popopo/nature/water_canals03_-4800_-1121_-3008.vmt,156,156
+materials/maps/popopo/nature/water_canals03_-5632_-1024_1280.vmt,155,155
+materials/maps/popopo/nature/water_canals03_-5632_128_1280.vmt,153,153
+materials/maps/popopo/nature/water_canals03_-5904_-497_1320.vmt,154,154
+materials/maps/popopo/nature/water_canals03_-992_1_-664.vmt,150,150
+materials/maps/popopo/nature/water_canals03_2256_33_688.vmt,150,150
+materials/maps/popopo/nature/water_canals03_2976_87_-2332.vmt,152,152
+materials/maps/popopo/nature/water_canals03_6432_-4066_-704.vmt,154,154
+materials/skybox/flowsky15bk.vmt,88,88
+materials/skybox/flowsky15bk.vtf,524496,524496
+materials/skybox/flowsky15dn.vmt,88,88
+materials/skybox/flowsky15dn.vtf,524496,524496
+materials/skybox/flowsky15ft.vmt,88,88
+materials/skybox/flowsky15ft.vtf,524496,524496
+materials/skybox/flowsky15lf.vmt,88,88
+materials/skybox/flowsky15lf.vtf,524496,524496
+materials/skybox/flowsky15rt.vmt,88,88
+materials/skybox/flowsky15rt.vtf,524496,524496
+materials/skybox/flowsky15up.vmt,88,88
+materials/skybox/flowsky15up.vtf,524496,524496

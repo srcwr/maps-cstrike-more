@@ -1,0 +1,57 @@
+filename,size,compressed
+materials/maps/ka_fertilesoil/realworldtextures/grass/pebblesgrassblend_wvt_patch.vmt,193,193
+materials/maps/ka_fertilesoil/nature/water_canals_cheap003_512_64_96.vmt,163,163
+materials/maps/ka_fertilesoil/realworldtextures/newer/3/metal_3_02_512_64_96.vmt,148,148
+materials/maps/ka_fertilesoil/realworldtextures/new/tiles_blue_512_64_96.vmt,144,144
+materials/maps/ka_fertilesoil/realworldtextures/new/tiles_red_512_64_96.vmt,143,143
+materials/maps/ka_fertilesoil/realworldtextures/newer/3/metal_3_05_512_64_96.vmt,148,148
+materials/maps/ka_fertilesoil/realworldtextures/newer/3/metal_3_04_512_64_96.vmt,148,148
+materials/maps/ka_fertilesoil/maps/ka_fertilesoil/nature/water_canals_cheap003_512_64_96_depth_64.vmt,145,145
+materials/maps/ka_fertilesoil/cubemapdefault.vtf,28753,28753
+materials/maps/ka_fertilesoil/c512_64_96.vtf,28753,28753
+materials/maps/ka_fertilesoil/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ka_fertilesoil/c512_64_96.hdr.vtf,76528,76528
+materials/REGULARNEWPICS/CRACKED_GROUND.vmt,170,170
+materials/regularnewpics/Cracked_Ground.vtf,174984,174984
+materials/regularnewpics/Cracked_Ground_bump.vtf,1048783,1048783
+materials/REALWORLDTEXTURES/NEWER/0/BRICKS_0_26.vmt,167,167
+materials/RealWorldTextures/newer/0/bricks_0_26.vtf,174984,174984
+materials/RealWorldTextures/newer/0/bricks_0_26_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEWER/1/DIRT_1_01.vmt,107,107
+materials/RealWorldTextures/Newer/1/Dirt_1_01.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/GROUND6.vmt,77,77
+materials/RealWorldTextures/new/ground6.vtf,174984,174984
+materials/THW_MARIO/LAVA.vmt,62,62
+materials/THW_Mario/Lava.vtf,5696,5696
+materials/REALWORLDTEXTURES/GLASS/GLASS_02_P.vmt,129,129
+materials/RealWorldTextures/glass/glass_02_P.vtf,175008,175008
+materials/THW_MARIO/BLOCK2.vmt,88,88
+materials/THW_Mario/Block2.vtf,5696,5696
+materials/FUNNYPICS/JUSTINBIEBERWITHMUSTACHE.vmt,107,107
+materials/funnypics/JustinBieberwithmustache.vtf,174984,174984
+materials/FUNNYPICS/ILLEGALGUY.vmt,93,93
+materials/funnypics/ILLEGALGUY.vtf,174984,174984
+materials/RealWorldTextures/grass/grassblend1.vtf,5592612,5592612
+materials/RealWorldTextures/grass/grassblend1_normal.vtf,4194511,4194511
+materials/NATURE/WATER_CANALS_CHEAP003.vmt,3160,3160
+materials/REALWORLDTEXTURES/NEWER/3/METAL_3_02.vmt,191,191
+materials/RealWorldTextures/newer/3/Metal_3_02.vtf,174984,174984
+materials/RealWorldTextures/newer/3/Metal_3_02_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_BLUE.vmt,230,230
+materials/RealWorldTextures/new/Tiles_Blue.vtf,174984,174984
+materials/RealWorldTextures/new/Tiles_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_RED.vmt,229,229
+materials/RealWorldTextures/new/Tiles_red.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEWER/3/METAL_3_05.vmt,187,187
+materials/RealWorldTextures/newer/3/Metal_3_05.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEWER/3/METAL_3_04.vmt,191,191
+materials/RealWorldTextures/newer/3/Metal_3_04.vtf,174984,174984
+materials/RealWorldTextures/newer/3/Metal_3_04_nrm.vtf,174984,174984
+sound/songs/battlefield 1942.wav,11077722,11077722
+sound/funnysounds/chucky's evil laugh.wav,174170,174170
+sound/songs/mozart - rondo alla turca.wav,9250906,9250906
+sound/funnysounds/this is illegal you know..wav,153690,153690
+sound/songs/dj mangoo - eurodancer.wav,8659034,8659034
+sound/ambient_sounds/battle ambient background sounds_calm-version.wav,37228,37228
+maps/ka_fertilesoil.nav,31100,31100
+maps/soundcache/ka_fertilesoil.cache,152421,152421

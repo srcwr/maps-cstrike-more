@@ -1,0 +1,210 @@
+filename,size,compressed
+materials/maps/surf_volcanic/realworldtextures2/metal/metal_12_0_0_0.vmt,140,140
+materials/maps/surf_volcanic/metal/metalpipe003a_0_0_0.vmt,126,126
+materials/maps/surf_volcanic/realworldtextures2/metal/metal_105_0_0_0.vmt,141,141
+materials/maps/surf_volcanic/de_season/metalpanel01_0_0_0.vmt,129,129
+materials/maps/surf_volcanic/cubemapdefault.vtf,4960,4960
+materials/maps/surf_volcanic/c0_0_0.vtf,4960,4960
+materials/maps/surf_volcanic/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_volcanic/c0_0_0.hdr.vtf,76528,76528
+materials/RealWorldTextures2/Metal/Metal_12.vmt,376,376
+materials/RealWorldTextures2/Metal/Metal_12.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_metal1.vtf,16807,16807
+materials/RealWorldTextures2/Metal/metal_105.vmt,361,361
+materials/RealWorldTextures2/Metal/metal_105.vtf,174984,174984
+materials/RealWorldTextures2/Metal/metal_105_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Metal/metal_105_SPEC.vtf,174984,174984
+materials/de_season/metalpanel01.vmt,223,223
+materials/de_season/metalpanel01.vtf,87544,87544
+materials/de_season/metalpanel01_n.vtf,174944,174944
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/Silkroad/Jupitere/jupiter_5.vmt,103,103
+materials/Silkroad/Jupitere/jupiter_5.vtf,349760,349760
+materials/Silkroad/Ground/bagh_field_canyon_g07.vmt,109,109
+materials/Silkroad/Ground/bagh_field_canyon_g07.vtf,349760,349760
+materials/Silkroad/Ground/oakk_stone_02.vmt,101,101
+materials/Silkroad/Ground/oakk_stone_02.vtf,349760,349760
+materials/Silkroad/Ground/bagh_field_canyon_g04.vmt,109,109
+materials/Silkroad/Ground/bagh_field_canyon_g04.vtf,349760,349760
+materials/Silkroad/Ground/oakk_stone_12.vmt,101,101
+materials/Silkroad/Ground/oakk_stone_12.vtf,349760,349760
+materials/RealWorldTextures/Floor/Floor_1_22.vmt,356,356
+materials/RealWorldTextures/Floor/Floor_1_22.vtf,43912,43912
+materials/RealWorldTextures/Floor/Floor_1_22_nrm.vtf,43912,43912
+materials/Silkroad/Ground/bagh_field_canyon_g05.vmt,109,109
+materials/Silkroad/Ground/bagh_field_canyon_g05.vtf,349760,349760
+materials/Silkroad/FGWorld/ground1.vmt,96,96
+materials/Silkroad/FGWorld/ground1.vtf,349760,349760
+materials/RealWorldTextures2/Metal/floor/metal_80.vmt,296,296
+materials/RealWorldTextures2/Metal/floor/metal_80.vtf,174984,174984
+materials/RealWorldTextures2/Metal/floor/metal_80_86_88_92_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Metal/floor/metal_92.vmt,296,296
+materials/RealWorldTextures2/Metal/floor/metal_92.vtf,174984,174984
+materials/RealWorldTextures2/Ground/lava_magma_05.vmt,326,326
+materials/RealWorldTextures2/Ground/lava_magma_05.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_stone1.vtf,16807,16807
+materials/Silkroad/Ground/bagh_field_canyon_g01.vmt,109,109
+materials/Silkroad/Ground/bagh_field_canyon_g01.vtf,349760,349760
+materials/Silkroad/Ground/c_stone_jinfild_01_1.vmt,108,108
+materials/Silkroad/Ground/c_stone_jinfild_01_1.vtf,349760,349760
+materials/pk02/pk02_wall_big01b.vmt,251,251
+materials/pk02/pk02_wall_big01b_C.vtf,699256,699256
+materials/pk02/pk02_wall_big01b_N.vtf,1398320,1398320
+materials/Silkroad/FGWorld/magma.vmt,94,94
+materials/Silkroad/FGWorld/magma.vtf,349760,349760
+materials/Silkroad/FGWorld/magma7.vmt,95,95
+materials/Silkroad/FGWorld/magma7.vtf,349760,349760
+materials/Silkroad/FGWorld/rocks02.vmt,96,96
+materials/Silkroad/FGWorld/rocks02.vtf,349760,349760
+materials/de_nuke/nuke_metalgrate_01.vmt,145,145
+materials/de_nuke/nuke_metalgrate_01.vtf,87600,87600
+materials/Silkroad/FGWorld/wall01.vmt,95,95
+materials/Silkroad/FGWorld/wall01.vtf,349760,349760
+materials/Silkroad/Ground/c_stone_fld_02grgeg3w.vmt,109,109
+materials/Silkroad/Ground/c_stone_fld_02grgeg3w.vtf,349760,349760
+materials/Silkroad/Ground/c_stone_jinfild_01.vmt,106,106
+materials/Silkroad/Ground/c_stone_jinfild_01.vtf,349760,349760
+materials/Silkroad/Ground/oakk_dust_st_00.vmt,103,103
+materials/Silkroad/Ground/oakk_dust_st_00.vtf,349760,349760
+materials/Silkroad/Ground/central asia_stone_01.vmt,109,109
+materials/Silkroad/Ground/central asia_stone_01.vtf,349760,349760
+materials/Silkroad/Ground/c_stone_fld_01gerg.vmt,106,106
+materials/Silkroad/Ground/c_stone_fld_01gerg.vtf,349760,349760
+materials/Silkroad/Ground/central asia_dust_07.vmt,108,108
+materials/Silkroad/Ground/central asia_dust_07.vtf,349760,349760
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/Silkroad/Ground/asiaminor_stone01.vmt,105,105
+materials/Silkroad/Ground/asiaminor_stone01.vtf,349760,349760
+materials/Silkroad/Ground/oakk_dust_st_02.vmt,103,103
+materials/Silkroad/Ground/oakk_dust_st_02.vtf,349760,349760
+materials/Silkroad/Egypt/wall (21).vmt,76,76
+materials/Silkroad/Egypt/wall (21).vtf,349760,349760
+materials/Silkroad/Egypt/ground (15).vmt,78,78
+materials/Silkroad/Egypt/ground (15).vtf,87616,87616
+materials/Silkroad/Ground/oakk_stone_11.vmt,101,101
+materials/Silkroad/Ground/oakk_stone_11.vtf,349760,349760
+materials/Silkroad/Egypt/ground (9).vmt,92,92
+materials/Silkroad/Egypt/ground (9).vtf,87616,87616
+materials/Silkroad/FGWorld/wall001.vmt,97,97
+materials/Silkroad/FGWorld/wall001.vtf,87616,87616
+materials/Silkroad/Egypt/ground (22).vmt,93,93
+materials/Silkroad/Egypt/ground (22).vtf,87616,87616
+materials/Silkroad/FGWorld/block04.vmt,97,97
+materials/Silkroad/FGWorld/block04.vtf,174944,174944
+materials/Silkroad/Egypt/wall (59).vmt,76,76
+materials/Silkroad/Egypt/wall (59).vtf,87616,87616
+materials/Silkroad/FGWorld/tile04.vmt,95,95
+materials/Silkroad/FGWorld/tile04.vtf,349760,349760
+materials/Silkroad/FGWorld/groundwood1.vmt,106,106
+materials/Silkroad/FGWorld/groundwood1.vtf,349760,349760
+materials/Silkroad/Ground/shipwborder.vmt,106,106
+materials/Silkroad/FGWorld/shipwborder.vtf,87616,87616
+materials/Silkroad/FGWorld/stone02.vmt,96,96
+materials/Silkroad/FGWorld/stone02.vtf,349760,349760
+materials/Silkroad/Jupitere/piety_6.vmt,120,120
+materials/Silkroad/Jupitere/piety_6.vtf,87616,87616
+materials/Silkroad/Egypt/ground (13).vmt,78,78
+materials/Silkroad/Egypt/ground (13).vtf,87616,87616
+materials/Silkroad/China/jinsi_floor1_e_dan03_01.vmt,90,90
+materials/Silkroad/China/jinsi_floor1_e_dan03_01.vtf,87616,87616
+materials/Silkroad/China/jinsi_floor1_h_deck01.vmt,88,88
+materials/Silkroad/China/jinsi_floor1_h_deck01.vtf,87616,87616
+materials/Silkroad/Egypt/roof (5).vmt,90,90
+materials/Silkroad/Egypt/roof (5).vtf,87616,87616
+materials/Silkroad/China/china_wall_tile.vmt,82,82
+materials/Silkroad/China/china_wall_tile.vtf,87616,87616
+materials/tools/toolsskip.vmt,281,281
+materials/tools/toolsskip.vtf,5680,5680
+materials/tools/toolshint.vmt,279,279
+materials/tools/toolshint.vtf,5680,5680
+materials/Silkroad/FGWorld/ceiling3.vmt,97,97
+materials/Silkroad/FGWorld/ceiling3.vtf,349760,349760
+materials/Silkroad/FGWorld/flamewall02.vmt,100,100
+materials/Silkroad/FGWorld/flamewall02.vtf,349760,349760
+materials/Silkroad/FGWorld/ceiling1.vmt,97,97
+materials/Silkroad/FGWorld/ceiling1.vtf,349760,349760
+materials/VEMISBONUS1/METAL_146_REFLECTIVE.vmt,306,306
+materials/VEMISBONUS1/metal_146.vtf,174984,174984
+materials/VEMISBONUS1/metal_146_nrm.vtf,174984,174984
+materials/Silkroad/FGWorld/flamewall01.vmt,100,100
+materials/Silkroad/FGWorld/flamewall01.vtf,349760,349760
+materials/Silkroad/Ground/moving_lava2.vmt,220,220
+materials/Silkroad/Ground/moving_lava2.vtf,349760,349760
+materials/dev_nyro/dev_gray-01.vmt,71,71
+materials/dev_nyro/dev_gray-01.vtf,22064,22064
+materials/dev_nyro/dev_gray-04.vmt,71,71
+materials/dev_nyro/dev_gray-04.vtf,22064,22064
+materials/dev_nyro/dev_blue_f-05.vmt,73,73
+materials/dev_nyro/dev_blue_f-05.vtf,22064,22064
+materials/dev_nyro/dev_blue_f-04.vmt,73,73
+materials/dev_nyro/dev_blue_f-04.vtf,22064,22064
+materials/dev_nyro/dev_blue_f-07.vmt,73,73
+materials/dev_nyro/dev_blue_f-07.vtf,22064,22064
+materials/dev_nyro/dev_red_b-04.vmt,72,72
+materials/dev_nyro/dev_red_b-04.vtf,22064,22064
+materials/dev_nyro/dev_blue_c-05.vmt,73,73
+materials/dev_nyro/dev_blue_c-05.vtf,22064,22064
+materials/dev_nyro/dev_yellow_b-02.vmt,75,75
+materials/dev_nyro/dev_yellow_b-02.vtf,22064,22064
+materials/dev_nyro/dev_magenta_b-03.vmt,76,76
+materials/dev_nyro/dev_magenta_b-03.vtf,22064,22064
+materials/dev_nyro/dev_magenta_b-01.vmt,76,76
+materials/dev_nyro/dev_magenta_b-01.vtf,22064,22064
+materials/Silkroad/Egypt/teleport2.vmt,238,238
+materials/Silkroad/Egypt/teleport2.vtf,349760,349760
+materials/dev_nyro/dev_red_a-03.vmt,72,72
+materials/dev_nyro/dev_red_a-03.vtf,22064,22064
+materials/tools/toolstrigger.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/Silkroad/Ground/oakk_stone_03.vmt,101,101
+materials/Silkroad/Ground/oakk_stone_03.vtf,349760,349760
+materials/Silkroad/Ground/oakk_stone_06.vmt,101,101
+materials/Silkroad/Ground/oakk_stone_06.vtf,349760,349760
+materials/Silkroad/Ground/oakk_stone_05.vmt,101,101
+materials/Silkroad/Ground/oakk_stone_05.vtf,349760,349760
+materials/Silkroad/FGWorld/wall002.vmt,97,97
+materials/Silkroad/FGWorld/wall002.vtf,87616,87616
+materials/de_season/metalwall.vmt,328,328
+materials/de_season/metalwall.vtf,174984,174984
+materials/de_season/metalwall_n.vtf,349760,349760
+materials/detail/noise_detail_01.vtf,43936,43936
+materials/de_season/seasonwhitemetal3.vmt,264,264
+materials/de_season/seasonwhitemetal3.vtf,699272,699272
+materials/de_season/seasonwhitemetal3_n.vtf,699272,699272
+materials/RealWorldTextures2/Metal/floor/metal_84.vmt,296,296
+materials/RealWorldTextures2/Metal/floor/metal_84.vtf,174984,174984
+materials/RealWorldTextures2/Metal/floor/metal_83_84_90_94_nrm.vtf,174984,174984
+materials/Silkroad/Egypt/ground (20).vmt,78,78
+materials/Silkroad/Egypt/ground (20).vtf,87616,87616
+materials/Silkroad/Ground/pha_rock_04.vmt,99,99
+materials/Silkroad/Ground/pha_rock_04.vtf,349760,349760
+materials/Silkroad/Ground/esteu_upisin_01.vmt,103,103
+materials/Silkroad/Ground/esteu_upisin_01.vtf,349760,349760
+materials/Silkroad/FGWorld/ground2.vmt,96,96
+materials/Silkroad/FGWorld/ground2.vtf,349760,349760
+materials/Silkroad/FGWorld/ceiling2.vmt,73,73
+materials/Silkroad/FGWorld/ceiling2.vtf,349760,349760
+materials/custom_nature/animatedlava.vmt,252,252
+materials/custom_nature/animatedlava.vtf,5593040,5593040
+materials/surf_volcanic/volcanic_credits.vmt,78,78
+materials/surf_volcanic/volcanic_credits.vtf,174984,174984
+materials/surf_volcanic/biggestblue.vmt,73,73
+materials/surf_volcanic/biggestblue.vtf,349760,349760
+materials/surf_volcanic/muta.vmt,66,66
+materials/surf_volcanic/muta.vtf,11144,11144
+materials/skybox/mpa45up.vmt,84,84
+materials/skybox/mpa45up.vtf,699272,699272
+materials/skybox/mpa45dn.vmt,84,84
+materials/skybox/mpa45dn.vtf,699272,699272
+materials/skybox/mpa45lf.vmt,84,84
+materials/skybox/mpa45lf.vtf,699272,699272
+materials/skybox/mpa45rt.vmt,84,84
+materials/skybox/mpa45rt.vtf,699272,699272
+materials/skybox/mpa45ft.vmt,84,84
+materials/skybox/mpa45ft.vtf,699272,699272
+materials/skybox/mpa45bk.vmt,84,84
+materials/skybox/mpa45bk.vtf,699272,699272
+materials/detail/detailsprites.vmt,87,87
+materials/detail/detailsprites.vtf,1398360,1398360

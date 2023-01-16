@@ -1,0 +1,334 @@
+filename,size,compressed
+materials/maps/ze_non_sequitur_b1/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/ze_non_sequitur_b1/glass/glasswindowbreak070b_-2078_9152_-336.vmt,114,114
+materials/maps/ze_non_sequitur_b1/glass/offwndwb_-2078_9152_-336.vmt,226,226
+materials/maps/ze_non_sequitur_b1/cubemapdefault.vtf,4960,4960
+materials/maps/ze_non_sequitur_b1/c-2078_9152_-336.vtf,4960,4960
+materials/maps/ze_non_sequitur_b1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_non_sequitur_b1/c-2078_9152_-336.hdr.vtf,76528,76528
+materials/blue texture.vmt,60,60
+materials/blue texture.vtf,1398264,1398264
+materials/red texture stop.vmt,64,64
+materials/red texture stop.vtf,1398264,1398264
+materials/voilet spike texture.vmt,68,68
+materials/voilet spike texture.vtf,1398264,1398264
+materials/colour texture.vmt,62,62
+materials/colour texture.vtf,1398264,1398264
+materials/grey texture.vmt,60,60
+materials/grey texture.vtf,349688,349688
+materials/green texture go.vmt,64,64
+materials/green texture go.vtf,5592568,5592568
+materials/orange texture.vmt,62,62
+materials/orange texture.vtf,43912,43912
+materials/hakan hisim1.vmt,60,60
+materials/hakan hisim1.vtf,699272,699272
+materials/flesh texture.vmt,61,61
+materials/flesh texture.vtf,349688,349688
+materials/hakan hisim crystal 1.vmt,69,69
+materials/hakan hisim crystal 1.vtf,699272,699272
+materials/admin room.vmt,58,58
+materials/admin room.vtf,43912,43912
+materials/typemoonHD.vmt,58,58
+materials/typemoonHD.vtf,349688,349688
+materials/green teleport texture.vmt,70,70
+materials/green teleport texture.vtf,349688,349688
+materials/yellow texture.vmt,62,62
+materials/yellow texture.vtf,5592568,5592568
+materials/skull.vmt,97,97
+materials/skull.vtf,22080,22080
+materials/jenz.vmt,52,52
+materials/jenz.vtf,1398264,1398264
+materials/lava texture2.vmt,61,61
+materials/lava texture2.vtf,174984,174984
+materials/animated portal.vmt,63,63
+materials/animated portal.vtf,87544,87544
+materials/skybox/sky_night_testup.vmt,71,71
+materials/skybox/sky_night_testup.vtf,1398264,1398264
+materials/skybox/sky_night_testdn.vmt,71,71
+materials/skybox/sky_night_testdn.vtf,1398264,1398264
+materials/skybox/sky_night_testlf.vmt,71,71
+materials/skybox/sky_night_testlf.vtf,1398264,1398264
+materials/skybox/sky_night_testrt.vmt,71,71
+materials/skybox/sky_night_testrt.vtf,1398264,1398264
+materials/skybox/sky_night_testft.vmt,71,71
+materials/skybox/sky_night_testft.vtf,1398264,1398264
+materials/skybox/sky_night_testbk.vmt,71,71
+materials/skybox/sky_night_testbk.vtf,1398264,1398264
+models/jenzmodels/spikegate.mdl,1740,1740
+models/jenzmodels/spikegate.vvd,56064,56064
+models/jenzmodels/spikegate.dx90.vtx,10428,10428
+models/jenzmodels/spikegate.dx80.vtx,10428,10428
+models/jenzmodels/spikegate.sw.vtx,10428,10428
+models/jenzmodels/spikegate.phy,10894,10894
+materials/models/jenzmodels/glasspillar/orange texture.vmt,60,60
+models/jenzmodels/glassblock.mdl,1928,1928
+models/jenzmodels/glassblock.vvd,11968,11968
+models/jenzmodels/glassblock.dx90.vtx,2472,2472
+models/jenzmodels/glassblock.dx80.vtx,2472,2472
+models/jenzmodels/glassblock.sw.vtx,2472,2472
+models/jenzmodels/glassblock.phy,4085,4085
+materials/models/jenzmodels/glasspillar/grey texture.vmt,58,58
+materials/models/jenzmodels/glasspillar/offwndwb.vmt,225,225
+models/jenzmodels/lamp2.mdl,1936,1936
+models/jenzmodels/lamp2.vvd,37824,37824
+models/jenzmodels/lamp2.dx90.vtx,7530,7530
+models/jenzmodels/lamp2.dx80.vtx,7530,7530
+models/jenzmodels/lamp2.sw.vtx,7530,7530
+models/jenzmodels/lamp2.phy,8962,8962
+materials/models/jenzmodels/glasspillar/voilet spike texture.vmt,66,66
+models/jenzmodels/brigde.mdl,2136,2136
+models/jenzmodels/brigde.vvd,308096,308096
+models/jenzmodels/brigde.dx90.vtx,58362,58362
+models/jenzmodels/brigde.dx80.vtx,58362,58362
+models/jenzmodels/brigde.sw.vtx,58362,58362
+models/jenzmodels/brigde.phy,73161,73161
+materials/models/jenzmodels/glasspillar/colour texture.vmt,60,60
+materials/models/jenzmodels/glasspillar/red texture stop.vmt,62,62
+models/jenzmodels/tram1.mdl,1740,1740
+models/jenzmodels/tram1.vvd,197376,197376
+models/jenzmodels/tram1.dx90.vtx,38664,38664
+models/jenzmodels/tram1.dx80.vtx,38664,38664
+models/jenzmodels/tram1.sw.vtx,38664,38664
+models/jenzmodels/tram1.phy,52123,52123
+models/jenzmodels/eye.mdl,1744,1744
+models/jenzmodels/eye.vvd,22208,22208
+models/jenzmodels/eye.dx90.vtx,4557,4557
+models/jenzmodels/eye.dx80.vtx,4557,4557
+models/jenzmodels/eye.sw.vtx,4557,4557
+models/jenzmodels/eye.phy,4600,4600
+materials/models/jenzmodels/glasspillar/eye ball texture.vmt,81,81
+materials/eye ball texture.vtf,349760,349760
+sound/Esbe - Morning Star.mp3,5090065,5090065
+sound/Vital &amp; Hubb - Refracted Sunlight.mp3,5811462,5811462
+sound/Mikos Da Gawd - Shake (feat. Tele Fresco).mp3,3214682,3214682
+sound/Samuel Truth - Rua.mp3,3573291,3573291
+sound/Pendulum - Streamline [HQ].mp3,4782451,4782451
+sound/Bored Nothing - Let Down.mp3,4243697,4243697
+sound/Kingdom Hearts Birth By Sleep - Enter the Darkness (Vanitas Battle).mp3,5187741,5187741
+models/jenzmodels/greenlamp.mdl,1932,1932
+models/jenzmodels/greenlamp.vvd,9792,9792
+models/jenzmodels/greenlamp.dx90.vtx,2046,2046
+models/jenzmodels/greenlamp.dx80.vtx,2046,2046
+models/jenzmodels/greenlamp.sw.vtx,2046,2046
+models/jenzmodels/greenlamp.phy,3329,3329
+materials/models/jenzmodels/glasspillar/green texture go.vmt,62,62
+models/jenzmodels/glasspillar.mdl,1736,1736
+models/jenzmodels/glasspillar.vvd,12352,12352
+models/jenzmodels/glasspillar.dx90.vtx,2445,2445
+models/jenzmodels/glasspillar.dx80.vtx,2445,2445
+models/jenzmodels/glasspillar.sw.vtx,2445,2445
+models/jenzmodels/glasspillar.phy,5529,5529
+models/jenzmodels/colourpillar.mdl,1740,1740
+models/jenzmodels/colourpillar.vvd,13056,13056
+models/jenzmodels/colourpillar.dx90.vtx,2592,2592
+models/jenzmodels/colourpillar.dx80.vtx,2592,2592
+models/jenzmodels/colourpillar.sw.vtx,2592,2592
+models/jenzmodels/colourpillar.phy,5234,5234
+models/jenzmodels/highpillar.mdl,1736,1736
+models/jenzmodels/highpillar.vvd,24896,24896
+models/jenzmodels/highpillar.dx90.vtx,4809,4809
+models/jenzmodels/highpillar.dx80.vtx,4809,4809
+models/jenzmodels/highpillar.sw.vtx,4809,4809
+models/jenzmodels/highpillar.phy,7042,7042
+models/jenzmodels/greytower.mdl,1740,1740
+models/jenzmodels/greytower.vvd,18112,18112
+models/jenzmodels/greytower.dx90.vtx,3567,3567
+models/jenzmodels/greytower.dx80.vtx,3567,3567
+models/jenzmodels/greytower.sw.vtx,3567,3567
+models/jenzmodels/greytower.phy,5759,5759
+models/jenzmodels/skyboxthing.mdl,1932,1932
+models/jenzmodels/skyboxthing.vvd,39232,39232
+models/jenzmodels/skyboxthing.dx90.vtx,7686,7686
+models/jenzmodels/skyboxthing.dx80.vtx,7686,7686
+models/jenzmodels/skyboxthing.sw.vtx,7686,7686
+models/jenzmodels/skyboxthing.phy,12294,12294
+materials/models/jenzmodels/glasspillar/yellow texture.vmt,60,60
+models/jenzmodels/skyboxtower.mdl,2920,2920
+models/jenzmodels/skyboxtower.vvd,29248,29248
+models/jenzmodels/skyboxtower.dx90.vtx,6147,6147
+models/jenzmodels/skyboxtower.dx80.vtx,6147,6147
+models/jenzmodels/skyboxtower.sw.vtx,6147,6147
+models/jenzmodels/skyboxtower.phy,8070,8070
+materials/models/jenzmodels/glasspillar/blue texture.vmt,58,58
+models/jenzmodels/wall.mdl,1744,1744
+models/jenzmodels/wall.vvd,7744,7744
+models/jenzmodels/wall.dx90.vtx,1581,1581
+models/jenzmodels/wall.dx80.vtx,1581,1581
+models/jenzmodels/wall.sw.vtx,1581,1581
+models/jenzmodels/wall.phy,2935,2935
+models/jenzmodels/ror.mdl,1744,1744
+models/jenzmodels/ror.vvd,15040,15040
+models/jenzmodels/ror.dx90.vtx,2967,2967
+models/jenzmodels/ror.dx80.vtx,2967,2967
+models/jenzmodels/ror.sw.vtx,2967,2967
+models/jenzmodels/ror.phy,4833,4833
+models/jenzmodels/skyboxground.mdl,3512,3512
+models/jenzmodels/skyboxground.vvd,112768,112768
+models/jenzmodels/skyboxground.dx90.vtx,22275,22275
+models/jenzmodels/skyboxground.dx80.vtx,22275,22275
+models/jenzmodels/skyboxground.sw.vtx,22275,22275
+materials/models/jenzmodels/glasspillar/lava texture2.vmt,59,59
+models/jenzmodels/tunnel.mdl,1744,1744
+models/jenzmodels/tunnel.vvd,9792,9792
+models/jenzmodels/tunnel.dx90.vtx,1941,1941
+models/jenzmodels/tunnel.dx80.vtx,1941,1941
+models/jenzmodels/tunnel.sw.vtx,1941,1941
+models/jenzmodels/tunnel.phy,6580,6580
+models/jenzmodels/table.mdl,1744,1744
+models/jenzmodels/table.vvd,15296,15296
+models/jenzmodels/table.dx90.vtx,3195,3195
+models/jenzmodels/table.dx80.vtx,3195,3195
+models/jenzmodels/table.sw.vtx,3195,3195
+models/jenzmodels/table.phy,5376,5376
+models/jenzmodels/boxes.mdl,1932,1932
+models/jenzmodels/boxes.vvd,12224,12224
+models/jenzmodels/boxes.dx90.vtx,2628,2628
+models/jenzmodels/boxes.dx80.vtx,2628,2628
+models/jenzmodels/boxes.sw.vtx,2628,2628
+models/jenzmodels/boxes.phy,3088,3088
+models/jenzmodels/lamp.mdl,1740,1740
+models/jenzmodels/lamp.vvd,7744,7744
+models/jenzmodels/lamp.dx90.vtx,1581,1581
+models/jenzmodels/lamp.dx80.vtx,1581,1581
+models/jenzmodels/lamp.sw.vtx,1581,1581
+models/jenzmodels/lamp.phy,2740,2740
+models/jenzmodels/portal.mdl,1740,1740
+models/jenzmodels/portal.vvd,9280,9280
+models/jenzmodels/portal.dx90.vtx,1869,1869
+models/jenzmodels/portal.dx80.vtx,1869,1869
+models/jenzmodels/portal.sw.vtx,1869,1869
+models/jenzmodels/portal.phy,3108,3108
+models/jenzmodels/tram.mdl,1740,1740
+models/jenzmodels/tram.vvd,50240,50240
+models/jenzmodels/tram.dx90.vtx,9549,9549
+models/jenzmodels/tram.dx80.vtx,9549,9549
+models/jenzmodels/tram.sw.vtx,9549,9549
+models/jenzmodels/tram.phy,12770,12770
+models/jenzmodels/computer.mdl,1932,1932
+models/jenzmodels/computer.vvd,65088,65088
+models/jenzmodels/computer.dx90.vtx,13236,13236
+models/jenzmodels/computer.dx80.vtx,13236,13236
+models/jenzmodels/computer.sw.vtx,13236,13236
+models/jenzmodels/computer.phy,8780,8780
+materials/models/jenzmodels/glasspillar/black.vmt,60,60
+models/jenzmodels/glasslamp1.mdl,1932,1932
+models/jenzmodels/glasslamp1.vvd,30976,30976
+models/jenzmodels/glasslamp1.dx90.vtx,6243,6243
+models/jenzmodels/glasslamp1.dx80.vtx,6243,6243
+models/jenzmodels/glasslamp1.sw.vtx,6243,6243
+models/jenzmodels/glasslamp1.phy,5642,5642
+models/jenzmodels/glasssphere.mdl,1928,1928
+models/jenzmodels/glasssphere.vvd,182400,182400
+models/jenzmodels/glasssphere.dx90.vtx,35289,35289
+models/jenzmodels/glasssphere.dx80.vtx,35289,35289
+models/jenzmodels/glasssphere.sw.vtx,35289,35289
+models/jenzmodels/glasssphere.phy,39246,39246
+models/jenzmodels/teleporter.mdl,1940,1940
+models/jenzmodels/teleporter.vvd,24576,24576
+models/jenzmodels/teleporter.dx90.vtx,4887,4887
+models/jenzmodels/teleporter.dx80.vtx,4887,4887
+models/jenzmodels/teleporter.sw.vtx,4887,4887
+models/jenzmodels/teleporter.phy,6997,6997
+models/jenzmodels/cades.mdl,1932,1932
+models/jenzmodels/cades.vvd,17920,17920
+models/jenzmodels/cades.dx90.vtx,3645,3645
+models/jenzmodels/cades.dx80.vtx,3645,3645
+models/jenzmodels/cades.sw.vtx,3645,3645
+models/jenzmodels/cades.phy,5416,5416
+models/jenzmodels/pillar2.mdl,1928,1928
+models/jenzmodels/pillar2.vvd,40832,40832
+models/jenzmodels/pillar2.dx90.vtx,7911,7911
+models/jenzmodels/pillar2.dx80.vtx,7911,7911
+models/jenzmodels/pillar2.sw.vtx,7911,7911
+models/jenzmodels/pillar2.phy,12877,12877
+models/jenzmodels/holdpillar.mdl,1736,1736
+models/jenzmodels/holdpillar.vvd,10624,10624
+models/jenzmodels/holdpillar.dx90.vtx,2094,2094
+models/jenzmodels/holdpillar.dx80.vtx,2094,2094
+models/jenzmodels/holdpillar.sw.vtx,2094,2094
+models/jenzmodels/holdpillar.phy,3082,3082
+materials/models/jenzmodels/glasspillar/value70.vmt,81,81
+models/jenzmodels/stack.mdl,1740,1740
+models/jenzmodels/stack.vvd,5568,5568
+models/jenzmodels/stack.dx90.vtx,1203,1203
+models/jenzmodels/stack.dx80.vtx,1203,1203
+models/jenzmodels/stack.sw.vtx,1203,1203
+models/jenzmodels/stack.phy,2728,2728
+models/jenzmodels/blocks1.mdl,1744,1744
+models/jenzmodels/blocks1.vvd,26624,26624
+models/jenzmodels/blocks1.dx90.vtx,5100,5100
+models/jenzmodels/blocks1.dx80.vtx,5100,5100
+models/jenzmodels/blocks1.sw.vtx,5100,5100
+models/jenzmodels/blocks1.phy,7727,7727
+materials/models/jenzmodels/glasspillar/dev_blendmeasure2.vmt,130,130
+models/jenzmodels/roundtunnel.mdl,1748,1748
+models/jenzmodels/roundtunnel.vvd,19264,19264
+models/jenzmodels/roundtunnel.dx90.vtx,3705,3705
+models/jenzmodels/roundtunnel.dx80.vtx,3705,3705
+models/jenzmodels/roundtunnel.sw.vtx,3705,3705
+models/jenzmodels/roundtunnel.phy,4686,4686
+models/jenzmodels/ball.mdl,1748,1748
+models/jenzmodels/ball.vvd,21888,21888
+models/jenzmodels/ball.dx90.vtx,4470,4470
+models/jenzmodels/ball.dx80.vtx,4470,4470
+models/jenzmodels/ball.sw.vtx,4470,4470
+models/jenzmodels/ball.phy,4644,4644
+models/jenzmodels/buttons.mdl,1748,1748
+models/jenzmodels/buttons.vvd,17152,17152
+models/jenzmodels/buttons.dx90.vtx,3384,3384
+models/jenzmodels/buttons.dx80.vtx,3384,3384
+models/jenzmodels/buttons.sw.vtx,3384,3384
+models/jenzmodels/buttons.phy,5217,5217
+materials/models/jenzmodels/glasspillar/dev_measuregeneric01b.vmt,139,139
+models/jenzmodels/fence360.mdl,1948,1948
+models/jenzmodels/fence360.vvd,62592,62592
+models/jenzmodels/fence360.dx90.vtx,11895,11895
+models/jenzmodels/fence360.dx80.vtx,11895,11895
+models/jenzmodels/fence360.sw.vtx,11895,11895
+models/jenzmodels/fence360.phy,19907,19907
+materials/models/jenzmodels/glasspillar/dev_measurecrate01.vmt,136,136
+models/jenzmodels/fuckedthing.mdl,2528,2528
+models/jenzmodels/fuckedthing.vvd,49408,49408
+models/jenzmodels/fuckedthing.dx90.vtx,10116,10116
+models/jenzmodels/fuckedthing.dx80.vtx,10116,10116
+models/jenzmodels/fuckedthing.sw.vtx,10116,10116
+models/jenzmodels/fuckedthing.phy,12648,12648
+models/jenzmodels/pyramid.mdl,2128,2128
+models/jenzmodels/pyramid.vvd,137216,137216
+models/jenzmodels/pyramid.dx90.vtx,27294,27294
+models/jenzmodels/pyramid.dx80.vtx,27294,27294
+models/jenzmodels/pyramid.sw.vtx,27294,27294
+models/jenzmodels/pyramid.phy,32405,32405
+models/jenzmodels/bluething.mdl,1740,1740
+models/jenzmodels/bluething.vvd,101696,101696
+models/jenzmodels/bluething.dx90.vtx,20403,20403
+models/jenzmodels/bluething.dx80.vtx,20403,20403
+models/jenzmodels/bluething.sw.vtx,20403,20403
+models/jenzmodels/bluething.phy,21007,21007
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/maps/ze_non_sequitur_b1_particles.txt,1211,1211
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/2muchpt.pcf,7021,7021
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/bla.pcf,6417,6417
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/button2particle.pcf,6695,6695
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/buttonparticle.pcf,4484,4484
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/cloud.pcf,5628,5628
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/eye laser.pcf,9533,9533
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/eyedark.pcf,4074,4074
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/fall.pcf,5106,5106
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/femparticle.pcf,5161,5161
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/fire_01.pcf,259511,259511
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/fire_medium_01.pcf,6055,6055
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/flamme.pcf,4089,4089
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/frostbolt.pcf,4595,4595
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/push_partic.pcf,3746,3746
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/red.pcf,5253,5253
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/show particle.pcf,5091,5091
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/skyboxparticle.pcf,3745,3745
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/skyboxstorm.pcf,6840,6840
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/small green.pcf,5079,5079
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/sunpt.pcf,4695,4695
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/toparticle.pcf,5000,5000
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/tparticle.pcf,4179,4179
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/treparticle.pcf,4860,4860
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/voidparticle.pcf,6163,6163
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/water_impact.pcf,110520,110520
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/custom/ze_non_sequitur_b1/particles/yellowparticle.pcf,4633,4633

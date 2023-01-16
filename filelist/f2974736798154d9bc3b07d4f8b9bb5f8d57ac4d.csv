@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/mg_rocktower/de_chateau/rockf_blend_wvt_patch.vmt,115,115
+materials/maps/mg_rocktower/nature/sandfloor010a_281_-342_141.vmt,133,133
+materials/maps/mg_rocktower/tile/tilefloor020a_281_-342_141.vmt,131,131
+materials/maps/mg_rocktower/tile/tilefloor019a_281_-342_141.vmt,131,131
+materials/maps/mg_rocktower/metal/metalwall045a_nobump_281_-342_141.vmt,139,139
+materials/maps/mg_rocktower/nature/rockwall015a_281_-342_141.vmt,132,132
+materials/maps/mg_rocktower/glass/glasswindowbreak070b_281_-342_141.vmt,114,114
+materials/maps/mg_rocktower/glass/prodwndwa_281_-342_141.vmt,209,209
+materials/maps/mg_rocktower/glass/combineglass001a_281_-342_141.vmt,135,135
+materials/maps/mg_rocktower/nature/sewer_waterdarkfog_dx70_depth_102.vmt,118,118
+materials/maps/mg_rocktower/cubemapdefault.vtf,9832,9832
+materials/maps/mg_rocktower/c281_-342_141.vtf,9832,9832
+materials/maps/mg_rocktower/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_rocktower/c281_-342_141.hdr.vtf,76528,76528

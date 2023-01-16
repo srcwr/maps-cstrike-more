@@ -1,0 +1,146 @@
+filename,size,compressed
+materials/360G/GLAS/MILCHGLAS GLASTEXTUR.vmt,260,260
+materials/360g/Glas/Milchglas Glastextur.vtf,349744,349744
+materials/360g/Glas/Milchglas Glastextur_Specular.vtf,349744,349744
+materials/360G/SONSTIGES/CEILINGTILEA.vmt,273,273
+materials/360g/Sonstiges/ceilingtilea.vtf,174968,174968
+materials/360g/Sonstiges/ceilingtilea_normal.vtf,349744,349744
+materials/360g/Sonstiges/ceilingtilea_specular.vtf,174968,174968
+materials/360G/SPRAYLOGO.vmt,161,161
+materials/360g/Spraylogo.vtf,87600,87600
+materials/COLEY/BARRELHOWTO.vmt,95,95
+materials/coley/barrelhowto.vtf,1398308,1398308
+materials/COLEY/COLEY.vmt,57,57
+materials/coley/coley.vtf,699256,699256
+materials/CUSTOM LOGO/PAPERCUTLOGO.vmt,96,96
+materials/Custom Logo/papercutlogo.vtf,349744,349744
+materials/CUSTOM/CREDITSDEATHRUN1.vmt,71,71
+materials/custom/creditsdeathrun1.vtf,349760,349760
+materials/CUSTOM/CREDITSDEATHRUN2.vmt,71,71
+materials/custom/creditsdeathrun2.vtf,349760,349760
+materials/CUSTOM/CREDITSDEATHRUN3.vmt,71,71
+materials/custom/creditsdeathrun3.vtf,1398308,1398308
+materials/CUSTOM/HELLCREDSNAME.vmt,87,87
+materials/custom/hellcredsname.vtf,2796348,2796348
+materials/CUSTOM/HELLEND.vmt,81,81
+materials/custom/hellend.vtf,1398308,1398308
+materials/CUSTOM/SV_ALLINONECREDITS.vmt,92,92
+materials/custom/sv_allinonecredits.vtf,349760,349760
+materials/DECALS/CUSTOM/ADVERTISEMENT.vmt,110,110
+materials/decals/custom/advertisement.vtf,174984,174984
+materials/fun/blacksheep.vmt,109,109
+materials/fun/blacksheep.vtf,87600,87600
+materials/FUN/BLUE_GLASS.vmt,152,152
+materials/fun/blue_glass.vtf,349760,349760
+materials/fun/blue_glass_norm.vtf,1048783,1048783
+materials/ICECREAMLOCK/COLORRED.vmt,97,97
+materials/icecreamlock/colorred.vtf,392,392
+materials/ICECREAMLOCK/GREYGLASS.vmt,117,117
+materials/icecreamlock/greyglass.vtf,2952,2952
+materials/ICECREAMLOCK/LIGHTGLASS.vmt,118,118
+materials/icecreamlock/lightglass.vtf,2952,2952
+materials/ICECREAMLOCK/ORANGEGLASS.vmt,119,119
+materials/icecreamlock/orangeglass.vtf,2952,2952
+materials/LESS/DEVBLUE.vmt,84,84
+materials/less/devblue.vtf,174984,174984
+materials/maps/all_in_one_velocity_v1/360g/glas/milchglas glastextur_0_0_0.vmt,146,146
+materials/maps/all_in_one_velocity_v1/360g/sonstiges/ceilingtilea_0_0_0.vmt,143,143
+materials/maps/all_in_one_velocity_v1/c0_0_0.vtf,4952,4952
+materials/maps/all_in_one_velocity_v1/cubemapdefault.vtf,4952,4952
+materials/maps/all_in_one_velocity_v1/de_nuke/nukwater_movingplane_0_0_0.vmt,167,167
+materials/maps/all_in_one_velocity_v1/de_nuke/nukwater_movingplane_depth_16.vmt,115,115
+materials/maps/all_in_one_velocity_v1/de_nuke/nukwater_movingplane_depth_32.vmt,115,115
+materials/maps/all_in_one_velocity_v1/de_nuke/nukwater_movingplane_depth_6.vmt,114,114
+materials/maps/all_in_one_velocity_v1/de_nuke/nukwater_movingplane_depth_8.vmt,114,114
+materials/maps/all_in_one_velocity_v1/dev/dev_water2_cheap_depth_1200.vmt,109,109
+materials/maps/all_in_one_velocity_v1/glass/combineglass001a_0_0_0.vmt,138,138
+materials/maps/all_in_one_velocity_v1/glass/glasswindow070c_0_0_0.vmt,137,137
+materials/maps/all_in_one_velocity_v1/glass/unbreakable_0_0_0.vmt,133,133
+materials/maps/all_in_one_velocity_v1/metal/citadel_metalwall078a_0_0_0.vmt,143,143
+materials/maps/all_in_one_velocity_v1/metal/citadel_tilefloor016a_0_0_0.vmt,143,143
+materials/maps/all_in_one_velocity_v1/nature/sewer_water001_0_0_0.vmt,160,160
+materials/maps/all_in_one_velocity_v1/nature/sewer_water001_depth_7.vmt,107,107
+materials/maps/all_in_one_velocity_v1/nature/sewer_water001_depth_8.vmt,107,107
+materials/maps/all_in_one_velocity_v1/nature/toxicslime002a_depth_119.vmt,109,109
+materials/maps/all_in_one_velocity_v1/nature/water_canals03_depth_96.vmt,108,108
+materials/maps/all_in_one_velocity_v1/nature/water_canals03_dx70_depth_2.vmt,112,112
+materials/maps/all_in_one_velocity_v1/nature/water_canals03_dx70_depth_3.vmt,112,112
+materials/maps/all_in_one_velocity_v1/water/water_slime01_depth_56.vmt,106,106
+materials/model_lampe2/black.vmt,62,62
+materials/model_lampe2/black.vtf,1584,1584
+materials/REFLEX_PSEUDO/MAT_DARK.vmt,93,93
+materials/reflex_pseudo/mat_dark.vtf,174984,174984
+materials/skybox/Flowsky04_bk.vmt,89,89
+materials/skybox/flowsky04_bk.vtf,699272,699272
+materials/skybox/Flowsky04_dn.vmt,89,89
+materials/skybox/flowsky04_dn.vtf,699272,699272
+materials/skybox/Flowsky04_ft.vmt,89,89
+materials/skybox/flowsky04_ft.vtf,699272,699272
+materials/skybox/Flowsky04_lf.vmt,89,89
+materials/skybox/flowsky04_lf.vtf,699272,699272
+materials/skybox/Flowsky04_rt.vmt,89,89
+materials/skybox/flowsky04_rt.vtf,699272,699272
+materials/skybox/Flowsky04_up.vmt,89,89
+materials/skybox/flowsky04_up.vtf,699272,699272
+materials/TEST/GRID_BLACK.vmt,91,91
+materials/test/grid_black.vtf,11144,11144
+materials/TEST/GRID_CYAN.vmt,90,90
+materials/test/grid_cyan.vtf,11144,11144
+materials/TEST/GRID_GREY.vmt,90,90
+materials/test/grid_grey.vtf,11144,11144
+materials/TEST/GRID_LIGHT.vmt,91,91
+materials/test/grid_light.vtf,11144,11144
+materials/TEST/GRID_ORANGE.vmt,92,92
+materials/test/grid_orange.vtf,11144,11144
+materials/text/awp battle.vmt,110,110
+materials/text/Awp Battle.vtf,87536,87536
+materials/text/bunny hop.vmt,109,109
+materials/text/Bunny Hop.vtf,87536,87536
+materials/text/climb.vmt,105,105
+materials/text/Climb.vtf,87536,87536
+materials/text/deathrun.vmt,108,108
+materials/text/Deathrun.vtf,87536,87536
+materials/text/fun.vmt,103,103
+materials/text/Fun.vtf,87536,87536
+materials/text/iceskate.vmt,108,108
+materials/text/Iceskate.vtf,87536,87536
+materials/text/knife fight.vmt,111,111
+materials/text/Knife Fight.vtf,87536,87536
+materials/text/nade fight.vmt,110,110
+materials/text/Nade Fight.vtf,87536,87536
+materials/text/scouts.vmt,106,106
+materials/text/Scouts.vtf,87536,87536
+materials/text/sliderace.vmt,109,109
+materials/text/Sliderace.vtf,87536,87536
+materials/text/surf.vmt,104,104
+materials/text/Surf.vtf,87536,87536
+materials/TEXTATURES/ICEPWN.vmt,91,91
+materials/Textatures/icepwn.vtf,11144,11144
+materials/VELOCITY_ALL_IN_ONE/ALLINONE_CLIMB.vmt,101,101
+materials/velocity_all_in_one/allinone_climb.vtf,43912,43912
+materials/VELOCITY_ALL_IN_ONE/BHOP_FINAL.vmt,97,97
+materials/velocity_all_in_one/bhop_final.vtf,43912,43912
+materials/VELOCITY_ALL_IN_ONE/DEATHRUNSTAGE9.vmt,101,101
+materials/velocity_all_in_one/deathrunstage9.vtf,43912,43912
+materials/VELOCITY_ALL_IN_ONE/GRENADE_B1.vmt,97,97
+materials/velocity_all_in_one/Grenade_b1.vtf,43912,43912
+materials/VELOCITY_ALL_IN_ONE/ICESKATE.vmt,76,76
+materials/velocity_all_in_one/iceskate.vtf,43912,43912
+materials/VELOCITY_ALL_IN_ONE/KNIVES_VELOCITY.vmt,102,102
+materials/velocity_all_in_one/knives_velocity.vtf,43912,43912
+materials/VELOCITY_ALL_IN_ONE/SCOUTS.vmt,93,93
+materials/velocity_all_in_one/scouts.vtf,43912,43912
+materials/VELOCITY_ALL_IN_ONE/SLIDERACE.vmt,77,77
+materials/velocity_all_in_one/sliderace.vtf,43912,43912
+materials/VELOCITY_ALL_IN_ONE/SURF.vmt,72,72
+materials/velocity_all_in_one/surf.vtf,43912,43912
+materials/VELOCITY_ALL_IN_ONE/VELOCITY_AWPS.vmt,100,100
+materials/velocity_all_in_one/velocity_awps.vtf,43912,43912
+materials/WATER/WATER_SLIME01.vmt,1441,1441
+materials/water/water_slime01_beneath.vmt,1158,1158
+models/model_lampe2/model_lampe2.dx80.vtx,3597,3597
+models/model_lampe2/model_lampe2.dx90.vtx,3597,3597
+models/model_lampe2/model_lampe2.mdl,1520,1520
+models/model_lampe2/model_lampe2.phy,1461,1461
+models/model_lampe2/model_lampe2.sw.vtx,3597,3597
+models/model_lampe2/model_lampe2.vvd,18496,18496

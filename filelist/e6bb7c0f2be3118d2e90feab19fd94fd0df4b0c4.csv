@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/fy_pool_glass_v2/nature/water_canals03_-504_8_128.vmt,159,159
+materials/maps/fy_pool_glass_v2/glass/glasswindow069a_-448_-124_200.vmt,139,139
+materials/maps/fy_pool_glass_v2/tile/tilefloor020a_cheap_-448_-124_200.vmt,142,142
+materials/maps/fy_pool_glass_v2/metal/citadel_metalwall078a_-448_-124_200.vmt,145,145
+materials/maps/fy_pool_glass_v2/tile/tilefloor020a_cheap_-504_8_128.vmt,139,139
+materials/maps/fy_pool_glass_v2/metal/citadel_metalwall078a_-504_8_128.vmt,142,142
+materials/maps/fy_pool_glass_v2/glass/glasswindow069a_-504_8_128.vmt,136,136
+materials/maps/fy_pool_glass_v2/maps/fy_pool_glass_v2/nature/water_canals03_-504_8_128_depth_172.vmt,142,142
+materials/maps/fy_pool_glass_v2/cubemapdefault.vtf,9824,9824
+materials/maps/fy_pool_glass_v2/c-504_8_128.vtf,9824,9824
+materials/maps/fy_pool_glass_v2/c-448_-124_200.vtf,9824,9824
+materials/maps/fy_pool_glass_v2/c-504_8_128.hdr.vtf,76520,76520
+materials/maps/fy_pool_glass_v2/c-448_-124_200.hdr.vtf,76520,76520

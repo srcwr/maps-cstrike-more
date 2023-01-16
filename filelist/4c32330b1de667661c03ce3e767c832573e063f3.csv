@@ -1,0 +1,25 @@
+filename,size,compressed
+materials/maps/ba_jail_tbase_v3/models/props_lab/suitcase_glass_-337_-58_275.vmt,148,148
+materials/maps/ba_jail_tbase_v3/models/props_lab/suitcase_glass_1626_-182_99.vmt,148,148
+materials/maps/ba_jail_tbase_v3/props/plasticceiling003a_1626_-182_99.vmt,141,141
+materials/maps/ba_jail_tbase_v3/props/plasticceiling003a_-337_-58_275.vmt,141,141
+materials/maps/ba_jail_tbase_v3/models/dog/eyeglass_-337_-58_275.vmt,136,136
+materials/maps/ba_jail_tbase_v3/halflife/glassblue2_1626_-182_99.vmt,136,136
+materials/maps/ba_jail_tbase_v3/models/dog/eyeglass_1626_-182_99.vmt,136,136
+materials/maps/ba_jail_tbase_v3/halflife/glassblue2_-337_-58_275.vmt,136,136
+materials/maps/ba_jail_tbase_v3/metal/metalwall045a_nobump_1626_-182_99.vmt,143,143
+materials/maps/ba_jail_tbase_v3/metal/metalwall045a_nobump_-337_-58_275.vmt,143,143
+materials/maps/ba_jail_tbase_v3/glass/glasswindow007a_1626_-182_99.vmt,138,138
+materials/maps/ba_jail_tbase_v3/glass/combineglass001a_1626_-182_99.vmt,139,139
+materials/maps/ba_jail_tbase_v3/glass/glasswindowbreak070a_1626_-182_99.vmt,143,143
+materials/maps/ba_jail_tbase_v3/glass/glasswindowbreak070a_-337_-58_275.vmt,143,143
+materials/maps/ba_jail_tbase_v3/de_nuke/nukwater_movingplane_beneath_depth_12.vmt,123,123
+materials/maps/ba_jail_tbase_v3/nature/water_movingplane_dx70_depth_27.vmt,116,116
+materials/maps/ba_jail_tbase_v3/nature/water_canals_city_murky_dx70_depth_98.vmt,122,122
+materials/maps/ba_jail_tbase_v3/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_tbase_v3/c-337_-58_275.vtf,9824,9824
+materials/maps/ba_jail_tbase_v3/c1626_-182_99.vtf,9824,9824
+sound/Tbase/chamillionaire - hip hop police.mp3,6588398,6588398
+sound/Tbase/dj melodie - sound of my dreams.mp3,7700480,7700480
+sound/Tbase/rihanna-rehab.mp3,7215232,7215232
+sound/Tbase/santana - into the night.mp3,5313204,5313204

@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/bhop_conventional/reacz/portal/dark/thin_framed/textured/small_textured_0_0_0.vmt,164,164
+materials/maps/bhop_conventional/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_conventional/c0_0_0.vtf,4960,4960
+materials/maps/bhop_conventional/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_conventional/c0_0_0.hdr.vtf,76528,76528
+materials/reacz/detail/detail_concrete_03.vtf,174984,174984
+materials/reacz/portal/dark/thin_framed/normals/textured/small_textured_nmap.vtf,1048783,1048783
+materials/reacz/portal/dark/thin_framed/textured/small_textured.vtf,1398308,1398308
+materials/reacz/portal/light/clean/grey/large_clean.vtf,1398308,1398308
+materials/reacz/detail/detail_concrete_03.vtf,174984,174984
+materials/reacz/detail/detail_metal_brushed.vtf,11168,11168

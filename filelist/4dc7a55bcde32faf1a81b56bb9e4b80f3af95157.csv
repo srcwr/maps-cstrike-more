@@ -1,0 +1,521 @@
+filename,size,compressed
+materials/maps/jb_marioworld_rsc_v1/af_omega/clock_glass_0_0_0.vmt,134,134
+materials/maps/jb_marioworld_rsc_v1/super mario/watertest_depth_406.vmt,109,109
+materials/maps/jb_marioworld_rsc_v1/super mario/lavabowser_depth_84.vmt,109,109
+materials/maps/jb_marioworld_rsc_v1/super mario/watertest_depth_16.vmt,108,108
+materials/maps/jb_marioworld_rsc_v1/super mario/lavabowser_depth_181.vmt,110,110
+materials/maps/jb_marioworld_rsc_v1/super mario/lavabowser_depth_69.vmt,109,109
+materials/maps/jb_marioworld_rsc_v1/super mario/watertest_depth_414.vmt,109,109
+materials/maps/jb_marioworld_rsc_v1/super mario/watertest_depth_172.vmt,109,109
+materials/maps/jb_marioworld_rsc_v1/super mario/lavabowser_depth_95.vmt,109,109
+materials/maps/jb_marioworld_rsc_v1/super mario/lavabowser_depth_203.vmt,110,110
+materials/maps/jb_marioworld_rsc_v1/super mario/lavabowser_depth_34.vmt,109,109
+materials/maps/jb_marioworld_rsc_v1/super mario/lavabowser_depth_1.vmt,108,108
+materials/maps/jb_marioworld_rsc_v1/super mario/watertest_depth_30.vmt,108,108
+materials/maps/jb_marioworld_rsc_v1/super mario/watertest_depth_25.vmt,108,108
+materials/maps/jb_marioworld_rsc_v1/super mario/lavabowser_depth_14.vmt,109,109
+materials/maps/jb_marioworld_rsc_v1/cubemapdefault.vtf,9832,9832
+materials/maps/jb_marioworld_rsc_v1/c0_0_0.vtf,9832,9832
+materials/maps/jb_marioworld_rsc_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jb_marioworld_rsc_v1/c0_0_0.hdr.vtf,76528,76528
+materials/af_omega/clock_glass.vmt,315,315
+materials/af_omega/clock_glass.vtf,22064,22064
+materials/models/props_trainstation/trainstation_clock_glass001_mask.vtf,11128,11128
+materials/SUPER MARIO/watertest.vmt,1462,1462
+materials/SUPER MARIO/watertest.vtf,1584,1584
+materials/Dev/water_normal.vtf,174984,174984
+materials/Dev/water_dudv.vtf,5068290,5068290
+materials/SUPER MARIO/lavabowser.vmt,539,539
+materials/SUPER MARIO/lavabowser.vtf,2952,2952
+materials/MARIOKART/MARIO_RAINBOW.vmt,98,98
+materials/MARIOKART/mario_rainbow.vtf,174984,174984
+materials/tools/toolsinvisible.vmt,304,304
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/SUPER MARIO/recall.vmt,85,85
+materials/SUPER MARIO/recall.vtf,87552,87552
+materials/SUPER MARIO/Knife.vmt,84,84
+materials/SUPER MARIO/Knife.vtf,43872,43872
+materials/SUPER MARIO/Volleyball.vmt,89,89
+materials/SUPER MARIO/Volleyball.vtf,43904,43904
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/SUPER MARIO/tsteenblack.vmt,71,71
+materials/SUPER MARIO/tsteenblack.vtf,904,904
+materials/SUPER MARIO/Start.vmt,84,84
+materials/SUPER MARIO/Start.vtf,22016,22016
+materials/SUPER MARIO/Stop.vmt,83,83
+materials/SUPER MARIO/Stop.vtf,22016,22016
+materials/SUPER MARIO/Football.vmt,87,87
+materials/SUPER MARIO/Football.vtf,87552,87552
+materials/SUPER MARIO/Rainbow bhop.vmt,91,91
+materials/SUPER MARIO/Rainbow bhop.vtf,43904,43904
+materials/SUPER MARIO/Rainbow race.vmt,91,91
+materials/SUPER MARIO/Rainbow race.vtf,87552,87552
+materials/SUPER MARIO/Hunger game.vmt,90,90
+materials/SUPER MARIO/Hunger game.vtf,87552,87552
+materials/mytextures/SUPER MARIO 64#4EEEFE7D#0#2_RGB.vmt,90,90
+materials/mytextures/SUPER MARIO 64#4EEEFE7D#0#2_rgb.vtf,87588,87588
+materials/PEACHS CASTLE/7A7501A5_C.vmt,72,72
+materials/PEACHS CASTLE/7A7501A5_c.vtf,888,888
+materials/SUPER MARIO/vloerbedekking.vmt,74,74
+materials/SUPER MARIO/vloerbedekking.vtf,888,888
+materials/PEACHS CASTLE/49254A53_C.vmt,72,72
+materials/PEACHS CASTLE/49254A53_c.vtf,1512,1512
+materials/SUPER MARIO/blackbrique.vmt,71,71
+materials/SUPER MARIO/blackbrique.vtf,1528,1528
+materials/SUPER MARIO/Open.vmt,83,83
+materials/SUPER MARIO/Open.vtf,22016,22016
+materials/PEACHS CASTLE/3C96C6A_C.vmt,71,71
+materials/PEACHS CASTLE/3C96C6A_c.vtf,888,888
+materials/SUPER MARIO/30second.vmt,87,87
+materials/SUPER MARIO/30second.vtf,174976,174976
+materials/SUPER MARIO/Level 1.vmt,86,86
+materials/SUPER MARIO/Level 1.vtf,43904,43904
+materials/SUPER MARIO/Level 2.vmt,86,86
+materials/SUPER MARIO/Level 2.vtf,87552,87552
+materials/SUPER MARIO/Level 3.vmt,86,86
+materials/SUPER MARIO/Level 3.vtf,43904,43904
+materials/SUPER MARIO/Disco.vmt,84,84
+materials/SUPER MARIO/Disco.vtf,22016,22016
+materials/pb_textures/mcironblock.vmt,126,126
+materials/pb_textures/mcironbar.vtf,87616,87616
+materials/SUPER MARIO/Etoilemario.vmt,90,90
+materials/SUPER MARIO/Etoilemario.vtf,87616,87616
+materials/PEACHS CASTLE/60B5D4F9_C.vmt,72,72
+materials/PEACHS CASTLE/60B5D4F9_c.vtf,1512,1512
+materials/SMW/GRASSHILL_FILL.vmt,138,138
+materials/SMW/grasshill_fill.vtf,1255,1255
+materials/SUPER MARIO/herbe.vmt,65,65
+materials/SUPER MARIO/herbe.vtf,392,392
+materials/SUPER MARIO/KEIEN.vmt,65,65
+materials/SUPER MARIO/keien.vtf,888,888
+materials/SUPER MARIO/Climb extreme.vmt,92,92
+materials/SUPER MARIO/Climb extreme.vtf,174976,174976
+materials/SUPER MARIO/Boo's attack.vmt,91,91
+materials/SUPER MARIO/Boo's attack.vtf,87552,87552
+materials/SUPER MARIO/Spleef.vmt,85,85
+materials/SUPER MARIO/Spleef.vtf,87552,87552
+materials/SUPER MARIO/Deathrun.vmt,87,87
+materials/SUPER MARIO/Deathrun.vtf,87552,87552
+materials/SUPER MARIO/Coins game.vmt,89,89
+materials/SUPER MARIO/Coins game.vtf,87552,87552
+materials/SUPER MARIO/Team 2.vmt,85,85
+materials/SUPER MARIO/Team 2.vtf,22016,22016
+materials/SUPER MARIO/Team 1.vmt,85,85
+materials/SUPER MARIO/Team 1.vtf,22016,22016
+materials/SUPER MARIO/Outside.vmt,86,86
+materials/SUPER MARIO/Outside.vtf,43904,43904
+materials/CS_ITALY/black.vmt,62,62
+materials/CS_ITALY/black.vtf,1584,1584
+materials/thw_mario/brick2.vmt,89,89
+materials/thw_mario/brick2.vtf,5696,5696
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/SUPER MARIO/mariokart.vmt,88,88
+materials/SUPER MARIO/mariokart.vtf,87552,87552
+materials/SUPER MARIO/marioct.vmt,67,67
+materials/SUPER MARIO/marioct.vtf,904,904
+materials/SUPER MARIO/grassfreeze.vmt,71,71
+materials/SUPER MARIO/grassfreeze.vtf,392,392
+materials/PEACHS CASTLE/blacksol.vmt,70,70
+materials/PEACHS CASTLE/blacksol.vtf,904,904
+materials/SUPER MARIO/grassfreeze2.vmt,72,72
+materials/SUPER MARIO/grassfreeze2.vtf,392,392
+materials/SUPER MARIO/Reset.vmt,84,84
+materials/SUPER MARIO/Reset.vtf,22016,22016
+materials/SUPER MARIO/SAND.vmt,64,64
+materials/SUPER MARIO/Sand.vtf,888,888
+materials/SUPER MARIO/2 mario.vmt,86,86
+materials/SUPER MARIO/2 mario.vtf,5696,5696
+materials/SUPER MARIO/3 mario.vmt,86,86
+materials/SUPER MARIO/3 mario.vtf,5696,5696
+materials/SUPER MARIO/Rainbow road.vmt,91,91
+materials/SUPER MARIO/Rainbow road.vtf,87552,87552
+materials/SMW/GRASSHILL_GRASS.vmt,140,140
+materials/SMW/grasshill_grass.vtf,1255,1255
+materials/SUPER MARIO/Kill.vmt,83,83
+materials/SUPER MARIO/Kill.vtf,22016,22016
+materials/SUPER MARIO/Close.vmt,84,84
+materials/SUPER MARIO/Close.vtf,22016,22016
+materials/SUPER MARIO/winners.vmt,86,86
+materials/SUPER MARIO/winners.vtf,43904,43904
+materials/SUPER MARIO/losers.vmt,85,85
+materials/SUPER MARIO/losers.vtf,87552,87552
+materials/SUPER MARIO/BRUGZIJKANT2.vmt,72,72
+materials/SUPER MARIO/Brugzijkant2.vtf,888,888
+materials/SUPER MARIO/DAK.vmt,63,63
+materials/SUPER MARIO/Dak.vtf,888,888
+materials/PEACHS CASTLE/1B824EDD_C.vmt,72,72
+materials/PEACHS CASTLE/1B824EDD_c.vtf,888,888
+materials/PEACHS CASTLE/581DD20A_C.vmt,72,72
+materials/PEACHS CASTLE/581DD20A_c.vtf,888,888
+materials/PEACHS CASTLE/15A46A01_C.vmt,72,72
+materials/PEACHS CASTLE/15A46A01_c.vtf,888,888
+materials/PEACHS CASTLE/7121A741_C.vmt,72,72
+materials/PEACHS CASTLE/7121A741_c.vtf,888,888
+materials/MARIOKART/MARIO_COLOR.vmt,96,96
+materials/MARIOKART/mario_color.vtf,87544,87544
+materials/SMW/GRASSHILL_HORI.vmt,138,138
+materials/SMW/grasshill_hori.vtf,2217,2217
+materials/SUPER MARIO/TSTEEN.vmt,66,66
+materials/SUPER MARIO/tsteen.vtf,888,888
+materials/SUPER MARIO/STEENMUUR.vmt,69,69
+materials/SUPER MARIO/steenmuur.vtf,1512,1512
+materials/SUPER MARIO/GRIJS.vmt,65,65
+materials/SUPER MARIO/grijs.vtf,888,888
+materials/PEACHS CASTLE/777F0E0B_C.vmt,105,105
+materials/PEACHS CASTLE/777F0E0B_c.vtf,1584,1584
+materials/Hypilix/Hypilix titre.vmt,88,88
+materials/Hypilix/Hypilix titre.vtf,1398272,1398272
+materials/MARIOKART/MARIO_TREE.vmt,95,95
+materials/MARIOKART/mario_tree.vtf,43912,43912
+materials/SUPER MARIO/RAAMPJE.vmt,86,86
+materials/SUPER MARIO/Raampje.vtf,1584,1584
+materials/SUPER MARIO/mariot.vmt,66,66
+materials/SUPER MARIO/mariot.vtf,904,904
+materials/SUPER MARIO/Jaune.vmt,65,65
+materials/SUPER MARIO/Jaune.vtf,904,904
+materials/SUPER MARIO/peach.vmt,65,65
+materials/SUPER MARIO/peach.vtf,904,904
+materials/SUPER MARIO/Cyan.vmt,64,64
+materials/SUPER MARIO/Cyan.vtf,904,904
+materials/SUPER MARIO/marron.vmt,66,66
+materials/SUPER MARIO/marron.vtf,904,904
+materials/SUPER MARIO/Orange.vmt,66,66
+materials/SUPER MARIO/Orange.vtf,904,904
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/smb3/question.vmt,61,61
+materials/smb3/question.vtf,1398336,1398336
+materials/MARIOKART/MARIO_BLUTILE.vmt,98,98
+materials/MARIOKART/mario_blutile.vtf,11144,11144
+materials/MARIOKART/MARIO_ROAD2.vmt,96,96
+materials/MARIOKART/mario_road2.vtf,11144,11144
+materials/smb/flowerani.vmt,287,287
+materials/smb/flowerani.vtf,699312,699312
+materials/arcade/grey_c_2.vmt,89,89
+materials/arcade/grey_c_2.vtf,43912,43912
+materials/arcade/green_c_1_dot.vmt,94,94
+materials/arcade/green_c_1_dot.vtf,43912,43912
+materials/arcade/red_c_dot.vmt,89,89
+materials/arcade/red_c_dot.vtf,43912,43912
+materials/arcade/blue_c_dots.vmt,92,92
+materials/arcade/blue_c_dots.vtf,43912,43912
+materials/PEACHS CASTLE/192BCC90_C.vmt,72,72
+materials/PEACHS CASTLE/192BCC90_c.vtf,1512,1512
+materials/MARIOKART/MARIO_POW.vmt,94,94
+materials/MARIOKART/mario_pow.vtf,11144,11144
+materials/MARIOKART/MARIO_MOLE.vmt,115,115
+materials/MARIOKART/mario_mole.vtf,87616,87616
+materials/MARIOKART/MARIO_RAINBOW3.vmt,99,99
+materials/MARIOKART/mario_rainbow3.vtf,174984,174984
+materials/PEACHS CASTLE/6AE21407_C.vmt,72,72
+materials/PEACHS CASTLE/6AE21407_c.vtf,888,888
+materials/PEACHS CASTLE/24B12B6D_C.vmt,72,72
+materials/PEACHS CASTLE/24B12B6D_c.vtf,1512,1512
+materials/SUPER MARIO/DEUR.vmt,64,64
+materials/SUPER MARIO/deur.vtf,1512,1512
+materials/PEACHS CASTLE/2CE113A2_C.vmt,72,72
+materials/PEACHS CASTLE/2CE113A2_c.vtf,488,488
+materials/PEACHS CASTLE/6B88A261_C.vmt,72,72
+materials/PEACHS CASTLE/6B88A261_c.vtf,888,888
+materials/SMW/COIN.vmt,315,315
+materials/SMW/coin.vtf,5688,5688
+materials/de_train/train_metalceiling_02.vmt,108,108
+materials/de_train/train_metalceiling_02.vtf,174968,174968
+materials/XENON/lakitu.vmt,79,79
+materials/XENON/lakitu.vtf,174944,174944
+materials/SMW/BLOCK_YELLOW.vmt,137,137
+materials/SMW/block_yellow.vtf,2217,2217
+materials/tools/toolsblack.vmt,232,232
+materials/tools/toolsblack.vtf,2936,2936
+materials/SMW/ITEM_BLOCK_USED.vmt,139,139
+materials/SMW/item_block_used.vtf,2900,2900
+materials/SMW/HILLSIDE_WEED_ENDS.vmt,155,155
+materials/SMW/hillside_weed_ends.vtf,2900,2900
+materials/SMW/HILLSIDE_WEED_MID.vmt,154,154
+materials/SMW/hillside_weed_mid.vtf,1596,1596
+materials/SUPER MARIO/1 mario.vmt,86,86
+materials/SUPER MARIO/1 mario.vtf,5696,5696
+materials/SUPER MARIO/4 mario.vmt,86,86
+materials/SUPER MARIO/4 mario.vtf,5696,5696
+materials/SUPER MARIO/9 mario.vmt,86,86
+materials/SUPER MARIO/9 mario.vtf,5696,5696
+materials/SUPER MARIO/8 mario.vmt,86,86
+materials/SUPER MARIO/8 mario.vtf,5696,5696
+materials/SUPER MARIO/7 mario.vmt,86,86
+materials/SUPER MARIO/7 mario.vtf,5696,5696
+materials/SUPER MARIO/6 mario.vmt,86,86
+materials/SUPER MARIO/6 mario.vtf,5696,5696
+materials/SUPER MARIO/5 mario.vmt,86,86
+materials/SUPER MARIO/5 mario.vtf,5696,5696
+materials/SUPER MARIO/porte 2.vmt,67,67
+materials/SUPER MARIO/porte 2.vtf,1528,1528
+materials/SUPER MARIO/Darkstar.vmt,68,68
+materials/SUPER MARIO/Darkstar.vtf,1528,1528
+materials/PEACHS CASTLE/71C9470_C.vmt,71,71
+materials/PEACHS CASTLE/71C9470_c.vtf,1512,1512
+materials/SUPER MARIO/porte.vmt,65,65
+materials/SUPER MARIO/porte.vtf,1528,1528
+materials/smb3/gr3.vmt,56,56
+materials/smb3/gr3.vtf,168,168
+materials/smb3/gr4.vmt,56,56
+materials/smb3/gr4.vtf,168,168
+materials/smb3/gr1.vmt,56,56
+materials/smb3/gr1.vtf,168,168
+materials/smb3/gr2.vmt,56,56
+materials/smb3/gr2.vtf,168,168
+materials/mario/mario_yellow_vert.vmt,104,104
+materials/mario/mario_yellow_vert.vtf,11128,11128
+materials/mario/mario_red_vert.vmt,101,101
+materials/mario/mario_red_vert.vtf,11128,11128
+materials/mario/mario_red1.vmt,97,97
+materials/mario/mario_red1.vtf,174968,174968
+materials/mario/mario_bridge.vmt,101,101
+materials/mario/mario_bridge.vtf,11128,11128
+materials/mario/mario_green_vert.vmt,103,103
+materials/mario/mario_green_vert.vtf,11128,11128
+materials/mario/mario_blue_vert.vmt,102,102
+materials/mario/mario_blue_vert.vtf,11128,11128
+materials/mario/mario_green1.vmt,99,99
+materials/mario/mario_green1.vtf,174968,174968
+materials/mario/mario_yellow1.vmt,100,100
+materials/mario/mario_yellow1.vtf,174968,174968
+materials/MARIOKART/MARIO_SPEED.vmt,266,266
+materials/MARIOKART/mario_speed.vtf,22008,22008
+materials/PEACHS CASTLE/6BA98DAC_C.vmt,72,72
+materials/PEACHS CASTLE/6BA98DAC_c.vtf,1512,1512
+materials/MARIOKART/MARIO_SB1.vmt,94,94
+materials/MARIOKART/mario_sb1.vtf,2952,2952
+materials/MARIOKART/MARIO_REDTILE.vmt,98,98
+materials/MARIOKART/mario_redtile.vtf,11144,11144
+materials/MARIOKART/MARIO_BIGTILE3.vmt,99,99
+materials/MARIOKART/mario_bigtile3.vtf,43912,43912
+materials/MARIOKART/MARIO_BIGTILE.vmt,98,98
+materials/MARIOKART/mario_bigtile.vtf,43912,43912
+materials/XENON/SPEAKERSLG.vmt,91,91
+materials/XENON/speakersLG.vtf,21992,21992
+materials/PEACHS CASTLE/3F1B67A3_C.vmt,72,72
+materials/PEACHS CASTLE/3F1B67A3_c.vtf,888,888
+materials/PEACHS CASTLE/4FA6BD20_C.vmt,72,72
+materials/PEACHS CASTLE/4FA6BD20_c.vtf,888,888
+materials/PEACHS CASTLE/49345F82_C.vmt,72,72
+materials/PEACHS CASTLE/49345F82_c.vtf,888,888
+materials/PEACHS CASTLE/4800FA99_C.vmt,72,72
+materials/PEACHS CASTLE/4800FA99_c.vtf,888,888
+materials/SMW/BLOCK_GREY.vmt,135,135
+materials/SMW/block_grey.vtf,2217,2217
+materials/SMW/ITEM_BLOCK.vmt,300,300
+materials/SMW/item_block.vtf,4324,4324
+materials/SMW/ITEM_BLOCK_BLANK.vmt,141,141
+materials/SMW/item_block_blank.vtf,1255,1255
+materials/halflife/BLACK.vmt,129,129
+materials/halflife/black.vtf,888,888
+materials/mario/mario_blue1.vmt,98,98
+materials/mario/mario_blue1.vtf,174968,174968
+materials/PEACHS CASTLE/7F0DBBD7_C.vmt,72,72
+materials/PEACHS CASTLE/7F0DBBD7_c.vtf,1512,1512
+materials/SUPER MARIO/Concours.vmt,87,87
+materials/SUPER MARIO/Concours.vtf,1398336,1398336
+materials/PEACHS CASTLE/6E3E7EFA_C.vmt,72,72
+materials/PEACHS CASTLE/6E3E7EFA_c.vtf,1512,1512
+materials/SUPER MARIO/PRINCESSONDER.vmt,92,92
+materials/SUPER MARIO/Princessonder.vtf,2896,2896
+materials/SUPER MARIO/PRINCESBOVEN.vmt,91,91
+materials/SUPER MARIO/Princesboven.vtf,2896,2896
+materials/PEACHS CASTLE/48F5B267_C.vmt,72,72
+materials/PEACHS CASTLE/48F5B267_c.vtf,888,888
+materials/PEACHS CASTLE/77928504_C.vmt,91,91
+materials/PEACHS CASTLE/77928504_c.vtf,2896,2896
+materials/PEACHS CASTLE/4D23D68_C.vmt,71,71
+materials/PEACHS CASTLE/4D23D68_c.vtf,1512,1512
+materials/PEACHS CASTLE/5C3492AB_C.vmt,91,91
+materials/PEACHS CASTLE/5C3492AB_c.vtf,1584,1584
+materials/PEACHS CASTLE/4A57B164_C.vmt,72,72
+materials/PEACHS CASTLE/4A57B164_c.vtf,1512,1512
+materials/SUPER MARIO/dakvert.vmt,67,67
+materials/SUPER MARIO/dakvert.vtf,904,904
+materials/MARIOKART/MARIO_BIGBLOCK.vmt,99,99
+materials/MARIOKART/mario_bigblock.vtf,43912,43912
+materials/MARIOKART/MARIO_WOOD.vmt,95,95
+materials/MARIOKART/mario_wood.vtf,11144,11144
+materials/PEACHS CASTLE/445A137C_C.vmt,72,72
+materials/PEACHS CASTLE/445A137C_c.vtf,1512,1512
+materials/PEACHS CASTLE/113885F1_C.vmt,72,72
+materials/PEACHS CASTLE/113885F1_c.vtf,1512,1512
+materials/PEACHS CASTLE/3EDBA5C3_C.vmt,72,72
+materials/PEACHS CASTLE/3EDBA5C3_c.vtf,1512,1512
+materials/PEACHS CASTLE/7F337DE6_C.vmt,72,72
+materials/PEACHS CASTLE/7F337DE6_c.vtf,1512,1512
+materials/PEACHS CASTLE/2DB147B5_C.vmt,72,72
+materials/PEACHS CASTLE/2DB147B5_c.vtf,1512,1512
+materials/PEACHS CASTLE/B6AC8BD_C.vmt,71,71
+materials/PEACHS CASTLE/B6AC8BD_c.vtf,1512,1512
+materials/PEACHS CASTLE/275192E7_C.vmt,72,72
+materials/PEACHS CASTLE/275192E7_c.vtf,1512,1512
+materials/PEACHS CASTLE/4FD1C00C_C.vmt,72,72
+materials/PEACHS CASTLE/4FD1C00C_c.vtf,1512,1512
+materials/PEACHS CASTLE/35FA7315_C.vmt,72,72
+materials/PEACHS CASTLE/35FA7315_c.vtf,1512,1512
+materials/PEACHS CASTLE/7EF5C8A8_C.vmt,72,72
+materials/PEACHS CASTLE/7EF5C8A8_c.vtf,1512,1512
+materials/SMW/SIGN_ARROW_GREEN.vmt,137,137
+materials/SMW/sign_arrow_green.vtf,5692,5692
+materials/PEACHS CASTLE/38B6ACDB_C.vmt,72,72
+materials/PEACHS CASTLE/38B6ACDB_c.vtf,1512,1512
+materials/PEACHS CASTLE/480F337C_C.vmt,72,72
+materials/PEACHS CASTLE/480F337C_c.vtf,1512,1512
+materials/PEACHS CASTLE/71495D75_C.vmt,72,72
+materials/PEACHS CASTLE/71495D75_c.vtf,1512,1512
+materials/PEACHS CASTLE/63D921C2_C.vmt,72,72
+materials/PEACHS CASTLE/63D921C2_c.vtf,1512,1512
+materials/pb_textures/kart/line.vmt,69,69
+materials/pb_textures/kart/line.vtf,5696,5696
+materials/black.vmt,53,53
+materials/black.vtf,153312,153312
+materials/tools_thorgot/toolsteleport.vmt,162,162
+materials/tools_thorgot/toolsteleport.vtf,5696,5696
+materials/water/water_bleue01_beneath.vmt,954,954
+materials/skybox/o2smbup.vmt,84,84
+materials/skybox/o2smbup.vtf,1398336,1398336
+materials/skybox/o2smbdn.vmt,84,84
+materials/skybox/o2smbdn.vtf,1398336,1398336
+materials/skybox/o2smblf.vmt,84,84
+materials/skybox/o2smblf.vtf,1398336,1398336
+materials/skybox/o2smbrt.vmt,84,84
+materials/skybox/o2smbrt.vtf,1398336,1398336
+materials/skybox/o2smbft.vmt,84,84
+materials/skybox/o2smbft.vtf,1398336,1398336
+materials/skybox/o2smbbk.vmt,82,82
+materials/skybox/o2smbbk.vtf,1398336,1398336
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,349744,349744
+models/marioragdoll/Super Mario Galaxy/boo/boo.mdl,4404,4404
+models/marioragdoll/Super Mario Galaxy/boo/boo.vvd,33600,33600
+models/marioragdoll/Super Mario Galaxy/boo/boo.dx90.vtx,10021,10021
+models/marioragdoll/Super Mario Galaxy/boo/boo.dx80.vtx,10021,10021
+models/marioragdoll/Super Mario Galaxy/boo/boo.sw.vtx,9925,9925
+models/marioragdoll/Super Mario Galaxy/boo/boo.phy,17659,17659
+materials/models/marioragdoll/Super Mario Galaxy/boo/boo.vmt,124,124
+materials/models/marioragdoll/Super Mario Galaxy/boo/boo.vtf,174944,174944
+sound/Hypilix/Bob-Omb Battlefield - Super Mario 64 -5db.mp3,2259167,2259167
+sound/Hypilix/Super Mario 64 Slider Race Theme Song -5db.mp3,2344432,2344432
+sound/Hypilix/smb1_overworld -5db.mp3,2830000,2830000
+models/forlix/soccer/soccerball.mdl,1540,1540
+models/forlix/soccer/soccerball.vvd,9408,9408
+models/forlix/soccer/soccerball.dx90.vtx,2655,2655
+models/forlix/soccer/soccerball.dx80.vtx,2655,2655
+models/forlix/soccer/soccerball.sw.vtx,2655,2655
+models/forlix/soccer/soccerball.phy,5205,5205
+materials/models/forlix/soccer/soccerball.vmt,100,100
+materials/models/forlix/soccer/soccerball.vtf,174984,174984
+models/Hypilix/tuyau_01.mdl,2468,2468
+models/Hypilix/tuyau_01.vvd,26560,26560
+models/Hypilix/Tuyau_01.dx90.vtx,5421,5421
+models/Hypilix/Tuyau_01.dx80.vtx,5421,5421
+models/Hypilix/Tuyau_01.sw.vtx,5421,5421
+models/Hypilix/Tuyau_01.phy,14896,14896
+materials/models/Hypilix/Tuyau_01/gr3.vmt,54,54
+materials/models/Hypilix/Tuyau_01/gr4.vmt,54,54
+materials/models/Hypilix/Tuyau_01/gr1.vmt,54,54
+materials/models/Hypilix/Tuyau_01/gr2.vmt,54,54
+materials/models/Hypilix/Tuyau_01/black.vmt,60,60
+sound/mario/smw_pipewarp.wav,133868,133868
+models/Hypilix/colonne.mdl,1728,1728
+models/Hypilix/colonne.vvd,6336,6336
+models/Hypilix/colonne.dx90.vtx,1383,1383
+models/Hypilix/colonne.dx80.vtx,1383,1383
+models/Hypilix/colonne.sw.vtx,1383,1383
+models/Hypilix/colonne.phy,1866,1866
+materials/models/Hypilix/colonne/3c96c6a_c.vmt,69,69
+models/marioragdoll/Super Mario Galaxy/bowser statue/statue.mdl,1672,1672
+models/marioragdoll/Super Mario Galaxy/bowser statue/statue.vvd,182336,182336
+models/marioragdoll/Super Mario Galaxy/bowser statue/statue.dx90.vtx,45456,45456
+models/marioragdoll/Super Mario Galaxy/bowser statue/statue.dx80.vtx,45456,45456
+models/marioragdoll/Super Mario Galaxy/bowser statue/statue.sw.vtx,45440,45440
+models/marioragdoll/Super Mario Galaxy/bowser statue/statue.phy,1984,1984
+materials/models/marioragdoll/Super Mario Galaxy/bowser statue/bowsSS00.vmt,113,113
+materials/models/marioragdoll/Super Mario Galaxy/bowser statue/bowsSS00.vtf,11144,11144
+materials/models/marioragdoll/Super Mario Galaxy/bowser statue/bowsSS01.vmt,114,114
+materials/models/marioragdoll/Super Mario Galaxy/bowser statue/bowsSS01.vtf,11144,11144
+models/marioragdoll/Super Mario Galaxy/goomba/goomba2.mdl,2972,2972
+models/marioragdoll/Super Mario Galaxy/goomba/goomba2.vvd,27584,27584
+models/marioragdoll/Super Mario Galaxy/goomba/goomba2.dx90.vtx,7947,7947
+models/marioragdoll/Super Mario Galaxy/goomba/goomba2.dx80.vtx,7947,7947
+models/marioragdoll/Super Mario Galaxy/goomba/goomba2.sw.vtx,7915,7915
+models/marioragdoll/Super Mario Galaxy/goomba/goomba2.phy,11435,11435
+materials/models/marioragdoll/Super Mario Galaxy/Goomba/goomSS01.vmt,132,132
+materials/models/marioragdoll/Super Mario Galaxy/Goomba/goomSS01.vtf,11104,11104
+sound/ambient/machines/combine_shield_loop3.wav,165002,165002
+models/cheeezy/bobomb/bobomb.mdl,5268,5268
+models/cheeezy/bobomb/bobomb.vvd,168768,168768
+models/cheeezy/bobomb/bobomb.dx90.vtx,47796,47796
+models/cheeezy/bobomb/bobomb.dx80.vtx,47796,47796
+models/cheeezy/bobomb/bobomb.sw.vtx,47724,47724
+models/cheeezy/bobomb/bobomb.phy,7517,7517
+materials/models/Cheeezy/Bobomb/bomb.vmt,279,279
+materials/models/Cheeezy/Bobomb/bomb.vtf,22080,22080
+materials/models/Cheeezy/Bobomb/feet.vmt,273,273
+materials/models/Cheeezy/Bobomb/feet.vtf,22080,22080
+materials/models/Cheeezy/Bobomb/white.vmt,214,214
+materials/models/Cheeezy/Bobomb/white.vtf,22080,22080
+materials/models/Cheeezy/Bobomb/top.vmt,276,276
+materials/models/Cheeezy/Bobomb/top.vtf,22080,22080
+materials/models/Cheeezy/Bobomb/wick.vmt,110,110
+materials/models/Cheeezy/Bobomb/wick.vtf,22080,22080
+materials/models/Cheeezy/Bobomb/wind.vmt,168,168
+materials/models/Cheeezy/Bobomb/wind.vtf,22080,22080
+sound/custom/super mario coin sound.wav,175200,175200
+models/vstmn/ball/soccer_ball_large.mdl,2020,2020
+models/vstmn/ball/soccer_ball_large.vvd,14528,14528
+models/vstmn/ball/soccer_ball_large.dx90.vtx,4335,4335
+models/vstmn/ball/soccer_ball_large.dx80.vtx,4335,4335
+models/vstmn/ball/soccer_ball_large.sw.vtx,4335,4335
+models/vstmn/ball/soccer_ball_large.phy,9052,9052
+materials/models/vstmn/ball/prop_ball.vmt,176,176
+materials/models/vstmn/ball/prop_ball_diff.vtf,349784,349784
+materials/models/vstmn/ball/test3.vmt,64,64
+materials/models/vstmn/ball/test3.vtf,524496,524496
+models/weapons/w_snip_awp.mdl,2448,2448
+models/weapons/w_snip_awp.vvd,43648,43648
+models/weapons/w_snip_awp.dx90.vtx,9416,9416
+models/weapons/w_snip_awp.dx80.vtx,9416,9416
+models/weapons/w_snip_awp.sw.vtx,9400,9400
+models/weapons/w_snip_awp.phy,1788,1788
+materials/models/weapons/w_models/w_snip_awp/w_snip_awp.vmt,91,91
+materials/models/weapons/w_models/w_snip_awp/w_snip_awp.vtf,699272,699272
+models/weapons/w_pist_deagle.mdl,2452,2452
+models/weapons/w_pist_deagle.vvd,32000,32000
+models/weapons/w_pist_deagle.dx90.vtx,6596,6596
+models/weapons/w_pist_deagle.dx80.vtx,6596,6596
+models/weapons/w_pist_deagle.sw.vtx,6580,6580
+models/weapons/w_pist_deagle.phy,1646,1646
+materials/models/weapons/w_models/w_pist_deagle/w_pist_deagle.vmt,97,97
+materials/models/weapons/w_models/w_pist_deagle/w_pist_deagle.vtf,174968,174968
+models/weapons/w_rif_ak47.mdl,2448,2448
+models/weapons/w_rif_ak47.vvd,37248,37248
+models/weapons/w_rif_ak47.dx90.vtx,7976,7976
+models/weapons/w_rif_ak47.dx80.vtx,7976,7976
+models/weapons/w_rif_ak47.sw.vtx,7960,7960
+models/weapons/w_rif_ak47.phy,1500,1500
+materials/models/weapons/w_models/w_rif_ak47/w_rif_ak47.vmt,91,91
+materials/models/weapons/w_models/w_rif_ak47/w_rif_ak47.vtf,699272,699272
+models/marioragdoll/Super Mario Galaxy/luma/luma3.mdl,3684,3684
+models/marioragdoll/Super Mario Galaxy/luma/luma3.vvd,28288,28288
+models/marioragdoll/Super Mario Galaxy/luma/luma3.dx90.vtx,9271,9271
+models/marioragdoll/Super Mario Galaxy/luma/luma3.dx80.vtx,9271,9271
+models/marioragdoll/Super Mario Galaxy/luma/luma3.sw.vtx,9215,9215
+models/marioragdoll/Super Mario Galaxy/luma/luma3.phy,15969,15969
+materials/models/marioragdoll/Super Mario Galaxy/luma/lumaSS04.vmt,256,256
+materials/models/marioragdoll/Super Mario Galaxy/luma/lumaSS02 yellow.vtf,1600,1600
+materials/models/marioragdoll/Super Mario Galaxy/luma/lumaSS00.vmt,257,257
+materials/models/marioragdoll/Super Mario Galaxy/luma/lumaSS00.vtf,2912,2912
+sound/Mario64.mp3,1167829,1167829
+sound/supermario64.mp3,1348055,1348055
+maps/jb_marioworld_rsc_v1.nav,554172,554172
+resource/overviews/jb_marioworld_rsc_v1.txt,447,447
+materials/overviews/jb_marioworld_rsc_v1.vmt,152,152
+materials/overviews/jb_marioworld_rsc_v1.vtf,1398336,1398336
+materials/overviews/jb_marioworld_rsc_v1_radar.vmt,158,158
+materials/overviews/jb_marioworld_rsc_v1_radar.vtf,1398336,1398336

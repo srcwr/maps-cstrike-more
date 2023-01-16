@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/bhop_downdowndown/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_downdowndown/cubemapdefault.hdr.vtf,76528,76528
+materials/pcpie/selfillumwhite.vmt,104,104
+materials/pcpie/selfillumwhite.vtf,11144,11144
+materials/pcpie/pharos/rock01_dark.vmt,100,100
+materials/pcpie/pharos/rock01_dark.vtf,87616,87616
+materials/skybox/blackup.vmt,88,88
+materials/skybox/black.vtf,262335,262335
+materials/skybox/blackdn.vmt,88,88
+materials/skybox/blacklf.vmt,88,88
+materials/skybox/blackrt.vmt,88,88
+materials/skybox/blackft.vmt,88,88
+materials/skybox/blackbk.vmt,88,88
+maps/bhop_downdowndown.nav,205,205

@@ -1,0 +1,74 @@
+filename,size,compressed
+materials/maps/fy_farty/tile/tilefloor020a_1117_-1859_163.vmt,129,129
+materials/maps/fy_farty/tile/tilefloor020a_1821_-1514_-85.vmt,129,129
+materials/maps/fy_farty/metal/citadel_metalwall072c_1821_-1514_-85.vmt,138,138
+materials/maps/fy_farty/metal/metalwall045a_1821_-1514_-85.vmt,130,130
+materials/maps/fy_farty/tile/tilefloor020a_1120_-309_-24.vmt,128,128
+materials/maps/fy_farty/tile/tilefloor020a_1846_-911_-147.vmt,129,129
+materials/maps/fy_farty/tile/tilefloor020a_460_-522_18.vmt,126,126
+materials/maps/fy_farty/metal/citadel_metalwall101b_1821_-1514_-85.vmt,138,138
+materials/maps/fy_farty/metal/citadel_metalwall072c_2384_-1453_-138.vmt,139,139
+materials/maps/fy_farty/metal/citadel_metalwall072c_460_-522_18.vmt,135,135
+materials/maps/fy_farty/metal/citadel_metalwall072c_1120_-309_-24.vmt,137,137
+materials/maps/fy_farty/metal/metalwall045a_490_-1706_-162.vmt,130,130
+materials/maps/fy_farty/metal/citadel_tilewall005a_490_-1706_-162.vmt,137,137
+materials/maps/fy_farty/metal/metalwall045a_1131_-1280_-104.vmt,131,131
+materials/maps/fy_farty/metal/citadel_metalwall101b_1117_-1859_163.vmt,138,138
+materials/maps/fy_farty/metal/citadel_metalwall072c_1846_-911_-147.vmt,138,138
+materials/maps/fy_farty/tile/tilewall006a_2384_-1453_-138.vmt,129,129
+materials/maps/fy_farty/tile/tilewall006a_1117_-1859_163.vmt,128,128
+materials/maps/fy_farty/tile/tilewall006a_1821_-1514_-85.vmt,128,128
+materials/maps/fy_farty/tile/tilewall006a_1846_-911_-147.vmt,128,128
+materials/maps/fy_farty/metal/citadel_metalwall072c_1117_-1859_163.vmt,138,138
+materials/maps/fy_farty/metal/citadel_metalwall072c_1373_-1291_171.vmt,138,138
+materials/maps/fy_farty/metal/metalwall045a_1117_-1859_163.vmt,130,130
+materials/maps/fy_farty/metal/citadel_metalwall101b_490_-1706_-162.vmt,138,138
+materials/maps/fy_farty/tile/tilefloor020a_2384_-1453_-138.vmt,130,130
+materials/maps/fy_farty/tile/tilefloor020a_490_-1706_-162.vmt,129,129
+materials/maps/fy_farty/tile/tilefloor012a_490_-1706_-162.vmt,129,129
+materials/maps/fy_farty/tile/tilefloor012a_1821_-1514_-85.vmt,129,129
+materials/maps/fy_farty/tile/tilefloor012a_1117_-1859_163.vmt,129,129
+materials/maps/fy_farty/tile/tilefloor021a_1373_-1291_171.vmt,129,129
+materials/maps/fy_farty/tile/tilefloor021a_2384_-1453_-138.vmt,130,130
+materials/maps/fy_farty/tile/tilefloor021a_1821_-1514_-85.vmt,129,129
+materials/maps/fy_farty/tile/tilefloor020a_1131_-1280_-104.vmt,130,130
+materials/maps/fy_farty/metal/milmirror001_1821_-1514_-85.vmt,129,129
+materials/maps/fy_farty/metal/milmirror001_2384_-1453_-138.vmt,130,130
+materials/maps/fy_farty/metal/milmirror001_1846_-911_-147.vmt,129,129
+materials/maps/fy_farty/metal/milmirror001_1373_-1291_171.vmt,129,129
+materials/maps/fy_farty/tile/tilewall006a_1373_-1291_171.vmt,128,128
+materials/maps/fy_farty/glass/glasswindowbreak070a_1117_-1859_163.vmt,137,137
+materials/maps/fy_farty/liquids/water_dx70_depth_64.vmt,105,105
+materials/maps/fy_farty/cubemapdefault.vtf,4952,4952
+materials/maps/fy_farty/c1117_-1859_163.vtf,4952,4952
+materials/maps/fy_farty/c1821_-1514_-85.vtf,4952,4952
+materials/maps/fy_farty/c1120_-309_-24.vtf,4952,4952
+materials/maps/fy_farty/c1846_-911_-147.vtf,4952,4952
+materials/maps/fy_farty/c460_-522_18.vtf,4952,4952
+materials/maps/fy_farty/c2384_-1453_-138.vtf,4952,4952
+materials/maps/fy_farty/c490_-1706_-162.vtf,4952,4952
+materials/maps/fy_farty/c1131_-1280_-104.vtf,4952,4952
+materials/maps/fy_farty/c1373_-1291_171.vtf,4952,4952
+maps/fy_farty.txt,522,522
+materials/textures made by me/anthracite.vmt,78,78
+materials/textures made by me/anthracite.vtf,43912,43912
+materials/textures made by me/blue.vmt,64,64
+materials/textures made by me/blue.vtf,43912,43912
+materials/textures made by me/dancefloor.vmt,242,242
+materials/textures made by me/dancefloor.vtf,43952,43952
+materials/textures made by me/Dancewall.vmt,77,77
+materials/textures made by me/Dancewall.vtf,43912,43912
+materials/textures made by me/Yellow.vmt,66,66
+materials/textures made by me/Yellow.vtf,43912,43912
+materials/overviews/fy_farty.vmt,168,168
+materials/overviews/fy_farty.vtf,699272,699272
+materials/overviews/fy_farty_radar.vmt,174,174
+materials/overviews/fy_farty_radar.vtf,699272,699272
+materials/decals/custom/gaz.vmt,118,118
+materials/decals/custom/gaz.vtf,5624,5624
+materials/decals/custom/mapby.vmt,117,117
+materials/decals/custom/mapby.vtf,43912,43912
+scripts/soundscapes_fy_farty.txt,641,641
+sound/hellmarch.wav,1414714,1414714
+sound/spfire.wav,894924,894924
+resource/overviews/fy_farty.txt,129,129

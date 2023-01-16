@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/fy_snakerush/de_dust/tilefloor02_0_0_0.vmt,125,125
+materials/maps/fy_snakerush/cubemapdefault.vtf,9824,9824
+materials/maps/fy_snakerush/c0_0_0.vtf,9824,9824
+materials/maps/fy_snakerush/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/fy_snakerush/c0_0_0.hdr.vtf,76520,76520
+maps/fy_snakerush.nav,124385,124385
+maps/soundcache/fy_snakerush.cache,16,16
+resource/overviews/fy_snakerush.txt,123,123
+materials/overviews/fy_snakerush.vmt,141,141
+materials/overviews/fy_snakerush.vtf,1398336,1398336
+materials/overviews/fy_snakerush_radar.vmt,147,147
+materials/overviews/fy_snakerush_radar.vtf,1398336,1398336

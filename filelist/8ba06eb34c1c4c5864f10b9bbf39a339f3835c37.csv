@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/aim_ag_toxicity/shadertest/water_refract_only_-278_-59_73.vmt,167,167
+materials/maps/aim_ag_toxicity/shadertest/water_refract_only_-230_1500_-487.vmt,170,170
+materials/maps/aim_ag_toxicity/models/props_trainstation/trainstation_clock_glass001_-278_-59_73.vmt,168,168
+materials/maps/aim_ag_toxicity/models/props_trainstation/trainstation_clock_glass001_-230_1500_-487.vmt,171,171
+materials/maps/aim_ag_toxicity/maps/aim_ag_toxicity/shadertest/water_refract_only_-278_-59_73_depth_52.vmt,149,149
+materials/maps/aim_ag_toxicity/maps/aim_ag_toxicity/shadertest/water_refract_only_-278_-59_73_depth_240.vmt,150,150
+materials/maps/aim_ag_toxicity/maps/aim_ag_toxicity/shadertest/water_refract_only_-278_-59_73_depth_16352.vmt,152,152
+materials/maps/aim_ag_toxicity/cubemapdefault.vtf,9824,9824
+materials/maps/aim_ag_toxicity/c-278_-59_73.vtf,9824,9824
+materials/maps/aim_ag_toxicity/c-230_1500_-487.vtf,9824,9824

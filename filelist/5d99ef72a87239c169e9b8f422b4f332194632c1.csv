@@ -1,0 +1,17 @@
+filename,size,compressed
+maps/fy_the_pipes.nav,531114,531114
+maps/fy_the_pipes.txt,153,153
+materials/DV8TEX/ANB_AD_01.vmt,56,56
+materials/dv8tex/AnB_ad_01.vtf,349760,349760
+materials/JBTEX/SIGNATURES/FY_PIPESSIG.vmt,68,68
+materials/jbtex/signatures/fy_pipessig.vtf,349688,349688
+materials/maps/fy_the_pipes/c0_0_0.hdr.vtf,76520,76520
+materials/maps/fy_the_pipes/c0_0_0.vtf,9824,9824
+materials/maps/fy_the_pipes/concrete/concretefloor028c_0_0_0.vmt,132,132
+materials/maps/fy_the_pipes/concrete/concretefloor038c_0_0_0.vmt,132,132
+materials/maps/fy_the_pipes/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/fy_the_pipes/cubemapdefault.vtf,9824,9824
+materials/maps/fy_the_pipes/metal/metalpipe003a_0_0_0.vmt,125,125
+materials/overviews/fy_the_pipes.vmt,144,144
+materials/overviews/fy_the_pipes.vtf,1398336,1398336
+resource/overviews/fy_the_pipes.txt,112,112

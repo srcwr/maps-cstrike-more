@@ -1,0 +1,18 @@
+filename,size,compressed
+materials/maps/ze_omega_b3/metal/metalwall048a_0_0_0.vmt,124,124
+materials/maps/ze_omega_b3/metal/metalpipe003a_0_0_0.vmt,124,124
+materials/maps/ze_omega_b3/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/ze_omega_b3/glass/offwndwb_0_0_0.vmt,192,192
+materials/maps/ze_omega_b3/metal/metalpipe005a_0_0_0.vmt,124,124
+materials/maps/ze_omega_b3/dev/dev_water2_depth_72.vmt,101,101
+materials/maps/ze_omega_b3/dev/dev_water2_depth_63.vmt,101,101
+materials/maps/ze_omega_b3/dev/dev_water2_depth_272.vmt,102,102
+materials/maps/ze_omega_b3/cubemapdefault.vtf,9824,9824
+materials/maps/ze_omega_b3/c0_0_0.vtf,9824,9824
+materials/customtex/xeno_12w1b.vmt,75,75
+materials/customtex/xeno_12w1b.vtf,11128,11128
+materials/customtex/xeno_16a.vmt,75,75
+materials/customtex/xeno_16a.vtf,43896,43896
+sound/MYsounds/c0a0_tr_emerg.wav,752706,752706
+sound/MYsounds/atmospheric.wav,5301676,5301676
+sound/MYsounds/04 we share our mother's health.wav,5553260,5553260

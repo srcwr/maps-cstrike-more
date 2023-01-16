@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/surf_ez/stone/stonestair001a_-4720_2281_207.vmt,130,130
+materials/maps/surf_ez/vehicle/metaltrainglass001b_-4720_2281_207.vmt,137,137
+materials/maps/surf_ez/vehicle/metaltrain001c_-4720_2281_207.vmt,132,132
+materials/maps/surf_ez/brick/offwlld_-4720_2281_207.vmt,123,123
+materials/maps/surf_ez/cubemapdefault.vtf,9832,9832
+materials/maps/surf_ez/c-4720_2281_207.vtf,9832,9832
+materials/maps/surf_ez/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_ez/c-4720_2281_207.hdr.vtf,76528,76528
+materials/mytextures/surf_ez/Bonus.vmt,91,91
+materials/mytextures/surf_ez/Bonus.vtf,349760,349760
+materials/mytextures/surf_ez/made_by.vmt,93,93
+materials/mytextures/surf_ez/made_by.vtf,349760,349760
+materials/mytextures/surf_ez/stages.vmt,92,92
+materials/mytextures/surf_ez/stages.vtf,349760,349760
+maps/surf_ez.nav,734,734
+maps/soundcache/surf_ez.cache,16,16

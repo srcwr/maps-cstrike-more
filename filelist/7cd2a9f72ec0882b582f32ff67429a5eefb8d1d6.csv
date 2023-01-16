@@ -1,0 +1,24 @@
+filename,size,compressed
+materials/maps/zm_biology_v2/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/zm_biology_v2/nature/blendgrassgravel001b_wvt_patch.vmt,283,283
+materials/maps/zm_biology_v2/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/zm_biology_v2/nature/blendgrassgrass001a_wvt_patch.vmt,156,156
+materials/maps/zm_biology_v2/metal/metalwall045a_nobump_0_0_0.vmt,133,133
+materials/maps/zm_biology_v2/metal/prodventa_0_0_0.vmt,122,122
+materials/maps/zm_biology_v2/metal/metalwall076a_0_0_0.vmt,126,126
+materials/maps/zm_biology_v2/plaster/offwllc_0_0_0.vmt,122,122
+materials/maps/zm_biology_v2/environment maps/pipemetal004a_0_0_0.vmt,137,137
+materials/maps/zm_biology_v2/metal/metalceiling005a_0_0_0.vmt,129,129
+materials/maps/zm_biology_v2/glass/combineglass001a_0_0_0.vmt,129,129
+materials/maps/zm_biology_v2/metal/metalpipeendcap001a_0_0_0.vmt,132,132
+materials/maps/zm_biology_v2/plaster/offwllb_0_0_0.vmt,122,122
+materials/maps/zm_biology_v2/metal/metalroof005a_0_0_0.vmt,126,126
+materials/maps/zm_biology_v2/metal/metaldoor018a_0_0_0.vmt,126,126
+materials/maps/zm_biology_v2/nature/toxicslime002a_dx70_depth_96.vmt,113,113
+materials/maps/zm_biology_v2/dev/dev_water2_cheap_depth_24.vmt,107,107
+materials/maps/zm_biology_v2/cubemapdefault.vtf,9832,9832
+materials/maps/zm_biology_v2/c0_0_0.vtf,9832,9832
+materials/maps/zm_biology_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_biology_v2/c0_0_0.hdr.vtf,76528,76528
+materials/ZM_BIOLOGY_V2/INFO.vmt,89,89
+materials/zm_biology_v2/info.vtf,699272,699272

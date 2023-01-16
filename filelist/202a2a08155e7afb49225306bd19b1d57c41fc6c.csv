@@ -1,0 +1,33 @@
+filename,size,compressed
+materials/maps/gg_smallglass_v2/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/gg_smallglass_v2/glass/glasswindowbreak070b_287_-356_233.vmt,114,114
+materials/maps/gg_smallglass_v2/glass/prodwndwa_287_-356_233.vmt,217,217
+materials/maps/gg_smallglass_v2/cubemapdefault.vtf,4960,4960
+materials/maps/gg_smallglass_v2/c287_-356_233.vtf,4960,4960
+materials/maps/gg_smallglass_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_smallglass_v2/c287_-356_233.hdr.vtf,76528,76528
+materials/CUSTOMTEX/RED.vmt,61,61
+materials/customtex/red.vtf,1398308,1398308
+materials/CUSTOMTEX/BLUE.vmt,62,62
+materials/customtex/blue.vtf,1398308,1398308
+materials/DEVNEONS/RED_NEON.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/DEVNEONS/BLUE_NEON.vmt,103,103
+materials/devneons/blue_neon.vtf,43912,43912
+materials/DEVNEONS/ORANGE_NEON.vmt,105,105
+materials/devneons/orange_neon.vtf,43912,43912
+materials/skybox/otherworldup.vmt,96,96
+materials/skybox/otherworldup.vtf,699272,699272
+materials/skybox/otherworlddn.vmt,96,96
+materials/skybox/otherworlddn.vtf,699272,699272
+materials/skybox/otherworldft.vmt,96,96
+materials/skybox/otherworldft.vtf,699272,699272
+materials/skybox/otherworldbk.vmt,96,96
+materials/skybox/otherworldbk.vtf,699272,699272
+materials/skybox/otherworldlf.vmt,96,96
+materials/skybox/otherworldlf.vtf,699272,699272
+materials/skybox/otherworldrt.vmt,96,96
+materials/skybox/otherworldrt.vtf,699272,699272
+maps/soundcache/gg_smallglass_v2.cache,83028,83028
+C:/Program Files (x86)/Steam/steamapps/dsbkiller/counter-strike source/cstrike/lights.rad,747,747
+C:/Program Files (x86)/Steam/steamapps/dsbkiller/counter-strike source/cstrike/maps/gg_smallglass_v2.txt,372,372

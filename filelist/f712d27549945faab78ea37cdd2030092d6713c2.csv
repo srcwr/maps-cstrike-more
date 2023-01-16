@@ -1,0 +1,35 @@
+filename,size,compressed
+materials/maps/jb_snickers_v1/glass/unbreakable_0_0_0.vmt,125,125
+materials/maps/jb_snickers_v1/concrete/concretefloor019a_c17_0_0_0.vmt,177,177
+materials/maps/jb_snickers_v1/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/jb_snickers_v1/glass/offwndwb_0_0_0.vmt,198,198
+materials/maps/jb_snickers_v1/glass/offwndwc_0_0_0.vmt,122,122
+materials/maps/jb_snickers_v1/tile/tilefloor012a_0_0_0.vmt,126,126
+materials/maps/jb_snickers_v1/metal/metalfloor001a_0_0_0.vmt,128,128
+materials/maps/jb_snickers_v1/glass/glasswindow007a_0_0_0.vmt,129,129
+materials/maps/jb_snickers_v1/stone/stonefloor003a_0_0_0.vmt,128,128
+materials/maps/jb_snickers_v1/nature/water_dx70_depth_811.vmt,105,105
+materials/maps/jb_snickers_v1/perftest/water_pretty1_depth_168.vmt,110,110
+materials/maps/jb_snickers_v1/perftest/water_pretty1_depth_52.vmt,109,109
+materials/maps/jb_snickers_v1/dev/dev_water2_depth_6.vmt,100,100
+materials/maps/jb_snickers_v1/dev/dev_water2_depth_46.vmt,101,101
+materials/maps/jb_snickers_v1/perftest/water_pretty1_depth_190.vmt,110,110
+materials/maps/jb_snickers_v1/liquids/militiawater_dx70_depth_3.vmt,111,111
+materials/maps/jb_snickers_v1/de_nuke/nukwater_movingplane_beneath_depth_46.vmt,123,123
+materials/maps/jb_snickers_v1/liquids/militiawater_dx70_depth_9.vmt,111,111
+materials/maps/jb_snickers_v1/dev/dev_water2_depth_2.vmt,100,100
+materials/maps/jb_snickers_v1/dev/dev_water2_depth_9.vmt,100,100
+materials/maps/jb_snickers_v1/dev/dev_water2_depth_12.vmt,101,101
+materials/maps/jb_snickers_v1/perftest/water_pretty1_depth_34.vmt,109,109
+materials/maps/jb_snickers_v1/liquids/militiawater_dx70_depth_5.vmt,111,111
+materials/maps/jb_snickers_v1/perftest/water_pretty1_depth_18286.vmt,112,112
+materials/maps/jb_snickers_v1/dev/dev_water2_depth_18087.vmt,104,104
+materials/maps/jb_snickers_v1/dev/dev_water2_depth_267.vmt,102,102
+materials/maps/jb_snickers_v1/cubemapdefault.vtf,9832,9832
+materials/maps/jb_snickers_v1/c0_0_0.vtf,9832,9832
+materials/maps/jb_snickers_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jb_snickers_v1/c0_0_0.hdr.vtf,76528,76528
+sound/disco/tetris.mp3,4368287,4368287
+sound/disco/crea diem.mp3,5701787,5701787
+sound/disco/narcotic.mp3,5215282,5215282
+sound/disco/dada life - just bleep me (satisfaction).mp3,3208242,3208242

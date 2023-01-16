@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/aim_ag_kikass_arena_day/metal/metalcombine001_270_240_-512.vmt,145,145
+materials/maps/aim_ag_kikass_arena_day/metal/metalcombine001_297_144_-160.vmt,145,145
+materials/maps/aim_ag_kikass_arena_day/models/props_combine/introomarea_glass_297_144_-160.vmt,162,162
+materials/maps/aim_ag_kikass_arena_day/models/props_combine/introomarea_glass_270_240_-512.vmt,162,162
+materials/maps/aim_ag_kikass_arena_day/dev/dev_water2_270_240_-512.vmt,161,161
+materials/maps/aim_ag_kikass_arena_day/maps/aim_ag_kikass_arena_day/dev/dev_water2_270_240_-512_depth_95.vmt,143,143
+materials/maps/aim_ag_kikass_arena_day/cubemapdefault.vtf,9824,9824
+materials/maps/aim_ag_kikass_arena_day/c270_240_-512.vtf,9824,9824
+materials/maps/aim_ag_kikass_arena_day/c297_144_-160.vtf,9824,9824

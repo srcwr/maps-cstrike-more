@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/mg_caveman_epoka_v1pb/de_chateau/intbrickk_304_976_268.vmt,141,141
+materials/maps/mg_caveman_epoka_v1pb/skybox/stonefloor008a_304_976_268.vmt,142,142
+materials/maps/mg_caveman_epoka_v1pb/de_cbble/woodfloor01_304_976_268.vmt,141,141
+materials/maps/mg_caveman_epoka_v1pb/de_dust/tilefloor02_304_976_268.vmt,140,140
+materials/maps/mg_caveman_epoka_v1pb/cubemapdefault.vtf,9824,9824
+materials/maps/mg_caveman_epoka_v1pb/c304_976_268.vtf,9824,9824
+materials/billboard/Add2.vmt,81,81
+materials/billboard/Add2.vtf,87500,87500
+sound/Epoka/epoka_sound.mp3,51017,51017
+sound/Epoka/move_your_ass.mp3,13858,13858
+sound/admin_plugin/move.wav,7650,7650

@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/fy_3floors/concrete/concretefloor011a_c17_700_2011_98.vmt,179,179
+materials/maps/fy_3floors/nature/water_canals03_700_2011_98.vmt,154,154
+materials/maps/fy_3floors/concrete/concretefloor039b_700_2011_98.vmt,136,136
+materials/maps/fy_3floors/maps/fy_3floors/nature/water_canals03_700_2011_98_depth_64.vmt,136,136
+materials/maps/fy_3floors/cubemapdefault.vtf,9824,9824
+materials/maps/fy_3floors/c700_2011_98.vtf,4952,4952
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/Tools/toolsnodraw.vtf,2936,2936
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/Tools/toolsskybox.vtf,22064,22064
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/Tools/toolstrigger.vtf,5680,5680
+maps/fy_3floors.nav,171978,171978
+maps/soundcache/fy_3floors.cache,16,16
+maps/fy_3floors.txt,43,43

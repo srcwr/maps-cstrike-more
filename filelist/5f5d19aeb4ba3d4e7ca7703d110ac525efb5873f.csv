@@ -1,0 +1,47 @@
+filename,size,compressed
+materials/maps/zm_office_final_hdr_fixed/plaster/plasterwall005c_-334_262_73.vmt,148,148
+materials/maps/zm_office_final_hdr_fixed/plaster/plasterwall030c_-334_262_73.vmt,148,148
+materials/maps/zm_office_final_hdr_fixed/plaster/plasterwall030c_-4766_-1665_-39.vmt,152,152
+materials/maps/zm_office_final_hdr_fixed/tile/tilefloor018a_-334_262_73.vmt,143,143
+materials/maps/zm_office_final_hdr_fixed/tile/tilefloor018a_-4766_-1665_-39.vmt,147,147
+materials/maps/zm_office_final_hdr_fixed/plaster/plasterwall005c_-4766_-1665_-39.vmt,152,152
+materials/maps/zm_office_final_hdr_fixed/tile/tilewall006a_-4766_-1665_-39.vmt,146,146
+materials/maps/zm_office_final_hdr_fixed/tile/tilefloor012a_-334_262_73.vmt,143,143
+materials/maps/zm_office_final_hdr_fixed/tile/tilewall006a_-334_262_73.vmt,142,142
+materials/maps/zm_office_final_hdr_fixed/props/metalduct001a_-4766_-1665_-39.vmt,148,148
+materials/maps/zm_office_final_hdr_fixed/props/metalduct001a_-334_262_73.vmt,144,144
+materials/maps/zm_office_final_hdr_fixed/metal/metalfloor001a_-4766_-1665_-39.vmt,149,149
+materials/maps/zm_office_final_hdr_fixed/metal/metalfloor001a_-334_262_73.vmt,145,145
+materials/maps/zm_office_final_hdr_fixed/metal/citadel_tilefloor016a_-4766_-1665_-39.vmt,156,156
+materials/maps/zm_office_final_hdr_fixed/metal/citadel_tilefloor016a_-334_262_73.vmt,152,152
+materials/maps/zm_office_final_hdr_fixed/concrete/concretefloor037b_-334_262_73.vmt,190,190
+materials/maps/zm_office_final_hdr_fixed/glass/combineglass001a_-334_262_73.vmt,147,147
+materials/maps/zm_office_final_hdr_fixed/glass/combineglass001a_-4766_-1665_-39.vmt,151,151
+materials/maps/zm_office_final_hdr_fixed/metal/metalwall045a_-334_262_73.vmt,144,144
+materials/maps/zm_office_final_hdr_fixed/tile/tilefloor009a_-4766_-1665_-39.vmt,147,147
+materials/maps/zm_office_final_hdr_fixed/tile/tilefloor009a_-334_262_73.vmt,143,143
+materials/maps/zm_office_final_hdr_fixed/skybox/stonefloor008a_-4766_-1665_-39.vmt,150,150
+materials/maps/zm_office_final_hdr_fixed/skybox/stonefloor008a_-334_262_73.vmt,146,146
+materials/maps/zm_office_final_hdr_fixed/wood/woodwall009a_-4766_-1665_-39.vmt,146,146
+materials/maps/zm_office_final_hdr_fixed/wood/woodwall009a_-334_262_73.vmt,142,142
+materials/maps/zm_office_final_hdr_fixed/wood/woodfloor008a_-4766_-1665_-39.vmt,186,186
+materials/maps/zm_office_final_hdr_fixed/wood/woodfloor008a_-334_262_73.vmt,182,182
+materials/maps/zm_office_final_hdr_fixed/environment maps/pipemetal001a_-334_262_73.vmt,155,155
+materials/maps/zm_office_final_hdr_fixed/environment maps/pipemetal004b_-334_262_73.vmt,155,155
+materials/maps/zm_office_final_hdr_fixed/environment maps/pipemetal004b_-4766_-1665_-39.vmt,159,159
+materials/maps/zm_office_final_hdr_fixed/tile/tileroof004a_-334_262_73.vmt,142,142
+materials/maps/zm_office_final_hdr_fixed/tile/tileroof004a_-4766_-1665_-39.vmt,146,146
+materials/maps/zm_office_final_hdr_fixed/wood/wooddoor048a_-334_262_73.vmt,142,142
+materials/maps/zm_office_final_hdr_fixed/wood/wooddoor048a_-4766_-1665_-39.vmt,146,146
+materials/maps/zm_office_final_hdr_fixed/glass/glasswindow037a_-334_262_73.vmt,146,146
+materials/maps/zm_office_final_hdr_fixed/glass/glasswindow037a_-4766_-1665_-39.vmt,150,150
+materials/maps/zm_office_final_hdr_fixed/buildings/gen15_-4766_-1665_-39.vmt,144,144
+materials/maps/zm_office_final_hdr_fixed/buildings/gen15_-334_262_73.vmt,140,140
+materials/maps/zm_office_final_hdr_fixed/buildings/gen22_-4766_-1665_-39.vmt,144,144
+materials/maps/zm_office_final_hdr_fixed/buildings/gen22_-334_262_73.vmt,140,140
+materials/maps/zm_office_final_hdr_fixed/cubemapdefault.vtf,9824,9824
+materials/maps/zm_office_final_hdr_fixed/c-334_262_73.vtf,9824,9824
+materials/maps/zm_office_final_hdr_fixed/c-4766_-1665_-39.vtf,9824,9824
+materials/maps/zm_office_final_hdr_fixed/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/zm_office_final_hdr_fixed/c-334_262_73.hdr.vtf,76520,76520
+materials/maps/zm_office_final_hdr_fixed/c-4766_-1665_-39.hdr.vtf,76520,76520

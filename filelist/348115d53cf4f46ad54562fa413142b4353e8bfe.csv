@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/de_bunker_bomb_v2/metal/metalcombine001_283_510_10.vmt,137,137
+materials/maps/de_bunker_bomb_v2/metal/metalcombine001_972_619_139.vmt,138,138
+materials/maps/de_bunker_bomb_v2/glass/glasswindow070c_283_510_10.vmt,137,137
+materials/maps/de_bunker_bomb_v2/glass/glasswindow070c_972_619_139.vmt,138,138
+materials/maps/de_bunker_bomb_v2/effects/combineshield/comshieldwall3_283_510_10.vmt,175,175
+materials/maps/de_bunker_bomb_v2/effects/combineshield/comshieldwall3_972_619_139.vmt,176,176
+materials/maps/de_bunker_bomb_v2/effects/combineshield/comshieldwall2faded_283_510_10.vmt,180,180
+materials/maps/de_bunker_bomb_v2/cubemapdefault.vtf,9824,9824
+materials/maps/de_bunker_bomb_v2/c283_510_10.vtf,9824,9824
+materials/maps/de_bunker_bomb_v2/c972_619_139.vtf,9824,9824

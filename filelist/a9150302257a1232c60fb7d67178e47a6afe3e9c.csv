@@ -1,0 +1,62 @@
+filename,size,compressed
+materials/maps/ze_rockescape_go2_1/nature/mudfloor001a_-672_-2176_-700.vmt,181,181
+materials/maps/ze_rockescape_go2_1/dev/dev_water5_-672_-2176_-700.vmt,160,160
+materials/maps/ze_rockescape_go2_1/nature/mudfloor001a_5192_-3440_-864.vmt,181,181
+materials/maps/ze_rockescape_go2_1/dev/dev_water5_5192_-3440_-864.vmt,160,160
+materials/maps/ze_rockescape_go2_1/dev/dev_water5_5272_-816_-856.vmt,159,159
+materials/maps/ze_rockescape_go2_1/nature/mudfloor001a_5272_-816_-856.vmt,180,180
+materials/maps/ze_rockescape_go2_1/dev/dev_water5_6208_-2656_-408.vmt,160,160
+materials/maps/ze_rockescape_go2_1/dev/dev_water5_4608_3584_144.vmt,158,158
+materials/maps/ze_rockescape_go2_1/dev/dev_water5_9984_512_-1015.vmt,159,159
+materials/maps/ze_rockescape_go2_1/nature/mudfloor001a_9984_512_-1015.vmt,180,180
+materials/maps/ze_rockescape_go2_1/nature/mudfloor001a_6208_-2656_-408.vmt,181,181
+materials/maps/ze_rockescape_go2_1/maps/ze_rockescape_go2_1/dev/dev_water5_-672_-2176_-700_depth_256.vmt,143,143
+materials/maps/ze_rockescape_go2_1/maps/ze_rockescape_go2_1/dev/dev_water5_4608_3584_144_depth_128.vmt,141,141
+materials/maps/ze_rockescape_go2_1/maps/ze_rockescape_go2_1/dev/dev_water5_6208_-2656_-408_depth_256.vmt,143,143
+materials/maps/ze_rockescape_go2_1/maps/ze_rockescape_go2_1/dev/dev_water5_9984_512_-1015_depth_512.vmt,142,142
+materials/maps/ze_rockescape_go2_1/cubemapdefault.vtf,9824,9824
+materials/maps/ze_rockescape_go2_1/c-672_-2176_-700.vtf,9824,9824
+materials/maps/ze_rockescape_go2_1/c5192_-3440_-864.vtf,9824,9824
+materials/maps/ze_rockescape_go2_1/c5272_-816_-856.vtf,9824,9824
+materials/maps/ze_rockescape_go2_1/c6208_-2656_-408.vtf,9824,9824
+materials/maps/ze_rockescape_go2_1/c4608_3584_144.vtf,9824,9824
+materials/maps/ze_rockescape_go2_1/c9984_512_-1015.vtf,9824,9824
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie.vmt,195,195
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie.vtf,349760,349760
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_bump.vtf,349760,349760
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_cockpit.vmt,209,209
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_cockpit.vtf,349688,349688
+materials/models/bf2/helicopters/mh-53j pave low iiie/MH-53J Pave Low IIIE_cockpit_bump.vtf,576,576
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_glass.vmt,243,243
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_glass.vtf,43872,43872
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_interior.vmt,117,117
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_interior.vtf,349760,349760
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.dx80.vtx,231528,231528
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.dx90.vtx,231528,231528
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.mdl,2132,2132
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.phy,6808,6808
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.sw.vtx,231528,231528
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.vvd,1092672,1092672
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.xbox.vtx,231528,231528
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.dx80.vtx,26916,26916
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.dx90.vtx,26916,26916
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.mdl,1500,1500
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.phy,3397,3397
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.sw.vtx,26916,26916
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.vvd,141312,141312
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.xbox.vtx,26916,26916
+models/bf2/helicopters/mh-53j pave low iiie/mh53_tr.dx80.vtx,13779,13779
+models/bf2/helicopters/mh-53j pave low iiie/mh53_tr.dx90.vtx,13779,13779
+models/bf2/helicopters/mh-53j pave low iiie/mh53_tr.mdl,1504,1504
+models/bf2/helicopters/mh-53j pave low iiie/mh53_tr.phy,2450,2450
+models/bf2/helicopters/mh-53j pave low iiie/mh53_tr.sw.vtx,13779,13779
+models/bf2/helicopters/mh-53j pave low iiie/mh53_tr.vvd,71360,71360
+models/bf2/helicopters/mh-53j pave low iiie/mh53_tr.xbox.vtx,13779,13779
+sound/ambient/atmosphere/amb_bank_01.wav,1178534,1178534
+sound/attack_helicopter/aheli_wash_loop3.wav,211816,211816
+sound/elevator/elevator_loop1.wav,174122,174122
+sound/factory_escape/fan_motor_idle_loop1.wav,114148,114148
+sound/fan_motor_shut_off1.wav,68432,68432
+sound/hl2_exp1.wav,205824,205824
+sound/hl2_exp2.wav,217164,217164
+sound/hl2_exp3.wav,393468,393468

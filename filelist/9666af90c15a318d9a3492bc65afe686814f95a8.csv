@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/surf_redbull/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/surf_redbull/glass/combineglass001a_0_0_0.vmt,128,128
+materials/maps/surf_redbull/dev/dev_water4_depth_8.vmt,100,100
+materials/maps/surf_redbull/nature/sewer_waterdarkfog_dx70_depth_4.vmt,116,116
+materials/maps/surf_redbull/nature/sewer_waterdarkfog_dx70_depth_8.vmt,116,116
+materials/maps/surf_redbull/nature/sewer_waterdarkfog_dx70_depth_6.vmt,116,116
+materials/maps/surf_redbull/dev/dev_water3_depth_640.vmt,102,102
+materials/maps/surf_redbull/dev/dev_water2_cheap_depth_13.vmt,107,107
+materials/maps/surf_redbull/nature/sewer_waterdarkfog_dx70_depth_2.vmt,116,116
+materials/maps/surf_redbull/nature/sewer_waterdarkfog_dx70_depth_16.vmt,117,117
+materials/maps/surf_redbull/nature/sewer_waterdarkfog_dx70_depth_17028.vmt,120,120
+materials/maps/surf_redbull/cubemapdefault.vtf,9832,9832
+materials/maps/surf_redbull/c0_0_0.vtf,9832,9832
+materials/maps/surf_redbull/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_redbull/c0_0_0.hdr.vtf,76528,76528

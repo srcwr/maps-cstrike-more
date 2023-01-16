@@ -1,0 +1,162 @@
+filename,size,compressed
+materials/maps/surf_xii_beta_test_h1/glass/combineglass001a_-2320_-3760_593.vmt,147,147
+materials/maps/surf_xii_beta_test_h1/glass/combineglass001a_368_-3760_593.vmt,145,145
+materials/maps/surf_xii_beta_test_h1/metal/metalfloor001a_-2320_-3760_593.vmt,145,145
+materials/maps/surf_xii_beta_test_h1/metal/metalfloor001a_368_-3760_593.vmt,143,143
+materials/maps/surf_xii_beta_test_h1/metal/citadel_tilewall005a_-2320_-3760_593.vmt,151,151
+materials/maps/surf_xii_beta_test_h1/metal/citadel_tilewall005a_368_-6448_593.vmt,149,149
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall078a_-2320_-3760_593.vmt,152,152
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall078a_368_-6448_593.vmt,150,150
+materials/maps/surf_xii_beta_test_h1/metal/metalpipe003a_-2320_-3760_593.vmt,144,144
+materials/maps/surf_xii_beta_test_h1/metal/metalpipe003a_368_-6448_593.vmt,142,142
+materials/maps/surf_xii_beta_test_h1/nature/water_canals_water2_-2320_-3760_593.vmt,174,174
+materials/maps/surf_xii_beta_test_h1/glass/combineglass001a_368_-6448_593.vmt,145,145
+materials/maps/surf_xii_beta_test_h1/metal/citadel_tilefloor016a_-2320_-3760_593.vmt,152,152
+materials/maps/surf_xii_beta_test_h1/metal/citadel_tilefloor016a_368_-3760_593.vmt,150,150
+materials/maps/surf_xii_beta_test_h1/nature/water_canals03_368_-3760_593.vmt,167,167
+materials/maps/surf_xii_beta_test_h1/nature/water_canals03_368_-6448_593.vmt,167,167
+materials/maps/surf_xii_beta_test_h1/metal/metalwall048a_368_-6448_593.vmt,142,142
+materials/maps/surf_xii_beta_test_h1/metal/metalwall048a_368_-3760_593.vmt,142,142
+materials/maps/surf_xii_beta_test_h1/metal/metalwall048a_-2320_-3760_593.vmt,144,144
+materials/maps/surf_xii_beta_test_h1/metal/metalwall048a_-2320_-6448_593.vmt,144,144
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall063a_-2320_-3760_593.vmt,152,152
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall063a_368_-6448_593.vmt,150,150
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall063a_-2320_-6448_593.vmt,152,152
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall072c_-2320_-3760_593.vmt,152,152
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall077a_-2320_-3760_593.vmt,152,152
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall077a_-2320_-6448_593.vmt,152,152
+materials/maps/surf_xii_beta_test_h1/metal/metalcombine001_-2320_-3760_593.vmt,146,146
+materials/maps/surf_xii_beta_test_h1/metal/metalcombine001_-2320_-6448_593.vmt,146,146
+materials/maps/surf_xii_beta_test_h1/metal/metalcombine001_368_-3760_593.vmt,144,144
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall063a_368_-3760_593.vmt,150,150
+materials/maps/surf_xii_beta_test_h1/metal/citadel_tilefloor016a_-2320_-6448_593.vmt,152,152
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall072c_-2320_-6448_593.vmt,152,152
+materials/maps/surf_xii_beta_test_h1/metal/metalfloor001a_-2320_-6448_593.vmt,145,145
+materials/maps/surf_xii_beta_test_h1/metal/citadel_tilefloor016a_368_-6448_593.vmt,150,150
+materials/maps/surf_xii_beta_test_h1/metal/metalfloor001a_368_-6448_593.vmt,143,143
+materials/maps/surf_xii_beta_test_h1/tile/tilefloor020a_368_-6448_593.vmt,141,141
+materials/maps/surf_xii_beta_test_h1/tile/tilefloor020a_368_-3760_593.vmt,141,141
+materials/maps/surf_xii_beta_test_h1/metal/citadel_metalwall072c_368_-6448_593.vmt,150,150
+materials/maps/surf_xii_beta_test_h1/concrete/concretefloor019a_-2320_-3760_593.vmt,151,151
+materials/maps/surf_xii_beta_test_h1/concrete/concretefloor019a_368_-3760_593.vmt,149,149
+materials/maps/surf_xii_beta_test_h1/metal/metalpipe005a_368_-6448_593.vmt,142,142
+materials/maps/surf_xii_beta_test_h1/metal/metalpipe005a_-2320_-3760_593.vmt,144,144
+materials/maps/surf_xii_beta_test_h1/metal/metalpipe005a_-2320_-6448_593.vmt,144,144
+materials/maps/surf_xii_beta_test_h1/concrete/concretefloor019a_-2320_-6448_593.vmt,151,151
+materials/maps/surf_xii_beta_test_h1/concrete/concretefloor019a_368_-6448_593.vmt,149,149
+materials/maps/surf_xii_beta_test_h1/glass/glasswindow070c_-2320_-3760_593.vmt,146,146
+materials/maps/surf_xii_beta_test_h1/tile/tilefloor021a_368_-6448_593.vmt,141,141
+materials/maps/surf_xii_beta_test_h1/tile/tilefloor021a_368_-3760_593.vmt,141,141
+materials/maps/surf_xii_beta_test_h1/glass/combineglass001a_-2320_-6448_593.vmt,147,147
+materials/maps/surf_xii_beta_test_h1/maps/surf_xii_beta_test_h1/nature/water_canals03_368_-3760_593_depth_160.vmt,150,150
+materials/maps/surf_xii_beta_test_h1/maps/surf_xii_beta_test_h1/nature/water_canals_water2_-2320_-3760_593_depth_8.vmt,155,155
+materials/maps/surf_xii_beta_test_h1/cubemapdefault.vtf,4952,4952
+materials/maps/surf_xii_beta_test_h1/c-2320_-3760_593.vtf,4952,4952
+materials/maps/surf_xii_beta_test_h1/c368_-3760_593.vtf,4952,4952
+materials/maps/surf_xii_beta_test_h1/c368_-6448_593.vtf,4952,4952
+materials/maps/surf_xii_beta_test_h1/c-2320_-6448_593.vtf,4952,4952
+materials/icecreamlock/colorblack.vmt,99,99
+materials/icecreamlock/colorblack.vtf,392,392
+materials/icecreamlock/colorbluegreen.vmt,103,103
+materials/icecreamlock/colorbluegreen.vtf,392,392
+materials/icecreamlock/colorbrown.vmt,99,99
+materials/icecreamlock/colorbrown.vtf,392,392
+materials/icecreamlock/colorcyan.vmt,98,98
+materials/icecreamlock/colorcyan.vtf,392,392
+materials/icecreamlock/colordblue.vmt,99,99
+materials/icecreamlock/colordblue.vtf,392,392
+materials/icecreamlock/colorddgray.vmt,100,100
+materials/icecreamlock/colorddgray.vtf,392,392
+materials/icecreamlock/colorddgreen.vmt,101,101
+materials/icecreamlock/colorddgreen.vtf,392,392
+materials/icecreamlock/colordgreen.vtf,392,392
+materials/icecreamlock/colordpurple.vmt,101,101
+materials/icecreamlock/colordpurple.vtf,392,392
+materials/icecreamlock/colordred.vmt,98,98
+materials/icecreamlock/colordred.vtf,392,392
+materials/icecreamlock/colorgray.vmt,98,98
+materials/icecreamlock/colorgray.vtf,392,392
+materials/icecreamlock/colorgreen.vmt,99,99
+materials/icecreamlock/colorgreen.vtf,392,392
+materials/icecreamlock/colorlblue.vmt,99,99
+materials/icecreamlock/colorlblue.vtf,392,392
+materials/icecreamlock/colorldblue.vmt,100,100
+materials/icecreamlock/colorldblue.vtf,392,392
+materials/icecreamlock/colorlgray.vmt,99,99
+materials/icecreamlock/colorlgray.vtf,392,392
+materials/icecreamlock/colorlpink.vmt,99,99
+materials/icecreamlock/colorlpink.vtf,392,392
+materials/icecreamlock/colorlyellow.vmt,101,101
+materials/icecreamlock/colorlyellow.vtf,392,392
+materials/icecreamlock/colormagneta.vmt,101,101
+materials/icecreamlock/colormagneta.vtf,392,392
+materials/icecreamlock/colormgray.vmt,99,99
+materials/icecreamlock/colormgray.vtf,392,392
+materials/icecreamlock/colormoss.vmt,98,98
+materials/icecreamlock/colormoss.vtf,392,392
+materials/icecreamlock/colormpink.vmt,99,99
+materials/icecreamlock/colormpink.vtf,392,392
+materials/icecreamlock/colororange.vmt,100,100
+materials/icecreamlock/colororange.vtf,392,392
+materials/icecreamlock/colorpgreen.vmt,100,100
+materials/icecreamlock/colorpgreen.vtf,392,392
+materials/icecreamlock/colorpink.vmt,98,98
+materials/icecreamlock/colorpink.vtf,392,392
+materials/icecreamlock/colorpurple.vmt,100,100
+materials/icecreamlock/colorpurple.vtf,392,392
+materials/icecreamlock/colorrbrown.vmt,100,100
+materials/icecreamlock/colorrbrown.vtf,392,392
+materials/icecreamlock/colorred.vmt,97,97
+materials/icecreamlock/colorred.vtf,392,392
+materials/icecreamlock/colorsatsuma.vmt,101,101
+materials/icecreamlock/colorsatsuma.vtf,392,392
+materials/icecreamlock/colorteal.vmt,98,98
+materials/icecreamlock/colorteal.vtf,392,392
+materials/icecreamlock/colorwhite.vmt,99,99
+materials/icecreamlock/colorwhite.vtf,392,392
+materials/icecreamlock/coloryellow.vmt,100,100
+materials/icecreamlock/coloryellow.vtf,392,392
+materials/icecreamlock/coloryuck.vmt,98,98
+materials/icecreamlock/coloryuck.vtf,392,392
+materials/textures (XII) 2/area_continus0000.vmt,82,82
+materials/textures (XII) 2/area_continus0000.vtf,699272,699272
+materials/textures (XII) 2/a_spawn_rooma0002.vmt,82,82
+materials/textures (XII) 2/a_spawn_rooma0002.vtf,699272,699272
+materials/textures (XII) 2/a_spawn_rooma0004.vmt,82,82
+materials/textures (XII) 2/a_spawn_rooma0004.vtf,699272,699272
+materials/textures (XII) 2/a_spawn_rooma0008.vmt,82,82
+materials/textures (XII) 2/a_spawn_rooma0008.vtf,699272,699272
+materials/textures (XII) 2/a_spawn_rooma0009.vmt,82,82
+materials/textures (XII) 2/a_spawn_rooma0009.vtf,699272,699272
+materials/textures (XII) 2/a_spawn_rooma0011.vmt,82,82
+materials/textures (XII) 2/a_spawn_rooma0011.vtf,699272,699272
+materials/textures (XII) 2/a_spawn_rooma0013.vmt,82,82
+materials/textures (XII) 2/a_spawn_rooma0013.vtf,699272,699272
+materials/textures (XII) 2/a_spawn_rooma0017.vmt,82,82
+materials/textures (XII) 2/a_spawn_rooma0017.vtf,699272,699272
+materials/textures (XII) 2/a_spawn_rooma0018.vmt,82,82
+materials/textures (XII) 2/a_spawn_rooma0018.vtf,699272,699272
+materials/textures (XII) 2/Credits.vmt,227,227
+materials/textures (XII) 2/Credits.vtf,349688,349688
+materials/textures (XII) 2/how to.vmt,71,71
+materials/textures (XII) 2/how to.vtf,174984,174984
+materials/textures (XII) 2/surf_xii_test0000.vmt,82,82
+materials/textures (XII) 2/surf_xii_test0000.vtf,699272,699272
+materials/textures (XII) 2/surf_xii_test0001.vmt,82,82
+materials/textures (XII) 2/surf_xii_test0001.vtf,699272,699272
+materials/textures (XII) 2/surf_xii_test0002.vmt,82,82
+materials/textures (XII) 2/surf_xii_test0002.vtf,699272,699272
+materials/textures (XII) 2/untitled.vmt,73,73
+materials/textures (XII) 2/untitled.vtf,349688,349688
+materials/skybox/mpa27bk.vmt,84,84
+materials/skybox/mpa27bk.vtf,699272,699272
+materials/skybox/mpa27dn.vmt,84,84
+materials/skybox/mpa27dn.vtf,699272,699272
+materials/skybox/mpa27ft.vmt,84,84
+materials/skybox/mpa27ft.vtf,699272,699272
+materials/skybox/mpa27lf.vmt,84,84
+materials/skybox/mpa27lf.vtf,699272,699272
+materials/skybox/mpa27rt.vmt,84,84
+materials/skybox/mpa27rt.vtf,699272,699272
+materials/skybox/mpa27up.vmt,84,84
+materials/skybox/mpa27up.vtf,699272,699272

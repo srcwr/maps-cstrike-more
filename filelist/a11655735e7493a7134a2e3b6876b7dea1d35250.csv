@@ -1,0 +1,364 @@
+filename,size,compressed
+materials/maps/surf_t2_all/highdef/metro2033/stone/stone_library_l_marble_black_-10784_-2320_13440.vmt,170,170
+materials/maps/surf_t2_all/highdef/metro2033/stone/stone_library_l_marble_black_-7168_-192_11680.vmt,168,168
+materials/maps/surf_t2_all/realworldtextures/floor/floor_2_09_-8792_8440_8887.vmt,149,149
+materials/maps/surf_t2_all/realworldtextures/floor/floor_2_09_-13168_-2320_14128.vmt,152,152
+materials/maps/surf_t2_all/realworldtextures/floor/floor_2_09_-10784_-2320_13440.vmt,152,152
+materials/maps/surf_t2_all/de_piranesi/walltrim01_-10784_-2320_13440.vmt,140,140
+materials/maps/surf_t2_all/de_piranesi/walltrim01_-3446_9118_6883.vmt,137,137
+materials/maps/surf_t2_all/de_piranesi/walltrim01_-3477_8866_3807.vmt,137,137
+materials/maps/surf_t2_all/de_piranesi/walltrim01_-13168_-2320_14128.vmt,140,140
+materials/maps/surf_t2_all/de_piranesi/walltrim01_-10064_12578_-2220.vmt,140,140
+materials/maps/surf_t2_all/de_piranesi/walltrim01_-7168_-192_11680.vmt,138,138
+materials/maps/surf_t2_all/de_piranesi/walltrim01_-3710_9099_4785.vmt,137,137
+materials/maps/surf_t2_all/nature/rockfloor003a_-8384_11190_6812.vmt,136,136
+materials/maps/surf_t2_all/nature/sewer_waterdarkfog_-8384_11190_6812.vmt,164,164
+materials/maps/surf_t2_all/nature/sewer_waterdarkfog_-8792_8440_8887.vmt,163,163
+materials/maps/surf_t2_all/nature/sewer_waterdarkfog_-7948_8434_8887.vmt,163,163
+materials/maps/surf_t2_all/nature/sewer_waterdarkfog_-8512_9778_8834.vmt,163,163
+materials/maps/surf_t2_all/nature/sewer_waterdarkfog_-7168_-192_11680.vmt,164,164
+materials/maps/surf_t2_all/nature/rockfloor003a_-12106_11086_6812.vmt,137,137
+materials/maps/surf_t2_all/nature/sewer_waterdarkfog_-13168_-2320_14128.vmt,166,166
+materials/maps/surf_t2_all/nature/sewer_waterdarkfog_-12106_11086_6812.vmt,165,165
+materials/maps/surf_t2_all/nature/sewer_waterdarkfog_-4576_11282_6812.vmt,164,164
+materials/maps/surf_t2_all/nature/rockfloor003a_-3446_9118_6883.vmt,135,135
+materials/maps/surf_t2_all/nature/rockfloor003a_-4576_11282_6812.vmt,136,136
+materials/maps/surf_t2_all/nature/sewer_waterdarkfog_-10064_12578_-2220.vmt,166,166
+materials/maps/surf_t2_all/de_piranesi/walltrim01_-8376_8434_968.vmt,136,136
+materials/maps/surf_t2_all/glass/unbreakable_-13168_-2320_14128.vmt,135,135
+materials/maps/surf_t2_all/glass/unbreakable_-7168_-192_11680.vmt,133,133
+materials/maps/surf_t2_all/glass/unbreakable_-10784_-2320_13440.vmt,135,135
+materials/maps/surf_t2_all/glass/unbreakable_-9142_9798_8834.vmt,132,132
+materials/maps/surf_t2_all/glass/unbreakable_-8792_8440_8887.vmt,132,132
+materials/maps/surf_t2_all/glass/unbreakable_-13306_9103_6789.vmt,133,133
+materials/maps/surf_t2_all/realworldtextures/floor/floor_9_-13168_-2320_14128.vmt,149,149
+materials/maps/surf_t2_all/realworldtextures/floor/floor_9_-10784_-2320_13440.vmt,149,149
+materials/maps/surf_t2_all/realworldtextures/floor/floor_9_-8792_8440_8887.vmt,146,146
+materials/maps/surf_t2_all/realworldtextures/floor/floor_9_-7168_-192_11680.vmt,147,147
+materials/maps/surf_t2_all/glass/unbreakable_-8376_8434_968.vmt,131,131
+materials/maps/surf_t2_all/glass/unbreakable_-3477_8866_3807.vmt,132,132
+materials/maps/surf_t2_all/furchee/glass_-12106_11086_6812.vmt,130,130
+materials/maps/surf_t2_all/furchee/glass_-8384_13216_1056.vmt,129,129
+materials/maps/surf_t2_all/furchee/glass_-13168_-2320_14128.vmt,131,131
+materials/maps/surf_t2_all/furchee/glass_-13358_8798_3886.vmt,129,129
+materials/maps/surf_t2_all/furchee/glass_-10064_12578_-2220.vmt,131,131
+materials/maps/surf_t2_all/furchee/glass_-4576_11282_6812.vmt,129,129
+materials/maps/surf_t2_all/furchee/glass_-3477_8866_3807.vmt,128,128
+materials/maps/surf_t2_all/metal/metalwall076a_-8384_13216_1056.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall076a_-8368_12886_2416.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall076a_-10064_12578_-2220.vmt,137,137
+materials/maps/surf_t2_all/metal/metalwall076a_-9408_14860_-4534.vmt,136,136
+materials/maps/surf_t2_all/furchee/glass_illum_-8384_13216_1056.vmt,135,135
+materials/maps/surf_t2_all/furchee/glass_illum_-8368_12886_2416.vmt,135,135
+materials/maps/surf_t2_all/furchee/glass_illum_-9408_14860_-4534.vmt,136,136
+materials/maps/surf_t2_all/furchee/glass_illum_-10064_12578_-2220.vmt,137,137
+materials/maps/surf_t2_all/metal/metalwall076a_-8376_8434_968.vmt,133,133
+materials/maps/surf_t2_all/metal/metalwall076a_-8392_10640_2662.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall076a_-13358_8798_3886.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall076a_-3477_8866_3807.vmt,134,134
+materials/maps/surf_t2_all/furchee/glass_illum_-8376_8434_968.vmt,133,133
+materials/maps/surf_t2_all/furchee/glass_illum_-8392_10640_2662.vmt,135,135
+materials/maps/surf_t2_all/furchee/glass_illum_-3477_8866_3807.vmt,134,134
+materials/maps/surf_t2_all/metal/metalwall076a_-6736_13194_7890.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall076a_-8384_13404_8766.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall076a_-4576_11282_6812.vmt,135,135
+materials/maps/surf_t2_all/furchee/glass_illum_-6736_13194_7890.vmt,135,135
+materials/maps/surf_t2_all/furchee/glass_illum_-4576_11282_6812.vmt,135,135
+materials/maps/surf_t2_all/furchee/glass_illum_-8384_13404_8766.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall076a_-10032_13194_7890.vmt,136,136
+materials/maps/surf_t2_all/metal/metalwall076a_-12106_11086_6812.vmt,136,136
+materials/maps/surf_t2_all/furchee/glass_illum_-10032_13194_7890.vmt,136,136
+materials/maps/surf_t2_all/furchee/glass_illum_-12106_11086_6812.vmt,136,136
+materials/maps/surf_t2_all/metal/metalwall076a_-4064_10408_7932.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall076a_-7948_8434_8887.vmt,134,134
+materials/maps/surf_t2_all/metal/metalwall076a_-3446_9118_6883.vmt,134,134
+materials/maps/surf_t2_all/furchee/glass_illum_-4064_10408_7932.vmt,135,135
+materials/maps/surf_t2_all/furchee/glass_illum_-7948_8434_8887.vmt,134,134
+materials/maps/surf_t2_all/furchee/glass_illum_-3446_9118_6883.vmt,134,134
+materials/maps/surf_t2_all/metal/metalwall076a_-12848_10526_7932.vmt,136,136
+materials/maps/surf_t2_all/metal/metalwall076a_-8792_8440_8887.vmt,134,134
+materials/maps/surf_t2_all/metal/metalwall076a_-13306_9103_6789.vmt,135,135
+materials/maps/surf_t2_all/furchee/glass_illum_-12848_10526_7932.vmt,136,136
+materials/maps/surf_t2_all/furchee/glass_illum_-8792_8440_8887.vmt,134,134
+materials/maps/surf_t2_all/furchee/glass_illum_-13306_9103_6789.vmt,135,135
+materials/maps/surf_t2_all/effects/com_shield003a_-8376_8434_968.vmt,159,159
+materials/maps/surf_t2_all/effects/com_shield003a_-13168_-2320_14128.vmt,163,163
+materials/maps/surf_t2_all/effects/com_shield003a_-3446_9118_6883.vmt,160,160
+materials/maps/surf_t2_all/metal/metalwall048a_-7684_9776_8834.vmt,134,134
+materials/maps/surf_t2_all/metal/metalwall048a_-4064_10408_7932.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall048a_-7948_8434_8887.vmt,134,134
+materials/maps/surf_t2_all/metal/metalwall048a_-8384_12386_9159.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall048a_-8384_11190_6812.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall048a_-7168_-192_11680.vmt,135,135
+materials/maps/surf_t2_all/metal/metalwall048a_-8512_9778_8834.vmt,134,134
+materials/maps/surf_t2_all/metal/metalwall048a_-8190_9778_8834.vmt,134,134
+materials/maps/surf_t2_all/metal/metalwall048a_-8792_8440_8887.vmt,134,134
+materials/maps/surf_t2_all/metal/metalwall048a_-10032_13194_7890.vmt,136,136
+materials/maps/surf_t2_all/metal/metalwall048a_-9142_9798_8834.vmt,134,134
+materials/maps/surf_t2_all/furchee/glass_-8384_13404_8766.vmt,129,129
+materials/maps/surf_t2_all/furchee/glass_-8384_13446_9300.vmt,129,129
+materials/maps/surf_t2_all/maps/surf_t2_all/nature/sewer_waterdarkfog_-12106_11086_6812_depth_192.vmt,148,148
+materials/maps/surf_t2_all/maps/surf_t2_all/nature/sewer_waterdarkfog_-10064_12578_-2220_depth_236.vmt,149,149
+materials/maps/surf_t2_all/maps/surf_t2_all/nature/sewer_waterdarkfog_-7168_-192_11680_depth_8.vmt,145,145
+materials/maps/surf_t2_all/maps/surf_t2_all/nature/sewer_waterdarkfog_-8384_11190_6812_depth_192.vmt,147,147
+materials/maps/surf_t2_all/maps/surf_t2_all/nature/sewer_waterdarkfog_-4576_11282_6812_depth_192.vmt,147,147
+materials/maps/surf_t2_all/de_nuke/nukwater_movingplane_dx70_depth_450.vmt,121,121
+materials/maps/surf_t2_all/de_nuke/nukwater_movingplane_dx70_depth_478.vmt,121,121
+materials/maps/surf_t2_all/de_nuke/nukwater_movingplane_dx70_depth_352.vmt,121,121
+materials/maps/surf_t2_all/de_nuke/nukwater_movingplane_dx70_depth_960.vmt,121,121
+materials/maps/surf_t2_all/de_nuke/nukwater_movingplane_dx70_depth_158.vmt,121,121
+materials/maps/surf_t2_all/cubemapdefault.vtf,9832,9832
+materials/maps/surf_t2_all/c-10784_-2320_13440.vtf,4960,4960
+materials/maps/surf_t2_all/c-7168_-192_11680.vtf,4960,4960
+materials/maps/surf_t2_all/c-8792_8440_8887.vtf,4960,4960
+materials/maps/surf_t2_all/c-13168_-2320_14128.vtf,4960,4960
+materials/maps/surf_t2_all/c-3446_9118_6883.vtf,4960,4960
+materials/maps/surf_t2_all/c-3477_8866_3807.vtf,4960,4960
+materials/maps/surf_t2_all/c-10064_12578_-2220.vtf,4960,4960
+materials/maps/surf_t2_all/c-3710_9099_4785.vtf,4960,4960
+materials/maps/surf_t2_all/c-8384_11190_6812.vtf,4960,4960
+materials/maps/surf_t2_all/c-7948_8434_8887.vtf,4960,4960
+materials/maps/surf_t2_all/c-8512_9778_8834.vtf,4960,4960
+materials/maps/surf_t2_all/c-12106_11086_6812.vtf,4960,4960
+materials/maps/surf_t2_all/c-4576_11282_6812.vtf,4960,4960
+materials/maps/surf_t2_all/c-8376_8434_968.vtf,4960,4960
+materials/maps/surf_t2_all/c-9142_9798_8834.vtf,4960,4960
+materials/maps/surf_t2_all/c-13306_9103_6789.vtf,4960,4960
+materials/maps/surf_t2_all/c-8384_13216_1056.vtf,4960,4960
+materials/maps/surf_t2_all/c-13358_8798_3886.vtf,4960,4960
+materials/maps/surf_t2_all/c-8368_12886_2416.vtf,4960,4960
+materials/maps/surf_t2_all/c-9408_14860_-4534.vtf,4960,4960
+materials/maps/surf_t2_all/c-8392_10640_2662.vtf,4960,4960
+materials/maps/surf_t2_all/c-6736_13194_7890.vtf,4960,4960
+materials/maps/surf_t2_all/c-8384_13404_8766.vtf,4960,4960
+materials/maps/surf_t2_all/c-10032_13194_7890.vtf,4960,4960
+materials/maps/surf_t2_all/c-4064_10408_7932.vtf,4960,4960
+materials/maps/surf_t2_all/c-12848_10526_7932.vtf,4960,4960
+materials/maps/surf_t2_all/c-7684_9776_8834.vtf,4960,4960
+materials/maps/surf_t2_all/c-8384_12386_9159.vtf,4960,4960
+materials/maps/surf_t2_all/c-8190_9778_8834.vtf,4960,4960
+materials/maps/surf_t2_all/c-8384_13446_9300.vtf,4960,4960
+materials/maps/surf_t2_all/c-13109_9046_4789.vtf,4960,4960
+materials/maps/surf_t2_all/c-13052_8848_5874.vtf,4960,4960
+materials/maps/surf_t2_all/c-3735_8829_5777.vtf,4960,4960
+materials/maps/surf_t2_all/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-10784_-2320_13440.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-7168_-192_11680.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8792_8440_8887.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-13168_-2320_14128.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-3446_9118_6883.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-3477_8866_3807.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-10064_12578_-2220.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-3710_9099_4785.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8384_11190_6812.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-7948_8434_8887.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8512_9778_8834.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-12106_11086_6812.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-4576_11282_6812.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8376_8434_968.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-9142_9798_8834.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-13306_9103_6789.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8384_13216_1056.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-13358_8798_3886.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8368_12886_2416.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-9408_14860_-4534.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8392_10640_2662.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-6736_13194_7890.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8384_13404_8766.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-10032_13194_7890.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-4064_10408_7932.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-12848_10526_7932.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-7684_9776_8834.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8384_12386_9159.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8190_9778_8834.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-8384_13446_9300.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-13109_9046_4789.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-13052_8848_5874.hdr.vtf,76528,76528
+materials/maps/surf_t2_all/c-3735_8829_5777.hdr.vtf,76528,76528
+materials/highdef/metro2033/stone/stone_library_l_marble_black.vmt,326,326
+materials/highdef/metro2033/stone/stone_library_l_marble_black.vtf,699272,699272
+materials/highdef/metro2033/stone/stone_library_l_marble_black_ssbump.vtf,1398336,1398336
+materials/RealWorldTextures/Floor/Floor_2_09.vmt,356,356
+materials/RealWorldTextures/Floor/Floor_2_09.vtf,43912,43912
+materials/RealWorldTextures/Floor/Floor_2_10_nrm.vtf,43912,43912
+materials/RealWorldTextures/Floor/floor_9.vmt,350,350
+materials/RealWorldTextures/Floor/floor_9.vtf,43912,43912
+materials/RealWorldTextures/Floor/floor_9_nrm.vtf,43912,43912
+materials/furchee/glass.vmt,129,129
+materials/furchee/glass.vtf,349760,349760
+materials/furchee/glass_illum.vmt,148,148
+materials/genetica/Cloth And Upholstery/Blue Draperies.vmt,94,94
+materials/genetica/Cloth And Upholstery/Blue Draperies.vtf,349776,349776
+materials/genetica/Building/Cathedral 1 (Night) - Roof.vmt,94,94
+materials/genetica/Building/Cathedral 1 (Night) - Roof.vtf,349776,349776
+materials/genetica/Tile/Dyed Stonework.vmt,78,78
+materials/genetica/Tile/Dyed Stonework.vtf,349776,349776
+materials/beautiful_glass/checker.vmt,249,249
+materials/beautiful_glass/normal.vtf,349760,349760
+materials/beautiful_glass/checker.vtf,349760,349760
+materials/genetica/Fiber/Just Add Bison.vmt,79,79
+materials/genetica/Fiber/Just Add Bison.vtf,349776,349776
+materials/Silkroad/FGWorld/ceiling3.vmt,97,97
+materials/Silkroad/FGWorld/ceiling3.vtf,349760,349760
+materials/Silkroad/Ground/dun_maya_grass_01.vmt,106,106
+materials/Silkroad/Ground/dun_maya_grass_01.vtf,349760,349760
+materials/Silkroad/Ground/esteu_upisin_01.vmt,103,103
+materials/Silkroad/Ground/esteu_upisin_01.vtf,349760,349760
+materials/Silkroad/Ground/oakk_stone_08.vmt,101,101
+materials/Silkroad/Ground/oakk_stone_08.vtf,349760,349760
+materials/Silkroad/Ground/oakk_snow_sn_05.vmt,103,103
+materials/Silkroad/Ground/oakk_snow_sn_05.vtf,349760,349760
+materials/Silkroad/Ground/alex_stone05.vmt,104,104
+materials/Silkroad/Ground/alex_stone05.vtf,87616,87616
+materials/custom_0001c/tile_marble_0005.vmt,77,77
+materials/custom_0001c/tile_marble_0005.vtf,699272,699272
+materials/custom_0001c/tile_marble_0002.vmt,77,77
+materials/custom_0001c/tile_marble_0002.vtf,699272,699272
+materials/custom_0001c/tile_marble_0001.vmt,77,77
+materials/custom_0001c/tile_marble_0001.vtf,2796424,2796424
+materials/custom_0001c/tile_marble_0009.vmt,77,77
+materials/custom_0001c/tile_marble_0009.vtf,699272,699272
+materials/custom_0001c/tile_marble_0004.vmt,77,77
+materials/custom_0001c/tile_marble_0004.vtf,699272,699272
+materials/custom_0001c/tile_marble_0008.vmt,77,77
+materials/custom_0001c/tile_marble_0008.vtf,699272,699272
+materials/custom_0001c/tile_marble_0006.vmt,77,77
+materials/custom_0001c/tile_marble_0006.vtf,699272,699272
+materials/skyppy/floor10a.vmt,168,168
+materials/skyppy/floor10a.vtf,699272,699272
+materials/skyppy/normals/floor10a_normal.vtf,699272,699272
+materials/RealWorldTextures/Floor/wood_floor_3.vmt,108,108
+materials/RealWorldTextures/Floor/wood_floor_3.vtf,43912,43912
+materials/Skyppy3/Metal_floor01b.vmt,182,182
+materials/Skyppy3/Metal_floor01b.vtf,699272,699272
+materials/Skyppy3/normals/Metal_floor01b_normal.vtf,699272,699272
+materials/RealWorldTextures/Floor/wood_floor_6.vmt,108,108
+materials/RealWorldTextures/Floor/wood_floor_6.vtf,43912,43912
+materials/beautiful_glass/clear.vmt,198,198
+materials/Silkroad/China/jinsi_floor1_h_deck01.vmt,103,103
+materials/Silkroad/China/jinsi_floor1_h_deck01.vtf,87616,87616
+materials/RealWorldTextures/ceiling/ceiling_1_04.vmt,168,168
+materials/RealWorldTextures/ceiling/ceiling_1_04.vtf,87544,87544
+materials/RealWorldTextures/ceiling/ceiling_1_04_nrm.vtf,87544,87544
+materials/RealWorldTextures/newer/1/Brick_1_08.vmt,109,109
+materials/RealWorldTextures/newer/1/Brick_1_08.vtf,174984,174984
+materials/genetica/Crystal/Black Mica.vmt,77,77
+materials/genetica/Crystal/Black Mica.vtf,349776,349776
+materials/Silkroad/Jupitere/piety_6.vmt,120,120
+materials/Silkroad/Jupitere/piety_6.vtf,87616,87616
+materials/RealWorldTextures/newer/1/Trim_1_02.vmt,111,111
+materials/RealWorldTextures/newer/1/Trim_1_02.vtf,43832,43832
+materials/RealWorldTextures/newer/0/bricks_0_08.vmt,167,167
+materials/RealWorldTextures/newer/0/bricks_0_08.vtf,174984,174984
+materials/RealWorldTextures/newer/0/bricks_0_08_nrm.vtf,174984,174984
+materials/RealWorldTextures/newer/0/snow_0_01.vmt,162,162
+materials/RealWorldTextures/newer/0/snow_0_01.vtf,174984,174984
+materials/RealWorldTextures/newer/0/snow_0_01_nrm.vtf,174984,174984
+materials/genetica/Metal/Grimy Dark Metal.vmt,81,81
+materials/genetica/Metal/Grimy Dark Metal.vtf,349776,349776
+materials/RealWorldTextures/newer/1/Brick_1_01.vmt,109,109
+materials/RealWorldTextures/newer/1/Brick_1_01.vtf,174984,174984
+materials/highdef/metro2033/stucco/stucco_potolok_2.vmt,218,218
+materials/highdef/metro2033/stucco/stucco_potolok_2.vtf,699272,699272
+materials/highdef/metro2033/stucco/stucco_potolok_2_ssbump.vtf,699272,699272
+materials/highdef/metro2033/floor/floor_grjaz1.vmt,209,209
+materials/highdef/metro2033/floor/floor_grjaz1.vtf,699272,699272
+materials/highdef/metro2033/floor/floor_grjaz1_ssbump.vtf,699272,699272
+materials/Silkroad/Ground/bagh_city_tile_middle01.vmt,111,111
+materials/Silkroad/Ground/bagh_city_tile_middle01.vtf,349760,349760
+materials/Silkroad/Egypt/ground (7).vmt,92,92
+materials/Silkroad/Egypt/ground (7).vtf,87616,87616
+materials/Silkroad/Ground/esteu_upisin_04.vmt,103,103
+materials/Silkroad/Ground/esteu_upisin_04.vtf,349760,349760
+materials/Silkroad/Jupitere/jupiter_5.vmt,118,118
+materials/Silkroad/Jupitere/jupiter_5.vtf,349760,349760
+materials/genetica/Tile/Painted Diamonds.vmt,80,80
+materials/genetica/Tile/Painted Diamonds.vtf,349776,349776
+materials/furchee/doorwood.vmt,86,86
+materials/furchee/doorwood.vtf,11064,11064
+materials/Silkroad/China/china_wall_tile.vmt,97,97
+materials/Silkroad/China/china_wall_tile.vtf,87616,87616
+materials/Silkroad/Ground/oakk_stone_03.vmt,101,101
+materials/Silkroad/Ground/oakk_stone_03.vtf,349760,349760
+materials/RealWorldTextures/Walls/blueblood.vmt,242,242
+materials/RealWorldTextures/Walls/blueblood.vtf,174984,174984
+materials/genetica/Stone/Obsidian.vmt,73,73
+materials/genetica/Stone/Obsidian.vtf,349776,349776
+materials/genetica/Crystal/Hex Glass.vmt,76,76
+materials/genetica/Crystal/Hex Glass.vtf,349776,349776
+materials/genetica/Stone/Black Reflective.vmt,81,81
+materials/genetica/Stone/Black Reflective.vtf,349776,349776
+materials/lights/white.vmt,93,93
+materials/custom/picketfence.vmt,85,85
+materials/custom/picketfence.vtf,349760,349760
+materials/genetica/Box And Crate/Zebrawood Crate.vmt,88,88
+materials/genetica/Box And Crate/Zebrawood Crate.vtf,349776,349776
+materials/genetica/Building/Cathedral 2 (Night) - Wall.vmt,94,94
+materials/genetica/Building/Cathedral 2 (Night) - Wall.vtf,349776,349776
+materials/Silkroad/Egypt/ground (4).vmt,92,92
+materials/Silkroad/Egypt/ground (4).vtf,87616,87616
+materials/genetica/Light Strip/Red Light Strip Set 4-4.vmt,94,94
+materials/genetica/Light Strip/Red Light Strip Set 4-4.vtf,349776,349776
+materials/genetica/Metal/Metal Mesh.vmt,75,75
+materials/genetica/Metal/Metal Mesh.vtf,349776,349776
+materials/beautiful_glass/yellow.vmt,247,247
+materials/beautiful_glass/yellow.vtf,174984,174984
+materials/falsetextures/mywhite.vmt,120,120
+materials/falsetextures/mywhite.vtf,43912,43912
+materials/Silkroad/Asia Minor/rock2.vmt,116,116
+materials/Silkroad/Asia Minor/rock2.vtf,349760,349760
+materials/Silkroad/FGWorld/groundwood1.vmt,106,106
+materials/Silkroad/FGWorld/groundwood1.vtf,349760,349760
+materials/RealWorldTextures/newer/1/Brick_1_07.vmt,109,109
+materials/RealWorldTextures/newer/1/Brick_1_07.vtf,174984,174984
+materials/Silkroad/Ground/euro_const_stone04.vmt,106,106
+materials/Silkroad/Ground/euro_const_stone04.vtf,349760,349760
+materials/RealWorldTextures/new/THW_Slide05.vmt,107,107
+materials/RealWorldTextures/new/WoodFloor_a03.vtf,174984,174984
+materials/genetica/Metal/Kirk's Entry.vmt,77,77
+materials/genetica/Metal/Kirk's Entry.vtf,349776,349776
+materials/new/WOOD2.vmt,87,87
+materials/new/Wood2.vtf,174984,174984
+materials/casino/METALBARE.vmt,93,93
+materials/casino/MetalBare.vtf,349688,349688
+materials/furry/offflrb.vmt,153,153
+materials/furry/offflrb.vtf,2097360,2097360
+materials/falsetextures/dinos.vmt,91,91
+materials/falsetextures/dinos.vtf,699288,699288
+materials/Silkroad/China/jinsi_floor4_b01_07.vmt,101,101
+materials/Silkroad/China/jinsi_floor4_b01_07.vtf,87616,87616
+materials/overlays/overlay_scrawlings_arrow02.vmt,138,138
+materials/overlays/overlay_scrawlings_arrow02.vtf,87640,87640
+materials/skybox/sky46up.vmt,88,88
+materials/skybox/sky46up.vtf,699272,699272
+materials/skybox/sky46dn.vmt,88,88
+materials/skybox/sky46dn.vtf,699272,699272
+materials/skybox/sky46lf.vmt,88,88
+materials/skybox/sky46lf.vtf,699272,699272
+materials/skybox/sky46rt.vmt,88,88
+materials/skybox/sky46rt.vtf,699272,699272
+materials/skybox/sky46ft.vmt,88,88
+materials/skybox/sky46ft.vtf,699272,699272
+materials/skybox/sky46bk.vmt,88,88
+materials/skybox/sky46bk.vtf,699272,699272
+models/props/s1_r1.mdl,1916,1916
+models/props/s1_r1.vvd,66688,66688
+models/props/s1_r1.dx90.vtx,12705,12705
+models/props/s1_r1.dx80.vtx,12705,12705
+models/props/s1_r1.sw.vtx,12705,12705
+materials/models/props/s1_r1/obsidian.vmt,71,71
+materials/models/props/s1_r1/hex glass.vmt,74,74
+models/props/s1_r2.mdl,1916,1916
+models/props/s1_r2.vvd,67520,67520
+models/props/s1_r2.dx90.vtx,12876,12876
+models/props/s1_r2.dx80.vtx,12876,12876
+models/props/s1_r2.sw.vtx,12876,12876
+materials/models/props/s1_r2/obsidian.vmt,71,71
+materials/models/props/s1_r2/hex glass.vmt,74,74
+models/props/creditsnames.mdl,1916,1916
+models/props/creditsnames.vvd,472192,472192
+models/props/creditsnames.dx90.vtx,91491,91491
+models/props/creditsnames.dx80.vtx,91491,91491
+models/props/creditsnames.sw.vtx,91491,91491
+materials/models/props/creditsnames/black.vmt,60,60
+materials/models/props/creditsnames/dinos.vmt,89,89

@@ -1,0 +1,23 @@
+filename,size,compressed
+materials/maps/fy_paintball_wcfan/stone/stonestair001a_-476_174_283.vmt,139,139
+materials/maps/fy_paintball_wcfan/stone/stonestair001a_677_148_359.vmt,138,138
+materials/maps/fy_paintball_wcfan/stone/stonestair001a_50_144_471.vmt,137,137
+materials/maps/fy_paintball_wcfan/glass/glasswindowbreak070b_-476_174_283.vmt,114,114
+materials/maps/fy_paintball_wcfan/glass/prodwndwa_-476_174_283.vmt,221,221
+materials/maps/fy_paintball_wcfan/glass/glasswindowbreak070b_677_148_359.vmt,114,114
+materials/maps/fy_paintball_wcfan/glass/prodwndwa_677_148_359.vmt,219,219
+materials/maps/fy_paintball_wcfan/glass/glasswindowbreak070b_50_144_471.vmt,114,114
+materials/maps/fy_paintball_wcfan/glass/prodwndwa_50_144_471.vmt,217,217
+materials/maps/fy_paintball_wcfan/cubemapdefault.vtf,9824,9824
+materials/maps/fy_paintball_wcfan/c-476_174_283.vtf,9824,9824
+materials/maps/fy_paintball_wcfan/c677_148_359.vtf,9824,9824
+materials/maps/fy_paintball_wcfan/c50_144_471.vtf,9824,9824
+materials/CUSTOMASM/WCFAN3.vmt,64,64
+materials/Customasm/wcfan3.vtf,87616,87616
+materials/CUSTOMASM/WCFAN2.vmt,64,64
+materials/Customasm/wcfan2.vtf,43912,43912
+materials/CUSTOMASM/ANTI CHEAT.vmt,68,68
+materials/CUSTOMASM/WCFAN1.vmt,64,64
+materials/Customasm/wcfan1.vtf,43896,43896
+materials/CUSTOMASM/WCFAN3FALSCH RUM.vmt,74,74
+maps/soundcache/fy_paintball_wcfan.cache,16,16

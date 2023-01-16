@@ -1,0 +1,34 @@
+filename,size,compressed
+materials/maps/ba_jail_destination_v2/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/ba_jail_destination_v2/dev/graygrid_depth_1.vmt,98,98
+materials/maps/ba_jail_destination_v2/de_nuke/nukwater_movingplane_dx70_depth_1.vmt,119,119
+materials/maps/ba_jail_destination_v2/de_nuke/nukwater_movingplane_dx70_depth_16858.vmt,123,123
+materials/maps/ba_jail_destination_v2/liquids/water_dx70_opaq_depth_147.vmt,111,111
+materials/maps/ba_jail_destination_v2/liquids/water_dx70_opaq_depth_356.vmt,111,111
+materials/maps/ba_jail_destination_v2/liquids/water_dx70_opaq_depth_113.vmt,111,111
+materials/maps/ba_jail_destination_v2/dev/dev_water5_depth_11.vmt,101,101
+materials/maps/ba_jail_destination_v2/nature/water_movingplane_dx70_depth_763.vmt,117,117
+materials/maps/ba_jail_destination_v2/nature/water_movingplane_dx70_depth_75.vmt,116,116
+materials/maps/ba_jail_destination_v2/nature/water_movingplane_dx70_depth_2.vmt,115,115
+materials/maps/ba_jail_destination_v2/de_nuke/nukwater_movingplane_dx70_depth_7.vmt,119,119
+materials/maps/ba_jail_destination_v2/nature/water_movingplane_dx70_depth_159.vmt,117,117
+materials/maps/ba_jail_destination_v2/nature/water_movingplane_dx70_depth_98.vmt,116,116
+materials/maps/ba_jail_destination_v2/nature/water_movingplane_dx70_depth_150.vmt,117,117
+materials/maps/ba_jail_destination_v2/nature/water_movingplane_dx70_depth_173.vmt,117,117
+materials/maps/ba_jail_destination_v2/nature/water_canals_cheap001_dx70_depth_37.vmt,120,120
+materials/maps/ba_jail_destination_v2/brick/brickfloor001a_depth_300.vmt,108,108
+materials/maps/ba_jail_destination_v2/de_nuke/nukwater_movingplane_dx70_depth_98.vmt,120,120
+materials/maps/ba_jail_destination_v2/cubemapdefault.vtf,28753,28753
+materials/maps/ba_jail_destination_v2/cubemapdefault.hdr.vtf,76528,76528
+sound/disco/Clubland 9 Keep On Moving.mp3,2117760,2117760
+sound/disco/Das geht ab - Atzen musik.mp3,1681536,1681536
+sound/disco/Manian - Welcome To The Club (Radio Edit).mp3,1661056,1661056
+sound/disco/Sum 41 Open YOur Eyes.mp3,1368192,1368192
+materials/models/soccer_mod/ball_2009.vtf,699272,699272
+materials/models/soccer_mod/ball_2009.vmt,98,98
+materials/decals/destination_v2.vmt,69,69
+materials/decals/destination_v2.vtf,349760,349760
+materials/decals/matrix.vmt,61,61
+materials/decals/matrix.vtf,174984,174984
+materials/decals/war.vmt,58,58
+materials/decals/war.vtf,349760,349760

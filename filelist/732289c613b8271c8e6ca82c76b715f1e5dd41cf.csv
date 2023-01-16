@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/fy_iceworld_s/concrete/concretewall041c_0_576_0.vmt,134,134
+materials/maps/fy_iceworld_s/concrete/concretewall041c_384_0_0.vmt,134,134
+materials/maps/fy_iceworld_s/concrete/concretewall041c_-384_0_0.vmt,135,135
+materials/maps/fy_iceworld_s/concrete/concretewall041c_0_-576_0.vmt,135,135
+materials/maps/fy_iceworld_s/cubemapdefault.vtf,9808,9808
+materials/maps/fy_iceworld_s/c0_576_0.vtf,9808,9808
+materials/maps/fy_iceworld_s/c384_0_0.vtf,9808,9808
+materials/maps/fy_iceworld_s/c-384_0_0.vtf,9808,9808
+materials/maps/fy_iceworld_s/c0_-576_0.vtf,9808,9808

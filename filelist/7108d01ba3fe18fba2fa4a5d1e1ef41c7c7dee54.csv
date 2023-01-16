@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/awp_/cubemapdefault.vtf,9832,9832
+materials/maps/awp_/cubemapdefault.hdr.vtf,76528,76528
+maps/awp_.nav,26530,26530
+materials/consave/brick_floor_cube.vmt,100,100
+materials/consave/brick_street.vmt,96,96
+materials/consave/brick_wall.vmt,94,94
+materials/consave/brick_floor_cube.vtf,1398308,1398308
+materials/consave/brick_street.vtf,1398308,1398308
+materials/consave/brick_wall.vtf,1398308,1398308
+materials/dev/dev_measuregeneric47.vmt,93,93
+materials/dev/dev_measuregeneric47.vtf,11144,11144
+materials/overviews/awp_.vmt,314,314
+materials/overviews/awp_.vtf,5592612,5592612
+resource/overviews/awp_.txt,268,268

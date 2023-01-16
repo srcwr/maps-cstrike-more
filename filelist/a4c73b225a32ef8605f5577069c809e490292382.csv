@@ -1,0 +1,56 @@
+filename,size,compressed
+materials/maps/ze_sky_athletic_v5_final/concrete/concretefloor011a_c17_0_0_0.vmt,187,187
+materials/maps/ze_sky_athletic_v5_final/cs_assault/pavement001a_0_0_0.vmt,141,141
+materials/maps/ze_sky_athletic_v5_final/concrete/concretefloor019a_0_0_0.vmt,144,144
+materials/maps/ze_sky_athletic_v5_final/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/ze_sky_athletic_v5_final/glass/offwndwb_0_0_0.vmt,218,218
+materials/maps/ze_sky_athletic_v5_final/de_nuke/nukwater_movingplane_depth_8.vmt,114,114
+materials/maps/ze_sky_athletic_v5_final/de_nuke/nukwater_movingplane_depth_11.vmt,115,115
+materials/maps/ze_sky_athletic_v5_final/cubemapdefault.vtf,9832,9832
+materials/maps/ze_sky_athletic_v5_final/c0_0_0.vtf,9832,9832
+materials/maps/ze_sky_athletic_v5_final/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_sky_athletic_v5_final/c0_0_0.hdr.vtf,76528,76528
+materials/crasher/crasher1.vmt,90,90
+materials/crasher/crasher1.vtf,175008,175008
+materials/crasher/crasher2.vmt,90,90
+materials/crasher/crasher2.vtf,175008,175008
+materials/crasher/crasher3.vmt,90,90
+materials/crasher/crasher3.vtf,43936,43936
+materials/my texture/all items mode.vmt,99,99
+materials/my texture/all items mode.vtf,22032,22032
+materials/my texture/cloud.vmt,90,90
+materials/my texture/cloud.vtf,43896,43896
+materials/my texture/half stage mode.vmt,100,100
+materials/my texture/half stage mode.vtf,22032,22032
+materials/my texture/low friction mode.vmt,102,102
+materials/my texture/low friction mode.vtf,22032,22032
+materials/my texture/quick mode.vmt,95,95
+materials/my texture/quick mode.vtf,22032,22032
+materials/special/message.vmt,89,89
+materials/special/message.vtf,43936,43936
+materials/special/specialthanks.vmt,95,95
+materials/special/specialthanks.vtf,175008,175008
+materials/special/v5_fix2__special thanks.vmt,105,105
+materials/special/v5_fix2__special thanks.vtf,175008,175008
+materials/special/v5_fix2__winners.vmt,98,98
+materials/special/v5_fix2__winners.vtf,175008,175008
+materials/special/wasao.vmt,87,87
+materials/special/wasao.vtf,87568,87568
+materials/special/winners.vmt,89,89
+materials/special/winners.vtf,175008,175008
+sound/Annex.mp3,8401760,8401760
+sound/Flame.mp3,1090399,1090399
+sound/Psyco Dive.mp3,9289806,9289806
+sound/brecon_airstrike_cscz.mp3,10116754,10116754
+sound/crasher.mp3,5919286,5919286
+sound/crasher2.mp3,3045441,3045441
+sound/jihad.wav,447020,447020
+sound/quick.mp3,10389156,10389156
+sound/snow.mp3,9875067,9875067
+sound/stage2_boss.mp3,2258473,2258473
+sound/kbc/banzai.wav,132226,132226
+sound/kbc/hazukasii.wav,57922,57922
+sound/kbc/hoaa.wav,35458,35458
+sound/kbc/power.wav,89604,89604
+sound/kbc/spin.wav,55360,55360
+sound/kbc/tapioka.wav,24722,24722

@@ -1,0 +1,33 @@
+filename,size,compressed
+materials/maps/gg_nckf_teriyaki/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/gg_nckf_teriyaki/nature/blenddirtgrass001b_wvt_patch.vmt,333,333
+materials/maps/gg_nckf_teriyaki/cubemapdefault.vtf,28753,28753
+materials/maps/gg_nckf_teriyaki/c641_44_192.vtf,28753,28753
+materials/maps/gg_nckf_teriyaki/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_nckf_teriyaki/c641_44_192.hdr.vtf,76528,76528
+materials/HALO_TEXTURES/HALO_WALL006.vmt,99,99
+materials/halo_textures/halo_wall006.vtf,87616,87616
+materials/HALO_TEXTURES/HALO_FLOOR008.vmt,100,100
+materials/halo_textures/halo_floor008.vtf,43912,43912
+materials/HALO_TEXTURES/HALO_WALL010.vmt,99,99
+materials/halo_textures/halo_wall010.vtf,174984,174984
+materials/RYAN_DEV/BLACK.vmt,62,62
+materials/ryan_dev/black.vtf,11144,11144
+materials/HALO_TEXTURES/HALO_GRATE005.vmt,100,100
+materials/halo_textures/halo_grate005.vtf,174984,174984
+materials/TEXTURES/EWMAP.vmt,62,62
+materials/Textures/ewmap.vtf,11144,11144
+materials/HALO_TEXTURES/HALO_PANEL003.vmt,100,100
+materials/halo_textures/halo_panel003.vtf,87616,87616
+materials/HALO_TEXTURES/HALO_FLOOR003.vmt,100,100
+materials/halo_textures/halo_floor003.vtf,22008,22008
+materials/TEXTURES/BLAST1A.vmt,82,82
+materials/Textures/blast1.vtf,87616,87616
+materials/RYAN_DEV/CMYK_CYAN.vmt,66,66
+materials/ryan_dev/cmyk_cyan.vtf,11144,11144
+materials/CASTLE TEXTURES/NCKFTAGSIGN.vmt,75,75
+materials/RYAN_DEV/85.vmt,59,59
+materials/ryan_dev/85.vtf,11144,11144
+maps/soundcache/gg_nckf_teriyaki.cache,16,16
+materials/castle textures/nckftagsign.vmt,75,75
+materials/castle textures/nckftagsign.vtf,87544,87544

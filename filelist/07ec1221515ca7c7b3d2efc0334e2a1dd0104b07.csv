@@ -1,0 +1,28 @@
+filename,size,compressed
+materials/maps/fy_poolday/tile/milflr002_0_0_0.vmt,118,118
+materials/maps/fy_poolday/liquids/water_chateau_dx70_depth_64.vmt,113,113
+materials/maps/fy_poolday/liquids/militiawater_dx70_depth_128.vmt,113,113
+materials/maps/fy_poolday/cubemapdefault.vtf,9824,9824
+materials/maps/fy_poolday/c0_0_0.vtf,9824,9824
+models/natalya/toilet/toilet.dx80.vtx,12927,12927
+models/natalya/toilet/toilet.dx90.vtx,12927,12927
+models/natalya/toilet/toilet.mdl,1476,1476
+models/natalya/toilet/toilet.phy,4944,4944
+models/natalya/toilet/toilet.sw.vtx,12927,12927
+models/natalya/toilet/toilet.vvd,56768,56768
+materials/models/natalya/toilet/toilet.vmt,148,148
+materials/models/natalya/toilet/toilet.vtf,349760,349760
+materials/My Textures/Bluebigtiles.vmt,726,726
+materials/My Textures/bluebigtiles.vtf,174984,174984
+materials/My Textures/Bluesmalltiles.vmt,728,728
+materials/My Textures/Bluesmalltiles.vtf,174984,174984
+materials/My Textures/bluetilewall.vmt,729,729
+materials/My Textures/Bluetilewall.vtf,174984,174984
+materials/My Textures/redbigtiles.vmt,725,725
+materials/My Textures/Redbigtiles.vtf,174984,174984
+materials/My Textures/Redsmalltiles.vmt,727,727
+materials/My Textures/Redsmalltiles.vtf,174984,174984
+materials/My Textures/redtilewall.vmt,725,725
+materials/My Textures/Redtilewall.vtf,174984,174984
+materials/My Textures/SterBlueWall.vmt,140,140
+materials/My Textures/SterBlueWall.vtf,174984,174984

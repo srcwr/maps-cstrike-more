@@ -1,0 +1,45 @@
+filename,size,compressed
+materials/maps/mg_wararena_2/models/combine_citadel/combine_citadel001_0_0_0.vmt,148,148
+materials/maps/mg_wararena_2/cubemapdefault.vtf,9824,9824
+materials/maps/mg_wararena_2/c0_0_0.vtf,9824,9824
+materials/360/PIT BULLS LOGO2.vmt,99,99
+materials/360/PIT BULLS LOGO1.vmt,99,99
+materials/KOMAOKC/BRICKS.vmt,83,83
+materials/komaokc/bricks.vtf,174984,174984
+materials/KOMAOKC/MARBLETILES.vmt,87,87
+materials/komaokc/marbletiles.vtf,174984,174984
+materials/ARCH/SS1.vmt,293,293
+materials/arch/ss1.vtf,87528,87528
+materials/360/RED_01.vmt,91,91
+materials/360/red_01.vtf,174968,174968
+materials/CUSTOM_NATURE/ANIMATEDLAVA2.vmt,253,253
+materials/custom_nature/animatedlava2.vtf,5593040,5593040
+materials/HALO_TEXTURES/HALO_GRATE006.vmt,100,100
+materials/halo_textures/halo_grate006.vtf,43912,43912
+materials/HALO_TEXTURES/HALO_WALL002.vmt,99,99
+materials/halo_textures/halo_wall002.vtf,87544,87544
+materials/HALO_TEXTURES/HALO_METAL017.vmt,100,100
+materials/halo_textures/halo_metal017.vtf,43912,43912
+materials/360/PLASTIK.vmt,88,88
+materials/360/Plastik.vtf,87528,87528
+materials/skybox/sky_dustup.vmt,117,117
+materials/skybox/sky_dustup.vtf,349616,349616
+materials/skybox/sky_dustdn.vmt,117,117
+materials/skybox/sky_dustdn.vtf,349616,349616
+materials/skybox/sky_dustft.vmt,117,117
+materials/skybox/sky_dustft.vtf,349616,349616
+materials/skybox/sky_dustbk.vmt,117,117
+materials/skybox/sky_dustbk.vtf,349616,349616
+materials/skybox/sky_dustlf.vmt,117,117
+materials/skybox/sky_dustlf.vtf,349616,349616
+materials/skybox/sky_dustrt.vmt,117,117
+materials/skybox/sky_dustrt.vtf,349616,349616
+sound/sdk/16.david guetta ft. akon - sexy bitch.wav,43011116,43011116
+models/weapons/w_eq_fraggrenade.mdl,1888,1888
+models/weapons/w_eq_fraggrenade.dx80.vtx,2391,2391
+models/weapons/w_eq_fraggrenade.dx90.vtx,2391,2391
+models/weapons/w_eq_fraggrenade.sw.vtx,2383,2383
+models/weapons/w_eq_fraggrenade.vvd,10176,10176
+maps/soundcache/mg_wararena_2.cache,16,16
+materials/360/Pit Bulls Logo1.vtf,699256,699256
+materials/360/Pit Bulls Logo2.vtf,699256,699256

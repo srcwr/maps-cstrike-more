@@ -1,0 +1,25 @@
+filename,size,compressed
+materials/maps/gopro/cubemapdefault.vtf,28753,28753
+materials/maps/gopro/cubemapdefault.hdr.vtf,76528,76528
+materials/mirrorsedge/BLUE.vmt,121,121
+materials/mirrorsedge/blue.vtf,43912,43912
+materials/mirrorsedge/darkgray_dirty .vmt,240,240
+materials/mirrorsedge/darkgray_dirty.vtf,174984,174984
+materials/mirrorsedge/glass.vmt,159,159
+materials/mirrorsedge/glass.vtf,349760,349760
+materials/newmap/bluetexture.vmt,66,66
+materials/newmap/bluetexture.vtf,11144,11144
+materials/newmap/floortxt.vmt,63,63
+materials/newmap/floortxt.vtf,87616,87616
+materials/newmap/mapbypr.vmt,93,93
+materials/newmap/mapbypr.vtf,349760,349760
+materials/newmap/purpuretxt.vmt,65,65
+materials/newmap/purpuretxt.vtf,87616,87616
+materials/newmap/swmhost.vmt,93,93
+materials/newmap/swmhost.vtf,87616,87616
+materials/newmap/thanksto.vmt,94,94
+materials/newmap/thanksto.vtf,349760,349760
+materials/newmap/wallpr.vmt,61,61
+materials/newmap/wallpr.vtf,87616,87616
+materials/newmap/white_neon.vmt,104,104
+materials/newmap/white_neon.vtf,43912,43912

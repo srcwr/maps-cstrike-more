@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/dust2background/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/dust2background/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/dust2background/de_dust/tilefloor02_-1984_1952_112.vmt,137,137
+materials/maps/dust2background/de_dust/tilefloor02_-1696_2688_112.vmt,137,137
+materials/maps/dust2background/cubemapdefault.vtf,9832,9832
+materials/maps/dust2background/c-1984_1952_112.vtf,9832,9832
+materials/maps/dust2background/c-1696_2688_112.vtf,9832,9832
+materials/maps/dust2background/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/dust2background/c-1984_1952_112.hdr.vtf,76528,76528
+materials/maps/dust2background/c-1696_2688_112.hdr.vtf,76528,76528

@@ -1,0 +1,35 @@
+filename,size,compressed
+materials/maps/ba_jail_scarface_v8_d/wood/woodwall016a_0_0_0.vmt,132,132
+materials/maps/ba_jail_scarface_v8_d/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/ba_jail_scarface_v8_d/glass/offwndwb_0_0_0.vmt,212,212
+materials/maps/ba_jail_scarface_v8_d/glass/prodwndwa_0_0_0.vmt,213,213
+materials/maps/ba_jail_scarface_v8_d/tile/tilefloor011a_0_0_0.vmt,133,133
+materials/maps/ba_jail_scarface_v8_d/de_piranesi/marblefloor13_0_0_0.vmt,140,140
+materials/maps/ba_jail_scarface_v8_d/tile/tilewall007e_0_0_0.vmt,132,132
+materials/maps/ba_jail_scarface_v8_d/tile/milflr002_0_0_0.vmt,129,129
+materials/maps/ba_jail_scarface_v8_d/glass/glasswindowbreak070a_0_0_0.vmt,141,141
+materials/maps/ba_jail_scarface_v8_d/tile/tilewall006d_0_0_0.vmt,132,132
+materials/maps/ba_jail_scarface_v8_d/metal/prodventa_0_0_0.vmt,130,130
+materials/maps/ba_jail_scarface_v8_d/de_piranesi/woodfloor03_0_0_0.vmt,138,138
+materials/maps/ba_jail_scarface_v8_d/metal/citadel_metalwall072c_0_0_0.vmt,142,142
+materials/maps/ba_jail_scarface_v8_d/de_nuke/nukwater_movingplane_beneath_depth_134.vmt,124,124
+materials/maps/ba_jail_scarface_v8_d/de_nuke/nukwater_movingplane_beneath_depth_25.vmt,123,123
+materials/maps/ba_jail_scarface_v8_d/de_nuke/nukwater_movingplane_beneath_depth_68.vmt,123,123
+materials/maps/ba_jail_scarface_v8_d/de_nuke/nukwater_movingplane_beneath_depth_22.vmt,123,123
+materials/maps/ba_jail_scarface_v8_d/de_nuke/nukwater_movingplane_beneath_depth_21.vmt,123,123
+materials/maps/ba_jail_scarface_v8_d/nature/water_canals03_dx70_depth_74.vmt,113,113
+materials/maps/ba_jail_scarface_v8_d/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_scarface_v8_d/c0_0_0.vtf,9824,9824
+materials/VGUI/logos/202[1].vmt,123,123
+materials/VGUI/logos/202[1].vtf,87616,87616
+materials/VGUI/logos/Cssspray.vmt,125,125
+materials/VGUI/logos/Cssspray.vtf,87616,87616
+materials/VGUI/logos/scarface-logo.vmt,130,130
+materials/VGUI/logos/scarface-logo.vtf,87616,87616
+materials/VGUI/logos/TONY-MONTANA.vmt,129,129
+materials/VGUI/logos/TONY-MONTANA.vtf,87616,87616
+sound/his sounds/dance.wav,1642796,1642796
+sound/his sounds/fire.wav,2196174,2196174
+sound/his sounds/limit.wav,1383646,1383646
+materials/models/forlix/soccer/soccerball.vmt,100,100
+materials/models/forlix/soccer/soccerball.vtf,174984,174984

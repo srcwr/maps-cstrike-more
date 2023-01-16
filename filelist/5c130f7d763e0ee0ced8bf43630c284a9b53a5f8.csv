@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/slide_kele_easy_v1/glass/glasswindowbreak070b_-91_-10181_-343.vmt,114,114
+materials/maps/slide_kele_easy_v1/glass/prodwndwa_-91_-10181_-343.vmt,227,227
+materials/maps/slide_kele_easy_v1/glass/glasswindowbreak070b_-107_2045_-2557.vmt,114,114
+materials/maps/slide_kele_easy_v1/glass/prodwndwa_-107_2045_-2557.vmt,227,227
+materials/maps/slide_kele_easy_v1/glass/combineglass001a_-91_-10181_-343.vmt,144,144
+materials/maps/slide_kele_easy_v1/cubemapdefault.vtf,9824,9824
+materials/maps/slide_kele_easy_v1/c-91_-10181_-343.vtf,9824,9824
+materials/maps/slide_kele_easy_v1/c-107_2045_-2557.vtf,9824,9824
+materials/maps/slide_kele_easy_v1/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/slide_kele_easy_v1/c-91_-10181_-343.hdr.vtf,76520,76520
+materials/maps/slide_kele_easy_v1/c-107_2045_-2557.hdr.vtf,76520,76520
+sound/misc/kele.wav,410116,410116
+sound/misc/kele2.wav,164740,164740
+materials/vgui/logos/kele.vmt,129,129
+materials/vgui/logos/kele.vtf,43912,43912

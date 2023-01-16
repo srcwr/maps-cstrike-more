@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/bhop_dungeon_beta_d/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/bhop_dungeon_beta_d/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/bhop_dungeon_beta_d/nature/blendmilground004_2_wvt_patch.vmt,185,185
+materials/maps/bhop_dungeon_beta_d/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_dungeon_beta_d/c1271_2940_138.vtf,9832,9832
+materials/maps/bhop_dungeon_beta_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_dungeon_beta_d/c1271_2940_138.hdr.vtf,76528,76528
+materials/CUSTOM TEXTURES/FLOORHERRINGBONE0011_2_S.vmt,145,145
+materials/CUSTOM TEXTURES/CONCRETEPLATES0004_1_S.vmt,139,139
+materials/MAPS/BHOP_DUNGEON/GLASS/GLASSWINDOW070C_1271_2940_138.vmt,135,135
+materials/maps/bhop_dungeon/c1271_2940_138.vtf,4952,4952
+materials/REALWORLDTEXTURES2/GROUND/BRICK_PATH_02.vmt,386,386
+materials/RealWorldTextures2/Ground/Brick_path_02.vtf,174984,174984
+materials/RealWorldTextures2/ground/Brick_path_02_nrm.vtf,174984,174984
+materials/RealWorldTextures2/detail/dt_stone2.vtf,16807,16807
+materials/MAPS/BHOP_DUNGEON/METAL/CITADEL_METALWALL078A_1271_2940_138.vmt,141,141
+materials/MAPS/BHOP_DUNGEON/CONCRETE/CONCRETEFLOOR011A_C17_1271_2940_138.vmt,183,183
+materials/MAPS/BHOP_DUNGEON/CONCRETE/CONCRETEWALL041D_1271_2940_138.vmt,139,139
+materials/CUSTOM TEXTURES/WATERMARK2.vmt,130,130
+materials/MAPS/BHOP_DUNGEON/CONCRETE/CONCRETEFLOOR005A_1271_2940_138.vmt,140,140
+materials/REALWORLDTEXTURES2/GROUND/BRICK_PAVER_05.vmt,388,388
+materials/RealWorldTextures2/Ground/brick_paver_05.vtf,174984,174984
+materials/RealWorldTextures2/ground/brick_paver_05_nrm.vtf,174984,174984
+materials/RealWorldTextures2/detail/dt_stone1.vtf,16807,16807
+sound/whatisl2ove.wav,46900464,46900464

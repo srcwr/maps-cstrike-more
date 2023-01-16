@@ -1,0 +1,43 @@
+filename,size,compressed
+materials/CRASH BANDICOOT/METAL_CRATE_!.vmt,102,102
+materials/Crash Bandicoot/metal_crate_!.vtf,87616,87616
+materials/CRASH BANDICOOT/METAL_CRATE_NORMAL.vmt,107,107
+materials/Crash Bandicoot/metal_crate_normal.vtf,87616,87616
+materials/CRASH BANDICOOT/METAL_CRATE_Q.vmt,102,102
+materials/Crash Bandicoot/metal_crate_q.vtf,87616,87616
+materials/CRASH BANDICOOT/WOOD_CRATE_ARMORED.vmt,112,112
+materials/Crash Bandicoot/wood_crate_armored.vtf,87616,87616
+materials/CRASH BANDICOOT/WOOD_CRATE_ARROWUP.vmt,110,110
+materials/Crash Bandicoot/wood_crate_arrowup.vtf,87616,87616
+materials/CRASH BANDICOOT/WOOD_CRATE_CHECK.vmt,110,110
+materials/Crash Bandicoot/wood_crate_check.vtf,87616,87616
+materials/CRASH BANDICOOT/WOOD_CRATE_JUMP.vmt,109,109
+materials/Crash Bandicoot/wood_crate_jump.vtf,87616,87616
+materials/CRASH BANDICOOT/WOOD_CRATE_LIFE.vmt,109,109
+materials/Crash Bandicoot/wood_crate_life.vtf,87616,87616
+materials/CRASH BANDICOOT/WOOD_CRATE_MASK.vmt,109,109
+materials/Crash Bandicoot/wood_crate_mask.vtf,87616,87616
+materials/CRASH BANDICOOT/WOOD_CRATE_NORMAL.vmt,111,111
+materials/Crash Bandicoot/wood_crate_normal.vtf,87616,87616
+materials/CUSTOM/CRASH2ICE.vmt,127,127
+materials/Custom/Crash2Ice.vtf,349760,349760
+materials/CUSTOM/CRASH2ROCK5.vmt,103,103
+materials/Custom/Crash2Rock5.vtf,349760,349760
+materials/maps/gg_cb_arctic/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_cb_arctic/cubemapdefault.vtf,9832,9832
+materials/models/props_foliage/tree_deciduous_01a_trunk.vmt,170,170
+materials/models/props_foliage/tree_deciduous_01a_trunk.vtf,174968,174968
+materials/models/props_foliage/tree_pine_01_branches.vmt,201,201
+materials/models/props_foliage/tree_pine_01_branches.vtf,1398336,1398336
+models/props_foliage/tree_pine_01.dx80.vtx,18918,18918
+models/props_foliage/tree_pine_01.dx90.vtx,18918,18918
+models/props_foliage/tree_pine_01.mdl,1684,1684
+models/props_foliage/tree_pine_01.phy,1914,1914
+models/props_foliage/tree_pine_01.sw.vtx,18918,18918
+models/props_foliage/tree_pine_01.vvd,77632,77632
+models/props_foliage/tree_pine_03.dx80.vtx,15303,15303
+models/props_foliage/tree_pine_03.dx90.vtx,15303,15303
+models/props_foliage/tree_pine_03.mdl,1684,1684
+models/props_foliage/tree_pine_03.phy,1385,1385
+models/props_foliage/tree_pine_03.sw.vtx,15303,15303
+models/props_foliage/tree_pine_03.vvd,63360,63360

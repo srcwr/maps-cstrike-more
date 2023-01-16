@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/gg_sand/cubemapdefault.vtf,28753,28753
+materials/maps/gg_sand/cubemapdefault.hdr.vtf,76528,76528
+maps/gg_sand.nav,41673,41673
+materials/custom nature/sand1/sand1.vtf,43912,43912
+materials/custom nature/sand1/sand1_nrm.vtf,43912,43912
+materials/custom walls/bw2/bw2.vtf,43912,43912
+materials/custom walls/bw2/bw2_nrm.vtf,43912,43912
+materials/test1/brick2.vtf,43912,43912
+materials/test1/brick2_nrm.vtf,43912,43912
+materials/custom nature/sand1/sand1.vmt,147,147
+materials/custom walls/bw2/bw2.vmt,133,133
+materials/test1/brick2.vmt,117,117

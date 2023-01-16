@@ -1,0 +1,126 @@
+filename,size,compressed
+materials/maps/surf_illumination_final_lms05/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/surf_illumination_final_lms05/glass/combineglass001a_0_0_0.vmt,145,145
+materials/maps/surf_illumination_final_lms05/cubemapdefault.vtf,4960,4960
+materials/maps/surf_illumination_final_lms05/c0_0_0.vtf,4960,4960
+materials/maps/surf_illumination_final_lms05/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_illumination_final_lms05/c0_0_0.hdr.vtf,76528,76528
+materials/DEVNEONS/GREEN_NEON.vmt,104,104
+materials/DEVNEONS/green_neon.vtf,43912,43912
+materials/DEVNEONS/blue_neon.vmt,103,103
+materials/DEVNEONS/blue_neon.vtf,43912,43912
+materials/DEVNEONS/PURPLE_NEON.vmt,105,105
+materials/DEVNEONS/purple_neon.vtf,43912,43912
+materials/DEVNEONS/ORANGE_NEON.vmt,105,105
+materials/DEVNEONS/orange_neon.vtf,43912,43912
+materials/DEVNEONS/pink_neon.vmt,103,103
+materials/DEVNEONS/pink_neon.vtf,43912,43912
+materials/DEVNEONS/WHITE_NEON.vmt,104,104
+materials/DEVNEONS/white_neon.vtf,43912,43912
+materials/DEVNEONS/RED_NEON.vmt,102,102
+materials/DEVNEONS/red_neon.vtf,43912,43912
+materials/Colors/CL_000A.vmt,62,62
+materials/Colors/CL_000A.vtf,392,392
+materials/dev_nyro/dev_gray-03.vmt,71,71
+materials/dev_nyro/dev_gray-03.vtf,22064,22064
+materials/DEVNEONS/PURPLE_DEV_NEON.vmt,109,109
+materials/DEVNEONS/purple_dev_neon.vtf,11144,11144
+materials/DEVNEONS/GREEN_DEV_NEON.vmt,108,108
+materials/DEVNEONS/green_dev_neon.vtf,11144,11144
+materials/DEVNEONS/ORANGE_DEV_NEON.vmt,109,109
+materials/DEVNEONS/orange_dev_neon.vtf,11144,11144
+materials/DEVNEONS/RED_DEV_NEON.vmt,106,106
+materials/DEVNEONS/red_dev_neon.vtf,11144,11144
+materials/DEVNEONS/WHITE_DEV_NEON.vmt,108,108
+materials/DEVNEONS/white_dev_neon.vtf,11144,11144
+materials/DEVNEONS/pink_dev_neon.vmt,107,107
+materials/DEVNEONS/pink_dev_neon.vtf,11144,11144
+materials/DEVNEONS/BLUE_DEV_NEON.vmt,107,107
+materials/DEVNEONS/blue_dev_neon.vtf,11144,11144
+materials/Silkroad/Egypt/ground (13).vmt,93,93
+materials/Silkroad/Egypt/ground (13).vtf,87616,87616
+materials/Silkroad/Egypt/roof (4).vmt,90,90
+materials/Silkroad/Egypt/roof (4).vtf,87616,87616
+materials/Silkroad/Egypt/ground (21).vmt,93,93
+materials/Silkroad/Egypt/ground (21).vtf,87616,87616
+materials/Silkroad/Egypt/ground (8).vmt,92,92
+materials/Silkroad/Egypt/ground (8).vtf,87616,87616
+materials/Silkroad/FGWorld/tile04.vmt,95,95
+materials/Silkroad/FGWorld/tile04.vtf,349760,349760
+materials/Silkroad/Egypt/ground (22).vmt,93,93
+materials/Silkroad/Egypt/ground (22).vtf,87616,87616
+materials/genetica/Miscellaneous/Modern Art.vmt,83,83
+materials/genetica/Miscellaneous/Modern Art.vtf,349776,349776
+materials/Skyppy3/concrete_wall01a.vmt,190,190
+materials/Skyppy3/concrete_wall01a.vtf,699272,699272
+materials/Skyppy3/normals/concrete_wall01ab_normal.vtf,699272,699272
+materials/Skyppy3/concrete_floor02a.vmt,193,193
+materials/Skyppy3/concrete_floor02a.vtf,1398336,1398336
+materials/Skyppy3/normals/concrete_floor02abc_normal.vtf,699272,699272
+materials/dev_nyro/dev_gray-05.vmt,71,71
+materials/dev_nyro/dev_gray-05.vtf,22064,22064
+materials/Silkroad/Egypt/ground (4).vmt,92,92
+materials/Silkroad/Egypt/ground (4).vtf,87616,87616
+materials/falsetextures/mywhite.vmt,123,123
+materials/falsetextures/mywhite.vtf,43912,43912
+materials/Silkroad/Ground/bagh_city_tile_middle01.vmt,111,111
+materials/Silkroad/Ground/bagh_city_tile_middle01.vtf,349760,349760
+materials/Silkroad/China/jinsi_floor4_b01_07.vmt,101,101
+materials/Silkroad/China/jinsi_floor4_b01_07.vtf,87616,87616
+materials/Silkroad/China/jinsi_floor4_b01_07_02.vmt,104,104
+materials/Silkroad/China/jinsi_floor4_b01_07_02.vtf,87616,87616
+materials/genetica/Weave/Purple Vinyl Weave.vmt,83,83
+materials/genetica/Weave/Purple Vinyl Weave.vtf,349776,349776
+materials/genetica/Cloth And Upholstery/Dark Gray Cloth.vmt,95,95
+materials/genetica/Cloth And Upholstery/Dark Gray Cloth.vtf,349776,349776
+materials/Colors/CL_002C.vmt,62,62
+materials/Colors/CL_002C.vtf,392,392
+materials/skybox/falsky01up.vmt,91,91
+materials/skybox/falsky01up.vtf,699272,699272
+materials/skybox/falsky01dn.vmt,91,91
+materials/skybox/falsky01dn.vtf,699272,699272
+materials/skybox/falsky01lf.vmt,91,91
+materials/skybox/falsky01lf.vtf,699272,699272
+materials/skybox/falsky01rt.vmt,91,91
+materials/skybox/falsky01rt.vtf,699272,699272
+materials/skybox/falsky01ft.vmt,91,91
+materials/skybox/falsky01ft.vtf,699272,699272
+materials/skybox/falsky01bk.vmt,91,91
+materials/skybox/falsky01bk.vtf,699272,699272
+models/props/ramps/blueramp.mdl,2312,2312
+models/props/ramps/blueramp.vvd,88000,88000
+models/props/ramps/blueramp.dx90.vtx,16782,16782
+models/props/ramps/blueramp.dx80.vtx,16782,16782
+models/props/ramps/blueramp.sw.vtx,16782,16782
+materials/models/props/ramps/white_neon.vmt,104,104
+materials/models/props/ramps/BLUE_DEV_NEON.vmt,107,107
+materials/models/props/ramps/dev_blendmeasure.vmt,136,136
+materials/models/props/ramps/blue_neon.vmt,114,114
+models/props/ramps/greenramps.mdl,2312,2312
+models/props/ramps/greenramps.vvd,62848,62848
+models/props/ramps/greenramps.dx90.vtx,12093,12093
+models/props/ramps/greenramps.dx80.vtx,12093,12093
+models/props/ramps/greenramps.sw.vtx,12093,12093
+materials/models/props/ramps/GREEN_DEV_NEON.vmt,108,108
+materials/models/props/ramps/GREEN_NEON.vmt,104,104
+models/props/ramps/redramps.mdl,2308,2308
+models/props/ramps/redramps.vvd,184064,184064
+models/props/ramps/redramps.dx90.vtx,34857,34857
+models/props/ramps/redramps.dx80.vtx,34857,34857
+models/props/ramps/redramps.sw.vtx,34857,34857
+materials/models/props/ramps/RED_NEON.vmt,102,102
+materials/models/props/ramps/RED_DEV_NEON.vmt,106,106
+models/props/ramps/purpleramp.mdl,2316,2316
+models/props/ramps/purpleramp.vvd,26304,26304
+models/props/ramps/purpleramp.dx90.vtx,5250,5250
+models/props/ramps/purpleramp.dx80.vtx,5250,5250
+models/props/ramps/purpleramp.sw.vtx,5250,5250
+materials/models/props/ramps/PURPLE_DEV_NEON.vmt,109,109
+materials/models/props/ramps/PURPLE_NEON.vmt,105,105
+models/props/ramps/orangeramps.mdl,2316,2316
+models/props/ramps/orangeramps.vvd,40768,40768
+models/props/ramps/orangeramps.dx90.vtx,7968,7968
+models/props/ramps/orangeramps.dx80.vtx,7968,7968
+models/props/ramps/orangeramps.sw.vtx,7968,7968
+materials/models/props/ramps/ORANGE_DEV_NEON.vmt,109,109
+materials/models/props/ramps/ORANGE_NEON.vmt,105,105

@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/$2002$/tile/tilefloor010a_-120_279_79.vmt,124,124
+materials/maps/$2002$/tile/tilefloor010a_-177_432_18.vmt,124,124
+materials/maps/$2002$/glass/combineglass001a_-177_432_18.vmt,128,128
+materials/maps/$2002$/glass/combineglass001a_-120_279_79.vmt,128,128
+materials/maps/$2002$/cubemapdefault.vtf,9832,9832
+materials/maps/$2002$/c-120_279_79.vtf,9832,9832
+materials/maps/$2002$/c-177_432_18.vtf,9832,9832
+materials/maps/$2002$/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/$2002$/c-120_279_79.hdr.vtf,76528,76528
+materials/maps/$2002$/c-177_432_18.hdr.vtf,76528,76528

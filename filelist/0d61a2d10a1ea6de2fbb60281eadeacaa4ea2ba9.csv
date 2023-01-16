@@ -1,0 +1,88 @@
+filename,size,compressed
+materials/maps/evils_home prebeta/realworldtextures/grass/grassblend_wvt_patch.vmt,193,193
+materials/maps/evils_home prebeta/realworldtextures/floor/wood_floor_4_0_0_0.vmt,148,148
+materials/maps/evils_home prebeta/realworldtextures/floor/mixtile/solid/green1_0_0_0.vmt,156,156
+materials/maps/evils_home prebeta/de_dust/tilefloor02_0_0_0.vmt,131,131
+materials/maps/evils_home prebeta/realworldtextures/glass_break_0_0_0.vmt,164,164
+materials/maps/evils_home prebeta/realworldtextures/glass_0_0_0.vmt,218,218
+materials/maps/evils_home prebeta/dev/dev_water5_0_0_0.vmt,149,149
+materials/maps/evils_home prebeta/dev/dev_water5_depth_30.vmt,101,101
+materials/maps/evils_home prebeta/dev/dev_water5_depth_41.vmt,101,101
+materials/maps/evils_home prebeta/dev/dev_water5_depth_496.vmt,102,102
+materials/maps/evils_home prebeta/dev/dev_water5_depth_32.vmt,101,101
+materials/maps/evils_home prebeta/cubemapdefault.vtf,28753,28753
+materials/maps/evils_home prebeta/c0_0_0.vtf,28753,28753
+materials/maps/evils_home prebeta/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/evils_home prebeta/c0_0_0.hdr.vtf,76528,76528
+materials/crysis.vmt,54,54
+materials/crysis.vtf,1398264,1398264
+materials/css.vmt,51,51
+materials/css.vtf,87544,87544
+materials/dark.vmt,52,52
+materials/dark.vtf,87544,87544
+materials/emily.vmt,53,53
+materials/emily.vtf,174984,174984
+materials/front.vmt,53,53
+materials/front.vtf,43912,43912
+materials/kickass.vmt,55,55
+materials/kickass.vtf,174984,174984
+materials/kill.vmt,52,52
+materials/kill.vtf,174984,174984
+materials/losers.vmt,54,54
+materials/losers.vtf,349688,349688
+materials/mj.vmt,50,50
+materials/mj.vtf,87544,87544
+materials/mw2.vmt,51,51
+materials/mw2.vtf,1398264,1398264
+materials/nuts.vmt,52,52
+materials/nuts.vtf,699272,699272
+materials/qmuse.vmt,53,53
+materials/qmuse.vtf,699272,699272
+materials/sherlock.vmt,56,56
+materials/sherlock.vtf,2796424,2796424
+materials/simianbanner.vmt,60,60
+materials/simianbanner.vtf,87552,87552
+materials/streetfighter.vmt,61,61
+materials/streetfighter.vtf,5592568,5592568
+materials/tmfgaming.vmt,76,76
+materials/tmfgaming.vtf,349696,349696
+materials/top1.vmt,52,52
+materials/top1.vtf,87552,87552
+materials/vikki.vmt,53,53
+materials/vikki.vtf,699272,699272
+materials/white_metal.vmt,84,84
+materials/white_metal.vtf,174984,174984
+materials/white_paint.vmt,83,83
+materials/white_paint.vtf,174984,174984
+materials/white_shade.vmt,84,84
+materials/white_shade.vtf,174984,174984
+materials/white_shade2.vmt,85,85
+materials/white_shade_brick.vmt,90,90
+materials/white_shade_wood.vmt,94,94
+materials/white_wood.vmt,88,88
+materials/xp.vmt,50,50
+materials/xp.vtf,349688,349688
+materials/DVD/crysis_back.vmt,63,63
+materials/DVD/crysis_back.vtf,349688,349688
+materials/DVD/crysis_dvd.vmt,62,62
+materials/DVD/crysis_dvd.vtf,43912,43912
+materials/DVD/crysis_side.vmt,63,63
+materials/DVD/crysis_side.vtf,22008,22008
+materials/DVD/css_back.vmt,60,60
+materials/DVD/css_back.vtf,87544,87544
+materials/DVD/css_dvd.vmt,59,59
+materials/DVD/css_dvd.vtf,87544,87544
+materials/DVD/css_side.vmt,60,60
+materials/DVD/css_side.vtf,22008,22008
+materials/DVD/dvd_side.vmt,60,60
+materials/DVD/dvd_side.vtf,43896,43896
+materials/DVD/dvd_slot.vmt,60,60
+materials/DVD/dvd_slot.vtf,43896,43896
+materials/DVD/mw2_dvd.vmt,59,59
+materials/DVD/mw2_dvd.vtf,87544,87544
+materials/DVD/mw2_side.vmt,60,60
+materials/DVD/mw2_side.vtf,11128,11128
+materials/DVD/work.vmt,56,56
+materials/DVD/work.vtf,87544,87544
+sound/Heavy_eats_his_Sandwich_in_one_Bite.wav,1368108,1368108
+sound/Kirby S7.wav,2134060,2134060

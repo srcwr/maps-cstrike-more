@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/jld_valley/nature/blendcliffgrass001a_wvt_patch.vmt,332,332
+materials/maps/jld_valley/nature/water_coast02_2492_3332_-1548.vmt,157,157
+materials/maps/jld_valley/metal/metalceiling005a_2492_3332_-1548.vmt,136,136
+materials/maps/jld_valley/glass/glasswindow070a_2492_3332_-1548.vmt,135,135
+materials/maps/jld_valley/metal/citadel_metalwall076a_2492_3332_-1548.vmt,141,141
+materials/maps/jld_valley/wood/woodwall009a_2492_3332_-1548.vmt,131,131
+materials/maps/jld_valley/glass/glasswindowbreak070b_2492_3332_-1548.vmt,114,114
+materials/maps/jld_valley/glass/offwndwb_2492_3332_-1548.vmt,210,210
+materials/maps/jld_valley/environment maps/pipemetal004b_2492_3332_-1548.vmt,144,144
+materials/maps/jld_valley/cs_havana/door04_2492_3332_-1548.vmt,130,130
+materials/maps/jld_valley/maps/jld_valley/nature/water_coast02_2492_3332_-1548_depth_639.vmt,140,140
+materials/maps/jld_valley/cubemapdefault.vtf,28753,28753
+materials/maps/jld_valley/c2492_3332_-1548.vtf,28753,28753
+materials/maps/jld_valley/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jld_valley/c2492_3332_-1548.hdr.vtf,76528,76528
+models/props/logo_awp.mdl,1732,1732
+models/props/logo_awp.dx80.vtx,80628,80628
+models/props/logo_awp.dx90.vtx,80628,80628
+models/props/logo_awp.sw.vtx,80628,80628
+models/props/logo_awp.phy,1562,1562
+models/props/logo_awp.vvd,364032,364032
+materials/props/logoAWP.vmt,89,89
+materials/props/logoAWP.vtf,174984,174984
+materials/props/logoAWP.vmt,89,89
+materials/props/logoAWP.vtf,174984,174984

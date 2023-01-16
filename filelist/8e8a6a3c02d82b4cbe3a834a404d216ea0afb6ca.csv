@@ -1,0 +1,38 @@
+filename,size,compressed
+materials/maps/tdm_shipment/nature/sandfloor010a_-512_-640_192.vmt,134,134
+materials/maps/tdm_shipment/metal/offelevdrsa_449_-704_192.vmt,130,130
+materials/maps/tdm_shipment/metal/offelevdrsa_-512_-640_192.vmt,131,131
+materials/maps/tdm_shipment/metal/metalwall018e_-512_-640_192.vmt,172,172
+materials/maps/tdm_shipment/metal/metalroof008a_-512_-640_192.vmt,133,133
+materials/maps/tdm_shipment/concrete/concretefloor011a_c17_-512_-640_192.vmt,183,183
+materials/maps/tdm_shipment/metal/metaldoor018a_449_-704_192.vmt,132,132
+materials/maps/tdm_shipment/de_chateau/cnstrcttarp_-512_256_192.vmt,135,135
+materials/maps/tdm_shipment/de_chateau/cnstrcttarpb_-512_256_192.vmt,136,136
+materials/maps/tdm_shipment/de_chateau/cnstrcttarpb_448_256_192.vmt,135,135
+materials/maps/tdm_shipment/environment maps/pipemetal004b_449_-704_192.vmt,143,143
+materials/maps/tdm_shipment/environment maps/pipemetal004b_-512_256_192.vmt,143,143
+materials/maps/tdm_shipment/environment maps/pipemetal004b_32_-192_192.vmt,142,142
+materials/maps/tdm_shipment/environment maps/pipemetal004b_-512_-640_192.vmt,144,144
+materials/maps/tdm_shipment/environment maps/pipemetal004b_448_256_192.vmt,142,142
+materials/maps/tdm_shipment/metal/metalceiling005a_449_-704_192.vmt,135,135
+materials/maps/tdm_shipment/building_template/building_template007i_448_256_192.vmt,151,151
+materials/maps/tdm_shipment/building_template/building_template007i_-512_256_192.vmt,152,152
+materials/maps/tdm_shipment/building_template/building_template007j_-512_256_192.vmt,152,152
+materials/maps/tdm_shipment/building_template/building_template007h_448_256_192.vmt,151,151
+materials/maps/tdm_shipment/building_template/building_template007j_448_256_192.vmt,151,151
+materials/maps/tdm_shipment/building_template/building_template007i_449_-704_192.vmt,152,152
+materials/maps/tdm_shipment/building_template/building_template007j_449_-704_192.vmt,152,152
+materials/maps/tdm_shipment/building_template/building_template007h_449_-704_192.vmt,152,152
+materials/maps/tdm_shipment/nature/water_canals03_dx70_depth_32.vmt,113,113
+materials/maps/tdm_shipment/cubemapdefault.vtf,28753,28753
+materials/maps/tdm_shipment/c-512_-640_192.vtf,28753,28753
+materials/maps/tdm_shipment/c449_-704_192.vtf,28753,28753
+materials/maps/tdm_shipment/c-512_256_192.vtf,28753,28753
+materials/maps/tdm_shipment/c448_256_192.vtf,28753,28753
+materials/maps/tdm_shipment/c32_-192_192.vtf,28753,28753
+materials/maps/tdm_shipment/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/tdm_shipment/c-512_-640_192.hdr.vtf,76528,76528
+materials/maps/tdm_shipment/c449_-704_192.hdr.vtf,76528,76528
+materials/maps/tdm_shipment/c-512_256_192.hdr.vtf,76528,76528
+materials/maps/tdm_shipment/c448_256_192.hdr.vtf,76528,76528
+materials/maps/tdm_shipment/c32_-192_192.hdr.vtf,76528,76528

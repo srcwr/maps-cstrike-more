@@ -1,0 +1,19 @@
+filename,size,compressed
+materials/maps/disco_dance/dev/dev_water2_depth_10.vmt,101,101
+materials/maps/disco_dance/cubemapdefault.vtf,28753,28753
+materials/maps/disco_dance/cubemapdefault.hdr.vtf,76528,76528
+materials/CUSTOM/PLAY.vmt,59,59
+materials/custom/play.vtf,87600,87600
+materials/CUSTOM/ON.vmt,57,57
+materials/custom/on.vtf,87600,87600
+materials/CUSTOM/OFF.vmt,58,58
+materials/custom/off.vtf,87600,87600
+materials/CUSTOM/STOP.vmt,59,59
+materials/custom/stop.vtf,87600,87600
+sound/10 - rockin' radio.wav,42932932,42932932
+sound/7 - hero on video.wav,39288004,39288004
+sound/14 - power & glory.wav,36196036,36196036
+"sound/10 - barbara ann,long tall sally.wav",18634956,18634956
+sound/lmfao - sorry for party rocking hd.wav,35887148,35887148
+sound/03. you're the voice (radio edit).wav,38071500,38071500
+maps/soundcache/disco_dance.cache,132744,132744

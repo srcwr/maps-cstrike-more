@@ -1,0 +1,91 @@
+filename,size,compressed
+materials/maps/gg_rats_nest_a1/glass/unbreakable_1050_0_-135.vmt,132,132
+materials/maps/gg_rats_nest_a1/cubemapdefault.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c1050_0_-135.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c396_843_-209.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c403_366_-81.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c-16_367_-81.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c-504_5_-217.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c23_-2_-217.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c715_5_-217.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c404_0_-81.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c420_-366_-81.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c-10_-366_-81.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c420_1140_-81.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c421_-1138_-81.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c413_-752_-204.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/c420_-366_-253.vtf,28753,28753
+materials/maps/gg_rats_nest_a1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c1050_0_-135.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c396_843_-209.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c403_366_-81.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c-16_367_-81.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c-504_5_-217.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c23_-2_-217.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c715_5_-217.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c404_0_-81.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c420_-366_-81.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c-10_-366_-81.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c420_1140_-81.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c421_-1138_-81.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c413_-752_-204.hdr.vtf,76528,76528
+materials/maps/gg_rats_nest_a1/c420_-366_-253.hdr.vtf,76528,76528
+materials/custom/violation_decal.vtf,22016,22016
+materials/halo 3 texture pack/docks/docks_metal_rust_001.vtf,1398308,1398308
+materials/halo 3 texture pack/midship/midship_metal_002.vtf,1398308,1398308
+materials/halo 3 texture pack/midship/midship_panel_blue_002.vtf,1398308,1398308
+materials/halo 3 texture pack/warehouse/warehouse_metal_wall_yellow.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_brick_wall.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_brick_wall_bump.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_concrete_floor_bump.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_concrete_floor_smooth_diffuse.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_concrete_pillar_diffuse.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_concrete_poured_wall_02_blue_diffuse.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_concrete_poured_wall_02_diffuse.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_concrete_poured_wall_02_red_diffuse.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_concrete_wall_ext.vtf,5592612,5592612
+materials/halo 3 texture pack/armory/armory_hb_metal_floor_panel_02.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_hb_metal_floor_panel_02_bump.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_metal_diamond_plated_diffuse.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_metal_factory_ibeam_diff.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_metal_fencepost.vtf,1398308,1398308
+materials/halo 3 texture pack/armory/armory_road_diffuse.vtf,2796348,2796348
+materials/additionaldevtextures/dev_surface_brown.vmt,112,112
+materials/additionaldevtextures/dev_surface_brown.vtf,11144,11144
+materials/custom/violation_decal.vmt,70,70
+materials/halo 3 texture pack/armory/armory_brick_wall.vmt,210,210
+materials/halo 3 texture pack/armory/armory_concrete_floor_smooth_diffuse.vmt,233,233
+materials/halo 3 texture pack/armory/armory_concrete_pillar_diffuse.vmt,158,158
+materials/halo 3 texture pack/armory/armory_concrete_poured_wall_02_blue_diffuse.vmt,171,171
+materials/halo 3 texture pack/armory/armory_concrete_poured_wall_02_diffuse.vmt,166,166
+materials/halo 3 texture pack/armory/armory_concrete_poured_wall_02_red_diffuse.vmt,170,170
+materials/halo 3 texture pack/armory/armory_concrete_wall_ext.vmt,152,152
+materials/halo 3 texture pack/armory/armory_hb_metal_floor_panel_02.vmt,233,233
+materials/halo 3 texture pack/armory/armory_metal_diamond_plated_diffuse.vmt,234,234
+materials/halo 3 texture pack/armory/armory_metal_factory_ibeam_diff.vmt,229,229
+materials/halo 3 texture pack/armory/armory_metal_fencepost.vmt,147,147
+materials/halo 3 texture pack/armory/armory_road_diffuse.vmt,144,144
+materials/halo 3 texture pack/docks/docks_metal_rust_001.vmt,144,144
+materials/halo 3 texture pack/midship/midship_metal_002.vmt,162,162
+materials/halo 3 texture pack/midship/midship_panel_blue_002.vmt,167,167
+materials/halo 3 texture pack/warehouse/warehouse_metal_wall_yellow.vmt,155,155
+materials/halo_textures/halo_crate_side.vmt,102,102
+materials/halo_textures/halo_crate_side.vtf,699272,699272
+materials/halo_textures/halo_crate_top.vmt,101,101
+materials/halo_textures/halo_crate_top.vtf,174984,174984
+materials/halo_textures/halo_floor005.vmt,100,100
+materials/halo_textures/halo_floor005.vtf,174984,174984
+materials/models/halo/props 2.0/ghost.vmt,354,354
+materials/models/halo/props 2.0/ghost_dash_meter.vmt,323,323
+materials/models/halo/props 2.0/torn_up.vmt,359,359
+materials/models/halo/props 2.0/ghost.vtf,1398308,1398308
+materials/models/halo/props 2.0/ghost_bump.vtf,1398308,1398308
+materials/models/halo/props 2.0/ghost_dash_meter.vtf,87588,87588
+materials/models/halo/props 2.0/torn_up.vtf,349732,349732
+materials/models/halo/props 2.0/torn_up_bump.vtf,349732,349732
+models/ghost_beatup.dx80.vtx,144773,144773
+models/ghost_beatup.dx90.vtx,144773,144773
+models/ghost_beatup.sw.vtx,144669,144669
+models/ghost_beatup.phy,5681,5681
+models/ghost_beatup.vvd,757824,757824
+models/ghost_beatup.mdl,5888,5888

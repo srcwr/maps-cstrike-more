@@ -1,0 +1,80 @@
+filename,size,compressed
+materials/maps/surf_ski_2_source/environment maps/pipemetal004b_-5906_-2893_2060.vmt,152,152
+materials/maps/surf_ski_2_source/environment maps/pipemetal004b_-5648_3409_2007.vmt,151,151
+materials/maps/surf_ski_2_source/environment maps/pipemetal004b_-3144_1874_-913.vmt,151,151
+materials/maps/surf_ski_2_source/environment maps/pipemetal001a_-3144_1874_-913.vmt,151,151
+materials/maps/surf_ski_2_source/environment maps/pipemetal001a_-1007_603_2328.vmt,150,150
+materials/maps/surf_ski_2_source/dev/dev_water2_-1023_-1430_-344.vmt,159,159
+materials/maps/surf_ski_2_source/glass/glasswindow007a_-1023_-1430_-344.vmt,143,143
+materials/maps/surf_ski_2_source/vehicle/rubbertrainfloor001a_-3144_1874_-913.vmt,149,149
+materials/maps/surf_ski_2_source/vehicle/rubbertrainfloor001a_1008_1464_-254.vmt,148,148
+materials/maps/surf_ski_2_source/vehicle/rubbertrainfloor001a_-5648_3409_2007.vmt,149,149
+materials/maps/surf_ski_2_source/environment maps/pipemetal001a_-999_2906_847.vmt,149,149
+materials/maps/surf_ski_2_source/environment maps/pipemetal001a_-5648_3409_2007.vmt,151,151
+materials/maps/surf_ski_2_source/concrete/concretefloor011a_c17_-3144_1874_-913.vmt,190,190
+materials/maps/surf_ski_2_source/concrete/concretefloor011a_c17_1008_1464_-254.vmt,189,189
+materials/maps/surf_ski_2_source/concrete/concretefloor011a_c17_-5648_3409_2007.vmt,190,190
+materials/maps/surf_ski_2_source/concrete/concretefloor011a_c17_-999_2906_847.vmt,188,188
+materials/maps/surf_ski_2_source/environment maps/pipemetal001a_1008_1464_-254.vmt,150,150
+materials/maps/surf_ski_2_source/glass/unbreakable_-3144_1874_-913.vmt,138,138
+materials/maps/surf_ski_2_source/glass/unbreakable_-999_2906_847.vmt,136,136
+materials/maps/surf_ski_2_source/glass/unbreakable_1008_1464_-254.vmt,137,137
+materials/maps/surf_ski_2_source/environment maps/pipemetal004b_2805_272_1508.vmt,149,149
+materials/maps/surf_ski_2_source/environment maps/pipemetal004b_2784_627_-334.vmt,149,149
+materials/maps/surf_ski_2_source/environment maps/pipemetal004b_1008_1464_-254.vmt,150,150
+materials/maps/surf_ski_2_source/environment maps/pipemetal004b_2792_148_-1468.vmt,150,150
+materials/maps/surf_ski_2_source/effects/com_shield003a_-5906_-2893_2060.vmt,167,167
+materials/maps/surf_ski_2_source/effects/com_shield003a_-5504_-2922_2033.vmt,167,167
+materials/maps/surf_ski_2_source/effects/com_shield003a_-1007_603_2328.vmt,165,165
+materials/maps/surf_ski_2_source/effects/com_shield003a_-2983_-534_-412.vmt,166,166
+materials/maps/surf_ski_2_source/effects/com_shield003a_-5648_3409_2007.vmt,166,166
+materials/maps/surf_ski_2_source/effects/com_shield003a_-3144_1874_-913.vmt,166,166
+materials/maps/surf_ski_2_source/effects/com_shield003a_-1023_-1430_-344.vmt,167,167
+materials/maps/surf_ski_2_source/maps/surf_ski_2_source/dev/dev_water2_-1023_-1430_-344_depth_93.vmt,141,141
+materials/maps/surf_ski_2_source/cubemapdefault.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-5906_-2893_2060.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-5648_3409_2007.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-3144_1874_-913.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-1007_603_2328.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-1023_-1430_-344.vtf,4960,4960
+materials/maps/surf_ski_2_source/c1008_1464_-254.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-999_2906_847.vtf,4960,4960
+materials/maps/surf_ski_2_source/c2805_272_1508.vtf,4960,4960
+materials/maps/surf_ski_2_source/c2784_627_-334.vtf,4960,4960
+materials/maps/surf_ski_2_source/c2792_148_-1468.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-5504_-2922_2033.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-2983_-534_-412.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-1007_-70_-910.vtf,4960,4960
+materials/maps/surf_ski_2_source/c-1023_-1430_-1.vtf,4960,4960
+materials/maps/surf_ski_2_source/c1022_-1696_162.vtf,4960,4960
+materials/maps/surf_ski_2_source/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-5906_-2893_2060.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-5648_3409_2007.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-3144_1874_-913.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-1007_603_2328.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-1023_-1430_-344.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c1008_1464_-254.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-999_2906_847.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c2805_272_1508.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c2784_627_-334.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c2792_148_-1468.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-5504_-2922_2033.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-2983_-534_-412.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-1007_-70_-910.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c-1023_-1430_-1.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_source/c1022_-1696_162.hdr.vtf,76528,76528
+materials/skybox/mpa104up.vmt,85,85
+materials/skybox/mpa104up.vtf,699272,699272
+materials/skybox/mpa104dn.vmt,85,85
+materials/skybox/mpa104dn.vtf,699272,699272
+materials/skybox/mpa104ft.vmt,85,85
+materials/skybox/mpa104ft.vtf,699272,699272
+materials/skybox/mpa104bk.vmt,85,85
+materials/skybox/mpa104bk.vtf,699272,699272
+materials/skybox/mpa104lf.vmt,85,85
+materials/skybox/mpa104lf.vtf,699272,699272
+materials/skybox/mpa104rt.vmt,85,85
+materials/skybox/mpa104rt.vtf,699272,699272
+materials/overviews/surf_ski_2_source.vmt,144,144
+materials/overviews/surf_ski_2_source.vtf,5592612,5592612
+G:/Gry/Steam/steamapps/soudsnake/counter-strike source/cstrike/resource/overviews/surf_ski_2_source.txt,331,331

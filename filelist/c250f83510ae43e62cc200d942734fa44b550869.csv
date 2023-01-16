@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/de_amigo/cubemapdefault.vtf,9832,9832
+materials/maps/de_amigo/cubemapdefault.hdr.vtf,76528,76528
+materials/AMIGO_GENERIC_WALL.vmt,66,66
+materials/amigo_generic_wall.vtf,11144,11144
+materials/AMIGO_GENERIC_FLOOR.vmt,67,67
+materials/amigo_generic_floor.vtf,11144,11144
+materials/AMIGO_GENERIC_COVER.vmt,67,67
+materials/amigo_generic_cover.vtf,11144,11144
+materials/AMIGO_GENERIC_BANGABLE.vmt,70,70
+materials/amigo_generic_bangable.vtf,11144,11144
+resource/overviews/de_amigo.txt,605,605
+materials/overviews/de_amigo_radar.vmt,140,140
+materials/overviews/de_amigo.vtf,524496,524496

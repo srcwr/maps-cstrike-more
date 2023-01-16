@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/aim_2way_v2/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/aim_2way_v2/metal/citadel_metalwall076a_0_-320_-64.vmt,137,137
+materials/maps/aim_2way_v2/metal/citadel_metalwall076a_0_320_-64.vmt,136,136
+materials/maps/aim_2way_v2/metal/citadel_metalwall076a_320_0_-64.vmt,136,136
+materials/maps/aim_2way_v2/metal/citadel_metalwall076a_-320_0_-64.vmt,137,137
+materials/maps/aim_2way_v2/cubemapdefault.vtf,28753,28753
+materials/maps/aim_2way_v2/c0_-320_-64.vtf,28753,28753
+materials/maps/aim_2way_v2/c0_320_-64.vtf,28753,28753
+materials/maps/aim_2way_v2/c320_0_-64.vtf,28753,28753
+materials/maps/aim_2way_v2/c-320_0_-64.vtf,28753,28753
+materials/maps/aim_2way_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_2way_v2/c0_-320_-64.hdr.vtf,76528,76528
+materials/maps/aim_2way_v2/c0_320_-64.hdr.vtf,76528,76528
+materials/maps/aim_2way_v2/c320_0_-64.hdr.vtf,76528,76528
+materials/maps/aim_2way_v2/c-320_0_-64.hdr.vtf,76528,76528

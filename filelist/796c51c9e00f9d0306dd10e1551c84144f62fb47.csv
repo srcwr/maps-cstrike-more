@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/$2002$/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/$2002$/cubemapdefault.vtf,9832,9832
+materials/maps/$2002$/cubemapdefault.hdr.vtf,76528,76528
+models/maxofs2d/terrain_alpine_default.mdl,1664,1664
+models/maxofs2d/terrain_alpine_default.dx80.vtx,218868,218868
+models/maxofs2d/terrain_alpine_default.dx90.vtx,218868,218868
+models/maxofs2d/terrain_alpine_default.sw.vtx,218868,218868
+models/maxofs2d/terrain_alpine_default.vvd,669824,669824
+materials/MaxOfS2D/models/terrain_alpine_default.vmt,335,335
+materials/MaxOfS2D/models/terrain_alpine_default.vtf,4194511,4194511
+materials/MaxOfS2D/models/terrain_alpine_default_normal.vtf,1048783,1048783
+materials/MaxOfS2D/models/terrain_alpine_lightwarp.vtf,8365,8365

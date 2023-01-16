@@ -1,0 +1,38 @@
+filename,size,compressed
+materials/maps/bhop_amethyst/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/bhop_amethyst/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_amethyst/cubemapdefault.hdr.vtf,76528,76528
+materials/simple/amethyst.vmt,84,84
+materials/simple/amethyst.vtf,11144,11144
+materials/simple/black.vmt,81,81
+materials/simple/black.vtf,11144,11144
+materials/simple/blue.vmt,80,80
+materials/simple/blue.vtf,11144,11144
+materials/simple/dark red.vmt,84,84
+materials/simple/dark red.vtf,11144,11144
+materials/simple/end.vmt,79,79
+materials/simple/end.vtf,43912,43912
+materials/simple/gray.vmt,80,80
+materials/simple/gray.vtf,11144,11144
+materials/simple/green.vmt,81,81
+materials/simple/green.vtf,11144,11144
+materials/simple/iris.vmt,80,80
+materials/simple/iris.vtf,11144,11144
+materials/simple/lilac.vmt,81,81
+materials/simple/lilac.vtf,11144,11144
+materials/simple/orange.vmt,82,82
+materials/simple/orange.vtf,11144,11144
+materials/simple/peach.vmt,81,81
+materials/simple/peach.vtf,11144,11144
+materials/simple/purple.vmt,82,82
+materials/simple/purple.vtf,11144,11144
+materials/simple/red.vmt,79,79
+materials/simple/red.vtf,11144,11144
+materials/simple/tan stripe.vmt,86,86
+materials/simple/tan stripe.vtf,174984,174984
+materials/simple/tan.vmt,79,79
+materials/simple/tan.vtf,11144,11144
+materials/simple/text.vmt,80,80
+materials/simple/text.vtf,11144,11144
+materials/simple/white.vmt,81,81
+materials/simple/white.vtf,11144,11144

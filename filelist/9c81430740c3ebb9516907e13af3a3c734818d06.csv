@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/gg_acidbath/metal/citadel_tilewall005a_670_111_342.vmt,137,137
+materials/maps/gg_acidbath/metal/citadel_metalwall063a_cheap_670_111_342.vmt,144,144
+materials/maps/gg_acidbath/metal/citadel_metalwall090a_670_111_342.vmt,138,138
+materials/maps/gg_acidbath/metal/citadel_metalwall078a_670_111_342.vmt,138,138
+materials/maps/gg_acidbath/metal/citadel_metalwall072c_670_111_342.vmt,138,138
+materials/maps/gg_acidbath/shadertest/water_refract_only_670_111_342.vmt,163,163
+materials/maps/gg_acidbath/shadertest/water_refract_only_nofresnel_670_111_342.vmt,173,173
+materials/maps/gg_acidbath/maps/gg_acidbath/shadertest/water_refract_only_nofresnel_670_111_342_depth_45.vmt,155,155
+materials/maps/gg_acidbath/maps/gg_acidbath/shadertest/water_refract_only_nofresnel_670_111_342_depth_42.vmt,155,155
+materials/maps/gg_acidbath/cubemapdefault.vtf,9824,9824
+materials/maps/gg_acidbath/c670_111_342.vtf,9824,9824

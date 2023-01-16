@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/gg_aztec/de_aztec/swampground_blend_wvt_patch.vmt,354,354
+materials/maps/gg_aztec/liquids/aztecwater_1408_896_216.vmt,150,150
+materials/maps/gg_aztec/de_aztec/swampground_blend_768_896_216.vmt,134,134
+materials/maps/gg_aztec/de_aztec/road01_1408_896_216.vmt,124,124
+materials/maps/gg_aztec/de_aztec/road01_768_896_216.vmt,123,123
+materials/maps/gg_aztec/de_aztec/swampground_blend_1408_896_216.vmt,135,135
+materials/maps/gg_aztec/liquids/aztecwater_768_896_216.vmt,149,149
+materials/maps/gg_aztec/maps/gg_aztec/liquids/aztecwater_1408_896_216_depth_63.vmt,132,132
+materials/maps/gg_aztec/cubemapdefault.vtf,9832,9832
+materials/maps/gg_aztec/c1408_896_216.vtf,4968,4968
+materials/maps/gg_aztec/c768_896_216.vtf,4968,4968
+materials/maps/gg_aztec/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_aztec/c1408_896_216.hdr.vtf,76528,76528
+materials/maps/gg_aztec/c768_896_216.hdr.vtf,76528,76528

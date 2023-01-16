@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/aim_sym/liquids/militiawater_-23_-31_-43.vmt,150,150
+materials/maps/aim_sym/maps/aim_sym/liquids/militiawater_-23_-31_-43_depth_128.vmt,133,133
+materials/maps/aim_sym/cubemapdefault.vtf,9824,9824
+materials/maps/aim_sym/c-23_-31_-43.vtf,9824,9824
+materials/maps/aim_sym/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/aim_sym/c-23_-31_-43.hdr.vtf,76520,76520
+materials/DEV/DEV_MEASUREGENERIC03.vmt,93,93
+materials/dev/dev_measuregeneric03.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC21.vmt,93,93
+materials/dev/dev_measuregeneric21.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC41.vmt,93,93
+materials/dev/dev_measuregeneric41.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC45.vmt,93,93
+materials/dev/dev_measuregeneric45.vtf,11144,11144
+maps/aim_sym.nav,283175,283175
+maps/soundcache/aim_sym.cache,298475,298475

@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/bhop_test_v1a4/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/bhop_test_v1a4/dev/dev_water2_2432_480_80.vmt,151,151
+materials/maps/bhop_test_v1a4/glass/combineglass001a_2432_480_80.vmt,136,136
+materials/maps/bhop_test_v1a4/effects/com_shield003a_2432_480_80.vmt,159,159
+materials/maps/bhop_test_v1a4/effects/combineshield/comshieldwall_2432_480_80.vmt,172,172
+materials/maps/bhop_test_v1a4/maps/bhop_test_v1a4/dev/dev_water2_2432_480_80_depth_12.vmt,133,133
+materials/maps/bhop_test_v1a4/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_test_v1a4/c2432_480_80.vtf,28753,28753
+materials/maps/bhop_test_v1a4/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_test_v1a4/c2432_480_80.hdr.vtf,76528,76528

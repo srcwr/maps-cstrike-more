@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/fy_poolparty_fan_v2/dev/dev_water2_-128_-96_72.vmt,156,156
+materials/maps/fy_poolparty_fan_v2/tile/milflr002_-128_-96_72.vmt,133,133
+materials/maps/fy_poolparty_fan_v2/tile/tilefloor012a_-128_-96_72.vmt,137,137
+materials/maps/fy_poolparty_fan_v2/tile/tilefloor021a_-128_-96_72.vmt,137,137
+materials/maps/fy_poolparty_fan_v2/glass/glasswindowbreak070b_-128_-96_72.vmt,114,114
+materials/maps/fy_poolparty_fan_v2/glass/offwndwb_-128_-96_72.vmt,220,220
+materials/maps/fy_poolparty_fan_v2/maps/fy_poolparty_fan_v2/dev/dev_water2_-128_-96_72_depth_60.vmt,138,138
+materials/maps/fy_poolparty_fan_v2/maps/fy_poolparty_fan_v2/dev/dev_water2_-128_-96_72_depth_160.vmt,139,139
+materials/maps/fy_poolparty_fan_v2/cubemapdefault.vtf,9824,9824
+materials/maps/fy_poolparty_fan_v2/c-128_-96_72.vtf,9824,9824
+materials/maps/fy_poolparty_fan_v2/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/fy_poolparty_fan_v2/c-128_-96_72.hdr.vtf,76520,76520

@@ -1,0 +1,22 @@
+filename,size,compressed
+materials/maps/ze_paycheck_b1/cubemapdefault.vtf,28753,28753
+materials/maps/ze_paycheck_b1/cubemapdefault.hdr.vtf,76528,76528
+materials/models/props_mall/cash_register.vmt,80,80
+materials/models/props_mall/cash_register.vtf,43936,43936
+materials/pay/mc donalds.vmt,62,62
+materials/pay/mc donalds.vtf,174904,174904
+models/props_mall/cash_register.dx80.vtx,14296,14296
+models/props_mall/cash_register.dx90.vtx,14296,14296
+models/props_mall/cash_register.mdl,1744,1744
+models/props_mall/cash_register.phy,1003,1003
+models/props_mall/cash_register.vtx,14280,14280
+models/props_mall/cash_register.vvd,70528,70528
+models/props_mall/cash_register_0_78x.dx80.vtx,14280,14280
+models/props_mall/cash_register_0_78x.dx90.vtx,14280,14280
+models/props_mall/cash_register_0_78x.mdl,1756,1756
+models/props_mall/cash_register_0_78x.phy,1004,1004
+models/props_mall/cash_register_0_78x.sw.vtx,14280,14280
+models/props_mall/cash_register_0_78x.vvd,70528,70528
+sound/im loving.mp3,67216,67216
+sound/sanford_and_son_intro.mp3,808226,808226
+sound/sound.cache,126,126

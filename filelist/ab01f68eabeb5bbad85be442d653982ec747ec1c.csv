@@ -1,0 +1,56 @@
+filename,size,compressed
+materials/maps/surf_ragequit/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/surf_ragequit/de_piranesi/walltrim01_2556_-3424_-3012.vmt,140,140
+materials/maps/surf_ragequit/dev/dev_water2_5354_-3630_-4096.vmt,155,155
+materials/maps/surf_ragequit/dev/dev_water2_2556_-3424_-3012.vmt,155,155
+materials/maps/surf_ragequit/stone/stonefloor008a_5354_-3630_-4096.vmt,138,138
+materials/maps/surf_ragequit/de_piranesi/walltrim01_5354_-3630_-4096.vmt,140,140
+materials/maps/surf_ragequit/stone/stonefloor008a_2556_-3424_-3012.vmt,138,138
+materials/maps/surf_ragequit/metal/citadel_tilefloor016a_2556_-3424_-3012.vmt,145,145
+materials/maps/surf_ragequit/metal/metalwall045a_5354_-3630_-4096.vmt,137,137
+materials/maps/surf_ragequit/metal/metalwall045a_2556_-3424_-3012.vmt,137,137
+materials/maps/surf_ragequit/vbd/pack 2 remnont/remn_confloor1_5354_-3630_-4096.vmt,151,151
+materials/maps/surf_ragequit/vbd/pack 2 remnont/remn_confloor1_2556_-3424_-3012.vmt,151,151
+materials/maps/surf_ragequit/glass/unbreakable_5354_-3630_-4096.vmt,135,135
+materials/maps/surf_ragequit/metal/citadel_tilefloor016a_cheap_2556_-3424_-3012.vmt,151,151
+materials/maps/surf_ragequit/metal/metalwall048a_2556_-3424_-3012.vmt,137,137
+materials/maps/surf_ragequit/tile/tilefloor012a_2556_-3424_-3012.vmt,136,136
+materials/maps/surf_ragequit/tile/tilefloor012a_5354_-3630_-4096.vmt,136,136
+materials/maps/surf_ragequit/metal/metalwall001a_5354_-3630_-4096.vmt,137,137
+materials/maps/surf_ragequit/metal/metalwall001a_2556_-3424_-3012.vmt,137,137
+materials/maps/surf_ragequit/vbd/pack 2 remnont/remn_met_trim7_2556_-3424_-3012.vmt,151,151
+materials/maps/surf_ragequit/vbd/pack 2 remnont/remn_metalfloor9_5354_-3630_-4096.vmt,153,153
+materials/maps/surf_ragequit/vbd/pack 2 remnont/remn_metal_p15_e_base_5354_-3630_-4096.vmt,158,158
+materials/maps/surf_ragequit/vbd/pack 2 remnont/remn_met_trim7_5354_-3630_-4096.vmt,151,151
+materials/maps/surf_ragequit/vbd/pack 2 remnont/remn_metalfloor9_2556_-3424_-3012.vmt,153,153
+materials/maps/surf_ragequit/glass/unbreakable_2556_-3424_-3012.vmt,135,135
+materials/maps/surf_ragequit/metal/metalwall048a_5354_-3630_-4096.vmt,137,137
+materials/maps/surf_ragequit/maps/surf_ragequit/dev/dev_water2_2556_-3424_-3012_depth_2.vmt,136,136
+materials/maps/surf_ragequit/maps/surf_ragequit/dev/dev_water2_2556_-3424_-3012_depth_3.vmt,136,136
+materials/maps/surf_ragequit/maps/surf_ragequit/dev/dev_water2_5354_-3630_-4096_depth_448.vmt,138,138
+materials/maps/surf_ragequit/maps/surf_ragequit/dev/dev_water2_5354_-3630_-4096_depth_64.vmt,137,137
+materials/maps/surf_ragequit/maps/surf_ragequit/dev/dev_water2_2556_-3424_-3012_depth_4.vmt,136,136
+materials/maps/surf_ragequit/maps/surf_ragequit/dev/dev_water2_2556_-3424_-3012_depth_144.vmt,138,138
+materials/maps/surf_ragequit/maps/surf_ragequit/dev/dev_water2_5354_-3630_-4096_depth_3.vmt,136,136
+materials/maps/surf_ragequit/cubemapdefault.vtf,4960,4960
+materials/maps/surf_ragequit/c2556_-3424_-3012.vtf,4960,4960
+materials/maps/surf_ragequit/c5354_-3630_-4096.vtf,4960,4960
+materials/maps/surf_ragequit/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_ragequit/c2556_-3424_-3012.hdr.vtf,76528,76528
+materials/maps/surf_ragequit/c5354_-3630_-4096.hdr.vtf,76528,76528
+materials/KIIRU/RAGEQUIT_CREDITS.vmt,120,120
+materials/kiiru/ragequit_credits.vtf,174984,174984
+materials/SURF_MINECRAFT/GRASS.vmt,93,93
+materials/surf_minecraft/grass.vtf,43912,43912
+materials/skybox/sunsetmountainup.vmt,100,100
+materials/skybox/sunsetmountainup.vtf,699272,699272
+materials/skybox/sunsetmountaindn.vmt,100,100
+materials/skybox/sunsetmountaindn.vtf,699272,699272
+materials/skybox/sunsetmountainft.vmt,100,100
+materials/skybox/sunsetmountainft.vtf,699272,699272
+materials/skybox/sunsetmountainbk.vmt,100,100
+materials/skybox/sunsetmountainbk.vtf,699272,699272
+materials/skybox/sunsetmountainlf.vmt,100,100
+materials/skybox/sunsetmountainlf.vtf,699272,699272
+materials/skybox/sunsetmountainrt.vmt,100,100
+materials/skybox/sunsetmountainrt.vtf,699272,699272

@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/awp_akolit2/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/awp_akolit2/de_chateau/intbrickk_0_0_184.vmt,127,127
+materials/maps/awp_akolit2/dev/dev_water2_0_0_184.vmt,144,144
+materials/maps/awp_akolit2/maps/awp_akolit2/dev/dev_water2_0_0_184_depth_56.vmt,126,126
+materials/maps/awp_akolit2/cubemapdefault.vtf,9832,9832
+materials/maps/awp_akolit2/c0_0_184.vtf,4968,4968
+materials/maps/awp_akolit2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/awp_akolit2/c0_0_184.hdr.vtf,76528,76528
+materials/WaterSource/Waterfall/waterfallSOFT_512_CLEAR.vmt,264,264
+materials/WaterSource/Waterfall/waterfallSOFT_512_CLEAR.vtf,262352,262352
+materials/WaterSource/Waterfall/waterfallSOFT_512_NRM_CLEAR.vmt,375,375
+materials/WaterSource/Waterfall/waterfallSOFT_512_NRM_CLEAR.vtf,262352,262352

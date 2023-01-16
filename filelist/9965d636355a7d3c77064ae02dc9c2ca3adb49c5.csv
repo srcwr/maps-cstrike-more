@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/test31/plaster/offwllb_268_-550_748.vmt,122,122
+materials/maps/test31/tile/tilewall009d_268_-550_748.vmt,124,124
+materials/maps/test31/wood/offdesktop_369_-682_474.vmt,122,122
+materials/maps/test31/wood/offdesktop_268_-550_748.vmt,122,122
+materials/maps/test31/plaster/offwllb_369_-682_474.vmt,122,122
+materials/maps/test31/plaster/plasterwall044d_369_-682_474.vmt,130,130
+materials/maps/test31/cubemapdefault.vtf,28753,28753
+materials/maps/test31/c268_-550_748.vtf,28753,28753
+materials/maps/test31/c369_-682_474.vtf,28753,28753
+materials/maps/test31/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/test31/c268_-550_748.hdr.vtf,76528,76528
+materials/maps/test31/c369_-682_474.hdr.vtf,76528,76528
+sound/matrix/matrix.wav,3445676,3445676
+sound/matrix/matrixteleport.wav,281132,281132
+materials/custommaterials/matrixcode.vmt,306,306
+materials/custommaterials/matrixcode.vtf,524640,524640

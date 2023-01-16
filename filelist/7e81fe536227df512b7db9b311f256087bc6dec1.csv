@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/de_siberia_final_5/de_piranesi/marblefloor13_0_0_0.vmt,137,137
+materials/maps/de_siberia_final_5/cubemapdefault.vtf,9808,9808
+materials/maps/de_siberia_final_5/c0_0_0.vtf,9808,9808
+materials/de_siberia/huddle_cs.vmt,65,65
+materials/de_siberia/huddle_cs.vtf,11128,11128
+materials/de_siberia/huddle_fixedcs.vmt,70,70
+materials/de_siberia/huddle_fixedcs.vtf,174968,174968
+scripts/soundscapes_base.txt,242,242
+scripts/soundscapes_indoor.txt,261,261
+scripts/soundscapes_manifest.txt,224,224
+scripts/soundscapes_outdoor.txt,657,657
+scripts/soundscapes_tunnel.txt,257,257

@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/de_tropicwasteland/dev/dev_water2_-1168_256_32.vmt,156,156
+materials/maps/de_tropicwasteland/maps/de_tropicwasteland/dev/dev_water2_-1168_256_32_depth_16.vmt,138,138
+materials/maps/de_tropicwasteland/cubemapdefault.vtf,9824,9824
+materials/maps/de_tropicwasteland/c-1168_256_32.vtf,4952,4952
+materials/maps/de_tropicwasteland/c-541_16_32.vtf,4952,4952
+materials/maps/de_tropicwasteland/c-693_1180_-23.vtf,4952,4952
+materials/maps/de_tropicwasteland/c-1912_768_32.vtf,4952,4952
+materials/maps/de_tropicwasteland/c698_-672_320.vtf,4952,4952
+maps/de_tropicwasteland.nav,620648,620648
+maps/soundcache/de_tropicwasteland.cache,16,16
+resource/overviews/de_tropicwasteland.txt,333,333
+materials/overviews/de_tropicwasteland.vmt,108,108
+materials/overviews/de_tropicwasteland.vtf,1398336,1398336

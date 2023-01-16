@@ -1,0 +1,66 @@
+filename,size,compressed
+materials/maps/bhop_hmm_brighter/nature/water_canals03_128_-192_80.vmt,161,161
+materials/maps/bhop_hmm_brighter/effects/combineshield/comshieldwall3_128_-192_80.vmt,176,176
+materials/maps/bhop_hmm_brighter/maps/bhop_hmm_brighter/nature/water_canals03_128_-192_80_depth_24.vmt,143,143
+materials/maps/bhop_hmm_brighter/cubemapdefault.vtf,9824,9824
+materials/maps/bhop_hmm_brighter/c128_-192_80.vtf,9824,9824
+materials/maps/bhop_hmm_brighter/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/bhop_hmm_brighter/c128_-192_80.hdr.vtf,76520,76520
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_FLOOR_2.vmt,115,115
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_WALL_BEIGE_1.vmt,117,117
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_WALL_BROWN_3.vmt,117,117
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_FLOOR_1.vmt,115,115
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_GLASS_BROWN_1.vmt,137,137
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_FLOOR_5.vmt,115,115
+materials/HAMMER TEXTURES/BHOP_HMM/31_SIGN_ROOMDESCRIPTION.vmt,115,115
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_GLASS_LVL_3.vmt,212,212
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_GLASS_LVL_2.vmt,212,212
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_GLASS_LVL_1.vmt,212,212
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_GLASS_LVL_4.vmt,212,212
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_GLASS_BONUS.vmt,212,212
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_GLASS_MAPBY.vmt,212,212
+materials/HAMMER TEXTURES/BHOP_HMM/31_HMM_ARROW.vmt,104,104
+maps/soundcache/bhop_hmm_brighter.cache,16,16
+materials/hammer textures/bhop_hmm/31_hmm_arrow.vmt,104,104
+materials/hammer textures/bhop_hmm/31_hmm_arrow.vtf,22080,22080
+materials/hammer textures/bhop_hmm/31_hmm_floor_1.vmt,115,115
+materials/hammer textures/bhop_hmm/31_hmm_floor_1.vtf,11144,11144
+materials/hammer textures/bhop_hmm/31_hmm_floor_2.vmt,115,115
+materials/hammer textures/bhop_hmm/31_hmm_floor_2.vtf,11144,11144
+materials/hammer textures/bhop_hmm/31_hmm_floor_3.vmt,115,115
+materials/hammer textures/bhop_hmm/31_hmm_floor_3.vtf,11144,11144
+materials/hammer textures/bhop_hmm/31_hmm_floor_4.vmt,115,115
+materials/hammer textures/bhop_hmm/31_hmm_floor_4.vtf,11144,11144
+materials/hammer textures/bhop_hmm/31_hmm_floor_5.vmt,115,115
+materials/hammer textures/bhop_hmm/31_hmm_floor_5.vtf,11144,11144
+materials/hammer textures/bhop_hmm/31_hmm_glass_bonus.vmt,212,212
+materials/hammer textures/bhop_hmm/31_hmm_glass_bonus.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_glass_brown_1.vmt,137,137
+materials/hammer textures/bhop_hmm/31_hmm_glass_brown_1.vtf,87616,87616
+materials/hammer textures/bhop_hmm/31_hmm_glass_default_1.vmt,267,267
+materials/hammer textures/bhop_hmm/31_hmm_glass_default_1.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_glass_default_1_mask.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_glass_default_2.vmt,139,139
+materials/hammer textures/bhop_hmm/31_hmm_glass_default_2.vtf,87616,87616
+materials/hammer textures/bhop_hmm/31_hmm_glass_default_3.vmt,139,139
+materials/hammer textures/bhop_hmm/31_hmm_glass_default_3.vtf,87616,87616
+materials/hammer textures/bhop_hmm/31_hmm_glass_lvl_1.vmt,212,212
+materials/hammer textures/bhop_hmm/31_hmm_glass_lvl_1.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_glass_lvl_2.vmt,212,212
+materials/hammer textures/bhop_hmm/31_hmm_glass_lvl_2.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_glass_lvl_3.vmt,212,212
+materials/hammer textures/bhop_hmm/31_hmm_glass_lvl_3.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_glass_lvl_4.vmt,212,212
+materials/hammer textures/bhop_hmm/31_hmm_glass_lvl_4.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_glass_mapby.vmt,212,212
+materials/hammer textures/bhop_hmm/31_hmm_glass_mapby.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_wall_beige_1.vmt,117,117
+materials/hammer textures/bhop_hmm/31_hmm_wall_beige_1.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_wall_brown_1.vmt,117,117
+materials/hammer textures/bhop_hmm/31_hmm_wall_brown_1.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_wall_brown_2.vmt,117,117
+materials/hammer textures/bhop_hmm/31_hmm_wall_brown_2.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_hmm_wall_brown_3.vmt,117,117
+materials/hammer textures/bhop_hmm/31_hmm_wall_brown_3.vtf,43912,43912
+materials/hammer textures/bhop_hmm/31_sign_roomdescription.vmt,115,115
+materials/hammer textures/bhop_hmm/31_sign_roomdescription.vtf,87616,87616

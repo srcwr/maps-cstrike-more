@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/break_dev/glass/glasswindow070c_0_640_320.vmt,128,128
+materials/maps/break_dev/cubemapdefault.vtf,9832,9832
+materials/maps/break_dev/c0_640_320.vtf,28753,28753
+materials/maps/break_dev/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/break_dev/c0_640_320.hdr.vtf,4893432,4893432
+materials/dev/dev_measuregeneric21.vmt,93,93
+materials/dev/dev_measuregeneric21.vtf,11144,11144
+materials/dev/dev_measuregeneric47.vmt,93,93
+materials/dev/dev_measuregeneric47.vtf,11144,11144
+materials/dev/dev_measuregeneric02.vmt,93,93
+materials/dev/dev_measuregeneric02.vtf,11144,11144
+materials/dev/dev_measuregeneric13.vmt,93,93
+materials/dev/dev_measuregeneric13.vtf,11144,11144
+maps/soundcache/break_dev.cache,16,16

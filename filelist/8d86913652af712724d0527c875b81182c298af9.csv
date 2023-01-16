@@ -1,0 +1,559 @@
+filename,size,compressed
+maps/bhop_crash_egypt.nav,628166,628166
+maps/bhop_crash_egypt.txt,415,415
+materials/CRASH BANDICOOT 3/EGYPT/BHOP1.vmt,101,101
+materials/CRASH BANDICOOT 3/EGYPT/Bhop1.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/BHOP2.vmt,101,101
+materials/CRASH BANDICOOT 3/EGYPT/bhop2.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/BHOP3.vmt,101,101
+materials/CRASH BANDICOOT 3/EGYPT/bhop3.vtf,11144,11144
+materials/CRASH BANDICOOT 3/EGYPT/BHOP4.vmt,101,101
+materials/CRASH BANDICOOT 3/EGYPT/bhop4.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/BHOP7.vmt,101,101
+materials/CRASH BANDICOOT 3/EGYPT/bhop7.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/BHOP_TOP3.vmt,111,111
+materials/CRASH BANDICOOT 3/EGYPT/bhop_top3.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/BORDER1.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border1.vtf,1528,1528
+materials/CRASH BANDICOOT 3/EGYPT/BORDER10.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/border10.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/BORDER12.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/border12.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/BORDER14.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/border14.vtf,2872,2872
+materials/CRASH BANDICOOT 3/EGYPT/BORDER2.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border2.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/BORDER3.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border3.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/BORDER4.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border4.vtf,504,504
+materials/CRASH BANDICOOT 3/EGYPT/BORDER5.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border5.vtf,1528,1528
+materials/CRASH BANDICOOT 3/EGYPT/BORDER6.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border6.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/BORDER7.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border7.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/BORDER8.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border8.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/BULLETWALL1.vmt,111,111
+materials/CRASH BANDICOOT 3/EGYPT/bulletwall1.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/BULLETWALL2.vmt,111,111
+materials/CRASH BANDICOOT 3/EGYPT/bulletwall2.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/CEILING1.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/ceiling1.vtf,43912,43912
+materials/CRASH BANDICOOT 3/EGYPT/CEILING3.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/ceiling3.vtf,22008,22008
+materials/CRASH BANDICOOT 3/EGYPT/CEILING4.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/ceiling4.vtf,11064,11064
+materials/CRASH BANDICOOT 3/EGYPT/DOOR.vmt,100,100
+materials/CRASH BANDICOOT 3/EGYPT/door.vtf,11064,11064
+materials/CRASH BANDICOOT 3/EGYPT/FLOOR1.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/floor1.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/floor2.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/floor2.vtf,11144,11144
+materials/CRASH BANDICOOT 3/EGYPT/GATE1.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/gate1.vtf,43912,43912
+materials/CRASH BANDICOOT 3/EGYPT/GATE2.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/gate2.vtf,43912,43912
+materials/CRASH BANDICOOT 3/EGYPT/LADDER.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/ladder.vtf,1528,1528
+materials/CRASH BANDICOOT 3/EGYPT/LIGHT1.vmt,135,135
+materials/CRASH BANDICOOT 3/EGYPT/light1.vtf,5632,5632
+materials/CRASH BANDICOOT 3/EGYPT/light2.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/light2.vtf,22052,22052
+materials/CRASH BANDICOOT 3/EGYPT/NIGHTSKY_SIDE.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/nightsky_side.vtf,1398308,1398308
+materials/CRASH BANDICOOT 3/EGYPT/NIGHTSKY_TOP.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/nightsky_top.vtf,1048783,1048783
+materials/CRASH BANDICOOT 3/EGYPT/OIL1.vmt,112,112
+materials/CRASH BANDICOOT 3/EGYPT/oil1.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/OIL2.vmt,112,112
+materials/CRASH BANDICOOT 3/EGYPT/oil2.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/OIL3.vmt,112,112
+materials/CRASH BANDICOOT 3/EGYPT/oil3.vtf,1528,1528
+materials/CRASH BANDICOOT 3/EGYPT/OIL4.vmt,112,112
+materials/CRASH BANDICOOT 3/EGYPT/Oil4.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/PILLAR1.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/pillar1.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/PILLAR2.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/pillar2.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/PILLAR3.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/pillar3.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/PILLAR4.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/pillar4.vtf,1528,1528
+materials/CRASH BANDICOOT 3/EGYPT/PIT1.vmt,104,104
+materials/CRASH BANDICOOT 3/EGYPT/pit1.vtf,2872,2872
+materials/CRASH BANDICOOT 3/EGYPT/PLAT1.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat1.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/PLAT2.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat2.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/PLAT3.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat3.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/PLAT4.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat4.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/PLAT5.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat5.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/PLAT6.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat6.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/SAND1.vmt,101,101
+materials/CRASH BANDICOOT 3/EGYPT/sand1.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/SAND2.vmt,101,101
+materials/CRASH BANDICOOT 3/EGYPT/sand2.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/SAND3.vmt,101,101
+materials/CRASH BANDICOOT 3/EGYPT/sand3.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/SAVE_LOCATION.vmt,109,109
+materials/CRASH BANDICOOT 3/EGYPT/Save_location.vtf,11144,11144
+materials/CRASH BANDICOOT 3/EGYPT/STAIRS1.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/stairs1.vtf,2872,2872
+materials/CRASH BANDICOOT 3/EGYPT/STAIRS2.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/stairs2.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/TEXT_LEVEL1.vmt,102,102
+materials/CRASH BANDICOOT 3/EGYPT/text_level1.vtf,349644,349644
+materials/CRASH BANDICOOT 3/EGYPT/TEXT_LEVEL2.vmt,102,102
+materials/CRASH BANDICOOT 3/EGYPT/text_level2.vtf,349644,349644
+materials/CRASH BANDICOOT 3/EGYPT/TEXT_LEVEL3_2.vmt,104,104
+materials/CRASH BANDICOOT 3/EGYPT/text_level3_2.vtf,43872,43872
+materials/CRASH BANDICOOT 3/EGYPT/TILE1.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/tile1.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/TILE2.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/tile2.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/VASE1.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/vase1.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/WALL1.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall1.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/WALL10.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall10.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL11.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall11.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL12.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall12.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL13.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall13.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL14.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall14.vtf,1528,1528
+materials/CRASH BANDICOOT 3/EGYPT/WALL15.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall15.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/WALL16.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall16.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL17.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall17.vtf,11064,11064
+materials/CRASH BANDICOOT 3/EGYPT/WALL18.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall18.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/WALL19.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall19.vtf,2872,2872
+materials/CRASH BANDICOOT 3/EGYPT/WALL2.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall2.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/WALL22.vmt,102,102
+materials/CRASH BANDICOOT 3/EGYPT/wall22.vtf,11144,11144
+materials/CRASH BANDICOOT 3/EGYPT/WALL23.vmt,102,102
+materials/CRASH BANDICOOT 3/EGYPT/wall23.vtf,11144,11144
+materials/CRASH BANDICOOT 3/EGYPT/WALL3.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall3.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/WALL4.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall4.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL5.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall5.vtf,11144,11144
+materials/CRASH BANDICOOT 3/EGYPT/WALL6.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall6.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL7.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall7.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL7_2.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/wall7_2.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL8.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall8.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/WALL9.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall9.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT_CREDITS.vmt,92,92
+materials/CRASH BANDICOOT 3/Egypt_credits.vtf,2796384,2796384
+materials/CRASH BANDICOOT 3/EGYPT_IMPORTANT.vmt,94,94
+materials/CRASH BANDICOOT 3/egypt_important.vtf,1398336,1398336
+materials/CRASH BANDICOOT 3/SNOW/BOX3.vmt,104,104
+materials/CRASH BANDICOOT 3/SNOW/box3.vtf,1600,1600
+materials/EFFECTS/LIGHT_RAD.vmt,84,84
+materials/EFFECTS/LIGHT_RAD.vtf,22080,22080
+materials/EFFECTS/LIGHT_RAD2.vmt,85,85
+materials/EFFECTS/LIGHT_RAD2.vtf,22080,22080
+materials/EFFECTS/LIGHT_RAD3.vmt,85,85
+materials/EFFECTS/LIGHT_RAD3.vtf,22080,22080
+materials/maps/bhop_crash_egypt/c-3392_6208_176.hdr.vtf,76528,76528
+materials/maps/bhop_crash_egypt/c-3392_6208_176.vtf,4960,4960
+materials/maps/bhop_crash_egypt/c-4480_2304_176.hdr.vtf,76528,76528
+materials/maps/bhop_crash_egypt/c-4480_2304_176.vtf,4960,4960
+materials/maps/bhop_crash_egypt/c-640_5312_176.hdr.vtf,76528,76528
+materials/maps/bhop_crash_egypt/c-640_5312_176.vtf,4960,4960
+materials/maps/bhop_crash_egypt/c-7360_3392_80.hdr.vtf,76528,76528
+materials/maps/bhop_crash_egypt/c-7360_3392_80.vtf,4960,4960
+materials/maps/bhop_crash_egypt/c10624_3136_272.hdr.vtf,76528,76528
+materials/maps/bhop_crash_egypt/c10624_3136_272.vtf,4960,4960
+materials/maps/bhop_crash_egypt/c14784_4928_368.hdr.vtf,76528,76528
+materials/maps/bhop_crash_egypt/c14784_4928_368.vtf,4960,4960
+materials/maps/bhop_crash_egypt/c4672_4160_176.hdr.vtf,76528,76528
+materials/maps/bhop_crash_egypt/c4672_4160_176.vtf,4960,4960
+materials/maps/bhop_crash_egypt/c7792_3536_272.hdr.vtf,76528,76528
+materials/maps/bhop_crash_egypt/c7792_3536_272.vtf,4960,4960
+materials/maps/bhop_crash_egypt/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_crash_egypt/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_crash_egypt/wateranalog/watertexture_depth_16.vmt,111,111
+materials/models/Crash Bandicoot Game/Enemies/sarcophagus.vmt,106,106
+materials/models/Crash Bandicoot Game/Enemies/sarcophagus.vtf,1048784,1048784
+materials/models/Crash Bandicoot Game/Enemies/Scarab.vmt,128,128
+materials/models/Crash Bandicoot Game/Enemies/Scarab.vtf,65744,65744
+materials/models/Crash Bandicoot Game/items/Crystal.vmt,367,367
+materials/models/Crash Bandicoot Game/items/Crystal.vtf,176,176
+materials/models/Crash Bandicoot Game/items/Crystal_normal.vtf,144,144
+materials/models/Crash Bandicoot Game/Props/Aku_classic.vmt,135,135
+materials/models/Crash Bandicoot Game/Props/aku_classic.vtf,65744,65744
+materials/models/Crash Bandicoot Game/Props/Crates/!_metal.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Crates/!_metal.vtf,1232,1232
+materials/models/Crash Bandicoot Game/Props/Crates/!_nitro.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Crates/!_nitro.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/aku_crate.vmt,109,109
+materials/models/Crash Bandicoot Game/Props/Crates/Aku_crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/Armored_crate.vmt,113,113
+materials/models/Crash Bandicoot Game/Props/Crates/Armored_crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/C_crate.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Crates/C_crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/c_inside.vmt,108,108
+materials/models/Crash Bandicoot Game/Props/Crates/C_inside.vtf,504,504
+materials/models/Crash Bandicoot Game/Props/Crates/crate.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/Crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/crate_debris.vmt,129,129
+materials/models/Crash Bandicoot Game/Props/Crates/Crate_debris.vtf,2912,2912
+materials/models/Crash Bandicoot Game/Props/Crates/crate_template.vmt,131,131
+materials/models/Crash Bandicoot Game/Props/Crates/Crate_template.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/jump_crate.vmt,110,110
+materials/models/Crash Bandicoot Game/Props/Crates/jump_crate.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/jump_metal.vmt,110,110
+materials/models/Crash Bandicoot Game/Props/Crates/jump_metal.vtf,1232,1232
+materials/models/Crash Bandicoot Game/Props/Crates/metal_crate.vmt,111,111
+materials/models/Crash Bandicoot Game/Props/Crates/metal_crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/metal_crate_G.vmt,113,113
+materials/models/Crash Bandicoot Game/Props/Crates/metal_crate_G.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/nitro.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/Nitro.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/nitro_bottom.vmt,112,112
+materials/models/Crash Bandicoot Game/Props/Crates/Nitro_bottom.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/nitro_debris.vmt,129,129
+materials/models/Crash Bandicoot Game/Props/Crates/Nitro_debris.vtf,2912,2912
+materials/models/Crash Bandicoot Game/Props/Crates/TNT.vmt,103,103
+materials/models/Crash Bandicoot Game/Props/Crates/TNT.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_1.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_1.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_2.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_2.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_3.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_3.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_bottom.vmt,110,110
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_Bottom.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_debris.vmt,127,127
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_debris.vtf,2912,2912
+materials/models/Crash Bandicoot Game/Props/Crates/x_crate.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Crates/X_Crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/xx_crate.vmt,108,108
+materials/models/Crash Bandicoot Game/Props/Crates/XX_Crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Egypt/Bonuspad_blank.vmt,113,113
+materials/models/Crash Bandicoot Game/Props/Egypt/Bonuspad_blank.vtf,22080,22080
+materials/models/Crash Bandicoot Game/Props/Egypt/Bonuspad_bonus.vmt,113,113
+materials/models/Crash Bandicoot Game/Props/Egypt/Bonuspad_bonus.vtf,22080,22080
+materials/models/Crash Bandicoot Game/Props/Egypt/Bonuspad_death.vmt,113,113
+materials/models/Crash Bandicoot Game/Props/Egypt/Bonuspad_death.vtf,22080,22080
+materials/models/Crash Bandicoot Game/Props/Egypt/Chest.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Egypt/Chest.vtf,8336,8336
+materials/models/Crash Bandicoot Game/Props/Egypt/Cortex_sphynx.vmt,112,112
+materials/models/Crash Bandicoot Game/Props/Egypt/Cortex_sphynx.vtf,4194512,4194512
+materials/models/Crash Bandicoot Game/Props/Egypt/Jack_statue_laying.vmt,117,117
+materials/models/Crash Bandicoot Game/Props/Egypt/Jack_statue_laying.vtf,8336,8336
+materials/models/Crash Bandicoot Game/Props/Egypt/Jackal_statue_standing.vmt,121,121
+materials/models/Crash Bandicoot Game/Props/Egypt/Jackal_statue_standing.vtf,262352,262352
+materials/models/Crash Bandicoot Game/Props/Egypt/Jackal_statue_standing_vtex.vmt,126,126
+materials/models/Crash Bandicoot Game/Props/Egypt/Jackal_statue_standing_vtex.vtf,262352,262352
+materials/models/Crash Bandicoot Game/Props/Egypt/Palm.vmt,130,130
+materials/models/Crash Bandicoot Game/Props/Egypt/Palm.vtf,8336,8336
+materials/models/Crash Bandicoot Game/Props/Egypt/Pot_blue.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Egypt/pot_blue.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Egypt/Pot_green.vmt,108,108
+materials/models/Crash Bandicoot Game/Props/Egypt/pot_green.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Egypt/Pot_yellow.vmt,109,109
+materials/models/Crash Bandicoot Game/Props/Egypt/pot_yellow.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Egypt/Top.vmt,94,94
+materials/models/Crash Bandicoot Game/Props/Egypt/Vase.vmt,91,91
+materials/models/Crash Bandicoot Game/Props/Egypt/vase1big.vmt,94,94
+materials/models/Crash Bandicoot Game/Props/Egypt/vase1big.vtf,21980,21980
+materials/models/Crash Bandicoot Game/Props/Egypt/vase1big_top.vmt,94,94
+materials/models/Crash Bandicoot Game/Props/Egypt/vase2.vmt,91,91
+materials/models/Crash Bandicoot Game/Props/Egypt/vase2.vtf,21980,21980
+materials/models/Crash Bandicoot Game/Props/Egypt/vase3.vtf,43852,43852
+materials/models/Crash Bandicoot Game/Props/Egypt/vase_top.vtf,5684,5684
+materials/models/Crash Bandicoot Game/Props/Egypt/vase_top2.vmt,94,94
+materials/models/Crash Bandicoot Game/Props/Warp/Bone_yard.vmt,89,89
+materials/models/Crash Bandicoot Game/Props/Warp/Bone_yard.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Bug_lite.vmt,88,88
+materials/models/Crash Bandicoot Game/Props/Warp/Bug_lite.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Flaming_passion.vmt,95,95
+materials/models/Crash Bandicoot Game/Props/Warp/Flaming_passion.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Gee_wiz.vmt,87,87
+materials/models/Crash Bandicoot Game/Props/Warp/Gee_wiz.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Hangem_high.vmt,93,93
+materials/models/Crash Bandicoot Game/Props/Warp/Hangem_high.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Toad_village.vmt,92,92
+materials/models/Crash Bandicoot Game/Props/Warp/Toad_village.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Tomb_time.vmt,89,89
+materials/models/Crash Bandicoot Game/Props/Warp/Tomb_time.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Tomb_wader.vmt,90,90
+materials/models/Crash Bandicoot Game/Props/Warp/Tomb_wader.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Warp_room.vmt,89,89
+materials/models/Crash Bandicoot Game/Props/Warp/warp_room.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/warp_room_beta.vmt,94,94
+materials/models/Crash Bandicoot Game/Props/Warp/warp_room_beta.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Wumpa_CTR.vmt,118,118
+materials/models/Crash Bandicoot Game/Props/Wumpa_Ctr.vtf,131280,131280
+materials/models/crashbandicoot/border7.vmt,101,101
+materials/models/crashbandicoot/border7.vtf,904,904
+materials/models/crashbandicoot/border8.vmt,101,101
+materials/models/crashbandicoot/border8.vtf,904,904
+materials/models/crashbandicoot/pillar3.vmt,101,101
+materials/models/crashbandicoot/pillar3.vtf,5624,5624
+materials/models/crashbandicoot/pillar4.vmt,101,101
+materials/models/crashbandicoot/pillar4.vtf,1528,1528
+materials/models/crashbandicoot/tile1.vmt,99,99
+materials/models/crashbandicoot/tile1.vtf,2952,2952
+materials/models/crashbandicoot/vase1big.vmt,76,76
+materials/models/crashbandicoot/vase1big.vtf,21980,21980
+materials/models/crashbandicoot/vase1big_top.vmt,76,76
+materials/models/crashbandicoot/vase2.vmt,73,73
+materials/models/crashbandicoot/vase2.vtf,21980,21980
+materials/models/crashbandicoot/vase_top.vtf,5684,5684
+materials/models/crashbandicoot/vase_top2.vmt,76,76
+materials/OVERLAYS/BLACK_GRADIENT.vmt,90,90
+materials/OVERLAYS/black_gradient.vtf,22080,22080
+materials/skybox/crashsky04_bk.vmt,94,94
+materials/skybox/Crashsky04_bk.vtf,699272,699272
+materials/skybox/crashsky04_dn.vmt,94,94
+materials/skybox/Crashsky04_dn.vtf,699272,699272
+materials/skybox/crashsky04_ft.vmt,94,94
+materials/skybox/Crashsky04_ft.vtf,699272,699272
+materials/skybox/crashsky04_lf.vmt,94,94
+materials/skybox/Crashsky04_lf.vtf,699272,699272
+materials/skybox/crashsky04_rt.vmt,94,94
+materials/skybox/Crashsky04_rt.vtf,699272,699272
+materials/skybox/crashsky04_up.vmt,94,94
+materials/skybox/Crashsky04_up.vtf,699272,699272
+materials/sprites/cp_c_alpha.vmt,147,147
+materials/sprites/cp_c_alpha.vtf,1232,1232
+materials/sprites/cp_e_alpha.vmt,147,147
+materials/sprites/cp_e_alpha.vtf,1232,1232
+materials/sprites/cp_h_alpha.vmt,147,147
+materials/sprites/cp_h_alpha.vtf,1232,1232
+materials/sprites/cp_i_alpha.vmt,147,147
+materials/sprites/cp_i_alpha.vtf,1232,1232
+materials/sprites/cp_k_alpha.vmt,147,147
+materials/sprites/cp_k_alpha.vtf,1232,1232
+materials/sprites/cp_n_alpha.vmt,147,147
+materials/sprites/cp_n_alpha.vtf,1232,1232
+materials/sprites/cp_o_alpha.vmt,147,147
+materials/sprites/cp_o_alpha.vtf,1232,1232
+materials/sprites/cp_p_alpha.vmt,147,147
+materials/sprites/cp_p_alpha.vtf,1232,1232
+materials/sprites/cp_t_alpha.vmt,147,147
+materials/sprites/cp_t_alpha.vtf,1232,1232
+materials/sprites/laserbeam.vmt,124,124
+materials/sprites/laserbeam.vtf,1512,1512
+materials/sprites/light_glow03.vmt,127,127
+materials/sprites/light_glow03.vtf,65727,65727
+materials/surf_lt_unicorn/music_note_off.vmt,149,149
+materials/surf_lt_unicorn/music_note_off.vtf,87600,87600
+materials/surf_lt_unicorn/music_note_on.vmt,148,148
+materials/surf_lt_unicorn/music_note_on.vtf,87600,87600
+materials/TOOLS/TOOLSHINT.vmt,279,279
+materials/TOOLS/toolshint.vtf,5680,5680
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/TOOLS/TOOLSSKIP.vmt,281,281
+materials/TOOLS/toolsskip.vtf,5680,5680
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/wateranalog/Water_cubemap_Crash_egypt.vtf,5696,5696
+materials/wateranalog/WATERTEXTURE.vmt,547,547
+models/crashbandicoot/pillar_wavez.dx80.vtx,2475,2475
+models/crashbandicoot/pillar_wavez.dx90.vtx,2475,2475
+models/crashbandicoot/pillar_wavez.mdl,2532,2532
+models/crashbandicoot/pillar_wavez.phy,902,902
+models/crashbandicoot/pillar_wavez.sw.vtx,2475,2475
+models/crashbandicoot/pillar_wavez.vvd,10176,10176
+models/crashbandicoot/vase1big.dx80.vtx,2388,2388
+models/crashbandicoot/vase1big.dx90.vtx,2388,2388
+models/crashbandicoot/vase1big.mdl,1952,1952
+models/crashbandicoot/vase1big.phy,1469,1469
+models/crashbandicoot/vase1big.sw.vtx,2372,2372
+models/crashbandicoot/vase1big.vvd,11456,11456
+models/crashbandicoot/vase2.dx80.vtx,2388,2388
+models/crashbandicoot/vase2.dx90.vtx,2388,2388
+models/crashbandicoot/vase2.mdl,1948,1948
+models/crashbandicoot/vase2.phy,1846,1846
+models/crashbandicoot/vase2.sw.vtx,2372,2372
+models/crashbandicoot/vase2.vvd,11456,11456
+models/dofke/crash bandicoot/enemies/sarcophagus.dx80.vtx,2798,2798
+models/dofke/crash bandicoot/enemies/sarcophagus.dx90.vtx,2798,2798
+models/dofke/crash bandicoot/enemies/sarcophagus.mdl,3960,3960
+models/dofke/crash bandicoot/enemies/sarcophagus.sw.vtx,2782,2782
+models/dofke/crash bandicoot/enemies/sarcophagus.vvd,12928,12928
+models/dofke/crash bandicoot/enemies/scarab.dx80.vtx,3506,3506
+models/dofke/crash bandicoot/enemies/scarab.dx90.vtx,3356,3356
+models/dofke/crash bandicoot/enemies/scarab.mdl,18300,18300
+models/dofke/crash bandicoot/enemies/scarab.sw.vtx,3100,3100
+models/dofke/crash bandicoot/enemies/scarab.vvd,12800,12800
+models/dofke/crash bandicoot/general/aku_aku.dx80.vtx,924,924
+models/dofke/crash bandicoot/general/aku_aku.dx90.vtx,924,924
+models/dofke/crash bandicoot/general/aku_aku.mdl,2872,2872
+models/dofke/crash bandicoot/general/aku_aku.sw.vtx,916,916
+models/dofke/crash bandicoot/general/aku_aku.vvd,4480,4480
+models/dofke/crash bandicoot/general/crystal.dx80.vtx,873,873
+models/dofke/crash bandicoot/general/crystal.dx90.vtx,873,873
+models/dofke/crash bandicoot/general/crystal.mdl,2664,2664
+models/dofke/crash bandicoot/general/crystal.sw.vtx,865,865
+models/dofke/crash bandicoot/general/crystal.vvd,4160,4160
+models/dofke/crash bandicoot/general/warp_sphere.dx80.vtx,7255,7255
+models/dofke/crash bandicoot/general/warp_sphere.dx90.vtx,7255,7255
+models/dofke/crash bandicoot/general/warp_sphere.mdl,7576,7576
+models/dofke/crash bandicoot/general/warp_sphere.sw.vtx,7207,7207
+models/dofke/crash bandicoot/general/warp_sphere.vvd,21696,21696
+models/dofke/crash bandicoot/general/wumpa_tw.dx80.vtx,795,795
+models/dofke/crash bandicoot/general/wumpa_tw.dx90.vtx,795,795
+models/dofke/crash bandicoot/general/wumpa_tw.mdl,2544,2544
+models/dofke/crash bandicoot/general/wumpa_tw.sw.vtx,787,787
+models/dofke/crash bandicoot/general/wumpa_tw.vvd,2496,2496
+models/dofke/crash bandicoot/props/crates/crate_checkpoint.dx80.vtx,1931,1931
+models/dofke/crash bandicoot/props/crates/crate_checkpoint.dx90.vtx,1931,1931
+models/dofke/crash bandicoot/props/crates/crate_checkpoint.mdl,13808,13808
+models/dofke/crash bandicoot/props/crates/crate_checkpoint.sw.vtx,1803,1803
+models/dofke/crash bandicoot/props/crates/crate_checkpoint.vvd,6976,6976
+models/dofke/crash bandicoot/props/crates/crate_generic.dx80.vtx,26196,26196
+models/dofke/crash bandicoot/props/crates/crate_generic.dx90.vtx,26196,26196
+models/dofke/crash bandicoot/props/crates/crate_generic.mdl,31244,31244
+models/dofke/crash bandicoot/props/crates/crate_generic.sw.vtx,25924,25924
+models/dofke/crash bandicoot/props/crates/crate_generic.vvd,89152,89152
+models/dofke/crash bandicoot/props/egypt/bonus_pad.dx80.vtx,1269,1269
+models/dofke/crash bandicoot/props/egypt/bonus_pad.dx90.vtx,1269,1269
+models/dofke/crash bandicoot/props/egypt/bonus_pad.mdl,1968,1968
+models/dofke/crash bandicoot/props/egypt/bonus_pad.phy,1118,1118
+models/dofke/crash bandicoot/props/egypt/bonus_pad.sw.vtx,1269,1269
+models/dofke/crash bandicoot/props/egypt/bonus_pad.vvd,5696,5696
+models/dofke/crash bandicoot/props/egypt/chest.dx80.vtx,918,918
+models/dofke/crash bandicoot/props/egypt/chest.dx90.vtx,918,918
+models/dofke/crash bandicoot/props/egypt/chest.mdl,1784,1784
+models/dofke/crash bandicoot/props/egypt/chest.phy,1066,1066
+models/dofke/crash bandicoot/props/egypt/chest.sw.vtx,918,918
+models/dofke/crash bandicoot/props/egypt/chest.vvd,3968,3968
+models/dofke/crash bandicoot/props/egypt/cortex_sphynx.dx80.vtx,14448,14448
+models/dofke/crash bandicoot/props/egypt/cortex_sphynx.dx90.vtx,14448,14448
+models/dofke/crash bandicoot/props/egypt/cortex_sphynx.mdl,1800,1800
+models/dofke/crash bandicoot/props/egypt/cortex_sphynx.sw.vtx,14448,14448
+models/dofke/crash bandicoot/props/egypt/cortex_sphynx.vvd,74496,74496
+models/dofke/crash bandicoot/props/egypt/jackal_statue1.dx80.vtx,5643,5643
+models/dofke/crash bandicoot/props/egypt/jackal_statue1.dx90.vtx,5643,5643
+models/dofke/crash bandicoot/props/egypt/jackal_statue1.mdl,1904,1904
+models/dofke/crash bandicoot/props/egypt/jackal_statue1.phy,683,683
+models/dofke/crash bandicoot/props/egypt/jackal_statue1.sw.vtx,5643,5643
+models/dofke/crash bandicoot/props/egypt/jackal_statue1.vvd,27328,27328
+models/dofke/crash bandicoot/props/egypt/jackal_statue2.dx80.vtx,7983,7983
+models/dofke/crash bandicoot/props/egypt/jackal_statue2.dx90.vtx,7983,7983
+models/dofke/crash bandicoot/props/egypt/jackal_statue2.mdl,1804,1804
+models/dofke/crash bandicoot/props/egypt/jackal_statue2.phy,876,876
+models/dofke/crash bandicoot/props/egypt/jackal_statue2.sw.vtx,7983,7983
+models/dofke/crash bandicoot/props/egypt/jackal_statue2.vvd,37568,37568
+models/dofke/crash bandicoot/props/egypt/palm_anim1.dx80.vtx,2046,2046
+models/dofke/crash bandicoot/props/egypt/palm_anim1.dx90.vtx,2046,2046
+models/dofke/crash bandicoot/props/egypt/palm_anim1.mdl,25020,25020
+models/dofke/crash bandicoot/props/egypt/palm_anim1.sw.vtx,1918,1918
+models/dofke/crash bandicoot/props/egypt/palm_anim1.vvd,9088,9088
+models/dofke/crash bandicoot/props/egypt/pot_blue_small.dx80.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_blue_small.dx90.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_blue_small.mdl,1960,1960
+models/dofke/crash bandicoot/props/egypt/pot_blue_small.phy,881,881
+models/dofke/crash bandicoot/props/egypt/pot_blue_small.sw.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_blue_small.vvd,2624,2624
+models/dofke/crash bandicoot/props/egypt/pot_green_big.dx80.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_green_big.dx90.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_green_big.mdl,1960,1960
+models/dofke/crash bandicoot/props/egypt/pot_green_big.phy,882,882
+models/dofke/crash bandicoot/props/egypt/pot_green_big.sw.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_green_big.vvd,2624,2624
+models/dofke/crash bandicoot/props/egypt/pot_yellow1.dx80.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_yellow1.dx90.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_yellow1.mdl,1956,1956
+models/dofke/crash bandicoot/props/egypt/pot_yellow1.phy,879,879
+models/dofke/crash bandicoot/props/egypt/pot_yellow1.sw.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_yellow1.vvd,2624,2624
+models/dofke/crash bandicoot/props/egypt/pot_yellow2.dx80.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_yellow2.dx90.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_yellow2.mdl,1956,1956
+models/dofke/crash bandicoot/props/egypt/pot_yellow2.phy,879,879
+models/dofke/crash bandicoot/props/egypt/pot_yellow2.sw.vtx,693,693
+models/dofke/crash bandicoot/props/egypt/pot_yellow2.vvd,2624,2624
+models/dofke/crash bandicoot/props/egypt/vase_big.dx80.vtx,2388,2388
+models/dofke/crash bandicoot/props/egypt/vase_big.dx90.vtx,2388,2388
+models/dofke/crash bandicoot/props/egypt/vase_big.mdl,1980,1980
+models/dofke/crash bandicoot/props/egypt/vase_big.phy,1464,1464
+models/dofke/crash bandicoot/props/egypt/vase_big.sw.vtx,2388,2388
+models/dofke/crash bandicoot/props/egypt/vase_big.vvd,11456,11456
+models/dofke/crash bandicoot/props/egypt/vase_monkey.dx80.vtx,2232,2232
+models/dofke/crash bandicoot/props/egypt/vase_monkey.dx90.vtx,2232,2232
+models/dofke/crash bandicoot/props/egypt/vase_monkey.mdl,1968,1968
+models/dofke/crash bandicoot/props/egypt/vase_monkey.phy,1844,1844
+models/dofke/crash bandicoot/props/egypt/vase_monkey.sw.vtx,2232,2232
+models/dofke/crash bandicoot/props/egypt/vase_monkey.vvd,9664,9664
+models/dofke/crash bandicoot/props/egypt/vase_tall.dx80.vtx,2388,2388
+models/dofke/crash bandicoot/props/egypt/vase_tall.dx90.vtx,2388,2388
+models/dofke/crash bandicoot/props/egypt/vase_tall.mdl,1976,1976
+models/dofke/crash bandicoot/props/egypt/vase_tall.phy,1844,1844
+models/dofke/crash bandicoot/props/egypt/vase_tall.sw.vtx,2388,2388
+models/dofke/crash bandicoot/props/egypt/vase_tall.vvd,11456,11456
+scripts/soundscapes_bhop_crash_egypt.txt,287,287
+sound/crash_bandicoot_original/crates/checkpoint_open.wav,712436,712436
+sound/crash_bandicoot_original/crates/crystal.wav,274352,274352
+sound/crash_bandicoot_original/crates/uka_uka.wav,449800,449800
+sound/crash_bandicoot_original/crates/wumpa_collect.wav,168100,168100
+sound/crash_bandicoot_original/egypt/bug_loop.wav,271572,271572
+sound/crash_bandicoot_original/egypt/mummy_case.wav,345336,345336
+sound/crash_bandicoot_original/egypt/water_lower.wav,1077208,1077208
+sound/crash_bandicoot_original/egypt/water_stop.wav,1143588,1143588
+sound/crash_bandicoot_original/egypt_ost.wav,9384774,9384774
+sound/crash_bandicoot_original/lightning_ball_loop.wav,1195498,1195498
+sound/effects/crate/crate_break.wav,54028,54028
+sound/effects/crate/crate_jump.wav,28492,28492
+sound/effects/crate/crate_trigger.wav,63276,63276
+sound/effects/crate/nitro_explode.wav,327456,327456
+sound/effects/crate/nitro_idle1.wav,58060,58060
+sound/effects/crate/nitro_idle2.wav,232056,232056
+sound/effects/crate/tnt_explode.wav,173420,173420
+sound/effects/crate/tnt_timer.wav,346632,346632
+sound/effects/egypt/crank_turn.wav,103848,103848
+sound/effects/egypt/spear_extend.wav,116268,116268
+sound/effects/egypt/spear_retract.wav,108844,108844
+sound/effects/egypt/walls_close.wav,78312,78312
+sound/effects/egypt/walls_open.wav,78088,78088
+sound/effects/silence.mp3,61648,61648
+maps/bhop_crash_egypt_particles.txt,108,108
+materials/EFFECTS/circle1.vmt,144,144
+materials/EFFECTS/circle1.vtf,43936,43936
+materials/EFFECTS/glowdrip.vtf,5720,5720
+materials/EFFECTS/glowdrip_add.vmt,157,157
+materials/EFFECTS/sc_softglow.vmt,211,211
+materials/EFFECTS/softglow.vtf,11168,11168
+materials/EFFECTS/splash_warpring1.vmt,301,301
+materials/EFFECTS/splash_warpring1.vtf,22104,22104
+materials/EFFECTS/smokelit2/smoke2lit.vmt,128,128
+materials/EFFECTS/smokelit2/smoke2lit.vtf,175440,175440
+materials/particle/flamethrowerfire/flamethrowerfire102.vmt,353,353
+materials/particle/flamethrowerfire/flamethrowerfire102.vtf,1404988,1404988
+particles/nitro_explosion.pcf,35796,35796
+particles/particles_manifest.txt,366,366
+particles/tnt_explosion.pcf,33280,33280
+scripts/soundscapes_manifest.txt,2349,2349
+materials/wateranalog/dev_waterbeneath2.vmt,763,763
+materials/wateranalog/tfwater001_normal.vtf,1312528,1312528
+materials/wateranalog/Water_cubemap_Crash_egypt.vmt,104,104
+materials/wateranalog/water_frame01_normal.vtf,262375,262375
+materials/wateranalog/wet_glass_tint.vtf,224,224

@@ -1,0 +1,115 @@
+filename,size,compressed
+materials/maps/mg_quake_dmc_b32_d/mytex/dw_grass_wvt_patch.vmt,377,377
+materials/maps/mg_quake_dmc_b32_d/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/mg_quake_dmc_b32_d/mytex/dm3_grass_wvt_patch.vmt,377,377
+materials/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_-3212_-3240_-184.vmt,176,176
+materials/maps/mg_quake_dmc_b32_d/tile/tileroof003a_-3212_-3240_-184.vmt,140,140
+materials/maps/mg_quake_dmc_b32_d/tile/tileroof003a_6376_2944_-400.vmt,138,138
+materials/maps/mg_quake_dmc_b32_d/tile/tileroof003a_4312_-4216_-704.vmt,139,139
+materials/maps/mg_quake_dmc_b32_d/tile/tileroof003a_-472_64_-24.vmt,135,135
+materials/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_6376_2944_-400.vmt,174,174
+materials/maps/mg_quake_dmc_b32_d/metal/metalfloor001a_-472_64_-24.vmt,138,138
+materials/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_-472_64_-24.vmt,171,171
+materials/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_4312_-4216_-704.vmt,175,175
+materials/maps/mg_quake_dmc_b32_d/metal/metalfloor001a_4312_-4216_-704.vmt,142,142
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall058a_4312_-4216_-704.vmt,141,141
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall058a_-472_64_-24.vmt,137,137
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall056a_4312_-4216_-704.vmt,141,141
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall056a_6376_2944_-400.vmt,140,140
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall056a_-472_64_-24.vmt,137,137
+materials/maps/mg_quake_dmc_b32_d/metal/metalfloor001a_-3212_-3240_-184.vmt,143,143
+materials/maps/mg_quake_dmc_b32_d/metal/metalfloor001a_6376_2944_-400.vmt,141,141
+materials/maps/mg_quake_dmc_b32_d/concrete/concretefloor019a_6376_2944_-400.vmt,147,147
+materials/maps/mg_quake_dmc_b32_d/concrete/concretefloor019a_4312_-4216_-704.vmt,148,148
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall058a_-3212_-3240_-184.vmt,142,142
+materials/maps/mg_quake_dmc_b32_d/concrete/concretefloor019a_-472_64_-24.vmt,144,144
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall058a_6376_2944_-400.vmt,140,140
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall033a_-472_64_-24.vmt,137,137
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall033a_-3212_-3240_-184.vmt,142,142
+materials/maps/mg_quake_dmc_b32_d/metal/metalwall033a_6376_2944_-400.vmt,140,140
+materials/maps/mg_quake_dmc_b32_d/nature/toxicslime002a_-472_64_-24.vmt,162,162
+materials/maps/mg_quake_dmc_b32_d/nature/water_canals_city_-472_64_-24.vmt,165,165
+materials/maps/mg_quake_dmc_b32_d/effects/com_shield003a_4312_-4216_-704.vmt,167,167
+materials/maps/mg_quake_dmc_b32_d/glass/glasswindowbreak070a_-3212_-3240_-184.vmt,149,149
+materials/maps/mg_quake_dmc_b32_d/effects/com_shield003a_6376_2944_-400.vmt,166,166
+materials/maps/mg_quake_dmc_b32_d/effects/com_shield003a_-472_64_-24.vmt,163,163
+materials/maps/mg_quake_dmc_b32_d/effects/com_shield003a_-3212_-3240_-184.vmt,168,168
+materials/maps/mg_quake_dmc_b32_d/metal/metalcombine001_-472_64_-24.vmt,139,139
+materials/maps/mg_quake_dmc_b32_d/metal/metalcombine001_6376_2944_-400.vmt,142,142
+materials/maps/mg_quake_dmc_b32_d/metal/metalcombine001_4312_-4216_-704.vmt,143,143
+materials/maps/mg_quake_dmc_b32_d/metal/metalcombine001_-3212_-3240_-184.vmt,144,144
+materials/maps/mg_quake_dmc_b32_d/glass/unbreakable_-472_64_-24.vmt,135,135
+materials/maps/mg_quake_dmc_b32_d/glass/unbreakable_6376_2944_-400.vmt,138,138
+materials/maps/mg_quake_dmc_b32_d/glass/unbreakable_-3212_-3240_-184.vmt,140,140
+materials/maps/mg_quake_dmc_b32_d/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_-3212_-3240_-184_depth_16.vmt,158,158
+materials/maps/mg_quake_dmc_b32_d/maps/mg_quake_dmc_b32_d/nature/water_canals_city_-472_64_-24_depth_64.vmt,147,147
+materials/maps/mg_quake_dmc_b32_d/maps/mg_quake_dmc_b32_d/nature/toxicslime002a_-472_64_-24_depth_64.vmt,144,144
+materials/maps/mg_quake_dmc_b32_d/mytex/animatedlava2_depth_32.vmt,106,106
+materials/maps/mg_quake_dmc_b32_d/mytex/animatedlava2_depth_80.vmt,106,106
+materials/maps/mg_quake_dmc_b32_d/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_4312_-4216_-704_depth_8.vmt,156,156
+materials/maps/mg_quake_dmc_b32_d/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_6376_2944_-400_depth_8.vmt,155,155
+materials/maps/mg_quake_dmc_b32_d/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_6376_2944_-400_depth_12.vmt,156,156
+materials/maps/mg_quake_dmc_b32_d/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_-472_64_-24_depth_2.vmt,152,152
+materials/maps/mg_quake_dmc_b32_d/maps/mg_quake_dmc_b32_d/nature/water_canals_city_murky_6376_2944_-400_depth_14.vmt,156,156
+materials/maps/mg_quake_dmc_b32_d/cubemapdefault.vtf,9832,9832
+materials/maps/mg_quake_dmc_b32_d/c-3212_-3240_-184.vtf,9832,9832
+materials/maps/mg_quake_dmc_b32_d/c6376_2944_-400.vtf,9832,9832
+materials/maps/mg_quake_dmc_b32_d/c4312_-4216_-704.vtf,9832,9832
+materials/maps/mg_quake_dmc_b32_d/c-472_64_-24.vtf,9832,9832
+materials/maps/mg_quake_dmc_b32_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_quake_dmc_b32_d/c-3212_-3240_-184.hdr.vtf,76528,76528
+materials/maps/mg_quake_dmc_b32_d/c6376_2944_-400.hdr.vtf,76528,76528
+materials/maps/mg_quake_dmc_b32_d/c4312_-4216_-704.hdr.vtf,76528,76528
+materials/maps/mg_quake_dmc_b32_d/c-472_64_-24.hdr.vtf,76528,76528
+materials/overviews/mg_quake_dmc_b4.vmt,170,170
+materials/overviews/mg_quake_dmc_b4.vtf,1398336,1398336
+materials/overviews/mg_quake_dmc_b4_radar.vmt,176,176
+materials/overviews/mg_quake_dmc_b4_radar.vtf,1398336,1398336
+resource/overviews/mg_quake_dmc_b4.txt,188,188
+maps/mg_quake_dmc_b4.txt,318,318
+materials/mytex/dm3.vmt,110,110
+materials/mytex/dm3.vtf,699196,699196
+materials/mytex/dm4.vmt,110,110
+materials/mytex/dm4.vtf,699196,699196
+materials/mytex/dm6.vmt,110,110
+materials/mytex/dm6.vtf,699196,699196
+materials/mytex/quake1.vmt,113,113
+materials/mytex/quake1.vtf,699196,699196
+materials/mytex/2fort.vmt,112,112
+materials/mytex/2fort.vtf,699196,699196
+materials/mytex/knife.vmt,116,116
+materials/mytex/knife.vtf,43836,43836
+materials/mytex/smokegrenade.vmt,123,123
+materials/mytex/smokegrenade.vtf,43856,43856
+materials/mytex/dm3_grass.vmt,381,381
+materials/mytex/dw_grass.vmt,389,389
+materials/mytex/quake.vmt,145,145
+materials/mytex/quake.vtf,349732,349732
+materials/mytex/fi3ndmaps.vmt,149,149
+materials/mytex/fi3ndmaps.vtf,87500,87500
+materials/mytex/animatedlava2.vmt,798,798
+materials/mytex/animatedlava2.vtf,5593040,5593040
+sound/quake/music/prepare.mp3,18807,18807
+sound/quake/music/godlike.mp3,451049,451049
+sound/quake/music/holyshit.mp3,273000,273000
+sound/quake/music/humiliation.mp3,177290,177290
+sound/quake/music/ludicrouskill.mp3,283454,283454
+sound/quake/music/multikill.mp3,228279,228279
+sound/quake/music/unstoppable.mp3,294319,294319
+sound/quake/music/monsterkill.mp3,329442,329442
+sound/quake/music/nine inch nails - quake - main theme.mp3,4921501,4921501
+sound/quake/music/quake 2 - kill ratio.mp3,2478529,2478529
+sound/quake/music/quake 2- sonic mayhem - quad machine.mp3,3444851,3444851
+sound/quake/music/quake 3 arena techno remix.mp3,3816417,3816417
+sound/quake/music/quake 3 mix.mp3,1613695,1613695
+sound/quake/music/quake 3 soundtrack- audio adrenaline.mp3,3853615,3853615
+sound/quake/music/quake 3 soundtrack- f@#k u up !.mp3,2370696,2370696
+sound/quake/music/quake 3 techno - humiliation remix.mp3,864789,864789
+sound/quake/music/sonic mayhem - rocktronica.mp3,4036263,4036263
+sound/quake/music/quake 3 arena quad damage ost.mp3,2964198,2964198
+sound/quake/music/kaboom - adventure club dubstep.mp3,2770683,2770683
+materials/maps/mg_quake_dmc_b4/c-3212_-3240_-184.vtf,4968,4968
+materials/maps/mg_quake_dmc_b4/c6376_2944_-400.vtf,4968,4968
+materials/maps/mg_quake_dmc_b4/c4312_-4216_-704.vtf,4968,4968
+materials/maps/mg_quake_dmc_b4/c-472_64_-24.vtf,4968,4968
+materials/maps/mg_quake_dmc_b4/cubemapdefault.vtf,9832,9832

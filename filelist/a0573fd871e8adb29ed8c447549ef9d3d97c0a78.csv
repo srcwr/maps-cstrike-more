@@ -1,0 +1,22 @@
+filename,size,compressed
+materials/maps/gg_hill/cubemapdefault.vtf,9824,9824
+materials/maps/gg_hill/c243_-808_433.vtf,9824,9824
+materials/maps/gg_hill/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/gg_hill/c243_-808_433.hdr.vtf,76520,76520
+materials/DEV/DEV_MEASUREGENERIC21.vmt,93,93
+materials/dev/dev_measuregeneric21.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC02.vmt,93,93
+materials/dev/dev_measuregeneric02.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC45.vmt,93,93
+materials/dev/dev_measuregeneric45.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC47.vmt,93,93
+materials/dev/dev_measuregeneric47.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC36.vmt,93,93
+materials/dev/dev_measuregeneric36.vtf,11144,11144
+materials/NEON/GREEN.vmt,95,95
+materials/neon/green.vtf,174968,174968
+materials/DEV/DEV_BARRELTOPPBUNN.vmt,91,91
+materials/dev/dev_barreltoppbunn.vtf,11144,11144
+maps/gg_hill.nav,269771,269771
+maps/soundcache/gg_hill.cache,16,16
+C:/Program Files (x86)/Steam/steamapps/dsbkiller/counter-strike source/cstrike/lights.rad,153,153

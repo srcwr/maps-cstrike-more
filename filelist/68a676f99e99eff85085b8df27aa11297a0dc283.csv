@@ -1,0 +1,158 @@
+filename,size,compressed
+materials/maps/train_assault_96/vbd/pack 2 remnont/remn_wall6_0_0_0.vmt,139,139
+materials/maps/train_assault_96/metal/metalfloor001b_0_0_0.vmt,130,130
+materials/maps/train_assault_96/maps/quake_textures/metalsupport4c_0_0_0.vmt,144,144
+materials/maps/train_assault_96/sci-fi/metal/floor02m_0_0_0.vmt,131,131
+materials/maps/train_assault_96/glass/glasswindow070c_0_0_0.vmt,131,131
+materials/maps/train_assault_96/metal/metalpipe009b_0_0_0.vmt,129,129
+materials/maps/train_assault_96/vbd/pack 2 remnont/remn_metal_p15_base_0_0_0.vmt,148,148
+materials/maps/train_assault_96/water/water_green01_dx70_depth_104.vmt,112,112
+materials/maps/train_assault_96/fy_poolnight/dev_water2_depth_8.vmt,109,109
+materials/maps/train_assault_96/cubemapdefault.vtf,4960,4960
+materials/maps/train_assault_96/c0_0_0.vtf,4960,4960
+materials/maps/train_assault_96/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/train_assault_96/c0_0_0.hdr.vtf,76528,76528
+materials/HOMICIDALAPE/HMA_DIRT.vmt,224,224
+materials/homicidalape/hma_dirt.vtf,174968,174968
+materials/MAPS/QUAKE_TEXTURES/C_MET7_2.vmt,71,71
+materials/quake_textures/c_met7_2.vtf,11144,11144
+materials/QUAKE_TEXTURES/PROTO_LIGHT.vmt,678,678
+materials/quake_textures/proto_light.vtf,2952,2952
+materials/HALO_DOOR004.vmt,99,99
+materials/halo_textures/halo_door004.vtf,349688,349688
+materials/VBD/PACK 2 REMNONT/REMN_METAL_P15_BASE.vmt,334,334
+materials/HALO_METAL013.vmt,100,100
+materials/halo_textures/halo_metal013.vtf,43912,43912
+materials/HALO_FLOOR010.vmt,100,100
+materials/halo_textures/halo_floor010.vtf,43912,43912
+materials/HALO_FLOOR008.vmt,100,100
+materials/halo_textures/halo_floor008.vtf,43912,43912
+materials/HALO_TEXTURES/HALO_METAL026.vmt,100,100
+materials/halo_textures/halo_metal026.vtf,43912,43912
+materials/HALO_METAL010.vmt,100,100
+materials/halo_textures/halo_metal010.vtf,43912,43912
+materials/COLOUR/METAL/METALFLOOR003A_BLACK.vmt,81,81
+materials/colour/metal/metalfloor003a_black.vtf,349760,349760
+materials/MAPS/QUAKE_DM17/QUAKE_TEXTURES/BASLT4_1_3436_472_-957.vmt,135,135
+materials/QUAKE_TEXTURES/BASLT4_1.vmt,680,680
+materials/quake_textures/baslt4_1.vtf,11064,11064
+materials/maps/quake_dm17/c3436_472_-957.vtf,4952,4952
+materials/PRAWN_TOON_TEXTURES/UBER_DARK_BLUE_NOIZE.vmt,88,88
+materials/prawn_toon_textures/uber_dark_blue_noize.vtf,11144,11144
+materials/HALO_TEXTURES/HALO_METAL025.vmt,100,100
+materials/halo_textures/halo_metal025.vtf,43912,43912
+materials/QUAKE_TEXTURES/C_MET7_2.vmt,71,71
+materials/WATER/WATER_GREEN01_DX70.vmt,1636,1636
+materials/HALO_FLOOR011.vmt,100,100
+materials/halo_textures/halo_floor011.vtf,699272,699272
+materials/VBD/PACK 2 REMNONT/REMN_WALL6.vmt,316,316
+materials/MAPS/QUAKE_TEXTURES/METALSUPPORT4C.vmt,307,307
+materials/quake_textures/metalsupport4c.vtf,43912,43912
+materials/VBD/PACK 2 REMNONT/REMN_METAL_P15_F_BASE.vmt,249,249
+materials/HALO_TRIM002.vmt,99,99
+materials/halo_textures/halo_trim002.vtf,43872,43872
+materials/HALO_TRIM003.vmt,99,99
+materials/halo_textures/halo_trim003.vtf,22016,22016
+materials/MAPS/QUAKE_TEXTURES/BORDER11LIGHT.vmt,101,101
+materials/quake_textures/border11light.vtf,11064,11064
+materials/HALO_CRATE2_FRONT.vmt,104,104
+materials/halo_textures/halo_crate2_front.vtf,174984,174984
+materials/HALO_TEXTURES/HALO_GRATE006.vmt,100,100
+materials/halo_textures/halo_grate006.vtf,43912,43912
+materials/HALO_CAUTION.vmt,99,99
+materials/halo_textures/halo_caution.vtf,22080,22080
+materials/HALO_ROOF002.vmt,99,99
+materials/halo_textures/halo_roof002.vtf,174984,174984
+materials/SCI-FI/METAL/FLOOR02M.vmt,226,226
+materials/sci-fi/metal/floor02m.vtf,174984,174984
+materials/sci-fi/metal/floor02_height-ssbump.vtf,1398308,1398308
+materials/CNSC/METALSCIFI1W.vmt,227,227
+materials/cnsc/cnsc_metalscifi1wl.vtf,174984,174984
+materials/cnsc/cnsc_metalscifi1wl_normal.vtf,1048783,1048783
+materials/cnsc/cnsc_metalscifi1wl_height.vtf,1048783,1048783
+materials/XIX_TEXTUREN/TD_CREDITS.vmt,102,102
+materials/xix_texturen/td_credits.vtf,174984,174984
+materials/THC/THC_DECAL_256X256.vmt,91,91
+materials/thc/thc_decal_256x256.vtf,87640,87640
+materials/XIX_TEXTUREN/SCROLL_BAHN1.vmt,225,225
+materials/xix_texturen/scroll_bahn1.vtf,174984,174984
+materials/XIX_TEXTUREN/CONCRETEXIX.vmt,224,224
+materials/xix_texturen/CONCRETExix.vtf,43912,43912
+materials/HALO_METAL007.vmt,100,100
+materials/halo_textures/halo_metal007.vtf,349688,349688
+materials/FY_POOLNIGHT/DEV_WATER2.vmt,1049,1049
+materials/HALO_FLOOR001.vmt,100,100
+materials/halo_textures/halo_floor001.vtf,87616,87616
+materials/MAPS/QUAKE_DM17/QUAKE_TEXTURES/PROTO_LIGHT_3436_472_-957.vmt,138,138
+materials/QUAKE_TEXTURES/SMEDKIT.vmt,107,107
+materials/quake_textures/smedkit.vtf,11144,11144
+materials/QUAKE_TEXTURES/HASTE.vmt,105,105
+materials/quake_textures/haste.vtf,11144,11144
+materials/QUAKE_TEXTURES/LMEDKIT.vmt,107,107
+materials/quake_textures/lmedkit.vtf,11144,11144
+materials/HALO_DOOR003.vmt,99,99
+materials/halo_textures/halo_door003.vtf,87616,87616
+materials/HALO_METAL006.vmt,100,100
+materials/halo_textures/halo_metal006.vtf,11144,11144
+materials/HALO_RING_OUTSIDE.vmt,104,104
+materials/halo_textures/halo_ring_outside.vtf,87544,87544
+materials/HALO_TEXTURES/HALO_TRIM003.vmt,99,99
+materials/HALO_TEXTURES/HALO_CAUTION.vmt,99,99
+materials/HALO_FLOOR002.vmt,100,100
+materials/halo_textures/halo_floor002.vtf,174984,174984
+materials/HALO_TEXTURES/HALO_PANEL003.vmt,100,100
+materials/halo_textures/halo_panel003.vtf,87616,87616
+materials/!WATERCARTOON.vmt,259,259
+materials/simpsons/!watercartoon.vtf,11144,11144
+materials/simpsons/!watercartoon_bottom.vmt,186,186
+materials/QUAKE_TEXTURES/MMEDKIT.vmt,107,107
+materials/quake_textures/mmedkit.vtf,11144,11144
+materials/MAPS/QUAKE_TEXTURES/METALBLACK03.vmt,100,100
+materials/quake_textures/metalblack03.vtf,43912,43912
+materials/EIGENE/EFFEKTE/LASER2.vmt,456,456
+materials/eigene/effekte/energy.vtf,874288,874288
+materials/eigene/effekte/explosion.vtf,874288,874288
+materials/skybox/lunarsky_01up.vmt,122,122
+materials/skybox/lunarsky_01up.vtf,2796424,2796424
+materials/skybox/lunarsky_01dn.vmt,122,122
+materials/skybox/lunarsky_01dn.vtf,2796424,2796424
+materials/skybox/lunarsky_01ft.vmt,122,122
+materials/skybox/lunarsky_01ft.vtf,2796424,2796424
+materials/skybox/lunarsky_01bk.vmt,122,122
+materials/skybox/lunarsky_01bk.vtf,2796424,2796424
+materials/skybox/lunarsky_01lf.vmt,122,122
+materials/skybox/lunarsky_01lf.vtf,2796424,2796424
+materials/skybox/lunarsky_01rt.vmt,122,122
+materials/skybox/lunarsky_01rt.vtf,2796424,2796424
+sound/quake_dm/n_health.wav,35032,35032
+sound/quake_dm/respawn1.wav,8610,8610
+sound/quake_dm/wearoff.wav,44892,44892
+sound/quake_dm/poweruprespawn.wav,119724,119724
+sound/quake_dm/haste.wav,55118,55118
+sound/quake_dm/l_health.wav,38324,38324
+sound/xix/trainmusik_6.mp3,3129260,3129260
+sound/xix/trainmusik_5.mp3,6202932,6202932
+sound/xix/trainmusik_4.mp3,4049607,4049607
+sound/xix/trainmusik_3.mp3,4534021,4534021
+sound/xix/trainmusik_2.mp3,4374779,4374779
+sound/xix/trainmusik_1.mp3,4635167,4635167
+sound/xix/trainmusik_7.mp3,2923207,2923207
+sound/quake_dm/m_health.wav,32428,32428
+sound/quake/teamlead/dark/red_winner.wav,93202,93202
+sound/quake/teamlead/dark/blue_winner.wav,88912,88912
+materials/VBD/Pack 2 Remnont/remn_wall6.vmt,316,316
+materials/Pack 2 Remnont/remn_wall6_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_wall6_normal.vtf,1398336,1398336
+materials/Pack 2 Remnont/remn_wall6.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall6.vtf,174984,174984
+materials/Pack 2 Remnont/remn_wall6.vmt,316,316
+materials/Pack 2 Remnont/remn_metal_p15_f_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_f_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_f_base.vmt,249,249
+materials/Pack 2 Remnont/remn_metal_p15_f_base.vmt,249,249
+materials/Pack 2 Remnont/remn_metal_p15_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base.vtf,87544,87544
+materials/Pack 2 Remnont/remn_metal_p15_base.vmt,334,334
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base.vmt,334,334
+materials/Pack 2 Remnont/remn_metal_p15_base_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base_normal.vtf,174944,174944

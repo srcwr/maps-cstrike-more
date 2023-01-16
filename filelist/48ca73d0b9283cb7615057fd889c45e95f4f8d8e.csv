@@ -1,0 +1,225 @@
+filename,size,compressed
+materials/maps/mg_kirbys_brawl_v2/nature/blendrockgrass004a_wvt_patch.vmt,415,415
+materials/maps/mg_kirbys_brawl_v2/metal/citadel_metalwall076a_0_0_0.vmt,139,139
+materials/maps/mg_kirbys_brawl_v2/metal/citadel_tilefloor016a_0_0_0.vmt,139,139
+materials/maps/mg_kirbys_brawl_v2/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/mg_kirbys_brawl_v2/glass/offwndwb_0_0_0.vmt,206,206
+materials/maps/mg_kirbys_brawl_v2/glass/combineglass001a_0_0_0.vmt,134,134
+materials/maps/mg_kirbys_brawl_v2/tile/tilefloor019a_0_0_0.vmt,130,130
+materials/maps/mg_kirbys_brawl_v2/wood/woodfloor006a_0_0_0.vmt,130,130
+materials/maps/mg_kirbys_brawl_v2/nature/water_canals03_depth_168.vmt,109,109
+materials/maps/mg_kirbys_brawl_v2/nature/water_canals_water2_depth_32.vmt,113,113
+materials/maps/mg_kirbys_brawl_v2/cubemapdefault.vtf,4960,4960
+materials/maps/mg_kirbys_brawl_v2/c0_0_0.vtf,4960,4960
+materials/maps/mg_kirbys_brawl_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_kirbys_brawl_v2/c0_0_0.hdr.vtf,76528,76528
+sound/mg_kirbys_brawl_music/Final Destination - Super Smash Bros. Brawl.mp3,988895,988895
+sound/mg_kirbys_brawl_music/Sonic Generations _City Escape [Classic Remix]_ Music.mp3,723302,723302
+sound/mg_kirbys_brawl_music/Sonic Generations _Green Hill Zone [Classic]_ Music.mp3,943771,943771
+sound/mg_kirbys_brawl_music/Sonic Generations _Mission [Sonic 3D Blast Saturn Theme]_ Music.mp3,1555061,1555061
+sound/mg_kirbys_brawl_music/Sonic Generations _Sky Sanctuary [Modern]_ Music.mp3,1295687,1295687
+sound/mg_kirbys_brawl_music/Sonic Generations _Speed Highway [Classic]_ Music.mp3,305544,305544
+sound/mg_kirbys_brawl_music/Super Mario Bros. Theme (techno remix).mp3,1815817,1815817
+sound/mg_kirbys_brawl_music/Super Smash Bros Brawl - Main Menu theme!.mp3,1398909,1398909
+sound/mg_kirbys_brawl_music/Super Smash Bros. Brawl(Music) - Final Destination(Master_Crazy Hand in Classic Mode).mp3,1647892,1647892
+materials/skybox/sky05bk.vmt,88,88
+materials/skybox/sky05bk.vtf,699272,699272
+materials/skybox/sky05dn.vmt,88,88
+materials/skybox/sky05dn.vtf,699272,699272
+materials/skybox/sky05ft.vmt,88,88
+materials/skybox/sky05ft.vtf,699272,699272
+materials/skybox/sky05lf.vmt,88,88
+materials/skybox/sky05lf.vtf,699272,699272
+materials/skybox/sky05rt.vmt,88,88
+materials/skybox/sky05rt.vtf,699272,699272
+materials/skybox/sky05up.vmt,88,88
+materials/skybox/sky05up.vtf,699272,699272
+materials/ssbb_textures/grass1.vmt,68,68
+materials/ssbb_textures/grass1.vtf,262368,262368
+materials/ssbb_textures/grass2.vmt,93,93
+materials/ssbb_textures/grass2.vtf,65760,65760
+materials/ssbb_textures/grass3.vmt,93,93
+materials/ssbb_textures/grass3.vtf,65760,65760
+materials/ssbb_textures/grass4.vmt,93,93
+materials/ssbb_textures/grass4.vtf,65760,65760
+materials/ssbb_textures/grass5.vmt,93,93
+materials/ssbb_textures/grass5.vtf,262368,262368
+materials/ssbb_textures/grass_platform.vmt,101,101
+materials/ssbb_textures/grass_platform.vtf,65760,65760
+materials/ssbb_textures/kirby_bomb.vmt,97,97
+materials/ssbb_textures/kirby_bomb.vtf,4320,4320
+materials/ssbb_textures/kirby_folder.vmt,93,93
+materials/ssbb_textures/kirby_folder.vtf,262368,262368
+materials/ssbb_textures/kirby_grass.vmt,96,96
+materials/ssbb_textures/kirby_grass.vtf,65760,65760
+materials/ssbb_textures/kirby_grass2.vmt,97,97
+materials/ssbb_textures/kirby_grass2.vtf,16608,16608
+materials/ssbb_textures/kirby_grass3.vmt,97,97
+materials/ssbb_textures/kirby_grass3.vtf,16608,16608
+materials/ssbb_textures/kirby_grass4.vmt,116,116
+materials/ssbb_textures/kirby_grass4.vtf,16512,16512
+materials/ssbb_textures/kirby_star.vmt,97,97
+materials/ssbb_textures/kirby_star.vtf,4320,4320
+materials/ssbb_textures/kirby_stone.vmt,98,98
+materials/ssbb_textures/kirby_stone.vtf,16608,16608
+materials/ssbb_textures/kirby_stone2.vmt,116,116
+materials/ssbb_textures/kirby_stone2.vtf,4320,4320
+materials/ssbb_textures/metal1.vmt,93,93
+materials/ssbb_textures/metal1.vtf,4320,4320
+materials/ssbb_textures/metal10.vmt,94,94
+materials/ssbb_textures/metal10.vtf,65760,65760
+materials/ssbb_textures/metal11.vmt,69,69
+materials/ssbb_textures/metal11.vtf,8320,8320
+materials/ssbb_textures/metal12.vmt,94,94
+materials/ssbb_textures/metal12.vtf,65760,65760
+materials/ssbb_textures/metal13.vmt,94,94
+materials/ssbb_textures/metal13.vtf,65760,65760
+materials/ssbb_textures/metal14.vmt,94,94
+materials/ssbb_textures/metal14.vtf,65760,65760
+materials/ssbb_textures/metal15.vmt,94,94
+materials/ssbb_textures/metal15.vtf,65760,65760
+materials/ssbb_textures/metal16.vmt,94,94
+materials/ssbb_textures/metal16.vtf,16608,16608
+materials/ssbb_textures/metal2.vmt,93,93
+materials/ssbb_textures/metal2.vtf,1248,1248
+materials/ssbb_textures/metal3.vmt,93,93
+materials/ssbb_textures/metal3.vtf,1248,1248
+materials/ssbb_textures/metal4.vmt,93,93
+materials/ssbb_textures/metal4.vtf,16608,16608
+materials/ssbb_textures/metal5.vmt,93,93
+materials/ssbb_textures/metal5.vtf,65760,65760
+materials/ssbb_textures/metal6.vmt,93,93
+materials/ssbb_textures/metal6.vtf,2176,2176
+materials/ssbb_textures/metal7.vmt,93,93
+materials/ssbb_textures/metal7.vtf,65760,65760
+materials/ssbb_textures/metal8.vmt,93,93
+materials/ssbb_textures/metal8.vtf,65760,65760
+materials/ssbb_textures/metal9.vmt,93,93
+materials/ssbb_textures/metal9.vtf,2176,2176
+materials/ssbb_textures/pillar1.vmt,94,94
+materials/ssbb_textures/pillar1.vtf,65760,65760
+materials/ssbb_textures/pillar2.vmt,94,94
+materials/ssbb_textures/pillar2.vtf,262368,262368
+materials/ssbb_textures/sand1.vmt,92,92
+materials/ssbb_textures/sand1.vtf,65760,65760
+materials/ssbb_textures/stone1.vmt,93,93
+materials/ssbb_textures/stone1.vtf,65760,65760
+materials/ssbb_textures/stone10.vmt,94,94
+materials/ssbb_textures/stone10.vtf,65760,65760
+materials/ssbb_textures/stone11.vmt,94,94
+materials/ssbb_textures/stone11.vtf,8320,8320
+materials/ssbb_textures/stone12.vmt,94,94
+materials/ssbb_textures/stone12.vtf,65760,65760
+materials/ssbb_textures/stone13.vmt,94,94
+materials/ssbb_textures/stone13.vtf,65760,65760
+materials/ssbb_textures/stone14.vmt,94,94
+materials/ssbb_textures/stone14.vtf,16608,16608
+materials/ssbb_textures/stone15.vmt,94,94
+materials/ssbb_textures/stone15.vtf,16608,16608
+materials/ssbb_textures/stone16.vmt,94,94
+materials/ssbb_textures/stone16.vtf,16608,16608
+materials/ssbb_textures/stone17.vmt,94,94
+materials/ssbb_textures/stone17.vtf,1048800,1048800
+materials/ssbb_textures/stone18.vmt,94,94
+materials/ssbb_textures/stone18.vtf,262368,262368
+materials/ssbb_textures/stone19.vmt,94,94
+materials/ssbb_textures/stone19.vtf,262368,262368
+materials/ssbb_textures/stone2.vmt,93,93
+materials/ssbb_textures/stone2.vtf,65760,65760
+materials/ssbb_textures/stone20.vmt,94,94
+materials/ssbb_textures/stone20.vtf,262368,262368
+materials/ssbb_textures/stone21.vmt,94,94
+materials/ssbb_textures/stone21.vtf,16512,16512
+materials/ssbb_textures/stone22.vmt,94,94
+materials/ssbb_textures/stone22.vtf,65760,65760
+materials/ssbb_textures/stone23.vmt,94,94
+materials/ssbb_textures/stone23.vtf,65760,65760
+materials/ssbb_textures/stone3.vmt,93,93
+materials/ssbb_textures/stone3.vtf,65760,65760
+materials/ssbb_textures/stone4.vmt,93,93
+materials/ssbb_textures/stone4.vtf,32928,32928
+materials/ssbb_textures/stone5.vmt,93,93
+materials/ssbb_textures/stone5.vtf,65760,65760
+materials/ssbb_textures/stone6.vmt,93,93
+materials/ssbb_textures/stone6.vtf,65760,65760
+materials/ssbb_textures/stone7.vmt,93,93
+materials/ssbb_textures/stone7.vtf,65760,65760
+materials/ssbb_textures/stone8.vmt,93,93
+materials/ssbb_textures/stone8.vtf,16608,16608
+materials/ssbb_textures/stone9.vmt,93,93
+materials/ssbb_textures/stone9.vtf,131232,131232
+materials/ssbb_textures/svamp.vmt,109,109
+materials/ssbb_textures/svamp.vtf,8352,8352
+materials/ssbb_textures/svamp2.vmt,110,110
+materials/ssbb_textures/svamp2.vtf,131232,131232
+materials/ssbb_textures/triangle.vmt,95,95
+materials/ssbb_textures/triangle.vtf,65760,65760
+materials/ssbb_textures/wood1.vmt,91,91
+materials/ssbb_textures/wood1.vtf,8352,8352
+materials/ssbb_textures/wood10.vmt,92,92
+materials/ssbb_textures/wood10.vtf,131232,131232
+materials/ssbb_textures/wood11.vmt,92,92
+materials/ssbb_textures/wood11.vtf,16608,16608
+materials/ssbb_textures/wood12.vmt,92,92
+materials/ssbb_textures/wood12.vtf,65760,65760
+materials/ssbb_textures/wood13.vmt,109,109
+materials/ssbb_textures/wood13.vtf,131232,131232
+materials/ssbb_textures/wood2.vmt,91,91
+materials/ssbb_textures/wood2.vtf,4224,4224
+materials/ssbb_textures/wood3.vmt,91,91
+materials/ssbb_textures/wood3.vtf,16608,16608
+materials/ssbb_textures/wood4.vmt,91,91
+materials/ssbb_textures/wood4.vtf,65760,65760
+materials/ssbb_textures/wood5.vmt,91,91
+materials/ssbb_textures/wood5.vtf,65760,65760
+materials/ssbb_textures/wood6.vmt,91,91
+materials/ssbb_textures/wood6.vtf,8352,8352
+materials/ssbb_textures/wood7.vmt,91,91
+materials/ssbb_textures/wood7.vtf,16608,16608
+materials/ssbb_textures/wood8.vmt,91,91
+materials/ssbb_textures/wood8.vtf,16608,16608
+materials/ssbb_textures/wood9.vmt,91,91
+materials/ssbb_textures/wood9.vtf,16608,16608
+materials/models/link/al_HS.vmt,725,725
+materials/models/link/al_HS.vtf,16464,16464
+materials/models/link/al_HS_exponent.vtf,16464,16464
+materials/models/link/al_HS_normal.vtf,16464,16464
+materials/models/link/al_HS_tip.vmt,737,737
+materials/models/link/al_HS_tip.vtf,4176,4176
+materials/models/link/al_HS_tip_exponent.vtf,4176,4176
+materials/models/link/al_HS_tip_normal.vtf,4176,4176
+materials/models/Crazy Hand/Crazyhand_body.vmt,99,99
+materials/models/Crazy Hand/Crazyhand_body.vtf,131201,131201
+materials/models/Crazy Hand/Crazyhand_body2.vmt,121,121
+materials/models/Crazy Hand/Crazyhand_body2.vtf,22080,22080
+materials/models/Crazy Hand/Crazyhand_body3.vmt,121,121
+materials/models/Crazy Hand/Crazyhand_body3.vtf,22080,22080
+materials/models/Crazy Hand/Crazyhand_FingerA.vmt,102,102
+materials/models/Crazy Hand/Crazyhand_FingerA.vtf,65727,65727
+materials/models/Master Hand/Masterhands_body3.vtf,87572,87572
+materials/models/Master Hand/Masterhand_body.vmt,101,101
+materials/models/Master Hand/Masterhand_body.vtf,131201,131201
+materials/models/Master Hand/Masterhand_body2.vmt,123,123
+materials/models/Master Hand/Masterhand_body2.vtf,22080,22080
+materials/models/Master Hand/Masterhand_body3.vmt,123,123
+materials/models/Master Hand/Masterhand_body3.vtf,22080,22080
+materials/models/Master Hand/Masterhand_FingerA.vmt,104,104
+materials/models/Master Hand/Masterhand_FingerA.vtf,65727,65727
+models/Crazyhand.dx80.vtx,26220,26220
+models/Crazyhand.dx90.vtx,25809,25809
+models/crazyhand.mdl,8008,8008
+models/Crazyhand.phy,45646,45646
+models/Crazyhand.sw.vtx,25513,25513
+models/crazyhand.vvd,82048,82048
+models/Masterhand.dx80.vtx,26220,26220
+models/Masterhand.dx90.vtx,25809,25809
+models/masterhand.mdl,8012,8012
+models/Masterhand.phy,45406,45406
+models/Masterhand.sw.vtx,25513,25513
+models/masterhand.vvd,82048,82048
+models/Link/hookshot2.dx80.vtx,34575,34575
+models/Link/hookshot2.dx90.vtx,34575,34575
+models/Link/hookshot2.mdl,1632,1632
+models/Link/hookshot2.phy,2127,2127
+models/Link/hookshot2.sw.vtx,34559,34559
+models/Link/hookshot2.vvd,125440,125440

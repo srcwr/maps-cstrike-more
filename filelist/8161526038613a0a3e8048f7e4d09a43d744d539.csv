@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/$2000$_ss_create_edition/tile/tilefloor010a_-822_773_-17.vmt,143,143
+materials/maps/$2000$_ss_create_edition/tile/tilefloor010a_-765_620_44.vmt,142,142
+materials/maps/$2000$_ss_create_edition/effects/combineshield/comshieldwall_-765_620_44.vmt,182,182
+materials/maps/$2000$_ss_create_edition/dev/dev_water5_-822_773_-17.vmt,162,162
+materials/maps/$2000$_ss_create_edition/maps/$2000$_ss_create_edition/dev/dev_water5_-822_773_-17_depth_17.vmt,144,144
+materials/maps/$2000$_ss_create_edition/cubemapdefault.vtf,9824,9824
+materials/maps/$2000$_ss_create_edition/c-822_773_-17.vtf,9824,9824
+materials/maps/$2000$_ss_create_edition/c-765_620_44.vtf,9824,9824
+materials/SS_CREATE_TEXTURES/SS-CREATE.vmt,134,134
+materials/ss_create_textures/SS-Create.vtf,87616,87616
+maps/soundcache/$2000$_ss_create_edition.cache,16,16

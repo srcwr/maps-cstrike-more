@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/maps/zm_fail_inc_v4/nature/blendgrassgravel001b_wvt_patch.vmt,283,283
+materials/maps/zm_fail_inc_v4/environment maps/pipemetal001a_0_0_0.vmt,138,138
+materials/maps/zm_fail_inc_v4/plaster/offwllc_0_0_0.vmt,123,123
+materials/maps/zm_fail_inc_v4/glass/combineglass001a_0_0_0.vmt,130,130
+materials/maps/zm_fail_inc_v4/environment maps/pipemetal004b_0_0_0.vmt,138,138
+materials/maps/zm_fail_inc_v4/vehicle/metaltrain001a_0_0_0.vmt,130,130
+materials/maps/zm_fail_inc_v4/cubemapdefault.vtf,9832,9832
+materials/maps/zm_fail_inc_v4/c0_0_0.vtf,9832,9832
+materials/maps/zm_fail_inc_v4/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_fail_inc_v4/c0_0_0.hdr.vtf,76528,76528
+materials/EGNA/PFLOGO.vmt,87,87
+materials/egna/PFLogo.vtf,349688,349688
+materials/EGNA/FAILINC.vmt,88,88
+materials/egna/FailInc.vtf,43872,43872
+materials/BLACKROCKSHOOTER/BRSBODYINTERIOR.vmt,312,312
+materials/BlackRockShooter/BRSBodyInterior.vtf,699272,699272
+materials/BlackRockShooter/BRSBodyInteriorNormalMap.vtf,699272,699272
+materials/EGNA/INVISBLUE.vmt,106,106
+materials/egna/Invisblue.vtf,87616,87616
+materials/EGNA/DRRETSLAG.vmt,90,90
+materials/egna/DrRetslag.vtf,174944,174944
+materials/EGNA/PFLOGO2.vmt,88,88
+materials/egna/PFlogo2.vtf,262288,262288
+materials/EGNA/ZMFAILINC.vmt,90,90
+materials/egna/zmfailinc.vtf,131216,131216
+materials/EGNA/MAPBY.vmt,86,86
+materials/egna/Mapby.vtf,131216,131216
+sound/custom/gone.wav,39012,39012
+sound/custom/dukenukemhm.mp3,15463,15463
+sound/custom/readytoinfiltrate.mp3,31346,31346
+maps/soundcache/zm_fail_inc_v4.cache,16,16

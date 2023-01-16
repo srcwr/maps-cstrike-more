@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/de_sandcamp/nature/water_canals03_192_-192_64.vmt,155,155
+materials/maps/de_sandcamp/nature/water_canals03_576_-64_96.vmt,154,154
+materials/maps/de_sandcamp/nature/water_canals03_192_128_64.vmt,154,154
+materials/maps/de_sandcamp/maps/de_sandcamp/nature/water_canals03_576_-64_96_depth_96.vmt,136,136
+materials/maps/de_sandcamp/cubemapdefault.vtf,9832,9832
+materials/maps/de_sandcamp/c192_-192_64.vtf,4968,4968
+materials/maps/de_sandcamp/c576_-64_96.vtf,4968,4968
+materials/maps/de_sandcamp/c192_128_64.vtf,4968,4968
+materials/maps/de_sandcamp/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_sandcamp/c192_-192_64.hdr.vtf,76528,76528
+materials/maps/de_sandcamp/c576_-64_96.hdr.vtf,76528,76528
+materials/maps/de_sandcamp/c192_128_64.hdr.vtf,76528,76528

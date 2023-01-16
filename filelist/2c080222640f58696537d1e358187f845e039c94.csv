@@ -1,0 +1,107 @@
+filename,size,compressed
+materials/maps/bhop_lupadamadami/crash bandicoot medi 2/mediwater_depth_256.vmt,120,109
+materials/maps/bhop_lupadamadami/cubemapdefault.vtf,9832,106
+materials/maps/bhop_lupadamadami/c2560_1712_216.vtf,4968,2928
+materials/maps/bhop_lupadamadami/c4352_1712_216.vtf,4968,3136
+materials/maps/bhop_lupadamadami/c4208_4064_216.vtf,4968,2942
+materials/maps/bhop_lupadamadami/c4304_6304_216.vtf,4968,2930
+materials/maps/bhop_lupadamadami/c4592_7792_216.vtf,4968,3161
+materials/maps/bhop_lupadamadami/c7984_7872_216.vtf,4968,2929
+materials/maps/bhop_lupadamadami/c8464_6800_216.vtf,4968,2910
+materials/maps/bhop_lupadamadami/c8464_5056_216.vtf,4968,2942
+materials/maps/bhop_lupadamadami/c8480_3360_216.vtf,4968,3011
+materials/maps/bhop_lupadamadami/c7360_2736_216.vtf,4968,2990
+materials/maps/bhop_lupadamadami/c7360_1744_216.vtf,4968,2870
+materials/maps/bhop_lupadamadami/c7344_240_216.vtf,4968,3025
+materials/maps/bhop_lupadamadami/c9920_240_216.vtf,4968,3059
+materials/maps/bhop_lupadamadami/c1920_2112_216.vtf,4968,2866
+materials/maps/bhop_lupadamadami/c3248_2864_216.vtf,4968,3055
+materials/maps/bhop_lupadamadami/c2576_4144_216.vtf,4968,2929
+materials/maps/bhop_lupadamadami/c640_4144_216.vtf,4968,3005
+materials/maps/bhop_lupadamadami/c-48_3536_216.vtf,4968,3196
+materials/maps/bhop_lupadamadami/c-48_2720_216.vtf,4968,3099
+materials/maps/bhop_lupadamadami/cubemapdefault.hdr.vtf,76528,127
+materials/maps/bhop_lupadamadami/c2560_1712_216.hdr.vtf,76536,22555
+materials/maps/bhop_lupadamadami/c4352_1712_216.hdr.vtf,76536,24206
+materials/maps/bhop_lupadamadami/c4208_4064_216.hdr.vtf,76536,26258
+materials/maps/bhop_lupadamadami/c4304_6304_216.hdr.vtf,76536,24968
+materials/maps/bhop_lupadamadami/c4592_7792_216.hdr.vtf,76536,26811
+materials/maps/bhop_lupadamadami/c7984_7872_216.hdr.vtf,76536,22925
+materials/maps/bhop_lupadamadami/c8464_6800_216.hdr.vtf,76536,24905
+materials/maps/bhop_lupadamadami/c8464_5056_216.hdr.vtf,76536,23096
+materials/maps/bhop_lupadamadami/c8480_3360_216.hdr.vtf,76536,26084
+materials/maps/bhop_lupadamadami/c7360_2736_216.hdr.vtf,76536,26647
+materials/maps/bhop_lupadamadami/c7360_1744_216.hdr.vtf,76536,25493
+materials/maps/bhop_lupadamadami/c7344_240_216.hdr.vtf,76536,27016
+materials/maps/bhop_lupadamadami/c9920_240_216.hdr.vtf,76536,26820
+materials/maps/bhop_lupadamadami/c1920_2112_216.hdr.vtf,76536,25921
+materials/maps/bhop_lupadamadami/c3248_2864_216.hdr.vtf,76536,27601
+materials/maps/bhop_lupadamadami/c2576_4144_216.hdr.vtf,76536,26574
+materials/maps/bhop_lupadamadami/c640_4144_216.hdr.vtf,76536,25535
+materials/maps/bhop_lupadamadami/c-48_3536_216.hdr.vtf,76536,26412
+materials/maps/bhop_lupadamadami/c-48_2720_216.hdr.vtf,76536,27449
+detail.vbsp,16826,1440
+models/crystalskullmodel/crystalskull.mdl,1768,428
+models/crystalskullmodel/crystalskull.dx80.vtx,19710,4336
+models/crystalskullmodel/crystalskull.dx90.vtx,19710,4336
+models/crystalskullmodel/crystalskull.sw.vtx,19710,4336
+models/crystalskullmodel/crystalskull.vvd,113792,24065
+materials/models/crystalskullmaterials/glass.vmt,586,299
+models/crystalskullmodel/crystalskull2.mdl,1776,425
+models/crystalskullmodel/crystalskull2.dx80.vtx,19710,4312
+models/crystalskullmodel/crystalskull2.dx90.vtx,19710,4312
+models/crystalskullmodel/crystalskull2.sw.vtx,19710,4311
+models/crystalskullmodel/crystalskull2.vvd,113792,24035
+materials/models/crystalskullmaterials/crystalskull.vmt,449,208
+materials/tools/toolsskip.vmt,326,239
+materials/tools/toolsskip.vtf,5680,1887
+materials/tools/toolsskip-dx10.vtf,5720,1909
+materials/tools/toolshint.vmt,324,237
+materials/tools/toolshint.vtf,5680,749
+materials/tools/toolshint-dx10.vtf,5720,774
+materials/tools/toolsnodraw.vmt,247,203
+materials/tools/toolsnodraw.vtf,2936,567
+materials/crash bandicoot/rock.vmt,92,93
+materials/crash bandicoot/rock.vtf,920,97
+materials/neon/orange_neon.vmt,101,97
+materials/neon/orange_neon.vtf,920,92
+materials/crash bandicoot/egypt_wall4_2.vmt,101,104
+materials/crash bandicoot/egypt_wall4_2.vtf,349760,73596
+materials/crash bandicoot/egypt_color1.vmt,100,103
+materials/crash bandicoot/egypt_color1.vtf,43912,14348
+materials/crash bandicoot/egypt_border1.vmt,101,103
+materials/crash bandicoot/egypt_border1.vtf,22016,5807
+materials/crash bandicoot medi 2/mediwater.vmt,220,151
+materials/crash bandicoot medi 2/mediwater.vtf,576,94
+materials/tools/toolsskybox.vmt,277,225
+materials/tools/toolsskybox.vtf,11128,957
+materials/crash bandicoot/egypt_puzzel2.vmt,101,103
+materials/crash bandicoot/egypt_puzzel2.vtf,43912,20468
+materials/crash bandicoot/egypt_puzzel1.vmt,101,103
+materials/crash bandicoot/egypt_puzzel1.vtf,43912,21292
+materials/crash bandicoot/egypt_puzzel3.vmt,101,103
+materials/crash bandicoot/egypt_puzzel3.vtf,43912,20910
+materials/tools/toolstrigger.vmt,383,265
+materials/tools/toolstrigger.vtf,5680,979
+materials/tools/toolstrigger-dx10.vtf,5720,1012
+materials/crash bandicoot/egypt_ground1.vmt,105,105
+materials/crash bandicoot/egypt_ground1.vtf,920,93
+materials/crash bandicoot/egypt_ground2.vmt,101,103
+materials/crash bandicoot/egypt_ground2.vtf,43912,23600
+materials/fakesky/sunsetmountain_hdr.vmt,76,84
+materials/fakesky/sunsetmountain_hdr.vtf,29360217,3537418
+materials/fakesky/sunsetmountain_hdr.hdr.vtf,78293752,3633921
+materials/neon/white_neon.vmt,100,96
+materials/neon/white_neon.vtf,43912,134
+materials/skybox/sunsetmountain_hdrbk.vmt,157,101
+materials/skybox/sunsetmountain_hdrbk.vtf,1398336,236204
+materials/skybox/sunsetmountain_hdrdn.vmt,157,102
+materials/skybox/sunsetmountain_hdrdn.vtf,1398336,205007
+materials/skybox/sunsetmountain_hdrft.vmt,157,102
+materials/skybox/sunsetmountain_hdrft.vtf,1398336,192731
+materials/skybox/sunsetmountain_hdrlf.vmt,157,102
+materials/skybox/sunsetmountain_hdrlf.vtf,1398336,174147
+materials/skybox/sunsetmountain_hdrrt.vmt,157,102
+materials/skybox/sunsetmountain_hdrrt.vtf,1398336,259421
+materials/skybox/sunsetmountain_hdrup.vmt,157,102
+materials/skybox/sunsetmountain_hdrup.vtf,1398336,164665

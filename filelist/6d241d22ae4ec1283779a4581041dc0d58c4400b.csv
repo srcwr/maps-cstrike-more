@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/ireal/metal/citadel_metalwall077a_0_0_0.vmt,126,126
+materials/maps/ireal/tile/tilefloor020a_cheap_0_0_0.vmt,123,123
+materials/maps/ireal/metal/citadel_metalwall090a_0_0_0.vmt,126,126
+materials/maps/ireal/nature/toxicslime002a_depth_92.vmt,108,108
+materials/maps/ireal/cubemapdefault.vtf,9824,9824
+materials/maps/ireal/c0_0_0.vtf,9824,9824
+materials/IREAL/DOOR-IRIS.vmt,88,88
+materials/ireal/door-iris.vtf,174984,174984
+maps/ireal.txt,233,233
+resource/overviews/ireal.txt,122,122
+materials/overviews/ireal.vmt,132,132
+materials/overviews/ireal.vtf,1398320,1398320
+scripts/soundscapes_ireal.txt,420,420

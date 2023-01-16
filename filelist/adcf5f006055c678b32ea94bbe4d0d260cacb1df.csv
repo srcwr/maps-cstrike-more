@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/ka_outline/cubemapdefault.vtf,9824,9824
+materials/maps/ka_outline/c0_0_128.vtf,9824,9824
+materials/maps/ka_outline/c0_512_128.vtf,9824,9824
+materials/maps/ka_outline/c0_-512_128.vtf,9824,9824
+materials/maps/ka_outline/c256_0_73.vtf,9824,9824
+materials/maps/ka_outline/c-256_0_73.vtf,9824,9824
+materials/maps/ka_outline/c0_0_416.vtf,9824,9824
+materials/maps/ka_outline/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/ka_outline/c0_0_128.hdr.vtf,76520,76520
+materials/maps/ka_outline/c0_512_128.hdr.vtf,76520,76520
+materials/maps/ka_outline/c0_-512_128.hdr.vtf,76520,76520
+materials/maps/ka_outline/c256_0_73.hdr.vtf,76520,76520
+materials/maps/ka_outline/c-256_0_73.hdr.vtf,76520,76520
+materials/maps/ka_outline/c0_0_416.hdr.vtf,76520,76520

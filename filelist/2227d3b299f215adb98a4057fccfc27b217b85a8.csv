@@ -1,0 +1,9 @@
+filename,size,compressed
+materials/maps/cs_sewer/metal/citadel_tilefloor016a_0_0_0.vmt,129,129
+materials/maps/cs_sewer/liquids/water_dx70_opaq_depth_94.vmt,110,110
+materials/maps/cs_sewer/nature/water_canals_city_murky_depth_4.vmt,116,116
+materials/maps/cs_sewer/nature/water_canals_city_murky_depth_8.vmt,116,116
+materials/maps/cs_sewer/cubemapdefault.vtf,9824,9824
+materials/maps/cs_sewer/c0_0_0.vtf,9824,9824
+materials/maps/cs_sewer/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/cs_sewer/c0_0_0.hdr.vtf,76520,76520

@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/bhop_speedrun_fluid/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_speedrun_fluid/cubemapdefault.hdr.vtf,76528,76528
+materials/COLOUR/NEON/GREEN_NEON.vmt,107,107
+materials/colour/neon/green_neon.vtf,43912,43912
+materials/COLOUR/NEON/ORANGE_NEON.vmt,108,108
+materials/colour/neon/orange_neon.vtf,43912,43912
+materials/COLOUR/NEON/BLUE_NEON.vmt,106,106
+materials/colour/neon/blue_neon.vtf,43912,43912
+materials/COLOUR/NEON/YELLOW_NEON.vmt,108,108
+materials/colour/neon/yellow_neon.vtf,43912,43912
+materials/COLOUR/NEON/RED_NEON.vmt,105,105
+materials/colour/neon/red_neon.vtf,43912,43912
+maps/bhop_speedrun_fluid.nav,1559,1559

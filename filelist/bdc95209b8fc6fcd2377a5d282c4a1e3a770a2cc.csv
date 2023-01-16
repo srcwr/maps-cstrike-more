@@ -1,0 +1,136 @@
+filename,size,compressed
+materials/maps/aquario/glass/glasswindow070a_-1592_-974_615.vmt,131,131
+materials/maps/aquario/glass/glasswindow070a_1403_621_610.vmt,129,129
+materials/maps/aquario/models/props_c17/door01a_skin14_-1592_-974_615.vmt,141,141
+materials/maps/aquario/models/props_c17/door01a_skin14_1403_621_610.vmt,139,139
+materials/maps/aquario/brick/tile_blue_rough_1403_621_610.vmt,129,129
+materials/maps/aquario/wood/offdesktop_-1592_-974_615.vmt,125,125
+materials/maps/aquario/wood/offdesktop_1403_621_610.vmt,123,123
+materials/maps/aquario/nature/water_canals_water2_dx70_depth_546.vmt,119,119
+materials/maps/aquario/cubemapdefault.vtf,9824,9824
+materials/maps/aquario/c-1592_-974_615.vtf,9824,9824
+materials/maps/aquario/c1403_621_610.vtf,9824,9824
+materials/maps/aquario/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/aquario/c-1592_-974_615.hdr.vtf,76520,76520
+materials/maps/aquario/c1403_621_610.hdr.vtf,76520,76520
+materials/GENERALDUREZA/GENERALDUREZA MAPA.vmt,138,138
+materials/FY_LATINOS_V1/MESURELATINOS.vmt,72,72
+materials/fy_latinos_v1/mesurelatinos.vtf,11128,11128
+materials/FY_LATINOS_V1/CRATELATINOS.vmt,71,71
+materials/fy_latinos_v1/cratelatinos.vtf,43896,43896
+materials/BRICK/TILE_BLUE_ROUGH.vmt,264,264
+materials/brick/tile_blue_rough.vtf,131280,131280
+materials/brick/tile_blue_rough_spec.vtf,131280,131280
+materials/brick/tile_blue_rough_norm.vtf,131280,131280
+models/props_aircraft/jed_c47.mdl,2868,2868
+models/props_aircraft/jed_c47.dx80.vtx,334159,334159
+models/props_aircraft/jed_c47.dx90.vtx,334159,334159
+models/props_aircraft/jed_c47.sw.vtx,334159,334159
+models/props_aircraft/jed_c47.phy,22627,22627
+models/props_aircraft/jed_c47.vvd,437120,437120
+materials/models/props_aircraft/c47_usaaf.vmt,317,317
+materials/models/props_aircraft/c47_usaaf.vtf,699272,699272
+materials/models/props_aircraft/c47_usaaf_n.vtf,1398308,1398308
+materials/models/props_aircraft/c47_glass.vmt,200,200
+materials/models/props_aircraft/c47_glass.vtf,22016,22016
+materials/models/props_aircraft/c47_noseart.vmt,115,115
+materials/models/props_aircraft/c47_noseart.vtf,87616,87616
+materials/models/props_aircraft/c47_wingstart.vmt,117,117
+materials/models/props_aircraft/c47_wingstart.vtf,43872,43872
+materials/models/props_aircraft/c47_prop.vmt,129,129
+materials/models/props_aircraft/c47_prop.vtf,22080,22080
+materials/models/props_aircraft/c47_interior.vmt,120,120
+materials/models/props_aircraft/c47_interior.vtf,174984,174984
+sound/admin_plugin/manamana.wav,263694,263694
+models/player/techknow/kermit_fix/kermit_fix.mdl,15484,15484
+models/player/techknow/kermit_fix/kermit_fix.dx80.vtx,8940,8940
+models/player/techknow/kermit_fix/kermit_fix.dx90.vtx,8799,8799
+models/player/techknow/kermit_fix/kermit_fix.sw.vtx,8543,8543
+models/player/techknow/kermit_fix/kermit_fix.phy,17240,17240
+models/player/techknow/kermit_fix/kermit_fix.vvd,33664,33664
+materials/models/player/techknow/kermit/body.vmt,107,107
+materials/models/player/techknow/kermit/body.vtf,43912,43912
+materials/models/player/techknow/kermit/eyes.vmt,107,107
+materials/models/player/techknow/kermit/eyes.vtf,43912,43912
+models/player/techknow/tmnt/raphael.mdl,17012,17012
+models/player/techknow/tmnt/raphael.dx80.vtx,30857,30857
+models/player/techknow/tmnt/raphael.dx90.vtx,30246,30246
+models/player/techknow/tmnt/raphael.sw.vtx,29902,29902
+models/player/techknow/tmnt/raphael.phy,17240,17240
+models/player/techknow/tmnt/raphael.vvd,108736,108736
+materials/models/player/techknow/tmnt/eyes.vmt,239,239
+materials/models/player/techknow/tmnt/body.vtf,174984,174984
+materials/models/player/techknow/tmnt/body_n.vtf,174984,174984
+materials/models/player/techknow/tmnt/red.vmt,222,222
+materials/models/player/techknow/tmnt/red.vtf,22008,22008
+materials/models/player/techknow/tmnt/color_n.vtf,22008,22008
+materials/models/player/techknow/tmnt/body.vmt,222,222
+materials/models/player/techknow/tmnt/weapons.vmt,228,228
+materials/models/player/techknow/tmnt/weapons.vtf,11144,11144
+materials/models/player/techknow/tmnt/weapons_n.vtf,11144,11144
+models/player/techknow/tmnt/donatello.mdl,17016,17016
+models/player/techknow/tmnt/donatello.dx80.vtx,22811,22811
+models/player/techknow/tmnt/donatello.dx90.vtx,22200,22200
+models/player/techknow/tmnt/donatello.sw.vtx,21856,21856
+models/player/techknow/tmnt/donatello.phy,17240,17240
+models/player/techknow/tmnt/donatello.vvd,81216,81216
+materials/models/player/techknow/tmnt/purple.vmt,225,225
+materials/models/player/techknow/tmnt/purple.vtf,22008,22008
+models/testmodels/apple_display.mdl,1916,1916
+models/testmodels/apple_display.dx80.vtx,2781,2781
+models/testmodels/apple_display.dx90.vtx,2781,2781
+models/testmodels/apple_display.sw.vtx,2781,2781
+models/testmodels/apple_display.phy,3224,3224
+models/testmodels/apple_display.vvd,12352,12352
+materials/models/testmodels/apple_display_vanilla.vmt,213,213
+materials/models/testmodels/apple_display_vanilla.vtf,349760,349760
+materials/models/testmodels/apple_display_off.vmt,209,209
+materials/models/testmodels/apple_display_off.vtf,349760,349760
+materials/models/testmodels/apple_display_broken.vmt,198,198
+materials/models/testmodels/apple_display_broken.vtf,174984,174984
+materials/models/testmodels/apple_display_filth.vmt,211,211
+materials/models/testmodels/apple_display_filth.vtf,349760,349760
+models/testmodels/keyboard.mdl,1528,1528
+models/testmodels/keyboard.dx80.vtx,1365,1365
+models/testmodels/keyboard.dx90.vtx,1365,1365
+models/testmodels/keyboard.sw.vtx,1357,1357
+models/testmodels/keyboard.phy,1282,1282
+models/testmodels/keyboard.vvd,6464,6464
+materials/models/testmodels/keyboard.vmt,288,288
+materials/models/testmodels/keyboard.vtf,174984,174984
+materials/models/testmodels/keyboard_normal.vtf,1048783,1048783
+models/mrpropre/bobomb/bobomb.mdl,2064,2064
+models/mrpropre/bobomb/bobomb.dx80.vtx,9675,9675
+models/mrpropre/bobomb/bobomb.dx90.vtx,9675,9675
+models/mrpropre/bobomb/bobomb.sw.vtx,9667,9667
+models/mrpropre/bobomb/bobomb.phy,17029,17029
+models/mrpropre/bobomb/bobomb.vvd,37440,37440
+materials/models/MrPropre/Bobomb/Bobomb.vmt,105,105
+materials/models/mrpropre/Bobomb/Bobomb.vtf,1398308,1398308
+materials/models/MrPropre/Bobomb/BobombRouge.vmt,110,110
+materials/models/mrpropre/Bobomb/Bobombrouge.vtf,1398308,1398308
+models/marioragdoll/super mario galaxy/yoshi planet/yoshi.mdl,2316,2316
+models/marioragdoll/super mario galaxy/yoshi planet/yoshi.dx80.vtx,143694,143694
+models/marioragdoll/super mario galaxy/yoshi planet/yoshi.dx90.vtx,143694,143694
+models/marioragdoll/super mario galaxy/yoshi planet/yoshi.sw.vtx,143662,143662
+models/marioragdoll/super mario galaxy/yoshi planet/yoshi.phy,156762,156762
+models/marioragdoll/super mario galaxy/yoshi planet/yoshi.vvd,483520,483520
+materials/Models/marioragdoll/Super Mario Galaxy/Yoshi planet/yoshSS04.vmt,133,133
+materials/Models/marioragdoll/Super Mario Galaxy/Yoshi planet/yoshSS02.vmt,133,133
+materials/Models/marioragdoll/Super Mario Galaxy/Yoshi planet/yoshSS01.vmt,133,133
+materials/Models/marioragdoll/Super Mario Galaxy/Yoshi planet/yoshSS00.vmt,133,133
+models/marioragdoll/super mario galaxy/bj ship/bjship.mdl,2816,2816
+models/marioragdoll/super mario galaxy/bj ship/bjship.dx80.vtx,73353,73353
+models/marioragdoll/super mario galaxy/bj ship/bjship.dx90.vtx,73353,73353
+models/marioragdoll/super mario galaxy/bj ship/bjship.sw.vtx,73289,73289
+models/marioragdoll/super mario galaxy/bj ship/bjship.phy,8661,8661
+models/marioragdoll/super mario galaxy/bj ship/bjship.vvd,297344,297344
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS00.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS07.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS06.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS05.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS04.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS03.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS02.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS01.vmt,100,100
+maps/soundcache/aquario.cache,16,16

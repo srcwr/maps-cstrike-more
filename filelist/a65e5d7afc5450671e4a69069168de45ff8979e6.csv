@@ -1,0 +1,653 @@
+filename,size,compressed
+materials/maps/mg_parish_course_v2/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/mg_parish_course_v2/ic3/ic3_black_-16_-7_192.vmt,131,131
+materials/maps/mg_parish_course_v2/ic3/ic3_black_-816_-167_368.vmt,134,134
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_-16_-7_192.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_-16_-7_192.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_-816_-167_368.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_-816_-167_368.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_-16_-7_192.vmt,151,151
+materials/maps/mg_parish_course_v2/nature/water_canals03_-16_-7_192.vmt,162,162
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2852_1287_-64.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_1952_0_136.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2080_963_552.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_1952_0_136.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim3_-16_-7_192.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim3_2076_-383_704.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim3_2080_963_552.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2852_1287_-64.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_1952_0_136.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2080_963_552.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2076_-383_704.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_1952_0_136.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall6_2076_-383_704.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall6_1952_0_136.vmt,147,147
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall6_-16_-7_192.vmt,147,147
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor3_1952_0_136.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor1_1952_0_136.vmt,153,153
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_2076_-383_704.vmt,142,142
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_1952_0_136.vmt,139,139
+materials/maps/mg_parish_course_v2/ic3/ic3_red2_2076_-383_704.vmt,133,133
+materials/maps/mg_parish_course_v2/ic3/ic3_red2_1952_0_136.vmt,130,130
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_1952_0_136.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_vent1_1952_0_136.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2488_-820_94.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_1952_0_136.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall_sup_center2_1952_0_136.vmt,158,158
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2488_-820_94.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p2_2488_-820_94.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor3_2488_-820_94.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall7_2488_-820_94.vmt,149,149
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall7_2076_-383_704.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2488_-820_94.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_3090_-1032_584.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_-16_-7_192.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2852_1287_-64.vmt,153,153
+materials/maps/mg_parish_course_v2/metal/metalroof005a_2430_-970_672.vmt,140,140
+materials/maps/mg_parish_course_v2/metal/metalroof005a_2488_-820_94.vmt,139,139
+materials/maps/mg_parish_course_v2/metal/metalroof005a_2852_1287_-64.vmt,140,140
+materials/maps/mg_parish_course_v2/metal/metalroof005a_1952_0_136.vmt,137,137
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2488_-820_94.vmt,153,153
+materials/maps/mg_parish_course_v2/nature/water_canals03_2488_-820_94.vmt,164,164
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2430_-970_672.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2488_-820_94.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9_3090_-1032_584.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2488_-820_94.vmt,155,155
+materials/maps/mg_parish_course_v2/ic3/ic3_red2_2506_-1547_172.vmt,134,134
+materials/maps/mg_parish_course_v2/ic3/ic3_red2_2488_-820_94.vmt,132,132
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2506_-1547_172.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor1_2488_-820_94.vmt,155,155
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_2488_-820_94.vmt,136,136
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_3090_-1032_584.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p2_2506_-1547_172.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p2_-16_-7_192.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2506_-1547_172.vmt,157,157
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2506_-1547_172.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2430_-970_672.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2506_-1547_172.vmt,155,155
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_2506_-1547_172.vmt,138,138
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2506_-1547_172.vmt,149,149
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2838_-1616_152.vmt,149,149
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2838_-1616_152.vmt,155,155
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_-16_-7_192.vmt,134,134
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2076_-383_704.vmt,154,154
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_-16_-7_192.vmt,145,145
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_1952_0_136.vmt,145,145
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2080_963_552.vmt,153,153
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_3184_-1541_168.vmt,149,149
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2838_-1616_152.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2838_-1616_152.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall6_2838_-1616_152.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor1_2838_-1616_152.vmt,157,157
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p2_3184_-1541_168.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p2_3196_-1533_647.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_3184_-1541_168.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_3184_-1541_168.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_3196_-1533_647.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2838_-1616_152.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_3196_-1533_647.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_3196_-1533_647.vmt,155,155
+materials/maps/mg_parish_course_v2/nature/water_canals03_3184_-1541_168.vmt,166,166
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_3196_-1533_647.vmt,149,149
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_3090_-1032_584.vmt,149,149
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall_sup_center2_3090_-1032_584.vmt,162,162
+materials/maps/mg_parish_course_v2/plaster/offwllb_3090_-1032_584.vmt,137,137
+materials/maps/mg_parish_course_v2/plaster/offwllb_2488_-820_94.vmt,135,135
+materials/maps/mg_parish_course_v2/plaster/offwllb_3196_-1533_647.vmt,137,137
+materials/maps/mg_parish_course_v2/plaster/offwllb_2430_-970_672.vmt,136,136
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_3090_-1032_584.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_3090_-1032_584.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2430_-970_672.vmt,154,154
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2488_-820_94.vmt,147,147
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall_sup_center2_2430_-970_672.vmt,161,161
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_3090_-1032_584.vmt,155,155
+materials/maps/mg_parish_course_v2/metal/metalroof008a_2430_-970_672.vmt,140,140
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_-16_-7_192.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2430_-970_672.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_304_3809_1069.vmt,159,159
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2430_-970_672.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2076_-383_704.vmt,153,153
+materials/maps/mg_parish_course_v2/nature/water_canals_water_murky_2430_-970_672.vmt,175,175
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_304_3809_1069.vmt,153,153
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_2430_-970_672.vmt,137,137
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_304_3809_1069.vmt,154,154
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2076_-383_704.vmt,148,148
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_-16_-7_192.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_-16_-7_192.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor1_2076_-383_704.vmt,156,156
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim3_1952_0_136.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim3_2430_-970_672.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor2_scrolling_2076_-383_704.vmt,187,187
+materials/maps/mg_parish_course_v2/metal/metalroof008a_2076_-383_704.vmt,140,140
+materials/maps/mg_parish_course_v2/metal/metalroof008a_2488_-820_94.vmt,139,139
+materials/maps/mg_parish_course_v2/metal/metalroof008a_1952_0_136.vmt,137,137
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2076_-383_704.vmt,153,153
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2430_-970_672.vmt,148,148
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2076_-383_704.vmt,156,156
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_window1_a_2076_-383_704.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim3_2540_976_528.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim3_304_3809_1069.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor1_2080_963_552.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2080_963_552.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2838_2504_-60.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor2_scrolling_2080_963_552.vmt,186,186
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2540_976_528.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_304_3809_1069.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2540_976_528.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall1_2080_963_552.vmt,149,149
+materials/maps/mg_parish_course_v2/metal/metaldoor018a_2080_963_552.vmt,139,139
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2080_963_552.vmt,147,147
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_2080_963_552.vmt,136,136
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor2_scrolling_1952_0_136.vmt,184,184
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor2_scrolling_-16_-7_192.vmt,184,184
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor2_scrolling_2852_1287_-64.vmt,187,187
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor2_scrolling_2838_2504_-60.vmt,187,187
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9_2080_963_552.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2838_2504_-60.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2540_976_528.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2080_963_552.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_1668_3806_159.vmt,156,156
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor1_2720_976_255.vmt,155,155
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_2080_963_552.vmt,138,138
+materials/maps/mg_parish_course_v2/pk02/pk02_floor09a_2080_963_552.vmt,138,138
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_1952_0_136.vmt,136,136
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_2852_1287_-64.vmt,139,139
+materials/maps/mg_parish_course_v2/pk02/pk02_floor09b_2080_963_552.vmt,138,138
+materials/maps/mg_parish_course_v2/metal/metaldoor018a_2540_976_528.vmt,139,139
+materials/maps/mg_parish_course_v2/metal/metaldoor018a_2720_976_255.vmt,139,139
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2540_976_528.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_1668_3806_159.vmt,154,154
+materials/maps/mg_parish_course_v2/pk02/pk02_floor01_2080_963_552.vmt,137,137
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2080_963_552.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p2_2080_963_552.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor2_scrolling_2540_976_528.vmt,186,186
+materials/maps/mg_parish_course_v2/nature/water_canals03_2080_963_552.vmt,164,164
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2540_976_528.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall7_2540_976_528.vmt,149,149
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2540_976_528.vmt,147,147
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2720_976_255.vmt,147,147
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2540_976_528.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_window1_a_2540_976_528.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall7_-16_-7_192.vmt,147,147
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2852_1287_-64.vmt,148,148
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2720_976_255.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_innerp1_2852_1287_-64.vmt,152,152
+materials/maps/mg_parish_course_v2/nature/toxicslime002a_2852_1287_-64.vmt,165,165
+materials/maps/mg_parish_course_v2/pk02/pk02_floor09a_2852_1287_-64.vmt,139,139
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2838_2504_-60.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2766_3334_10.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2980_2766_-64.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2852_1287_-64.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2766_3334_10.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2838_2504_-60.vmt,156,156
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2980_2766_-64.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2852_1287_-64.vmt,156,156
+materials/maps/mg_parish_course_v2/pk02/pk02_floor09a_2838_2504_-60.vmt,139,139
+materials/maps/mg_parish_course_v2/pk02/pk02_floor08a_2838_2504_-60.vmt,139,139
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2766_3334_10.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_vent1_2838_2504_-60.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_vent1_-16_-7_192.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2838_2504_-60.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2980_2766_-64.vmt,153,153
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_2838_2504_-60.vmt,142,142
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2838_2504_-60.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2980_2766_-64.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2980_2766_-64.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p2_2980_2766_-64.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p2_2766_3334_10.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor1_2980_2766_-64.vmt,156,156
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall1_2980_2766_-64.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall_sup_center2_2980_2766_-64.vmt,161,161
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2766_3334_10.vmt,153,153
+materials/maps/mg_parish_course_v2/pk02/pk02_wall_big01a_2980_2766_-64.vmt,142,142
+materials/maps/mg_parish_course_v2/pk02/pk02_wall_big01a_2766_3334_10.vmt,141,141
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_2150_3807_210.vmt,139,139
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_2980_2766_-64.vmt,139,139
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall_sup_center2_2766_3334_10.vmt,160,160
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_-16_-7_192.vmt,136,136
+materials/maps/mg_parish_course_v2/metal/metalroof005a_2766_3334_10.vmt,139,139
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_1668_3806_159.vmt,142,142
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_2150_3807_210.vmt,142,142
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_-16_-7_192.vmt,139,139
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_2766_3334_10.vmt,141,141
+materials/maps/mg_parish_course_v2/nature/water_canals03_2150_3807_210.vmt,165,165
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2150_3807_210.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall1_2150_3807_210.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2150_3807_210.vmt,154,154
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_1668_3806_159.vmt,139,139
+materials/maps/mg_parish_course_v2/metal/metalroof005a_2150_3807_210.vmt,140,140
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_2766_3334_10.vmt,138,138
+materials/maps/mg_parish_course_v2/pk02/pk02_light01b_2838_2504_-60.vmt,139,139
+materials/maps/mg_parish_course_v2/pk02/pk02_light01b_2980_2766_-64.vmt,139,139
+materials/maps/mg_parish_course_v2/pk02/pk02_light01b_2766_3334_10.vmt,138,138
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_-16_-7_192.vmt,158,158
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2506_-1547_172.vmt,162,162
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_3196_-1533_647.vmt,162,162
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2430_-970_672.vmt,161,161
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2838_-1616_152.vmt,162,162
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_304_3809_1069.vmt,154,154
+materials/maps/mg_parish_course_v2/nature/water_canals03_1668_3806_159.vmt,165,165
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_1668_3806_159.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_1668_3806_159.vmt,154,154
+materials/maps/mg_parish_course_v2/pk02/pk02_door02_1668_3806_159.vmt,137,137
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_304_3809_1069.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_-584_3809_1069.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_-584_3809_1069.vmt,154,154
+materials/maps/mg_parish_course_v2/pk02/pk02_floor08a_304_3809_1069.vmt,139,139
+materials/maps/mg_parish_course_v2/pk02/pk02_floor01_304_3809_1069.vmt,138,138
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_304_3809_1069.vmt,137,137
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_-584_3809_1069.vmt,149,149
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_-584_3809_1069.vmt,155,155
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_-584_3809_1069.vmt,138,138
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_-584_3809_1069.vmt,140,140
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_vent1_304_3809_1069.vmt,154,154
+materials/maps/mg_parish_course_v2/metal/metalroof005a_-584_3809_1069.vmt,141,141
+materials/maps/mg_parish_course_v2/metal/metalroof005a_-816_-167_368.vmt,140,140
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_304_3809_1069.vmt,142,142
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9_-16_-7_192.vmt,150,150
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9_-816_-167_368.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2076_-383_704.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall_sup_center2_2488_-820_94.vmt,160,160
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall_sup_center2_2506_-1547_172.vmt,162,162
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_wall7_3090_-1032_584.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_2720_976_255.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor1_3090_-1032_584.vmt,157,157
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2430_-970_672.vmt,153,153
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2980_2766_-64.vmt,148,148
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_2838_2504_-60.vmt,148,148
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_vent1_2980_2766_-64.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_3184_-1541_168.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_-816_-167_368.vmt,161,161
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_-584_3809_1069.vmt,162,162
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2080_963_552.vmt,160,160
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_1952_0_136.vmt,158,158
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2488_-820_94.vmt,160,160
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2852_1287_-64.vmt,161,161
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_-816_-167_368.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_-816_-167_368.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_-584_3809_1069.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2080_963_552.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_1952_0_136.vmt,151,151
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2852_1287_-64.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2852_1287_-64.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2076_-383_704.vmt,161,161
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_trim7_-816_-167_368.vmt,154,154
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_-816_-167_368.vmt,137,137
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_1952_0_136.vmt,134,134
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_vent1_2076_-383_704.vmt,154,154
+materials/maps/mg_parish_course_v2/ic3/ic3_red_-16_-7_192.vmt,129,129
+materials/maps/mg_parish_course_v2/ic3/ic3_red_1952_0_136.vmt,129,129
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2076_-383_704.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2488_-820_94.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_1952_0_136.vmt,156,156
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2720_976_255.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2852_1287_-64.vmt,159,159
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2488_-820_94.vmt,158,158
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2076_-383_704.vmt,159,159
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2720_976_255.vmt,158,158
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2506_-1547_172.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2506_-1547_172.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2980_2766_-64.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2838_-1616_152.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2506_-1547_172.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_3184_-1541_168.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2838_-1616_152.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_3184_-1541_168.vmt,162,162
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2838_2504_-60.vmt,161,161
+materials/maps/mg_parish_course_v2/ic3/ic3_red_2430_-970_672.vmt,132,132
+materials/maps/mg_parish_course_v2/ic3/ic3_red_2838_-1616_152.vmt,133,133
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2430_-970_672.vmt,156,156
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2506_-1547_172.vmt,160,160
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_-16_-7_192.vmt,156,156
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2430_-970_672.vmt,159,159
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_3090_-1032_584.vmt,160,160
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_3184_-1541_168.vmt,160,160
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_2506_-1547_172.vmt,143,143
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_2488_-820_94.vmt,141,141
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor3_2838_-1616_152.vmt,157,157
+materials/maps/mg_parish_course_v2/metal/metalroof005a_2838_-1616_152.vmt,141,141
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_3196_-1533_647.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_3184_-1541_168.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_3196_-1533_647.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_3184_-1541_168.vmt,157,157
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_vent1_3184_-1541_168.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_3184_-1541_168.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_3196_-1533_647.vmt,155,155
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_3090_-1032_584.vmt,143,143
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_2430_-970_672.vmt,142,142
+materials/maps/mg_parish_course_v2/metal/metalroof005a_3090_-1032_584.vmt,141,141
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_3196_-1533_647.vmt,160,160
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_3090_-1032_584.vmt,157,157
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_3090_-1032_584.vmt,155,155
+materials/maps/mg_parish_course_v2/metal/metaldoor030a_1952_0_136.vmt,137,137
+materials/maps/mg_parish_course_v2/metal/metaldoor030a_2430_-970_672.vmt,140,140
+materials/maps/mg_parish_course_v2/metal/metaldoor030a_2506_-1547_172.vmt,141,141
+materials/maps/mg_parish_course_v2/metal/metaldoor030a_304_3809_1069.vmt,140,140
+materials/maps/mg_parish_course_v2/metal/metaldoor030a_-16_-7_192.vmt,137,137
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_304_3809_1069.vmt,148,148
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_-816_-167_368.vmt,159,159
+materials/maps/mg_parish_course_v2/ic3/ic3_red_door_2838_2504_-60.vmt,137,137
+materials/maps/mg_parish_course_v2/metal/metalroof005a_2838_2504_-60.vmt,140,140
+materials/maps/mg_parish_course_v2/metal/metalroof005a_2076_-383_704.vmt,140,140
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2540_976_528.vmt,160,160
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_3090_-1032_584.vmt,162,162
+materials/maps/mg_parish_course_v2/metal/citadel_tilefloor016a_1668_3806_159.vmt,148,148
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2080_963_552.vmt,158,158
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2540_976_528.vmt,158,158
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_2540_976_528.vmt,141,141
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_e_2720_976_255.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2838_2504_-60.vmt,159,159
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_vent1_2766_3334_10.vmt,153,153
+materials/maps/mg_parish_course_v2/glass/glasswindow070c_2980_2766_-64.vmt,142,142
+materials/maps/mg_parish_course_v2/pk02/pk02_floor_cyl02_2980_2766_-64.vmt,142,142
+materials/maps/mg_parish_course_v2/pk02/pk02_floor_cyl02_-16_-7_192.vmt,139,139
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_met_vent1_3090_-1032_584.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2766_3334_10.vmt,152,152
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_2150_3807_210.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2150_3807_210.vmt,159,159
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2766_3334_10.vmt,158,158
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2980_2766_-64.vmt,159,159
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_1668_3806_159.vmt,159,159
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2150_3807_210.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_pillar_d_1668_3806_159.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2150_3807_210.vmt,156,156
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_confloor1_2150_3807_210.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p1a_2150_3807_210.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metalfloor9_2766_3334_10.vmt,155,155
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_2766_3334_10.vmt,153,153
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_base_2838_-1616_152.vmt,160,160
+materials/maps/mg_parish_course_v2/pk02/pk02_floor01_-16_-7_192.vmt,135,135
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_304_3809_1069.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p9b_1668_3806_159.vmt,154,154
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_1668_3806_159.vmt,161,161
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_304_3809_1069.vmt,161,161
+materials/maps/mg_parish_course_v2/vbd/pack 2 remnont/remn_metal_p15_f_base_2766_3334_10.vmt,160,160
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_304_3809_1069.vmt,139,139
+materials/maps/mg_parish_course_v2/pk02/pk02_door02_304_3809_1069.vmt,137,137
+materials/maps/mg_parish_course_v2/pk02/pk02_floor01_2506_-1547_172.vmt,139,139
+materials/maps/mg_parish_course_v2/pk02/pk02_floor01_2076_-383_704.vmt,138,138
+materials/maps/mg_parish_course_v2/tile/tilefloor016a_2838_2504_-60.vmt,139,139
+materials/maps/mg_parish_course_v2/maps/mg_parish_course_v2/nature/water_canals03_-16_-7_192_depth_168.vmt,145,145
+materials/maps/mg_parish_course_v2/maps/mg_parish_course_v2/nature/water_canals_water_murky_2430_-970_672_depth_116.vmt,158,158
+materials/maps/mg_parish_course_v2/maps/mg_parish_course_v2/nature/water_canals03_2488_-820_94_depth_128.vmt,147,147
+materials/maps/mg_parish_course_v2/maps/mg_parish_course_v2/nature/water_canals03_3184_-1541_168_depth_96.vmt,148,148
+materials/maps/mg_parish_course_v2/maps/mg_parish_course_v2/nature/water_canals03_2080_963_552_depth_60.vmt,146,146
+materials/maps/mg_parish_course_v2/maps/mg_parish_course_v2/nature/toxicslime002a_2852_1287_-64_depth_104.vmt,148,148
+materials/maps/mg_parish_course_v2/maps/mg_parish_course_v2/nature/water_canals03_1668_3806_159_depth_21.vmt,147,147
+materials/maps/mg_parish_course_v2/maps/mg_parish_course_v2/nature/water_canals03_2150_3807_210_depth_84.vmt,147,147
+materials/maps/mg_parish_course_v2/cubemapdefault.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c-16_-7_192.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c-816_-167_368.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2852_1287_-64.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c1952_0_136.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2080_963_552.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2076_-383_704.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2488_-820_94.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c3090_-1032_584.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2430_-970_672.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2506_-1547_172.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2838_-1616_152.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c3184_-1541_168.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c3196_-1533_647.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c304_3809_1069.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2540_976_528.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2838_2504_-60.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c1668_3806_159.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2720_976_255.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2766_3334_10.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2980_2766_-64.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c2150_3807_210.vtf,9832,9832
+materials/maps/mg_parish_course_v2/c-584_3809_1069.vtf,9832,9832
+materials/maps/mg_parish_course_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c-16_-7_192.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c-816_-167_368.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2852_1287_-64.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c1952_0_136.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2080_963_552.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2076_-383_704.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2488_-820_94.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c3090_-1032_584.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2430_-970_672.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2506_-1547_172.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2838_-1616_152.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c3184_-1541_168.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c3196_-1533_647.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c304_3809_1069.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2540_976_528.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2838_2504_-60.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c1668_3806_159.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2720_976_255.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2766_3334_10.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2980_2766_-64.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c2150_3807_210.hdr.vtf,76528,76528
+materials/maps/mg_parish_course_v2/c-584_3809_1069.hdr.vtf,76528,76528
+materials/models/ill_hanger/vehicles/aa.vmt,77,77
+materials/models/ill_hanger/vehicles/aa.vtf,5608,5608
+materials/models/ill_hanger/vehicles/blkhwkm.vmt,82,82
+materials/models/ill_hanger/vehicles/blkhwkm.vtf,699256,699256
+materials/models/ill_hanger/vehicles/blkhwkn.vmt,82,82
+materials/models/ill_hanger/vehicles/blkhwkn.vtf,349672,349672
+materials/models/ill_hanger/vehicles/blkhwkw.vmt,101,101
+materials/models/ill_hanger/vehicles/blkhwkw.vtf,349744,349744
+materials/models/apocmodels/SonicGenerations/ClassicSonic/chr_classic_sonic_board_dif_HD.vmt,632,632
+materials/models/apocmodels/SonicGenerations/ClassicSonic/chr_classic_sonic_board_dif_HD.vtf,87616,87616
+materials/3dsmaxmodels/PlyKirby5KEye.1.vmt,89,89
+materials/3dsmaxmodels/PlyKirby5KEye.1.vtf,22104,22104
+materials/3dsmaxmodels/PlyKirby5KEye.1_00_00_00.vmt,98,98
+materials/3dsmaxmodels/PlyKirby5KEye.1_00_00_00.vtf,22104,22104
+materials/3dsmaxmodels/PlyKirby5KEye.vmt,87,87
+materials/3dsmaxmodels/PlyKirby5KEye.vtf,22104,22104
+materials/3dsmaxmodels/PlyKirby5KEyeYellow.1.vmt,95,95
+materials/3dsmaxmodels/PlyKirby5KEyeYellow.1.vtf,22104,22104
+materials/3dsmaxmodels/PlyKirby5KFoot.vmt,88,88
+materials/3dsmaxmodels/PlyKirby5KFoot.vtf,11128,11128
+materials/3dsmaxmodels/PlyKirby5KMouth_00_00_00.vmt,98,98
+materials/3dsmaxmodels/PlyKirby5KMouth_00_00_00.vtf,11128,11128
+materials/3dsmaxmodels/PlyKirby5KSkin.vmt,88,88
+materials/3dsmaxmodels/PlyKirby5KSkin.vtf,5720,5720
+materials/VBD/Pack 2 Remnont/gravity.vmt,90,90
+materials/VBD/Pack 2 Remnont/gravity.vtf,87616,87616
+materials/VBD/Pack 2 Remnont/hint_course_texture.vmt,133,133
+materials/VBD/Pack 2 Remnont/hint_course_texture.vtf,87616,87616
+materials/VBD/Pack 2 Remnont/points.vmt,89,89
+materials/VBD/Pack 2 Remnont/points.vtf,87616,87616
+materials/VBD/Pack 2 Remnont/remn_confloor1.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_confloor1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_confloor1_normal.vtf,1398308,1398308
+materials/VBD/Pack 2 Remnont/remn_confloor2_scrolling.vmt,611,611
+materials/VBD/Pack 2 Remnont/remn_confloor2_scrolling.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_innerP1.vmt,320,320
+materials/VBD/Pack 2 Remnont/remn_innerP1.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_innerP1_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_inner_window1.vmt,351,351
+materials/VBD/Pack 2 Remnont/remn_inner_window1.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_inner_window1a.vmt,333,333
+materials/VBD/Pack 2 Remnont/remn_inner_window1a.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_inner_window1_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_light2.vmt,144,144
+materials/VBD/Pack 2 Remnont/remn_light2.vtf,22144,22144
+materials/VBD/Pack 2 Remnont/remn_metalfloor1.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor1_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor3_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base.vmt,334,334
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_metal_p15_e_base.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_metal_p15_e_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_e_base_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_metal_p15_f_base.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_metal_p15_f_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metal_p1_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_metal_p2.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_metal_p2.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metal_p2_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metal_p9.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_metal_p9.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p9b.vmt,324,324
+materials/VBD/Pack 2 Remnont/remn_metal_p9b.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p9b_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_metal_p9_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_met_trim3.vmt,324,324
+materials/VBD/Pack 2 Remnont/remn_met_trim3.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_met_trim3_normal.vtf,43904,43904
+materials/VBD/Pack 2 Remnont/remn_met_trim7.vmt,324,324
+materials/VBD/Pack 2 Remnont/remn_met_trim7.vtf,11128,11128
+materials/VBD/Pack 2 Remnont/remn_met_trim7_normal.vtf,87680,87680
+materials/VBD/Pack 2 Remnont/remn_met_vent1.vmt,324,324
+materials/VBD/Pack 2 Remnont/remn_met_vent1.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_met_vent1_normal.vtf,174976,174976
+materials/VBD/Pack 2 Remnont/remn_pillar_d - original.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_pillar_d.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_pillar_d.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_pillar_d_normal - original.vtf,43904,43904
+materials/VBD/Pack 2 Remnont/remn_pillar_d_normal.vmt,87,87
+materials/VBD/Pack 2 Remnont/remn_pillar_d_normal.vtf,43904,43904
+materials/VBD/Pack 2 Remnont/remn_pillar_e.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_pillar_e.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_pillar_e_normal.vtf,43904,43904
+materials/VBD/Pack 2 Remnont/remn_wall1.vmt,316,316
+materials/VBD/Pack 2 Remnont/remn_wall1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall1_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_wall6.vmt,316,316
+materials/VBD/Pack 2 Remnont/remn_wall6.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall6_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_wall7.vmt,316,316
+materials/VBD/Pack 2 Remnont/remn_wall7.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall7_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_window1.vmt,339,339
+materials/VBD/Pack 2 Remnont/remn_window1.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_window1_a.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_window1_a.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_window1_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/schoolio_kirby.vmt,97,97
+materials/VBD/Pack 2 Remnont/schoolio_kirby.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/speed.vmt,88,88
+materials/VBD/Pack 2 Remnont/speed.vtf,87616,87616
+scripts/propdata.txt,16079,16079
+materials/SSBB_TEXTURES/KIRBY_FOLDER.vmt,93,93
+materials/ssbb_textures/kirby_folder.vtf,262368,262368
+materials/IC3/IC3_BLACK.vmt,692,692
+materials/IC3/IC3_black.vtf,699272,699272
+materials/IC3/IC3_black_normal.vtf,1398336,1398336
+materials/IC3/IC3_RED2.vmt,713,713
+materials/IC3/IC3_red2.vtf,1398336,1398336
+materials/IC3/IC3_red2_normal.vtf,1398336,1398336
+materials/IC3/IC3_RED_DOOR.vmt,721,721
+materials/IC3/IC3_red_door.vtf,1398336,1398336
+materials/IC3/IC3_red_door_normal.vtf,1398336,1398336
+materials/PK02/PK02_FLOOR09A.vmt,247,247
+materials/pk02/pk02_floor09a_C.vtf,699256,699256
+materials/pk02/pk02_floor09_N.vtf,1398320,1398320
+materials/PK02/PK02_FLOOR09B.vmt,247,247
+materials/pk02/pk02_floor09b_C.vtf,1398320,1398320
+materials/PK02/PK02_FLOOR01.vmt,247,247
+materials/pk02/pk02_floor01_C.vtf,174968,174968
+materials/pk02/pk02_floor01_N.vtf,349744,349744
+materials/PK02/PK02_FLOOR08A.vmt,248,248
+materials/pk02/pk02_floor08a_C.vtf,174968,174968
+materials/pk02/pk02_floor08a_N.vtf,349744,349744
+materials/PK02/PK02_WALL_BIG01A.vmt,251,251
+materials/pk02/pk02_wall_big01a_C.vtf,699256,699256
+materials/pk02/pk02_wall_big01a_N.vtf,1398320,1398320
+materials/PK02/PK02_LIGHT01B.vmt,267,267
+materials/pk02/pk02_light01b_C.vtf,11088,11088
+materials/pk02/pk02_light01_N.vtf,11088,11088
+materials/PK02/PK02_DOOR02.vmt,244,244
+materials/pk02/pk02_door02_C.vtf,87528,87528
+materials/pk02/pk02_door02_N.vtf,174928,174928
+materials/IC3/IC3_RED.vmt,711,711
+materials/IC3/IC3_red.vtf,1398336,1398336
+materials/IC3/IC3_red_normal.vtf,1398336,1398336
+materials/PK02/PK02_FLOOR_CYL02.vmt,259,259
+materials/pk02/pk02_floor_cyl02_C.vtf,699256,699256
+materials/pk02/pk02_floor_cyl02_N.vtf,1398320,1398320
+models/props/lab_monitor_pose01/lab_monitor_pose01.mdl,2336,2336
+models/props/lab_monitor_pose01/lab_monitor_pose01.dx80.vtx,29766,29766
+models/props/lab_monitor_pose01/lab_monitor_pose01.dx90.vtx,29766,29766
+models/props/lab_monitor_pose01/lab_monitor_pose01.sw.vtx,29766,29766
+models/props/lab_monitor_pose01/lab_monitor_pose01.phy,2919,2919
+models/props/lab_monitor_pose01/lab_monitor_pose01.vvd,146752,146752
+materials/models/props/lab_monitor/lab_monitor.vmt,344,344
+materials/models/props/lab_monitor/lab_monitor.vtf,349784,349784
+materials/models/props/lab_monitor/lab_monitor_n.vtf,87640,87640
+materials/models/props/lab_monitor/lab_monitor_screen.vmt,2689,2689
+materials/models/props/lab_monitor/lab_monitor_screen_text.vtf,349712,349712
+materials/models/props/lab_monitor/lab_monitor_screen_slow.vmt,2688,2688
+materials/models/props/lab_monitor/lab_monitor_screen_fast.vmt,2689,2689
+materials/models/props/lab_monitor/lab_monitor_off.vmt,2703,2703
+materials/models/props/lab_monitor/lab_monitor_off.vtf,160,160
+materials/models/props/lab_monitor/lab_monitor_logo.vmt,2711,2711
+materials/models/props/lab_monitor/lab_monitor_logo.vtf,349784,349784
+models/props_foliage/grass_cluster02.mdl,1460,1460
+models/props_foliage/grass_cluster02.dx80.vtx,3597,3597
+models/props_foliage/grass_cluster02.dx90.vtx,3597,3597
+models/props_foliage/grass_cluster02.sw.vtx,3597,3597
+models/props_foliage/grass_cluster02.vvd,18496,18496
+materials/models/props_foliage/grass_clusters.vmt,123,123
+materials/Models/props_foliage/grass_clusters.vtf,349760,349760
+models/props_foliage/grass_cluster01a.mdl,1460,1460
+models/props_foliage/grass_cluster01a.dx80.vtx,1293,1293
+models/props_foliage/grass_cluster01a.dx90.vtx,1293,1293
+models/props_foliage/grass_cluster01a.sw.vtx,1293,1293
+models/props_foliage/grass_cluster01a.vvd,6208,6208
+models/props/lab_desk05/lab_desk05.mdl,1724,1724
+models/props/lab_desk05/lab_desk05.dx80.vtx,12789,12789
+models/props/lab_desk05/lab_desk05.dx90.vtx,12789,12789
+models/props/lab_desk05/lab_desk05.sw.vtx,12789,12789
+models/props/lab_desk05/lab_desk05.phy,3064,3064
+models/props/lab_desk05/lab_desk05.vvd,66368,66368
+materials/models/props/lab_desk05/lab_desk05.vmt,105,105
+materials/models/props/lab_desk05/lab_desk05.vtf,175008,175008
+models/player/kirby/regular/umbrella_leet.mdl,17716,17716
+models/player/kirby/regular/umbrella_leet.dx80.vtx,156560,156560
+models/player/kirby/regular/umbrella_leet.dx90.vtx,149748,149748
+models/player/kirby/regular/umbrella_leet.sw.vtx,147460,147460
+models/player/kirby/regular/umbrella_leet.phy,17240,17240
+models/player/kirby/regular/umbrella_leet.vvd,273712,273712
+materials/models/player/kirby/regular/umbrella_leet/t_leet.vmt,340,340
+materials/models/player/kirby/regular/umbrella_leet/umbrella_leet.vtf,4194528,4194528
+materials/models/player/kirby/regular/umbrella_leet/umbrella_leet_normal.vtf,1398336,1398336
+materials/models/player/kirby/regular/umbrella_leet/t_leet_glass.vmt,297,297
+materials/models/player/kirby/regular/umbrella_leet/umbrella_leet_glass.vtf,11088,11088
+materials/models/player/kirby/regular/umbrella_leet/umbrella_leet_glass_spec.vtf,1512,1512
+models/player/kirby/cforce/cforce_counter.mdl,17168,17168
+models/player/kirby/cforce/cforce_counter.dx80.vtx,159554,159554
+models/player/kirby/cforce/cforce_counter.dx90.vtx,152839,152839
+models/player/kirby/cforce/cforce_counter.sw.vtx,150487,150487
+models/player/kirby/cforce/cforce_counter.phy,17240,17240
+models/player/kirby/cforce/cforce_counter.vvd,283328,283328
+materials/models/player/kirby/cForce/ct_gsg9.vmt,293,293
+materials/models/player/kirby/cForce/cForce.vtf,5592640,5592640
+models/apocmodels/sonicgenerations/classic_skateboard.mdl,4176,4176
+models/apocmodels/sonicgenerations/classic_skateboard.dx80.vtx,29008,29008
+models/apocmodels/sonicgenerations/classic_skateboard.dx90.vtx,29008,29008
+models/apocmodels/sonicgenerations/classic_skateboard.sw.vtx,28960,28960
+models/apocmodels/sonicgenerations/classic_skateboard.phy,2438,2438
+models/apocmodels/sonicgenerations/classic_skateboard.vvd,123392,123392
+models/cihan_helicopter.mdl,7660,7660
+models/cihan_helicopter.dx80.vtx,144211,144211
+models/cihan_helicopter.dx90.vtx,144211,144211
+models/cihan_helicopter.sw.vtx,144019,144019
+models/cihan_helicopter.phy,7713,7713
+models/cihan_helicopter.vvd,657920,657920
+models/3dsmaxmodels/ssbb_kirby.mdl,69344,69344
+models/3dsmaxmodels/ssbb_kirby.dx80.vtx,33014,33014
+models/3dsmaxmodels/ssbb_kirby.dx90.vtx,32871,32871
+models/3dsmaxmodels/ssbb_kirby.sw.vtx,32439,32439
+models/3dsmaxmodels/ssbb_kirby.vvd,106368,106368
+sound/parish_course/i am... all of me by crush 40.mp3,1385981,1385981
+"sound/parish_course/ratchet & clank soundtrack  metropolis, planet kerwan.mp3",1423899,1423899
+sound/parish_course/ratchet & clank soundtrack veldin in peril.mp3,1429845,1429845
+sound/parish_course/sonic generations - crisis city (modern).mp3,2070736,2070736
+sound/parish_course/sonic generations - seaside hill (modern).mp3,1907733,1907733

@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/fun_sumo/cubemapdefault.vtf,9824,9824
+materials/CORNTEXTURES/FUN_SUMO/LAVA.vmt,74,74
+materials/CornTextures/fun_sumo/Lava.vtf,174984,174984
+materials/CORNTEXTURES/LOLCORN.vmt,68,68
+materials/CornTextures/lolcorn.vtf,5696,5696
+models/props/cs_militia/ladderrung.mdl,1472,1472
+models/props/cs_militia/ladderrung.dx80.vtx,67417,67417
+models/props/cs_militia/ladderrung.dx90.vtx,67417,67417
+models/props/cs_militia/ladderrung.sw.vtx,67417,67417
+models/props/cs_militia/ladderrung.phy,16392,16392
+models/props/cs_militia/ladderrung.vvd,129280,129280
+materials/models/props/CS_Militia/LadderRung.vmt,163,163
+materials/models/props/cs_militia/ladderrung.vtf,174968,174968
+materials/models/props/cs_militia/ladderrung_ref.vtf,174968,174968
+maps/soundcache/fun_sumo.cache,873,873

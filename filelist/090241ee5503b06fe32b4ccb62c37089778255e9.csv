@@ -1,0 +1,306 @@
+filename,size,compressed
+materials/maps/ze_flying_zombies_b3fix/darkerz_mapper/ze_flying_zombie/water_depth_160.vmt,125,125
+materials/maps/ze_flying_zombies_b3fix/darkerz_mapper/ze_flying_zombie/water_depth_64.vmt,124,124
+materials/maps/ze_flying_zombies_b3fix/cubemapdefault.vtf,4960,4960
+materials/maps/ze_flying_zombies_b3fix/cubemapdefault.hdr.vtf,76528,76528
+materials/skybox/mpa112bk.vmt,92,92
+materials/skybox/mpa112bk.vtf,699272,699272
+materials/skybox/mpa112dn.vmt,92,92
+materials/skybox/mpa112dn.vtf,699272,699272
+materials/skybox/mpa112ft.vmt,92,92
+materials/skybox/mpa112ft.vtf,699272,699272
+materials/skybox/mpa112lf.vmt,92,92
+materials/skybox/mpa112lf.vtf,699272,699272
+materials/skybox/mpa112rt.vmt,92,92
+materials/skybox/mpa112rt.vtf,699272,699272
+materials/skybox/mpa112up.vmt,92,92
+materials/skybox/mpa112up.vtf,699272,699272
+materials/darkerz_mapper/ze_flying_zombie/digits/digits.vmt,246,246
+materials/darkerz_mapper/ze_flying_zombie/digits/digits.vtf,491728,491728
+materials/darkerz_mapper/ze_flying_zombie/emilia/body.vmt,327,327
+materials/darkerz_mapper/ze_flying_zombie/emilia/body.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/emilia/body2.vmt,328,328
+materials/darkerz_mapper/ze_flying_zombie/emilia/body2.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/emilia/body3.vmt,328,328
+materials/darkerz_mapper/ze_flying_zombie/emilia/body3.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/emilia/eyestock.vmt,252,252
+materials/darkerz_mapper/ze_flying_zombie/emilia/flower.vmt,329,329
+materials/darkerz_mapper/ze_flying_zombie/emilia/flower.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/emilia/hair.vmt,327,327
+materials/darkerz_mapper/ze_flying_zombie/emilia/hair.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/emilia/hands.vmt,328,328
+materials/darkerz_mapper/ze_flying_zombie/emilia/hands.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/emilia/head.vmt,327,327
+materials/darkerz_mapper/ze_flying_zombie/emilia/head.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/emilia/lightwarp.vtf,16525,16525
+materials/darkerz_mapper/ze_flying_zombie/emilia/misc.vmt,133,133
+materials/darkerz_mapper/ze_flying_zombie/emilia/misc.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/emilia/normal.vtf,576,576
+materials/darkerz_mapper/ze_flying_zombie/emilia/pupil.vmt,328,328
+materials/darkerz_mapper/ze_flying_zombie/emilia/pupil.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/glass/blue.vmt,309,309
+materials/darkerz_mapper/ze_flying_zombie/glass/blue.vtf,174984,174984
+materials/darkerz_mapper/ze_flying_zombie/glass/blue_tetris.vmt,113,113
+materials/darkerz_mapper/ze_flying_zombie/glass/normal.vtf,349760,349760
+materials/darkerz_mapper/ze_flying_zombie/glass/pinknpurple.vmt,323,323
+materials/darkerz_mapper/ze_flying_zombie/glass/pinknpurple.vtf,349760,349760
+materials/darkerz_mapper/ze_flying_zombie/mememe/dance.vmt,272,272
+materials/darkerz_mapper/ze_flying_zombie/mememe/dance.vtf,6991248,6991248
+materials/darkerz_mapper/ze_flying_zombie/mememe/mememe_fullscreen.vmt,283,283
+materials/darkerz_mapper/ze_flying_zombie/mememe/mememe_fullscreen.vtf,6641696,6641696
+materials/darkerz_mapper/ze_flying_zombie/overlay/humans_win.vmt,116,116
+materials/darkerz_mapper/ze_flying_zombie/overlay/humans_win.vtf,2796384,2796384
+materials/darkerz_mapper/ze_flying_zombie/overlay/zombies_win.vmt,117,117
+materials/darkerz_mapper/ze_flying_zombie/overlay/zombies_win.vtf,2796384,2796384
+materials/darkerz_mapper/ze_flying_zombie/particles/note_1.vmt,135,135
+materials/darkerz_mapper/ze_flying_zombie/particles/note_1.vtf,22080,22080
+materials/darkerz_mapper/ze_flying_zombie/particles/note_2.vmt,135,135
+materials/darkerz_mapper/ze_flying_zombie/particles/note_2.vtf,22080,22080
+materials/darkerz_mapper/ze_flying_zombie/particles/note_3.vmt,135,135
+materials/darkerz_mapper/ze_flying_zombie/particles/note_3.vtf,22080,22080
+materials/darkerz_mapper/ze_flying_zombie/scroll/back.vmt,114,114
+materials/darkerz_mapper/ze_flying_zombie/scroll/back.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/scroll/paper.vmt,115,115
+materials/darkerz_mapper/ze_flying_zombie/scroll/paper.vtf,1398336,1398336
+materials/darkerz_mapper/ze_flying_zombie/skeleton/skeleton.vmt,152,152
+materials/darkerz_mapper/ze_flying_zombie/skeleton/skeleton.vtf,175008,175008
+materials/darkerz_mapper/ze_flying_zombie/skeleton/skeleton_bleached.vmt,142,142
+materials/darkerz_mapper/ze_flying_zombie/skeleton/skeleton_bleached.vtf,175008,175008
+materials/darkerz_mapper/ze_flying_zombie/skeleton/skeleton_bloody.vmt,140,140
+materials/darkerz_mapper/ze_flying_zombie/skeleton/skeleton_bloody.vtf,175008,175008
+materials/darkerz_mapper/ze_flying_zombie/skeleton/skeleton_decomp.vmt,140,140
+materials/darkerz_mapper/ze_flying_zombie/skeleton/skeleton_decomp.vtf,175008,175008
+materials/darkerz_mapper/ze_flying_zombie/spinner/texspinner.vmt,123,123
+materials/darkerz_mapper/ze_flying_zombie/spinner/texspinner.vtf,87616,87616
+materials/darkerz_mapper/ze_flying_zombie/sprites/uganda.vmt,179,179
+materials/darkerz_mapper/ze_flying_zombie/sprites/uganda.vtf,22080,22080
+materials/darkerz_mapper/ze_flying_zombie/sprites/whitefixiswear.vmt,161,161
+materials/darkerz_mapper/ze_flying_zombie/sprites/whitefixiswear.vtf,376,376
+materials/darkerz_mapper/ze_flying_zombie/brick01.vmt,109,109
+materials/darkerz_mapper/ze_flying_zombie/brick01.vtf,349760,349760
+materials/darkerz_mapper/ze_flying_zombie/brick02.vmt,109,109
+materials/darkerz_mapper/ze_flying_zombie/brick02.vtf,22064,22064
+materials/darkerz_mapper/ze_flying_zombie/e.vmt,158,158
+materials/darkerz_mapper/ze_flying_zombie/e.vtf,22080,22080
+materials/darkerz_mapper/ze_flying_zombie/fategear.vmt,130,130
+materials/darkerz_mapper/ze_flying_zombie/fategear.vtf,349760,349760
+materials/darkerz_mapper/ze_flying_zombie/flashlight.vmt,163,163
+materials/darkerz_mapper/ze_flying_zombie/flashlight.vtf,87616,87616
+materials/darkerz_mapper/ze_flying_zombie/force_field_active.vmt,173,173
+materials/darkerz_mapper/ze_flying_zombie/force_field_active.vtf,174984,174984
+materials/darkerz_mapper/ze_flying_zombie/force_field_notactive.vmt,176,176
+materials/darkerz_mapper/ze_flying_zombie/force_field_notactive.vtf,174984,174984
+materials/darkerz_mapper/ze_flying_zombie/grass.vmt,110,110
+materials/darkerz_mapper/ze_flying_zombie/grass.vtf,87616,87616
+materials/darkerz_mapper/ze_flying_zombie/logo_b2.vmt,143,143
+materials/darkerz_mapper/ze_flying_zombie/logo_b2.vtf,349760,349760
+materials/darkerz_mapper/ze_flying_zombie/modes_admin_room.vmt,173,173
+materials/darkerz_mapper/ze_flying_zombie/modes_admin_room.vtf,174944,174944
+materials/darkerz_mapper/ze_flying_zombie/modes_admin_room_b3.vmt,176,176
+materials/darkerz_mapper/ze_flying_zombie/modes_admin_room_b3.vtf,349696,349696
+materials/darkerz_mapper/ze_flying_zombie/music_admin_room.vmt,173,173
+materials/darkerz_mapper/ze_flying_zombie/music_admin_room.vtf,349760,349760
+materials/darkerz_mapper/ze_flying_zombie/music_admin_room_p2.vmt,176,176
+materials/darkerz_mapper/ze_flying_zombie/music_admin_room_p2.vtf,349760,349760
+materials/darkerz_mapper/ze_flying_zombie/music_admin_room_p2_b3.vmt,179,179
+materials/darkerz_mapper/ze_flying_zombie/music_admin_room_p2_b3.vtf,349760,349760
+materials/darkerz_mapper/ze_flying_zombie/n.vmt,158,158
+materials/darkerz_mapper/ze_flying_zombie/n.vtf,22080,22080
+materials/darkerz_mapper/ze_flying_zombie/nswe.vmt,161,161
+materials/darkerz_mapper/ze_flying_zombie/nswe.vtf,349760,349760
+materials/darkerz_mapper/ze_flying_zombie/room_tv.vmt,162,162
+materials/darkerz_mapper/ze_flying_zombie/room_tv.vtf,174984,174984
+materials/darkerz_mapper/ze_flying_zombie/s.vmt,158,158
+materials/darkerz_mapper/ze_flying_zombie/s.vtf,22080,22080
+materials/darkerz_mapper/ze_flying_zombie/speed.vmt,160,160
+materials/darkerz_mapper/ze_flying_zombie/speed.vtf,174984,174984
+materials/darkerz_mapper/ze_flying_zombie/speed_new.vmt,164,164
+materials/darkerz_mapper/ze_flying_zombie/speed_new.vtf,174984,174984
+materials/darkerz_mapper/ze_flying_zombie/w.vmt,158,158
+materials/darkerz_mapper/ze_flying_zombie/w.vtf,22080,22080
+materials/darkerz_mapper/ze_flying_zombie/water.vmt,1648,1648
+materials/darkerz_mapper/ze_flying_zombie/water.vtf,349760,349760
+materials/models/K-on/a_tex_blazer.vmt,97,97
+materials/models/K-on/a_tex_blazer.vtf,174984,174984
+materials/models/K-on/a_tex_body3.vmt,96,96
+materials/models/K-on/a_tex_body3.vtf,174984,174984
+materials/models/K-on/a_tex_eyes2.vmt,96,96
+materials/models/K-on/a_tex_eyes2.vtf,87616,87616
+materials/models/K-on/a_tex_eyes2_r.vmt,98,98
+materials/models/K-on/a_tex_eyes2_r.vtf,87616,87616
+materials/models/K-on/a_tex_eyes2base.vmt,100,100
+materials/models/K-on/a_tex_eyes2base.vtf,43912,43912
+materials/models/K-on/a_tex_fuku.vmt,95,95
+materials/models/K-on/a_tex_fuku.vtf,174984,174984
+materials/models/K-on/a_tex_kami1.vmt,96,96
+materials/models/K-on/a_tex_kami1.vtf,174984,174984
+materials/models/K-on/a_tex_kami2.vmt,96,96
+materials/models/K-on/a_tex_kami2.vtf,174984,174984
+materials/models/K-on/a_tex_kao.vmt,94,94
+materials/models/K-on/a_tex_kao.vtf,349688,349688
+materials/models/K-on/a_tex_kaoaka.vmt,94,94
+materials/models/K-on/a_tex_kaoaka.vtf,87616,87616
+materials/models/K-on/a_tex_mustang.vmt,98,98
+materials/models/K-on/a_tex_mustang.vtf,349760,349760
+materials/models/player/darkerz/mage_girl/black_texture.vmt,193,193
+materials/models/player/darkerz/mage_girl/black_texture.vtf,87616,87616
+materials/models/player/darkerz/mage_girl/body.vmt,184,184
+materials/models/player/darkerz/mage_girl/body.vtf,349760,349760
+materials/models/player/darkerz/mage_girl/dress.vmt,185,185
+materials/models/player/darkerz/mage_girl/dress.vtf,1398336,1398336
+materials/models/player/darkerz/mage_girl/eyes.vmt,184,184
+materials/models/player/darkerz/mage_girl/eyes.vtf,22080,22080
+materials/models/player/darkerz/mage_girl/face.vmt,184,184
+materials/models/player/darkerz/mage_girl/face.vtf,349760,349760
+materials/models/player/darkerz/mage_girl/hair.vmt,184,184
+materials/models/player/darkerz/mage_girl/hair.vtf,1398336,1398336
+materials/models/player/stenli/vaas/t0243.vmt,148,148
+materials/models/player/stenli/vaas/t0243.vtf,174944,174944
+materials/models/player/stenli/vaas/t0245.vmt,251,251
+materials/models/player/stenli/vaas/t0245.vtf,87544,87544
+materials/models/player/stenli/vaas/t0245_n.vtf,87528,87528
+materials/models/player/stenli/vaas/t0246.vmt,146,146
+materials/models/player/stenli/vaas/t0246.vtf,174944,174944
+materials/models/player/stenli/vaas/t1027.vmt,251,251
+materials/models/player/stenli/vaas/t1027.vtf,699272,699272
+materials/models/player/stenli/vaas/t1027_n.vtf,699256,699256
+materials/models/player/stenli/vaas/t1030.vmt,251,251
+materials/models/player/stenli/vaas/t1030.vtf,174984,174984
+materials/models/player/stenli/vaas/t1030_n.vtf,174984,174984
+materials/models/player/stenli/vaas/t1032.vmt,251,251
+materials/models/player/stenli/vaas/t1032.vtf,699272,699272
+materials/models/player/stenli/vaas/t1032_n.vtf,699272,699272
+materials/models/player/stenli/vaas/t1035.vmt,251,251
+materials/models/player/stenli/vaas/t1035.vtf,699272,699272
+materials/models/player/stenli/vaas/t1035_n.vtf,174984,174984
+materials/models/player/stenli/vaas/t1038.vmt,251,251
+materials/models/player/stenli/vaas/t1038.vtf,349688,349688
+materials/models/player/stenli/vaas/t1038_n.vtf,349688,349688
+materials/models/player/stenli/vaas/t1040.vmt,251,251
+materials/models/player/stenli/vaas/t1040.vtf,174984,174984
+materials/models/player/stenli/vaas/t1040_n.vtf,43912,43912
+materials/models/player/vad36dishonored/body.vmt,347,347
+materials/models/player/vad36dishonored/body.vtf,1398264,1398264
+materials/models/player/vad36dishonored/body_n.vtf,699232,699232
+materials/models/player/vad36dishonored/malehands_1.vmt,359,359
+materials/models/player/vad36dishonored/malehands_1.vtf,349688,349688
+materials/models/player/vad36dishonored/malehands_n.vtf,87544,87544
+materials/models/player/vad36dishonored/mask.vmt,347,347
+materials/models/player/vad36dishonored/mask.vtf,1398264,1398264
+materials/models/player/vad36dishonored/mask_n.vtf,699232,699232
+materials/models/props/slow/tara_ismagic/slow_smoke_effect.vmt,310,310
+materials/models/props/slow/tara_ismagic/slow_smoke_effect.vtf,699232,699232
+materials/models/props/slow/tara_ismagic/slow_smoke_effect_2.vmt,152,152
+materials/models/props/slow/tara_ismagic/slow_smoke_effect_2.vtf,349760,349760
+models/darkerz_mapper/ze_flying_zombie/emilia.dx80.vtx,658776,658776
+models/darkerz_mapper/ze_flying_zombie/emilia.dx90.vtx,655220,655220
+models/darkerz_mapper/ze_flying_zombie/emilia.mdl,47984,47984
+models/darkerz_mapper/ze_flying_zombie/emilia.sw.vtx,654492,654492
+models/darkerz_mapper/ze_flying_zombie/emilia.vvd,2165248,2165248
+models/darkerz_mapper/ze_flying_zombie/scroll.dx80.vtx,8970,8970
+models/darkerz_mapper/ze_flying_zombie/scroll.dx90.vtx,8970,8970
+models/darkerz_mapper/ze_flying_zombie/scroll.mdl,1896,1896
+models/darkerz_mapper/ze_flying_zombie/scroll.sw.vtx,8954,8954
+models/darkerz_mapper/ze_flying_zombie/scroll.vvd,31296,31296
+models/darkerz_mapper/ze_flying_zombie/skeleton.dx80.vtx,211625,211625
+models/darkerz_mapper/ze_flying_zombie/skeleton.dx90.vtx,211598,211598
+models/darkerz_mapper/ze_flying_zombie/skeleton.mdl,19056,19056
+models/darkerz_mapper/ze_flying_zombie/skeleton.phy,27431,27431
+models/darkerz_mapper/ze_flying_zombie/skeleton.sw.vtx,211414,211414
+models/darkerz_mapper/ze_flying_zombie/skeleton.vvd,977152,977152
+models/darkerz_mapper/ze_flying_zombie/spinner_new.dx80.vtx,9075,9075
+models/darkerz_mapper/ze_flying_zombie/spinner_new.dx90.vtx,9075,9075
+models/darkerz_mapper/ze_flying_zombie/spinner_new.mdl,1720,1720
+models/darkerz_mapper/ze_flying_zombie/spinner_new.sw.vtx,9067,9067
+models/darkerz_mapper/ze_flying_zombie/spinner_new.vvd,43968,43968
+models/player/darkerz/mage_girl.dx80.vtx,156985,156985
+models/player/darkerz/mage_girl.dx90.vtx,155334,155334
+models/player/darkerz/mage_girl.mdl,25168,25168
+models/player/darkerz/mage_girl.phy,16984,16984
+models/player/darkerz/mage_girl.sw.vtx,154758,154758
+models/player/darkerz/mage_girl.vvd,572480,572480
+models/player/knifelemon/Azusa.dx80.vtx,241998,241998
+models/player/knifelemon/Azusa.dx90.vtx,241998,241998
+models/player/knifelemon/Azusa.phy,15832,15832
+models/player/knifelemon/Azusa.sw.vtx,241566,241566
+models/player/knifelemon/azusa.mdl,24320,24320
+models/player/knifelemon/azusa.vvd,796544,796544
+models/player/stenli/vaas.dx80.vtx,239291,239291
+models/player/stenli/vaas.dx90.vtx,238455,238455
+models/player/stenli/vaas.mdl,25388,25388
+models/player/stenli/vaas.phy,16984,16984
+models/player/stenli/vaas.sw.vtx,237879,237879
+models/player/stenli/vaas.vvd,898496,898496
+models/player/vad36dishonored/corvo.dx80.vtx,162601,162601
+models/player/vad36dishonored/corvo.dx90.vtx,160712,160712
+models/player/vad36dishonored/corvo.mdl,23376,23376
+models/player/vad36dishonored/corvo.phy,17144,17144
+models/player/vad36dishonored/corvo.sw.vtx,160344,160344
+models/player/vad36dishonored/corvo.vvd,588032,588032
+models/props/slow/tara_ismagic/tara_magic_effect.dx80.vtx,996,996
+models/props/slow/tara_ismagic/tara_magic_effect.dx90.vtx,996,996
+models/props/slow/tara_ismagic/tara_magic_effect.mdl,1696,1696
+models/props/slow/tara_ismagic/tara_magic_effect.sw.vtx,980,980
+models/props/slow/tara_ismagic/tara_magic_effect.vvd,3520,3520
+sound/darkerz_mapper/ze_flying_zombie_b3/drug/TeddyLoid feat. Daoko - MeMeMe.mp3,1567375,1567375
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_2/Anastacia - Left Outside Alone.mp3,2044016,2044016
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_2/Defences - Gravity.mp3,1551030,1551030
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_2/Ed Sheeran - Shape of You (Major Lazer Remix) [feat. Nyla & Kranium].mp3,1530048,1530048
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_2/Future - Mask Off.mp3,1624688,1624688
+"sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_2/JRDN, Cat Dealers - Future Sound (Original Mix).mp3",1676896,1676896
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_2/Mr FijiWiji feat. Danyka Nadeau - Yours Truly.mp3,1718496,1718496
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_2/Paris Blohm - Left Behinds ft. Taylr Renee(Gioni Remix).mp3,2116608,2116608
+"sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_2/Stephen feat Talib Kweli & KillaGraham - Crossfire, Part II.mp3",1384314,1384314
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_2/Tom Pulse And Brooklyn Bounce feat E-Wok - Oldskool Bounce (Jeany Kiss Remix).mp3,2514166,2514166
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_3/Fall Out Boy - Immortals.mp3,1508832,1508832
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_3/Feint - Word (feat. Laura Brehm).mp3,2198976,2198976
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_3/Flux Pavilion - Bass Cannon (JSTJR Remix).mp3,1664000,1664000
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_3/Knife Party - Bonfire.mp3,2046512,2046512
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_3/Semargl - Revolution.mp3,2163408,2163408
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_3/The PanHeads Band - ya jivoi.mp3,1688544,1688544
+sound/darkerz_mapper/ze_flying_zombie_b3/music/music_pack_3/Within Temptation - Faster (Mage Remix) (HstyleZ).mp3,1992016,1992016
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Alex Hepburn - Under (Dj Nejtrino  & Dj Stranger Remix).mp3,2002836,2002836
+sound/darkerz_mapper/ze_flying_zombie_b3/music/DJ Giuseppe Caruso & Gaetano Iudica feat. El Gorila - Fiesta Loca (Rayman Rave Remix).mp3,1462207,1462207
+sound/darkerz_mapper/ze_flying_zombie_b3/music/David Guetta Ft Sam Martin - Dangerous (Original Mix).mp3,1728482,1728482
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Dead By April - Losing You.mp3,1676820,1676820
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Dj Snake & Lil Jon - Turn Down For What (Lesware Edit).mp3,1763427,1763427
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Don Diablo & Matt Nash - Starlight (DanRock Remix).mp3,2467852,2467852
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Elektronomia - Sky High (DJ East Wolf Remix).mp3,2020646,2020646
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Heatbeat - Game Over (Radio Record).mp3,2017168,2017168
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Krewella - Come and Get it.mp3,1639831,1639831
+sound/darkerz_mapper/ze_flying_zombie_b3/music/LazerzFine - Palm Trees In California (Original Mix).mp3,1927470,1927470
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Nightwish - Know Why The Nightingale Sings.mp3,2027584,2027584
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Party Favor & Zooly - Meow.mp3,1423473,1423473
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Playmen Feat. Demy - Fallin.mp3,2120328,2120328
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Remady & Manu-L - Single Ladies (Pavvlak Remix 2017).mp3,1734438,1734438
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Skillet - Comatose.mp3,1838138,1838138
+sound/darkerz_mapper/ze_flying_zombie_b3/music/Subshock - Bounce.mp3,2520997,2520997
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/DangerZone.mp3,128649,128649
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/Thunder.mp3,198075,198075
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/Winner.mp3,31928,31928
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/Winner_one.mp3,23388,23388
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/baka.mp3,83591,83591
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/goal.mp3,16263,16263
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/goblin.mp3,81083,81083
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/haha_dz.mp3,221604,221604
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/nya.mp3,40716,40716
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/sempai.mp3,33435,33435
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/timer.mp3,230055,230055
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/trigger_activated.mp3,66720,66720
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/trigger_deactivated.mp3,17931,17931
+sound/darkerz_mapper/ze_flying_zombie_b3/sfx/uganda.mp3,133328,133328
+sound/darkerz_mapper/ze_flying_zombie_b3/start/angry_birds.mp3,300617,300617
+sound/darkerz_mapper/ze_flying_zombie_b3/start/chicken.mp3,300617,300617
+sound/darkerz_mapper/ze_flying_zombie_b3/start/dance_now.mp3,300931,300931
+sound/darkerz_mapper/ze_flying_zombie_b3/start/deadpool.mp3,300617,300617
+sound/darkerz_mapper/ze_flying_zombie_b3/start/exo.mp3,299677,299677
+sound/darkerz_mapper/ze_flying_zombie_b3/start/get_low.mp3,301244,301244
+sound/darkerz_mapper/ze_flying_zombie_b3/start/like_boss.mp3,299363,299363
+sound/darkerz_mapper/ze_flying_zombie_b3/start/mario.mp3,300931,300931
+sound/darkerz_mapper/ze_flying_zombie_b3/start/minas.mp3,300167,300167
+sound/darkerz_mapper/ze_flying_zombie_b3/start/nippontradamus.mp3,300167,300167
+sound/darkerz_mapper/ze_flying_zombie_b3/start/russian.mp3,300931,300931
+sound/darkerz_mapper/ze_flying_zombie_b3/start/troll.mp3,300304,300304
+particles/flying_zombies_b3.pcf,52868,52868
+maps/ze_flying_zombies_b3fix_particles.txt,68,68
+cfg/sourcemod/entwatch/maps/ze_flying_zombies_b3fix.cfg,993,993

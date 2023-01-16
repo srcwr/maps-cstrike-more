@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/cs_cloudpool/nature/water_canals_water2_499_581_-197.vmt,162,162
+materials/maps/cs_cloudpool/nature/water_canals_water2_-218_-224_50.vmt,162,162
+materials/maps/cs_cloudpool/nature/water_canals_water2_368_-1259_300.vmt,163,163
+materials/maps/cs_cloudpool/maps/cs_cloudpool/nature/water_canals_water2_-218_-224_50_depth_29.vmt,144,144
+materials/maps/cs_cloudpool/maps/cs_cloudpool/nature/water_canals_water2_368_-1259_300_depth_29.vmt,145,145
+materials/maps/cs_cloudpool/maps/cs_cloudpool/nature/water_canals_water2_499_581_-197_depth_29.vmt,144,144
+materials/maps/cs_cloudpool/cubemapdefault.vtf,9824,9824
+materials/maps/cs_cloudpool/c499_581_-197.vtf,9824,9824
+materials/maps/cs_cloudpool/c-218_-224_50.vtf,9824,9824
+materials/maps/cs_cloudpool/c368_-1259_300.vtf,9824,9824
+materials/maps/cs_cloudpool/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/cs_cloudpool/c499_581_-197.hdr.vtf,76520,76520
+materials/maps/cs_cloudpool/c-218_-224_50.hdr.vtf,76520,76520
+materials/maps/cs_cloudpool/c368_-1259_300.hdr.vtf,76520,76520

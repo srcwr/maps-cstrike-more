@@ -1,0 +1,38 @@
+filename,size,compressed
+materials/maps/aim_tracks/de_train/blendgraveldirt001a_wvt_patch.vmt,130,130
+materials/maps/aim_tracks/de_tides/blend_concrete_dirt_wvt_patch.vmt,316,316
+materials/maps/aim_tracks/stone/stonefloor006c_-491_-1320_9.vmt,131,131
+materials/maps/aim_tracks/stone/stonefloor006c_-492_-815_9.vmt,130,130
+materials/maps/aim_tracks/glass/glasswindow032a_-492_-815_9.vmt,131,131
+materials/maps/aim_tracks/stone/stonefloor006b_-492_-815_9.vmt,130,130
+materials/maps/aim_tracks/stone/stonefloor006b_-491_-1320_9.vmt,131,131
+materials/maps/aim_tracks/tile/tilefloor012b_-492_-815_9.vmt,128,128
+materials/maps/aim_tracks/tile/tilefloor012b_-491_-1320_9.vmt,129,129
+materials/maps/aim_tracks/concrete/milflr001_-491_-1320_9.vmt,129,129
+materials/maps/aim_tracks/concrete/milflr001_-492_-815_9.vmt,128,128
+materials/maps/aim_tracks/brick/brickwall014b_-492_-815_9.vmt,129,129
+materials/maps/aim_tracks/metal/metaldoor046a_-492_-815_9.vmt,129,129
+materials/maps/aim_tracks/environment maps/pipemetal004a_-491_-1320_9.vmt,141,141
+materials/maps/aim_tracks/environment maps/pipemetal004a_-492_-815_9.vmt,140,140
+materials/maps/aim_tracks/metal/metaldoor046a_-491_-1320_9.vmt,130,130
+materials/maps/aim_tracks/cubemapdefault.vtf,28753,28753
+materials/maps/aim_tracks/c-491_-1320_9.vtf,28753,28753
+materials/maps/aim_tracks/c-492_-815_9.vtf,28753,28753
+materials/maps/aim_tracks/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_tracks/c-491_-1320_9.hdr.vtf,76528,76528
+materials/maps/aim_tracks/c-492_-815_9.hdr.vtf,76528,76528
+C:/Program Files (x86)/Steam/steamapps/tifleader/counter-strike source/cstrike/maps/aim_tracks.nav,92496,92496
+materials/Custom1/Platform_1.vmt,85,85
+materials/Custom1/Platform_1.vtf,1398308,1398308
+materials/Custom1/Platform_2.vmt,85,85
+materials/Custom1/Platform_2.vtf,1398308,1398308
+materials/Custom1/Platform_3.vmt,85,85
+materials/Custom1/Platform_3.vtf,1398308,1398308
+materials/Custom1/Underground_sign.vmt,91,91
+materials/Custom1/Underground_sign.vtf,1398308,1398308
+materials/Custom1/private_station.vmt,90,90
+materials/Custom1/private_station.vtf,1398308,1398308
+materials/Custom1/MMVLogo.vmt,82,82
+materials/Custom1/MMVLogo.vtf,349732,349732
+materials/Custom1/Graffiti_1.vmt,85,85
+materials/Custom1/Graffiti_1.vtf,1398308,1398308

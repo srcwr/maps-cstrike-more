@@ -1,0 +1,349 @@
+filename,size,compressed
+materials/maps/jb_super_mario_rage_a20/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/jb_super_mario_rage_a20/de_nuke/nukwater_movingplane_dx70_depth_18.vmt,120,120
+materials/maps/jb_super_mario_rage_a20/de_nuke/nukwater_movingplane_dx70_depth_23.vmt,120,120
+materials/maps/jb_super_mario_rage_a20/de_nuke/nukwater_movingplane_dx70_depth_136.vmt,121,121
+materials/maps/jb_super_mario_rage_a20/de_nuke/nukwater_movingplane_dx70_depth_645.vmt,121,121
+materials/maps/jb_super_mario_rage_a20/cubemapdefault.vtf,38308,38308
+materials/maps/jb_super_mario_rage_a20/c-4008_5233_1435.vtf,38308,38308
+materials/maps/jb_super_mario_rage_a20/c-99_4544_769.vtf,38308,38308
+materials/maps/jb_super_mario_rage_a20/c-2093_5218_768.vtf,38308,38308
+materials/maps/jb_super_mario_rage_a20/c-949_3062_732.vtf,38308,38308
+materials/maps/jb_super_mario_rage_a20/c4045_5593_816.vtf,38308,38308
+materials/maps/jb_super_mario_rage_a20/c4645_5575_816.vtf,38308,38308
+materials/maps/jb_super_mario_rage_a20/c-2787_4590_773.vtf,38308,38308
+materials/maps/jb_super_mario_rage_a20/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jb_super_mario_rage_a20/c-4008_5233_1435.hdr.vtf,76528,76528
+materials/maps/jb_super_mario_rage_a20/c-99_4544_769.hdr.vtf,76528,76528
+materials/maps/jb_super_mario_rage_a20/c-2093_5218_768.hdr.vtf,76528,76528
+materials/maps/jb_super_mario_rage_a20/c-949_3062_732.hdr.vtf,76528,76528
+materials/maps/jb_super_mario_rage_a20/c4045_5593_816.hdr.vtf,76528,76528
+materials/maps/jb_super_mario_rage_a20/c4645_5575_816.hdr.vtf,76528,76528
+materials/maps/jb_super_mario_rage_a20/c-2787_4590_773.hdr.vtf,76528,76528
+materials/campus2011/blue.vmt,63,63
+materials/campus2011/blue.vtf,904,904
+materials/campus2011/green.vmt,64,64
+materials/campus2011/green.vtf,904,904
+materials/campus2011/orange.vmt,65,65
+materials/campus2011/orange.vtf,904,904
+materials/campus2011/purple.vmt,65,65
+materials/campus2011/purple.vtf,904,904
+materials/campus2011/red.vmt,62,62
+materials/campus2011/red.vtf,904,904
+materials/campus2011/yellow.vmt,65,65
+materials/campus2011/yellow.vtf,904,904
+materials/deathrun_marioWorld/1-KoopaTroopa.vmt,125,125
+materials/deathrun_marioWorld/1-KoopaTroopa.vtf,349760,349760
+materials/deathrun_marioWorld/2-Mario.vmt,119,119
+materials/deathrun_marioWorld/2-Mario.vtf,349760,349760
+materials/deathrun_marioWorld/3-Luigi.vmt,119,119
+materials/deathrun_marioWorld/3-Luigi.vtf,349760,349760
+materials/deathrun_marioWorld/4-Goomba.vmt,120,120
+materials/deathrun_marioWorld/4-Goomba.vtf,349760,349760
+materials/deathrun_marioWorld/BGhill1.vmt,94,94
+materials/deathrun_marioWorld/BGhill1.vtf,11104,11104
+materials/deathrun_marioWorld/Black.vmt,97,97
+materials/deathrun_marioWorld/Black.vtf,576,576
+materials/deathrun_marioWorld/Block1.vmt,98,98
+materials/deathrun_marioWorld/Block1.vtf,5696,5696
+materials/deathrun_marioWorld/Block2.vmt,98,98
+materials/deathrun_marioWorld/Block2.vtf,5696,5696
+materials/deathrun_marioWorld/Block3.vmt,98,98
+materials/deathrun_marioWorld/Block3.vtf,5696,5696
+materials/deathrun_marioWorld/Blue.vmt,72,72
+materials/deathrun_marioWorld/blue.vtf,5696,5696
+materials/deathrun_marioWorld/boo.vmt,115,115
+materials/deathrun_marioWorld/boo.vtf,87616,87616
+materials/deathrun_marioWorld/bowser.vmt,120,120
+materials/deathrun_marioWorld/bowser.vtf,349760,349760
+materials/deathrun_marioWorld/Brick1.vmt,99,99
+materials/deathrun_marioWorld/Brick1.vtf,5696,5696
+materials/deathrun_marioWorld/Brick2.vmt,99,99
+materials/deathrun_marioWorld/Brick2.vtf,5696,5696
+materials/deathrun_marioWorld/bridgeside.vmt,121,121
+materials/deathrun_marioWorld/bridgeside.vtf,43872,43872
+materials/deathrun_marioWorld/bulletFace.vmt,103,103
+materials/deathrun_marioWorld/bulletFace.vtf,5696,5696
+materials/deathrun_marioWorld/bullethold.vmt,103,103
+materials/deathrun_marioWorld/bullethold.vtf,22080,22080
+materials/deathrun_marioWorld/bulletSide.vmt,122,122
+materials/deathrun_marioWorld/bulletSide.vtf,43872,43872
+materials/deathrun_marioWorld/BulletStand.vmt,123,123
+materials/deathrun_marioWorld/BulletStand.vtf,1536,1536
+materials/deathrun_marioWorld/Bush1.vmt,117,117
+materials/deathrun_marioWorld/Bush1.vtf,22016,22016
+materials/deathrun_marioWorld/Bush2.vmt,117,117
+materials/deathrun_marioWorld/Bush2.vtf,11104,11104
+materials/deathrun_marioWorld/Bush3.vmt,117,117
+materials/deathrun_marioWorld/Bush3.vtf,22016,22016
+materials/deathrun_marioWorld/BushDisplacement.vmt,109,109
+materials/deathrun_marioWorld/BushDisplacement.vtf,87616,87616
+materials/deathrun_marioWorld/carpet.vmt,99,99
+materials/deathrun_marioWorld/carpet.vtf,349732,349732
+materials/deathrun_marioWorld/CastleTop.vmt,121,121
+materials/deathrun_marioWorld/CastleTop.vtf,864,864
+materials/deathrun_marioWorld/Cloud1.vmt,120,120
+materials/deathrun_marioWorld/Cloud1.vtf,11104,11104
+materials/deathrun_marioWorld/Cloud2.vmt,120,120
+materials/deathrun_marioWorld/Cloud2.vtf,11104,11104
+materials/deathrun_marioWorld/Cloud3.vmt,120,120
+materials/deathrun_marioWorld/Cloud3.vtf,11104,11104
+materials/deathrun_marioWorld/cloudguy.vmt,119,119
+materials/deathrun_marioWorld/cloudguy.vtf,43872,43872
+materials/deathrun_marioWorld/Coin.vmt,278,278
+materials/deathrun_marioWorld/Coin.vtf,8432,8432
+materials/deathrun_marioWorld/fakedoor.vmt,120,120
+materials/deathrun_marioWorld/Fakedoor.vtf,43872,43872
+materials/deathrun_marioWorld/fakewindow.vmt,103,103
+materials/deathrun_marioWorld/fakewindow.vtf,2912,2912
+materials/deathrun_marioWorld/fireball.vmt,120,120
+materials/deathrun_marioWorld/fireball.vtf,22080,22080
+materials/deathrun_marioWorld/fireflower.vmt,122,122
+materials/deathrun_marioWorld/fireflower.vtf,22080,22080
+materials/deathrun_marioWorld/flag.vmt,116,116
+materials/deathrun_marioWorld/flag.vtf,22080,22080
+materials/deathrun_marioWorld/flagpole.vmt,101,101
+materials/deathrun_marioWorld/flagpole.vtf,5696,5696
+materials/deathrun_marioWorld/flagtop.vmt,119,119
+materials/deathrun_marioWorld/flagtop.vtf,22080,22080
+materials/deathrun_marioWorld/Floor1.vmt,99,99
+materials/deathrun_marioWorld/Floor1.vtf,11144,11144
+materials/deathrun_marioWorld/Floor2.vmt,99,99
+materials/deathrun_marioWorld/Floor2.vtf,11144,11144
+materials/deathrun_marioWorld/flower.vmt,118,118
+materials/deathrun_marioWorld/flower.vtf,87616,87616
+materials/deathrun_marioWorld/Gate.vmt,115,115
+materials/deathrun_marioWorld/Gate.vtf,5632,5632
+materials/deathrun_marioWorld/goombaNORMAL.vmt,124,124
+materials/deathrun_marioWorld/goombaNORMAL.vtf,22080,22080
+materials/deathrun_marioWorld/goombaUNDER.vmt,123,123
+materials/deathrun_marioWorld/goombaUNDER.vtf,22080,22080
+materials/deathrun_marioWorld/GrayBrick.vmt,102,102
+materials/deathrun_marioWorld/GrayBrick.vtf,5696,5696
+materials/deathrun_marioWorld/hammer.vmt,118,118
+materials/deathrun_marioWorld/hammer.vtf,11104,11104
+materials/deathrun_marioWorld/hammerdude.vmt,121,121
+materials/deathrun_marioWorld/hammerdude.vtf,43872,43872
+materials/deathrun_marioWorld/Lava.vmt,72,72
+materials/deathrun_marioWorld/Lava.vtf,5696,5696
+materials/deathrun_marioWorld/LeafLadder.vmt,125,125
+materials/deathrun_marioWorld/LeafLadder.vtf,2912,2912
+materials/deathrun_marioWorld/metalbar.vmt,101,101
+materials/deathrun_marioWorld/metalbar.vtf,2872,2872
+materials/deathrun_marioWorld/PipeColor.vmt,102,102
+materials/deathrun_marioWorld/PipeColor.vtf,392,392
+materials/deathrun_marioWorld/pipeShaft.vmt,102,102
+materials/deathrun_marioWorld/pipeShaft.vtf,2912,2912
+materials/deathrun_marioWorld/PipeTop.vmt,100,100
+materials/deathrun_marioWorld/PipeTop.vtf,11104,11104
+materials/deathrun_marioWorld/shell.vmt,120,120
+materials/deathrun_marioWorld/shell.vtf,22080,22080
+materials/deathrun_marioWorld/shellred.vmt,123,123
+materials/deathrun_marioWorld/shellred.vtf,22080,22080
+materials/deathrun_marioWorld/Shroom.vmt,99,99
+materials/deathrun_marioWorld/Shroom.vtf,22080,22080
+materials/deathrun_marioWorld/ShroomDetail.vmt,105,105
+materials/deathrun_marioWorld/ShroomDetail.vtf,1536,1536
+materials/deathrun_marioWorld/Shroompower.vmt,123,123
+materials/deathrun_marioWorld/Shroompower.vtf,22080,22080
+materials/deathrun_marioWorld/Shroompower2.vmt,124,124
+materials/deathrun_marioWorld/Shroompower2.vtf,5696,5696
+materials/deathrun_marioWorld/ShroomSolid.vmt,104,104
+materials/deathrun_marioWorld/ShroomSolid.vtf,576,576
+materials/deathrun_marioWorld/Sky.vmt,119,119
+materials/deathrun_marioWorld/Sky.vtf,576,576
+materials/deathrun_marioWorld/Special-Boo.vmt,123,123
+materials/deathrun_marioWorld/Special-Boo.vtf,349760,349760
+materials/deathrun_marioWorld/star.vmt,116,116
+materials/deathrun_marioWorld/star.vtf,87616,87616
+materials/deathrun_marioWorld/thanksto.vmt,101,101
+materials/deathrun_marioWorld/thanksto.vtf,349760,349760
+materials/deathrun_marioWorld/Tree1.vmt,116,116
+materials/deathrun_marioWorld/Tree1.vtf,1536,1536
+materials/deathrun_marioWorld/Tree2.vmt,116,116
+materials/deathrun_marioWorld/Tree2.vtf,864,864
+materials/deathrun_marioWorld/turtle.vmt,119,119
+materials/deathrun_marioWorld/turtle.vtf,22080,22080
+materials/deathrun_marioWorld/WhatBlock.vmt,281,281
+materials/deathrun_marioWorld/WhatBlock.vtf,16672,16672
+materials/deathrun_marioWorld/woodbridge.vmt,121,121
+materials/deathrun_marioWorld/woodbridge.vtf,43872,43872
+materials/maps/deathrun_marioworld_final/c-138_-1241_-810.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c-160_-309_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c-219_258_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c-246_2530_-1741.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c-267_2155_-1740.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c-2702_-380_-810.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c1059_258_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c1133_-1590_-810.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c1143_-1203_-810.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c1505_2141_-1740.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c1526_2516_-1741.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c1713_-1333_-810.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c1766_-776_-810.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2011_2168_-1740.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2032_2543_-1741.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2055_265_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2062_931_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2180_1497_-827.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2570_1056_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2609_-302_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2649_344_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2720_2190_-1740.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2741_2565_-1741.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c2802_1501_-827.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c305_2150_-1740.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c326_2525_-1741.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c3374_1493_-827.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c3924_2890_-827.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c3930_3217_-1828.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c393_-1252_-810.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c3943_1794_-827.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c3943_2298_-827.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c4731_3666_-2187.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c4960_-1476_-321.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c498_269_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c5195_-1474_-321.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c5402_-1471_-321.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c5606_3558_-2365.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c5646_-1473_-321.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c5884_-1475_-321.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c6185_3172_-2751.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c6187_3813_-2751.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c6188_-1477_-321.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c6424_-1474_-321.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c6676_-1477_-321.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c776_-309_218.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c905_2159_-1740.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/c926_2534_-1741.vtf,4952,4952
+materials/maps/deathrun_marioworld_final/cubemapdefault.vtf,9824,9824
+materials/maps/deathrun_marioworld_final/maps/deathrun_marioworld_final/nature/water_movingplane_-267_2155_-1740_depth_18.vmt,158,158
+materials/maps/deathrun_marioworld_final/maps/deathrun_marioworld_final/nature/water_movingplane_2180_1497_-827_depth_20.vmt,157,157
+materials/maps/deathrun_marioworld_final/maps/deathrun_marioworld_final/nature/water_movingplane_3930_3217_-1828_depth_13.vmt,158,158
+materials/maps/deathrun_marioworld_final/nature/water_movingplane_-138_-1241_-810.vmt,176,176
+materials/maps/deathrun_marioworld_final/nature/water_movingplane_-219_258_218.vmt,173,173
+materials/maps/deathrun_marioworld_final/nature/water_movingplane_-246_2530_-1741.vmt,176,176
+materials/maps/deathrun_marioworld_final/nature/water_movingplane_-267_2155_-1740.vmt,176,176
+materials/maps/deathrun_marioworld_final/nature/water_movingplane_2180_1497_-827.vmt,175,175
+materials/maps/deathrun_marioworld_final/nature/water_movingplane_305_2150_-1740.vmt,175,175
+materials/maps/deathrun_marioworld_final/nature/water_movingplane_3930_3217_-1828.vmt,176,176
+materials/maps/jb_super_mario_rage_a20/c-1662_20_-561.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c-2093_5218_768.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c-2787_4590_773.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c-2883_663_100.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c-4008_5233_1435.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c-949_3062_732.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c-968_648_-567.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c-99_4544_769.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c1026_-25_-565.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c176_-1508_-603.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c4045_5593_816.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c4645_5575_816.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c5170_1023_-519.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/c5770_1005_-519.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/cubemapdefault.vtf,38300,38300
+materials/maps/jb_super_mario_rage_a20/de_nuke/nukwater_movingplane_dx70_depth_136.vmt,121,121
+materials/maps/jb_super_mario_rage_a20/de_nuke/nukwater_movingplane_dx70_depth_18.vmt,120,120
+materials/maps/jb_super_mario_rage_a20/de_nuke/nukwater_movingplane_dx70_depth_23.vmt,120,120
+materials/maps/jb_super_mario_rage_a20/de_nuke/nukwater_movingplane_dx70_depth_645.vmt,121,121
+materials/models/marioragdoll/super mario galaxy/1up/1-upSS00.vmt,558,558
+materials/models/marioragdoll/super mario galaxy/1up/1-upSS00.vtf,22052,22052
+materials/models/marioragdoll/super mario galaxy/goomba/gianSS00.vmt,132,132
+materials/models/marioragdoll/super mario galaxy/goomba/gianSS00.vtf,22080,22080
+materials/models/marioragdoll/super mario galaxy/goomba/gianSS01.vmt,132,132
+materials/models/marioragdoll/super mario galaxy/goomba/gianSS01.vtf,11104,11104
+materials/models/marioragdoll/super mario galaxy/goomba/gianSS02.vmt,132,132
+materials/models/marioragdoll/super mario galaxy/goomba/gianSS02.vtf,11104,11104
+materials/models/marioragdoll/super mario galaxy/goomba/gianSS03.vmt,132,132
+materials/models/marioragdoll/super mario galaxy/goomba/gianSS03.vtf,11104,11104
+materials/models/marioragdoll/super mario galaxy/goomba/goomSS00.vmt,132,132
+materials/models/marioragdoll/super mario galaxy/goomba/goomSS00.vtf,11104,11104
+materials/models/marioragdoll/super mario galaxy/goomba/goomSS01.vmt,132,132
+materials/models/marioragdoll/super mario galaxy/goomba/goomSS01.vtf,11104,11104
+materials/models/marioragdoll/super mario galaxy/goomba/goomSS02.vmt,132,132
+materials/models/marioragdoll/super mario galaxy/goomba/goomSS02.vtf,11104,11104
+materials/models/marioragdoll/super mario galaxy/goomba/goomSS03.vmt,132,132
+materials/models/marioragdoll/super mario galaxy/goomba/goomSS03.vtf,11104,11104
+materials/models/marioragdoll/super mario galaxy/lifemushroom/lifeSS00.vmt,567,567
+materials/models/marioragdoll/super mario galaxy/lifemushroom/lifeSS00.vtf,2952,2952
+materials/models/props/slow/dodgeball/slow_dodgeball.vmt,394,394
+materials/models/props/slow/dodgeball/slow_dodgeball.vtf,43912,43912
+materials/models/props/slow/dodgeball/slow_dodgeball_bump.vtf,22080,22080
+materials/sig/defused gaming.vmt,91,91
+materials/sig/defused gaming.vtf,87544,87544
+materials/sig/jaysig.vmt,83,83
+materials/sig/jaysig.vtf,2796348,2796348
+materials/sig/TopHATTwaffleSIG.vmt,85,85
+materials/sig/TopHATTwaffleSIG.vtf,699196,699196
+materials/skybox/deathrun_marioWorldSKYbk.vmt,160,160
+materials/skybox/deathrun_marioWorldSKYbk.vtf,87588,87588
+materials/skybox/deathrun_marioWorldSKYdn.vmt,160,160
+materials/skybox/deathrun_marioWorldSKYdn.vtf,87588,87588
+materials/skybox/deathrun_marioWorldSKYft.vmt,160,160
+materials/skybox/deathrun_marioWorldSKYft.vtf,87588,87588
+materials/skybox/deathrun_marioWorldSKYlf.vmt,160,160
+materials/skybox/deathrun_marioWorldSKYlf.vtf,87588,87588
+materials/skybox/deathrun_marioWorldSKYrt.vmt,160,160
+materials/skybox/deathrun_marioWorldSKYrt.vtf,87588,87588
+materials/skybox/deathrun_marioWorldSKYup.vmt,160,160
+materials/skybox/deathrun_marioWorldSKYup.vtf,87588,87588
+models/marioragdoll/super mario galaxy/1up/1up.dx80.vtx,4209,4209
+models/marioragdoll/super mario galaxy/1up/1up.dx90.vtx,4209,4209
+models/marioragdoll/super mario galaxy/1up/1up.mdl,1472,1472
+models/marioragdoll/super mario galaxy/1up/1up.phy,5343,5343
+models/marioragdoll/super mario galaxy/1up/1up.sw.vtx,4201,4201
+models/marioragdoll/super mario galaxy/1up/1up.vvd,14656,14656
+models/marioragdoll/super mario galaxy/1up/1up.xbox.vtx,4209,4209
+models/marioragdoll/super mario galaxy/goomba/goomba.dx80.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba.dx90.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba.mdl,2972,2972
+models/marioragdoll/super mario galaxy/goomba/goomba.phy,11435,11435
+models/marioragdoll/super mario galaxy/goomba/goomba.sw.vtx,7915,7915
+models/marioragdoll/super mario galaxy/goomba/goomba.vvd,27584,27584
+models/marioragdoll/super mario galaxy/goomba/goomba.xbox.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba2.dx80.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba2.dx90.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba2.mdl,2972,2972
+models/marioragdoll/super mario galaxy/goomba/goomba2.phy,11435,11435
+models/marioragdoll/super mario galaxy/goomba/goomba2.sw.vtx,7915,7915
+models/marioragdoll/super mario galaxy/goomba/goomba2.vvd,27584,27584
+models/marioragdoll/super mario galaxy/goomba/goomba2.xbox.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba3.dx80.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba3.dx90.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba3.mdl,2972,2972
+models/marioragdoll/super mario galaxy/goomba/goomba3.phy,11435,11435
+models/marioragdoll/super mario galaxy/goomba/goomba3.sw.vtx,7915,7915
+models/marioragdoll/super mario galaxy/goomba/goomba3.vvd,27584,27584
+models/marioragdoll/super mario galaxy/goomba/goomba3.xbox.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba4.dx80.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba4.dx90.vtx,7947,7947
+models/marioragdoll/super mario galaxy/goomba/goomba4.mdl,2972,2972
+models/marioragdoll/super mario galaxy/goomba/goomba4.phy,11435,11435
+models/marioragdoll/super mario galaxy/goomba/goomba4.sw.vtx,7915,7915
+models/marioragdoll/super mario galaxy/goomba/goomba4.vvd,27584,27584
+models/marioragdoll/super mario galaxy/goomba/goomba4.xbox.vtx,7947,7947
+models/marioragdoll/super mario galaxy/lifemushroom/life.dx80.vtx,4209,4209
+models/marioragdoll/super mario galaxy/lifemushroom/life.dx90.vtx,4209,4209
+models/marioragdoll/super mario galaxy/lifemushroom/life.mdl,1480,1480
+models/marioragdoll/super mario galaxy/lifemushroom/life.phy,5343,5343
+models/marioragdoll/super mario galaxy/lifemushroom/life.sw.vtx,4201,4201
+models/marioragdoll/super mario galaxy/lifemushroom/life.vvd,14656,14656
+models/marioragdoll/super mario galaxy/lifemushroom/life.xbox.vtx,4209,4209
+models/props/slow/dodgeball/slow.dx80.vtx,10932,10932
+models/props/slow/dodgeball/slow.dx90.vtx,10932,10932
+models/props/slow/dodgeball/slow.mdl,1556,1556
+models/props/slow/dodgeball/slow.phy,1561,1561
+models/props/slow/dodgeball/slow.sw.vtx,10924,10924
+models/props/slow/dodgeball/slow.vvd,35840,35840
+sound/Deathrun_marioworld/area1.mp3,654550,654550
+sound/Deathrun_marioworld/area2.mp3,181420,181420
+sound/Deathrun_marioworld/area2fast.mp3,117162,117162
+sound/Deathrun_marioworld/area3.mp3,549659,549659
+sound/Deathrun_marioworld/eng_round.mp3,89051,89051
+sound/Deathrun_marioworld/smb3_powerup.mp3,9639,9639
+sound/Deathrun_marioworld/smb_coin.mp3,6687,6687
+sound/Deathrun_marioworld/smb_firsball.mp3,10911,10911
+sound/Deathrun_marioworld/smb_mariodie.mp3,398243,398243
+sound/Deathrun_marioworld/smb_pipe.mp3,10031,10031
+sound/Deathrun_marioworld/smb_timeup.mp3,45139,45139
+sound/Deathrun_marioworld/star.mp3,725603,725603

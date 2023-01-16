@@ -1,0 +1,213 @@
+filename,size,compressed
+materials/maps/surf_bonus/banana/comp/skyppy/concrete_floor03_0_0_0.vmt,139,134
+materials/maps/surf_bonus/banana/comp/skyppy/concrete_wall02_0_0_0.vmt,138,133
+materials/maps/surf_bonus/cubemapdefault.vtf,9832,106
+materials/maps/surf_bonus/c0_0_0.vtf,9832,106
+materials/maps/surf_bonus/cubemapdefault.hdr.vtf,76528,177
+materials/maps/surf_bonus/c0_0_0.hdr.vtf,76528,177
+sp_hdr_0.vhv,6656,2445
+sp_hdr_1.vhv,14848,4438
+sp_hdr_2.vhv,14848,4390
+sp_hdr_3.vhv,14848,6056
+sp_hdr_4.vhv,14848,6131
+sp_hdr_5.vhv,6656,2467
+sp_hdr_6.vhv,14848,6158
+sp_hdr_7.vhv,14848,6051
+sp_hdr_8.vhv,14848,4308
+sp_hdr_9.vhv,14848,4291
+sp_hdr_10.vhv,17408,7661
+sp_hdr_11.vhv,17408,7724
+sp_hdr_12.vhv,17408,7670
+sp_hdr_13.vhv,17408,7678
+sp_hdr_14.vhv,17408,7629
+sp_hdr_15.vhv,17408,7648
+sp_hdr_16.vhv,17408,7750
+sp_hdr_17.vhv,17408,7662
+models/props/de_train/hr_t/metal_door_m/metal_door_m.mdl,1888,477
+models/props/de_train/hr_t/metal_door_m/metal_door_m.dx90.vtx,19918,3452
+models/props/de_train/hr_t/metal_door_m/metal_door_m.phy,1769,950
+models/props/de_train/hr_t/metal_door_m/metal_door_m.vvd,93824,19967
+materials/models/props/de_train/hr_t/metal_door_m/metal_door_m.vmt,508,305
+materials/models/props/de_train/hr_t/metal_door_m/metal_door_m.vtf,1398336,836350
+materials/detail/plaster_detail_01_csgo.vtf,43936,28983
+models/props/de_cbble/lamp_a/lamp_a.mdl,2244,562
+models/props/de_cbble/lamp_a/lamp_a.dx90.vtx,54603,10053
+models/props/de_cbble/lamp_a/lamp_a.phy,4756,2836
+models/props/de_cbble/lamp_a/lamp_a.vvd,226752,80491
+materials/models/props/de_cbble/lamp_a/lamp_a_unlit.vmt,172,142
+materials/models/props/de_cbble/lamp_a/lamp_a_unlit.vtf,22080,198
+materials/models/props/de_cbble/lamp_a/lamp_a.vmt,494,283
+materials/models/props/de_cbble/lamp_a/lamp_a.vtf,1048784,735019
+materials/detail/noise_detail_01_csgo.vtf,43936,31042
+materials/models/props/de_cbble/lamp_a/lamp_a_unlit_b.vmt,198,153
+materials/models/props/de_cbble/lamp_a/lamp_a_unlit_b.vtf,22080,155
+models/props_foliage/mall_tree_medium01.mdl,1972,493
+models/props_foliage/mall_tree_medium01.dx90.vtx,62120,11486
+models/props_foliage/mall_tree_medium01.phy,4118,2539
+models/props_foliage/mall_tree_medium01.vtx,62088,11459
+models/props_foliage/mall_tree_medium01.vvd,266816,126182
+materials/models/props_foliage/mall_trees_barks01.vmt,1512,582
+materials/models/props_foliage/mall_trees_barks01.vtf,699296,446458
+materials/models/props_foliage/mall_trees_branches02.vmt,1630,659
+materials/models/props_foliage/mall_trees_branches02.vtf,1398360,542145
+materials/banana/comp/silkroad/fgworld/ceiling1.vmt,109,111
+materials/banana/comp/silkroad/fgworld/ceiling1.vtf,349760,115060
+materials/banana/comp/silkroad/ground/moving_lava2.vmt,232,168
+materials/banana/comp/silkroad/ground/moving_lava2.vtf,349760,111298
+materials/banana/comp/silkroad/fgworld/block04.vmt,109,111
+materials/banana/comp/silkroad/fgworld/block04.vtf,174944,56284
+materials/banana/comp/silkroad/china/china_wall_walltile03.vmt,100,102
+materials/banana/comp/silkroad/china/china_wall_walltile03.vtf,174944,60713
+materials/banana/comp/silkroad/ground/central asia_grass_07.vmt,122,119
+materials/banana/comp/silkroad/ground/central asia_grass_07.vtf,349760,132535
+materials/banana/comp/silkroad/constantinople/euro_est euro_costan_nobility01_wall02.vmt,126,125
+materials/banana/comp/silkroad/constantinople/euro_est euro_costan_nobility01_wall02.vtf,87616,33596
+materials/banana/comp/silkroad/ground/euro_const_stone05.vmt,118,117
+materials/banana/comp/silkroad/ground/euro_const_stone05.vtf,349760,131554
+materials/banana/comp/silkroad/china/china_wall_walltile01.vmt,100,102
+materials/banana/comp/silkroad/china/china_wall_walltile01.vtf,87616,28256
+materials/banana/comp/silkroad/china/china_wall_tile.vmt,94,99
+materials/banana/comp/silkroad/china/china_wall_tile.vtf,87616,29830
+materials/banana/comp/silkroad/fgworld/groundwood1.vmt,118,118
+materials/banana/comp/silkroad/fgworld/groundwood1.vtf,349760,110246
+materials/banana/comp/silkroad/china/jinsi_floor1_e_dan03_01.vmt,102,110
+materials/banana/comp/silkroad/china/jinsi_floor1_e_dan03_01.vtf,87616,32632
+materials/banana/comp/skyppy/concrete_floor03.vmt,275,175
+materials/banana/comp/skyppy/concrete_floor03.vtf,1398336,423752
+materials/banana/comp/skyppy/concrete_floor03_normal.vtf,1398336,1114918
+materials/banana/comp/silkroad/ground/oaho_grass_04.vmt,114,112
+materials/banana/comp/silkroad/ground/oaho_grass_04.vtf,349760,144108
+materials/other/stone/stonewall014a.vmt,139,126
+materials/other/stone/stonewall014a.vtf,174968,131672
+materials/banana/comp/skyppy/rock_floor01.vmt,267,169
+materials/banana/comp/skyppy/rock_floor01.vtf,699272,441585
+materials/banana/comp/skyppy/rock_floor01_normal.vtf,1398336,1085356
+materials/banana/comp/skyppy/concrete_wall02.vmt,273,174
+materials/banana/comp/skyppy/concrete_wall02.vtf,1398336,339398
+materials/banana/comp/skyppy/concrete_wall02_normal.vtf,1398336,758422
+materials/concrete/hr_c/hr_conc_f2.vmt,286,192
+materials/concrete/hr_c/hr_conc_f2.vtf,699272,315880
+materials/concrete/hr_c/hr_conc_f_normals.vtf,87616,56723
+materials/detail/detailconcrete001a_csgo.vtf,174968,103526
+materials/metal/metal_corrugated01b.vmt,330,217
+materials/metal/metal_corrugated01b.vtf,175008,99462
+materials/metal/corrugated-ssbump.vtf,349784,152233
+materials/detail/dt_metalgalv_csgo.vtf,43936,27226
+materials/de_nuke/nuke_metalgrate_01_csgo.vmt,150,130
+materials/de_nuke/nuke_metalgrate_01_csgo.vtf,87600,10634
+materials/de_cbble/grassfloor01_csgo.vmt,184,144
+materials/de_cbble/grassfloor01_csgo.vtf,174984,140707
+materials/de_cbble/grassfloor01_normal_csgo.vtf,174984,160361
+materials/wood/boardwalks01.vmt,105,107
+materials/wood/boardwalks01.vtf,175008,127753
+materials/de_cbble/woodfloor01_csgo.vmt,169,131
+materials/de_cbble/woodfloor01_csgo.vtf,174984,119455
+materials/de_cbble/woodfloor01_normal_csgo.vtf,349760,277539
+materials/de_piranesi/pi_wood3_csgo.vmt,132,115
+materials/de_piranesi/pi_wood3_csgo.vtf,87528,55139
+materials/detail/dt_wood1_csgo.vtf,11144,7773
+materials/wood/houseceiling01.vmt,516,287
+materials/wood/houseceiling01.vtf,174984,115914
+materials/wood/houseceiling01-ssbump.vtf,349760,318095
+materials/wood/boathouse_shingles01.vmt,97,95
+materials/wood/boathouse_shingles01.vtf,174984,73552
+materials/concrete/concretefloor001a_csgo.vmt,401,226
+materials/concrete/concretefloor001a_csgo.vtf,174984,113326
+materials/concrete/concretefloor001a_normal_csgo.vtf,174984,56073
+materials/concrete/ceiling03.vmt,84,87
+materials/concrete/ceiling03.vtf,175008,113418
+materials/banana/comp/silkroad/egypt/wall (86).vmt,88,97
+materials/banana/comp/silkroad/egypt/wall (86).vtf,349760,44179
+materials/banana/comp/silkroad/egypt/ground (12).vmt,90,99
+materials/banana/comp/silkroad/egypt/ground (12).vtf,87616,30026
+materials/banana/comp/silkroad/ground/arabia_bagh_grass_04.vmt,121,118
+materials/banana/comp/silkroad/ground/arabia_bagh_grass_04.vtf,349760,92865
+materials/banana/comp/silkroad/jupitere/jupiter_15.vmt,120,115
+materials/banana/comp/silkroad/jupitere/jupiter_15.vtf,349760,113443
+materials/banana/comp/silkroad/jupitere/piety_36.vmt,114,114
+materials/banana/comp/silkroad/jupitere/piety_36.vtf,349760,117503
+materials/banana/comp/silkroad/egypt/ground (15).vmt,90,99
+materials/banana/comp/silkroad/egypt/ground (15).vtf,87616,24203
+materials/banana/comp/silkroad/ground/euro_const_stone07.vmt,118,117
+materials/banana/comp/silkroad/ground/euro_const_stone07.vtf,349760,121172
+materials/banana/comp/silkroad/egypt/wall (37).vmt,88,97
+materials/banana/comp/silkroad/egypt/wall (37).vtf,87616,27284
+materials/banana/comp/silkroad/jupitere/jupiter_5.vmt,115,111
+materials/banana/comp/silkroad/jupitere/jupiter_5.vtf,349760,114067
+materials/banana/comp/silkroad/jupitere/air_garden_31.vmt,119,118
+materials/banana/comp/silkroad/jupitere/air_garden_31.vtf,349760,99944
+materials/metal/metalgrate013b_csgo.vmt,191,171
+materials/metal/metalgrate013b_csgo.vtf,87640,21565
+materials/banana/comp/silkroad/ground/c_stone_jinfild_01_1.vmt,120,121
+materials/banana/comp/silkroad/ground/c_stone_jinfild_01_1.vtf,349760,124840
+materials/banana/comp/silkroad/ground/esteu_twilight_grass_02.vmt,124,120
+materials/banana/comp/silkroad/ground/esteu_twilight_grass_02.vtf,349760,118583
+materials/banana/comp/silkroad/ground/mong_sand_01.vmt,112,113
+materials/banana/comp/silkroad/ground/mong_sand_01.vtf,349760,99541
+materials/banana/comp/silkroad/ground/wc_dust_don_18.vmt,114,115
+materials/banana/comp/silkroad/ground/wc_dust_don_18.vtf,349760,109401
+materials/banana/comp/silkroad/egypt/wall (53).vmt,88,97
+materials/banana/comp/silkroad/egypt/wall (53).vtf,174944,54917
+materials/banana/comp/silkroad/egypt/ground (17).vmt,90,99
+materials/banana/comp/silkroad/egypt/ground (17).vtf,87616,32741
+materials/banana/comp/silkroad/egypt/wall (55).vmt,88,97
+materials/banana/comp/silkroad/egypt/wall (55).vtf,349760,108421
+materials/banana/comp/silkroad/egypt/ground (8).vmt,89,98
+materials/banana/comp/silkroad/egypt/ground (8).vtf,87616,28568
+materials/banana/comp/silkroad/ground/oaho_dust_earth06.vmt,117,118
+materials/banana/comp/silkroad/ground/oaho_dust_earth06.vtf,349760,107223
+materials/banana/comp/silkroad/egypt/ground (9).vmt,104,108
+materials/banana/comp/silkroad/egypt/ground (9).vtf,87616,27814
+materials/banana/comp/silkroad/fgworld/block08.vmt,108,109
+materials/banana/comp/silkroad/fgworld/block08.vtf,349760,132772
+materials/de_cbble/woodceiling01_csgo.vmt,173,133
+materials/de_cbble/woodceiling01_csgo.vtf,174984,127192
+materials/de_cbble/woodceiling01_normal_csgo.vtf,174984,138704
+materials/gran/misc/port_by_granis.vmt,90,95
+materials/gran/misc/colon_closed_parenthesis.vtf,174850,3833
+materials/banana/comp/silkroad/fgworld/tile04.vmt,107,109
+materials/banana/comp/silkroad/fgworld/tile04.vtf,349760,125045
+materials/banana/comp/silkroad/fgworld/ceiling3.vmt,109,111
+materials/banana/comp/silkroad/fgworld/ceiling3.vtf,349760,113070
+materials/banana/hexagon/hexagon_blue.vmt,407,209
+materials/banana/hexagon/hexagon_blue.vtf,98992,10568
+materials/banana/hexagon/hexagon_normal.vtf,5696,1143
+materials/banana/hexagon/hexagon_alpha.vtf,98992,10269
+materials/banana/hexagon/hexagon_green.vmt,408,210
+materials/banana/hexagon/hexagon_green.vtf,98992,10802
+materials/wood/milwall017_csgo.vmt,98,99
+materials/wood/milwall017_csgo.vtf,174968,127490
+materials/concrete/cinderwall04_cheap.vmt,97,94
+materials/concrete/cinderwall04.vtf,175008,109028
+materials/banana/comp/silkroad/ground/esteu_godgarden_grass_05.vmt,125,120
+materials/banana/comp/silkroad/ground/esteu_godgarden_grass_05.vtf,349760,149493
+materials/banana/comp/silkroad/jupitere/alex_castle_9.vmt,119,118
+materials/banana/comp/silkroad/jupitere/alex_castle_9.vtf,22080,8771
+materials/banana/comp/silkroad/ground/arabia_bagh_grass_09.vmt,121,118
+materials/banana/comp/silkroad/ground/arabia_bagh_grass_09.vtf,349760,124800
+materials/banana/comp/silkroad/ground/esteu_goldfld_grass_06.vmt,123,119
+materials/banana/comp/silkroad/ground/esteu_goldfld_grass_06.vtf,349760,145813
+materials/banana/comp/silkroad/ground/esteu_upisin_04.vmt,115,115
+materials/banana/comp/silkroad/ground/esteu_upisin_04.vtf,349760,92197
+materials/banana/comp/silkroad/egypt/lavablue.vmt,107,108
+materials/banana/comp/silkroad/egypt/lavablue.vtf,349760,98163
+materials/cstrike/tk_grate_csgo.vmt,144,131
+materials/cstrike/tk_grate_csgo.vtf,43856,11470
+materials/skybox/mpa115bk.vmt,92,88
+materials/skybox/mpa115bk.vtf,699272,290874
+materials/skybox/mpa115dn.vmt,92,88
+materials/skybox/mpa115dn.vtf,699272,347882
+materials/skybox/mpa115ft.vmt,92,88
+materials/skybox/mpa115ft.vtf,699272,272445
+materials/skybox/mpa115lf.vmt,92,88
+materials/skybox/mpa115lf.vtf,699272,303966
+materials/skybox/mpa115rt.vmt,92,88
+materials/skybox/mpa115rt.vtf,699272,282055
+materials/skybox/mpa115up.vmt,92,88
+materials/skybox/mpa115up.vtf,699272,276344
+materials/detail/detailsprites.vmt,131,105
+materials/detail/detailsprites.vtf,1398336,780914
+materials/decals/window_metal04.vmt,146,122
+materials/decals/window_metal04.vtf,349784,121451
+materials/decals/door_wood22.vmt,171,128
+materials/decals/door_wood22.vtf,349784,45229

@@ -1,0 +1,141 @@
+filename,size,compressed
+materials/maps/ze_random_v10_fix/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/ze_random_v10_fix/nature/water_canals_city_0_0_0.vmt,158,158
+materials/maps/ze_random_v10_fix/metal/metalpipe009b_0_0_0.vmt,130,130
+materials/maps/ze_random_v10_fix/metal/metalroof008a_0_0_0.vmt,130,130
+materials/maps/ze_random_v10_fix/metal/metalroof003a_0_0_0.vmt,130,130
+materials/maps/ze_random_v10_fix/environment maps/pipemetal004b_0_0_0.vmt,141,141
+materials/maps/ze_random_v10_fix/metal/metalroof004a_0_0_0.vmt,130,130
+materials/maps/ze_random_v10_fix/environment maps/pipemetal004a_0_0_0.vmt,141,141
+materials/maps/ze_random_v10_fix/buildings/gen18_0_0_0.vmt,126,126
+materials/maps/ze_random_v10_fix/concrete/concretefloor028c_0_0_0.vmt,137,137
+materials/maps/ze_random_v10_fix/vehicle/metaltrain001d_0_0_0.vmt,133,133
+materials/maps/ze_random_v10_fix/mytextures/space2_0_0_0.vmt,128,128
+materials/maps/ze_random_v10_fix/nature/water_canals_city_depth_323.vmt,112,112
+materials/maps/ze_random_v10_fix/nature/water_canals_city_depth_64.vmt,111,111
+materials/maps/ze_random_v10_fix/nature/water_canals_city_depth_208.vmt,112,112
+materials/maps/ze_random_v10_fix/nature/water_canals_city_depth_128.vmt,112,112
+materials/maps/ze_random_v10_fix/nature/water_canals_city_depth_5.vmt,110,110
+materials/maps/ze_random_v10_fix/nature/water_canals_city_depth_80.vmt,111,111
+materials/maps/ze_random_v10_fix/nature/toxicslime002a_depth_128.vmt,109,109
+materials/maps/ze_random_v10_fix/nature/toxicslime002a_depth_768.vmt,109,109
+materials/maps/ze_random_v10_fix/cubemapdefault.vtf,9832,9832
+materials/maps/ze_random_v10_fix/c0_0_0.vtf,9832,9832
+materials/maps/ze_random_v10_fix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_random_v10_fix/c0_0_0.hdr.vtf,76528,76528
+sound/mysounds/Dusty Desert.mp3,2373616,2373616
+sound/mysounds/Feels So Good.mp3,1003581,1003581
+sound/mysounds/Final Boss.mp3,3410572,3410572
+sound/mysounds/Forest Entrance.mp3,1575356,1575356
+sound/mysounds/GE 999 horn.mp3,59404,59404
+sound/mysounds/GE 999 op.mp3,3192038,3192038
+sound/mysounds/Inbound.mp3,1520979,1520979
+sound/mysounds/Kingdom Valley.mp3,1441567,1441567
+sound/mysounds/New Quack City.mp3,2399111,2399111
+sound/mysounds/Nightfall.mp3,400848,400848
+sound/mysounds/Rusty_Ruins_2.mp3,2001268,2001268
+sound/mysounds/SA Icecap.mp3,2399111,2399111
+sound/mysounds/Shadowy Woods.mp3,1440775,1440775
+sound/mysounds/The Fall.mp3,699300,699300
+sound/mysounds/Yakety Sax.mp3,963455,963455
+sound/mysounds/Zombie Murder.mp3,560927,560927
+models/3D/slender/slender.dx80.vtx,45963,45963
+models/3D/slender/slender.dx90.vtx,45044,45044
+models/3D/slender/slender.mdl,15072,15072
+models/3D/slender/slender.phy,7022,7022
+models/3D/slender/slender.sw.vtx,44700,44700
+models/3D/slender/slender.vvd,163072,163072
+models/3D/slender/slender.xbox.vtx,45044,45044
+materials/3D/slender/Body.vmt,74,74
+materials/3D/slender/Body.vtf,174864,174864
+materials/3D/slender/Trousers.vmt,78,78
+materials/3D/slender/Trousers.vtf,87472,87472
+materials/3D/slender/head.vmt,91,91
+materials/3D/slender/head.vtf,174864,174864
+materials/3D/slender/slender.dx80.vtx,45963,45963
+materials/3D/slender/slender.dx90.vtx,45044,45044
+materials/3D/slender/slender.mdl,15072,15072
+materials/3D/slender/slender.phy,7022,7022
+materials/3D/slender/slender.sw.vtx,44700,44700
+materials/3D/slender/slender.vvd,163072,163072
+materials/3D/slender/slender.xbox.vtx,45044,45044
+materials/mytextures/AFF.vmt,106,106
+materials/mytextures/AFF.vtf,43912,43912
+materials/mytextures/Bubba.vmt,108,108
+materials/mytextures/Bubba.vtf,87616,87616
+materials/mytextures/Frosty.vmt,109,109
+materials/mytextures/Frosty.vtf,43912,43912
+materials/mytextures/Goku.vmt,107,107
+materials/mytextures/Goku.vtf,43912,43912
+materials/mytextures/HZK.vmt,106,106
+materials/mytextures/HZK.vtf,43912,43912
+materials/mytextures/J427.vmt,107,107
+materials/mytextures/J427.vtf,43912,43912
+materials/mytextures/Komp.vmt,107,107
+materials/mytextures/Komp.vtf,43912,43912
+materials/mytextures/Leeroy.vmt,109,109
+materials/mytextures/Leeroy.vtf,43912,43912
+materials/mytextures/Niko.vmt,107,107
+materials/mytextures/Niko.vtf,43912,43912
+materials/mytextures/blue_warp.vmt,68,68
+materials/mytextures/blue_warp.vtf,43912,43912
+materials/mytextures/city_night.vmt,69,69
+materials/mytextures/city_night.vtf,1398264,1398264
+materials/mytextures/city_night_2.vmt,71,71
+materials/mytextures/city_night_2.vtf,699192,699192
+materials/mytextures/citynight.vmt,112,112
+materials/mytextures/citynight.vtf,349688,349688
+materials/mytextures/coldfire.vmt,111,111
+materials/mytextures/coldfire.vtf,43912,43912
+materials/mytextures/fartingo.vmt,111,111
+materials/mytextures/fartingo.vtf,43912,43912
+materials/mytextures/fluorine.vmt,111,111
+materials/mytextures/fluorine.vtf,43912,43912
+materials/mytextures/fullm.vmt,108,108
+materials/mytextures/fullm.vtf,43912,43912
+materials/mytextures/hugzom.vmt,109,109
+materials/mytextures/hugzom.vtf,43912,43912
+materials/mytextures/kirby.vmt,108,108
+materials/mytextures/kirby.vtf,43912,43912
+materials/mytextures/music_wall.vmt,69,69
+materials/mytextures/music_wall.vtf,174984,174984
+materials/mytextures/nights.vmt,109,109
+materials/mytextures/nights.vtf,174984,174984
+materials/mytextures/profruss.vmt,111,111
+materials/mytextures/profruss.vtf,43912,43912
+materials/mytextures/red_warp.vmt,67,67
+materials/mytextures/red_warp.vtf,43912,43912
+materials/mytextures/sgmc.vmt,107,107
+materials/mytextures/sgmc.vtf,349688,349688
+materials/mytextures/sonic.vmt,108,108
+materials/mytextures/sonic.vtf,43912,43912
+materials/mytextures/space.vmt,274,274
+materials/mytextures/space.vtf,174984,174984
+materials/mytextures/space2.vmt,109,109
+materials/mytextures/space2.vtf,174984,174984
+materials/mytextures/thanks_wall.vmt,70,70
+materials/mytextures/thanks_wall.vtf,174984,174984
+materials/mytextures/toxic_moving.vmt,277,277
+materials/mytextures/toxic_moving.vtf,174984,174984
+materials/mytextures/westcoastin.vmt,114,114
+materials/mytextures/westcoastin.vtf,43912,43912
+materials/mytextures/zmfloor.vmt,110,110
+materials/mytextures/zmfloor.vtf,174984,174984
+materials/mytextures/zmfloor2.vmt,111,111
+materials/mytextures/zmfloor2.vtf,174984,174984
+materials/mytextures/zmfloor3.vmt,111,111
+materials/mytextures/zmfloor3.vtf,174984,174984
+materials/mytextures/zmfloor4.vmt,111,111
+materials/mytextures/zmfloor4.vtf,174984,174984
+materials/mytextures/zmfloor5.vmt,111,111
+materials/mytextures/zmfloor5.vtf,174984,174984
+materials/mytextures/zmwall.vmt,109,109
+materials/mytextures/zmwall.vtf,699192,699192
+materials/mytextures/zmwall2.vmt,110,110
+materials/mytextures/zmwall2.vtf,699192,699192
+materials/mytextures/zmwall3.vmt,110,110
+materials/mytextures/zmwall3.vtf,699192,699192
+materials/mytextures/zmwall4.vmt,110,110
+materials/mytextures/zmwall4.vtf,699192,699192
+materials/mytextures/zmwalls.vmt,110,110
+materials/mytextures/zmwalls.vtf,174984,174984

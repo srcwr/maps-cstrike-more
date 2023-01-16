@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/primitive_cube/glass/combineglass001a_-1824_-1507_-327.vmt,141,141
+materials/maps/primitive_cube/glass/combineglass001a_-21_3_237.vmt,134,134
+materials/maps/primitive_cube/glass/combineglass001a_-1798_-1952_-323.vmt,141,141
+materials/maps/primitive_cube/dev/dev_water2_-1824_-1507_-327.vmt,156,156
+materials/maps/primitive_cube/dev/dev_water2_-21_3_237.vmt,149,149
+materials/maps/primitive_cube/dev/dev_water2_-1798_-1952_-323.vmt,156,156
+materials/maps/primitive_cube/maps/primitive_cube/dev/dev_water2_-1824_-1507_-327_depth_16.vmt,138,138
+materials/maps/primitive_cube/maps/primitive_cube/dev/dev_water2_-21_3_237_depth_2.vmt,130,130
+materials/maps/primitive_cube/cubemapdefault.vtf,9824,9824
+materials/maps/primitive_cube/c-1824_-1507_-327.vtf,9824,9824
+materials/maps/primitive_cube/c-21_3_237.vtf,9824,9824
+materials/maps/primitive_cube/c-1798_-1952_-323.vtf,9824,9824
+materials/maps/primitive_cube/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/primitive_cube/c-1824_-1507_-327.hdr.vtf,76520,76520
+materials/maps/primitive_cube/c-21_3_237.hdr.vtf,76520,76520
+materials/maps/primitive_cube/c-1798_-1952_-323.hdr.vtf,76520,76520

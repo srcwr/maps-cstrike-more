@@ -1,0 +1,74 @@
+filename,size,compressed
+materials/maps/ze_pixescape/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/ze_pixescape/cubemapdefault.vtf,38308,38308
+materials/maps/ze_pixescape/cubemapdefault.hdr.vtf,76528,76528
+models/pixescape/crystal.mdl,1752,1752
+models/pixescape/crystal.dx80.vtx,513,513
+models/pixescape/crystal.dx90.vtx,513,513
+models/pixescape/crystal.phy,750,750
+models/pixescape/crystal.sw.vtx,513,513
+models/pixescape/crystal.vvd,2112,2112
+materials/pixescape/props/pale cornflower blue.vmt,71,71
+materials/color/pale cornflower blue.vtf,11144,11144
+models/pixescape/pixescape_tree.mdl,1932,1932
+models/pixescape/pixescape_tree.dx80.vtx,1446,1446
+models/pixescape/pixescape_tree.dx90.vtx,1446,1446
+models/pixescape/pixescape_tree.phy,2917,2917
+models/pixescape/pixescape_tree.sw.vtx,1446,1446
+models/pixescape/pixescape_tree.vvd,6464,6464
+materials/pixescape/props/wodm13.vmt,100,100
+materials/megaman/mm2wood/wodm13.vtf,22080,22080
+materials/pixescape/props/wodm1.vmt,78,78
+materials/megaman/mm2wood/wodm1.vtf,904,904
+materials/pixescape/rock2.vmt,87,87
+materials/pixescape/rock2.vtf,776,776
+materials/pixescape/grass1.vmt,89,89
+materials/pixescape/grass1.vtf,776,776
+materials/pixescape/rock1.vmt,87,87
+materials/pixescape/rock1.vtf,776,776
+materials/pixescape/dirt1.vmt,87,87
+materials/pixescape/dirt1.vtf,776,776
+materials/pixescape/grass1side.vmt,93,93
+materials/pixescape/grass1side.vtf,776,776
+materials/pixescape/water2.vmt,89,89
+materials/pixescape/water2.vtf,776,776
+materials/megaman/mm&b-burn/burner61.vmt,72,72
+materials/megaman/mm&b-burn/burner61.vtf,904,904
+materials/pixescape/rocksnow.vmt,90,90
+materials/pixescape/rocksnow.vtf,592,592
+materials/color/golden yellow.vmt,70,70
+materials/color/golden yellow.vtf,11144,11144
+materials/color/blue.vmt,61,61
+materials/color/blue.vtf,11144,11144
+materials/color/black.vmt,62,62
+materials/color/black.vtf,11144,11144
+materials/color/alice blue.vmt,67,67
+materials/color/alice blue.vtf,11144,11144
+materials/color/orange red.vmt,67,67
+materials/color/orange red.vtf,11144,11144
+materials/megaman/mm2wood/wodm1.vmt,69,69
+materials/megaman/mm2wood/wodm13.vmt,91,91
+materials/pixescape/rock3.vmt,87,87
+materials/pixescape/rock3.vtf,776,776
+materials/pixescape/vine.vmt,106,106
+materials/pixescape/vine.vtf,1472,1472
+materials/color/brown.vmt,62,62
+materials/color/brown.vtf,11144,11144
+materials/color/school bus yellow.vmt,74,74
+materials/color/school bus yellow.vtf,11144,11144
+materials/pixescape/bridge.vmt,94,94
+materials/pixescape/bridge.vtf,776,776
+materials/megaman/mm2wood/wodm11.vmt,64,64
+materials/megaman/mm2wood/wodm11.vtf,392,392
+materials/pixescape/angeryeye.vmt,111,111
+materials/pixescape/angeryeye.vtf,5568,5568
+materials/color/red.vmt,60,60
+materials/color/red.vtf,11144,11144
+materials/skybox/sky_megamanbk.vmt,158,158
+materials/skybox/sky_megaman.vtf,349732,349732
+materials/skybox/sky_megamandn.vmt,156,156
+materials/skybox/sky_megamanft.vmt,156,156
+materials/skybox/sky_megamanlf.vmt,156,156
+materials/skybox/sky_megamanrt.vmt,156,156
+materials/skybox/sky_megamanup.vmt,156,156
+sound/pixescape/krtd title theme.wav,4183156,4183156

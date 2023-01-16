@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/dm_ep_orange_cross_over/nature/sewer_water001_884_-172_-88.vmt,168,168
+materials/maps/dm_ep_orange_cross_over/nature/sewer_water001_2722_-40_-112.vmt,169,169
+materials/maps/dm_ep_orange_cross_over/nature/sewer_water001_374_24_-112.vmt,167,167
+materials/maps/dm_ep_orange_cross_over/maps/dm_ep_orange_cross_over/nature/sewer_water001_884_-172_-88_depth_32.vmt,150,150
+materials/maps/dm_ep_orange_cross_over/maps/dm_ep_orange_cross_over/nature/sewer_water001_374_24_-112_depth_24.vmt,149,149
+materials/maps/dm_ep_orange_cross_over/maps/dm_ep_orange_cross_over/nature/sewer_water001_2722_-40_-112_depth_24.vmt,151,151
+materials/maps/dm_ep_orange_cross_over/cubemapdefault.vtf,9824,9824
+materials/maps/dm_ep_orange_cross_over/c884_-172_-88.vtf,9824,9824
+materials/maps/dm_ep_orange_cross_over/c2722_-40_-112.vtf,9824,9824
+materials/maps/dm_ep_orange_cross_over/c374_24_-112.vtf,9824,9824

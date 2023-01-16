@@ -1,0 +1,35 @@
+filename,size,compressed
+materials/maps/bhop_sahara_hard/de_chateau/groundf01_-594_-382_-486.vmt,139,139
+materials/maps/bhop_sahara_hard/de_chateau/groundf01_226_2011_114.vmt,137,137
+materials/maps/bhop_sahara_hard/glass/glasswindowbreak070b_-594_-382_-486.vmt,114,114
+materials/maps/bhop_sahara_hard/glass/prodwndwa_-594_-382_-486.vmt,221,221
+materials/maps/bhop_sahara_hard/glass/glasswindowbreak070b_226_2011_114.vmt,114,114
+materials/maps/bhop_sahara_hard/glass/prodwndwa_226_2011_114.vmt,217,217
+materials/maps/bhop_sahara_hard/de_chateau/exttile01_-594_-382_-486.vmt,139,139
+materials/maps/bhop_sahara_hard/tile/tilefloor019a_-594_-382_-486.vmt,137,137
+materials/maps/bhop_sahara_hard/cubemapdefault.vtf,9824,9824
+materials/maps/bhop_sahara_hard/c-594_-382_-486.vtf,9824,9824
+materials/maps/bhop_sahara_hard/c226_2011_114.vtf,9824,9824
+materials/maps/bhop_sahara_hard/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/bhop_sahara_hard/c-594_-382_-486.hdr.vtf,76520,76520
+materials/maps/bhop_sahara_hard/c226_2011_114.hdr.vtf,76520,76520
+sound/my maps/desert1mp3.mp3,1777612,1777612
+sound/my maps/desert2mp3.mp3,1394203,1394203
+sound/my maps/desert3mp3.mp3,3258441,3258441
+sound/my maps/desert4mp3.mp3,4745540,4745540
+sound/my maps/IHATESDK.mp3,3136397,3136397
+sound/my maps/IHATEVHE.mp3,2752293,2752293
+materials/easy/easy_credit.vmt,116,116
+materials/easy/easy_credit.vtf,87544,87544
+materials/easy/easy_finish.vmt,110,110
+materials/easy/easy_finish.vtf,174984,174984
+materials/easy/easy_green.vmt,90,90
+materials/easy/easy_green.vtf,174984,174984
+materials/easy/easy_hardcore.vmt,93,93
+materials/easy/easy_hardcore.vtf,174984,174984
+materials/easy/easy_orders.vmt,116,116
+materials/easy/easy_orders.vtf,87544,87544
+materials/easy/easy_pushdown.vmt,118,118
+materials/easy/easy_pushdown.vtf,87544,87544
+materials/easy/easy_red.vmt,88,88
+materials/easy/easy_red.vtf,174984,174984

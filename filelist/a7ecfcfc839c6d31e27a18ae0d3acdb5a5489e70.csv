@@ -1,0 +1,58 @@
+filename,size,compressed
+materials/maps/ba_jail_electric_max_v2/metal/citadel_metalwall063a_137_-357_159.vmt,151,151
+materials/maps/ba_jail_electric_max_v2/metal/citadel_metalwall063a_-25_-449_162.vmt,151,151
+materials/maps/ba_jail_electric_max_v2/glass/combineglass001a_137_-357_159.vmt,146,146
+materials/maps/ba_jail_electric_max_v2/glass/combineglass001a_-25_-449_162.vmt,146,146
+materials/maps/ba_jail_electric_max_v2/metal/metalcombine001_137_-357_159.vmt,145,145
+materials/maps/ba_jail_electric_max_v2/metal/metalcombine001_-206_-697_167.vmt,146,146
+materials/maps/ba_jail_electric_max_v2/metal/metalcombine001_-25_-449_162.vmt,145,145
+materials/maps/ba_jail_electric_max_v2/glass/combineglass001a_-206_-697_167.vmt,147,147
+materials/maps/ba_jail_electric_max_v2/glass/combineglass001a_-123_-533_149.vmt,147,147
+materials/maps/ba_jail_electric_max_v2/glass/glasswindow070c_-123_-533_149.vmt,146,146
+materials/maps/ba_jail_electric_max_v2/glass/glasswindow070c_-206_-697_167.vmt,146,146
+materials/maps/ba_jail_electric_max_v2/glass/glasswindow070c_137_-357_159.vmt,145,145
+materials/maps/ba_jail_electric_max_v2/glass/glasswindow070c_-25_-449_162.vmt,145,145
+materials/maps/ba_jail_electric_max_v2/metal/metalwall077a_137_-357_159.vmt,143,143
+materials/maps/ba_jail_electric_max_v2/metal/metalwall048a_-25_-449_162.vmt,143,143
+materials/maps/ba_jail_electric_max_v2/metal/metalwall048a_137_-357_159.vmt,143,143
+materials/maps/ba_jail_electric_max_v2/metal/citadel_metalwall063a_-206_-697_167.vmt,152,152
+materials/maps/ba_jail_electric_max_v2/metal/citadel_metalwall063a_-123_-533_149.vmt,152,152
+materials/maps/ba_jail_electric_max_v2/metal/metalwall045a_nobump_137_-357_159.vmt,150,150
+materials/maps/ba_jail_electric_max_v2/metal/metalwall045a_nobump_-25_-449_162.vmt,150,150
+materials/maps/ba_jail_electric_max_v2/de_nuke/nuke_metaldoor_01_-123_-533_149.vmt,150,150
+materials/maps/ba_jail_electric_max_v2/de_nuke/nuke_metaldoor_01_137_-357_159.vmt,149,149
+materials/maps/ba_jail_electric_max_v2/glass/glasswindow069a_137_-357_159.vmt,145,145
+materials/maps/ba_jail_electric_max_v2/metal/metalwall061h_137_-357_159.vmt,143,143
+materials/maps/ba_jail_electric_max_v2/metal/metalwall061h_-25_-449_162.vmt,143,143
+materials/maps/ba_jail_electric_max_v2/de_nuke/nuke_metaldoor_01_-25_-449_162.vmt,149,149
+materials/maps/ba_jail_electric_max_v2/nature/water_canals03_dx70_depth_252.vmt,114,114
+materials/maps/ba_jail_electric_max_v2/nature/water_canals03_dx70_depth_31.vmt,113,113
+materials/maps/ba_jail_electric_max_v2/de_nuke/nukwater_movingplane_dx70_depth_110.vmt,121,121
+materials/maps/ba_jail_electric_max_v2/nature/water_canals03_dx70_depth_271.vmt,114,114
+materials/maps/ba_jail_electric_max_v2/nature/water_canals03_dx70_depth_8.vmt,112,112
+materials/maps/ba_jail_electric_max_v2/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_electric_max_v2/c137_-357_159.vtf,9824,9824
+materials/maps/ba_jail_electric_max_v2/c-25_-449_162.vtf,9824,9824
+materials/maps/ba_jail_electric_max_v2/c-206_-697_167.vtf,9824,9824
+materials/maps/ba_jail_electric_max_v2/c-123_-533_149.vtf,9824,9824
+materials/DE_RENNES_V1/METAL_RED.vmt,94,94
+materials/de_rennes_v1/metal_red.vtf,43896,43896
+materials/METAL/METALWALL046A.vmt,132,132
+materials/Metal/metalwall046a.vtf,174968,174968
+materials/BA_JAIL_ELECTRIC_MAX_V2/MAPBYMAXELECV.vmt,85,85
+materials/ba_jail_electric_max_v2/mapbymaxelecv.vtf,349688,349688
+materials/BA_JAIL_ELECTRIC_MAX_V2/KRISTEN.vmt,79,79
+materials/ba_jail_electric_max_v2/kristen.vtf,699272,699272
+materials/BA_JAIL_ELECTRIC_MAX_V2/AKDEAGLE.vmt,80,80
+materials/ba_jail_electric_max_v2/akdeagle.vtf,87544,87544
+materials/BA_JAIL_ELECTRIC_MAX_V2/AWPDEAGLE.vmt,81,81
+materials/ba_jail_electric_max_v2/awpdeagle.vtf,87544,87544
+materials/TEXTURES - MAX'S MAPS/GUITAR.vmt,76,76
+materials/TEXTURES - MAX'S MAPS/OURS.vmt,93,93
+materials/TEXTURES - MAX'S MAPS/PLATINES.vmt,78,78
+materials/BA_JAIL_ELECTRIC_MAX_V2/MADEAGLE.vmt,80,80
+materials/ba_jail_electric_max_v2/madeagle.vtf,87544,87544
+sound/sounds - max's maps/trance - flying high.mp3,2775710,2775710
+sound/sounds - max's maps/k-on__full_op_-_cagayake__girls.mp3,4014156,4014156
+sound/sounds - max's maps/new canon rock - by mattrach.mp3,5064487,5064487
+maps/soundcache/ba_jail_electric_max_v2.cache,16,16

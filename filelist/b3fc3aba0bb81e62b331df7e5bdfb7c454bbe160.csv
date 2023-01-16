@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/zm_recreation_area_hdr/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/zm_recreation_area_hdr/de_train/blendgrassdirt001a_wvt_patch.vmt,129,129
+materials/maps/zm_recreation_area_hdr/nature/blendprodasphaltgrass_wvt_patch.vmt,122,122
+materials/maps/zm_recreation_area_hdr/nature/blendrocksand008d_wvt_patch.vmt,391,391
+materials/maps/zm_recreation_area_hdr/nature/blenddirtdirt001a_wvt_patch.vmt,184,184
+materials/maps/zm_recreation_area_hdr/metal/citadel_tilefloor016a_0_0_0.vmt,143,143
+materials/maps/zm_recreation_area_hdr/de_piranesi/marblefloor04_0_0_0.vmt,141,141
+materials/maps/zm_recreation_area_hdr/de_piranesi/walltrim01_0_0_0.vmt,138,138
+materials/maps/zm_recreation_area_hdr/perftest/water_pretty1_depth_253.vmt,110,110
+materials/maps/zm_recreation_area_hdr/perftest/water_pretty1_depth_311.vmt,110,110
+materials/maps/zm_recreation_area_hdr/liquids/water_chateau_dx70_depth_45.vmt,113,113
+materials/maps/zm_recreation_area_hdr/de_nuke/nukwater_movingplane_dx70_depth_184.vmt,121,121
+materials/maps/zm_recreation_area_hdr/cubemapdefault.vtf,9832,9832
+materials/maps/zm_recreation_area_hdr/c0_0_0.vtf,9832,9832
+materials/maps/zm_recreation_area_hdr/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_recreation_area_hdr/c0_0_0.hdr.vtf,76528,76528

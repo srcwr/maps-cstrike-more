@@ -1,0 +1,24 @@
+filename,size,compressed
+materials/maps/surf_dtt-xdx/de_chateau/exttile01_2862_1247_-2133.vmt,136,136
+materials/maps/surf_dtt-xdx/glass/offwndwc_2862_1247_-2133.vmt,130,130
+materials/maps/surf_dtt-xdx/de_chateau/interiortile01a_2862_1247_-2133.vmt,142,142
+materials/maps/surf_dtt-xdx/liquids/water_pretty1_2862_1247_-2133.vmt,160,160
+materials/maps/surf_dtt-xdx/de_chateau/interiortile01_2862_1247_-2133.vmt,141,141
+materials/maps/surf_dtt-xdx/environment maps/pipemetal001a_2862_1247_-2133.vmt,146,146
+materials/maps/surf_dtt-xdx/metal/citadel_tilefloor016a_cheap_2862_1247_-2133.vmt,149,149
+materials/maps/surf_dtt-xdx/metal/metalceiling005a_2862_1247_-2133.vmt,138,138
+materials/maps/surf_dtt-xdx/models/props/cs_office/vending_machine_2862_1247_-2133.vmt,154,154
+materials/maps/surf_dtt-xdx/metal/citadel_tilewall005a_2862_1247_-2133.vmt,142,142
+materials/maps/surf_dtt-xdx/nature/sewer_waterdarkfog2_2862_1247_-2133.vmt,165,165
+materials/maps/surf_dtt-xdx/maps/surf_dtt-xdx/liquids/water_pretty1_2862_1247_-2133_depth_57.vmt,142,142
+materials/maps/surf_dtt-xdx/maps/surf_dtt-xdx/liquids/water_pretty1_2862_1247_-2133_depth_52.vmt,142,142
+materials/maps/surf_dtt-xdx/maps/surf_dtt-xdx/liquids/water_pretty1_2862_1247_-2133_depth_30.vmt,142,142
+materials/maps/surf_dtt-xdx/maps/surf_dtt-xdx/liquids/water_pretty1_2862_1247_-2133_depth_61.vmt,142,142
+materials/maps/surf_dtt-xdx/maps/surf_dtt-xdx/liquids/water_pretty1_2862_1247_-2133_depth_288.vmt,143,143
+materials/maps/surf_dtt-xdx/maps/surf_dtt-xdx/liquids/water_pretty1_2862_1247_-2133_depth_576.vmt,143,143
+materials/maps/surf_dtt-xdx/maps/surf_dtt-xdx/liquids/water_pretty1_2862_1247_-2133_depth_64.vmt,142,142
+materials/maps/surf_dtt-xdx/maps/surf_dtt-xdx/nature/sewer_waterdarkfog2_2862_1247_-2133_depth_177.vmt,148,148
+materials/maps/surf_dtt-xdx/cubemapdefault.vtf,9824,9824
+materials/maps/surf_dtt-xdx/c2862_1247_-2133.vtf,9824,9824
+materials/maps/surf_dtt-xdx/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/surf_dtt-xdx/c2862_1247_-2133.hdr.vtf,76520,76520

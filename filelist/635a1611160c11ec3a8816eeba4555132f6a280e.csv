@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/pet_sematary_final/cubemapdefault.vtf,9824,9824
+materials/maps/pet_sematary_final/c-26_312_290.vtf,9824,9824
+materials/maps/pet_sematary_final/c-360_557_85.vtf,9824,9824
+materials/maps/pet_sematary_final/c325_-104_64.vtf,9824,9824
+materials/boo_textures/boo_brickwall_moss.vmt,80,80
+materials/boo_textures/boo_brickwall_moss.vtf,349760,349760
+materials/boo_textures/boo_brickwall.vmt,75,75
+materials/boo_textures/boo_brickwall.vtf,174984,174984
+materials/boo_textures/j2mappack_logo.vmt,145,145
+materials/boo_textures/j2mappack_logo.vtf,349760,349760
+sound/deskisounds/boo_graveyard.wav,767878,767878
+maps/pet_sematary_final.txt,406,406
+materials/maps/pet_sematary_final/c-26_312_290.hdr.vtf,76520,76520
+materials/maps/pet_sematary_final/c-360_557_85.hdr.vtf,76520,76520
+materials/maps/pet_sematary_final/c325_-104_64.hdr.vtf,76520,76520

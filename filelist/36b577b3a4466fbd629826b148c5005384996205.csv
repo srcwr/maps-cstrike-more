@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/dm_firstmap2/de_train/blendgrassdirt001a_wvt_patch.vmt,129,129
+materials/maps/dm_firstmap2/nature/blenddirtgrass001b_wvt_patch.vmt,333,333
+materials/maps/dm_firstmap2/metal/citadel_metalwall072b_0_0_0.vmt,133,133
+materials/maps/dm_firstmap2/metal/citadel_tilewall005a_0_0_0.vmt,132,132
+materials/maps/dm_firstmap2/metal/citadel_metalwall078a_0_0_0.vmt,133,133
+materials/maps/dm_firstmap2/concrete/concretefloor005a_0_0_0.vmt,132,132
+materials/maps/dm_firstmap2/liquids/water_dx70_depth_880.vmt,106,106
+materials/maps/dm_firstmap2/liquids/water_dx70_depth_770.vmt,106,106
+materials/maps/dm_firstmap2/liquids/water_dx70_depth_16930.vmt,108,108
+materials/maps/dm_firstmap2/liquids/water_dx70_depth_112.vmt,106,106
+materials/maps/dm_firstmap2/cubemapdefault.vtf,28753,28753
+materials/maps/dm_firstmap2/c0_0_0.vtf,28753,28753
+materials/maps/dm_firstmap2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/dm_firstmap2/c0_0_0.hdr.vtf,76528,76528

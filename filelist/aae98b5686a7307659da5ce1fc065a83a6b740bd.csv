@@ -1,0 +1,41 @@
+filename,size,compressed
+materials/maps/hoejhus9_dusty/de_dust/tilefloor02_-40_-1599_576.vmt,135,135
+materials/maps/hoejhus9_dusty/concrete/concretefloor038c_-40_-1599_576.vmt,142,142
+materials/maps/hoejhus9_dusty/glass/glasswindowbreak070b_-40_-1599_576.vmt,114,114
+materials/maps/hoejhus9_dusty/glass/offwndwb_-40_-1599_576.vmt,214,214
+materials/maps/hoejhus9_dusty/de_chateau/intbrickk_-40_-1599_576.vmt,136,136
+materials/maps/hoejhus9_dusty/dev/dev_water2_-40_-1599_576.vmt,153,153
+materials/maps/hoejhus9_dusty/maps/hoejhus9_dusty/dev/dev_water2_-40_-1599_576_depth_267.vmt,136,136
+materials/maps/hoejhus9_dusty/maps/hoejhus9_dusty/dev/dev_water2_-40_-1599_576_depth_7.vmt,134,134
+materials/maps/hoejhus9_dusty/maps/hoejhus9_dusty/dev/dev_water2_-40_-1599_576_depth_166.vmt,136,136
+materials/maps/hoejhus9_dusty/maps/hoejhus9_dusty/dev/dev_water2_-40_-1599_576_depth_64.vmt,135,135
+materials/maps/hoejhus9_dusty/cubemapdefault.vtf,9832,9832
+materials/maps/hoejhus9_dusty/c-40_-1599_576.vtf,4968,4968
+materials/maps/hoejhus9_dusty/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/hoejhus9_dusty/c-40_-1599_576.hdr.vtf,76528,76528
+materials/models/props/nature/palmbark.vmt,124,124
+materials/models/props/nature/palmbark.vtf,349760,349760
+materials/models/props/nature/palmfoliage.vmt,114,114
+materials/models/props/nature/palmfoliage.vtf,349760,349760
+models/props/nature/palmtree1.dx80.vtx,11559,11559
+models/props/nature/palmtree1.dx90.vtx,11559,11559
+models/props/nature/palmtree1.mdl,1648,1648
+models/props/nature/palmtree1.phy,1857,1857
+models/props/nature/palmtree1.sw.vtx,11559,11559
+models/props/nature/palmtree1.vvd,45184,45184
+models/props/nature/palmtree1.xbox.vtx,11559,11559
+models/props/nature/palmtree2.dx80.vtx,14139,14139
+models/props/nature/palmtree2.dx90.vtx,14139,14139
+models/props/nature/palmtree2.mdl,1648,1648
+models/props/nature/palmtree2.phy,1473,1473
+models/props/nature/palmtree2.sw.vtx,14139,14139
+models/props/nature/palmtree2.vvd,55680,55680
+models/props/nature/palmtree2.xbox.vtx,14139,14139
+C:/Users/Balder K. Hansen/Desktop/Hoejhus9_dusty/90.vmt,59,59
+C:/Users/Balder K. Hansen/Desktop/Hoejhus9_dusty/90.vtf,11144,11144
+C:/Users/Balder K. Hansen/Desktop/Hoejhus9_dusty/green.vmt,95,95
+C:/Users/Balder K. Hansen/Desktop/Hoejhus9_dusty/green.vtf,174968,174968
+C:/Users/Balder K. Hansen/Desktop/Hoejhus9_dusty/red.vmt,93,93
+C:/Users/Balder K. Hansen/Desktop/Hoejhus9_dusty/red.vtf,174968,174968
+C:/Users/Balder K. Hansen/Desktop/Hoejhus9_dusty/yellow.vmt,96,96
+C:/Users/Balder K. Hansen/Desktop/Hoejhus9_dusty/yellow.vtf,174968,174968

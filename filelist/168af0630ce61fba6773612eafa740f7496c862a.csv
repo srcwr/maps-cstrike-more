@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/dm_traps_around_pb/nature/sewer_water001_546_-1015_150.vmt,164,164
+materials/maps/dm_traps_around_pb/nature/sewer_water001_551_1015_174.vmt,163,163
+materials/maps/dm_traps_around_pb/realworldtextures/floor/floor_1_03_551_1015_174.vmt,153,153
+materials/maps/dm_traps_around_pb/realworldtextures/floor/floor_1_03_546_-1015_150.vmt,154,154
+materials/maps/dm_traps_around_pb/maps/dm_traps_around_pb/nature/sewer_water001_546_-1015_150_depth_120.vmt,147,147
+materials/maps/dm_traps_around_pb/cubemapdefault.vtf,9824,9824
+materials/maps/dm_traps_around_pb/c546_-1015_150.vtf,9824,9824
+materials/maps/dm_traps_around_pb/c551_1015_174.vtf,9824,9824
+materials/maps/dm_traps_around_pb/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/dm_traps_around_pb/c546_-1015_150.hdr.vtf,76520,76520
+materials/maps/dm_traps_around_pb/c551_1015_174.hdr.vtf,76520,76520

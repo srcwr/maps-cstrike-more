@@ -1,0 +1,87 @@
+filename,size,compressed
+materials/maps/bhop_focus/realworldtextures2/concrete/concrete_59_0_0_0.vmt,143,143
+materials/maps/bhop_focus/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_focus/c0_0_0.vtf,4960,4960
+materials/maps/bhop_focus/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_focus/c0_0_0.hdr.vtf,76528,76528
+materials/RealWorldTextures2/Concrete/concrete_59.vmt,374,374
+materials/RealWorldTextures2/Concrete/concrete_59.vtf,174984,174984
+materials/RealWorldTextures2/Detail/detailconcrete001a.vtf,262567,262567
+materials/RealWorldTextures/newer/1/Concrete_1_12.vmt,115,115
+materials/RealWorldTextures/newer/1/Concrete_1_12.vtf,174984,174984
+materials/Color/black.vmt,62,62
+materials/Color/black.vtf,11144,11144
+materials/devneons/orange_neon.vmt,105,105
+materials/devneons/orange_neon.vtf,43912,43912
+materials/RealWorldTextures2/Concrete/concrete_56.vmt,318,318
+materials/RealWorldTextures2/Concrete/concrete_56.vtf,174984,174984
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/RealWorldTextures/newer/1/Concrete_1_04.vmt,115,115
+materials/RealWorldTextures/newer/1/Concrete_1_04.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_38.vmt,318,318
+materials/RealWorldTextures2/Concrete/concrete_38.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/ground/concrete_45.vmt,388,388
+materials/RealWorldTextures2/Concrete/ground/concrete_45.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/ground/concrete_45_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/noise_detail_01.vtf,65959,65959
+materials/RealWorldTextures2/Concrete/ground/concrete_44.vmt,388,388
+materials/RealWorldTextures2/Concrete/ground/concrete_44.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/ground/concrete_44_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_46.vmt,377,377
+materials/RealWorldTextures2/Concrete/concrete_46.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_46_nrm.vtf,174984,174984
+materials/sprites/blend/yellow ring.vmt,84,84
+materials/sprites/blend/yellow ring.vtf,349760,349760
+materials/RealWorldTextures2/Concrete/concrete_27.vmt,290,290
+materials/RealWorldTextures2/Concrete/concrete_27.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_27_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_53.vmt,377,377
+materials/RealWorldTextures2/Concrete/concrete_53.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_53_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_51.vmt,377,377
+materials/RealWorldTextures2/Concrete/concrete_51.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_51_nrm.vtf,174984,174984
+materials/RealWorldTextures/Floor/Floor_1_18.vmt,302,302
+materials/RealWorldTextures/Floor/Floor_1_18.vtf,174984,174984
+materials/sprites/blend/blue ring.vmt,82,82
+materials/sprites/blend/blue ring.vtf,349760,349760
+materials/devneons/green_neon.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/sprites/blend/bogstaver2.vmt,83,83
+materials/sprites/blend/bogstaver2.vtf,349760,349760
+materials/sprites/blend/MINTEKST.vmt,81,81
+materials/sprites/blend/mintekst.vtf,22369856,22369856
+materials/skybox/sky05up.vmt,88,88
+materials/skybox/sky05up.vtf,699272,699272
+materials/skybox/sky05dn.vmt,88,88
+materials/skybox/sky05dn.vtf,699272,699272
+materials/skybox/sky05lf.vmt,88,88
+materials/skybox/sky05lf.vtf,699272,699272
+materials/skybox/sky05rt.vmt,88,88
+materials/skybox/sky05rt.vtf,699272,699272
+materials/skybox/sky05ft.vmt,88,88
+materials/skybox/sky05ft.vtf,699272,699272
+materials/skybox/sky05bk.vmt,88,88
+materials/skybox/sky05bk.vtf,699272,699272
+materials/detail/detailsprites.vmt,162,162
+materials/detail/detailsprites.vtf,699256,699256
+maps/bhop_focus.nav,205,205
+scripts/soundscapes_bhop_focus.txt,804,804
+sound/blend/focus1.mp3,4899891,4899891
+sound/blend/focus2.mp3,8335936,8335936
+sound/blend/focus3.mp3,5972792,5972792
+sound/blend/focus4.mp3,7834800,7834800
+sound/blend/focus5.mp3,6199204,6199204
+materials/sprites/blend/end.vmt,76,76
+materials/sprites/blend/end.vtf,87616,87616
+materials/sprites/blend/green ring.vmt,187,187
+materials/sprites/blend/green ring.vtf,87616,87616
+materials/sprites/blend/purple ring.vmt,188,188
+materials/sprites/blend/purple ring.vtf,87616,87616
+materials/sprites/blend/red ring.vmt,185,185
+materials/sprites/blend/red ring.vtf,22080,22080
+materials/sprites/blend/red ring2.vmt,186,186
+materials/sprites/blend/red ring2.vtf,87616,87616
+materials/sprites/blend/STARTTIMER.vmt,83,83
+materials/sprites/blend/starttimer.vtf,349696,349696

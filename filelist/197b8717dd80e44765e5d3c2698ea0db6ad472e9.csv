@@ -1,0 +1,37 @@
+filename,size,compressed
+materials/maps/ah_idk/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/ah_idk/cubemapdefault.vtf,9832,9832
+materials/maps/ah_idk/cubemapdefault.hdr.vtf,76528,76528
+materials/CUSTOMDEV/DEVGRIDHAZARD.vmt,71,71
+materials/customdev/devgridhazard.vtf,22080,22080
+materials/CUSTOMDEV/DEVGRIDRED.vmt,68,68
+materials/customdev/devgridred.vtf,22080,22080
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/Tools/toolsskybox.vtf,11128,11128
+materials/TOOLS/TOOLSPLAYERCLIP.vmt,374,374
+materials/Tools/toolsplayerclip.vtf,5680,5680
+materials/DEV_NYRO/DEV_GREEN_B-01.vmt,74,74
+materials/dev_nyro/dev_green_b-01.vtf,22064,22064
+materials/DEV_NYRO/DEV_MAGENTA_A-03.vmt,76,76
+materials/dev_nyro/dev_magenta_a-03.vtf,22064,22064
+materials/CAN'T EVEN'S FACE.vmt,65,65
+materials/TOOLS/TOOLSTRIGGER.vmt,394,394
+materials/Tools/toolstrigger.vtf,5680,5680
+materials/CUSTOMDEV/BLUEGRID.vmt,66,66
+materials/customdev/bluegrid.vtf,22080,22080
+materials/dev/dev_measuregeneric01b.vtf,11128,11128
+materials/skybox/sky_day02_05up.vmt,89,89
+materials/skybox/sky_day02_05up.vtf,349616,349616
+materials/skybox/sky_day02_05dn.vmt,89,89
+materials/skybox/sky_day02_05dn.vtf,349616,349616
+materials/skybox/sky_day02_05ft.vmt,89,89
+materials/skybox/sky_day02_05ft.vtf,349616,349616
+materials/skybox/sky_day02_05bk.vmt,89,89
+materials/skybox/sky_day02_05bk.vtf,349616,349616
+materials/skybox/sky_day02_05lf.vmt,89,89
+materials/skybox/sky_day02_05lf.vtf,349616,349616
+materials/skybox/sky_day02_05rt.vmt,89,89
+materials/skybox/sky_day02_05rt.vtf,349616,349616
+maps/graphs/ah_idk.ain,16,16
+materials/CAN'T EVEN'S FACE.vmt,65,65
+materials/can't even's face.vtf,22080,22080

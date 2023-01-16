@@ -1,0 +1,631 @@
+filename,size,compressed
+materials/maps/ze_crashbandicoot_beta/liquids/militiawater_depth_32.vmt,107,107
+materials/maps/ze_crashbandicoot_beta/watersource/water/water_invis_depth_31.vmt,116,116
+materials/maps/ze_crashbandicoot_beta/watersource/water/water_invis_depth_32.vmt,116,116
+materials/maps/ze_crashbandicoot_beta/watersource/water/water_invis_depth_7.vmt,115,115
+materials/maps/ze_crashbandicoot_beta/dev/dev_water2_depth_17.vmt,101,101
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSCARPET5.vmt,116,116
+materials/custom/CrashBandicoot/DarknessCarpet5.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSCARPET4.vmt,116,116
+materials/custom/CrashBandicoot/DarknessCarpet4.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSCHAIRTOP.vmt,115,115
+materials/custom/CrashBandicoot/DarknessChairTop.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSWALL.vmt,112,112
+materials/custom/CrashBandicoot/DarknessWall.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSFLAGNORMAL.vmt,141,141
+materials/custom/CrashBandicoot/DarknessFlagNormal.vtf,349744,349744
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLPUSH2.vmt,116,116
+materials/custom/CrashBandicoot/DinoWallPush2.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSWOOD.vmt,111,111
+materials/custom/CrashBandicoot/DarknessWood.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSCARPET.vmt,115,115
+materials/custom/CrashBandicoot/DarknessCarpet.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/BRIDGESTATUETOP.vmt,116,116
+materials/custom/CrashBandicoot/BridgeStatueTop.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSCARPET2.vmt,116,116
+materials/custom/CrashBandicoot/DarknessCarpet2.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/TOXICWALL.vmt,109,109
+materials/custom/CrashBandicoot/ToxicWall.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/TOXICSIDE.vmt,109,109
+materials/custom/CrashBandicoot/ToxicSide.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TOXICFLOOR.vmt,110,110
+materials/custom/CrashBandicoot/ToxicFloor.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TOXICTILEWALL.vmt,113,113
+materials/custom/CrashBandicoot/ToxicTileWall.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TOXICWALKWAY.vmt,134,134
+materials/custom/CrashBandicoot/ToxicWalkway.vtf,87600,87600
+materials/CUSTOM/CRASHBANDICOOT/GENERATORSIDE.vmt,113,113
+materials/custom/CrashBandicoot/GeneratorSide.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TOXICNLOGO.vmt,110,110
+materials/custom/CrashBandicoot/ToxicNLogo.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TOXICNLOGOSIDE.vmt,114,114
+materials/custom/CrashBandicoot/ToxicNLogoSide.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TOXICCEILING.vmt,112,112
+materials/custom/CrashBandicoot/ToxicCeiling.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TOXICPIPE1.vmt,110,110
+materials/custom/CrashBandicoot/ToxicPipe1.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/TOXICZIGZAG.vmt,111,111
+materials/custom/CrashBandicoot/ToxicZigZag.vtf,11128,11128
+materials/CUSTOM/CRASHBANDICOOT/LABFLOORLOGO.vmt,112,112
+materials/custom/CrashBandicoot/LabFloorLogo.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TOXICWATER.vmt,273,273
+materials/custom/CrashBandicoot/ToxicWater.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/INDIA256WOOD2.vmt,112,112
+materials/custom/CrashBandicoot/India256wood2.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOFLOOR.vmt,112,112
+materials/custom/CrashBandicoot/DinoFloor.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLBRICK2.vmt,114,114
+materials/custom/CrashBandicoot/DinoWallBrick2.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLPICTURES.vmt,116,116
+materials/custom/CrashBandicoot/DinoWallPictures.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLBRICK.vmt,116,116
+materials/custom/CrashBandicoot/DinoWallBrick.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLPATTEN2Y.vmt,119,119
+materials/custom/CrashBandicoot/DinoWallPatten2y.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOJUSTSTONE.vmt,116,116
+materials/custom/CrashBandicoot/DinoJustStone.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLDETAIL5.vmt,118,118
+materials/custom/CrashBandicoot/DinoWallDetail5.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLDETAIL4.vmt,118,118
+materials/custom/CrashBandicoot/DinoWallDetail4.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLDETAIL2.vmt,118,118
+materials/custom/CrashBandicoot/DinoWallDetail2.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLDETAIL3.vmt,118,118
+materials/custom/CrashBandicoot/DinoWallDetail3.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/SOLIDCRATE.vmt,110,110
+materials/custom/CrashBandicoot/SolidCrate.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLBRICK3.vmt,117,117
+materials/custom/CrashBandicoot/DinoWallBrick3.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DINOWALLDETAIL1.vmt,118,118
+materials/custom/CrashBandicoot/DinoWallDetail1.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/GENERATORROOMFALLPLATFORM.vmt,125,125
+materials/custom/CrashBandicoot/GeneratorRoomFallPlatform.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGESLAB.vmt,105,105
+materials/custom/CrashBandicoot/BridgeSlab.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGEROCK2.vmt,106,106
+materials/custom/CrashBandicoot/BridgeRock2.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGESPIKE.vmt,108,108
+materials/custom/CrashBandicoot/BridgeSpike.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/PLAINWHITE.vmt,206,206
+materials/custom/dream/plainwhite.vtf,11128,11128
+materials/CUSTOM/CRASHBANDICOOT/BRIOMETAL.vmt,109,109
+materials/custom/CrashBandicoot/BrioMetal.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGESTATUEEYEBROW.vmt,114,114
+materials/custom/CrashBandicoot/BridgeStatueEyeBrow.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSCORTEX.vmt,114,114
+materials/custom/CrashBandicoot/DarknessCortex.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/INDIA256WOOD.vmt,111,111
+materials/custom/CrashBandicoot/India256wood.vtf,43896,43896
+materials/CUSTOM/BIGBROTHER/WINDOW.vmt,121,121
+materials/custom/BigBrother/window.vtf,87600,87600
+materials/CUSTOM/CRASHBANDICOOT/LABFLOOR2.vmt,109,109
+materials/custom/CrashBandicoot/LabFloor2.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/LABWALL.vmt,107,107
+materials/custom/CrashBandicoot/LabWall.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/LABFLOOR.vmt,108,108
+materials/custom/CrashBandicoot/LabFloor.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/LABMACHINE4.vmt,111,111
+materials/custom/CrashBandicoot/LabMachine4.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/LABDOOR.vmt,107,107
+materials/custom/CrashBandicoot/LabDoor.vtf,174968,174968
+materials/WATERSOURCE/WATER/WATER_INVIS.vmt,277,277
+materials/watersource/water/water_invis_beneath.vmt,236,236
+materials/CUSTOM/CRASHBANDICOOT/LABMACHINE5.vmt,111,111
+materials/custom/CrashBandicoot/LabMachine5.vtf,43896,43896
+materials/CRASH/TESTING.vmt,63,63
+materials/crash/testing.vtf,349760,349760
+materials/JOULU/CREDITIT.vmt,66,66
+materials/joulu/crash_credit.vtf,174984,174984
+materials/CUSTOM/CRASHBANDICOOT/TOXICWALL2.vmt,110,110
+materials/custom/CrashBandicoot/ToxicWall2.vtf,43896,43896
+materials/SIENIMETSA/SUPER_TULI.vmt,69,69
+materials/sienimetsa/super_tuli.vtf,174984,174984
+materials/SIENIMETSA/OVI.vmt,86,86
+materials/sienimetsa/ovi.vtf,174984,174984
+materials/SIENIMETSA/TERHO_BODY.vmt,93,93
+materials/sienimetsa/terho_body.vtf,349760,349760
+materials/JOULU/TIMANTTI.vmt,106,106
+materials/joulu/timantti.vtf,349760,349760
+materials/CUSTOM/CRASHBANDICOOT/SOLIDCRATE2.vmt,111,111
+materials/custom/CrashBandicoot/SolidCrate2.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/LABWINDOWNORMAL.vmt,132,132
+materials/custom/CrashBandicoot/LabWindowNormal.vtf,87600,87600
+materials/CUSTOM/CRASHBANDICOOT/TOXICWALL3.vmt,110,110
+materials/custom/CrashBandicoot/ToxicWall3.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/LABBRICK.vmt,108,108
+materials/custom/CrashBandicoot/LabBrick.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/GENERATORROOMCORTEX.vmt,269,269
+materials/custom/CrashBandicoot/GeneratorRoomCortex.vtf,4369608,4369608
+materials/CUSTOM/CRASHBANDICOOT/TOXICPIPE2.vmt,110,110
+materials/custom/CrashBandicoot/ToxicPipe2.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/DINOJUSTSTONEYELLOWY.vmt,119,119
+materials/custom/CrashBandicoot/DinoJustStoneYellowy.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/GENERATORGLOBETOP.vmt,266,266
+materials/custom/CrashBandicoot/GeneratorGlobeTop.vtf,437248,437248
+materials/CUSTOM/CRASHBANDICOOT/BRIDGEROCK.vmt,108,108
+materials/custom/CrashBandicoot/Bridgerock.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGESTATUENOSE.vmt,111,111
+materials/custom/CrashBandicoot/BridgeStatueNose.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGESTATUEMOUTH.vmt,112,112
+materials/custom/CrashBandicoot/BridgeStatueMouth.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGESTATUEEYE.vmt,110,110
+materials/custom/CrashBandicoot/BridgeStatueEye.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGEROPE.vmt,107,107
+materials/custom/CrashBandicoot/BridgeRope.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGESIGNWOOD.vmt,108,108
+materials/custom/CrashBandicoot/BridgeSignWood.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGESIGN.vmt,105,105
+materials/custom/CrashBandicoot/BridgeSign.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSSLICER.vmt,134,134
+materials/custom/CrashBandicoot/DarknessSlicer.vtf,349744,349744
+materials/CUSTOM/CRASHBANDICOOT/DARKNESS HOLDER.vmt,137,137
+materials/CUSTOM/CRASHBANDICOOT/DARKNESSCARPET3.vmt,116,116
+materials/custom/CrashBandicoot/DarknessCarpet3.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/INDIAARCH.vmt,112,112
+materials/custom/CrashBandicoot/IndiaArch.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/LABMACHINE1.vmt,111,111
+materials/custom/CrashBandicoot/LabMachine1.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/LABMACHINE2ANIMATED.vmt,269,269
+materials/custom/CrashBandicoot/LabMachine2Animated.vtf,218728,218728
+materials/CUSTOM/CRASHBANDICOOT/LABMACHINEANIMATED.vmt,268,268
+materials/custom/CrashBandicoot/LabMachineAnimated.vtf,218728,218728
+materials/CUSTOM/CRASHBANDICOOT/SEWERPIPE.vmt,109,109
+materials/custom/CrashBandicoot/SewerPipe.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/TOXICWATER2.vmt,277,277
+materials/custom/CrashBandicoot/ToxicWater2.vtf,87600,87600
+materials/CUSTOM/CRASHBANDICOOT/SEWERTUNNELENTRANCE2.vmt,120,120
+materials/custom/CrashBandicoot/SewerTunnelEntrance2.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/LABBRICKSTANDALONELOL.vmt,124,124
+materials/custom/CrashBandicoot/LabBrickstandalonelol.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TOXICBARREL.vmt,111,111
+materials/custom/CrashBandicoot/ToxicBarrel.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGEPLANK2.vmt,125,125
+materials/custom/CrashBandicoot/BridgePlank2.vtf,87600,87600
+materials/BRICK/CUSTOM/CRASHCRATESTEELARROW.vmt,113,113
+materials/Custom/CrashCrateSteelArrow.vtf,349760,349760
+materials/CUSTOM/CRASHBANDICOOT/CORTEXFACE.vmt,109,109
+materials/custom/CrashBandicoot/CortexFace.vtf,174968,174968
+materials/CUSTOM/CRASHBANDICOOT/LABCLOSINGFLOOR.vmt,115,115
+materials/custom/CrashBandicoot/Labclosingfloor.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIDGEPLANK.vmt,125,125
+materials/custom/CrashBandicoot/BridgePlank.vtf,87600,87600
+materials/CUSTOM/CRASHBANDICOOT/CRATE.vmt,104,104
+materials/custom/CrashBandicoot/Crate.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/CRATEBOUNCE.vmt,110,110
+materials/custom/CrashBandicoot/CrateBounce.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/NITROCRATETOP.vmt,112,112
+materials/custom/CrashBandicoot/NitroCrateTop.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/NITRO.vmt,104,104
+materials/custom/CrashBandicoot/Nitro.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TNTCRATETOP.vmt,110,110
+materials/custom/CrashBandicoot/TNTCrateTop.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/TNTCRATE.vmt,107,107
+materials/custom/CrashBandicoot/TNTCrate.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/CRATEAKU.vmt,107,107
+materials/custom/CrashBandicoot/CrateAku.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/QUESTIONCRATE.vmt,112,112
+materials/custom/CrashBandicoot/QuestionCrate.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIOFLOOR2.vmt,113,113
+materials/custom/CrashBandicoot/BrioFloor2.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIOFLOOR.vmt,112,112
+materials/custom/CrashBandicoot/BrioFloor.vtf,174968,174968
+materials/HAMMER/NODRAW.vmt,67,67
+materials/CUSTOM/CRASHBANDICOOT/BRIOGLOVES.vmt,110,110
+materials/custom/CrashBandicoot/BrioGloves.vtf,43896,43896
+materials/CUSTOM/CRASHBANDICOOT/BRIODARK2.vmt,109,109
+materials/custom/CrashBandicoot/BrioDark2.vtf,43896,43896
+materials/SIENIMETSA/LEVEL1.vmt,65,65
+materials/sienimetsa/level1.vtf,349760,349760
+materials/SIENIMETSA/LEVEL2.vmt,65,65
+materials/sienimetsa/level2.vtf,349760,349760
+materials/SIENIMETSA/EXTREME2.vmt,67,67
+materials/sienimetsa/extreme2.vtf,349760,349760
+materials/SIENIMETSA/EXTREME1.vmt,67,67
+materials/sienimetsa/extreme1.vtf,349760,349760
+materials/SIENIMETSA/EXTREME_SATAN.vmt,72,72
+materials/sienimetsa/extreme_satan.vtf,699272,699272
+materials/CUSTOM/QUESTIONCRATE2.vmt,101,101
+materials/custom/QuestionCrate2.vtf,11168,11168
+materials/CUSTOM/CRASHBANDICOOT/CHECKCRATE.vmt,109,109
+materials/custom/CrashBandicoot/CheckCrate.vtf,43896,43896
+models/crash/silta1.mdl,1844,1844
+models/crash/silta1.dx80.vtx,87939,87939
+models/crash/silta1.dx90.vtx,87939,87939
+models/crash/silta1.sw.vtx,87939,87939
+models/crash/silta1.phy,2777,2777
+models/crash/silta1.vvd,465728,465728
+materials/models/crash/bridgerope2.vmt,108,108
+materials/custom/crashbandicoot/bridgerope2.vtf,43896,43896
+materials/models/crash/bridgerope.vmt,107,107
+materials/custom/crashbandicoot/bridgerope.vtf,43896,43896
+materials/models/crash/bridgeplank.vmt,125,125
+materials/custom/crashbandicoot/bridgeplank.vtf,87600,87600
+models/crash/silta_hold.mdl,1844,1844
+models/crash/silta_hold.dx80.vtx,87075,87075
+models/crash/silta_hold.dx90.vtx,87075,87075
+models/crash/silta_hold.sw.vtx,87075,87075
+models/crash/silta_hold.phy,3365,3365
+models/crash/silta_hold.vvd,461120,461120
+models/crash/paalu2.mdl,1648,1648
+models/crash/paalu2.dx80.vtx,20745,20745
+models/crash/paalu2.dx90.vtx,20745,20745
+models/crash/paalu2.sw.vtx,20745,20745
+models/crash/paalu2.phy,4272,4272
+models/crash/paalu2.vvd,104448,104448
+materials/models/crash/bridgepost.vmt,105,105
+materials/custom/crashbandicoot/bridgepost.vtf,43896,43896
+models/crash/paalu1.mdl,1648,1648
+models/crash/paalu1.dx80.vtx,10482,10482
+models/crash/paalu1.dx90.vtx,10482,10482
+models/crash/paalu1.sw.vtx,10482,10482
+models/crash/paalu1.phy,2494,2494
+models/crash/paalu1.vvd,52288,52288
+models/crash/toxic.mdl,2832,2832
+models/crash/toxic.dx80.vtx,14124,14124
+models/crash/toxic.dx90.vtx,14124,14124
+models/crash/toxic.sw.vtx,14124,14124
+models/crash/toxic.vvd,56896,56896
+materials/models/crash/cameraman.vmt,107,107
+materials/custom/crashbandicoot/cameraman.vtf,43896,43896
+materials/models/crash/cameraman2.vmt,108,108
+materials/custom/crashbandicoot/cameraman2.vtf,43896,43896
+materials/models/crash/sewertunnelentrance2.vmt,118,118
+materials/custom/crashbandicoot/sewertunnelentrance2.vtf,174968,174968
+materials/models/crash/generatorpanel3.vmt,113,113
+materials/custom/crashbandicoot/generatorpanel3.vtf,43896,43896
+materials/models/crash/generatorpanel2.vmt,113,113
+materials/custom/crashbandicoot/generatorpanel2.vtf,43896,43896
+materials/models/crash/generatorpanel1.vmt,113,113
+materials/custom/crashbandicoot/generatorpanel1.vtf,43896,43896
+materials/models/crash/toxictilewall.vmt,111,111
+materials/custom/crashbandicoot/toxictilewall.vtf,43896,43896
+materials/models/crash/toxicside.vmt,107,107
+materials/custom/crashbandicoot/toxicside.vtf,43896,43896
+models/crash/ovi1.mdl,1460,1460
+models/crash/ovi1.dx80.vtx,4749,4749
+models/crash/ovi1.dx90.vtx,4749,4749
+models/crash/ovi1.sw.vtx,4749,4749
+models/crash/ovi1.phy,6732,6732
+models/crash/ovi1.vvd,24640,24640
+materials/models/crash/bridgestatuetop.vmt,114,114
+materials/custom/crashbandicoot/bridgestatuetop.vtf,43896,43896
+models/crash/ovi2.mdl,1460,1460
+models/crash/ovi2.dx80.vtx,4173,4173
+models/crash/ovi2.dx90.vtx,4173,4173
+models/crash/ovi2.sw.vtx,4173,4173
+models/crash/ovi2.phy,6044,6044
+models/crash/ovi2.vvd,21568,21568
+models/crash/lab_pylvas.mdl,1848,1848
+models/crash/lab_pylvas.dx80.vtx,9477,9477
+models/crash/lab_pylvas.dx90.vtx,9477,9477
+models/crash/lab_pylvas.sw.vtx,9477,9477
+models/crash/lab_pylvas.vvd,49088,49088
+materials/models/crash/labbrickstandalonelol.vmt,122,122
+materials/custom/crashbandicoot/labbrickstandalonelol.vtf,43896,43896
+materials/models/crash/labfloor2.vmt,107,107
+materials/custom/crashbandicoot/labfloor2.vtf,43896,43896
+materials/models/crash/labwall.vmt,105,105
+materials/custom/crashbandicoot/labwall.vtf,174968,174968
+models/crash/generaattori_pylvas.mdl,1856,1856
+models/crash/generaattori_pylvas.dx80.vtx,3927,3927
+models/crash/generaattori_pylvas.dx90.vtx,3927,3927
+models/crash/generaattori_pylvas.sw.vtx,3927,3927
+models/crash/generaattori_pylvas.phy,729,729
+models/crash/generaattori_pylvas.vvd,18496,18496
+materials/models/crash/generatorside.vmt,111,111
+materials/custom/crashbandicoot/generatorside.vtf,43896,43896
+models/crash/generaattori_pallo.mdl,1656,1656
+models/crash/generaattori_pallo.dx80.vtx,9792,9792
+models/crash/generaattori_pallo.dx90.vtx,9792,9792
+models/crash/generaattori_pallo.sw.vtx,9792,9792
+models/crash/generaattori_pallo.phy,1456,1456
+models/crash/generaattori_pallo.vvd,34240,34240
+materials/models/crash/generatorglobe.vmt,261,261
+materials/custom/crashbandicoot/generatorglobe.vtf,437248,437248
+models/crash/generaattori_tunneli.mdl,1648,1648
+models/crash/generaattori_tunneli.dx80.vtx,20937,20937
+models/crash/generaattori_tunneli.dx90.vtx,20937,20937
+models/crash/generaattori_tunneli.sw.vtx,20937,20937
+models/crash/generaattori_tunneli.phy,2991,2991
+models/crash/generaattori_tunneli.vvd,110592,110592
+materials/models/crash/gatefull.vmt,123,123
+materials/custom/crashbandicoot/gatefull.vtf,87600,87600
+materials/skybox/redcloudup.vmt,94,94
+materials/skybox/redcloudup.vtf,699272,699272
+materials/skybox/redclouddn.vmt,94,94
+materials/skybox/redclouddn.vtf,699272,699272
+materials/skybox/redcloudft.vmt,94,94
+materials/skybox/redcloudft.vtf,699272,699272
+materials/skybox/redcloudbk.vmt,94,94
+materials/skybox/redcloudbk.vtf,699272,699272
+materials/skybox/redcloudlf.vmt,94,94
+materials/skybox/redcloudlf.vtf,699272,699272
+materials/skybox/redcloudrt.vmt,94,94
+materials/skybox/redcloudrt.vtf,699272,699272
+materials/particle/smokestack.vmt,192,192
+materials/particle/BillowNormalMap.vtf,5696,5696
+materials/particle/SmokeStackFallback.vtf,1584,1584
+sound/custom/crash/bridgebreak.mp3,18807,18807
+sound/custom/crash/bounce.mp3,8776,8776
+sound/custom/crash/labdoor.mp3,25076,25076
+models/3d/apple/apple.mdl,1636,1636
+models/3d/apple/apple.dx80.vtx,7044,7044
+models/3d/apple/apple.dx90.vtx,7044,7044
+models/3d/apple/apple.sw.vtx,7036,7036
+models/3d/apple/apple.phy,6682,6682
+models/3d/apple/apple.vvd,24832,24832
+materials/3D/apple/tell_apple.vmt,65,65
+materials/3D/apple/tell_apple.vtf,349760,349760
+sound/custom/crash/bounce2.mp3,6686,6686
+sound/custom/crash/nitroexplode.mp3,31763,31763
+materials/sprites/zerogxplode.vmt,126,126
+materials/sprites/zerogxplode.vtf,41352,41352
+sound/custom/crash/crashtnt.mp3,95293,95293
+sound/custom/crash/soundeffectnitroidle1.mp3,15881,15881
+sound/custom/crash/soundeffectnitroidle2.mp3,22568,22568
+materials/crash/akuaku.vmt,106,106
+materials/crash/akuaku.vtf,43872,43872
+materials/crash/life.vmt,104,104
+materials/crash/life.vtf,22080,22080
+models/crash/linna.mdl,5584,5584
+models/crash/linna.dx80.vtx,64962,64962
+models/crash/linna.dx90.vtx,64962,64962
+models/crash/linna.sw.vtx,64962,64962
+models/crash/linna.vvd,311232,311232
+materials/models/crash/dinojuststoneyellowy.vmt,117,117
+materials/custom/crashbandicoot/dinojuststoneyellowy.vtf,43896,43896
+materials/models/crash/toxicfloor.vmt,108,108
+materials/custom/crashbandicoot/toxicfloor.vtf,43896,43896
+materials/models/crash/toxicwater.vmt,271,271
+materials/custom/crashbandicoot/toxicwater.vtf,43896,43896
+materials/models/crash/toolsblack.vmt,179,179
+materials/models/crash/darknesswall.vmt,110,110
+materials/custom/crashbandicoot/darknesswall.vtf,174968,174968
+materials/models/crash/medicastlebrickdark.vmt,117,117
+materials/custom/crashbandicoot/medicastlebrickdark.vtf,174968,174968
+materials/models/crash/toxicceiling.vmt,110,110
+materials/custom/crashbandicoot/toxicceiling.vtf,43896,43896
+materials/models/crash/glasswindow005b.vmt,188,188
+materials/models/crash/dinowallpatten2y.vmt,117,117
+materials/custom/crashbandicoot/dinowallpatten2y.vtf,43896,43896
+materials/models/crash/dinowallpush2.vmt,114,114
+materials/custom/crashbandicoot/dinowallpush2.vtf,43896,43896
+materials/models/crash/dinowallpictures.vmt,114,114
+materials/custom/crashbandicoot/dinowallpictures.vtf,174968,174968
+materials/models/crash/dinowallbrick3.vmt,115,115
+materials/custom/crashbandicoot/dinowallbrick3.vtf,43896,43896
+materials/models/crash/woodwall037a.vmt,115,115
+materials/wood/woodwall037a.vtf,174968,174968
+materials/models/crash/glasswindow005a.vmt,162,162
+materials/models/crash/generatorglobetop.vmt,264,264
+materials/custom/crashbandicoot/generatorglobetop.vtf,437248,437248
+materials/models/crash/bridgerock.vmt,109,109
+materials/custom/crashbandicoot/bridgerock.vtf,43896,43896
+models/3d/crash/crash.mdl,56824,56824
+models/3d/crash/crash.dx80.vtx,40956,40956
+models/3d/crash/crash.dx90.vtx,40956,40956
+models/3d/crash/crash.sw.vtx,40452,40452
+models/3d/crash/crash.phy,30324,30324
+models/3d/crash/crash.vvd,182272,182272
+materials/3D/crash/4 - K Tex.vmt,64,64
+materials/3D/crash/10 - K Tex.vmt,65,65
+materials/3D/crash/17 - K Tex.vmt,65,65
+materials/3D/crash/12 - K Tex.vmt,65,65
+materials/3D/crash/6 - K Tex.vmt,64,64
+materials/3D/crash/sfs.vmt,58,58
+materials/3D/crash/sfs.vtf,5552,5552
+materials/3D/crash/teeth.vmt,60,60
+materials/3D/crash/teeth.vtf,5552,5552
+materials/3D/crash/Orecchie lulz.vmt,68,68
+materials/3D/crash/5 - K Tex.vmt,64,64
+materials/3D/crash/14 - K Tex.vmt,65,65
+materials/3D/crash/24 - K TEx.vmt,65,65
+materials/3D/crash/15 - K Tex.vmt,65,65
+materials/3D/crash/18 - K Tex.vmt,65,65
+materials/3D/crash/7 - K Tex.vmt,64,64
+materials/3D/crash/3 - K Tex.vmt,64,64
+materials/3D/crash/333 - K Tex.vmt,66,66
+materials/3D/crash/8 - K Tex.vmt,64,64
+materials/3D/crash/9 - K Tex.vmt,64,64
+materials/3D/crash/13 - K Tex.vmt,65,65
+materials/3D/crash/1 - K Tex.vmt,64,64
+materials/sprites/bluelaser1.vmt,187,187
+materials/sprites/bluelaser1.vtf,1512,1512
+models/crash/ilmalaiva.mdl,3036,3036
+models/crash/ilmalaiva.dx80.vtx,15474,15474
+models/crash/ilmalaiva.dx90.vtx,15474,15474
+models/crash/ilmalaiva.sw.vtx,15474,15474
+models/crash/ilmalaiva.phy,30410,30410
+models/crash/ilmalaiva.vvd,60800,60800
+materials/models/crash/meditentroof.vmt,111,111
+materials/custom/crashbandicoot/meditentroof.vtf,11128,11128
+materials/models/crash/sewertunnelcircle.vmt,115,115
+materials/custom/crashbandicoot/sewertunnelcircle.vtf,174968,174968
+materials/models/crash/labmachine5.vmt,109,109
+materials/custom/crashbandicoot/labmachine5.vtf,43896,43896
+materials/models/crash/labmachine4.vmt,109,109
+materials/custom/crashbandicoot/labmachine4.vtf,43896,43896
+materials/models/crash/labdoor.vmt,105,105
+materials/custom/crashbandicoot/labdoor.vtf,174968,174968
+materials/models/crash/generatorroomfallplatform.vmt,123,123
+materials/custom/crashbandicoot/generatorroomfallplatform.vtf,43896,43896
+models/3d/cortex/cortex.mdl,27300,27300
+models/3d/cortex/cortex.dx80.vtx,402272,402272
+models/3d/cortex/cortex.dx90.vtx,402272,402272
+models/3d/cortex/cortex.sw.vtx,402128,402128
+models/3d/cortex/cortex.phy,9795,9795
+models/3d/cortex/cortex.vvd,2036224,2036224
+materials/3D/cortex/4.vmt,72,72
+materials/3D/cortex/4.vtf,1456,1456
+materials/3D/cortex/Immaginegdfdsds.vmt,82,82
+materials/3D/cortex/Immaginegdf.vtf,1456,1456
+materials/3D/cortex/3.vmt,72,72
+materials/3D/cortex/3.vtf,1456,1456
+materials/3D/cortex/rosso psium verde.vmt,88,88
+materials/3D/cortex/rosso pistolo verde.vmt,90,90
+materials/3D/cortex/2.vmt,72,72
+materials/3D/cortex/2.vtf,1456,1456
+materials/3D/cortex/7904hg.vmt,77,77
+materials/3D/cortex/7904hg.vtf,1456,1456
+materials/3D/cortex/Immaginegdf.vmt,82,82
+materials/3D/cortex/1.vmt,72,72
+materials/3D/cortex/1.vtf,1456,1456
+materials/3D/cortex/N.vmt,72,72
+materials/3D/cortex/N.vtf,1456,1456
+materials/3D/cortex/rosso hs.vmt,79,79
+materials/sprites/physbeam.vmt,152,152
+materials/sprites/physbeam.vtf,109728,109728
+materials/Models/crash/bridgeplank.vmt,125,125
+materials/Models/crash/bridgepost.vmt,105,105
+materials/Models/crash/bridgerock.vmt,109,109
+materials/Models/crash/bridgerope.vmt,107,107
+materials/Models/crash/bridgerope2.vmt,108,108
+materials/Models/crash/bridgestatueeyebrow.vmt,114,114
+materials/Models/crash/bridgestatuemouth.vmt,112,112
+materials/Models/crash/bridgestatuenose.vmt,111,111
+materials/Models/crash/bridgestatuetop.vmt,114,114
+materials/Models/crash/cameraman.vmt,107,107
+materials/Models/crash/cameraman2.vmt,108,108
+materials/Models/crash/darknesswall.vmt,110,110
+materials/Models/crash/dinojuststoneyellowy.vmt,117,117
+materials/Models/crash/dinowallbrick3.vmt,115,115
+materials/Models/crash/dinowallpatten2y.vmt,117,117
+materials/Models/crash/dinowallpictures.vmt,114,114
+materials/Models/crash/dinowallpush2.vmt,114,114
+materials/Models/crash/gatefull.vmt,123,123
+materials/Models/crash/generatorglobe.vmt,261,261
+materials/Models/crash/generatorglobetop.vmt,264,264
+materials/Models/crash/generatorpanel1.vmt,113,113
+materials/Models/crash/generatorpanel2.vmt,113,113
+materials/Models/crash/generatorpanel3.vmt,113,113
+materials/Models/crash/generatorroomfallplatform.vmt,123,123
+materials/Models/crash/generatorside.vmt,111,111
+materials/Models/crash/glasswindow005a.vmt,162,162
+materials/Models/crash/glasswindow005b.vmt,188,188
+materials/Models/crash/ikkuna2.vmt,86,86
+materials/Models/crash/labbrickstandalonelol.vmt,122,122
+materials/Models/crash/labdoor.vmt,105,105
+materials/Models/crash/labfloor2.vmt,107,107
+materials/Models/crash/labmachine1.vmt,109,109
+materials/Models/crash/labmachine2animated.vmt,267,267
+materials/Models/crash/labmachine4.vmt,109,109
+materials/Models/crash/labmachine5.vmt,109,109
+materials/Models/crash/labmachineanimated.vmt,266,266
+materials/Models/crash/labwall.vmt,105,105
+materials/Models/crash/medicastlebrickdark.vmt,117,117
+materials/Models/crash/meditentroof.vmt,111,111
+materials/Models/crash/plainwhite.vmt,217,217
+materials/Models/crash/sewerpipe.vmt,107,107
+materials/Models/crash/sewertunnelcircle.vmt,115,115
+materials/Models/crash/sewertunnelentrance2.vmt,118,118
+materials/Models/crash/toolsblack.vmt,179,179
+materials/Models/crash/toxicceiling.vmt,110,110
+materials/Models/crash/toxicfloor.vmt,108,108
+materials/Models/crash/toxicside.vmt,107,107
+materials/Models/crash/toxictilewall.vmt,111,111
+materials/Models/crash/toxicwater.vmt,271,271
+materials/Models/crash/woodfloor006a.vmt,118,118
+materials/Models/crash/woodwall037a.vmt,115,115
+materials/3D/apple/tell_apple.vmt,65,65
+materials/3D/apple/tell_apple.vtf,349760,349760
+materials/3D/cortex/1.vmt,72,72
+materials/3D/cortex/1.vtf,1456,1456
+materials/3D/cortex/2.vmt,72,72
+materials/3D/cortex/2.vtf,1456,1456
+materials/3D/cortex/3.vmt,72,72
+materials/3D/cortex/3.vtf,1456,1456
+materials/3D/cortex/4.vmt,72,72
+materials/3D/cortex/4.vtf,1456,1456
+materials/3D/cortex/7904hg.vmt,77,77
+materials/3D/cortex/7904hg.vtf,1456,1456
+materials/3D/cortex/Immaginegdf.vmt,82,82
+materials/3D/cortex/Immaginegdf.vtf,1456,1456
+materials/3D/cortex/Immaginegdfdsds.vmt,82,82
+materials/3D/cortex/Immaginegdfdsds.vtf,1456,1456
+materials/3D/cortex/N.vmt,72,72
+materials/3D/cortex/N.vtf,1456,1456
+materials/3D/cortex/rosso hs.vmt,79,79
+materials/3D/cortex/rosso hs.vtf,5552,5552
+materials/3D/cortex/rosso pistolo verde.vmt,90,90
+materials/3D/cortex/rosso pistolo verde.vtf,21936,21936
+materials/3D/cortex/rosso pistolo.vmt,84,84
+materials/3D/cortex/rosso pistolo.vtf,1456,1456
+materials/3D/cortex/rosso psium verde.vmt,88,88
+materials/3D/cortex/rosso psium verde.vtf,5552,5552
+materials/3D/crash/1 - K Tex.vmt,64,64
+materials/3D/crash/1 - K Tex.vtf,5552,5552
+materials/3D/crash/10 - K Tex.vmt,65,65
+materials/3D/crash/10 - K Tex.vtf,176,176
+materials/3D/crash/12 - K Tex.vmt,65,65
+materials/3D/crash/12 - K Tex.vtf,1456,1456
+materials/3D/crash/13 - K Tex.vmt,65,65
+materials/3D/crash/13 - K Tex.vtf,432,432
+materials/3D/crash/14 - K Tex.vmt,65,65
+materials/3D/crash/14 - K Tex.vtf,2832,2832
+materials/3D/crash/15 - K Tex.vmt,65,65
+materials/3D/crash/15 - K Tex.vtf,1456,1456
+materials/3D/crash/17 - K Tex.vmt,65,65
+materials/3D/crash/17 - K Tex.vtf,432,432
+materials/3D/crash/18 - K Tex.vmt,65,65
+materials/3D/crash/18 - K Tex.vtf,2832,2832
+materials/3D/crash/24 - K TEx.vmt,65,65
+materials/3D/crash/24 - K TEx.vtf,1456,1456
+materials/3D/crash/28 - K tex.vmt,65,65
+materials/3D/crash/28 - K tex.vtf,432,432
+materials/3D/crash/3 - K Tex.vmt,64,64
+materials/3D/crash/3 - K Tex.vtf,432,432
+materials/3D/crash/333 - K Tex.vmt,66,66
+materials/3D/crash/333 - K Tex.vtf,432,432
+materials/3D/crash/4 - K Tex.vmt,64,64
+materials/3D/crash/4 - K Tex.vtf,21936,21936
+materials/3D/crash/5 - K Tex.vmt,64,64
+materials/3D/crash/5 - K Tex.vtf,432,432
+materials/3D/crash/6 - K Tex.vmt,64,64
+materials/3D/crash/6 - K Tex.vtf,432,432
+materials/3D/crash/7 - K Tex.vmt,64,64
+materials/3D/crash/7 - K Tex.vtf,2832,2832
+materials/3D/crash/8 - K Tex.vmt,64,64
+materials/3D/crash/8 - K Tex.vtf,5552,5552
+materials/3D/crash/9 - K Tex.vmt,64,64
+materials/3D/crash/9 - K Tex.vtf,5552,5552
+materials/3D/crash/Orecchie lulz.vmt,68,68
+materials/3D/crash/Orecchie lulz.vtf,5552,5552
+materials/3D/crash/sfs.vmt,58,58
+materials/3D/crash/sfs.vtf,5552,5552
+materials/3D/crash/teeth.vmt,60,60
+materials/3D/crash/teeth.vtf,5552,5552
+particles/fruta.pcf,42373,42373
+particles/sienimetsa_sienet.pcf,96461,96461
+maps/ze_crashbandicoot_beta_particles.txt,96,96
+sound/crash/Crash Bandicoot 1 - Cortex Boss Music.mp3,3063672,3063672
+sound/crash/Crash Bandicoot 1 - Generator Room Music.mp3,1611264,1611264
+"sound/crash/Crash Bandicoot 1 - Lights Out, Jaws Of Darkness Music.mp3",2474898,2474898
+"sound/crash/Crash Bandicoot 1 - Road To Nowhere, The High Road Music.mp3",2085360,2085360
+sound/crash/Crash Bandicoot 1 - Toxic Waste Music.mp3,2378087,2378087
+sound/crash/Crash bandicoot 1 music - The Lost CitySunset Vista.mp3,2939669,2939669
+sound/crash/Crash Bandicoot Music- The Great Hall.mp3,2421817,2421817
+sound/crash/Crash Bandicoot Music- The Lab.mp3,2421817,2421817
+materials/crash/akuaku.tga,131622,131622
+materials/crash/akuaku.vmt,106,106
+materials/crash/akuaku.vtf,43872,43872
+materials/crash/akuaku2.vmt,79,79
+materials/crash/akuaku2.vtf,43872,43872
+materials/crash/akuaku3.vmt,80,80
+materials/crash/apple.vmt,105,105
+materials/crash/apple.vtf,174944,174944
+materials/crash/blank.vtf,699272,699272
+materials/crash/hp_bar1.vmt,623,623
+materials/crash/hp_bar1.vtf,1398336,1398336
+materials/crash/hp_bar2.vmt,623,623
+materials/crash/hp_bar2.vtf,1398336,1398336
+materials/crash/hp_bar3.vmt,623,623
+materials/crash/hp_bar3.vtf,1398336,1398336
+materials/crash/hp_bar4.vmt,623,623
+materials/crash/hp_bar4.vtf,1398336,1398336
+materials/crash/hp_bar5.vmt,623,623
+materials/crash/hp_bar5.vtf,1398336,1398336
+materials/crash/life.tga,24215,24215
+materials/crash/life.vmt,104,104
+materials/crash/life.vtf,22080,22080
+materials/crash/testing.vmt,63,63
+materials/crash/testing.vtf,349760,349760

@@ -1,0 +1,23 @@
+filename,size,compressed
+materials/maps/gg_red_arena/cubemapdefault.vtf,4960,4960
+materials/maps/gg_red_arena/cubemapdefault.hdr.vtf,76528,76528
+materials/LESS/RED2.vmt,85,85
+materials/less/red2.vtf,174984,174984
+materials/NEW FOLDER/BUSHS.vmt,80,80
+materials/simpsons/bushs.vtf,2952,2952
+materials/COLOR/CAMOUFLAGE GREEN.vmt,73,73
+materials/COLOR/BEIGE.vmt,62,62
+materials/color/beige.vtf,11144,11144
+materials/skybox/mpa104up.vmt,85,85
+materials/skybox/mpa104up.vtf,699272,699272
+materials/skybox/mpa104dn.vmt,85,85
+materials/skybox/mpa104dn.vtf,699272,699272
+materials/skybox/mpa104ft.vmt,85,85
+materials/skybox/mpa104ft.vtf,699272,699272
+materials/skybox/mpa104bk.vmt,85,85
+materials/skybox/mpa104bk.vtf,699272,699272
+materials/skybox/mpa104lf.vmt,85,85
+materials/skybox/mpa104lf.vtf,699272,699272
+materials/skybox/mpa104rt.vmt,85,85
+materials/skybox/mpa104rt.vtf,699272,699272
+maps/soundcache/gg_red_arena.cache,174577,174577

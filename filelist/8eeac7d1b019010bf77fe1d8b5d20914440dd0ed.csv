@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/maps/surf_remember_final_d/tile/tilefloor016a_2421_-1377_4778.vmt,143,143
+materials/maps/surf_remember_final_d/nature/water_canals03_2421_-1377_4778.vmt,169,169
+materials/maps/surf_remember_final_d/glass/combineglass001a_2421_-1377_4778.vmt,147,147
+materials/maps/surf_remember_final_d/effects/combineshield/comshieldwall2faded_2421_-1377_4778.vmt,189,189
+materials/maps/surf_remember_final_d/maps/surf_remember_final_d/nature/water_canals03_2421_-1377_4778_depth_32.vmt,151,151
+materials/maps/surf_remember_final_d/maps/surf_remember_final_d/nature/water_canals03_2421_-1377_4778_depth_8.vmt,150,150
+materials/maps/surf_remember_final_d/maps/surf_remember_final_d/nature/water_canals03_2421_-1377_4778_depth_11.vmt,151,151
+materials/maps/surf_remember_final_d/cubemapdefault.vtf,4952,4952
+materials/maps/surf_remember_final_d/c2421_-1377_4778.vtf,4952,4952
+materials/maps/surf_remember_final_d/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/surf_remember_final_d/c2421_-1377_4778.hdr.vtf,76520,76520
+materials/skybox/down-under512_bk.vmt,143,143
+materials/skybox/down-under512_bk.vtf,131280,131280
+materials/skybox/down-under512_dn.vmt,143,143
+materials/skybox/down-under512_dn.vtf,131280,131280
+materials/skybox/down-under512_ft.vmt,143,143
+materials/skybox/down-under512_ft.vtf,131280,131280
+materials/skybox/down-under512_lf.vmt,143,143
+materials/skybox/down-under512_lf.vtf,131280,131280
+materials/skybox/down-under512_rt.vmt,143,143
+materials/skybox/down-under512_rt.vtf,131280,131280
+materials/skybox/down-under512_up.vmt,143,143
+materials/skybox/down-under512_up.vtf,131280,131280
+materials/VGUI/logos/Sans titre 2.vmt,129,129
+materials/VGUI/logos/Sans titre 2.vtf,43912,43912
+materials/VGUI/logos/Sans titre 3.vmt,129,129
+materials/VGUI/logos/Sans titre 3.vtf,87616,87616
+materials/VGUI/logos/tag_skull3.vmt,127,127
+materials/VGUI/logos/tag_skull3.vtf,87616,87616
+materials/VGUI/logos/TAGZOUILLE.vmt,127,127
+materials/VGUI/logos/TAGZOUILLE.vtf,43912,43912

@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/test1/nature/water_canals_water2_872_-945_82.vmt,154,154
+materials/maps/test1/models/brokenglass/glassbroken_piece2_362_-1249_82.vmt,143,143
+materials/maps/test1/models/brokenglass/glassbroken_piece2_872_-945_82.vmt,142,142
+materials/maps/test1/models/brokenglass/glassbroken_piece2_305_-1069_-164.vmt,145,145
+materials/maps/test1/metal/metalwall001a_872_-945_82.vmt,124,124
+materials/maps/test1/wood/woodfloor008a_305_-1069_-164.vmt,165,165
+materials/maps/test1/wood/woodfloor008a_872_-945_82.vmt,162,162
+materials/maps/test1/wood/woodfloor008a_362_-1249_82.vmt,163,163
+materials/maps/test1/maps/test1/nature/water_canals_water2_872_-945_82_depth_108.vmt,137,137
+materials/maps/test1/cubemapdefault.vtf,9808,9808
+materials/maps/test1/c872_-945_82.vtf,9808,9808
+materials/maps/test1/c362_-1249_82.vtf,9808,9808
+materials/maps/test1/c305_-1069_-164.vtf,9808,9808

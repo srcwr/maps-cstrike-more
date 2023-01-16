@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/ba_jail_stg_ecco/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/ba_jail_stg_ecco/metal/citadel_metalwall072c_0_0_0.vmt,137,137
+materials/maps/ba_jail_stg_ecco/metal/citadel_tilewall005a_0_0_0.vmt,136,136
+materials/maps/ba_jail_stg_ecco/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/ba_jail_stg_ecco/glass/offwndwb_0_0_0.vmt,202,202
+materials/maps/ba_jail_stg_ecco/glass/offwndwc_0_0_0.vmt,124,124
+materials/maps/ba_jail_stg_ecco/cubemapdefault.vtf,28753,28753
+materials/maps/ba_jail_stg_ecco/c0_0_0.vtf,28753,28753
+materials/maps/ba_jail_stg_ecco/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ba_jail_stg_ecco/c0_0_0.hdr.vtf,76528,76528

@@ -1,0 +1,96 @@
+filename,size,compressed
+materials/maps/fy_poolparty_slank/dev/dev_water2_-320_480_58.vmt,155,155
+materials/maps/fy_poolparty_slank/de_chateau/interiortile03_-320_480_58.vmt,143,143
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_-512_11_128.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_-159_960_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_-960_705_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_-804_294_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_-543_959_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_-806_690_128.vmt,154,154
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_-960_288_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_-832_16_128.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_-806_690_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_-804_294_128.vmt,154,154
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_-320_480_58.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_-543_959_128.vmt,154,154
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_-832_16_128.vmt,153,153
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_-960_705_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_-960_288_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_-804_294_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_320_320_128.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_320_672_128.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_7_711_128.vmt,149,149
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_-806_690_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_-320_480_58.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_confloor1_16_257_128.vmt,150,150
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_320_672_128.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_320_320_128.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_320_896_128.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_7_711_128.vmt,151,151
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_192_32_128.vmt,150,150
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_16_257_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_16_257_128.vmt,150,150
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_192_32_128.vmt,152,152
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_320_320_128.vmt,153,153
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_met_trim3_7_711_128.vmt,149,149
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_320_896_128.vmt,153,153
+materials/maps/fy_poolparty_slank/vbd/pack 2 remnont/remn_metalfloor9_320_672_128.vmt,153,153
+materials/maps/fy_poolparty_slank/maps/fy_poolparty_slank/dev/dev_water2_-320_480_58_depth_96.vmt,137,137
+materials/maps/fy_poolparty_slank/cubemapdefault.vtf,9832,9832
+materials/maps/fy_poolparty_slank/c-320_480_58.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c-512_11_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c-159_960_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c-960_705_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c-804_294_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c-543_959_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c-806_690_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c-960_288_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c-832_16_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c320_320_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c320_672_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c7_711_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c16_257_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c320_896_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c192_32_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/c-128_11_128.vtf,1384,1384
+materials/maps/fy_poolparty_slank/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-320_480_58.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-512_11_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-159_960_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-960_705_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-804_294_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-543_959_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-806_690_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-960_288_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-832_16_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c320_320_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c320_672_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c7_711_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c16_257_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c320_896_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c192_32_128.hdr.vtf,76528,76528
+materials/maps/fy_poolparty_slank/c-128_11_128.hdr.vtf,76528,76528
+maps/fy_poolparty_slaNk.txt,296,296
+materials/slaNk/slaNk_new.vmt,123,123
+materials/slaNk/slaNk_new.vtf,2796348,2796348
+materials/VBD/Pack 2 Remnont/remn_confloor1.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_confloor1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_confloor1_normal.vtf,1398308,1398308
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_met_trim3.vmt,324,324
+materials/VBD/Pack 2 Remnont/remn_met_trim3.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_met_trim3_normal.vtf,43904,43904
+materials/skybox/realsky1bk.vmt,166,166
+materials/skybox/realsky1bk.vtf,1398264,1398264
+materials/skybox/realsky1dn.vmt,89,89
+materials/skybox/realsky1dn.vtf,112,112
+materials/skybox/realsky1ft.vmt,166,166
+materials/skybox/realsky1ft.vtf,1398264,1398264
+materials/skybox/realsky1lf.vmt,166,166
+materials/skybox/realsky1lf.vtf,1398264,1398264
+materials/skybox/realsky1rt.vmt,166,166
+materials/skybox/realsky1rt.vtf,1398264,1398264
+materials/skybox/realsky1up.vmt,89,89
+materials/skybox/realsky1up.vtf,2796424,2796424

@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/zm_infectedbase_alpha2/glass/offwndwc_0_0_0.vmt,130,130
+materials/maps/zm_infectedbase_alpha2/metal/metalceiling005a_0_0_0.vmt,138,138
+materials/maps/zm_infectedbase_alpha2/metal/metalwall076a_0_0_0.vmt,135,135
+materials/maps/zm_infectedbase_alpha2/nature/toxicslime002a_0_0_0.vmt,160,160
+materials/maps/zm_infectedbase_alpha2/nature/toxicslime002a_depth_72.vmt,108,108
+materials/maps/zm_infectedbase_alpha2/liquids/militiawater_dx70_depth_96.vmt,112,112
+materials/maps/zm_infectedbase_alpha2/nature/toxicslime002a_depth_16.vmt,108,108
+materials/maps/zm_infectedbase_alpha2/de_nuke/nukwater_movingplane_dx70_depth_8.vmt,119,119
+materials/maps/zm_infectedbase_alpha2/de_nuke/nukwater_movingplane_dx70_depth_96.vmt,120,120
+materials/maps/zm_infectedbase_alpha2/cubemapdefault.vtf,9832,9832
+materials/maps/zm_infectedbase_alpha2/c0_0_0.vtf,9832,9832
+materials/maps/zm_infectedbase_alpha2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_infectedbase_alpha2/c0_0_0.hdr.vtf,76528,76528

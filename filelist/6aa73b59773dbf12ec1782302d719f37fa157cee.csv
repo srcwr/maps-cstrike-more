@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/aim_map_esl/de_piranesi/wooddoor01_-731_379_-285.vmt,135,135
+materials/maps/aim_map_esl/cubemapdefault.vtf,9824,9824
+materials/maps/aim_map_esl/c-731_379_-285.vtf,9824,9824
+materials/maps/aim_map_esl/c-130_-263_-294.vtf,9824,9824
+materials/maps/aim_map_esl/c-129_1049_-291.vtf,9824,9824
+materials/maps/aim_map_esl/c-898_-11_-1746.vtf,9824,9824
+materials/maps/aim_map_esl/c-1203_22_-1703.vtf,9824,9824
+materials/esl/logoesl.vmt,91,91
+materials/esl/logoesl.vtf,1398336,1398336
+materials/esl/signature.vmt,95,95
+materials/esl/signature.vtf,1398336,1398336
+materials/overviews/aim_map_esl.vtf,1398336,1398336
+materials/overviews/aim_map_esl.vmt,123,123
+materials/overviews/aim_map_esl_radar.vtf,1398336,1398336
+materials/overviews/aim_map_esl_radar.vmt,129,129
+resource/overviews/aim_map_esl.txt,321,321

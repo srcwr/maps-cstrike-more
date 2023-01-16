@@ -1,0 +1,51 @@
+filename,size,compressed
+materials/maps/bhop_soft_alpha_01/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_soft_alpha_01/cubemapdefault.hdr.vtf,76528,76528
+C:/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Source/cstrike/lights.rad,690,690
+materials/bhop void/420.png,10603,10603
+materials/bhop void/420.vmt,124,124
+materials/bhop void/420.vtf,262352,262352
+materials/bhop void/bhop_soft.png,346262,346262
+materials/bhop void/bhop_soft.vmt,130,130
+materials/bhop void/bhop_soft.vtf,524432,524432
+materials/bhop void/black.png,3565,3565
+materials/bhop void/black.vmt,90,90
+materials/bhop void/black.vtf,131280,131280
+materials/bhop void/black_fade.png,4710,4710
+materials/bhop void/black_fade.vmt,131,131
+materials/bhop void/black_fade.vtf,262352,262352
+materials/bhop void/green.png,4879,4879
+materials/bhop void/green.vmt,90,90
+materials/bhop void/green.vtf,262352,262352
+materials/bhop void/light_green.png,4880,4880
+materials/bhop void/light_green.vmt,96,96
+materials/bhop void/light_green.vtf,262352,262352
+materials/bhop void/light_pink.png,4214,4214
+materials/bhop void/light_pink.vmt,95,95
+materials/bhop void/light_pink.vtf,131280,131280
+materials/bhop void/light_pink_unlit_generic.vmt,89,89
+materials/bhop void/light_pink_unlit_generic.vtf,131280,131280
+materials/bhop void/longjump.png,19335,19335
+materials/bhop void/longjump.vmt,129,129
+materials/bhop void/longjump.vtf,524432,524432
+materials/bhop void/pad.png,3396,3396
+materials/bhop void/pad.vmt,124,124
+materials/bhop void/pad.vtf,262352,262352
+materials/bhop void/pad_green.png,3385,3385
+materials/bhop void/pad_green.vmt,94,94
+materials/bhop void/pad_green.vtf,262352,262352
+materials/bhop void/pad_pink.png,4574,4574
+materials/bhop void/pad_pink.vmt,112,112
+materials/bhop void/pad_pink.vtf,262352,262352
+materials/bhop void/pad_unlit_generic.vmt,96,96
+materials/bhop void/pad_unlit_generic.vtf,262352,262352
+materials/bhop void/pink.png,4214,4214
+materials/bhop void/pink.vmt,89,89
+materials/bhop void/pink.vtf,131280,131280
+materials/bhop void/pink_unlit_generic.vmt,97,97
+materials/bhop void/pink_unlit_generic.vtf,131280,131280
+materials/bhop void/sneekpeek.png,19355,19355
+materials/devneons/red_dev_neon.vmt,106,106
+materials/devneons/red_dev_neon.vtf,11144,11144
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912

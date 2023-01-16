@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/hoejhus9_v70/de_nuke/nukblenddirtgrass_wvt_patch.vmt,303,303
+materials/maps/hoejhus9_v70/de_train/blendgrassdirt001a_wvt_patch.vmt,129,129
+materials/maps/hoejhus9_v70/shadertest/water_refract_only_0_0_0.vmt,158,158
+materials/maps/hoejhus9_v70/metal/metalpipe003a_0_0_0.vmt,125,125
+materials/maps/hoejhus9_v70/glass/combineglass001a_0_0_0.vmt,128,128
+materials/maps/hoejhus9_v70/models/props_trainstation/trainstation_clock_glass001_0_0_0.vmt,159,159
+materials/maps/hoejhus9_v70/shadertest/water_refract_only_depth_32.vmt,116,116
+materials/maps/hoejhus9_v70/cubemapdefault.vtf,28753,28753
+materials/maps/hoejhus9_v70/c0_0_0.vtf,28753,28753
+materials/maps/hoejhus9_v70/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/hoejhus9_v70/c0_0_0.hdr.vtf,76528,76528

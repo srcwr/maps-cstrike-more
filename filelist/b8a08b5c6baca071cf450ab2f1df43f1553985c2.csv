@@ -1,0 +1,129 @@
+filename,size,compressed
+materials/maps/bhop_failed/liquids/infernowater_depth_112.vmt,108,108
+materials/maps/bhop_failed/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_failed/cubemapdefault.hdr.vtf,76528,76528
+materials/liquids/infernowater.vmt,969,969
+materials/dev/water_normal.vtf,5592612,5592612
+materials/dev/water_dudv.vtf,5068330,5068330
+materials/devneons/blue_neon.vmt,103,103
+materials/devneons/blue_neon.vtf,43912,43912
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/TOOLS/toolsblack.vmt,64,64
+materials/TOOLS/toolsblack.vtf,2936,2936
+materials/ryan_dev/50.vmt,59,59
+materials/ryan_dev/50.vtf,11144,11144
+materials/devneons/white_neon.vmt,104,104
+materials/devneons/white_neon.vtf,43912,43912
+materials/TOOLS/TOOLSINVISIBLE.vmt,247,247
+materials/TOOLS/toolsinvisible.vtf,5680,5680
+materials/TOOLS/toolsinvisible-dx10.vtf,5720,5720
+materials/decals/hi_eto_kotzilla.vmt,122,122
+materials/decals/hi_eto_kotzilla.vtf,1398336,1398336
+materials/solidcolors/redPulse.vmt,293,293
+materials/cs_italy/white.vtf,888,888
+materials/TOOLS/toolsclip.vmt,251,251
+materials/TOOLS/toolsclip.vtf,5680,5680
+materials/TOOLS/toolsclip-dx10.vtf,5720,5720
+materials/solidcolors/greenPulse.vmt,290,290
+materials/devneons/green_neon.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/ICECREAMLOCK/LIGHTGLASS.vmt,118,118
+materials/ICECREAMLOCK/lightglass.vtf,2952,2952
+materials/GRID/SECRET_WALL.vmt,1395,1395
+materials/GRID/invis_wall.vtf,65744,65744
+materials/TOOLS/toolsskybox.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/quiet/white.vmt,59,59
+materials/quiet/white.vtf,1398352,1398352
+materials/ryan_dev/70.vmt,59,59
+materials/ryan_dev/70.vtf,11144,11144
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/TOOLS/fogvolume.vmt,84,84
+materials/TOOLS/fogvolume.vtf,5720,5720
+materials/devneons/pink_neon.vmt,103,103
+materials/devneons/pink_neon.vtf,43912,43912
+materials/ryan_dev/30.vmt,59,59
+materials/ryan_dev/30.vtf,11144,11144
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/dev/dev_waterbeneath2.vmt,1312,1312
+materials/nature/water_frame01_normal.vtf,262375,262375
+materials/nature/water_frame01_dudv.vtf,174994,174994
+materials/skybox/whiteskyup.vmt,106,106
+materials/skybox/whitesky.vtf,1398352,1398352
+materials/skybox/whiteskydn.vmt,106,106
+materials/skybox/whiteskylf.vmt,106,106
+materials/skybox/whiteskyrt.vmt,106,106
+materials/skybox/whiteskyft.vmt,106,106
+materials/skybox/whiteskybk.vmt,106,106
+materials/detail/detailsprites.vmt,161,161
+materials/detail/detailsprites.vtf,1398336,1398336
+models/shop/nf/back/teddy_spine.mdl,5020,5020
+models/shop/nf/back/teddy_spine.vvd,58944,58944
+models/shop/nf/back/teddy_spine.dx90.vtx,16613,16613
+materials/models/shop/nf/back/teddy/timber_tim.vmt,558,558
+materials/models/shop/nf/back/teddy/timber_tim_color.vtf,349784,349784
+materials/models/shop/nf/back/teddy/timber_tim_normal.vtf,349784,349784
+models/antosha/ya/smotrit_vniz.mdl,1840,1840
+models/antosha/ya/smotrit_vniz.vvd,85312,85312
+models/antosha/ya/smotrit_vniz.dx90.vtx,21925,21925
+materials/models/antosha/ya.vmt,89,89
+materials/models/antosha/ya.vtf,1398336,1398336
+models/antosha/ya/smotrit_vniz2.mdl,1844,1844
+models/antosha/ya/smotrit_vniz2.vvd,85312,85312
+models/antosha/ya/smotrit_vniz2.dx90.vtx,21925,21925
+models/antosha/ya/povis.mdl,1820,1820
+models/antosha/ya/povis.vvd,85312,85312
+models/antosha/ya/povis.dx90.vtx,21925,21925
+models/antosha/ya/padaet_vniz.mdl,1840,1840
+models/antosha/ya/padaet_vniz.vvd,85312,85312
+models/antosha/ya/padaet_vniz.dx90.vtx,21925,21925
+models/antosha/ya/smotrit_nasteny.mdl,1852,1852
+models/antosha/ya/smotrit_nasteny.vvd,85312,85312
+models/antosha/ya/smotrit_nasteny.dx90.vtx,21925,21925
+models/antosha/ya/smotrit_vverh.mdl,1844,1844
+models/antosha/ya/smotrit_vverh.vvd,85312,85312
+models/antosha/ya/smotrit_vverh.dx90.vtx,21925,21925
+models/antosha/ya/povis2.mdl,1820,1820
+models/antosha/ya/povis2.vvd,85312,85312
+models/antosha/ya/povis2.dx90.vtx,21925,21925
+models/proxychains/algetic_props/algetic_chair.mdl,2096,2096
+models/proxychains/algetic_props/algetic_chair.vvd,7232,7232
+models/proxychains/algetic_props/algetic_chair.dx90.vtx,1554,1554
+models/proxychains/algetic_props/algetic_chair.dx80.vtx,1554,1554
+models/proxychains/algetic_props/algetic_chair.sw.vtx,1554,1554
+models/proxychains/algetic_props/algetic_chair.phy,3283,3283
+materials/proxychains/algetic_props/reflectivity_50b.vmt,134,134
+materials/dev/reflectivity_50b.vtf,888,888
+materials/proxychains/algetic_props/reflectivity_70b.vmt,134,134
+materials/dev/reflectivity_70b.vtf,888,888
+models/antosha/ya/stoit_ysteni.mdl,1840,1840
+models/antosha/ya/stoit_ysteni.vvd,85312,85312
+models/antosha/ya/stoit_ysteni.dx90.vtx,21925,21925
+models/antosha/ya/sidit.mdl,1820,1820
+models/antosha/ya/sidit.vvd,85312,85312
+models/antosha/ya/sidit.dx90.vtx,21925,21925
+models/QuaterniusDev/trees/New trees/lp_bushc.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/lp_bushc.vvd,34432,34432
+models/QuaterniusDev/trees/New trees/LP_BushC.dx90.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushC.dx80.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushC.sw.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushC.phy,2157,2157
+materials/models/QuaterniusDev/trees2/LightGray.vmt,83,83
+materials/models/QuaterniusDev/trees2/LightGray.vtf,174984,174984
+materials/models/QuaterniusDev/trees2/LightCyan.vmt,83,83
+materials/models/QuaterniusDev/trees2/LightCyan.vtf,1398336,1398336
+models/QuaterniusDev/trees/New trees/lp_treec.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/lp_treec.vvd,53120,53120
+models/QuaterniusDev/trees/New trees/LP_TreeC.dx90.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeC.dx80.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeC.sw.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeC.phy,7270,7270
+models/QuaterniusDev/trees/New trees/lp_maintreec.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/lp_maintreec.vvd,71744,71744
+models/QuaterniusDev/trees/New trees/LP_MainTreeC.dx90.vtx,13290,13290
+models/QuaterniusDev/trees/New trees/LP_MainTreeC.dx80.vtx,13290,13290
+models/QuaterniusDev/trees/New trees/LP_MainTreeC.sw.vtx,13290,13290
+models/QuaterniusDev/trees/New trees/LP_MainTreeC.phy,25051,25051

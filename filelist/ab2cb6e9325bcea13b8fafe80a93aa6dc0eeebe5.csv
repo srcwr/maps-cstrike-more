@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/fun_3d/metal/citadel_tilewall005a_0_0_0.vmt,126,126
+materials/maps/fun_3d/cubemapdefault.vtf,9832,9832
+materials/maps/fun_3d/c0_0_0.vtf,9832,9832
+materials/maps/fun_3d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/fun_3d/c0_0_0.hdr.vtf,76528,76528
+maps/fun_3d.nav,75745,75745
+materials/overviews/fun_3d.vmt,133,133
+materials/overviews/fun_3d_radar.vmt,139,139
+materials/overviews/fun_3d.vtf,1398336,1398336
+materials/overviews/fun_3d_radar.vtf,699272,699272
+resource/overviews/fun_3d.txt,119,119

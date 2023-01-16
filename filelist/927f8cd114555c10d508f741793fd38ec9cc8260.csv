@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/cs_bunkerrescue/liquids/militiawater_128_-32_72.vmt,157,157
+materials/maps/cs_bunkerrescue/metal/metalfloor001a_128_-32_72.vmt,134,134
+materials/maps/cs_bunkerrescue/metal/metalfloor001b_128_-32_72.vmt,134,134
+materials/maps/cs_bunkerrescue/metal/metalfloor001b_160_-2560_0.vmt,135,135
+materials/maps/cs_bunkerrescue/metal/metalfloor001a_160_-2560_0.vmt,135,135
+materials/maps/cs_bunkerrescue/metal/metalroof005a_128_-32_72.vmt,133,133
+materials/maps/cs_bunkerrescue/metal/metalroof005a_160_-2560_0.vmt,134,134
+materials/maps/cs_bunkerrescue/glass/glasswindowbreak070b_128_-32_72.vmt,114,114
+materials/maps/cs_bunkerrescue/glass/offwndwb_128_-32_72.vmt,210,210
+materials/maps/cs_bunkerrescue/maps/cs_bunkerrescue/liquids/militiawater_128_-32_72_depth_272.vmt,140,140
+materials/maps/cs_bunkerrescue/cubemapdefault.vtf,9824,9824
+materials/maps/cs_bunkerrescue/c128_-32_72.vtf,4952,4952
+materials/maps/cs_bunkerrescue/c160_-2560_0.vtf,4952,4952

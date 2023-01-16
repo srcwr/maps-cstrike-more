@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/maps/gg_barnyard/liquids/militiawater_0_0_0.vmt,148,148
+materials/maps/gg_barnyard/liquids/militiawater_depth_512.vmt,108,108
+materials/maps/gg_barnyard/cubemapdefault.vtf,4952,4952
+materials/maps/gg_barnyard/c0_0_0.vtf,4952,4952
+materials/PHQNIX1/GRASS1.vmt,87,87
+materials/phqnix1/grass1.vtf,87616,87616
+materials/LESS/STRAWBROWN.vmt,93,93
+materials/less/strawbrown.vtf,174984,174984
+materials/PRAWN_TOON_TEXTURES/GRASS_NOIZE.vmt,103,103
+materials/prawn_toon_textures/grass_noize.vtf,11144,11144
+materials/LESS/BROWNROOF.vmt,91,91
+materials/less/brownroof.vtf,174984,174984
+materials/LESS/REDWOODWALL.vmt,94,94
+materials/less/redwoodwall.vtf,87544,87544
+materials/LESS/BROWNUNGROUND.vmt,90,90
+materials/less/brownunground.vtf,174984,174984
+materials/skybox/toonsunny_up.vmt,89,89
+materials/skybox/toonsunny_up.vtf,699272,699272
+materials/skybox/toonsunny_dn.vmt,89,89
+materials/skybox/toonsunny_dn.vtf,699272,699272
+materials/skybox/toonsunny_ft.vmt,89,89
+materials/skybox/toonsunny_ft.vtf,699272,699272
+materials/skybox/toonsunny_bk.vmt,89,89
+materials/skybox/toonsunny_bk.vtf,699272,699272
+materials/skybox/toonsunny_lf.vmt,89,89
+materials/skybox/toonsunny_lf.vtf,699272,699272
+materials/skybox/toonsunny_rt.vmt,89,89
+materials/skybox/toonsunny_rt.vtf,699272,699272
+maps/soundcache/gg_barnyard.cache,16,16
+materials/Color/persian red.vmt,68,68
+materials/Color/persian red.vtf,11144,11144

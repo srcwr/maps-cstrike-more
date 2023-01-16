@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/de_orange_panel_alley/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/de_orange_panel_alley/de_cbble/woodfloor01_0_0_0.vmt,135,135
+materials/maps/de_orange_panel_alley/wood/woodfloor008a_0_0_0.vmt,172,172
+materials/maps/de_orange_panel_alley/metal/metalwall001a_0_0_0.vmt,134,134
+materials/maps/de_orange_panel_alley/cubemapdefault.vtf,9832,9832
+materials/maps/de_orange_panel_alley/c0_0_0.vtf,9832,9832
+materials/maps/de_orange_panel_alley/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_orange_panel_alley/c0_0_0.hdr.vtf,76528,76528
+maps/de_orange_panel_alley.txt,207,207
+maps/de_orange_panel_alley.nav,144464,144464
+materials/overviews/de_orange_panel_alley.vmt,242,242
+materials/overviews/de_orange_panel_alley.vtf,1398336,1398336
+resource/overviews/de_orange_panel_alley.txt,254,254
+materials/overviews/de_orange_panel_alley_radar.vmt,176,176
+materials/overviews/de_orange_panel_alley_radar.vtf,1398336,1398336

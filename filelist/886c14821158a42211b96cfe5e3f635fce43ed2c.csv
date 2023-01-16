@@ -1,0 +1,9 @@
+filename,size,compressed
+materials/maps/he_alfa_v2_green/glass/glasswindow070c_-121_972_75.vmt,137,137
+materials/maps/he_alfa_v2_green/glass/glasswindow070c_-161_51_137.vmt,137,137
+materials/maps/he_alfa_v2_green/shadertest/watercheap_opaque_nofresnel_-121_972_75.vmt,177,177
+materials/maps/he_alfa_v2_green/shadertest/watercheap_opaque_nofresnel_-161_51_137.vmt,177,177
+materials/maps/he_alfa_v2_green/maps/he_alfa_v2_green/shadertest/watercheap_opaque_nofresnel_-161_51_137_depth_1.vmt,158,158
+materials/maps/he_alfa_v2_green/cubemapdefault.vtf,9824,9824
+materials/maps/he_alfa_v2_green/c-121_972_75.vtf,9824,9824
+materials/maps/he_alfa_v2_green/c-161_51_137.vtf,9824,9824

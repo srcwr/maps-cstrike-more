@@ -1,0 +1,31 @@
+filename,size,compressed
+materials/maps/surf_underearth/nature/blendprodasphaltgrass_wvt_patch.vmt,122,122
+materials/maps/surf_underearth/nature/blendproddirtgrass_wvt_patch.vmt,90,90
+materials/maps/surf_underearth/nature/red_grass_wvt_patch.vmt,317,317
+materials/maps/surf_underearth/nature/water_coast04_0_0_0.vmt,152,152
+materials/maps/surf_underearth/de_nuke/nukwater_movingplane_beneath_depth_7.vmt,122,122
+materials/maps/surf_underearth/de_nuke/nukwater_movingplane_beneath_depth_4.vmt,122,122
+materials/maps/surf_underearth/nature/water_coast04_depth_168.vmt,108,108
+materials/maps/surf_underearth/de_nuke/nukwater_movingplane_beneath_depth_3.vmt,122,122
+materials/maps/surf_underearth/de_nuke/nukwater_movingplane_beneath_depth_5.vmt,122,122
+materials/maps/surf_underearth/de_nuke/nukwater_movingplane_beneath_depth_88.vmt,123,123
+materials/maps/surf_underearth/cubemapdefault.vtf,28753,28753
+materials/maps/surf_underearth/c0_0_0.vtf,28753,28753
+materials/maps/surf_underearth/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_underearth/c0_0_0.hdr.vtf,76528,76528
+materials/GIZA/TOMB-GOLD.vmt,92,92
+materials/giza/tomb-gold.vtf,174968,174968
+materials/GIZA/SANDRIPPLE.vmt,89,89
+materials/giza/sandripple.vtf,174968,174968
+materials/GIZA/TEMPLEWALL-2.vmt,146,146
+materials/giza/templewall-2.vtf,174968,174968
+materials/giza/templewall-2_normal.vtf,174968,174968
+materials/GIZA/SPHINXHEAD.vmt,104,104
+materials/giza/sphinxhead.vtf,174968,174968
+materials/RYAN_DEV/CMYK_RED.vmt,65,65
+materials/ryan_dev/cmyk_red.vtf,11144,11144
+sound/underearth/youtube        - gladiator soundtrack - main theme.wav,3024950,3024950
+sound/underearth/youtube        - requiem for a dream soundtrack - theme song.wav,3136612,3136612
+sound/underearth/youtube        - the last samurai soundtrack (red warrior).wav,7796746,7796746
+sound/underearth/youtube        - heavy rain soundtrack - main theme.wav,6122886,6122886
+sound/underearth/youtube        - the island soundtrack my name is lincoln.wav,4911018,4911018

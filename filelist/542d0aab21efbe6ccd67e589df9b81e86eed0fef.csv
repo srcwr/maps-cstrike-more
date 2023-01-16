@@ -1,0 +1,23 @@
+filename,size,compressed
+materials/maps/surf_sniper_v2/glass/glasswindow028a_1438_178_589.vmt,136,136
+materials/maps/surf_sniper_v2/glass/glasswindow028a_2192_1136_1320.vmt,138,138
+materials/maps/surf_sniper_v2/glass/unbreakable_957_845_618.vmt,131,131
+materials/maps/surf_sniper_v2/glass/unbreakable_2192_1136_1320.vmt,134,134
+materials/maps/surf_sniper_v2/glass/unbreakable_-825_2141_47.vmt,132,132
+materials/maps/surf_sniper_v2/glass/unbreakable_1438_178_589.vmt,132,132
+materials/maps/surf_sniper_v2/environment maps/pipemetal001a_960_268_762.vmt,144,144
+materials/maps/surf_sniper_v2/environment maps/pipemetal001a_1438_178_589.vmt,145,145
+materials/maps/surf_sniper_v2/environment maps/pipemetal001a_857_-330_618.vmt,145,145
+materials/maps/surf_sniper_v2/environment maps/pipemetal001a_1210_480_279.vmt,145,145
+materials/maps/surf_sniper_v2/liquids/water_chateau_dx70_depth_720.vmt,114,114
+materials/maps/surf_sniper_v2/liquids/water_chateau_dx70_depth_721.vmt,114,114
+materials/maps/surf_sniper_v2/liquids/water_chateau_dx70_depth_25.vmt,113,113
+materials/maps/surf_sniper_v2/liquids/water_chateau_dx70_depth_120.vmt,114,114
+materials/maps/surf_sniper_v2/cubemapdefault.vtf,9808,9808
+materials/maps/surf_sniper_v2/c1438_178_589.vtf,9808,9808
+materials/maps/surf_sniper_v2/c2192_1136_1320.vtf,9808,9808
+materials/maps/surf_sniper_v2/c957_845_618.vtf,9808,9808
+materials/maps/surf_sniper_v2/c-825_2141_47.vtf,9808,9808
+materials/maps/surf_sniper_v2/c960_268_762.vtf,9808,9808
+materials/maps/surf_sniper_v2/c857_-330_618.vtf,9808,9808
+materials/maps/surf_sniper_v2/c1210_480_279.vtf,9808,9808

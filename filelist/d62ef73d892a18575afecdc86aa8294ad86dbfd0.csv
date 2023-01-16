@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/de_one_way/liquids/water_pretty1_656_-2624_1192.vmt,157,157
+materials/maps/de_one_way/liquids/water_pretty1_1304_-1792_840.vmt,157,157
+materials/maps/de_one_way/tile/tilefloor012a_1304_-1792_840.vmt,131,131
+materials/maps/de_one_way/tile/tilefloor012a_656_-2624_1192.vmt,131,131
+materials/maps/de_one_way/maps/de_one_way/liquids/water_pretty1_656_-2624_1192_depth_23.vmt,139,139
+materials/maps/de_one_way/maps/de_one_way/liquids/water_pretty1_1304_-1792_840_depth_224.vmt,140,140
+materials/maps/de_one_way/cubemapdefault.vtf,9808,9808
+materials/maps/de_one_way/c656_-2624_1192.vtf,9808,9808
+materials/maps/de_one_way/c1304_-1792_840.vtf,9808,9808

@@ -1,0 +1,24 @@
+filename,size,compressed
+materials/maps/surf_pyrism/de_chateau/intbrickk_0_0_0.vmt,125,125
+materials/maps/surf_pyrism/glass/unbreakable_0_0_0.vmt,122,122
+materials/maps/surf_pyrism/nature/water_canals03_depth_16.vmt,108,108
+materials/maps/surf_pyrism/cubemapdefault.vtf,4960,4960
+materials/maps/surf_pyrism/c0_0_0.vtf,4960,4960
+materials/maps/surf_pyrism/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_pyrism/c0_0_0.hdr.vtf,76528,76528
+materials/prodcaution/prodcautionred.vmt,74,74
+materials/prodcaution/prodcautionred.vtf,43912,43912
+materials/skybox/flowsky04_bk.vmt,89,89
+materials/skybox/flowsky04_bk.vtf,699272,699272
+materials/skybox/flowsky04_dn.vmt,89,89
+materials/skybox/flowsky04_dn.vtf,699272,699272
+materials/skybox/flowsky04_ft.vmt,89,89
+materials/skybox/flowsky04_ft.vtf,699272,699272
+materials/skybox/flowsky04_lf.vmt,89,89
+materials/skybox/flowsky04_lf.vtf,699272,699272
+materials/skybox/flowsky04_rt.vmt,89,89
+materials/skybox/flowsky04_rt.vtf,699272,699272
+materials/skybox/flowsky04_up.vmt,89,89
+materials/skybox/flowsky04_up.vtf,699272,699272
+materials/smashed/surf_pyrisium end.vmt,73,73
+materials/smashed/surf_pyrisium end.vtf,349760,349760

@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/zm_fastswitch_tower_classic/cubemapdefault.vtf,9824,9824
+models/player/zh/zh_zombie003_head.mdl,1468,1468
+models/player/zh/zh_zombie003_head.dx80.vtx,9339,9339
+models/player/zh/zh_zombie003_head.dx90.vtx,9339,9339
+models/player/zh/zh_zombie003_head.sw.vtx,9339,9339
+models/player/zh/zh_zombie003_head.phy,1272,1272
+models/player/zh/zh_zombie003_head.vvd,33728,33728
+materials/models/player/zh/Zombie_Classic_sheet.vmt,270,270
+maps/soundcache/zm_fastswitch_tower_classic.cache,205219,205219

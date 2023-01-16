@@ -1,0 +1,208 @@
+filename,size,compressed
+materials/maps/1111/glass/unbreakable_0_0_0.vmt,115,115
+materials/maps/1111/liquids/water_dx70_opaq_depth_6.vmt,109,109
+materials/maps/1111/liquids/water_dx70_opaq_depth_163.vmt,111,111
+materials/maps/1111/liquids/water_dx70_opaq_depth_16.vmt,110,110
+materials/maps/1111/liquids/water_dx70_opaq_depth_1.vmt,109,109
+materials/maps/1111/liquids/water_dx70_opaq_depth_17014.vmt,113,113
+materials/Blacky-brick/ziegel.vmt,97,97
+materials/Blacky-brick/ziegel.vtf,349744,349744
+materials/color/black.vmt,124,124
+materials/color/black.vtf,2952,2952
+materials/color/blu.vmt,122,122
+materials/color/blu.vtf,2952,2952
+materials/color/brown.vmt,124,124
+materials/color/brown.vtf,2952,2952
+materials/color/green.vmt,124,124
+materials/color/green.vtf,2952,2952
+materials/color/orange.vmt,125,125
+materials/color/orange.vtf,2952,2952
+materials/color/pink.vmt,123,123
+materials/color/pink.vtf,2952,2952
+materials/color/purple.vmt,125,125
+materials/color/purple.vtf,2952,2952
+materials/color/red.vmt,122,122
+materials/color/red.vtf,2952,2952
+materials/color/white.vmt,124,124
+materials/color/white.vtf,2952,2952
+materials/color/yellow.vmt,125,125
+materials/color/yellow.vtf,2952,2952
+materials/decals/milladder001.vmt,127,127
+materials/decals/milladder001.vtf,87536,87536
+materials/dev_nyro/dev_blue_a-08.vmt,73,73
+materials/dev_nyro/dev_blue_a-08.vtf,11144,11144
+materials/glass/unbreakable.vmt,177,177
+materials/glass/unbreakable.vtf,87600,87600
+materials/glass/unbreakable_ref.vtf,2936,2936
+materials/HAMMER TEXTURES/bhop_vierdo/31_WIERDO_WALL_BLACK.vmt,124,124
+materials/HAMMER TEXTURES/bhop_vierdo/31_wierdo_wall_black.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_ARROW.vmt,110,110
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_arrow.vtf,87616,87616
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_CYAN.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_cyan.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_GREEN.vmt,115,115
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_green.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_PINK.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_pink.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_red.vmt,113,113
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_red.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_yellow.vmt,116,116
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_yellow.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_GROUND_1.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_ground_1.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_GROUND_2.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_ground_2.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_GROUND_3.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_ground_3.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_JUMPBLOCK.vmt,119,119
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_jumpblock.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_MAPBY.vmt,110,110
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_mapby.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_WALL_BLACK.vmt,124,124
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_wall_black.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_WIERDSURFACE_RED.vmt,132,132
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_wierdsurface_red.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_WIERDSURFACE_YELLOW.vmt,135,135
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_wierdsurface_yellow.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/sadfa.vmt,71,71
+materials/HAMMER TEXTURES/BHOP_WIERDO/sadfa.vtf,1398264,1398264
+materials/jaanus/iphonelo.vmt,224,224
+materials/jaanus/iphonelo.vtf,349760,349760
+materials/jaanus/iphonelo_envmask.vtf,349760,349760
+materials/Kostya/xxx1.vmt,59,59
+materials/Kostya/xxx1.vtf,174984,174984
+materials/Kostya/xxx2.vmt,59,59
+materials/Kostya/xxx2.vtf,174984,174984
+materials/Kostya/xxx3.vmt,59,59
+materials/Kostya/xxx3.vtf,174984,174984
+materials/Kostya/xxx4.vmt,59,59
+materials/Kostya/xxx4.vtf,174984,174984
+materials/Kostya/xxx5.vmt,59,59
+materials/Kostya/xxx5.vtf,174984,174984
+materials/Kostya/xxx6.vmt,59,59
+materials/Kostya/xxx6.vtf,174984,174984
+materials/Kostya/xxx7.vmt,59,59
+materials/Kostya/xxx7.vtf,174984,174984
+materials/liquids/water_dx70_depth_80.vmt,105,105
+materials/maps/mg_100traps_v3/nature/water_dx70_depth_80.vmt,104,104
+materials/Mario_textures/red_mario.vmt,69,69
+materials/Mario_textures/red_mario.vtf,22052,22052
+materials/Mario_textures/skin.vmt,64,64
+materials/Mario_textures/skin.vtf,22052,22052
+materials/milladder001.vmt,127,127
+materials/milladder001.vtf,87536,87536
+materials/models/cloud/santahat/kn_santahat.vmt,104,104
+materials/models/cloud/santahat/kn_santahat.vtf,174984,174984
+materials/models/jaanus/iphonelo.vmt,224,224
+materials/models/jaanus/iphonelo.vtf,349760,349760
+materials/models/jaanus/iphonelo_envmask.vtf,349760,349760
+materials/models/player/slow/body_bag/slow_leichensack.vmt,252,252
+materials/models/player/slow/body_bag/slow_leichensack.vtf,349688,349688
+materials/models/player/slow/body_bag/slow_leichensack_bump.vtf,699232,699232
+materials/models/player/slow/gaycat_v2/yellowcat_map.vmt,295,295
+materials/models/player/slow/gaycat_v2/yellowcat_map.vtf,524496,524496
+materials/models/player/slow/gaycat_v2/yellowcat_map_normal.vtf,524496,524496
+materials/models/player/tinkywinky_css/ear.vmt,89,89
+materials/models/player/tinkywinky_css/ear.vtf,131280,131280
+materials/models/player/tinkywinky_css/face.vmt,93,93
+materials/models/player/tinkywinky_css/face.vtf,524496,524496
+materials/models/player/tinkywinky_css/plantar.vmt,93,93
+materials/models/player/tinkywinky_css/plantar.vtf,32976,32976
+materials/models/player/tinkywinky_css/purple.vmt,92,92
+materials/models/player/tinkywinky_css/purple.vtf,524496,524496
+materials/models/player/tinkywinky_css/TV.vmt,88,88
+materials/models/player/tinkywinky_css/TV.vtf,131280,131280
+materials/models/Shadertest/predator.vmt,541,541
+materials/models/weapons/w_rif_galil/w_rif_galil.vmt,93,93
+materials/models/weapons/w_rif_galil/w_rif_galil.vtf,174968,174968
+materials/models/weapons/w_rif_galil.vmt,93,93
+materials/models/weapons/w_rif_galil.vtf,174968,174968
+materials/models/weapons/w_snip_awp/w_snip_awp.vmt,91,91
+materials/models/weapons/w_snip_awp/w_snip_awp.vtf,174968,174968
+materials/models/weapons/w_snip_awp.vmt,91,91
+materials/models/weapons/w_snip_awp.vtf,174968,174968
+materials/NyanCat/NyanCatani.vmt,246,246
+materials/NyanCat/NyanCatani.vtf,1048944,1048944
+materials/SKYPPY2/normals/tiled_floor02_normal.vtf,699272,699272
+materials/SKYPPY2/TILED_FLOOR02.vmt,179,179
+materials/SKYPPY2/tiled_floor02.vtf,1398336,1398336
+materials/SPRITES/STORE/ARROWS.vmt,117,117
+materials/SPRITES/STORE/arrows.vtf,22080,22080
+materials/SPRITES/TRAILS/YINGYANG2.vmt,121,121
+materials/SPRITES/TRAILS/yingyang2.vtf,87588,87588
+models/cloud/kn_santahat.dx80.vtx,6000,6000
+models/cloud/kn_santahat.dx90.vtx,6000,6000
+models/cloud/kn_santahat.mdl,1484,1484
+models/cloud/kn_santahat.phy,3998,3998
+models/cloud/kn_santahat.sw.vtx,5992,5992
+models/cloud/kn_santahat.vvd,23552,23552
+models/cloud/kn_santahat.xbox.vtx,6000,6000
+models/jaanus/iphone.dx80.vtx,3780,3780
+models/jaanus/iphone.dx90.vtx,3780,3780
+models/jaanus/iphone.mdl,1440,1440
+models/jaanus/iphone.phy,1223,1223
+models/jaanus/iphone.sw.vtx,3772,3772
+models/jaanus/iphone.vvd,13568,13568
+models/jaanus/iphone.xbox.vtx,3780,3780
+models/player/knifelemon/bighead/ct_urban.dx80.vtx,63598,63598
+models/player/knifelemon/bighead/ct_urban.dx90.vtx,62857,62857
+models/player/knifelemon/bighead/ct_urban.mdl,24052,24052
+models/player/knifelemon/bighead/ct_urban.phy,17098,17098
+models/player/knifelemon/bighead/ct_urban.sw.vtx,62513,62513
+models/player/knifelemon/bighead/ct_urban.vvd,228864,228864
+models/player/knifelemon/bighead/t_arctic.dx80.vtx,53117,53117
+models/player/knifelemon/bighead/t_arctic.dx90.vtx,52110,52110
+models/player/knifelemon/bighead/t_arctic.mdl,25068,25068
+models/player/knifelemon/bighead/t_arctic.phy,17098,17098
+models/player/knifelemon/bighead/t_arctic.sw.vtx,51766,51766
+models/player/knifelemon/bighead/t_arctic.vvd,175104,175104
+models/player/slow/body_bag/slow.dx80.vtx,3341,3341
+models/player/slow/body_bag/slow.dx90.vtx,3341,3341
+models/player/slow/body_bag/slow.mdl,59844,59844
+models/player/slow/body_bag/slow.phy,9815,9815
+models/player/slow/body_bag/slow.sw.vtx,3253,3253
+models/player/slow/body_bag/slow.vvd,10560,10560
+models/player/slow/body_bag/slow_leichensack.vmt,252,252
+models/player/slow/body_bag/slow_leichensack.vtf,349688,349688
+models/player/slow/body_bag/slow_leichensack_bump.vtf,699232,699232
+models/player/slow/gaycat_v2/gaycat_v2.dx80.vtx,77930,77930
+models/player/slow/gaycat_v2/gaycat_v2.dx90.vtx,77930,77930
+models/player/slow/gaycat_v2/gaycat_v2.mdl,11540,11540
+models/player/slow/gaycat_v2/gaycat_v2.phy,17144,17144
+models/player/slow/gaycat_v2/gaycat_v2.sw.vtx,77866,77866
+models/player/slow/gaycat_v2/gaycat_v2.vvd,245120,245120
+models/player/slow/gaycat_v2/yellowcat_map.vmt,295,295
+models/player/slow/gaycat_v2/yellowcat_map.vtf,524496,524496
+models/player/slow/gaycat_v2/yellowcat_map_normal.vtf,524496,524496
+models/player/tinkywinky_css/ear.vmt,89,89
+models/player/tinkywinky_css/ear.vtf,131280,131280
+models/player/tinkywinky_css/face.vmt,93,93
+models/player/tinkywinky_css/face.vtf,524496,524496
+models/player/tinkywinky_css/plantar.vmt,93,93
+models/player/tinkywinky_css/plantar.vtf,32976,32976
+models/player/tinkywinky_css/purple.vmt,92,92
+models/player/tinkywinky_css/purple.vtf,524496,524496
+models/player/tinkywinky_css/tinkywinky_css.dx80.vtx,23054,23054
+models/player/tinkywinky_css/tinkywinky_css.dx90.vtx,23027,23027
+models/player/tinkywinky_css/tinkywinky_css.mdl,13400,13400
+models/player/tinkywinky_css/tinkywinky_css.phy,17240,17240
+models/player/tinkywinky_css/tinkywinky_css.sw.vtx,22763,22763
+models/player/tinkywinky_css/tinkywinky_css.vvd,84672,84672
+models/player/tinkywinky_css/TV.vmt,88,88
+models/player/tinkywinky_css/TV.vtf,131280,131280
+models/weapons/w_rif_galil.dx80.vtx,10172,10172
+models/weapons/w_rif_galil.dx90.vtx,10172,10172
+models/weapons/w_rif_galil.mdl,2448,2448
+models/weapons/w_rif_galil.phy,1887,1887
+models/weapons/w_rif_galil.sw.vtx,10156,10156
+models/weapons/w_rif_galil.vvd,48256,48256
+models/weapons/w_snip_awp.dx80.vtx,9416,9416
+models/weapons/w_snip_awp.dx90.vtx,9416,9416
+models/weapons/w_snip_awp.mdl,2448,2448
+models/weapons/w_snip_awp.phy,1788,1788
+models/weapons/w_snip_awp.sw.vtx,9400,9400
+models/weapons/w_snip_awp.vvd,43648,43648
+sound/ambient/music11.mp3,9060123,9060123
+sound/ambient/music222.mp3,3138355,3138355
+sound/ambient/music33.mp3,6406761,6406761
+sound/weapons/awp/awp1.wav,728850,728850

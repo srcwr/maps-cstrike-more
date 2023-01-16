@@ -1,0 +1,133 @@
+filename,size,compressed
+materials/maps/bhop_dr_simpsons_final/glass/combineglass001a_2432_-1376_128.vmt,147,147
+materials/maps/bhop_dr_simpsons_final/glass/combineglass001a_960_-1000_81.vmt,145,145
+materials/maps/bhop_dr_simpsons_final/glass/combineglass001a_2128_-1056_81.vmt,146,146
+materials/maps/bhop_dr_simpsons_final/glass/combineglass001a_2272_-536_81.vmt,145,145
+materials/maps/bhop_dr_simpsons_final/glass/combineglass001a_896_-3056_81.vmt,145,145
+materials/maps/bhop_dr_simpsons_final/glass/combineglass001a_1624_-1224_81.vmt,146,146
+materials/maps/bhop_dr_simpsons_final/glass/combineglass001a_936_-2048_81.vmt,145,145
+materials/maps/bhop_dr_simpsons_final/glass/combineglass001a_928_-2624_81.vmt,145,145
+materials/maps/bhop_dr_simpsons_final/glass/combineglass001a_-464_-2888_81.vmt,146,146
+materials/maps/bhop_dr_simpsons_final/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_dr_simpsons_final/c2432_-1376_128.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c960_-1000_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c2128_-1056_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c2272_-536_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c896_-3056_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c1624_-1224_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c936_-2048_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c928_-2624_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c-464_-2888_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c-568_-1760_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c2880_-536_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c1520_-536_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c3536_-544_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c-568_-2256_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c-640_-880_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c4192_-552_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/c5040_-552_81.vtf,4968,4968
+materials/maps/bhop_dr_simpsons_final/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c2432_-1376_128.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c960_-1000_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c2128_-1056_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c2272_-536_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c896_-3056_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c1624_-1224_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c936_-2048_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c928_-2624_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c-464_-2888_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c-568_-1760_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c2880_-536_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c1520_-536_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c3536_-544_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c-568_-2256_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c-640_-880_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c4192_-552_81.hdr.vtf,76528,76528
+materials/maps/bhop_dr_simpsons_final/c5040_-552_81.hdr.vtf,76528,76528
+detail.vbsp,16826,16826
+materials/color/burnt umber.vmt,68,68
+materials/color/burnt umber.vtf,11144,11144
+materials/color/carrot orange.vmt,70,70
+materials/color/carrot orange.vtf,11144,11144
+materials/color/burnt sienna.vmt,69,69
+materials/color/burnt sienna.vtf,11144,11144
+materials/color/bistre.vmt,63,63
+materials/color/bistre.vtf,11144,11144
+materials/color/cinnamon.vmt,65,65
+materials/color/cinnamon.vtf,11144,11144
+materials/simpsons textures/ruoho.vmt,89,89
+materials/simpsons textures/ruoho.vtf,349760,349760
+materials/color/grey.vmt,61,61
+materials/color/grey.vtf,11144,11144
+materials/color/fern green.vmt,67,67
+materials/color/fern green.vtf,11144,11144
+materials/color/peach orange.vmt,69,69
+materials/color/peach orange.vtf,11144,11144
+materials/color/tan.vmt,60,60
+materials/color/tan.vtf,11144,11144
+materials/color/zinnwaldite.vmt,68,68
+materials/color/zinnwaldite.vtf,11144,11144
+materials/color/dark green.vmt,67,67
+materials/color/dark green.vtf,11144,11144
+materials/color/khaki.vmt,62,62
+materials/color/khaki.vtf,11144,11144
+materials/color/old lavender.vmt,69,69
+materials/color/old lavender.vtf,11144,11144
+materials/color/purple taupe.vmt,69,69
+materials/color/purple taupe.vtf,11144,11144
+materials/color/alizarin.vmt,65,65
+materials/color/alizarin.vtf,11144,11144
+materials/color/dark brown.vmt,67,67
+materials/color/dark brown.vtf,11144,11144
+materials/color/black.vmt,62,62
+materials/color/black.vtf,11144,11144
+materials/color/ivory.vmt,62,62
+materials/color/ivory.vtf,11144,11144
+materials/simpsons/fence.vmt,85,85
+materials/simpsons/fence.vtf,11144,11144
+materials/color/goldenrod.vmt,66,66
+materials/color/goldenrod.vtf,11144,11144
+materials/color/white.vmt,62,62
+materials/color/white.vtf,11144,11144
+materials/color/caput mortuum.vmt,70,70
+materials/color/caput mortuum.vtf,11144,11144
+materials/simpsons/{krusty.vmt,124,124
+materials/simpsons/{krusty.vtf,87616,87616
+materials/simpsons textures/puu.vmt,133,133
+materials/simpsons textures/puu.vtf,349760,349760
+materials/simpsons/duff.vmt,79,79
+materials/simpsons/duff.vtf,22080,22080
+materials/color/carolina blue.vmt,70,70
+materials/color/carolina blue.vtf,11144,11144
+materials/decals/maanos.vmt,108,108
+materials/decals/maanos.vtf,349688,349688
+materials/simpsons/duffmachineside.vmt,90,90
+materials/simpsons/duffmachineside.vtf,22008,22008
+materials/decals/jaysig.vmt,86,86
+materials/decals/jaysig.vtf,2796348,2796348
+materials/color/shocking pink.vmt,70,70
+materials/color/shocking pink.vtf,11144,11144
+materials/color/pastel green.vmt,69,69
+materials/color/pastel green.vtf,11144,11144
+materials/color/cardinal.vmt,65,65
+materials/color/cardinal.vtf,11144,11144
+materials/color/electric blue.vmt,70,70
+materials/color/electric blue.vtf,11144,11144
+materials/color/yellow.vmt,63,63
+materials/color/yellow.vtf,11144,11144
+materials/simpsons/duffmachine.vmt,87,87
+materials/simpsons/duffmachine.vtf,43872,43872
+materials/color/cerulean.vmt,65,65
+materials/color/cerulean.vtf,11144,11144
+materials/simpsons/burnsprtrait.vmt,88,88
+materials/simpsons/burnsprtrait.vtf,43912,43912
+materials/color/taupe.vmt,62,62
+materials/color/taupe.vtf,11144,11144
+materials/color/slate grey.vmt,67,67
+materials/color/slate grey.vtf,11144,11144
+sound/simpsons/beer_song.mp3,514925,514925
+sound/simpsons/doh.mp3,8777,8777
+sound/simpsons/krustytheme.mp3,275017,275017
+sound/silent/silentmp3.mp3,65471,65471
+sound/simpsons/excellent.mp3,20897,20897
+sound/simpsons/simpsons.mp3,1227128,1227128

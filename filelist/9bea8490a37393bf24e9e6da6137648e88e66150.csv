@@ -1,0 +1,35 @@
+filename,size,compressed
+materials/maps/ba_jail_lotus_final_fixed2/plaster/offwllb_0_0_0.vmt,135,135
+materials/maps/ba_jail_lotus_final_fixed2/nature/water_wasteland002c_depth_201.vmt,114,114
+materials/maps/ba_jail_lotus_final_fixed2/nature/water_wasteland002c_depth_5.vmt,112,112
+materials/maps/ba_jail_lotus_final_fixed2/nature/water_wasteland002b_depth_4.vmt,112,112
+materials/maps/ba_jail_lotus_final_fixed2/nature/water_wasteland002a_depth_63.vmt,113,113
+materials/maps/ba_jail_lotus_final_fixed2/nature/water_wasteland002c_depth_3.vmt,112,112
+materials/maps/ba_jail_lotus_final_fixed2/cubemapdefault.vtf,4960,4960
+materials/maps/ba_jail_lotus_final_fixed2/c0_0_0.vtf,4960,4960
+materials/maps/ba_jail_lotus_final_fixed2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ba_jail_lotus_final_fixed2/c0_0_0.hdr.vtf,76528,76528
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/WOOD_FLOOR/WOOD_FLOOR_04.vmt,96,96
+materials/wood_floor/wood_floor_04.vtf,349760,349760
+materials/1NZT4NTZ_B0B_TEXTURES/GRASS_NUBS.vmt,114,114
+materials/1NzT4nTz_b0b_Textures/Grass_NuBs.vtf,174984,174984
+materials/POOL_TILE/POOL_TILE.vmt,91,91
+materials/Pool_tile/Pool_tile.vtf,43912,43912
+materials/TOOLS/TOOLSINVISIBLE.vmt,304,304
+materials/DASMATZE/CONCRETE/ROAD.vmt,144,144
+materials/DasMatze/Concrete/Road.vtf,699272,699272
+materials/DasMatze/Concrete/AsphaltDetail.vtf,174984,174984
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+sound/my sounds/barbie girl.mp3,2325095,2325095
+sound/my sounds/what is love.mp3,3257038,3257038
+sound/my sounds/walking on a dream.mp3,2399701,2399701
+models/forlix/soccer/soccerball.mdl,1540,1540
+models/forlix/soccer/soccerball.dx80.vtx,2655,2655
+models/forlix/soccer/soccerball.dx90.vtx,2655,2655
+models/forlix/soccer/soccerball.sw.vtx,2655,2655
+models/forlix/soccer/soccerball.phy,5205,5205
+models/forlix/soccer/soccerball.vvd,9408,9408
+materials/models/forlix/soccer/soccerball.vmt,100,100
+materials/models/forlix/soccer/soccerball.vtf,174984,174984

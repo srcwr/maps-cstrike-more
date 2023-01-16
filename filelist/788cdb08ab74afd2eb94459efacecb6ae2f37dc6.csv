@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/fy_massgrave/tile/tilefloor010a_0_0_0.vmt,124,124
+materials/maps/fy_massgrave/de_piranesi/castle01d_0_0_0.vmt,127,127
+materials/maps/fy_massgrave/metal/metalwall076a_0_0_0.vmt,125,125
+materials/maps/fy_massgrave/de_piranesi/castle01e_0_0_0.vmt,127,127
+materials/maps/fy_massgrave/metal/citadel_metalwall091a_0_0_0.vmt,133,133
+materials/maps/fy_massgrave/cubemapdefault.vtf,28753,28753
+materials/maps/fy_massgrave/c0_0_0.vtf,28753,28753
+materials/maps/fy_massgrave/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/fy_massgrave/c0_0_0.hdr.vtf,76528,76528
+maps/fy_massgrave.nav,383103,383103
+materials/maps/fy_massgrave/interiortile03mg.vmt,106,106
+materials/maps/fy_massgrave/interiortile03mg.vtf,349760,349760
+materials/overviews/fy_massgrave.vmt,145,145
+materials/overviews/fy_massgrave_radar.vmt,145,145
+materials/overviews/fy_massgrave_radar.vtf,1398336,1398336
+resource/overviews/fy_massgrave.txt,342,342

@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/bhop_miku_v3_test/metal/citadel_tilefloor016a_0_0_0.vmt,138,138
+materials/maps/bhop_miku_v3_test/metal/metalfloor001a_0_0_0.vmt,131,131
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/Tools/toolsskybox.vtf,11128,11128
+materials/CS_ITALY/BLACK.vmt,62,62
+materials/cs_italy/black.vtf,1584,1584
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/Tools/toolsnodraw.vtf,2936,2936
+materials/TOOLS/TOOLSINVISIBLE.vmt,304,304
+materials/Tools/toolsinvisible.vtf,5680,5680
+materials/DE_TRAIN/TRAIN_METALCEILING_02.vmt,108,108
+materials/de_train/train_metalceiling_02.vtf,174968,174968
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/Tools/toolstrigger.vtf,5680,5680

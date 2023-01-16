@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/cs_farol_demo/metal/metalpipe010a_256_52_480.vmt,131,131
+materials/maps/cs_farol_demo/liquids/aztecwater_256_52_480.vmt,153,153
+materials/maps/cs_farol_demo/metal/metalpipe005a_256_52_480.vmt,131,131
+materials/maps/cs_farol_demo/metal/citadel_metalwall063a_256_52_480.vmt,139,139
+materials/maps/cs_farol_demo/maps/cs_farol_demo/liquids/aztecwater_256_52_480_depth_224.vmt,136,136
+materials/maps/cs_farol_demo/maps/cs_farol_demo/liquids/aztecwater_256_52_480_depth_32.vmt,135,135
+materials/maps/cs_farol_demo/maps/cs_farol_demo/liquids/aztecwater_256_52_480_depth_84.vmt,135,135
+materials/maps/cs_farol_demo/maps/cs_farol_demo/liquids/aztecwater_256_52_480_depth_48.vmt,135,135
+materials/maps/cs_farol_demo/maps/cs_farol_demo/liquids/aztecwater_256_52_480_depth_16.vmt,135,135
+materials/maps/cs_farol_demo/cubemapdefault.vtf,9824,9824
+materials/maps/cs_farol_demo/c256_52_480.vtf,9824,9824

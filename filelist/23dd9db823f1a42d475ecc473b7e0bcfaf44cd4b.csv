@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/de_archeo/dev/dev_water2_-464_432_-76.vmt,147,147
+materials/maps/de_archeo/dev/dev_water2_-440_1068_-76.vmt,148,148
+materials/maps/de_archeo/dev/dev_water2_-2768_128_-76.vmt,148,148
+materials/maps/de_archeo/de_dust/tilefloor02_-464_432_-76.vmt,129,129
+materials/maps/de_archeo/de_dust/tilefloor02_-2768_128_-76.vmt,130,130
+materials/maps/de_archeo/de_dust/tilefloor02_-440_1068_-76.vmt,130,130
+materials/maps/de_archeo/tile/tileroof004a_c17_-464_432_-76.vmt,170,170
+materials/maps/de_archeo/tile/tileroof004a_c17_-2768_128_-76.vmt,171,171
+materials/maps/de_archeo/maps/de_archeo/dev/dev_water2_-2768_128_-76_depth_12.vmt,130,130
+materials/maps/de_archeo/maps/de_archeo/dev/dev_water2_-440_1068_-76_depth_20.vmt,130,130
+materials/maps/de_archeo/cubemapdefault.vtf,9808,9808
+materials/maps/de_archeo/c-464_432_-76.vtf,4936,4936
+materials/maps/de_archeo/c-440_1068_-76.vtf,4936,4936
+materials/maps/de_archeo/c-2768_128_-76.vtf,4936,4936

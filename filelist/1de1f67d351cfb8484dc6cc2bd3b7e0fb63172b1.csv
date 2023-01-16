@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/surf_crazyleap_beta1/vehicle/rubbertrainfloor001a_-2835_-231_760.vmt,151,151
+materials/maps/surf_crazyleap_beta1/tile/milflr002_-2835_-231_760.vmt,137,137
+materials/maps/surf_crazyleap_beta1/glass/glasswindow070c_-2835_-231_760.vmt,144,144
+materials/maps/surf_crazyleap_beta1/plaster/offwllb_-2835_-231_760.vmt,138,138
+materials/maps/surf_crazyleap_beta1/metal/citadel_metalwall090a_-2835_-231_760.vmt,150,150
+materials/maps/surf_crazyleap_beta1/metal/citadel_metalwall063a_-2835_-231_760.vmt,150,150
+materials/maps/surf_crazyleap_beta1/metal/citadel_metalwall072b_cheap_-2835_-231_760.vmt,156,156
+materials/maps/surf_crazyleap_beta1/metal/citadel_metalwall077a_-2835_-231_760.vmt,150,150
+materials/maps/surf_crazyleap_beta1/metal/citadel_metalwall076a_-2835_-231_760.vmt,150,150
+materials/maps/surf_crazyleap_beta1/liquids/militiawater_dx70_depth_4.vmt,111,111
+materials/maps/surf_crazyleap_beta1/liquids/militiawater_dx70_depth_5.vmt,111,111
+materials/maps/surf_crazyleap_beta1/liquids/militiawater_dx70_depth_3.vmt,111,111
+materials/maps/surf_crazyleap_beta1/cubemapdefault.vtf,9824,9824
+materials/maps/surf_crazyleap_beta1/c-2835_-231_760.vtf,9824,9824
+materials/maps/surf_crazyleap_beta1/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/surf_crazyleap_beta1/c-2835_-231_760.hdr.vtf,76520,76520

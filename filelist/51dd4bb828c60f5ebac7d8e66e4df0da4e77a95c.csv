@@ -1,0 +1,55 @@
+filename,size,compressed
+materials/maps/de_bosco_dam/nature/blendproddirtgrass_wvt_patch.vmt,90,90
+materials/maps/de_bosco_dam/nature/blendmilground004_12_wvt_patch.vmt,93,93
+materials/maps/de_bosco_dam/de_nuke/nukfloora_276_184_168.vmt,129,129
+materials/maps/de_bosco_dam/nature/rockwall015a_276_184_168.vmt,131,131
+materials/maps/de_bosco_dam/stone/stonefloor003a_276_184_168.vmt,132,132
+materials/maps/de_bosco_dam/de_piranesi/marblefloor04_276_184_168.vmt,137,137
+materials/maps/de_bosco_dam/concrete/milflr001_276_184_168.vmt,130,130
+materials/maps/de_bosco_dam/de_piranesi/marblefloor14_276_184_168.vmt,137,137
+materials/maps/de_bosco_dam/de_chateau/exttile01_276_184_168.vmt,132,132
+materials/maps/de_bosco_dam/tile/tilefloor021a_276_184_168.vmt,130,130
+materials/maps/de_bosco_dam/concrete/concretefloor039a_276_184_168.vmt,138,138
+materials/maps/de_bosco_dam/metal/metalroof006a_276_184_168.vmt,131,131
+materials/maps/de_bosco_dam/tile/milflr002_276_184_168.vmt,126,126
+materials/maps/de_bosco_dam/de_nuke/nukfloorb_276_184_168.vmt,129,129
+materials/maps/de_bosco_dam/nature/blenddirtmud003a_276_184_168.vmt,135,135
+materials/maps/de_bosco_dam/metal/metaldoor025a_276_184_168.vmt,131,131
+materials/maps/de_bosco_dam/brick/offwllb_276_184_168.vmt,125,125
+materials/maps/de_bosco_dam/liquids/infernowater_276_184_168.vmt,155,155
+materials/maps/de_bosco_dam/metal/prodventa_276_184_168.vmt,127,127
+materials/maps/de_bosco_dam/de_nuke/nukdoorsb_276_184_168.vmt,129,129
+materials/maps/de_bosco_dam/plaster/offwllf_276_184_168.vmt,127,127
+materials/maps/de_bosco_dam/plaster/offwllb_276_184_168.vmt,127,127
+materials/maps/de_bosco_dam/tile/tilefloor020a_276_184_168.vmt,130,130
+materials/maps/de_bosco_dam/dev/dev_water2_cheap_276_184_168.vmt,155,155
+materials/maps/de_bosco_dam/de_piranesi/pi_ticketwnd_276_184_168.vmt,136,136
+materials/maps/de_bosco_dam/glass/glasswindow007a_276_184_168.vmt,133,133
+materials/maps/de_bosco_dam/de_piranesi/marblefloor13_276_184_168.vmt,137,137
+materials/maps/de_bosco_dam/metal/metalpipe003a_276_184_168.vmt,131,131
+materials/maps/de_bosco_dam/building_template/building_template005c_276_184_168.vmt,151,151
+materials/maps/de_bosco_dam/building_template/building_template019c_276_184_168.vmt,151,151
+materials/maps/de_bosco_dam/de_nuke/nukdoorsa_276_184_168.vmt,129,129
+materials/maps/de_bosco_dam/concrete/concretefloor033a_276_184_168.vmt,138,138
+materials/maps/de_bosco_dam/glass/unbreakable_276_184_168.vmt,129,129
+materials/maps/de_bosco_dam/de_piranesi/woodfloor02_276_184_168.vmt,135,135
+materials/maps/de_bosco_dam/metal/metalwall048a_276_184_168.vmt,131,131
+materials/maps/de_bosco_dam/metal/metalwall101a_276_184_168.vmt,131,131
+materials/maps/de_bosco_dam/de_nuke/nukwindowa_276_184_168.vmt,130,130
+materials/maps/de_bosco_dam/maps/de_bosco_dam/liquids/infernowater_276_184_168_depth_19.vmt,137,137
+materials/maps/de_bosco_dam/maps/de_bosco_dam/dev/dev_water2_cheap_276_184_168_depth_2.vmt,136,136
+materials/maps/de_bosco_dam/cubemapdefault.vtf,28753,28753
+materials/maps/de_bosco_dam/c276_184_168.vtf,28753,28753
+materials/maps/de_bosco_dam/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_bosco_dam/c276_184_168.hdr.vtf,76528,76528
+materials/custom/decals/bosco dam sign.vmt,122,122
+materials/custom/decals/bosco dam ps7.vmt,121,121
+materials/custom/decals/bosco dam heliport.vmt,124,124
+maps/de_bosco_dam.nav,416666,416666
+resource/overviews/de_bosco_dam.txt,123,123
+materials/overviews/de_bosco_dam.vmt,124,124
+materials/overviews/de_bosco_dam.vtf,699272,699272
+materials/custom/decals/bosco dam Heliport.vtf,87544,87544
+materials/custom/decals/bosco dam ps7.vtf,43832,43832
+materials/custom/decals/bosco dam sign.vtf,43832,43832
+materials/overviews/de_bosco_dam_radar.vmt,130,130

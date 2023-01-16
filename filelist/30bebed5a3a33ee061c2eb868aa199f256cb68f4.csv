@@ -1,0 +1,561 @@
+filename,size,compressed
+materials/maps/goldenrod_city/c0_0_0.hdr.vtf,76528,76528
+materials/maps/goldenrod_city/c0_0_0.vtf,9832,9832
+materials/maps/goldenrod_city/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/goldenrod_city/cubemapdefault.vtf,9832,9832
+materials/maps/goldenrod_city/glass/glasswindow002a_0_0_0.vmt,129,129
+materials/maps/goldenrod_city/water/water_well_depth_128.vmt,104,104
+materials/maps/goldenrod_city/water/water_well_depth_130.vmt,104,104
+materials/maps/goldenrod_city/water/water_well_depth_32.vmt,103,103
+materials/models/custom/weapons/rebelscurse/rebels_curse.vmt,3415,3415
+materials/models/tree/mt top.vmt,92,92
+materials/models/tree/tree.vmt,88,88
+materials/MY MATERIALS/1.vmt,62,62
+materials/MY MATERIALS/1.vtf,174984,174984
+materials/MY MATERIALS/113.vmt,64,64
+materials/MY MATERIALS/113.vtf,174984,174984
+materials/MY MATERIALS/2.vmt,62,62
+materials/MY MATERIALS/2.vtf,174984,174984
+materials/MY MATERIALS/3.vmt,62,62
+materials/MY MATERIALS/3.vtf,174984,174984
+materials/MY MATERIALS/4.vmt,62,62
+materials/MY MATERIALS/4.vtf,174984,174984
+materials/MY MATERIALS/5.vmt,62,62
+materials/MY MATERIALS/5.vtf,174984,174984
+materials/MY MATERIALS/AZALEA.vmt,67,67
+materials/MY MATERIALS/azalea.vtf,174984,174984
+materials/MY MATERIALS/B1.vmt,63,63
+materials/MY MATERIALS/b1.vtf,174984,174984
+materials/MY MATERIALS/BARK.vmt,65,65
+materials/MY MATERIALS/bark.vtf,174984,174984
+materials/MY MATERIALS/BATTLE.vmt,67,67
+materials/MY MATERIALS/battle.vtf,174984,174984
+materials/MY MATERIALS/BED SIDE.vmt,99,99
+materials/MY MATERIALS/bed side.vtf,43896,43896
+materials/MY MATERIALS/BED.vmt,94,94
+materials/MY MATERIALS/bed.vtf,349688,349688
+materials/MY MATERIALS/BIKE FLOOR.vmt,95,95
+materials/MY MATERIALS/bike floor.vtf,174984,174984
+materials/MY MATERIALS/BIKE SHELF.vmt,96,96
+materials/MY MATERIALS/bike shelf.vtf,87544,87544
+materials/MY MATERIALS/BIKE SIDE DESK.vmt,100,100
+materials/MY MATERIALS/bike side desk.vtf,87544,87544
+materials/MY MATERIALS/BIKE WALL.vmt,70,70
+materials/MY MATERIALS/bike wall.vtf,87544,87544
+materials/MY MATERIALS/BLUE BRICKS.vmt,97,97
+materials/MY MATERIALS/blue bricks.vtf,174984,174984
+materials/MY MATERIALS/BLUE FLOWER.vmt,91,91
+materials/MY MATERIALS/blue flower.vtf,699232,699232
+materials/MY MATERIALS/BOOKSHELF FRONT 1.vmt,112,112
+materials/MY MATERIALS/bookshelf front 1.vtf,349688,349688
+materials/MY MATERIALS/BOOKSHELF FRONT 2.vmt,112,112
+materials/MY MATERIALS/bookshelf front 2.vtf,349688,349688
+materials/MY MATERIALS/BOOKSHELF SIDE.vmt,109,109
+materials/MY MATERIALS/bookshelf side.vtf,349688,349688
+materials/MY MATERIALS/BOX EDGE.vmt,99,99
+materials/MY MATERIALS/box edge.vtf,174904,174904
+materials/MY MATERIALS/BOX SIDE.vmt,99,99
+materials/MY MATERIALS/box side.vtf,174904,174904
+materials/MY MATERIALS/BOX TOP.vmt,96,96
+materials/MY MATERIALS/box top.vtf,349688,349688
+materials/MY MATERIALS/BRICK FLOOR.vmt,97,97
+materials/MY MATERIALS/brick floor.vtf,174984,174984
+materials/MY MATERIALS/BUILDING CORNER.vmt,101,101
+materials/MY MATERIALS/building corner.vtf,174904,174904
+materials/MY MATERIALS/CASH BUTTONS.vmt,101,101
+materials/MY MATERIALS/cash buttons.vtf,87544,87544
+materials/MY MATERIALS/CASH.vmt,93,93
+materials/MY MATERIALS/cash.vtf,87544,87544
+materials/MY MATERIALS/CIANWOOD.vmt,69,69
+materials/MY MATERIALS/cianwood.vtf,174984,174984
+materials/MY MATERIALS/CLAIMER.vmt,68,68
+materials/MY MATERIALS/claimer.vtf,87544,87544
+materials/MY MATERIALS/DESK FRONT.vmt,96,96
+materials/MY MATERIALS/desk front.vtf,87544,87544
+materials/MY MATERIALS/DESKTOP.vmt,93,93
+materials/MY MATERIALS/desktop.vtf,174984,174984
+materials/MY MATERIALS/DJ FLOOR.vmt,94,94
+materials/MY MATERIALS/dj floor.vtf,174984,174984
+materials/MY MATERIALS/DJ ROOM.vmt,68,68
+materials/MY MATERIALS/dj room.vtf,349688,349688
+materials/MY MATERIALS/DJ SHELF.vmt,94,94
+materials/MY MATERIALS/dj shelf.vtf,174984,174984
+materials/MY MATERIALS/DJ TABLE.vmt,94,94
+materials/MY MATERIALS/dj table.vtf,174984,174984
+materials/MY MATERIALS/DOOR TOP.vmt,94,94
+materials/MY MATERIALS/door top.vtf,349688,349688
+materials/MY MATERIALS/DOOR.vmt,65,65
+materials/MY MATERIALS/door.vtf,699272,699272
+materials/MY MATERIALS/DOORMAT.vmt,68,68
+materials/MY MATERIALS/doormat.vtf,174984,174984
+materials/MY MATERIALS/ELEVATOR DOOR.vmt,99,99
+materials/MY MATERIALS/elevator door.vtf,349688,349688
+materials/MY MATERIALS/ENTER FLOOR.vmt,72,72
+materials/MY MATERIALS/enter floor.vtf,174984,174984
+materials/MY MATERIALS/ENTER WALL.vmt,96,96
+materials/MY MATERIALS/enter wall.vtf,174984,174984
+materials/MY MATERIALS/FENCE SIDE 1.vmt,98,98
+materials/MY MATERIALS/fence side 1.vtf,43832,43832
+materials/MY MATERIALS/FENCE SIDE 2.vmt,98,98
+materials/MY MATERIALS/fence side 2.vtf,174984,174984
+materials/MY MATERIALS/FLOOR SIGN.vmt,71,71
+materials/MY MATERIALS/floor sign.vtf,174984,174984
+materials/MY MATERIALS/FLOWER BRICK.vmt,124,124
+materials/MY MATERIALS/flower brick.vtf,349688,349688
+materials/MY MATERIALS/FLOWER POT.vmt,96,96
+materials/MY MATERIALS/flower pot.vtf,87544,87544
+materials/MY MATERIALS/FLOWERS.vmt,87,87
+materials/MY MATERIALS/flowers.vtf,174944,174944
+materials/MY MATERIALS/FREEZER 2.vmt,95,95
+materials/MY MATERIALS/freezer 2.vtf,87544,87544
+materials/MY MATERIALS/FREEZER.vmt,93,93
+materials/MY MATERIALS/freezer.vtf,174984,174984
+materials/MY MATERIALS/GAME CORNER.vmt,72,72
+materials/MY MATERIALS/game corner.vtf,174984,174984
+materials/MY MATERIALS/GAME DESK.vmt,70,70
+materials/MY MATERIALS/game desk.vtf,174984,174984
+materials/MY MATERIALS/GAME FLOOR.vmt,95,95
+materials/MY MATERIALS/game floor.vtf,174984,174984
+materials/MY MATERIALS/GAME FRONT.vmt,96,96
+materials/MY MATERIALS/game front.vtf,349688,349688
+materials/MY MATERIALS/GAME SHELF 2.vmt,98,98
+materials/MY MATERIALS/game shelf 2.vtf,87544,87544
+materials/MY MATERIALS/GAME SHELF 3.vmt,98,98
+materials/MY MATERIALS/game shelf 3.vtf,174984,174984
+materials/MY MATERIALS/GAME SHELF.vmt,96,96
+materials/MY MATERIALS/game shelf.vtf,87544,87544
+materials/MY MATERIALS/GAME WALL.vmt,97,97
+materials/MY MATERIALS/game wall.vtf,174984,174984
+materials/MY MATERIALS/GAMEBOY.vmt,96,96
+materials/MY MATERIALS/gameboy.vtf,87544,87544
+materials/MY MATERIALS/GOLD.vmt,65,65
+materials/MY MATERIALS/gold.vtf,43912,43912
+materials/MY MATERIALS/GOLDENROD.vmt,70,70
+materials/MY MATERIALS/goldenrod.vtf,174984,174984
+materials/MY MATERIALS/GRASS FLOWER.vmt,98,98
+materials/MY MATERIALS/grass flower.vtf,174984,174984
+materials/MY MATERIALS/GRASS.vmt,91,91
+materials/MY MATERIALS/grass.vtf,174984,174984
+materials/MY MATERIALS/GREEN SCREEN.vmt,101,101
+materials/MY MATERIALS/green screen.vtf,87544,87544
+materials/MY MATERIALS/GYM FRONT.vmt,95,95
+materials/MY MATERIALS/gym front.vtf,349688,349688
+materials/MY MATERIALS/HALO.vmt,65,65
+materials/MY MATERIALS/halo.vtf,87544,87544
+materials/MY MATERIALS/HOUSE FRONT 1.vmt,99,99
+materials/MY MATERIALS/house front 1.vtf,349688,349688
+materials/MY MATERIALS/HOUSE FRONT 2.vmt,99,99
+materials/MY MATERIALS/house front 2.vtf,699272,699272
+materials/MY MATERIALS/HOUSE FRONT 3.vmt,99,99
+materials/MY MATERIALS/house front 3.vtf,699272,699272
+materials/MY MATERIALS/HOUSE SIDE 2.vmt,98,98
+materials/MY MATERIALS/house side 2.vtf,699272,699272
+materials/MY MATERIALS/HOUSE SIDE SMALL.vmt,77,77
+materials/MY MATERIALS/house side small.vtf,349688,349688
+materials/MY MATERIALS/HOUSE SIDE.vmt,96,96
+materials/MY MATERIALS/house side.vtf,349688,349688
+materials/MY MATERIALS/INSIDE FLOOR.vmt,73,73
+materials/MY MATERIALS/inside floor.vtf,174984,174984
+materials/MY MATERIALS/INSIDE SIDE.vmt,72,72
+materials/MY MATERIALS/inside side.vtf,174984,174984
+materials/MY MATERIALS/KLONOA.vmt,67,67
+materials/MY MATERIALS/klonoa.vtf,174984,174984
+materials/MY MATERIALS/LANCE.vmt,66,66
+materials/MY MATERIALS/lance.vtf,174984,174984
+materials/MY MATERIALS/LAVENDER.vmt,69,69
+materials/MY MATERIALS/lavender.vtf,174984,174984
+materials/MY MATERIALS/LEAF.vmt,109,109
+materials/MY MATERIALS/leaf.vtf,349760,349760
+materials/MY MATERIALS/LILYCOVE.vmt,69,69
+materials/MY MATERIALS/lilycove.vtf,174984,174984
+materials/MY MATERIALS/MARIO.vmt,66,66
+materials/MY MATERIALS/mario.vtf,174984,174984
+materials/MY MATERIALS/MART DESK SIDE.vmt,105,105
+materials/MY MATERIALS/mart desk side.vtf,174984,174984
+materials/MY MATERIALS/MART FLOOR.vmt,95,95
+materials/MY MATERIALS/mart floor.vtf,174984,174984
+materials/MY MATERIALS/MART SEAT.vmt,70,70
+materials/MY MATERIALS/mart seat.vtf,174984,174984
+materials/MY MATERIALS/MART SHELF 1.vmt,98,98
+materials/MY MATERIALS/mart shelf 1.vtf,349688,349688
+materials/MY MATERIALS/MART SHELF 2.vmt,73,73
+materials/MY MATERIALS/mart shelf 2.vtf,174984,174984
+materials/MY MATERIALS/MEDIC.vmt,66,66
+materials/MY MATERIALS/medic.vtf,87544,87544
+materials/MY MATERIALS/MILTANK.vmt,87,87
+materials/MY MATERIALS/miltank.vtf,349760,349760
+materials/MY MATERIALS/MT TOP.vmt,94,94
+materials/MY MATERIALS/mt top.vtf,174984,174984
+materials/MY MATERIALS/PAL ROOM.vmt,94,94
+materials/MY MATERIALS/pal room.vtf,87544,87544
+materials/MY MATERIALS/PAPER.vmt,66,66
+materials/MY MATERIALS/paper.vtf,174984,174984
+materials/MY MATERIALS/PARK.vmt,65,65
+materials/MY MATERIALS/park.vtf,174984,174984
+materials/MY MATERIALS/PC SCREEN.vmt,98,98
+materials/MY MATERIALS/pc screen.vtf,699272,699272
+materials/MY MATERIALS/PC.vmt,91,91
+materials/MY MATERIALS/pc.vtf,349688,349688
+materials/MY MATERIALS/PHONE.vmt,91,91
+materials/MY MATERIALS/phone.vtf,174984,174984
+materials/MY MATERIALS/PIKA.vmt,65,65
+materials/MY MATERIALS/pika.vtf,174984,174984
+materials/MY MATERIALS/PKMN CENTER DESK.vmt,77,77
+materials/MY MATERIALS/pkmn center desk.vtf,174984,174984
+materials/MY MATERIALS/PKMN CENTER FLOOR.vmt,102,102
+materials/MY MATERIALS/pkmn center floor.vtf,174984,174984
+materials/MY MATERIALS/PKMN CENTER FRONT.vmt,103,103
+materials/MY MATERIALS/pkmn center front.vtf,699272,699272
+materials/MY MATERIALS/PKMN CENTER SIDE.vmt,102,102
+materials/MY MATERIALS/pkmn center side.vtf,349688,349688
+materials/MY MATERIALS/PKMN CENTER WALL.vmt,77,77
+materials/MY MATERIALS/pkmn center wall.vtf,174984,174984
+materials/MY MATERIALS/PKMN DESK SIDE.vmt,100,100
+materials/MY MATERIALS/pkmn desk side.vtf,174984,174984
+materials/MY MATERIALS/PKMN PC.vmt,96,96
+materials/MY MATERIALS/pkmn pc.vtf,87544,87544
+materials/MY MATERIALS/PKMN ROOF.vmt,95,95
+materials/MY MATERIALS/pkmn roof.vtf,699272,699272
+materials/MY MATERIALS/POKEMART FRONT.vmt,100,100
+materials/MY MATERIALS/pokemart front.vtf,699272,699272
+materials/MY MATERIALS/POKEMART SIDE.vmt,99,99
+materials/MY MATERIALS/pokemart side.vtf,349688,349688
+materials/MY MATERIALS/POKEMON 1.vmt,70,70
+materials/MY MATERIALS/pokemon 1.vtf,349688,349688
+materials/MY MATERIALS/POKEMON 10.vmt,71,71
+materials/MY MATERIALS/pokemon 10.vtf,699272,699272
+materials/MY MATERIALS/POKEMON 11.vmt,71,71
+materials/MY MATERIALS/pokemon 11.vtf,1398264,1398264
+materials/MY MATERIALS/POKEMON 12.vmt,71,71
+materials/MY MATERIALS/pokemon 12.vtf,174984,174984
+materials/MY MATERIALS/POKEMON 13.vmt,71,71
+materials/MY MATERIALS/pokemon 13.vtf,349688,349688
+materials/MY MATERIALS/POKEMON 14.vmt,71,71
+materials/MY MATERIALS/pokemon 14.vtf,349688,349688
+materials/MY MATERIALS/POKEMON 15.vmt,71,71
+materials/MY MATERIALS/pokemon 15.vtf,43912,43912
+materials/MY MATERIALS/POKEMON 16.vmt,71,71
+materials/MY MATERIALS/pokemon 16.vtf,699272,699272
+materials/MY MATERIALS/POKEMON 17.vmt,71,71
+materials/MY MATERIALS/pokemon 17.vtf,699272,699272
+materials/MY MATERIALS/POKEMON 18.vmt,71,71
+materials/MY MATERIALS/pokemon 18.vtf,699272,699272
+materials/MY MATERIALS/POKEMON 19.vmt,71,71
+materials/MY MATERIALS/pokemon 19.vtf,174984,174984
+materials/MY MATERIALS/POKEMON 2.vmt,70,70
+materials/MY MATERIALS/pokemon 2.vtf,87544,87544
+materials/MY MATERIALS/POKEMON 20.vmt,71,71
+materials/MY MATERIALS/pokemon 20.vtf,87544,87544
+materials/MY MATERIALS/POKEMON 21.vmt,71,71
+materials/MY MATERIALS/pokemon 21.vtf,699272,699272
+materials/MY MATERIALS/POKEMON 3.vmt,89,89
+materials/MY MATERIALS/pokemon 3.vtf,349760,349760
+materials/MY MATERIALS/POKEMON 4.vmt,70,70
+materials/MY MATERIALS/pokemon 4.vtf,87544,87544
+materials/MY MATERIALS/POKEMON 5.vmt,70,70
+materials/MY MATERIALS/pokemon 5.vtf,174984,174984
+materials/MY MATERIALS/POKEMON 6.vmt,70,70
+materials/MY MATERIALS/pokemon 6.vtf,699272,699272
+materials/MY MATERIALS/POKEMON 7.vmt,70,70
+materials/MY MATERIALS/pokemon 7.vtf,349688,349688
+materials/MY MATERIALS/POKEMON 8.vmt,70,70
+materials/MY MATERIALS/pokemon 8.vtf,43912,43912
+materials/MY MATERIALS/POKEMON 9.vmt,70,70
+materials/MY MATERIALS/pokemon 9.vtf,174984,174984
+materials/MY MATERIALS/POLE FRONT.vmt,105,105
+materials/MY MATERIALS/pole front.vtf,174984,174984
+materials/MY MATERIALS/POLE SIDE.vmt,104,104
+materials/MY MATERIALS/pole side.vtf,174984,174984
+materials/MY MATERIALS/POT GRASS.vmt,89,89
+materials/MY MATERIALS/pot grass.vtf,349760,349760
+materials/MY MATERIALS/POT SIDE.vmt,93,93
+materials/MY MATERIALS/pot side.vtf,87544,87544
+materials/MY MATERIALS/RADIO BALL.vmt,71,71
+materials/MY MATERIALS/radio ball.vtf,349760,349760
+materials/MY MATERIALS/RADIO FLOOR.vmt,96,96
+materials/MY MATERIALS/radio floor.vtf,174984,174984
+materials/MY MATERIALS/RADIO IN WALL.vmt,101,101
+materials/MY MATERIALS/radio in wall.vtf,174984,174984
+materials/MY MATERIALS/RADIO POSTER.vmt,99,99
+materials/MY MATERIALS/radio poster.vtf,174984,174984
+materials/MY MATERIALS/RADIO WALL.vmt,96,96
+materials/MY MATERIALS/radio wall.vtf,174984,174984
+materials/MY MATERIALS/RADIO WINDOW.vmt,98,98
+materials/MY MATERIALS/radio window.vtf,174984,174984
+materials/MY MATERIALS/RADIO.vmt,94,94
+materials/MY MATERIALS/radio.vtf,87544,87544
+materials/MY MATERIALS/ROLLOUT.vmt,87,87
+materials/MY MATERIALS/rollout.vtf,174944,174944
+materials/MY MATERIALS/ROOF SIDE.vmt,95,95
+materials/MY MATERIALS/roof side.vtf,43896,43896
+materials/MY MATERIALS/ROOM.vmt,65,65
+materials/MY MATERIALS/room.vtf,349688,349688
+materials/MY MATERIALS/ROSE.vmt,84,84
+materials/MY MATERIALS/rose.vtf,699232,699232
+materials/MY MATERIALS/SCANNER.vmt,93,93
+materials/MY MATERIALS/scanner.vtf,349688,349688
+materials/MY MATERIALS/SEAT SIDE.vmt,100,100
+materials/MY MATERIALS/seat side.vtf,174984,174984
+materials/MY MATERIALS/SEAT.vmt,95,95
+materials/MY MATERIALS/seat.vtf,174984,174984
+materials/MY MATERIALS/SHELF SIDE.vmt,96,96
+materials/MY MATERIALS/shelf side.vtf,349688,349688
+materials/MY MATERIALS/SHELF TOP.vmt,95,95
+materials/MY MATERIALS/shelf top.vtf,87544,87544
+materials/MY MATERIALS/SHELF.vmt,91,91
+materials/MY MATERIALS/shelf.vtf,349688,349688
+materials/MY MATERIALS/SHORE DIRT.vmt,95,95
+materials/MY MATERIALS/shore dirt.vtf,11144,11144
+materials/MY MATERIALS/SIGN.vmt,65,65
+materials/MY MATERIALS/sign.vtf,349760,349760
+materials/MY MATERIALS/SILVER.vmt,67,67
+materials/MY MATERIALS/silver.vtf,174984,174984
+materials/MY MATERIALS/SLIDE DOOR.vmt,96,96
+materials/MY MATERIALS/slide door.vtf,174984,174984
+materials/MY MATERIALS/SMALL TABLE.vmt,97,97
+materials/MY MATERIALS/small table.vtf,174984,174984
+materials/MY MATERIALS/SOOTOPOLIS.vmt,71,71
+materials/MY MATERIALS/sootopolis.vtf,174984,174984
+materials/MY MATERIALS/SPEAKER.vmt,93,93
+materials/MY MATERIALS/speaker.vtf,349688,349688
+materials/MY MATERIALS/STAIRS.vmt,92,92
+materials/MY MATERIALS/stairs.vtf,174984,174984
+materials/MY MATERIALS/SURF.vmt,65,65
+materials/MY MATERIALS/surf.vtf,174984,174984
+materials/MY MATERIALS/SWITCH.vmt,92,92
+materials/MY MATERIALS/switch.vtf,174984,174984
+materials/MY MATERIALS/TABLE SIDE.vmt,105,105
+materials/MY MATERIALS/table side.vtf,174984,174984
+materials/MY MATERIALS/TABLE TOP.vmt,104,104
+materials/MY MATERIALS/table top.vtf,174984,174984
+materials/MY MATERIALS/THEME.vmt,66,66
+materials/MY MATERIALS/theme.vtf,174984,174984
+materials/MY MATERIALS/TINY PC.vmt,96,96
+materials/MY MATERIALS/tiny pc.vtf,174984,174984
+materials/MY MATERIALS/TRAIN DOOR.vmt,96,96
+materials/MY MATERIALS/train door.vtf,699272,699272
+materials/MY MATERIALS/TRAIN FLOOR.vmt,96,96
+materials/MY MATERIALS/train floor.vtf,699272,699272
+materials/MY MATERIALS/TRAIN FRONT.vmt,97,97
+materials/MY MATERIALS/train front.vtf,349688,349688
+materials/MY MATERIALS/TRAIN RAIL DIRT.vmt,126,126
+materials/MY MATERIALS/train rail dirt.vtf,174984,174984
+materials/MY MATERIALS/TRAIN RAIL WHITE.vmt,128,128
+materials/MY MATERIALS/train rail white.vtf,174984,174984
+materials/MY MATERIALS/TRAIN TOP.vmt,95,95
+materials/MY MATERIALS/train top.vtf,174904,174904
+materials/MY MATERIALS/TRAIN TRACKS.vmt,98,98
+materials/MY MATERIALS/train tracks.vtf,699272,699272
+materials/MY MATERIALS/TRAIN WALL.vmt,96,96
+materials/MY MATERIALS/train wall.vtf,349688,349688
+materials/MY MATERIALS/TRAIN WHEELS.vmt,98,98
+materials/MY MATERIALS/train wheels.vtf,349688,349688
+materials/MY MATERIALS/TREE LEAVES.vmt,91,91
+materials/MY MATERIALS/tree leaves.vtf,174944,174944
+materials/MY MATERIALS/TREE.vmt,90,90
+materials/MY MATERIALS/tree.vtf,174984,174984
+materials/MY MATERIALS/TV SIDE.vmt,96,96
+materials/MY MATERIALS/tv side.vtf,87544,87544
+materials/MY MATERIALS/TV.vmt,91,91
+materials/MY MATERIALS/tv.vtf,87544,87544
+materials/MY MATERIALS/UNDER BLU.vmt,104,104
+materials/MY MATERIALS/under blu.vtf,174904,174904
+materials/MY MATERIALS/UNDER BOX.vmt,98,98
+materials/MY MATERIALS/under box.vtf,349688,349688
+materials/MY MATERIALS/UNDER BUTTON.vmt,98,98
+materials/MY MATERIALS/under button.vtf,349688,349688
+materials/MY MATERIALS/UNDER DOOR.vmt,96,96
+materials/MY MATERIALS/under door.vtf,349688,349688
+materials/MY MATERIALS/UNDER DOORMAT.vmt,101,101
+materials/MY MATERIALS/under doormat.vtf,349688,349688
+materials/MY MATERIALS/UNDER ELEVATOR.vmt,100,100
+materials/MY MATERIALS/under elevator.vtf,349688,349688
+materials/MY MATERIALS/UNDER PILLAR.vmt,107,107
+materials/MY MATERIALS/under pillar.vtf,349688,349688
+materials/MY MATERIALS/UNDER SIDE DOOR.vmt,101,101
+materials/MY MATERIALS/under side door.vtf,349688,349688
+materials/MY MATERIALS/UNDER TABLE.vmt,97,97
+materials/MY MATERIALS/under table.vtf,174984,174984
+materials/MY MATERIALS/UNDER TILE.vmt,95,95
+materials/MY MATERIALS/under tile.vtf,174984,174984
+materials/MY MATERIALS/UNDER WALL.vmt,96,96
+materials/MY MATERIALS/under wall.vtf,174984,174984
+materials/MY MATERIALS/VENDING MACHINE.vmt,104,104
+materials/MY MATERIALS/vending machine.vtf,87544,87544
+materials/MY MATERIALS/VIOLET.vmt,67,67
+materials/MY MATERIALS/violet.vtf,174984,174984
+materials/MY MATERIALS/WAREHOUSE DOOR.vmt,100,100
+materials/MY MATERIALS/warehouse door.vtf,349688,349688
+materials/MY MATERIALS/WHITE DIRT 2.vmt,98,98
+materials/MY MATERIALS/white dirt 2.vtf,43912,43912
+materials/MY MATERIALS/WHITE DIRT.vmt,96,96
+materials/MY MATERIALS/white dirt.vtf,174984,174984
+materials/MY MATERIALS/WHITE.vmt,66,66
+materials/MY MATERIALS/white.vtf,349688,349688
+materials/MY MATERIALS/WHITNEY.vmt,87,87
+materials/MY MATERIALS/whitney.vtf,349760,349760
+materials/MY MATERIALS/WINDOW.vmt,92,92
+materials/MY MATERIALS/window.vtf,174984,174984
+materials/MY MATERIALS/YELLOW CHAIR.vmt,73,73
+materials/MY MATERIALS/yellow chair.vtf,349688,349688
+materials/MY MATERIALS/YELLOW SEAT.vmt,102,102
+materials/MY MATERIALS/yellow seat.vtf,174984,174984
+materials/MY MATERIALS/YELLOW SIDE.vmt,72,72
+materials/MY MATERIALS/yellow side.vtf,174984,174984
+materials/MY MATERIALS/ZELDA.vmt,66,66
+materials/MY MATERIALS/zelda.vtf,1398264,1398264
+materials/skybox/nightocean_bk.vtf,1398208,1398208
+materials/skybox/nightocean_dn.vtf,1398208,1398208
+materials/skybox/nightocean_ft.vtf,1398208,1398208
+materials/skybox/nightocean_lf.vtf,1398208,1398208
+materials/skybox/nightocean_rt.vtf,1398208,1398208
+materials/skybox/nightocean_up.vtf,1398208,1398208
+materials/skybox/nightoceanbk.vmt,97,97
+materials/skybox/nightoceandn.vmt,97,97
+materials/skybox/nightoceanft.vmt,97,97
+materials/skybox/nightoceanlf.vmt,97,97
+materials/skybox/nightoceanrt.vmt,97,97
+materials/skybox/nightoceanup.vmt,97,97
+models/custom/weapons/rebelscurse/c_wrench_v2.mdl,1884,1884
+models/props/tree.dx80.vtx,1938,1938
+models/props/tree.dx90.vtx,1938,1938
+models/props/tree.mdl,1632,1632
+models/props/tree.phy,3188,3188
+models/props/tree.sw.vtx,1938,1938
+models/props/tree.vvd,9280,9280
+sound/my sounds/440968_pokemon_rs___wild_b.mp3,1460684,1460684
+sound/my sounds/g_s_c violet_olivine city theme-[www_flvto_com].mp3,2862657,2862657
+sound/my sounds/lofigb_start_bing.mp3,14362,14362
+sound/my sounds/niko's favorite vgm- 2 (ecruteak & cianwood city theme)-[www_flvto_com].mp3,3502996,3502996
+"sound/my sounds/pokΘmon red &amp; blue ost, t1-31- theme of lavender town.mp3",3072318,3072318
+sound/my sounds/pokΘmon theme song.mp3,3233364,3233364
+sound/my sounds/pokemon gold & silver music - game corner.mp3,2075199,2075199
+sound/my sounds/pokemon gold and silver - national park (music).mp3,3972063,3972063
+"sound/my sounds/pokemon gold, silver & crystal - healing tune.mp3",38938,38938
+sound/my sounds/pokemon gold_silver music - new bark town-[www_flvto_com] (1).mp3,2102808,2102808
+sound/my sounds/pokemon gold_siver music - goldenrod city.wav,12391822,12391822
+sound/my sounds/pokemon gsc - champion lance battle (metal remix).mp3,2767966,2767966
+sound/my sounds/pokemon gsc remix- surfing theme.mp3,3787160,3787160
+sound/my sounds/pokemon r_s_e remix- lilycove city.mp3,4073330,4073330
+sound/my sounds/pokemon rse remix- sootopolis city.mp3,4195088,4195088
+sound/my sounds/pokemon ruby & sapphire soundtrack-route 113.mp3,1587152,1587152
+sound/my sounds/pokemon silvergoldcrystal - azalea townblackthorn city.mp3,1766745,1766745
+maps/graphs/goldenrod_city.ain,16,16
+maps/soundcache/goldenrod_city.cache,4979246,4979246
+materials/glass/glasswindow002a.vmt,235,235
+materials/glass/glasswindow002a.vtf,349792,349792
+materials/water/water_well.vmt,1723,1723
+materials/dev/tfwater_normal.vtf,23855221,23855221
+materials/water/tfwater001_normal.vtf,15728820,15728820
+materials/models/weapons/v_wrench/v_wrench_sheet.vtf,1398368,1398368
+materials/models/effects/flat_normal.vtf,11176,11176
+materials/effects/tiledfire/firelayeredslowtiled512.vtf,332256,332256
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/TOOLS/toolsblack.vmt,232,232
+materials/TOOLS/toolsblack.vtf,2936,2936
+materials/overlays/black_gradient.vmt,160,160
+materials/overlays/black_gradient.vtf,22104,22104
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/TOOLS/TOOLSINVISIBLE.vmt,304,304
+materials/TOOLS/toolsinvisible.vtf,5680,5680
+materials/cp_manor/plaster_white01.vmt,116,116
+materials/cp_manor/plaster_white01.vtf,349792,349792
+materials/test/color009.vmt,61,61
+materials/test/color009.vtf,11128,11128
+materials/test/color012.vmt,61,61
+materials/test/color012.vtf,11168,11168
+materials/test/color001.vmt,61,61
+materials/test/color001.vtf,11128,11128
+materials/editor/gray.vmt,57,57
+materials/editor/gray.vtf,2936,2936
+materials/overlays/stripe_red.vmt,162,162
+materials/overlays/stripe_red.vtf,174936,174936
+materials/test/color_red.vmt,62,62
+materials/test/color_red.vtf,11168,11168
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/overlays/no_entry.vmt,1391,1391
+materials/overlays/no_entry.vtf,87640,87640
+materials/test/color002.vmt,61,61
+materials/test/color002.vtf,11128,11128
+materials/test/color004.vmt,61,61
+materials/test/color004.vtf,11128,11128
+materials/test/color006.vmt,61,61
+materials/test/color006.vtf,11128,11128
+materials/test/color007.vmt,61,61
+materials/test/color007.vtf,11128,11128
+materials/detail/detailsprites.vmt,218,218
+materials/detail/detailsprites.vtf,349792,349792
+models/props_gameplay/uniform_locker.mdl,1812,1812
+models/props_gameplay/uniform_locker.vvd,766080,766080
+models/props_gameplay/uniform_locker.dx90.vtx,362382,362382
+models/props_gameplay/uniform_locker.dx80.vtx,362382,362382
+models/props_gameplay/uniform_locker.sw.vtx,362382,362382
+models/props_gameplay/uniform_locker.phy,812,812
+materials/models/props_gameplay/unform_locker01.vmt,81,81
+materials/models/props_gameplay/unform_locker01.vtf,2796456,2796456
+materials/models/props_gameplay/unform_locker01_skin2.vmt,87,87
+materials/models/props_gameplay/unform_locker01_skin2.vtf,2796456,2796456
+models/props_gameplay/resupply_locker.mdl,3956,3956
+models/props_gameplay/resupply_locker.vvd,298592,298592
+models/props_gameplay/resupply_locker.dx90.vtx,158548,158548
+models/props_gameplay/resupply_locker.dx80.vtx,158548,158548
+models/props_gameplay/resupply_locker.sw.vtx,158308,158308
+models/props_gameplay/resupply_locker.phy,717,717
+materials/models/props_gameplay/resupply_locker.vmt,214,214
+materials/models/props_gameplay/resupply_locker.vtf,699304,699304
+materials/models/items/ammo_box2.vmt,396,396
+materials/models/items/ammo_box2.vtf,1398368,1398368
+materials/models/items/ammo_box2_noalpha.vtf,699304,699304
+materials/models/items/item_selfillum.vtf,928,928
+materials/models/items/ammo_box1.vmt,396,396
+materials/models/items/ammo_box1.vtf,1398368,1398368
+materials/models/items/ammo_box1_noalpha.vtf,699304,699304
+materials/models/items/medkit.vmt,389,389
+materials/models/items/medkit.vtf,1398368,1398368
+materials/models/items/medkit_noalpha.vtf,699304,699304
+models/items/medkit_large_bday.mdl,1808,1808
+models/items/medkit_large_bday.vvd,57856,57856
+models/items/medkit_large_bday.dx90.vtx,15984,15984
+models/items/medkit_large_bday.dx80.vtx,15984,15984
+models/items/medkit_large_bday.sw.vtx,15976,15976
+models/items/medkit_large_bday.phy,4006,4006
+materials/models/items/medkit_birthday.vmt,408,408
+materials/models/items/medkit_birthday.vtf,1398360,1398360
+models/weapons/w_models/w_toolbox.mdl,2496,2496
+models/weapons/w_models/w_toolbox.vvd,250816,250816
+models/weapons/w_models/w_toolbox.dx90.vtx,55242,55242
+models/weapons/w_models/w_toolbox.dx80.vtx,55242,55242
+models/weapons/w_models/w_toolbox.sw.vtx,55210,55210
+models/weapons/w_models/w_toolbox.phy,2231,2231
+materials/models/buildables/toolbox/toolbox_red.vmt,441,441
+materials/models/buildables/toolbox/toolbox_red.vtf,349784,349784
+materials/models/lightwarps/weapon_lightwarp.vtf,65685,65685
+materials/models/buildables/toolbox/toolbox_blue.vmt,442,442
+materials/models/buildables/toolbox/toolbox_blue.vtf,349784,349784
+models/props_2fort/groundlight002.mdl,1720,1720
+models/props_2fort/groundlight002.vvd,18880,18880
+models/props_2fort/groundlight002.dx90.vtx,4893,4893
+models/props_2fort/groundlight002.dx80.vtx,4893,4893
+models/props_2fort/groundlight002.sw.vtx,4893,4893
+models/props_2fort/groundlight002.phy,1466,1466
+materials/models/props_2fort/groundlight001_sheet.vmt,159,159
+materials/models/props_2fort/groundlight001_sheet.vtf,87648,87648
+models/props_2fort/groundlight001.mdl,1724,1724
+models/props_2fort/groundlight001.vvd,17344,17344
+models/props_2fort/groundlight001.dx90.vtx,4389,4389
+models/props_2fort/groundlight001.dx80.vtx,4389,4389
+models/props_2fort/groundlight001.sw.vtx,4389,4389
+models/props_2fort/groundlight001.phy,2185,2185
+models/props_manor/couch_01.mdl,1912,1912
+models/props_manor/couch_01.vvd,208992,208992
+models/props_manor/couch_01.dx90.vtx,101706,101706
+models/props_manor/couch_01.dx80.vtx,101706,101706
+models/props_manor/couch_01.sw.vtx,101706,101706
+models/props_manor/couch_01.phy,6672,6672
+materials/models/props_manor/couch_01.vmt,289,289
+materials/models/props_manor/couch_01.vtf,1048784,1048784
+materials/models/props_manor/couch_01_normal.vtf,1048784,1048784
+materials/models/props_manor/couch_01a.vmt,217,217

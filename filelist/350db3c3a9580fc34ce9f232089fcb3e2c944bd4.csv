@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/fy_maze/tile/tilefloor010a_380_28_80.vmt,123,123
+materials/maps/fy_maze/tile/tilefloor010a_636_28_80.vmt,123,123
+materials/maps/fy_maze/tile/tilefloor010a_508_-156_80.vmt,125,125
+materials/maps/fy_maze/tile/tilefloor010a_380_-228_80.vmt,125,125
+materials/maps/fy_maze/tile/tilefloor010a_636_-228_80.vmt,125,125
+materials/maps/fy_maze/cubemapdefault.vtf,9808,9808
+materials/maps/fy_maze/c380_28_80.vtf,9808,9808
+materials/maps/fy_maze/c636_28_80.vtf,9808,9808
+materials/maps/fy_maze/c508_-156_80.vtf,9808,9808
+materials/maps/fy_maze/c380_-228_80.vtf,9808,9808
+materials/maps/fy_maze/c636_-228_80.vtf,9808,9808

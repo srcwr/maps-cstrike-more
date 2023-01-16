@@ -1,0 +1,106 @@
+filename,size,compressed
+materials/maps/mg_iolite_multigames/cubemapdefault.vtf,28753,28753
+materials/maps/mg_iolite_multigames/cubemapdefault.hdr.vtf,76528,76528
+materials/iolite textures/ioliteblack.vmt,122,122
+materials/iolite textures/ioliteblack.vtf,131280,131280
+materials/iolite textures/iolitewhite.vmt,122,122
+materials/iolite textures/iolitewhite.vtf,131280,131280
+materials/tools/TOOLSNODRAW.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/iolite textures/iolitedarkpurple.vmt,127,127
+materials/iolite textures/iolitedarkpurple.vtf,131280,131280
+materials/iolite textures/iolitewhite_glow.vmt,74,74
+materials/iolite textures/iolitewhite_glow.vtf,131280,131280
+materials/iolite textures/iolitepurple.vmt,123,123
+materials/iolite textures/iolitepurple.vtf,131280,131280
+materials/tools/TOOLSTRIGGER.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/iolite textures/iolitepurple_glow.vmt,75,75
+materials/iolite textures/iolitepurple_glow.vtf,131280,131280
+materials/iolite textures/iolite_winner_purpwhite.vmt,81,81
+materials/iolite textures/iolite_winner_purpwhite.vtf,131280,131280
+materials/iolite textures/iolite_winner_whitepurp.vmt,81,81
+materials/iolite textures/iolite_winner_whitepurp.vtf,131280,131280
+materials/iolite textures/iolitewhite_glass.vmt,125,125
+materials/iolite textures/iolitewhite_glass.vtf,262352,262352
+materials/iolite textures/iolitedarkpurple_glass.vmt,130,130
+materials/iolite textures/iolitedarkpurple_glass.vtf,262352,262352
+materials/iolite textures/iolite_bhop.vmt,75,75
+materials/iolite textures/iolite_bhop.vtf,131280,131280
+materials/iolite textures/iolite_deagle.vmt,77,77
+materials/iolite textures/iolite_deagle.vtf,131280,131280
+materials/iolite textures/iolite_iceskate.vmt,79,79
+materials/iolite textures/iolite_iceskate.vtf,131280,131280
+materials/iolite textures/iolite_scoutzknivez.vmt,83,83
+materials/iolite textures/iolite_scoutzknivez.vtf,131280,131280
+materials/iolite textures/iolite_shotguns.vmt,79,79
+materials/iolite textures/iolite_shotguns.vtf,131280,131280
+materials/iolite textures/iolite_soccer.vmt,77,77
+materials/iolite textures/iolite_soccer.vtf,131280,131280
+materials/iolite textures/iolite_peach.vmt,70,70
+materials/iolite textures/iolite_peach.vtf,131280,131280
+materials/iolite textures/iolite_offspring.vmt,74,74
+materials/iolite textures/iolite_offspring.vtf,131280,131280
+materials/iolite textures/iolite_guarddown.vmt,74,74
+materials/iolite textures/iolite_guarddown.vtf,131280,131280
+materials/iolite textures/iolite_enchantress.vmt,76,76
+materials/iolite textures/iolite_enchantress.vtf,131280,131280
+materials/iolite textures/iolite_atomic.vmt,71,71
+materials/iolite textures/iolite_atomic.vtf,131280,131280
+materials/iolite textures/iolite_lj.vmt,73,73
+materials/iolite textures/iolite_lj.vtf,131280,131280
+materials/iolite textures/iolite_climb.vmt,76,76
+materials/iolite textures/iolite_climb.vtf,131280,131280
+materials/iolite textures/iolite_floorit.vmt,72,72
+materials/iolite textures/iolite_floorit.vtf,131280,131280
+materials/iolite textures/iolite_idkhow.vmt,71,71
+materials/iolite textures/iolite_idkhow.vtf,131280,131280
+materials/iolite textures/iolite_maddox.vmt,71,71
+materials/iolite textures/iolite_maddox.vtf,131280,131280
+materials/iolite textures/iolite_meow.vmt,69,69
+materials/iolite textures/iolite_meow.vtf,131280,131280
+materials/iolite textures/iolite_noodles.vmt,72,72
+materials/iolite textures/iolite_noodles.vtf,131280,131280
+materials/iolite textures/ioliteblack_glass.vmt,125,125
+materials/iolite textures/ioliteblack_glass.vtf,262352,262352
+materials/iolite textures/iolite_lj240.vmt,104,104
+materials/iolite textures/iolite_lj240.vtf,262352,262352
+materials/iolite textures/iolite_lj242.vmt,104,104
+materials/iolite textures/iolite_lj242.vtf,262352,262352
+materials/iolite textures/iolite_lj244.vmt,104,104
+materials/iolite textures/iolite_lj244.vtf,262352,262352
+materials/iolite textures/iolite_lj246.vmt,102,102
+materials/iolite textures/iolite_lj246.vtf,262352,262352
+materials/iolite textures/iolite_lj248.vmt,102,102
+materials/iolite textures/iolite_lj248.vtf,262352,262352
+materials/iolite textures/iolite_lj250.vmt,102,102
+materials/iolite textures/iolite_lj250.vtf,262352,262352
+materials/iolite textures/iolite_lj252.vmt,104,104
+materials/iolite textures/iolite_lj252.vtf,262352,262352
+materials/iolite textures/iolite_lj254.vmt,102,102
+materials/iolite textures/iolite_lj254.vtf,262352,262352
+materials/iolite textures/iolite_lj256.vmt,104,104
+materials/iolite textures/iolite_lj256.vtf,262352,262352
+materials/detail/detailsprites.vmt,162,162
+materials/detail/detailsprites.vtf,699256,699256
+sound/iolitesounds/we_are_young.mp3,6143043,6143043
+sound/iolitesounds/evilenchantress.mp3,4050747,4050747
+sound/iolitesounds/friednoodles.mp3,7803396,7803396
+sound/iolitesounds/peach.mp3,2833381,2833381
+sound/iolitesounds/comeoutandplay.mp3,3166595,3166595
+sound/iolitesounds/floorit.mp3,3927423,3927423
+sound/iolitesounds/guarddown.mp3,6786353,6786353
+sound/iolitesounds/atomicamnesia.mp3,6426702,6426702
+sound/iolitesounds/leavemealonepiano.mp3,4077098,4077098
+sound/iolitesounds/learntomeow.mp3,4790677,4790677
+models/iolite/soccer/soccerball.mdl,1539,1539
+models/iolite/soccer/soccerball.vvd,9408,9408
+models/iolite/soccer/soccerball.dx90.vtx,2655,2655
+models/iolite/soccer/soccerball.dx80.vtx,2655,2655
+models/iolite/soccer/soccerball.sw.vtx,2655,2655
+models/iolite/soccer/soccerball.phy,5205,5205
+materials/models/iolite/soccer/soccerball.vmt,98,98
+materials/models/iolite/soccer/soccerball.vtf,131280,131280
+sound/iolitesounds/advisor_blast1.wav,161558,161558
+sound/iolitesounds/strider_buster_stick1.wav,74894,74894

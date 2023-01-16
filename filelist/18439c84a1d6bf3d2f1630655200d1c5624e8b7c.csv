@@ -1,0 +1,106 @@
+filename,size,compressed
+materials/maps/ze_jurassicpark_c1v4/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/ze_jurassicpark_c1v4/nature/blendcliffgrass001a_wvt_patch.vmt,307,307
+materials/maps/ze_jurassicpark_c1v4/nature/blenddirtgrass008b_lowfriction_wvt_patch.vmt,393,393
+materials/maps/ze_jurassicpark_c1v4/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/ze_jurassicpark_c1v4/nature/water_canals_water_murky_4768_-459_-1151.vmt,178,178
+materials/maps/ze_jurassicpark_c1v4/nature/water_canals_water_murky_4104_-5216_-1710.vmt,179,179
+materials/maps/ze_jurassicpark_c1v4/nature/water_canals_water_murky_-5848_-9960_-1888.vmt,180,180
+materials/maps/ze_jurassicpark_c1v4/nature/water_canals_water_murky_-10997_-10614_-909.vmt,181,181
+materials/maps/ze_jurassicpark_c1v4/nature/mudfloor001a_3244_-5191_-1478.vmt,183,183
+materials/maps/ze_jurassicpark_c1v4/nature/mudfloor001a_4768_-5112_-1478.vmt,183,183
+materials/maps/ze_jurassicpark_c1v4/plaster/plasterwall005c_-6128_-300_-795.vmt,147,147
+materials/maps/ze_jurassicpark_c1v4/plaster/plasterwall005c_4768_2588_-224.vmt,146,146
+materials/maps/ze_jurassicpark_c1v4/metal/metalroof006a_4768_2588_-224.vmt,142,142
+materials/maps/ze_jurassicpark_c1v4/metal/metalroof006a_-6128_-300_-795.vmt,143,143
+materials/maps/ze_jurassicpark_c1v4/metal/metalroof006a_102_-2639_-539.vmt,142,142
+materials/maps/ze_jurassicpark_c1v4/plaster/plasterwall005c_102_-2639_-539.vmt,146,146
+materials/maps/ze_jurassicpark_c1v4/nature/mudfloor001a_4768_-459_-1151.vmt,182,182
+materials/maps/ze_jurassicpark_c1v4/nature/mudfloor001a_4741_-3177_-774.vmt,182,182
+materials/maps/ze_jurassicpark_c1v4/nature/mudfloor001a_4308_-5122_-224.vmt,182,182
+materials/maps/ze_jurassicpark_c1v4/glass/glasswindowbreak070a_-5848_-9960_-1888.vmt,152,152
+materials/maps/ze_jurassicpark_c1v4/glass/glasswindowbreak070a_-5161_-9470_-1623.vmt,152,152
+materials/maps/ze_jurassicpark_c1v4/glass/glasswindowbreak070a_-6128_-300_-795.vmt,150,150
+materials/maps/ze_jurassicpark_c1v4/concrete/concretefloor011a_c17_-5848_-9960_-1888.vmt,195,195
+materials/maps/ze_jurassicpark_c1v4/concrete/concretefloor011a_c17_-5161_-9470_-1623.vmt,195,195
+materials/maps/ze_jurassicpark_c1v4/concrete/concretefloor011a_c17_4768_-459_-1151.vmt,193,193
+materials/maps/ze_jurassicpark_c1v4/concrete/concretefloor011a_c17_-10997_-10614_-909.vmt,196,196
+materials/maps/ze_jurassicpark_c1v4/concrete/concretefloor011a_c17_-6128_-300_-795.vmt,193,193
+materials/maps/ze_jurassicpark_c1v4/concrete/concretefloor011a_c17_102_-2639_-539.vmt,192,192
+materials/maps/ze_jurassicpark_c1v4/maps/ze_jurassicpark_c1v4/nature/water_canals_water_murky_-10997_-10614_-909_depth_8.vmt,162,162
+materials/maps/ze_jurassicpark_c1v4/maps/ze_jurassicpark_c1v4/nature/water_canals_water_murky_-5848_-9960_-1888_depth_142.vmt,163,163
+materials/maps/ze_jurassicpark_c1v4/maps/ze_jurassicpark_c1v4/nature/water_canals_water_murky_4104_-5216_-1710_depth_12.vmt,161,161
+materials/maps/ze_jurassicpark_c1v4/maps/ze_jurassicpark_c1v4/nature/water_canals_water_murky_4768_-459_-1151_depth_248.vmt,161,161
+materials/maps/ze_jurassicpark_c1v4/cubemapdefault.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c4768_-459_-1151.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c4104_-5216_-1710.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c-5848_-9960_-1888.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c-10997_-10614_-909.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c3244_-5191_-1478.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c4768_-5112_-1478.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c-6128_-300_-795.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c4768_2588_-224.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c102_-2639_-539.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c4741_-3177_-774.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c4308_-5122_-224.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c-5161_-9470_-1623.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c4752_4348_-224.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c4764_464_-224.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c4763_-1157_-224.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c3079_-5294_-224.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/c1616_-5185_-224.vtf,9832,9832
+materials/maps/ze_jurassicpark_c1v4/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_jurassicpark_c1v4/c4768_-459_-1151.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c4104_-5216_-1710.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c-5848_-9960_-1888.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c-10997_-10614_-909.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c3244_-5191_-1478.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c4768_-5112_-1478.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c-6128_-300_-795.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c4768_2588_-224.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c102_-2639_-539.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c4741_-3177_-774.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c4308_-5122_-224.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c-5161_-9470_-1623.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c4752_4348_-224.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c4764_464_-224.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c4763_-1157_-224.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c3079_-5294_-224.hdr.vtf,76536,76536
+materials/maps/ze_jurassicpark_c1v4/c1616_-5185_-224.hdr.vtf,76536,76536
+materials/park/solidred.vmt,61,61
+materials/park/solidred.vtf,2952,2952
+materials/park/solidyellow.vmt,64,64
+materials/park/solidyellow.vtf,2952,2952
+materials/metal/metalwall013a_white.vmt,100,100
+materials/metal/metalwall013a_white.vtf,349760,349760
+materials/metal/metalwall013a_black.vmt,98,98
+materials/metal/metalwall013a_black.vtf,349760,349760
+materials/decals/helipad.vmt,139,139
+materials/decals/helipad.vtf,1398360,1398360
+materials/decals/checkpointarrow01_orange.vmt,150,150
+materials/decals/checkpointarrow01_orange.vtf,43896,43896
+materials/decals/dirt02.vmt,157,157
+materials/decals/dirt02.vtf,87640,87640
+materials/creat_1 decals/creat1_jurassicpark1.vmt,213,213
+materials/creat_1 decals/creat1_jurassicpark1.vmt,213,213
+materials/creat_1 decals/creat1_jurassicpark2.vmt,213,213
+materials/creat_1 decals/creat1_jurassicpark2.vmt,213,213
+sound/admin_plugin/trex3.wav,45218,45218
+sound/admin_plugin/jurassicpark1.wav,7028780,7028780
+models/cm9380/cm9380.mdl,26412,26412
+models/cm9380/cm9380.dx80.vtx,35709,35709
+models/cm9380/cm9380.dx90.vtx,35221,35221
+models/cm9380/cm9380.sw.vtx,34438,34438
+models/cm9380/cm9380.phy,28455,28455
+models/cm9380/cm9380.vvd,129664,129664
+materials/cm9380/rex.vmt,206,206
+materials/cm9380/rex.vtf,174968,174968
+materials/cm9380/rex_normal.vtf,699272,699272
+materials/decals/sign_biohazard_00.vmt,144,144
+materials/decals/sign_biohazard_00.vtf,43896,43896
+materials/creat_1 decals/hospital_decal1.vmt,208,208
+materials/creat_1 decals/hospital_decal1.vmt,208,208
+maps/soundcache/ze_jurassicpark_c1v4.cache,16,16
+materials/creat_1 decals/creat1_jurassicpark1.vtf,174944,174944
+materials/creat_1 decals/creat1_jurassicpark2.vtf,174944,174944
+materials/creat_1 decals/hospital_decal1.vtf,87616,87616

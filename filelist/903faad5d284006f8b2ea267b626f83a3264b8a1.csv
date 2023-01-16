@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/gg_emg_pro/concrete/concretefloor019a_0_0_0.vmt,130,130
+materials/maps/gg_emg_pro/metal/metalwall045a_0_0_0.vmt,123,123
+materials/maps/gg_emg_pro/cubemapdefault.vtf,9832,9832
+materials/maps/gg_emg_pro/c0_0_0.vtf,9832,9832
+materials/maps/gg_emg_pro/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_emg_pro/c0_0_0.hdr.vtf,76528,76528
+materials/emg/common/poster001.vmt,121,121
+materials/emg/common/poster001.vtf,174944,174944
+materials/emg/common/iplayer.vmt,121,121
+materials/emg/common/iplayer.vtf,174944,174944
+materials/overviews/gg_emg_pro.vmt,157,157
+materials/overviews/gg_emg_pro.vtf,349760,349760
+materials/overviews/gg_emg_pro_radar.vmt,157,157
+resource/overviews/gg_emg_pro.txt,144,144

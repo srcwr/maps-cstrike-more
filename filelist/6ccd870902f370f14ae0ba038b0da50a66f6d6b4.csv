@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/ka_mars-v2/glass/glasswindow070c_0_0_0.vmt,125,125
+materials/maps/ka_mars-v2/cubemapdefault.vtf,9824,9824
+materials/maps/ka_mars-v2/c0_0_0.vtf,9824,9824
+materials/skybox/mars3up.vmt,91,91
+materials/skybox/mars3up.vtf,349632,349632
+materials/skybox/mars3dn.vmt,91,91
+materials/skybox/mars3dn.vtf,349632,349632
+materials/skybox/mars3ft.vmt,91,91
+materials/skybox/mars3ft.vtf,349632,349632
+materials/skybox/mars3bk.vmt,91,91
+materials/skybox/mars3bk.vtf,349632,349632
+materials/skybox/mars3lf.vmt,91,91
+materials/skybox/mars3lf.vtf,349632,349632
+materials/skybox/mars3rt.vmt,91,91
+materials/skybox/mars3rt.vtf,349632,349632
+maps/soundcache/ka_mars-v2.cache,16,16

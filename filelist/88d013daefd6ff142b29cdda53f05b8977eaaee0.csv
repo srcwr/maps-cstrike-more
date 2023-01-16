@@ -1,0 +1,273 @@
+filename,size,compressed
+materials/dafiel texturen/dafiel/dafiel_gelb.vmt,240,240
+materials/dafiel texturen/dafiel/dafiel_gelb.vtf,87640,87640
+materials/dafiel texturen/dafiel/dafiel_ssbump.vtf,349732,349732
+materials/dafiel texturen/glas/glas_14.vmt,254,254
+materials/dafiel texturen/glas/glas_14.vtf,87616,87616
+materials/dafiel texturen/lego/oben/blau.vmt,196,196
+materials/dafiel texturen/lego/oben/blau.vtf,349784,349784
+materials/dafiel texturen/lego/oben/gelb.vmt,194,194
+materials/dafiel texturen/lego/oben/gelb.vtf,349784,349784
+materials/dafiel texturen/lego/oben/grau.vmt,194,194
+materials/dafiel texturen/lego/oben/grau.vtf,349784,349784
+materials/dafiel texturen/lego/oben/rot.vmt,193,193
+materials/dafiel texturen/lego/oben/rot.vtf,349784,349784
+materials/dafiel texturen/lego/oben/weiss.vmt,195,195
+materials/dafiel texturen/lego/oben/weiss.vtf,349784,349784
+materials/dafiel texturen/lego/seite/blau.vmt,196,196
+materials/dafiel texturen/lego/seite/blau.vtf,349784,349784
+materials/dafiel texturen/lego/seite/gelb.vmt,196,196
+materials/dafiel texturen/lego/seite/gelb.vtf,349784,349784
+materials/dafiel texturen/lego/seite/grau.vmt,196,196
+materials/dafiel texturen/lego/seite/grau.vtf,349784,349784
+materials/dafiel texturen/lego/seite/rot.vmt,195,195
+materials/dafiel texturen/lego/seite/rot.vtf,349784,349784
+materials/dafiel texturen/lego/seite/weiss.vmt,197,197
+materials/dafiel texturen/lego/seite/weiss.vtf,349784,349784
+materials/dafiel texturen/lego/special/oben_ssbump.vtf,1398332,1398332
+materials/dafiel texturen/lego/special/seite_ssbump.vtf,1398332,1398332
+materials/dafiel texturen/lego/special/unten_ssbump.vtf,1398332,1398332
+materials/dafiel texturen/lego/unten/blau.vmt,196,196
+materials/dafiel texturen/lego/unten/blau.vtf,349784,349784
+materials/dafiel texturen/lego/unten/gelb.vmt,196,196
+materials/dafiel texturen/lego/unten/gelb.vtf,349784,349784
+materials/dafiel texturen/lego/unten/grau.vmt,196,196
+materials/dafiel texturen/lego/unten/grau.vtf,349784,349784
+materials/dafiel texturen/lego/unten/rot.vmt,195,195
+materials/dafiel texturen/lego/unten/rot.vtf,349784,349784
+materials/dafiel texturen/lego/unten/weiss.vmt,197,197
+materials/dafiel texturen/lego/unten/weiss.vtf,349784,349784
+materials/dafiel texturen/neon/weiss.vmt,168,168
+materials/dafiel texturen/neon/weiss.vtf,22076,22076
+materials/maps/gg_df_lego_kleinevilla_b_final/c-215_-128_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-215_-128_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-216_104_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-216_104_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-240_-432_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-240_-432_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-240_432_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-240_432_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-248_-288_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-248_-288_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-248_280_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-248_280_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-272_-96_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-272_-96_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-288_104_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-288_104_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-320_0_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-320_0_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-408_-80_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-408_-80_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-408_80_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-408_80_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-416_-128_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-416_-128_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-424_104_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-424_104_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_-192_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_-192_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_-288_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_-288_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_-432_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_-432_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_192_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_192_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_280_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_280_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_432_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-440_432_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-80_-128_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-80_-128_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c-80_104_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c-80_104_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_-192_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_-192_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_-336_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_-336_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_0_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_0_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_192_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_192_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_344_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c0_344_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c200_104_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c200_104_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c232_-80_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c232_-80_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c232_104_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c232_104_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c256_-432_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c256_-432_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c256_432_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c256_432_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c264_-288_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c264_-288_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c264_280_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c264_280_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c320_-120_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c320_-120_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c320_0_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c320_0_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c416_-80_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c416_-80_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c416_80_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c416_80_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c432_120_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c432_120_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_-104_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_-104_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_-192_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_-192_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_-288_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_-288_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_-432_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_-432_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_192_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_192_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_280_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_280_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_432_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c440_432_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c448_-288_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c448_-288_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c448_280_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c448_280_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c88_-128_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c88_-128_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c88_104_192.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c88_104_192.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_-128_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_-128_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_-288_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_-288_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_-432_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_-432_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_104_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_104_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_280_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_280_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_432_80.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/c8_432_80.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_df_lego_kleinevilla_b_final/cubemapdefault.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla_b_final/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/gg_df_lego_kleinevilla/c-248_-288_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-240_-432_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-440_-288_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-272_-96_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-416_-128_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c8_-128_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c320_-120_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c440_-104_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c448_-288_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c264_-288_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c8_-288_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c8_-432_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c256_-432_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c0_-336_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-80_-128_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c88_104_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c0_344_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-440_-432_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-440_-192_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c440_-432_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c440_-288_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c0_0_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-80_104_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c440_280_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c440_432_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c256_432_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c264_280_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c232_104_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c8_280_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c8_432_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c448_280_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c432_120_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c8_104_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-288_104_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-424_104_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-440_280_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-248_280_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-240_432_80.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-440_432_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-440_192_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-408_-80_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-408_80_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-216_104_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-320_0_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c-215_-128_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c88_-128_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c200_104_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c416_80_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c320_0_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c416_-80_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c232_-80_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c440_-192_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c440_192_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c0_-192_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/c0_192_192.hdr.vtf,76536,76536
+materials/maps/gg_df_lego_kleinevilla/cubemapdefault.vtf,9832,9832
+materials/maps/gg_df_lego_kleinevilla/c-248_-288_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-240_-432_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-440_-288_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-272_-96_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-416_-128_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c8_-128_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c320_-120_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c440_-104_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c448_-288_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c264_-288_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c8_-288_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c8_-432_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c256_-432_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c0_-336_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-80_-128_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c88_104_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c0_344_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-440_-432_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-440_-192_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c440_-432_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c440_-288_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c0_0_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-80_104_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c440_280_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c440_432_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c256_432_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c264_280_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c232_104_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c8_280_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c8_432_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c448_280_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c432_120_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c8_104_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-288_104_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-424_104_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-440_280_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-248_280_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-240_432_80.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-440_432_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-440_192_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-408_-80_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-408_80_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-216_104_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-320_0_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c-215_-128_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c88_-128_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c200_104_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c416_80_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c320_0_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c416_-80_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c232_-80_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c440_-192_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c440_192_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c0_-192_192.vtf,4968,4968
+materials/maps/gg_df_lego_kleinevilla/c0_192_192.vtf,4968,4968
+maps/gg_df_lego_kleinevilla.nav,18219,18219
+maps/gg_df_lego_kleinevilla.txt,90,90
+resource/overviews/gg_df_lego_kleinevilla.txt,153,153
+resource/overviews/gg_df_lego_kleinevilla_radar.txt,158,158
+materials/overviews/gg_df_lego_kleinevilla.vmt,151,151
+materials/overviews/gg_df_lego_kleinevilla.vtf,2097376,2097376
+materials/overviews/gg_df_lego_kleinevilla_radar.vmt,175,175
+materials/overviews/gg_df_lego_kleinevilla_radar.vtf,2097376,2097376

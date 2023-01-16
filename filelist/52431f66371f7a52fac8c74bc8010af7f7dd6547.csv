@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/gg_die-arena/cubemapdefault.vtf,4960,4960
+materials/maps/gg_die-arena/cubemapdefault.hdr.vtf,76528,76528
+materials/RYAN_DEV/DARK_BLUE1.vmt,67,67
+materials/ryan_dev/dark_blue1.vtf,11144,11144
+materials/CASTLE TEXTURES/ARENA_BABYBLUE.vmt,78,78
+materials/EW_ARENA_COLORS/PURPLE1.vmt,71,71
+materials/ew_arena_colors/purple1.vtf,43912,43912
+materials/CASTLE TEXTURES/ARENA_GREY.vmt,74,74
+materials/TEXTURES/EWMAP.vmt,62,62
+materials/Textures/ewmap.vtf,11144,11144
+materials/skybox/mpa109up.vmt,85,85
+materials/skybox/mpa109up.vtf,699272,699272
+materials/skybox/mpa109dn.vmt,85,85
+materials/skybox/mpa109dn.vtf,699272,699272
+materials/skybox/mpa109ft.vmt,85,85
+materials/skybox/mpa109ft.vtf,699272,699272
+materials/skybox/mpa109bk.vmt,85,85
+materials/skybox/mpa109bk.vtf,699272,699272
+materials/skybox/mpa109lf.vmt,85,85
+materials/skybox/mpa109lf.vtf,699272,699272
+materials/skybox/mpa109rt.vmt,85,85
+materials/skybox/mpa109rt.vtf,699272,699272
+maps/soundcache/gg_die-arena.cache,16,16
+materials/castle textures/arena_babyblue.vtf,43912,43912
+materials/castle textures/arena_grey.vtf,43912,43912

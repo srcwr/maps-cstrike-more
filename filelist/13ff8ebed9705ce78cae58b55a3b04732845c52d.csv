@@ -1,0 +1,73 @@
+filename,size,compressed
+materials/maps/mg_tetris_final/cs_havana/glass2_0_1192_3016.vmt,131,131
+materials/maps/mg_tetris_final/cs_havana/glass2_0_-656_968.vmt,130,130
+materials/maps/mg_tetris_final/cs_havana/glass2_0_1192_2504.vmt,131,131
+materials/maps/mg_tetris_final/cs_havana/glass2_0_1192_1480.vmt,131,131
+materials/maps/mg_tetris_final/cs_havana/glass2_-1712_1184_2132.vmt,135,135
+materials/maps/mg_tetris_final/cs_havana/glass2_-1088_1188_2132.vmt,135,135
+materials/maps/mg_tetris_final/cs_havana/glass2_0_1192_1992.vmt,131,131
+materials/maps/mg_tetris_final/cs_havana/glass2_0_1192_968.vmt,130,130
+materials/maps/mg_tetris_final/metal/citadel_metalwall076a_-1712_1184_2132.vmt,146,146
+materials/maps/mg_tetris_final/metal/citadel_metalwall076a_0_-656_968.vmt,141,141
+materials/maps/mg_tetris_final/cubemapdefault.vtf,9824,9824
+materials/maps/mg_tetris_final/c0_1192_3016.vtf,4952,4952
+materials/maps/mg_tetris_final/c0_-656_968.vtf,4952,4952
+materials/maps/mg_tetris_final/c0_1192_2504.vtf,4952,4952
+materials/maps/mg_tetris_final/c0_1192_1480.vtf,4952,4952
+materials/maps/mg_tetris_final/c-1712_1184_2132.vtf,4952,4952
+materials/maps/mg_tetris_final/c-1088_1188_2132.vtf,4952,4952
+materials/maps/mg_tetris_final/c0_1192_1992.vtf,4952,4952
+materials/maps/mg_tetris_final/c0_1192_968.vtf,4952,4952
+materials/maps/mg_tetris_final/c0_-656_968.hdr.vtf,76520,76520
+materials/maps/mg_tetris_final/c0_1192_968.hdr.vtf,76520,76520
+materials/maps/mg_tetris_final/c-1088_1188_2132.hdr.vtf,76520,76520
+materials/maps/mg_tetris_final/c0_1192_1480.hdr.vtf,76520,76520
+materials/maps/mg_tetris_final/c0_1192_1992.hdr.vtf,76520,76520
+materials/maps/mg_tetris_final/c0_1192_2504.hdr.vtf,76520,76520
+materials/maps/mg_tetris_final/c0_1192_3016.hdr.vtf,76520,76520
+materials/maps/mg_tetris_final/c-1712_1184_2132.hdr.vtf,76520,76520
+materials/COLOR/BONDI BLUE.vmt,67,67
+materials/COLOR/PURPLE HTML.vmt,68,68
+materials/COLOR/GREEN HTML.vmt,67,67
+materials/COLOR/DARK CERULEAN.vmt,70,70
+materials/COLOR/DARK BLUE.vmt,66,66
+materials/COLOR/DARK GREEN.vmt,67,67
+materials/COLOR/DARK SPRING GREEN.vmt,74,74
+materials/PRAWN_TOON_TEXTURES/DARK_GREEN_NOIZE.vmt,84,84
+materials/prawn_toon_textures/dark_green_noize.vtf,11144,11144
+materials/COLOR/SLATE GREY.vmt,67,67
+materials/DEV/DEV_MEASUREGENERIC38.vmt,93,93
+materials/dev/dev_measuregeneric38.vtf,11144,11144
+materials/COLOR/GREY.vmt,61,61
+materials/color/grey.vtf,11144,11144
+materials/COLOR/PERSIAN RED.vmt,68,68
+materials/COLOR/DARK BROWN.vmt,67,67
+materials/COLOR/NAVAJO WHITE.vmt,69,69
+materials/PRAWN_TOON_TEXTURES/UBER_DARK_GREEN_NOIZE.vmt,89,89
+materials/prawn_toon_textures/uber_dark_green_noize.vtf,11144,11144
+materials/PRAWN_TOON_TEXTURES/UBER_DARK_BLUE_NOIZE.vmt,88,88
+materials/prawn_toon_textures/uber_dark_blue_noize.vtf,11144,11144
+materials/PRAWN_TOON_TEXTURES/UBER_DARK_RED_NOIZE.vmt,87,87
+materials/prawn_toon_textures/uber_dark_red_noize.vtf,11144,11144
+materials/PRAWN_TOON_TEXTURES/DARK_RED_NOIZE.vmt,82,82
+materials/prawn_toon_textures/dark_red_noize.vtf,11144,11144
+materials/PRAWN_TOON_TEXTURES/BLUE_NOIZE.vmt,78,78
+materials/prawn_toon_textures/blue_noize.vtf,11144,11144
+materials/PRAWN_TOON_TEXTURES/MARZIPAN_PURPLE_NOIZE.vmt,89,89
+materials/prawn_toon_textures/marzipan_purple_noize.vtf,11144,11144
+materials/PRAWN_TOON_TEXTURES/BAY_NOIZE.vmt,77,77
+materials/prawn_toon_textures/bay_noize.vtf,11144,11144
+sound/admin_plugin/tetrismusique.wav,2818092,2818092
+C:/Program Files/Steam/steamapps/eestilane/counter-strike source/cstrike/maps/mg_tetris_final.nav,49593,49593
+soundcache/mg_tetris_final.cache,16,16
+materials/Color/bondi blue.vtf,11144,11144
+materials/Color/dark blue.vtf,11144,11144
+materials/Color/dark brown.vtf,11144,11144
+materials/Color/dark cerulean.vtf,11144,11144
+materials/Color/dark green.vtf,11144,11144
+materials/Color/dark spring green.vtf,11144,11144
+materials/Color/green html.vtf,11144,11144
+materials/Color/navajo white.vtf,11144,11144
+materials/Color/persian red.vtf,11144,11144
+materials/Color/purple html.vtf,11144,11144
+materials/Color/slate grey.vtf,11144,11144

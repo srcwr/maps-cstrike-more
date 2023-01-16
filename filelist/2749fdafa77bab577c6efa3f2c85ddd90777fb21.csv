@@ -1,0 +1,90 @@
+filename,size,compressed
+materials/maps/zm_impossibru_lbp_v3/realworldtextures/glass_break_0_0_0.vmt,166,166
+materials/maps/zm_impossibru_lbp_v3/realworldtextures/glass_0_0_0.vmt,222,222
+materials/maps/zm_impossibru_lbp_v3/dev/dev_water2_depth_12.vmt,101,101
+materials/maps/zm_impossibru_lbp_v3/cubemapdefault.vtf,4960,4960
+materials/maps/zm_impossibru_lbp_v3/c0_0_0.vtf,4960,4960
+materials/maps/zm_impossibru_lbp_v3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_impossibru_lbp_v3/c0_0_0.hdr.vtf,76528,76528
+materials/RealWorldTextures/glass_break.vmt,510,510
+materials/RealWorldTextures/glass_break.vtf,1398336,1398336
+materials/RealWorldTextures/glass.vmt,252,252
+materials/RealWorldTextures/glass.vtf,349760,349760
+materials/RealWorldTextures2/Misc/cardboard_02.vmt,285,285
+materials/RealWorldTextures2/Misc/cardboard_02.vtf,174984,174984
+materials/RealWorldTextures2/Misc/cardboard_02_nrm.vtf,174984,174984
+materials/box_side_text/box_side.vmt,97,97
+materials/box_side_text/box_side.vtf,43912,43912
+materials/world and moon/lbp_moon.vmt,90,90
+materials/world and moon/lbp_moon.vtf,87616,87616
+materials/world and moon/lbp_world.vmt,91,91
+materials/world and moon/lbp_world.vtf,1398336,1398336
+materials/ps3/sony.vmt,56,56
+materials/ps3/sony.vtf,43912,43912
+materials/ps3/select.vmt,58,58
+materials/ps3/select.vtf,43912,43912
+materials/ps3/start.vmt,57,57
+materials/ps3/start.vtf,43912,43912
+materials/RealWorldTextures/Walls/MysticBlack.vmt,244,244
+materials/RealWorldTextures/Walls/MysticBlack.vtf,174984,174984
+materials/ps3/mid_button.vmt,62,62
+materials/ps3/mid_button.vtf,349760,349760
+materials/ps3/sqr_icon.vmt,79,79
+materials/ps3/sqr_icon.vtf,5696,5696
+materials/ps3/x_icon.vmt,77,77
+materials/ps3/x_icon.vtf,5696,5696
+materials/ps3/tri_icon.vmt,79,79
+materials/ps3/tri_icon.vtf,5696,5696
+materials/ps3/o_icon.vmt,77,77
+materials/ps3/o_icon.vtf,5696,5696
+materials/ps3/l1_icon.vmt,59,59
+materials/ps3/l1_icon.vtf,22080,22080
+materials/ps3/l2_icon.vmt,59,59
+materials/ps3/l2_icon.vtf,22080,22080
+materials/ps3/r2_icon.vmt,59,59
+materials/ps3/r2_icon.vtf,22080,22080
+materials/ps3/r1_icon.vmt,59,59
+materials/ps3/r1_icon.vtf,22080,22080
+materials/world and moon/lbp_red.vmt,70,70
+materials/world and moon/lbp_red.vtf,11144,11144
+materials/world and moon/lbp_star.vmt,90,90
+materials/world and moon/lbp_star.vtf,87616,87616
+materials/world and moon/lbp_iu.vmt,88,88
+materials/world and moon/lbp_iu.vtf,174984,174984
+materials/ps3/lbp_bb.vmt,77,77
+materials/ps3/lbp_bb.vtf,87544,87544
+materials/ps3/lbp_title.vmt,80,80
+materials/ps3/lbp_title.vtf,349696,349696
+materials/Textures/ps3/lbp_title.vmt,80,80
+materials/sackboy/bf1.vmt,78,78
+materials/sackboy/bf1.vtf,349760,349760
+materials/sackboy/flsh1.vmt,80,80
+materials/sackboy/flsh1.vtf,1398336,1398336
+materials/sackboy/hq1.vmt,78,78
+materials/sackboy/hq1.vtf,1398336,1398336
+materials/sackboy/sb1.vmt,78,78
+materials/sackboy/sb1.vtf,1398336,1398336
+materials/sackboy/cyb1.vmt,79,79
+materials/sackboy/cyb1.vtf,1398336,1398336
+materials/sackboy/dino1.vmt,80,80
+materials/sackboy/dino1.vtf,349760,349760
+materials/sackboy/zm2.vmt,78,78
+materials/sackboy/zm2.vtf,349760,349760
+materials/sackboy/sg1.vmt,78,78
+materials/sackboy/sg1.vtf,1398336,1398336
+materials/sackboy/bg1.vmt,78,78
+materials/sackboy/bg1.vtf,1398336,1398336
+materials/sackboy/sbg1.vmt,79,79
+materials/sackboy/sbg1.vtf,349760,349760
+materials/skybox/space_01up.vmt,119,119
+materials/skybox/space_01up.vtf,699256,699256
+materials/skybox/space_01dn.vmt,119,119
+materials/skybox/space_01dn.vtf,699256,699256
+materials/skybox/space_01lf.vmt,119,119
+materials/skybox/space_01lf.vtf,699256,699256
+materials/skybox/space_01rt.vmt,119,119
+materials/skybox/space_01rt.vtf,699256,699256
+materials/skybox/space_01ft.vmt,119,119
+materials/skybox/space_01ft.vtf,699256,699256
+materials/skybox/space_01bk.vmt,119,119
+materials/skybox/space_01bk.vtf,699256,699256

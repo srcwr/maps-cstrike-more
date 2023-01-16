@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/bhop_16384/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_16384/cubemapdefault.hdr.vtf,76528,76528
+materials/CONCRETE/CONCRETE_WALL_CRETE4W3_C.vmt,278,278
+materials/concrete/concrete_wall_crete4w3_c.vtf,174984,174984
+materials/concrete/concrete_wall_crete4w3_b_normal.vtf,349760,349760
+materials/CONCRETE/CONCRETEFLOOR027A.vmt,106,106
+materials/TOOLS/TOOLSBLACK.vmt,64,64
+materials/tools/toolsblack.vtf,2936,2936
+materials/skybox/bm_sky_underground_00up.vmt,165,165
+materials/skybox/bm_sky_underground_00HDR.vtf,2796408,2796408
+materials/skybox/bm_sky_underground_00.vtf,174984,174984
+materials/skybox/bm_sky_underground_00dn.vmt,165,165
+materials/skybox/bm_sky_underground_00ft.vmt,165,165
+materials/skybox/bm_sky_underground_00bk.vmt,165,165
+materials/skybox/bm_sky_underground_00lf.vmt,165,165
+materials/skybox/bm_sky_underground_00rt.vmt,165,165

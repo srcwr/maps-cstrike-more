@@ -1,0 +1,71 @@
+filename,size,compressed
+materials/maps/gg_8x_cyber/textures/simple_glass_01_0_0_80.vmt,130,130
+materials/maps/gg_8x_cyber/textures/simple_glass_01_520_400_64.vmt,134,134
+materials/maps/gg_8x_cyber/textures/simple_glass_01_520_-400_64.vmt,135,135
+materials/maps/gg_8x_cyber/textures/simple_glass_01_-520_400_64.vmt,135,135
+materials/maps/gg_8x_cyber/textures/simple_glass_01_-520_-400_64.vmt,136,136
+materials/maps/gg_8x_cyber/textures/simple_glass_01_-320_0_56.vmt,133,133
+materials/maps/gg_8x_cyber/textures/simple_glass_01_320_0_56.vmt,132,132
+materials/maps/gg_8x_cyber/textures/simple_glass_01_0_-448_64.vmt,133,133
+materials/maps/gg_8x_cyber/textures/simple_glass_01_0_448_64.vmt,132,132
+materials/maps/gg_8x_cyber/cubemapdefault.vtf,9832,9832
+materials/maps/gg_8x_cyber/c0_0_80.vtf,4968,4968
+materials/maps/gg_8x_cyber/c520_400_64.vtf,4968,4968
+materials/maps/gg_8x_cyber/c520_-400_64.vtf,4968,4968
+materials/maps/gg_8x_cyber/c-520_400_64.vtf,4968,4968
+materials/maps/gg_8x_cyber/c-520_-400_64.vtf,4968,4968
+materials/maps/gg_8x_cyber/c-320_0_56.vtf,4968,4968
+materials/maps/gg_8x_cyber/c320_0_56.vtf,4968,4968
+materials/maps/gg_8x_cyber/c0_-448_64.vtf,4968,4968
+materials/maps/gg_8x_cyber/c0_448_64.vtf,4968,4968
+materials/maps/gg_8x_cyber/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_8x_cyber/c0_0_80.hdr.vtf,76528,76528
+materials/maps/gg_8x_cyber/c520_400_64.hdr.vtf,76528,76528
+materials/maps/gg_8x_cyber/c520_-400_64.hdr.vtf,76528,76528
+materials/maps/gg_8x_cyber/c-520_400_64.hdr.vtf,76528,76528
+materials/maps/gg_8x_cyber/c-520_-400_64.hdr.vtf,76528,76528
+materials/maps/gg_8x_cyber/c-320_0_56.hdr.vtf,76528,76528
+materials/maps/gg_8x_cyber/c320_0_56.hdr.vtf,76528,76528
+materials/maps/gg_8x_cyber/c0_-448_64.hdr.vtf,76528,76528
+materials/maps/gg_8x_cyber/c0_448_64.hdr.vtf,76528,76528
+materials/textures/simple_glass_01.vmt,168,168
+materials/textures/simple_glass_01.vtf,22080,22080
+materials/color/beige.vmt,62,62
+materials/color/beige.vtf,11144,11144
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/color/black.vmt,62,62
+materials/color/black.vtf,11144,11144
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/neon/cyan_animated.vmt,255,255
+materials/neon/cyan_animated.vtf,7568,7568
+materials/color/azure web.vmt,66,66
+materials/color/azure web.vtf,11144,11144
+materials/color/lavender grey.vmt,70,70
+materials/color/lavender grey.vtf,11144,11144
+materials/color/lavender web.vmt,69,69
+materials/color/lavender web.vtf,11144,11144
+materials/color/white_illum.vmt,104,104
+materials/color/white.vtf,11144,11144
+materials/color/white.vmt,62,62
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/detail/detailsprites.vmt,135,135
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/tools/toolsinvisible.vmt,302,302
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/tools/toolsinvisible-dx10.vtf,5720,5720
+materials/skybox/sky164up.vmt,85,85
+materials/skybox/sky164up.vtf,4194511,4194511
+materials/skybox/sky164dn.vmt,83,83
+materials/skybox/sky164dn.vtf,4194511,4194511
+materials/skybox/sky164lf.vmt,83,83
+materials/skybox/sky164lf.vtf,4194511,4194511
+materials/skybox/sky164rt.vmt,83,83
+materials/skybox/sky164rt.vtf,4194511,4194511
+materials/skybox/sky164ft.vmt,83,83
+materials/skybox/sky164ft.vtf,4194511,4194511
+materials/skybox/sky164bk.vmt,87,87
+materials/skybox/sky164bk.vtf,4194511,4194511

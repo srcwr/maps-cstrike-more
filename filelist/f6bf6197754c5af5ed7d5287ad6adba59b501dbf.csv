@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/surf_shots_final/tile/tilefloor020a_0_0_0.vmt,128,128
+materials/maps/surf_shots_final/tile/tilefloor016a_0_0_0.vmt,128,128
+materials/maps/surf_shots_final/tile/tilefloor021a_0_0_0.vmt,128,128
+materials/maps/surf_shots_final/metal/citadel_tilefloor016a_0_0_0.vmt,137,137
+materials/maps/surf_shots_final/de_nuke/nukfloora_0_0_0.vmt,127,127
+materials/maps/surf_shots_final/de_nuke/nukwater_movingplane_dx70_depth_6.vmt,119,119
+materials/maps/surf_shots_final/de_nuke/nukwater_movingplane_dx70_depth_192.vmt,121,121
+materials/maps/surf_shots_final/de_nuke/nukwater_movingplane_dx70_depth_25.vmt,120,120
+materials/maps/surf_shots_final/de_nuke/nukwater_movingplane_dx70_depth_29.vmt,120,120
+materials/maps/surf_shots_final/de_nuke/nukwater_movingplane_dx70_depth_126.vmt,121,121
+materials/maps/surf_shots_final/de_nuke/nukwater_movingplane_dx70_depth_4.vmt,119,119
+materials/maps/surf_shots_final/de_nuke/nukwater_movingplane_dx70_depth_7.vmt,119,119
+materials/maps/surf_shots_final/cubemapdefault.vtf,9824,9824
+materials/maps/surf_shots_final/c0_0_0.vtf,9824,9824
+materials/surf_shots/shots.vmt,64,64
+materials/surf_shots/shots.vtf,87544,87544

@@ -1,0 +1,57 @@
+filename,size,compressed
+materials/maps/gg_texture_grounds_v3/cubemapdefault.vtf,9824,9824
+materials/maps/gg_texture_grounds_v3/c816_0_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c1024_591_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c1024_-592_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-496_0_328.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-496_592_328.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-496_-592_328.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-496_-368_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-496_368_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c96_496_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c96_-496_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-1088_-488_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-1088_496_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-1808_0_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-2016_-592_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-2016_592_72.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-1536_520_328.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-1536_-504_328.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c544_-512_328.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c544_512_328.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/c-496_0_-152.vtf,4952,4952
+materials/maps/gg_texture_grounds_v3/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c816_0_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c1024_591_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c1024_-592_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-496_0_328.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-496_592_328.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-496_-592_328.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-496_-368_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-496_368_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c96_496_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c96_-496_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-1088_-488_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-1088_496_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-1808_0_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-2016_-592_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-2016_592_72.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-1536_520_328.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-1536_-504_328.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c544_-512_328.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c544_512_328.hdr.vtf,76520,76520
+materials/maps/gg_texture_grounds_v3/c-496_0_-152.hdr.vtf,76520,76520
+maps/gg_texture_grounds_v3.txt,348,348
+materials/Jack's Textures/TGV3_By.vmt,134,134
+materials/Jack's Textures/TGV3_By.vtf,1398308,1398308
+materials/Jack's Textures/TGV3_CombineGlass.vmt,144,144
+materials/Jack's Textures/TGV3_CTSpawn.vmt,139,139
+materials/Jack's Textures/TGV3_CTSpawn.vtf,1398308,1398308
+materials/Jack's Textures/TGV3_TSpawn.vmt,138,138
+materials/Jack's Textures/TGV3_TSpawn.vtf,1398308,1398308
+materials/overviews/gg_texture_grounds_v3.vmt,168,168
+materials/overviews/gg_texture_grounds_v3.vtf,1048784,1048784
+materials/overviews/gg_texture_grounds_v3_radar.vmt,174,174
+materials/overviews/gg_texture_grounds_v3_radar.vtf,1048784,1048784
+resource/overviews/gg_texture_grounds_v3.txt,361,361
+maps/gg_texture_grounds_v3.nav,300295,300295

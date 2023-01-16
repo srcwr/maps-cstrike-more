@@ -1,0 +1,29 @@
+filename,size,compressed
+materials/maps/surf_canisius/metal/citadel_metalwall072c_0_0_0.vmt,134,134
+materials/maps/surf_canisius/glass/combineglass001a_0_0_0.vmt,129,129
+materials/maps/surf_canisius/glass/unbreakable_0_0_0.vmt,124,124
+materials/maps/surf_canisius/nature/water_canals03_depth_8.vmt,107,107
+materials/maps/surf_canisius/nature/water_canals03_depth_16.vmt,108,108
+materials/maps/surf_canisius/nature/water_canals03_depth_15.vmt,108,108
+materials/maps/surf_canisius/cubemapdefault.vtf,9824,9824
+materials/maps/surf_canisius/c0_0_0.vtf,9824,9824
+materials/COLOR/WHITE.vmt,62,62
+materials/color/white.vtf,11144,11144
+materials/COLOR/DEEP PINK.vmt,67,67
+materials/COLOR/OLIVE DRAB.vmt,67,67
+materials/COLOR/FIREBRICK.vmt,66,66
+materials/color/firebrick.vtf,11144,11144
+materials/skybox/purplebeachup.vmt,97,97
+materials/skybox/purplebeachup.vtf,1398208,1398208
+materials/skybox/purplebeachdn.vmt,97,97
+materials/skybox/purplebeachdn.vtf,1398208,1398208
+materials/skybox/purplebeachft.vmt,97,97
+materials/skybox/purplebeachft.vtf,1398208,1398208
+materials/skybox/purplebeachbk.vmt,97,97
+materials/skybox/purplebeachbk.vtf,1398208,1398208
+materials/skybox/purplebeachlf.vmt,97,97
+materials/skybox/purplebeachlf.vtf,1398208,1398208
+materials/skybox/purplebeachrt.vmt,97,97
+materials/skybox/purplebeachrt.vtf,1398208,1398208
+maps/surf_canisius.nav,45478,45478
+maps/soundcache/surf_canisius.cache,16,16

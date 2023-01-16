@@ -1,0 +1,5 @@
+filename,size,compressed
+materials/maps/surf_conveyor/shadertest/watercheap_opaque_nofresnel_depth_3.vmt,124,124
+materials/maps/surf_conveyor/nature/sewer_waterdarkfog_dx70_depth_5.vmt,116,116
+materials/maps/surf_conveyor/liquids/water_chateau_dx70_depth_3.vmt,112,112
+materials/maps/surf_conveyor/cubemapdefault.vtf,9808,9808

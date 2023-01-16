@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/fy_tropicana_hdr/dev/dev_water5_-410_797_457.vmt,154,154
+materials/maps/fy_tropicana_hdr/dev/dev_water5_-850_485_458.vmt,154,154
+materials/maps/fy_tropicana_hdr/dev/dev_water5_-503_213_457.vmt,154,154
+materials/maps/fy_tropicana_hdr/dev/dev_water5_-163_565_458.vmt,154,154
+materials/maps/fy_tropicana_hdr/shadertest/water_refract_only_-503_213_457.vmt,169,169
+materials/maps/fy_tropicana_hdr/maps/fy_tropicana_hdr/shadertest/water_refract_only_-503_213_457_depth_32.vmt,151,151
+materials/maps/fy_tropicana_hdr/maps/fy_tropicana_hdr/dev/dev_water5_-163_565_458_depth_2.vmt,135,135
+materials/maps/fy_tropicana_hdr/maps/fy_tropicana_hdr/dev/dev_water5_-850_485_458_depth_2.vmt,135,135
+materials/maps/fy_tropicana_hdr/maps/fy_tropicana_hdr/dev/dev_water5_-410_797_457_depth_2.vmt,135,135
+materials/maps/fy_tropicana_hdr/maps/fy_tropicana_hdr/dev/dev_water5_-503_213_457_depth_2.vmt,135,135
+materials/maps/fy_tropicana_hdr/cubemapdefault.vtf,7248,7248
+materials/maps/fy_tropicana_hdr/c-410_797_457.vtf,7248,7248
+materials/maps/fy_tropicana_hdr/c-850_485_458.vtf,7248,7248
+materials/maps/fy_tropicana_hdr/c-503_213_457.vtf,7248,7248
+materials/maps/fy_tropicana_hdr/c-163_565_458.vtf,7248,7248

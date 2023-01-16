@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/gg_biscuitbridge_v1/liquids/infernowater_depth_256.vmt,108,108
+materials/maps/gg_biscuitbridge_v1/cubemapdefault.vtf,9832,9832
+materials/maps/gg_biscuitbridge_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/newwall/dev_measuregreen.vmt,73,73
+materials/newwall/dev_measuregreen.vtf,87588,87588
+materials/newwall/dev_measurepurple.vmt,74,74
+materials/newwall/dev_measurepurple.vtf,87588,87588
+materials/newwall/dev_measurered.vmt,71,71
+materials/newwall/dev_measurered.vtf,87588,87588
+materials/newwall/dev_measurewhite.vmt,73,73
+materials/newwall/dev_measurewhite.vtf,87588,87588

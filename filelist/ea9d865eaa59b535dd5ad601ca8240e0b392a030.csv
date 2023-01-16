@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/surf_mi_arena/nature/water_canals03_0_0_832.vmt,153,153
+materials/maps/surf_mi_arena/nature/water_canals03_0_2560_-2176.vmt,158,158
+materials/maps/surf_mi_arena/nature/water_canals03_0_-2560_-2176.vmt,159,159
+materials/maps/surf_mi_arena/maps/surf_mi_arena/nature/water_canals03_0_-2560_-2176_depth_16.vmt,141,141
+materials/maps/surf_mi_arena/maps/surf_mi_arena/nature/water_canals03_0_0_832_depth_15.vmt,135,135
+materials/maps/surf_mi_arena/maps/surf_mi_arena/nature/water_canals03_0_2560_-2176_depth_16.vmt,140,140
+materials/maps/surf_mi_arena/cubemapdefault.vtf,9824,9824
+materials/maps/surf_mi_arena/c0_0_832.vtf,9824,9824
+materials/maps/surf_mi_arena/c0_2560_-2176.vtf,9824,9824
+materials/maps/surf_mi_arena/c0_-2560_-2176.vtf,9824,9824

@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/aim_deagle_simpicity/dev/dev_water3_depth_32.vmt,101,101
+materials/maps/aim_deagle_simpicity/cubemapdefault.vtf,9824,9824
+materials/skybox/dryup.vmt,83,83
+materials/skybox/dryup.vtf,349632,349632
+materials/skybox/drydn.vmt,83,83
+materials/skybox/drydn.vtf,349632,349632
+materials/skybox/dryft.vmt,83,83
+materials/skybox/dryft.vtf,349632,349632
+materials/skybox/drybk.vmt,83,83
+materials/skybox/drybk.vtf,349632,349632
+materials/skybox/drylf.vmt,83,83
+materials/skybox/drylf.vtf,349632,349632
+materials/skybox/dryrt.vmt,83,83
+materials/skybox/dryrt.vtf,349632,349632
+maps/soundcache/aim_deagle_simpicity.cache,16,16

@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/gg_dec_ggn/cubemapdefault.vtf,9824,9824
+materials/maps/gg_dec_ggn/c0_-464_72.vtf,4952,4952
+materials/maps/gg_dec_ggn/c0_456_72.vtf,4952,4952
+materials/maps/gg_dec_ggn/c-480_0_72.vtf,4952,4952
+materials/maps/gg_dec_ggn/c480_0_72.vtf,4952,4952
+materials/maps/gg_dec_ggn/c0_0_192.vtf,4952,4952
+materials/maps/gg_dec_ggn/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/gg_dec_ggn/c0_-464_72.hdr.vtf,76520,76520
+materials/maps/gg_dec_ggn/c0_456_72.hdr.vtf,76520,76520
+materials/maps/gg_dec_ggn/c-480_0_72.hdr.vtf,76520,76520
+materials/maps/gg_dec_ggn/c480_0_72.hdr.vtf,76520,76520
+materials/maps/gg_dec_ggn/c0_0_192.hdr.vtf,76520,76520
+materials/ggndecal/ggndecal-vogon.vmt,105,105
+materials/ggndecal/ggndecal-vogon.vtf,43912,43912
+maps/soundcache/gg_dec_ggn.cache,16,16

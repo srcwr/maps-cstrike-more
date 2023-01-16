@@ -1,0 +1,30 @@
+filename,size,compressed
+materials/maps/aim_wintermaze_2016_v0/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/aim_wintermaze_2016_v0/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/aim_wintermaze_2016_v0/ground/blendsnow_conc_wvt_patch.vmt,91,91
+materials/maps/aim_wintermaze_2016_v0/cubemapdefault.vtf,9832,9832
+materials/maps/aim_wintermaze_2016_v0/cubemapdefault.hdr.vtf,76528,76528
+detail.vbsp,1013,1013
+resource/overviews/aim_wintermaze_2016_v0.txt,246,246
+models/player/vad36gordon_hd/gordon.mdl,21404,21404
+models/player/vad36gordon_hd/gordon.dx80.vtx,98727,98727
+models/player/vad36gordon_hd/gordon.dx90.vtx,97162,97162
+models/player/vad36gordon_hd/gordon.phy,17336,17336
+models/player/vad36gordon_hd/gordon.sw.vtx,96722,96722
+models/player/vad36gordon_hd/gordon.vvd,363008,363008
+materials/rip hl/rip hl.vmt,125,125
+materials/rip hl/rip hl.vtf,349760,349760
+materials/skybox/snowyhillsbk.vmt,96,96
+materials/skybox/snowyhillsbk.vtf,1398208,1398208
+materials/skybox/snowyhillsdn.vmt,96,96
+materials/skybox/snowyhillsdn.vtf,1398208,1398208
+materials/skybox/snowyhillsft.vmt,96,96
+materials/skybox/snowyhillsft.vtf,1398208,1398208
+materials/skybox/snowyhillslf.vmt,96,96
+materials/skybox/snowyhillslf.vtf,1398208,1398208
+materials/skybox/snowyhillsrt.vmt,96,96
+materials/skybox/snowyhillsrt.vtf,1398208,1398208
+materials/skybox/snowyhillsup.vmt,96,96
+materials/skybox/snowyhillsup.vtf,1398208,1398208
+materials/overviews/aim_wintermaze_2016_v0.vmt,296,296
+materials/overviews/aim_wintermaze_2016_v0.vtf,1398336,1398336

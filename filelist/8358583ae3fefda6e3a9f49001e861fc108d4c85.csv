@@ -1,0 +1,34 @@
+filename,size,compressed
+materials/maps/bhop_aste/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_aste/cubemapdefault.hdr.vtf,76528,76528
+materials/Color/white.vmt,62,62
+materials/Color/white.vtf,11144,11144
+materials/Saspatoon/Carpet/Smooth/SmoothCarpetLightPink.vmt,227,227
+materials/Saspatoon/Carpet/Smooth/SmoothCarpetLightPink.vtf,174984,174984
+materials/devneons/white_neon.vmt,107,107
+materials/devneons/white_neon.vtf,43912,43912
+materials/MAPBYMAX/credits.vmt,64,64
+materials/MAPBYMAX/credits.vtf,349688,349688
+materials/Color/kelly green.vmt,68,68
+materials/Color/kelly green.vtf,11144,11144
+materials/Saspatoon/Carpet/Smooth/SmoothCarpetWhite.vmt,223,223
+materials/Saspatoon/Carpet/Smooth/SmoothCarpetWhite.vtf,174984,174984
+materials/Saspatoon/Carpet/CarpetLightBlue.vmt,216,216
+materials/Saspatoon/Carpet/CarpetLightBlue.vtf,174984,174984
+materials/influx/Saspatoon/Glass/GlassCyan.vmt,227,227
+materials/Saspatoon/Glass/GlassCyan.vtf,349760,349760
+materials/Color/persian red.vmt,68,68
+materials/Color/persian red.vtf,11144,11144
+materials/skybox/frozenup.vmt,92,92
+materials/skybox/frozenup.vtf,1398208,1398208
+materials/skybox/frozendn.vmt,92,92
+materials/skybox/frozendn.vtf,1398208,1398208
+materials/skybox/frozenlf.vmt,92,92
+materials/skybox/frozenlf.vtf,1398208,1398208
+materials/skybox/frozenrt.vmt,92,92
+materials/skybox/frozenrt.vtf,1398208,1398208
+materials/skybox/frozenft.vmt,92,92
+materials/skybox/frozenft.vtf,1398208,1398208
+materials/skybox/frozenbk.vmt,92,92
+materials/skybox/frozenbk.vtf,1398208,1398208
+maps/bhop_aste.nav,205,205

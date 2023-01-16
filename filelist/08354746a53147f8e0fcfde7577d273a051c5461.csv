@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/map7/de_train/blendgrassdirt001a_wvt_patch.vmt,129,129
+materials/maps/map7/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/map7/metal/citadel_metalwall077a_0_-864_1912.vmt,131,131
+materials/maps/map7/de_nuke/nukwater_movingplane_0_-864_1912.vmt,155,155
+materials/maps/map7/glass/combineglass001a_0_-864_1912.vmt,126,126
+materials/maps/map7/dev/dev_water2_0_-864_1912.vmt,141,141
+materials/maps/map7/glass/glasswindow070c_0_-864_1912.vmt,125,125
+materials/maps/map7/maps/map7/de_nuke/nukwater_movingplane_0_-864_1912_depth_24.vmt,137,137
+materials/maps/map7/maps/map7/dev/dev_water2_0_-864_1912_depth_32.vmt,123,123
+materials/maps/map7/cubemapdefault.vtf,28753,28753
+materials/maps/map7/c0_-864_1912.vtf,28753,28753
+materials/maps/map7/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/map7/c0_-864_1912.hdr.vtf,76528,76528

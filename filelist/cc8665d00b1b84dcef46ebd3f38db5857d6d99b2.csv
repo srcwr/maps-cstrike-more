@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/gg_black/glass/unbreakable_-738_3_73.vmt,123,123
+materials/maps/gg_black/glass/unbreakable_732_0_73.vmt,122,122
+materials/maps/gg_black/cubemapdefault.vtf,9824,9824
+materials/maps/gg_black/c-738_3_73.vtf,4952,4952
+materials/maps/gg_black/c732_0_73.vtf,4952,4952
+materials/CUSTOMDEV/DEVGRID_BLACK.vmt,72,72
+materials/customdev/devgrid_black.vtf,174984,174984
+materials/CUSTOMDEV/DEVGRID_LTRED.vmt,72,72
+materials/customdev/devgrid_ltred.vtf,174984,174984
+materials/CUSTOMDEV/DEVGRID_BLUE.vmt,71,71
+materials/customdev/devgrid_blue.vtf,174984,174984
+maps/gg_black.nav,20178,20178
+maps/soundcache/gg_black.cache,16,16

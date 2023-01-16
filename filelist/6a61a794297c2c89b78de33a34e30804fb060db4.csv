@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/kz_bhop_streets/cubemapdefault.vtf,9824,9824
+materials/maps/kz_bhop_streets/cubemapdefault.hdr.vtf,76520,76520
+materials/KC_MAIN/STARTTIMERSIGN.vmt,103,103
+materials/kc_main/starttimersign.vtf,22080,22080
+materials/TIMER_SWT/DIGITS.vmt,236,236
+materials/timer_swt/digits.vtf,55088,55088
+materials/TIMER_SWT/INVALID_TIME.vmt,83,83
+materials/timer_swt/invalid_time.vtf,43904,43904
+maps/soundcache/kz_bhop_streets.cache,16,16

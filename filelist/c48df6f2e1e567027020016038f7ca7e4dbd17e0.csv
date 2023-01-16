@@ -1,0 +1,44 @@
+filename,size,compressed
+materials/BILLBOARD/AMSTAFF_1.vmt,90,90
+materials/billboard/amstaff_1.vtf,87600,87600
+materials/COLOR/AUBURN.vmt,63,63
+materials/color/auburn.vtf,11144,11144
+materials/COLOR/BLACK.vmt,62,62
+materials/color/black.vtf,11144,11144
+materials/COLOR/BLUE.vmt,61,61
+materials/color/blue.vtf,11144,11144
+materials/COLOR/CORAL RED.vmt,66,66
+materials/color/coral red.vtf,11144,11144
+materials/COLOR/NAVAJO WHITE.vmt,69,69
+materials/color/navajo white.vtf,11144,11144
+materials/COLOR/SANDY2.vmt,99,99
+materials/COLOR/SANDYSTONE.vmt,103,103
+materials/FDA/CONCRETE/CONCRETE_01.vmt,123,123
+materials/fda/concrete/concrete_01.vtf,174984,174984
+materials/FDA/PARQUET/PARQUET_03.vmt,157,157
+materials/fda/parquet/parquet_03.vtf,174984,174984
+materials/fda/parquet/parquet_03_normal.vtf,1048783,1048783
+materials/FDA/TILE/TILE_01.vmt,107,107
+materials/fda/tile/tile_01.vtf,174984,174984
+materials/ICECREAMLOCK/LABMETAL.vmt,98,98
+materials/icecreamlock/labmetal.vtf,174984,174984
+materials/ICECREAMLOCK/LABMETDARK.vmt,100,100
+materials/icecreamlock/labmetdark.vtf,174984,174984
+materials/icecreamlock/sandy2.vtf,1398308,1398308
+materials/ICECREAMLOCK/SANDYSTONE.vmt,103,103
+materials/icecreamlock/sandystone.vtf,1398308,1398308
+materials/KIRBY/YELLOW.vmt,60,60
+materials/kirby/yellow.vtf,22052,22052
+materials/maps/cola_11/c0_0_0.vtf,9824,9824
+materials/maps/cola_11/cubemapdefault.vtf,9824,9824
+materials/maps/cola_11/de_piranesi/woodfloor03_0_0_0.vmt,124,124
+materials/maps/cola_11/metal/metalfloor001a_0_0_0.vmt,121,121
+materials/maps/cola_11/metal/metalwall090a_0_0_0.vmt,120,120
+materials/maps/cola_11/models/props/de_nuke/light_red1_glass_on_0_0_0.vmt,141,141
+materials/MEINETEXTUREN/WOFYP.vmt,80,80
+materials/MeineTexturen/wofyp.vtf,87600,87600
+materials/SR/TARGET/TARGET_04.vmt,191,191
+materials/sr/target/target_04.vtf,174984,174984
+materials/sr/target/target_04_normal.vtf,174984,174984
+sound/admin_plugin/kyrbe.wav,3880844,3880844
+sound/admin_plugin/piraten.wav,8643644,8643644

@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/jb_rebel_place_bf/metal/metalceiling005a_994_1451_455.vmt,140,140
+materials/maps/jb_rebel_place_bf/metal/metalceiling005a_4202_-1384_-5.vmt,141,141
+materials/maps/jb_rebel_place_bf/metal/metalwall045a_nobump_994_1451_455.vmt,144,144
+materials/maps/jb_rebel_place_bf/metal/metalwall045a_nobump_4202_-1384_-5.vmt,145,145
+materials/maps/jb_rebel_place_bf/tile/milflr002_4202_-1384_-5.vmt,133,133
+materials/maps/jb_rebel_place_bf/tile/milflr002_994_1451_455.vmt,132,132
+materials/maps/jb_rebel_place_bf/de_dust/tilefloor02_4202_-1384_-5.vmt,138,138
+materials/maps/jb_rebel_place_bf/de_dust/tilefloor02_994_1451_455.vmt,137,137
+materials/maps/jb_rebel_place_bf/models/props/de_nuke/light_red1_glass_994_1451_455.vmt,155,155
+materials/maps/jb_rebel_place_bf/models/props/de_nuke/light_red1_glass_4202_-1384_-5.vmt,156,156
+materials/maps/jb_rebel_place_bf/concrete/concretefloor019a_c17_994_1451_455.vmt,187,187
+materials/maps/jb_rebel_place_bf/concrete/concretefloor019a_c17_4202_-1384_-5.vmt,188,188
+materials/maps/jb_rebel_place_bf/glass/glasswindow070c_994_1451_455.vmt,139,139
+materials/maps/jb_rebel_place_bf/glass/glasswindow070c_4202_-1384_-5.vmt,140,140
+materials/maps/jb_rebel_place_bf/glass/glasswindowbreak070b_994_1451_455.vmt,114,114
+materials/maps/jb_rebel_place_bf/glass/offwndwb_994_1451_455.vmt,218,218
+materials/maps/jb_rebel_place_bf/de_nuke/nukwater_movingplane_994_1451_455.vmt,169,169
+materials/maps/jb_rebel_place_bf/glass/unbreakable_994_1451_455.vmt,135,135
+materials/maps/jb_rebel_place_bf/glass/unbreakable_4202_-1384_-5.vmt,136,136
+materials/maps/jb_rebel_place_bf/de_nuke/nukwater_movingplane_4202_-1384_-5.vmt,170,170
+materials/maps/jb_rebel_place_bf/de_nuke/nuke_metaldoor_01_994_1451_455.vmt,143,143
+materials/maps/jb_rebel_place_bf/de_nuke/nuke_metaldoor_01_4202_-1384_-5.vmt,144,144
+materials/maps/jb_rebel_place_bf/maps/jb_rebel_place_bf/de_nuke/nukwater_movingplane_994_1451_455_depth_12.vmt,151,151
+materials/maps/jb_rebel_place_bf/de_nuke/nukwater_movingplane_dx70_depth_12.vmt,120,120
+materials/maps/jb_rebel_place_bf/nature/water_movingplane_beneath_depth_16.vmt,119,119
+materials/maps/jb_rebel_place_bf/maps/jb_rebel_place_bf/de_nuke/nukwater_movingplane_4202_-1384_-5_depth_590.vmt,153,153
+materials/maps/jb_rebel_place_bf/cubemapdefault.vtf,9824,9824
+materials/maps/jb_rebel_place_bf/c994_1451_455.vtf,9824,9824
+materials/maps/jb_rebel_place_bf/c4202_-1384_-5.vtf,9824,9824
+materials/maps/jb_rebel_place_bf/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/jb_rebel_place_bf/c994_1451_455.hdr.vtf,76520,76520
+materials/maps/jb_rebel_place_bf/c4202_-1384_-5.hdr.vtf,76520,76520
+sound/Bomba songs/4-kid-cudi-vs-crookers-day-n-night-crookers-remix.mp3,5086345,5086345
+sound/Bomba songs/DJ_Antoine_-_This_Time_%28Klaas_Remix%29.mp3,4914357,4914357
+sound/Bomba songs/Fedde le Grand - Put your Hands up for Detroit.mp3,3439677,3439677

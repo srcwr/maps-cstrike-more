@@ -1,0 +1,40 @@
+filename,size,compressed
+materials/maps/ba_jail_gamers_prison/concrete/concretefloor005a_-964_2124_-119.vmt,150,150
+materials/maps/ba_jail_gamers_prison/concrete/concretefloor005a_611_2844_89.vmt,147,147
+materials/maps/ba_jail_gamers_prison/concrete/concretefloor005a_899_2826_-215.vmt,149,149
+materials/maps/ba_jail_gamers_prison/glass/glasswindow017a_-964_2124_-119.vmt,145,145
+materials/maps/ba_jail_gamers_prison/glass/glasswindow017a_611_2844_89.vmt,142,142
+materials/maps/ba_jail_gamers_prison/models/props_trainstation/trainstation_clock_glass001_-964_2124_-119.vmt,177,177
+materials/maps/ba_jail_gamers_prison/metal/citadel_metalwall076a_-964_2124_-119.vmt,151,151
+materials/maps/ba_jail_gamers_prison/metal/citadel_metalwall076a_611_2844_89.vmt,148,148
+materials/maps/ba_jail_gamers_prison/metal/citadel_metalwall076a_899_2826_-215.vmt,150,150
+materials/maps/ba_jail_gamers_prison/de_piranesi/woodfloor01_-964_2124_-119.vmt,147,147
+materials/maps/ba_jail_gamers_prison/de_piranesi/woodfloor01_611_2844_89.vmt,144,144
+materials/maps/ba_jail_gamers_prison/tile/tilefloor012a_-964_2124_-119.vmt,142,142
+materials/maps/ba_jail_gamers_prison/tile/tilefloor012a_611_2844_89.vmt,139,139
+materials/maps/ba_jail_gamers_prison/tile/tilefloor012a_899_2826_-215.vmt,141,141
+materials/maps/ba_jail_gamers_prison/glass/glasswindowbreak070b_899_2826_-215.vmt,114,114
+materials/maps/ba_jail_gamers_prison/glass/offwndwb_899_2826_-215.vmt,228,228
+materials/maps/ba_jail_gamers_prison/glass/glasswindowbreak070b_1183_2862_89.vmt,114,114
+materials/maps/ba_jail_gamers_prison/glass/offwndwb_1183_2862_89.vmt,226,226
+materials/maps/ba_jail_gamers_prison/glass/glasswindowbreak070b_-964_2124_-119.vmt,114,114
+materials/maps/ba_jail_gamers_prison/glass/offwndwb_-964_2124_-119.vmt,230,230
+materials/maps/ba_jail_gamers_prison/glass/glasswindow070c_611_2844_89.vmt,142,142
+materials/maps/ba_jail_gamers_prison/glass/glasswindow070c_1183_2862_89.vmt,143,143
+materials/maps/ba_jail_gamers_prison/glass/glasswindow070c_899_2826_-215.vmt,144,144
+materials/maps/ba_jail_gamers_prison/glass/offwndwc_-964_2124_-119.vmt,138,138
+materials/maps/ba_jail_gamers_prison/glass/offwndwc_611_2844_89.vmt,135,135
+materials/maps/ba_jail_gamers_prison/liquids/militiawater_dx70_beneath_depth_156.vmt,121,121
+materials/maps/ba_jail_gamers_prison/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_gamers_prison/c-964_2124_-119.vtf,9824,9824
+materials/maps/ba_jail_gamers_prison/c611_2844_89.vtf,9824,9824
+materials/maps/ba_jail_gamers_prison/c899_2826_-215.vtf,9824,9824
+materials/maps/ba_jail_gamers_prison/c1183_2862_89.vtf,9824,9824
+materials/maps/ba_jail_gamers_prison/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/ba_jail_gamers_prison/c-964_2124_-119.hdr.vtf,76520,76520
+materials/maps/ba_jail_gamers_prison/c611_2844_89.hdr.vtf,76520,76520
+materials/maps/ba_jail_gamers_prison/c899_2826_-215.hdr.vtf,76520,76520
+materials/maps/ba_jail_gamers_prison/c1183_2862_89.hdr.vtf,76520,76520
+sound/Bomba songs/Akon.mp3,3897083,3897083
+sound/Bomba songs/DJ_Antoine_-_This_Time_%28Klaas_Remix%29.mp3,4909853,4909853
+sound/Bomba songs/Follow.mp3,6026115,6026115

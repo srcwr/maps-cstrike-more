@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/CUSTOMS/CASTLE.vmt,62,62
+materials/customs/castle.vtf,174984,174984
+materials/maps/fy_castle_simple_test47/c-64_736_-432.hdr.vtf,76520,76520
+materials/maps/fy_castle_simple_test47/c-64_736_-432.vtf,9824,9824
+materials/maps/fy_castle_simple_test47/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/fy_castle_simple_test47/cubemapdefault.vtf,9824,9824
+materials/maps/fy_castle_simple_test47/nature/water_lowdirty001_dx70_depth_30.vmt,116,116
+materials/overviews/aim_ag_texture_castle.vmt,148,148
+materials/overviews/aim_ag_texture_castle.vtf,1398336,1398336
+materials/overviews/aim_ag_texture_castle_radar.vmt,154,154
+materials/overviews/aim_ag_texture_castle_radar.vtf,1398336,1398336
+resource/overviews/aim_ag_texture_castle.txt,192,192

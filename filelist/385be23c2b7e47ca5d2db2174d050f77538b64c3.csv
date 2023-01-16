@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/de/glass/glasswindowbreak070b_512_704_128.vmt,114,114
+materials/maps/de/glass/offwndwb_512_704_128.vmt,186,186
+materials/maps/de/glass/glasswindowbreak070b_2816_1280_192.vmt,114,114
+materials/maps/de/glass/offwndwb_2816_1280_192.vmt,190,190
+materials/maps/de/dev/dev_water2_2816_1280_192.vmt,141,141
+materials/maps/de/maps/de/dev/dev_water2_2816_1280_192_depth_293.vmt,124,124
+materials/maps/de/cubemapdefault.vtf,9824,9824
+materials/maps/de/c512_704_128.vtf,9824,9824
+materials/maps/de/c2816_1280_192.vtf,9824,9824

@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/test/liquids/water_pretty1_depth_32.vmt,108,108
+materials/maps/test/cubemapdefault.vtf,9832,9832
+materials/maps/test/cubemapdefault.hdr.vtf,76528,76528
+materials/liquids/water_pretty1.vmt,1255,1255
+materials/dev/dev_flatui_belizehole.vmt,141,141
+materials/dev/dev_flatui_belizehole.vtf,87588,87588
+materials/Benchmarked/platformblue.vmt,72,72
+materials/Benchmarked/platformblue.vtf,349760,349760
+materials/Benchmarked/platformwhite.vmt,73,73
+materials/Benchmarked/platformwhite.vtf,349760,349760
+materials/dev/dev_flatui_concrete.vmt,139,139
+materials/dev/dev_flatui_concrete.vtf,87588,87588
+materials/ryan_dev/dark_blue1.vmt,67,67
+materials/ryan_dev/dark_blue1.vtf,11144,11144
+materials/Benchmarked/platformpurple.vmt,74,74
+materials/Benchmarked/platformpurple.vtf,174984,174984

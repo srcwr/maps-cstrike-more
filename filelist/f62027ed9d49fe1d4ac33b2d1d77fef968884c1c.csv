@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/fy_hiddenwaters_v2_d/dev/dev_water2_108_-226_-287.vmt,159,159
+materials/maps/fy_hiddenwaters_v2_d/glass/combineglass001a_13_-1472_-952.vmt,144,144
+materials/maps/fy_hiddenwaters_v2_d/glass/combineglass001a_108_-226_-287.vmt,144,144
+materials/maps/fy_hiddenwaters_v2_d/maps/fy_hiddenwaters_v2_d/dev/dev_water2_108_-226_-287_depth_266.vmt,142,142
+materials/maps/fy_hiddenwaters_v2_d/nature/sewer_water001_bottom_depth_17694.vmt,118,118
+materials/maps/fy_hiddenwaters_v2_d/cubemapdefault.vtf,9832,9832
+materials/maps/fy_hiddenwaters_v2_d/c108_-226_-287.vtf,9832,9832
+materials/maps/fy_hiddenwaters_v2_d/c13_-1472_-952.vtf,9832,9832
+materials/maps/fy_hiddenwaters_v2_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/fy_hiddenwaters_v2_d/c108_-226_-287.hdr.vtf,76528,76528
+materials/maps/fy_hiddenwaters_v2_d/c13_-1472_-952.hdr.vtf,76528,76528
+materials/maps/fy_watercombat_v1/c13_-1472_-952.hdr.vtf,76536,76536
+materials/maps/fy_watercombat_v1/c108_-226_-287.hdr.vtf,4856,4856
+materials/maps/fy_watercombat_v1/cubemapdefault.vtf,9832,9832

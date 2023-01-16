@@ -1,0 +1,2548 @@
+filename,size,compressed
+materials/maps/grovestreetfinalocdcamethrueasily2/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/grovestreetfinalocdcamethrueasily2/effects/offgaragedr_1934_-577_18.vmt,154,154
+materials/maps/grovestreetfinalocdcamethrueasily2/handel_server/clan_handel_bump_1934_-577_18.vmt,165,165
+materials/maps/grovestreetfinalocdcamethrueasily2/wood/wooddoor032a_1934_-577_18.vmt,152,152
+materials/maps/grovestreetfinalocdcamethrueasily2/cubemapdefault.vtf,9832,9832
+materials/maps/grovestreetfinalocdcamethrueasily2/c1934_-577_18.vtf,4968,4968
+materials/maps/grovestreetfinalocdcamethrueasily2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/grovestreetfinalocdcamethrueasily2/c1934_-577_18.hdr.vtf,76528,76528
+materials/GROVESTREETGTASA/MATERIAL__466.vmt,64,64
+materials/GROVESTREETTEST/MATERIAL__263.vmt,63,63
+materials/GROVESTREETTEST/MATERIAL__287.vmt,63,63
+materials/GROVESTREETTEST/MATERIAL__299.vmt,64,64
+materials/GROVESTREETFINAL/MATERIAL__1898.vmt,65,65
+materials/GROVESTREETGTASA/MATERIAL__1898.vmt,65,65
+materials/GROVESTREETGTASA/MATERIAL__2659.vmt,66,66
+materials/GROVESTREETGTASA/MATERIAL__299.vmt,64,64
+materials/GROVESTREETGTASA/MATERIAL__2198.vmt,65,65
+materials/GROVES/MATERIAL__348.vmt,63,63
+materials/GROVES/MATERIAL__636.vmt,64,64
+materials/GROVES/MATERIAL__263.vmt,63,63
+materials/GROVESTREETGTASA/MATERIAL__287.vmt,63,63
+materials/GROVESTREETTEST/MATERIAL__466.vmt,64,64
+materials/GROVES/MATERIAL__612.vmt,64,64
+materials/GROVES/MATERIAL__658.vmt,63,63
+materials/GROVES/MATERIAL__564.vmt,63,63
+materials/GROVESTREETFINAL/MATERIAL__3170.vmt,66,66
+materials/GTASAS/MATERIAL__406.vmt,64,64
+materials/GROVESTREETFINAL/MATERIAL__564.vmt,63,63
+materials/GROVESTREETGTASA/MATERIAL__1910.vmt,65,65
+materials/GROVESTREETGTASA/MATERIAL__670.vmt,64,64
+materials/GROVESTREETGTASA/MATERIAL__2956.vmt,66,66
+materials/GROVES/MATERIAL__577.vmt,64,64
+materials/GROVES/MATERIAL__239.vmt,63,63
+materials/GROVESTREETGTASA/MATERIAL__3050.vmt,66,66
+materials/GROVESTREETGTASA/MATERIAL__1014.vmt,64,64
+materials/GROVESTREETGTASA/MATERIAL__2246.vmt,65,65
+materials/GROVESTREETGTASA/MATERIAL__3004.vmt,66,66
+materials/GROVESTREETTEST/MATERIAL__348.vmt,63,63
+materials/GROVESTREETGTASA/MATERIAL__2292.vmt,65,65
+materials/GROVESTREETGTASA/MATERIAL__970.vmt,64,64
+materials/GROVESTREETGTASA/MATERIAL__816.vmt,64,64
+materials/GROVESTREETGTASA/MATERIAL__838.vmt,64,64
+materials/GROVESTREETGTASA/MATERIAL__1389.vmt,64,64
+materials/GROVESTREETGTASA/MATERIAL__1839.vmt,65,65
+materials/GROVESTREETGTASA/MATERIAL__275.vmt,63,63
+materials/GROVESTREETTEST/MATERIAL__454.vmt,64,64
+materials/GROVESTREETGTASA/MATERIAL__1659.vmt,65,65
+materials/GROVESTREETGTASA/MATERIAL__2358.vmt,65,65
+materials/GROVES/MATERIAL__478.vmt,63,63
+materials/GROVESTREETGTASA/MATERIAL__1058.vmt,64,64
+materials/GROVESTREETFINAL/MATERIAL__2292.vmt,65,65
+materials/GROVESTREETGTASA/MATERIAL__2705.vmt,66,66
+materials/GROVES/MATERIAL__704.vmt,64,64
+materials/GROVESTREETFINAL/MATERIAL__1982.vmt,65,65
+materials/GROVESTREETFINAL/MATERIAL__2489.vmt,66,66
+materials/GROVES/MATERIAL__624.vmt,64,64
+materials/HANDEL_SERVER/CLAN_HANDEL_BUMP.vmt,158,158
+materials/handel_server/clan_handel.vtf,174984,174984
+materials/handel_server/clan_handel_nrm.vtf,349760,349760
+models/grovestreetgtasa/lae2_roads89.mdl,2560,2560
+models/grovestreetgtasa/lae2_roads89.dx80.vtx,2655,2655
+models/grovestreetgtasa/lae2_roads89.dx90.vtx,2655,2655
+models/grovestreetgtasa/lae2_roads89.sw.vtx,2655,2655
+models/grovestreetgtasa/lae2_roads89.vvd,10176,10176
+models/grovestreetgtasa/lae2_landhub03.mdl,2956,2956
+models/grovestreetgtasa/lae2_landhub03.dx80.vtx,4974,4974
+models/grovestreetgtasa/lae2_landhub03.dx90.vtx,4974,4974
+models/grovestreetgtasa/lae2_landhub03.sw.vtx,4974,4974
+models/grovestreetgtasa/lae2_landhub03.vvd,21888,21888
+models/grovestreetgtasa/lae2_landhub04.mdl,3540,3540
+models/grovestreetgtasa/lae2_landhub04.dx80.vtx,5643,5643
+models/grovestreetgtasa/lae2_landhub04.dx90.vtx,5643,5643
+models/grovestreetgtasa/lae2_landhub04.sw.vtx,5643,5643
+models/grovestreetgtasa/lae2_landhub04.vvd,24064,24064
+models/grovestreetgtasa/lae2_landhub05.mdl,2364,2364
+models/grovestreetgtasa/lae2_landhub05.dx80.vtx,5565,5565
+models/grovestreetgtasa/lae2_landhub05.dx90.vtx,5565,5565
+models/grovestreetgtasa/lae2_landhub05.sw.vtx,5565,5565
+models/grovestreetgtasa/lae2_landhub05.vvd,25600,25600
+models/grovestreetgtasa/hub_grass3.mdl,1964,1964
+models/grovestreetgtasa/hub_grass3.dx80.vtx,543,543
+models/grovestreetgtasa/hub_grass3.dx90.vtx,543,543
+models/grovestreetgtasa/hub_grass3.sw.vtx,543,543
+models/grovestreetgtasa/hub_grass3.vvd,1792,1792
+models/grovestreetgtasa/lae2_roads04.mdl,2168,2168
+models/grovestreetgtasa/lae2_roads04.dx80.vtx,2424,2424
+models/grovestreetgtasa/lae2_roads04.dx90.vtx,2424,2424
+models/grovestreetgtasa/lae2_roads04.sw.vtx,2424,2424
+models/grovestreetgtasa/lae2_roads04.vvd,11008,11008
+models/grovestreetgtasa/market1_lae.mdl,5508,5508
+models/grovestreetgtasa/market1_lae.dx80.vtx,16653,16653
+models/grovestreetgtasa/market1_lae.dx90.vtx,16653,16653
+models/grovestreetgtasa/market1_lae.sw.vtx,16653,16653
+models/grovestreetgtasa/market1_lae.vvd,79488,79488
+models/grovestreetgtasa/market2_lae.mdl,4140,4140
+models/grovestreetgtasa/market2_lae.dx80.vtx,7212,7212
+models/grovestreetgtasa/market2_lae.dx90.vtx,7212,7212
+models/grovestreetgtasa/market2_lae.sw.vtx,7212,7212
+models/grovestreetgtasa/market2_lae.vvd,31360,31360
+models/grovestreetgtasa/rydhou01_lae2.mdl,2760,2760
+models/grovestreetgtasa/rydhou01_lae2.dx80.vtx,8049,8049
+models/grovestreetgtasa/rydhou01_lae2.dx90.vtx,8049,8049
+models/grovestreetgtasa/rydhou01_lae2.sw.vtx,8049,8049
+models/grovestreetgtasa/rydhou01_lae2.vvd,37120,37120
+models/grovestreetgtasa/carlshou1_lae2.mdl,3752,3752
+models/grovestreetgtasa/carlshou1_lae2.dx80.vtx,11427,11427
+models/grovestreetgtasa/carlshou1_lae2.dx90.vtx,11427,11427
+models/grovestreetgtasa/carlshou1_lae2.sw.vtx,11427,11427
+models/grovestreetgtasa/carlshou1_lae2.vvd,53696,53696
+models/grovestreetgtasa/pawnshp_lae2.mdl,3548,3548
+models/grovestreetgtasa/pawnshp_lae2.dx80.vtx,4902,4902
+models/grovestreetgtasa/pawnshp_lae2.dx90.vtx,4902,4902
+models/grovestreetgtasa/pawnshp_lae2.sw.vtx,4902,4902
+models/grovestreetgtasa/pawnshp_lae2.vvd,21440,21440
+models/grovestreetgtasa/lae2_roads50.mdl,2364,2364
+models/grovestreetgtasa/lae2_roads50.dx80.vtx,4149,4149
+models/grovestreetgtasa/lae2_roads50.dx90.vtx,4149,4149
+models/grovestreetgtasa/lae2_roads50.sw.vtx,4149,4149
+models/grovestreetgtasa/lae2_roads50.vvd,19200,19200
+models/grovestreetgtasa/hub5_grass.mdl,1772,1772
+models/grovestreetgtasa/hub5_grass.dx80.vtx,339,339
+models/grovestreetgtasa/hub5_grass.dx90.vtx,339,339
+models/grovestreetgtasa/hub5_grass.sw.vtx,339,339
+models/grovestreetgtasa/hub5_grass.vvd,960,960
+models/grovestreetgtasa/ganghous05_lax.mdl,3552,3552
+models/grovestreetgtasa/ganghous05_lax.dx80.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax.dx90.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax.sw.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax.vvd,52992,52992
+models/grovestreetgtasa/compfukhouse3.mdl,2760,2760
+models/grovestreetgtasa/compfukhouse3.dx80.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse3.dx90.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse3.sw.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse3.vvd,25216,25216
+models/grovestreetgtasa/ganghous05_lax001.mdl,3556,3556
+models/grovestreetgtasa/ganghous05_lax001.dx80.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax001.dx90.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax001.sw.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax001.vvd,52992,52992
+models/grovestreetgtasa/compfukhouse004.mdl,2764,2764
+models/grovestreetgtasa/compfukhouse004.dx80.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse004.dx90.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse004.sw.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse004.vvd,25216,25216
+models/grovestreetgtasa/mcstraps_lae2.mdl,3356,3356
+models/grovestreetgtasa/mcstraps_lae2.dx80.vtx,17376,17376
+models/grovestreetgtasa/mcstraps_lae2.dx90.vtx,17376,17376
+models/grovestreetgtasa/mcstraps_lae2.sw.vtx,17376,17376
+models/grovestreetgtasa/mcstraps_lae2.vvd,84224,84224
+models/grovestreetgtasa/compmedhos3_lae.mdl,2964,2964
+models/grovestreetgtasa/compmedhos3_lae.dx80.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae.dx90.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae.sw.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae.vvd,9536,9536
+models/grovestreetgtasa/ganghous05_lax002.mdl,3556,3556
+models/grovestreetgtasa/ganghous05_lax002.dx80.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax002.dx90.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax002.sw.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax002.vvd,52992,52992
+models/grovestreetgtasa/compmedhos3_lae001.mdl,2972,2972
+models/grovestreetgtasa/compmedhos3_lae001.dx80.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae001.dx90.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae001.sw.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae001.vvd,9536,9536
+models/grovestreetgtasa/ganghous05_lax003.mdl,3556,3556
+models/grovestreetgtasa/ganghous05_lax003.dx80.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax003.dx90.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax003.sw.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax003.vvd,52992,52992
+models/grovestreetgtasa/compfukhouse005.mdl,2764,2764
+models/grovestreetgtasa/compfukhouse005.dx80.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse005.dx90.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse005.sw.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse005.vvd,25216,25216
+models/grovestreetgtasa/lae2_roads17.mdl,2644,2644
+models/grovestreetgtasa/lae2_roads17.dx80.vtx,2562,2562
+models/grovestreetgtasa/lae2_roads17.dx90.vtx,2562,2562
+models/grovestreetgtasa/lae2_roads17.sw.vtx,2562,2562
+models/grovestreetgtasa/lae2_roads17.vvd,10624,10624
+models/grovestreetgtasa/lae2_roads88.mdl,2564,2564
+models/grovestreetgtasa/lae2_roads88.dx80.vtx,3687,3687
+models/grovestreetgtasa/lae2_roads88.dx90.vtx,3687,3687
+models/grovestreetgtasa/lae2_roads88.sw.vtx,3687,3687
+models/grovestreetgtasa/lae2_roads88.vvd,17472,17472
+models/grovestreetgtasa/ganghous05_lax004.mdl,3556,3556
+models/grovestreetgtasa/ganghous05_lax004.dx80.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax004.dx90.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax004.sw.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax004.vvd,52992,52992
+models/grovestreetgtasa/compmedhos3_lae002.mdl,2972,2972
+models/grovestreetgtasa/compmedhos3_lae002.dx80.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae002.dx90.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae002.sw.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae002.vvd,9536,9536
+models/grovestreetgtasa/compmedhos3_lae003.mdl,2972,2972
+models/grovestreetgtasa/compmedhos3_lae003.dx80.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae003.dx90.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae003.sw.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae003.vvd,9536,9536
+models/grovestreetgtasa/compfukhouse006.mdl,2764,2764
+models/grovestreetgtasa/compfukhouse006.dx80.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse006.dx90.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse006.sw.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse006.vvd,25216,25216
+models/grovestreetgtasa/ganghous05_lax005.mdl,3556,3556
+models/grovestreetgtasa/ganghous05_lax005.dx80.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax005.dx90.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax005.sw.vtx,11337,11337
+models/grovestreetgtasa/ganghous05_lax005.vvd,52992,52992
+models/lods/lod1roads07_lae002.mdl,1760,1760
+models/lods/lod1roads07_lae002.dx80.vtx,744,744
+models/lods/lod1roads07_lae002.dx90.vtx,744,744
+models/lods/lod1roads07_lae002.sw.vtx,744,744
+models/lods/lod1roads07_lae002.vvd,3072,3072
+models/lods/lod1stormdrai5_lae002.mdl,1764,1764
+models/lods/lod1stormdrai5_lae002.dx80.vtx,1539,1539
+models/lods/lod1stormdrai5_lae002.dx90.vtx,1539,1539
+models/lods/lod1stormdrai5_lae002.sw.vtx,1539,1539
+models/lods/lod1stormdrai5_lae002.vvd,7104,7104
+models/lods/lod1roads07_lae004.mdl,1760,1760
+models/lods/lod1roads07_lae004.dx80.vtx,744,744
+models/lods/lod1roads07_lae004.dx90.vtx,744,744
+models/lods/lod1roads07_lae004.sw.vtx,744,744
+models/lods/lod1roads07_lae004.vvd,3072,3072
+models/lods/lodgwforum1_lae.mdl,1752,1752
+models/lods/lodgwforum1_lae.dx80.vtx,15231,15231
+models/lods/lodgwforum1_lae.dx90.vtx,15231,15231
+models/lods/lodgwforum1_lae.sw.vtx,15231,15231
+models/lods/lodgwforum1_lae.vvd,75968,75968
+models/lods/lod1stormdrai5_lae001.mdl,1764,1764
+models/lods/lod1stormdrai5_lae001.dx80.vtx,1539,1539
+models/lods/lod1stormdrai5_lae001.dx90.vtx,1539,1539
+models/lods/lod1stormdrai5_lae001.sw.vtx,1539,1539
+models/lods/lod1stormdrai5_lae001.vvd,7104,7104
+models/lods/lod1roads07_lae005.mdl,1760,1760
+models/lods/lod1roads07_lae005.dx80.vtx,744,744
+models/lods/lod1roads07_lae005.dx90.vtx,744,744
+models/lods/lod1roads07_lae005.sw.vtx,744,744
+models/lods/lod1roads07_lae005.vvd,3072,3072
+models/lods/lod1stormdrai5_lae.mdl,1760,1760
+models/lods/lod1stormdrai5_lae.dx80.vtx,1539,1539
+models/lods/lod1stormdrai5_lae.dx90.vtx,1539,1539
+models/lods/lod1stormdrai5_lae.sw.vtx,1539,1539
+models/lods/lod1stormdrai5_lae.vvd,7104,7104
+models/lods/lod1roads07_lae003.mdl,1760,1760
+models/lods/lod1roads07_lae003.dx80.vtx,744,744
+models/lods/lod1roads07_lae003.dx90.vtx,744,744
+models/lods/lod1roads07_lae003.sw.vtx,744,744
+models/lods/lod1roads07_lae003.vvd,3072,3072
+models/lods/lod1roads07_lae01.mdl,1756,1756
+models/lods/lod1roads07_lae01.dx80.vtx,744,744
+models/lods/lod1roads07_lae01.dx90.vtx,744,744
+models/lods/lod1roads07_lae01.sw.vtx,744,744
+models/lods/lod1roads07_lae01.vvd,3072,3072
+models/grovestreetgtasa/rydbkyar1_lae2.mdl,1972,1972
+models/grovestreetgtasa/rydbkyar1_lae2.dx80.vtx,1083,1083
+models/grovestreetgtasa/rydbkyar1_lae2.dx90.vtx,1083,1083
+models/grovestreetgtasa/rydbkyar1_lae2.sw.vtx,1083,1083
+models/grovestreetgtasa/rydbkyar1_lae2.vvd,4608,4608
+models/propsgtasa/bskballhub_lax01.mdl,2556,2556
+models/propsgtasa/bskballhub_lax01.dx80.vtx,3270,3270
+models/propsgtasa/bskballhub_lax01.dx90.vtx,3270,3270
+models/propsgtasa/bskballhub_lax01.sw.vtx,3270,3270
+models/propsgtasa/bskballhub_lax01.phy,1510,1510
+models/propsgtasa/bskballhub_lax01.vvd,14464,14464
+models/propsgtasa/la_fuckcar1.mdl,2544,2544
+models/propsgtasa/la_fuckcar1.dx80.vtx,9078,9078
+models/propsgtasa/la_fuckcar1.dx90.vtx,9078,9078
+models/propsgtasa/la_fuckcar1.sw.vtx,9078,9078
+models/propsgtasa/la_fuckcar1.phy,4290,4290
+models/propsgtasa/la_fuckcar1.vvd,43008,43008
+models/propsgtasa/la_fuckcar002.mdl,2548,2548
+models/propsgtasa/la_fuckcar002.dx80.vtx,9078,9078
+models/propsgtasa/la_fuckcar002.dx90.vtx,9078,9078
+models/propsgtasa/la_fuckcar002.sw.vtx,9078,9078
+models/propsgtasa/la_fuckcar002.phy,4292,4292
+models/propsgtasa/la_fuckcar002.vvd,43008,43008
+models/propsgtasa/la_fuckcar003.mdl,2548,2548
+models/propsgtasa/la_fuckcar003.dx80.vtx,9078,9078
+models/propsgtasa/la_fuckcar003.dx90.vtx,9078,9078
+models/propsgtasa/la_fuckcar003.sw.vtx,9078,9078
+models/propsgtasa/la_fuckcar003.phy,4340,4340
+models/propsgtasa/la_fuckcar003.vvd,43008,43008
+models/propsgtasa/lamppost3_l0.mdl,2152,2152
+models/propsgtasa/lamppost3_l0.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l0.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l0.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l0.phy,1265,1265
+models/propsgtasa/lamppost3_l0.vvd,4928,4928
+models/propsgtasa/lamppost3_l001.mdl,2156,2156
+models/propsgtasa/lamppost3_l001.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l001.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l001.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l001.phy,1267,1267
+models/propsgtasa/lamppost3_l001.vvd,4928,4928
+models/propsgtasa/lamppost3_l002.mdl,2156,2156
+models/propsgtasa/lamppost3_l002.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l002.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l002.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l002.phy,1219,1219
+models/propsgtasa/lamppost3_l002.vvd,4928,4928
+models/propsgtasa/lamppost3_l003.mdl,2156,2156
+models/propsgtasa/lamppost3_l003.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l003.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l003.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l003.phy,1219,1219
+models/propsgtasa/lamppost3_l003.vvd,4928,4928
+models/propsgtasa/lamppost3_l004.mdl,2156,2156
+models/propsgtasa/lamppost3_l004.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l004.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l004.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l004.phy,1267,1267
+models/propsgtasa/lamppost3_l004.vvd,4928,4928
+models/propsgtasa/lamppost3_l005.mdl,2156,2156
+models/propsgtasa/lamppost3_l005.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l005.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l005.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l005.phy,1267,1267
+models/propsgtasa/lamppost3_l005.vvd,4928,4928
+models/propsgtasa/lamppost3_l006.mdl,2156,2156
+models/propsgtasa/lamppost3_l006.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l006.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l006.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l006.phy,1267,1267
+models/propsgtasa/lamppost3_l006.vvd,4928,4928
+models/propsgtasa/lamppost3_l007.mdl,2156,2156
+models/propsgtasa/lamppost3_l007.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l007.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l007.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l007.phy,1267,1267
+models/propsgtasa/lamppost3_l007.vvd,4928,4928
+models/propsgtasa/lamppost3_l008.mdl,2156,2156
+models/propsgtasa/lamppost3_l008.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l008.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l008.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l008.phy,1267,1267
+models/propsgtasa/lamppost3_l008.vvd,4928,4928
+models/propsgtasa/lamppost3_l009.mdl,2156,2156
+models/propsgtasa/lamppost3_l009.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l009.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l009.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l009.phy,1315,1315
+models/propsgtasa/lamppost3_l009.vvd,4928,4928
+models/propsgtasa/lamppost3_l010.mdl,2156,2156
+models/propsgtasa/lamppost3_l010.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l010.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l010.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l010.phy,1267,1267
+models/propsgtasa/lamppost3_l010.vvd,4928,4928
+models/propsgtasa/lamppost3_l011.mdl,2156,2156
+models/propsgtasa/lamppost3_l011.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l011.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l011.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l011.phy,1219,1219
+models/propsgtasa/lamppost3_l011.vvd,4928,4928
+models/propsgtasa/lamppost3_l012.mdl,2156,2156
+models/propsgtasa/lamppost3_l012.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l012.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l012.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l012.phy,1267,1267
+models/propsgtasa/lamppost3_l012.vvd,4928,4928
+models/propsgtasa/la_fuckcar004.mdl,2548,2548
+models/propsgtasa/la_fuckcar004.dx80.vtx,9078,9078
+models/propsgtasa/la_fuckcar004.dx90.vtx,9078,9078
+models/propsgtasa/la_fuckcar004.sw.vtx,9078,9078
+models/propsgtasa/la_fuckcar004.phy,4292,4292
+models/propsgtasa/la_fuckcar004.vvd,43008,43008
+models/propsgtasa/trafficlight1_l0.mdl,2556,2556
+models/propsgtasa/trafficlight1_l0.dx80.vtx,6261,6261
+models/propsgtasa/trafficlight1_l0.dx90.vtx,6261,6261
+models/propsgtasa/trafficlight1_l0.sw.vtx,6261,6261
+models/propsgtasa/trafficlight1_l0.phy,1895,1895
+models/propsgtasa/trafficlight1_l0.vvd,31296,31296
+models/propsgtasa/trafficlight1_l001.mdl,2560,2560
+models/propsgtasa/trafficlight1_l001.dx80.vtx,6261,6261
+models/propsgtasa/trafficlight1_l001.dx90.vtx,6261,6261
+models/propsgtasa/trafficlight1_l001.sw.vtx,6261,6261
+models/propsgtasa/trafficlight1_l001.phy,1897,1897
+models/propsgtasa/trafficlight1_l001.vvd,31296,31296
+models/propsgtasa/trafficlight1_l002.mdl,2560,2560
+models/propsgtasa/trafficlight1_l002.dx80.vtx,6261,6261
+models/propsgtasa/trafficlight1_l002.dx90.vtx,6261,6261
+models/propsgtasa/trafficlight1_l002.sw.vtx,6261,6261
+models/propsgtasa/trafficlight1_l002.phy,1897,1897
+models/propsgtasa/trafficlight1_l002.vvd,31296,31296
+models/propsgtasa/trafficlight1_l003.mdl,2560,2560
+models/propsgtasa/trafficlight1_l003.dx80.vtx,6261,6261
+models/propsgtasa/trafficlight1_l003.dx90.vtx,6261,6261
+models/propsgtasa/trafficlight1_l003.sw.vtx,6261,6261
+models/propsgtasa/trafficlight1_l003.phy,1897,1897
+models/propsgtasa/trafficlight1_l003.vvd,31296,31296
+models/propsgtasa/lamppost3_l013.mdl,2156,2156
+models/propsgtasa/lamppost3_l013.dx80.vtx,1239,1239
+models/propsgtasa/lamppost3_l013.dx90.vtx,1239,1239
+models/propsgtasa/lamppost3_l013.sw.vtx,1239,1239
+models/propsgtasa/lamppost3_l013.phy,1315,1315
+models/propsgtasa/lamppost3_l013.vvd,4928,4928
+models/propsgtasa/trafficlight1_l004.mdl,2560,2560
+models/propsgtasa/trafficlight1_l004.dx80.vtx,6261,6261
+models/propsgtasa/trafficlight1_l004.dx90.vtx,6261,6261
+models/propsgtasa/trafficlight1_l004.sw.vtx,6261,6261
+models/propsgtasa/trafficlight1_l004.phy,1897,1897
+models/propsgtasa/trafficlight1_l004.vvd,31296,31296
+models/propsgtasa/trafficlight1_l005.mdl,2560,2560
+models/propsgtasa/trafficlight1_l005.dx80.vtx,6261,6261
+models/propsgtasa/trafficlight1_l005.dx90.vtx,6261,6261
+models/propsgtasa/trafficlight1_l005.sw.vtx,6261,6261
+models/propsgtasa/trafficlight1_l005.phy,1897,1897
+models/propsgtasa/trafficlight1_l005.vvd,31296,31296
+models/propsgtasa/trafficlight1_l006.mdl,2560,2560
+models/propsgtasa/trafficlight1_l006.dx80.vtx,6261,6261
+models/propsgtasa/trafficlight1_l006.dx90.vtx,6261,6261
+models/propsgtasa/trafficlight1_l006.sw.vtx,6261,6261
+models/propsgtasa/trafficlight1_l006.phy,1897,1897
+models/propsgtasa/trafficlight1_l006.vvd,31296,31296
+models/propsgtasa/gen_roadsign2.mdl,1956,1956
+models/propsgtasa/gen_roadsign2.dx80.vtx,2880,2880
+models/propsgtasa/gen_roadsign2.dx90.vtx,2880,2880
+models/propsgtasa/gen_roadsign2.sw.vtx,2880,2880
+models/propsgtasa/gen_roadsign2.phy,1604,1604
+models/propsgtasa/gen_roadsign2.vvd,13760,13760
+models/propsgtasa/la_fuckcar005.mdl,2548,2548
+models/propsgtasa/la_fuckcar005.dx80.vtx,9078,9078
+models/propsgtasa/la_fuckcar005.dx90.vtx,9078,9078
+models/propsgtasa/la_fuckcar005.sw.vtx,9078,9078
+models/propsgtasa/la_fuckcar005.phy,4292,4292
+models/propsgtasa/la_fuckcar005.vvd,43008,43008
+models/propsgtasa/la_fuckcar006.mdl,2548,2548
+models/propsgtasa/la_fuckcar006.dx80.vtx,9078,9078
+models/propsgtasa/la_fuckcar006.dx90.vtx,9078,9078
+models/propsgtasa/la_fuckcar006.sw.vtx,9078,9078
+models/propsgtasa/la_fuckcar006.phy,4292,4292
+models/propsgtasa/la_fuckcar006.vvd,43008,43008
+models/propsgtasa/la_fuckcar007.mdl,2548,2548
+models/propsgtasa/la_fuckcar007.dx80.vtx,9078,9078
+models/propsgtasa/la_fuckcar007.dx90.vtx,9078,9078
+models/propsgtasa/la_fuckcar007.sw.vtx,9078,9078
+models/propsgtasa/la_fuckcar007.phy,4292,4292
+models/propsgtasa/la_fuckcar007.vvd,43008,43008
+models/propsgtasa/telgrphpoleall_l0.mdl,2556,2556
+models/propsgtasa/telgrphpoleall_l0.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l0.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l0.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l0.phy,1847,1847
+models/propsgtasa/telgrphpoleall_l0.vvd,23360,23360
+models/propsgtasa/telgrphpoleall_l001.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l001.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l001.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l001.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l001.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l001.vvd,23360,23360
+models/propsgtasa/telgrphpoleall_l002.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l002.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l002.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l002.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l002.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l002.vvd,23360,23360
+models/propsgtasa/telgrphpoleall_l003.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l003.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l003.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l003.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l003.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l003.vvd,23360,23360
+models/propsgtasa/telgrphpoleall_l004.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l004.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l004.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l004.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l004.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l004.vvd,23360,23360
+models/propsgtasa/telgrphpoleall_l005.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l005.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l005.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l005.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l005.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l005.vvd,23360,23360
+models/propsgtasa/telgrphpoleall_l006.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l006.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l006.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l006.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l006.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l006.vvd,23360,23360
+models/propsgtasa/telgrphpoleall_l007.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l007.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l007.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l007.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l007.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l007.vvd,23360,23360
+models/propsgtasa/telgrphpoleall_l008.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l008.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l008.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l008.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l008.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l008.vvd,23360,23360
+models/propsgtasa/telgrphpoleall_l009.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l009.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l009.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l009.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l009.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l009.vvd,23360,23360
+models/propsgtasas/cardboardbox_l0.mdl,1768,1768
+models/propsgtasas/cardboardbox_l0.dx80.vtx,477,477
+models/propsgtasas/cardboardbox_l0.dx90.vtx,477,477
+models/propsgtasas/cardboardbox_l0.sw.vtx,477,477
+models/propsgtasas/cardboardbox_l0.phy,836,836
+models/propsgtasas/cardboardbox_l0.vvd,1856,1856
+models/propsgtasas/dyn_f_r_wood_1b.mdl,1768,1768
+models/propsgtasas/dyn_f_r_wood_1b.dx80.vtx,8475,8475
+models/propsgtasas/dyn_f_r_wood_1b.dx90.vtx,8475,8475
+models/propsgtasas/dyn_f_r_wood_1b.sw.vtx,8475,8475
+models/propsgtasas/dyn_f_r_wood_1b.phy,1701,1701
+models/propsgtasas/dyn_f_r_wood_1b.vvd,44480,44480
+models/bmx2/chassis.mdl,4088,4088
+models/bmx2/chassis.dx80.vtx,52110,52110
+models/bmx2/chassis.dx90.vtx,52110,52110
+models/bmx2/chassis.sw.vtx,52110,52110
+models/bmx2/chassis.phy,3468,3468
+models/bmx2/chassis.vvd,232704,232704
+materials/skybox/iraqiup.vmt,85,85
+materials/skybox/iraqiup.vtf,349632,349632
+materials/skybox/iraqidn.vmt,85,85
+materials/skybox/iraqidn.vtf,349632,349632
+materials/skybox/iraqift.vmt,85,85
+materials/skybox/iraqift.vtf,349632,349632
+materials/skybox/iraqibk.vmt,85,85
+materials/skybox/iraqibk.vtf,349632,349632
+materials/skybox/iraqilf.vmt,85,85
+materials/skybox/iraqilf.vtf,349632,349632
+materials/skybox/iraqirt.vmt,85,85
+materials/skybox/iraqirt.vtf,349632,349632
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _100/47.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _101/51.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _102/52.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _103/53.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _104/54.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _105/55.vtf,11128,11128
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _106/56.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _108/58.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _109/59.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _110/60.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _111/61.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _112/62.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _113/63.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _114/64.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _115/65.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _116/66.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _117/67.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _119/68.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _120/69.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _121/70.vtf,43896,43896
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _122/71.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _123/72.vtf,2936,2936
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _124/73.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _125/74.vtf,2936,2936
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _126/75.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _127/76.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _128/75.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _129/77.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _130/80.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _132/80.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _133/79.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _138/81.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _139/81.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _146/78.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _157/85.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _16/body.vtf,2796384,2796384
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _16/body_nrm.vtf,2796384,2796384
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _16/dt1_11_window_stack_mlw.vtf,174968,174968
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _161/83.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _162/86.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _163/87.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _164/88.vtf,349784,349784
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _165/87.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _166/81.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _167/89.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _168/90.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _169/91.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _17/1kirphich.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _17/bmxtexpage.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _171/92.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _172/93.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _173/94.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _174/95.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _175/96.vtf,11128,11128
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _176/97.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _177/98.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _178/99.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _179/100.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _18/stekla.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _180/100.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _181/101.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _182/102.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _183/103.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _184/104.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _185/105.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _187/106.vtf,2936,2936
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _189/107.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _19/2kirphich.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _19/bmxdetail.vtf,1624,1624
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _190/108.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _191/109.vtf,11128,11128
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _192/110.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _193/111.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _194/112.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _195/113.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _196/114.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _197/115.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _198/116.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _199/117.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _20/bmxdetail.vtf,1624,1624
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _20/kirphich3.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _20/stekla.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _200/118.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _201/119.vtf,11128,11128
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _202/120.vtf,11128,11128
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _203/121.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _204/122.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _205/123.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _206/124.vtf,11128,11128
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _209/122.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _21/bmxdetail.vtf,1624,1624
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _210/125.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _211/126.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _212/127.vtf,11128,11128
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _213/128.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _214/129.vtf,349784,349784
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _215/129.vtf,349784,349784
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _216/130.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _217/131.vtf,174968,174968
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _218/132.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _219/132.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _220/132.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _229/129.vtf,349784,349784
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _230/132.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _234/doroga.vtf,349784,349784
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _235/lod1.vtf,174968,174968
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _236/lod2.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _237/lod3.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _238/doroga.vtf,349784,349784
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _239/bballboard128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _239/lod4.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _240/drkbrownmetal.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _241/gen_chrome.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _242/cratetop128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _243/wire2.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _244/car1_128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _248/Metalox64.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _249/car1_128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _252/Metalox64.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _254/car2_128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _257/Metal1_128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _258/Metal1_128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _259/lampost_16clr.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _260/white64.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _261/trafficlight_64.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _262/black64.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _263/Metal1_128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _264/lampost_16clr.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _265/black64.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _266/roadsignbackground128.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _267/Metal1_128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _268/telepole2128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _269/telepole2128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _270/metatelepole1.vtf,43896,43896
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _271/steel64.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _272/teleconect2.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _273/cardboxes_128.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _274/CJ_SLATEDWOOD.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _28/6.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _28/bmxdetail.vtf,1624,1624
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _29/7.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _29/bmxdetail.vtf,1624,1624
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _30/4.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _30/bmxdetail.vtf,1624,1624
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _31/8.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _32/9.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _32/bmxtexpage.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _33/10.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _35/11.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _35/bmxtexpage.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _36/3.vtf,174968,174968
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _36/cvet.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _37/1.vtf,349784,349784
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _37/bmxwheel.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _38/6.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _38/bmxwheel.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _39/12.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _40/13.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _40/bmxtexpage.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _41/14.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _42/8.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _43/15.vtf,11128,11128
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _44/16.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _45/17.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _46/10.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _47/2.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _53/14.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _54/5.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _55/16.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _56/6.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _57/12.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _58/17.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _59/10.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _60/6.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _61/10.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _62/8.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _63/10.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _64/2.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _65/18.vtf,349784,349784
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _66/19.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _67/20.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _68/18.vtf,349784,349784
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _69/21.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _70/22.vtf,43896,43896
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _71/23.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _72/24.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _73/25.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _74/26.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _75/27.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _76/28.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _77/29.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _78/19.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _79/30.vtf,2936,2936
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _80/31.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _81/32.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _82/33.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _83/34.vtf,5656,5656
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _84/35.vtf,43896,43896
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _85/36.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _86/37.vtf,5720,5720
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _87/38.vtf,5656,5656
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _88/39.vtf,5656,5656
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _89/40.vtf,2936,2936
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _90/41.vtf,43896,43896
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _91/42.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _92/43.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _93/44.vtf,43896,43896
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _94/45.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _95/46.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _96/47.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _97/48.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _98/49.vtf,22104,22104
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/Map _99/50.vtf,87640,87640
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__252.vmt,72,72
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__254.vmt,71,71
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__255.vmt,71,71
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__256.vmt,71,71
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__307.vmt,71,71
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__319.vmt,71,71
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__331.vmt,71,71
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__355.vmt,72,72
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__391.vmt,72,72
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__403.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__415.vmt,70,70
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__416.vmt,70,70
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/bmx2/Material__418.vmt,72,72
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1014.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1036.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1058.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1080.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1102.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1124.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1146.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1168.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1190.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1212.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1234.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1269.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1284.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1314.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1329.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__133.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1344.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1359.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1374.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1389.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1404.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1419.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1434.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1459.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1471.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1483.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1495.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1507.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1519.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1555.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1568.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1581.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1594.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1607.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1620.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1633.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1646.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1659.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1672.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1698.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1722.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1735.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1748.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1761.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1774.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1787.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1800.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1813.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1826.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__1839.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__239.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__251.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__263.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__275.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__287.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__324.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__336.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__348.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__370.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__382.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__394.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__406.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__418.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__430.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__442.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__454.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__466.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__478.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__552.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__564.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__577.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__600.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__612.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__624.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__636.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__658.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__670.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__692.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__704.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__726.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__738.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__760.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__772.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__784.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__816.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__838.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__85.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__860.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__882.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__904.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__926.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__948.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__970.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/groves/Material__992.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1014.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1036.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1058.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1080.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1102.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1124.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1146.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1168.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1190.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1212.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1234.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1269.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1284.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1314.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1329.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__133.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1344.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1359.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1374.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1389.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1404.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1419.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1434.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1459.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1471.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1483.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1495.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1507.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1519.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1555.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1568.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1581.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1594.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1607.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1620.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1633.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1646.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1659.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1672.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1698.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1722.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1735.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1748.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1761.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1774.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1787.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1800.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1813.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1826.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1839.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1898.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1910.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1970.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__1982.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2066.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2198.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2246.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2268.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2280.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2292.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2304.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2323.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2334.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2346.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2358.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2371.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2383.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__239.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2395.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2407.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2419.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2431.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2443.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2465.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2477.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2489.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2501.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__251.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2513.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2525.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2537.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2549.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2599.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2623.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__263.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2635.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2647.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2659.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2671.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2693.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2705.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2717.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2729.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2741.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__275.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2753.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2765.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2777.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2789.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2811.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2823.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2835.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2847.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__287.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2883.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2895.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2907.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2919.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2956.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2968.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2980.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__2992.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__3004.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__3026.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__3038.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__3050.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__3158.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__3170.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__324.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__336.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__348.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__370.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__382.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__394.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__406.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__418.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__430.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__442.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__454.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__466.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__478.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__552.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__564.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__577.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__600.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__612.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__624.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__636.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__658.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__670.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__692.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__704.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__760.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__772.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__784.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__816.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__838.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__85.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__860.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__882.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__904.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__926.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__948.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__970.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetfinal/Material__992.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1014.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1036.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1058.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1080.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1102.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1124.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1146.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1168.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1190.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1212.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1234.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1269.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1284.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1314.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1329.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__133.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1344.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1359.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1374.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1389.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1404.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1419.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1434.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1459.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1471.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1483.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1495.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1507.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1519.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1555.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1568.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1581.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1594.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1607.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1620.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1633.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1646.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1659.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1672.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1698.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1722.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1735.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1748.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1761.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1774.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1787.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1800.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1813.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1826.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1839.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1898.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1910.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1970.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__1982.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2066.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2198.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2246.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2268.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2280.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2292.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2304.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2323.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2334.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2346.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2358.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2371.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2383.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__239.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2395.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2407.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2419.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2431.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2443.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2465.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2477.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2489.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2501.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__251.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2513.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2525.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2537.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2549.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2599.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2623.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__263.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2635.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2647.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2659.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2671.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2693.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2705.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2717.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2729.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2741.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__275.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2753.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2765.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2777.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2789.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2811.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2823.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2835.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2847.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__287.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2883.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2895.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2907.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2919.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2956.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2968.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2980.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__2992.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__3004.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__3026.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__3038.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__3050.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__3158.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__3170.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__324.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__336.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__348.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__370.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__382.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__394.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__406.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__418.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__430.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__442.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__454.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__466.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__478.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__552.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__564.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__577.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__600.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__612.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__624.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__636.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__658.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__670.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__692.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__704.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__760.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__772.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__784.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__816.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__838.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__85.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__860.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__882.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__904.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__926.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__948.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__970.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreetgtasa/Material__992.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__133.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__239.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__251.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__263.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__275.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__287.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__324.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__336.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__348.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__370.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__382.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__394.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__406.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__418.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__430.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__442.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__454.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__466.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/grovestreettest/Material__85.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1014.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1036.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1058.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1080.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1102.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1124.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1146.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1168.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1190.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1212.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1234.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1269.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1284.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1314.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1329.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__133.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1344.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1359.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1374.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1389.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1404.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1419.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1434.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1459.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1471.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1483.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1495.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1507.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1519.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1555.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1568.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1581.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1594.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1607.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1620.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1633.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1646.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1659.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1672.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1698.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1722.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1735.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1748.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1761.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1774.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1787.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1800.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1813.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1826.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__1839.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__239.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__251.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__263.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__275.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__287.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__324.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__336.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__348.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__370.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__382.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__394.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__406.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__418.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__430.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__442.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__454.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__466.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__478.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__552.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__564.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__577.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__600.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__612.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__624.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__636.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__658.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__670.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__692.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__704.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__726.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__738.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__760.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__772.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__784.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__816.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__838.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__85.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__860.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__882.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__904.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__926.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__948.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__970.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/gtasas/Material__992.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/clan_handel.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/clan_handel.vtf,174984,174984
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/clan_handel2.vmt,74,74
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/clan_handel2.vtf,174984,174984
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/clan_handel2_bump.vmt,160,160
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/clan_handel2_nrm.vtf,174984,174984
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/clan_handel_bump.vmt,158,158
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/clan_handel_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps1.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps1.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps10.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps10.vtf,174944,174944
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps10_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps10_nrm.vtf,174944,174944
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps11.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps11.vtf,87544,87544
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps11_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps11_nrm.vtf,87544,87544
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps12.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps12.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps12_bump.vmt,111,111
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps12_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps13.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps13.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps13_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps13_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps14.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps14.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps14_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps14_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps15.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps15.vtf,87544,87544
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps15_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps15_nrm.vtf,87544,87544
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps16.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps16.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps16_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps16_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps17.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps17.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps17_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps17_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps18.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps18.vtf,43912,43912
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps18_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps18_nrm.vtf,43912,43912
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps19.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps19.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps19_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps19_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps1_bump.vmt,110,110
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps1_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps2.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps2.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps20.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps20.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps20_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps20_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps21.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps21.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps21_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps21_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps22.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps22.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps22_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps22_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps23.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps23.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps23_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps23_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps24.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps24.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps24_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps24_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps25.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps25.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps25_bump.vmt,112,112
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps25_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps2_bump.vmt,110,110
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps2_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps3.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps3.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps3_bump.vmt,110,110
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps3_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps4.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps4.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps4_bump.vmt,109,109
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps4_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps5.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps5.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps5_bump.vmt,110,110
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps5_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps6.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps6.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps6_bump.vmt,110,110
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps6_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps7.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps7.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps7_bump.vmt,110,110
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps7_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps8.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps8.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps8_bump.vmt,110,110
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps8_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps9.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps9.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps9_bump.vmt,110,110
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/handel_server/ps9_nrm.vtf,349760,349760
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/houses/Material__2465.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/houses/Material__2477.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/houses/Material__2489.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/houses/Material__2501.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/houses/Material__2513.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/houses/Material__2525.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/houses/Material__2537.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/houses/Material__2549.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1555.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1568.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1581.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1594.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1607.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1620.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1633.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1646.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1659.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1672.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__1698.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2334.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2346.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2358.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2371.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2383.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2395.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2407.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2419.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2431.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2443.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2465.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2477.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2489.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2501.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2513.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2525.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2537.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/housestest/Material__2549.vmt,66,66
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/lods/Material__3227.vmt,69,69
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/lods/Material__3238.vmt,67,67
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/lods/Material__3239.vmt,67,67
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/lods/Material__3240.vmt,67,67
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/lods/Material__3241.vmt,69,69
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/lods/Material__3242.vmt,67,67
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__133.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__239.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__251.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__263.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__275.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__287.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__324.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__336.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__348.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__370.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__382.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__394.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__406.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__418.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__430.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__442.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__454.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__466.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject/Material__85.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1014.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1036.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1058.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1080.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1102.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1124.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1146.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1168.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1190.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1212.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1234.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1269.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1284.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1314.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1329.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__133.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1344.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1359.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1374.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1389.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1404.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1419.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1434.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1459.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1471.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1483.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1495.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1507.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1519.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1555.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1568.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1581.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1594.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1607.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1620.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1633.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1646.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1659.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1672.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1698.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1722.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1735.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1748.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1761.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1774.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1787.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1800.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1813.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1826.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1839.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1874.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1898.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1910.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1970.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__1982.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__2066.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__2198.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__2246.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__2268.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__2280.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__2292.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__2304.vmt,65,65
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__239.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__251.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__263.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__275.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__287.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__299.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__324.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__336.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__348.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__370.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__382.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__394.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__406.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__418.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__430.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__442.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__454.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__466.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__478.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__552.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__564.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__577.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__600.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__612.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__624.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__636.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__658.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__670.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__692.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__704.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__726.vmt,63,63
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__738.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__760.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__772.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__784.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__816.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__838.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__85.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__860.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__882.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__904.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__926.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__948.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__970.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/myproject3/Material__992.vmt,64,64
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3273.vmt,76,76
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3286.vmt,76,76
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3298.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3310.vmt,74,74
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3322.vmt,68,68
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3344.vmt,71,71
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3392.vmt,72,72
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3404.vmt,71,71
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3440.vmt,72,72
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3464.vmt,71,71
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3501.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3514.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3527.vmt,76,76
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3539.vmt,70,70
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3583.vmt,78,78
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3595.vmt,70,70
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3607.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3619.vmt,76,76
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3632.vmt,70,70
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3655.vmt,84,84
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3667.vmt,73,73
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3689.vmt,75,75
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3701.vmt,75,75
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3713.vmt,76,76
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3725.vmt,70,70
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasa/Material__3737.vmt,74,74
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasas/Material__3783.vmt,76,76
+C:/Users/kek/Desktop/>20O ?0?:0/>20O ?0?:0/propsgtasas/Material__3784.vmt,76,76
+materials/bmx2/Material__252.vmt,72,72
+materials/bmx2/Material__254.vmt,71,71
+materials/bmx2/Material__255.vmt,71,71
+materials/bmx2/Material__256.vmt,71,71
+materials/bmx2/Material__307.vmt,71,71
+materials/bmx2/Material__319.vmt,71,71
+materials/bmx2/Material__331.vmt,71,71
+materials/bmx2/Material__355.vmt,72,72
+materials/bmx2/Material__391.vmt,72,72
+materials/bmx2/Material__403.vmt,66,66
+materials/bmx2/Material__415.vmt,70,70
+materials/bmx2/Material__416.vmt,70,70
+materials/bmx2/Material__418.vmt,72,72
+materials/groves/Material__1014.vmt,64,64
+materials/groves/Material__1036.vmt,64,64
+materials/groves/Material__1058.vmt,64,64
+materials/groves/Material__1080.vmt,64,64
+materials/groves/Material__1102.vmt,64,64
+materials/groves/Material__1124.vmt,64,64
+materials/groves/Material__1146.vmt,64,64
+materials/groves/Material__1168.vmt,64,64
+materials/groves/Material__1190.vmt,64,64
+materials/groves/Material__1212.vmt,64,64
+materials/groves/Material__1234.vmt,64,64
+materials/groves/Material__1269.vmt,64,64
+materials/groves/Material__1284.vmt,64,64
+materials/groves/Material__1299.vmt,64,64
+materials/groves/Material__1314.vmt,64,64
+materials/groves/Material__1329.vmt,64,64
+materials/groves/Material__133.vmt,73,73
+materials/groves/Material__1344.vmt,64,64
+materials/groves/Material__1359.vmt,64,64
+materials/groves/Material__1374.vmt,64,64
+materials/groves/Material__1389.vmt,64,64
+materials/groves/Material__1404.vmt,64,64
+materials/groves/Material__1419.vmt,64,64
+materials/groves/Material__1434.vmt,65,65
+materials/groves/Material__1459.vmt,65,65
+materials/groves/Material__1471.vmt,65,65
+materials/groves/Material__1483.vmt,65,65
+materials/groves/Material__1495.vmt,65,65
+materials/groves/Material__1507.vmt,65,65
+materials/groves/Material__1519.vmt,65,65
+materials/groves/Material__1555.vmt,65,65
+materials/groves/Material__1568.vmt,65,65
+materials/groves/Material__1581.vmt,65,65
+materials/groves/Material__1594.vmt,65,65
+materials/groves/Material__1607.vmt,65,65
+materials/groves/Material__1620.vmt,65,65
+materials/groves/Material__1633.vmt,65,65
+materials/groves/Material__1646.vmt,65,65
+materials/groves/Material__1659.vmt,65,65
+materials/groves/Material__1672.vmt,65,65
+materials/groves/Material__1698.vmt,65,65
+materials/groves/Material__1722.vmt,65,65
+materials/groves/Material__1735.vmt,65,65
+materials/groves/Material__1748.vmt,65,65
+materials/groves/Material__1761.vmt,65,65
+materials/groves/Material__1774.vmt,65,65
+materials/groves/Material__1787.vmt,65,65
+materials/groves/Material__1800.vmt,65,65
+materials/groves/Material__1813.vmt,65,65
+materials/groves/Material__1826.vmt,65,65
+materials/groves/Material__1839.vmt,65,65
+materials/groves/Material__239.vmt,63,63
+materials/groves/Material__251.vmt,63,63
+materials/groves/Material__263.vmt,63,63
+materials/groves/Material__275.vmt,63,63
+materials/groves/Material__287.vmt,63,63
+materials/groves/Material__299.vmt,64,64
+materials/groves/Material__324.vmt,64,64
+materials/groves/Material__336.vmt,63,63
+materials/groves/Material__348.vmt,63,63
+materials/groves/Material__370.vmt,63,63
+materials/groves/Material__382.vmt,64,64
+materials/groves/Material__394.vmt,64,64
+materials/groves/Material__406.vmt,64,64
+materials/groves/Material__418.vmt,63,63
+materials/groves/Material__430.vmt,64,64
+materials/groves/Material__442.vmt,64,64
+materials/groves/Material__454.vmt,64,64
+materials/groves/Material__466.vmt,64,64
+materials/groves/Material__478.vmt,63,63
+materials/groves/Material__552.vmt,64,64
+materials/groves/Material__564.vmt,63,63
+materials/groves/Material__577.vmt,64,64
+materials/groves/Material__600.vmt,63,63
+materials/groves/Material__612.vmt,64,64
+materials/groves/Material__624.vmt,64,64
+materials/groves/Material__636.vmt,64,64
+materials/groves/Material__658.vmt,63,63
+materials/groves/Material__670.vmt,64,64
+materials/groves/Material__692.vmt,63,63
+materials/groves/Material__704.vmt,64,64
+materials/groves/Material__726.vmt,63,63
+materials/groves/Material__738.vmt,64,64
+materials/groves/Material__760.vmt,64,64
+materials/groves/Material__772.vmt,64,64
+materials/groves/Material__784.vmt,64,64
+materials/groves/Material__816.vmt,64,64
+materials/groves/Material__838.vmt,64,64
+materials/groves/Material__85.vmt,73,73
+materials/groves/Material__860.vmt,64,64
+materials/groves/Material__882.vmt,64,64
+materials/groves/Material__904.vmt,64,64
+materials/groves/Material__926.vmt,64,64
+materials/groves/Material__948.vmt,64,64
+materials/groves/Material__970.vmt,64,64
+materials/groves/Material__992.vmt,64,64
+materials/grovestreetfinal/Material__1014.vmt,64,64
+materials/grovestreetfinal/Material__1036.vmt,64,64
+materials/grovestreetfinal/Material__1058.vmt,64,64
+materials/grovestreetfinal/Material__1080.vmt,64,64
+materials/grovestreetfinal/Material__1102.vmt,64,64
+materials/grovestreetfinal/Material__1124.vmt,64,64
+materials/grovestreetfinal/Material__1146.vmt,64,64
+materials/grovestreetfinal/Material__1168.vmt,64,64
+materials/grovestreetfinal/Material__1190.vmt,64,64
+materials/grovestreetfinal/Material__1212.vmt,64,64
+materials/grovestreetfinal/Material__1234.vmt,64,64
+materials/grovestreetfinal/Material__1269.vmt,64,64
+materials/grovestreetfinal/Material__1284.vmt,64,64
+materials/grovestreetfinal/Material__1299.vmt,64,64
+materials/grovestreetfinal/Material__1314.vmt,64,64
+materials/grovestreetfinal/Material__1329.vmt,64,64
+materials/grovestreetfinal/Material__133.vmt,73,73
+materials/grovestreetfinal/Material__1344.vmt,64,64
+materials/grovestreetfinal/Material__1359.vmt,64,64
+materials/grovestreetfinal/Material__1374.vmt,64,64
+materials/grovestreetfinal/Material__1389.vmt,64,64
+materials/grovestreetfinal/Material__1404.vmt,64,64
+materials/grovestreetfinal/Material__1419.vmt,64,64
+materials/grovestreetfinal/Material__1434.vmt,65,65
+materials/grovestreetfinal/Material__1459.vmt,65,65
+materials/grovestreetfinal/Material__1471.vmt,65,65
+materials/grovestreetfinal/Material__1483.vmt,65,65
+materials/grovestreetfinal/Material__1495.vmt,65,65
+materials/grovestreetfinal/Material__1507.vmt,65,65
+materials/grovestreetfinal/Material__1519.vmt,65,65
+materials/grovestreetfinal/Material__1555.vmt,65,65
+materials/grovestreetfinal/Material__1568.vmt,65,65
+materials/grovestreetfinal/Material__1581.vmt,65,65
+materials/grovestreetfinal/Material__1594.vmt,65,65
+materials/grovestreetfinal/Material__1607.vmt,65,65
+materials/grovestreetfinal/Material__1620.vmt,65,65
+materials/grovestreetfinal/Material__1633.vmt,65,65
+materials/grovestreetfinal/Material__1646.vmt,65,65
+materials/grovestreetfinal/Material__1659.vmt,65,65
+materials/grovestreetfinal/Material__1672.vmt,65,65
+materials/grovestreetfinal/Material__1698.vmt,65,65
+materials/grovestreetfinal/Material__1722.vmt,65,65
+materials/grovestreetfinal/Material__1735.vmt,65,65
+materials/grovestreetfinal/Material__1748.vmt,65,65
+materials/grovestreetfinal/Material__1761.vmt,65,65
+materials/grovestreetfinal/Material__1774.vmt,65,65
+materials/grovestreetfinal/Material__1787.vmt,65,65
+materials/grovestreetfinal/Material__1800.vmt,65,65
+materials/grovestreetfinal/Material__1813.vmt,65,65
+materials/grovestreetfinal/Material__1826.vmt,65,65
+materials/grovestreetfinal/Material__1839.vmt,65,65
+materials/grovestreetfinal/Material__1898.vmt,65,65
+materials/grovestreetfinal/Material__1910.vmt,65,65
+materials/grovestreetfinal/Material__1970.vmt,65,65
+materials/grovestreetfinal/Material__1982.vmt,65,65
+materials/grovestreetfinal/Material__2066.vmt,65,65
+materials/grovestreetfinal/Material__2198.vmt,65,65
+materials/grovestreetfinal/Material__2246.vmt,65,65
+materials/grovestreetfinal/Material__2268.vmt,65,65
+materials/grovestreetfinal/Material__2280.vmt,65,65
+materials/grovestreetfinal/Material__2292.vmt,65,65
+materials/grovestreetfinal/Material__2304.vmt,65,65
+materials/grovestreetfinal/Material__2323.vmt,65,65
+materials/grovestreetfinal/Material__2334.vmt,65,65
+materials/grovestreetfinal/Material__2346.vmt,65,65
+materials/grovestreetfinal/Material__2358.vmt,65,65
+materials/grovestreetfinal/Material__2371.vmt,65,65
+materials/grovestreetfinal/Material__2383.vmt,65,65
+materials/grovestreetfinal/Material__239.vmt,63,63
+materials/grovestreetfinal/Material__2395.vmt,65,65
+materials/grovestreetfinal/Material__2407.vmt,65,65
+materials/grovestreetfinal/Material__2419.vmt,65,65
+materials/grovestreetfinal/Material__2431.vmt,65,65
+materials/grovestreetfinal/Material__2443.vmt,65,65
+materials/grovestreetfinal/Material__2465.vmt,65,65
+materials/grovestreetfinal/Material__2477.vmt,66,66
+materials/grovestreetfinal/Material__2489.vmt,66,66
+materials/grovestreetfinal/Material__2501.vmt,66,66
+materials/grovestreetfinal/Material__251.vmt,63,63
+materials/grovestreetfinal/Material__2513.vmt,66,66
+materials/grovestreetfinal/Material__2525.vmt,66,66
+materials/grovestreetfinal/Material__2537.vmt,66,66
+materials/grovestreetfinal/Material__2549.vmt,66,66
+materials/grovestreetfinal/Material__2599.vmt,66,66
+materials/grovestreetfinal/Material__2623.vmt,66,66
+materials/grovestreetfinal/Material__263.vmt,63,63
+materials/grovestreetfinal/Material__2635.vmt,66,66
+materials/grovestreetfinal/Material__2647.vmt,66,66
+materials/grovestreetfinal/Material__2659.vmt,66,66
+materials/grovestreetfinal/Material__2671.vmt,66,66
+materials/grovestreetfinal/Material__2693.vmt,66,66
+materials/grovestreetfinal/Material__2705.vmt,66,66
+materials/grovestreetfinal/Material__2717.vmt,66,66
+materials/grovestreetfinal/Material__2729.vmt,66,66
+materials/grovestreetfinal/Material__2741.vmt,66,66
+materials/grovestreetfinal/Material__275.vmt,63,63
+materials/grovestreetfinal/Material__2753.vmt,66,66
+materials/grovestreetfinal/Material__2765.vmt,66,66
+materials/grovestreetfinal/Material__2777.vmt,66,66
+materials/grovestreetfinal/Material__2789.vmt,66,66
+materials/grovestreetfinal/Material__2811.vmt,66,66
+materials/grovestreetfinal/Material__2823.vmt,66,66
+materials/grovestreetfinal/Material__2835.vmt,66,66
+materials/grovestreetfinal/Material__2847.vmt,66,66
+materials/grovestreetfinal/Material__287.vmt,63,63
+materials/grovestreetfinal/Material__2883.vmt,66,66
+materials/grovestreetfinal/Material__2895.vmt,66,66
+materials/grovestreetfinal/Material__2907.vmt,66,66
+materials/grovestreetfinal/Material__2919.vmt,66,66
+materials/grovestreetfinal/Material__2956.vmt,66,66
+materials/grovestreetfinal/Material__2968.vmt,66,66
+materials/grovestreetfinal/Material__2980.vmt,66,66
+materials/grovestreetfinal/Material__299.vmt,64,64
+materials/grovestreetfinal/Material__2992.vmt,66,66
+materials/grovestreetfinal/Material__3004.vmt,66,66
+materials/grovestreetfinal/Material__3026.vmt,66,66
+materials/grovestreetfinal/Material__3038.vmt,66,66
+materials/grovestreetfinal/Material__3050.vmt,66,66
+materials/grovestreetfinal/Material__3158.vmt,66,66
+materials/grovestreetfinal/Material__3170.vmt,66,66
+materials/grovestreetfinal/Material__324.vmt,64,64
+materials/grovestreetfinal/Material__336.vmt,63,63
+materials/grovestreetfinal/Material__348.vmt,63,63
+materials/grovestreetfinal/Material__370.vmt,63,63
+materials/grovestreetfinal/Material__382.vmt,64,64
+materials/grovestreetfinal/Material__394.vmt,64,64
+materials/grovestreetfinal/Material__406.vmt,64,64
+materials/grovestreetfinal/Material__418.vmt,63,63
+materials/grovestreetfinal/Material__430.vmt,64,64
+materials/grovestreetfinal/Material__442.vmt,64,64
+materials/grovestreetfinal/Material__454.vmt,64,64
+materials/grovestreetfinal/Material__466.vmt,64,64
+materials/grovestreetfinal/Material__478.vmt,63,63
+materials/grovestreetfinal/Material__552.vmt,64,64
+materials/grovestreetfinal/Material__564.vmt,63,63
+materials/grovestreetfinal/Material__577.vmt,64,64
+materials/grovestreetfinal/Material__600.vmt,63,63
+materials/grovestreetfinal/Material__612.vmt,64,64
+materials/grovestreetfinal/Material__624.vmt,64,64
+materials/grovestreetfinal/Material__636.vmt,64,64
+materials/grovestreetfinal/Material__658.vmt,63,63
+materials/grovestreetfinal/Material__670.vmt,64,64
+materials/grovestreetfinal/Material__692.vmt,63,63
+materials/grovestreetfinal/Material__704.vmt,64,64
+materials/grovestreetfinal/Material__760.vmt,64,64
+materials/grovestreetfinal/Material__772.vmt,64,64
+materials/grovestreetfinal/Material__784.vmt,64,64
+materials/grovestreetfinal/Material__816.vmt,64,64
+materials/grovestreetfinal/Material__838.vmt,64,64
+materials/grovestreetfinal/Material__85.vmt,73,73
+materials/grovestreetfinal/Material__860.vmt,64,64
+materials/grovestreetfinal/Material__882.vmt,64,64
+materials/grovestreetfinal/Material__904.vmt,64,64
+materials/grovestreetfinal/Material__926.vmt,64,64
+materials/grovestreetfinal/Material__948.vmt,64,64
+materials/grovestreetfinal/Material__970.vmt,64,64
+materials/grovestreetfinal/Material__992.vmt,64,64
+materials/grovestreetgtasa/Material__1014.vmt,64,64
+materials/grovestreetgtasa/Material__1036.vmt,64,64
+materials/grovestreetgtasa/Material__1058.vmt,64,64
+materials/grovestreetgtasa/Material__1080.vmt,64,64
+materials/grovestreetgtasa/Material__1102.vmt,64,64
+materials/grovestreetgtasa/Material__1124.vmt,64,64
+materials/grovestreetgtasa/Material__1146.vmt,64,64
+materials/grovestreetgtasa/Material__1168.vmt,64,64
+materials/grovestreetgtasa/Material__1190.vmt,64,64
+materials/grovestreetgtasa/Material__1212.vmt,64,64
+materials/grovestreetgtasa/Material__1234.vmt,64,64
+materials/grovestreetgtasa/Material__1269.vmt,64,64
+materials/grovestreetgtasa/Material__1284.vmt,64,64
+materials/grovestreetgtasa/Material__1299.vmt,64,64
+materials/grovestreetgtasa/Material__1314.vmt,64,64
+materials/grovestreetgtasa/Material__1329.vmt,64,64
+materials/grovestreetgtasa/Material__133.vmt,73,73
+materials/grovestreetgtasa/Material__1344.vmt,64,64
+materials/grovestreetgtasa/Material__1359.vmt,64,64
+materials/grovestreetgtasa/Material__1374.vmt,64,64
+materials/grovestreetgtasa/Material__1389.vmt,64,64
+materials/grovestreetgtasa/Material__1404.vmt,64,64
+materials/grovestreetgtasa/Material__1419.vmt,64,64
+materials/grovestreetgtasa/Material__1434.vmt,65,65
+materials/grovestreetgtasa/Material__1459.vmt,65,65
+materials/grovestreetgtasa/Material__1471.vmt,65,65
+materials/grovestreetgtasa/Material__1483.vmt,65,65
+materials/grovestreetgtasa/Material__1495.vmt,65,65
+materials/grovestreetgtasa/Material__1507.vmt,65,65
+materials/grovestreetgtasa/Material__1519.vmt,65,65
+materials/grovestreetgtasa/Material__1555.vmt,65,65
+materials/grovestreetgtasa/Material__1568.vmt,65,65
+materials/grovestreetgtasa/Material__1581.vmt,65,65
+materials/grovestreetgtasa/Material__1594.vmt,65,65
+materials/grovestreetgtasa/Material__1607.vmt,65,65
+materials/grovestreetgtasa/Material__1620.vmt,65,65
+materials/grovestreetgtasa/Material__1633.vmt,65,65
+materials/grovestreetgtasa/Material__1646.vmt,65,65
+materials/grovestreetgtasa/Material__1659.vmt,65,65
+materials/grovestreetgtasa/Material__1672.vmt,65,65
+materials/grovestreetgtasa/Material__1698.vmt,65,65
+materials/grovestreetgtasa/Material__1722.vmt,65,65
+materials/grovestreetgtasa/Material__1735.vmt,65,65
+materials/grovestreetgtasa/Material__1748.vmt,65,65
+materials/grovestreetgtasa/Material__1761.vmt,65,65
+materials/grovestreetgtasa/Material__1774.vmt,65,65
+materials/grovestreetgtasa/Material__1787.vmt,65,65
+materials/grovestreetgtasa/Material__1800.vmt,65,65
+materials/grovestreetgtasa/Material__1813.vmt,65,65
+materials/grovestreetgtasa/Material__1826.vmt,65,65
+materials/grovestreetgtasa/Material__1839.vmt,65,65
+materials/grovestreetgtasa/Material__1898.vmt,65,65
+materials/grovestreetgtasa/Material__1910.vmt,65,65
+materials/grovestreetgtasa/Material__1970.vmt,65,65
+materials/grovestreetgtasa/Material__1982.vmt,65,65
+materials/grovestreetgtasa/Material__2066.vmt,65,65
+materials/grovestreetgtasa/Material__2198.vmt,65,65
+materials/grovestreetgtasa/Material__2246.vmt,65,65
+materials/grovestreetgtasa/Material__2268.vmt,65,65
+materials/grovestreetgtasa/Material__2280.vmt,65,65
+materials/grovestreetgtasa/Material__2292.vmt,65,65
+materials/grovestreetgtasa/Material__2304.vmt,65,65
+materials/grovestreetgtasa/Material__2323.vmt,65,65
+materials/grovestreetgtasa/Material__2334.vmt,65,65
+materials/grovestreetgtasa/Material__2346.vmt,65,65
+materials/grovestreetgtasa/Material__2358.vmt,65,65
+materials/grovestreetgtasa/Material__2371.vmt,65,65
+materials/grovestreetgtasa/Material__2383.vmt,65,65
+materials/grovestreetgtasa/Material__239.vmt,63,63
+materials/grovestreetgtasa/Material__2395.vmt,65,65
+materials/grovestreetgtasa/Material__2407.vmt,65,65
+materials/grovestreetgtasa/Material__2419.vmt,65,65
+materials/grovestreetgtasa/Material__2431.vmt,65,65
+materials/grovestreetgtasa/Material__2443.vmt,65,65
+materials/grovestreetgtasa/Material__2465.vmt,65,65
+materials/grovestreetgtasa/Material__2477.vmt,66,66
+materials/grovestreetgtasa/Material__2489.vmt,66,66
+materials/grovestreetgtasa/Material__2501.vmt,66,66
+materials/grovestreetgtasa/Material__251.vmt,63,63
+materials/grovestreetgtasa/Material__2513.vmt,66,66
+materials/grovestreetgtasa/Material__2525.vmt,66,66
+materials/grovestreetgtasa/Material__2537.vmt,66,66
+materials/grovestreetgtasa/Material__2549.vmt,66,66
+materials/grovestreetgtasa/Material__2599.vmt,66,66
+materials/grovestreetgtasa/Material__2623.vmt,66,66
+materials/grovestreetgtasa/Material__263.vmt,63,63
+materials/grovestreetgtasa/Material__2635.vmt,66,66
+materials/grovestreetgtasa/Material__2647.vmt,66,66
+materials/grovestreetgtasa/Material__2659.vmt,66,66
+materials/grovestreetgtasa/Material__2671.vmt,66,66
+materials/grovestreetgtasa/Material__2693.vmt,66,66
+materials/grovestreetgtasa/Material__2705.vmt,66,66
+materials/grovestreetgtasa/Material__2717.vmt,66,66
+materials/grovestreetgtasa/Material__2729.vmt,66,66
+materials/grovestreetgtasa/Material__2741.vmt,66,66
+materials/grovestreetgtasa/Material__275.vmt,63,63
+materials/grovestreetgtasa/Material__2753.vmt,66,66
+materials/grovestreetgtasa/Material__2765.vmt,66,66
+materials/grovestreetgtasa/Material__2777.vmt,66,66
+materials/grovestreetgtasa/Material__2789.vmt,66,66
+materials/grovestreetgtasa/Material__2811.vmt,66,66
+materials/grovestreetgtasa/Material__2823.vmt,66,66
+materials/grovestreetgtasa/Material__2835.vmt,66,66
+materials/grovestreetgtasa/Material__2847.vmt,66,66
+materials/grovestreetgtasa/Material__287.vmt,63,63
+materials/grovestreetgtasa/Material__2883.vmt,66,66
+materials/grovestreetgtasa/Material__2895.vmt,66,66
+materials/grovestreetgtasa/Material__2907.vmt,66,66
+materials/grovestreetgtasa/Material__2919.vmt,66,66
+materials/grovestreetgtasa/Material__2956.vmt,66,66
+materials/grovestreetgtasa/Material__2968.vmt,66,66
+materials/grovestreetgtasa/Material__2980.vmt,66,66
+materials/grovestreetgtasa/Material__299.vmt,64,64
+materials/grovestreetgtasa/Material__2992.vmt,66,66
+materials/grovestreetgtasa/Material__3004.vmt,66,66
+materials/grovestreetgtasa/Material__3026.vmt,66,66
+materials/grovestreetgtasa/Material__3038.vmt,66,66
+materials/grovestreetgtasa/Material__3050.vmt,66,66
+materials/grovestreetgtasa/Material__3158.vmt,66,66
+materials/grovestreetgtasa/Material__3170.vmt,66,66
+materials/grovestreetgtasa/Material__324.vmt,64,64
+materials/grovestreetgtasa/Material__336.vmt,63,63
+materials/grovestreetgtasa/Material__348.vmt,63,63
+materials/grovestreetgtasa/Material__370.vmt,63,63
+materials/grovestreetgtasa/Material__382.vmt,64,64
+materials/grovestreetgtasa/Material__394.vmt,64,64
+materials/grovestreetgtasa/Material__406.vmt,64,64
+materials/grovestreetgtasa/Material__418.vmt,63,63
+materials/grovestreetgtasa/Material__430.vmt,64,64
+materials/grovestreetgtasa/Material__442.vmt,64,64
+materials/grovestreetgtasa/Material__454.vmt,64,64
+materials/grovestreetgtasa/Material__466.vmt,64,64
+materials/grovestreetgtasa/Material__478.vmt,63,63
+materials/grovestreetgtasa/Material__552.vmt,64,64
+materials/grovestreetgtasa/Material__564.vmt,63,63
+materials/grovestreetgtasa/Material__577.vmt,64,64
+materials/grovestreetgtasa/Material__600.vmt,63,63
+materials/grovestreetgtasa/Material__612.vmt,64,64
+materials/grovestreetgtasa/Material__624.vmt,64,64
+materials/grovestreetgtasa/Material__636.vmt,64,64
+materials/grovestreetgtasa/Material__658.vmt,63,63
+materials/grovestreetgtasa/Material__670.vmt,64,64
+materials/grovestreetgtasa/Material__692.vmt,63,63
+materials/grovestreetgtasa/Material__704.vmt,64,64
+materials/grovestreetgtasa/Material__760.vmt,64,64
+materials/grovestreetgtasa/Material__772.vmt,64,64
+materials/grovestreetgtasa/Material__784.vmt,64,64
+materials/grovestreetgtasa/Material__816.vmt,64,64
+materials/grovestreetgtasa/Material__838.vmt,64,64
+materials/grovestreetgtasa/Material__85.vmt,73,73
+materials/grovestreetgtasa/Material__860.vmt,64,64
+materials/grovestreetgtasa/Material__882.vmt,64,64
+materials/grovestreetgtasa/Material__904.vmt,64,64
+materials/grovestreetgtasa/Material__926.vmt,64,64
+materials/grovestreetgtasa/Material__948.vmt,64,64
+materials/grovestreetgtasa/Material__970.vmt,64,64
+materials/grovestreetgtasa/Material__992.vmt,64,64
+materials/grovestreettest/Material__133.vmt,73,73
+materials/grovestreettest/Material__239.vmt,63,63
+materials/grovestreettest/Material__251.vmt,63,63
+materials/grovestreettest/Material__263.vmt,63,63
+materials/grovestreettest/Material__275.vmt,63,63
+materials/grovestreettest/Material__287.vmt,63,63
+materials/grovestreettest/Material__299.vmt,64,64
+materials/grovestreettest/Material__324.vmt,64,64
+materials/grovestreettest/Material__336.vmt,63,63
+materials/grovestreettest/Material__348.vmt,63,63
+materials/grovestreettest/Material__370.vmt,63,63
+materials/grovestreettest/Material__382.vmt,64,64
+materials/grovestreettest/Material__394.vmt,64,64
+materials/grovestreettest/Material__406.vmt,64,64
+materials/grovestreettest/Material__418.vmt,63,63
+materials/grovestreettest/Material__430.vmt,64,64
+materials/grovestreettest/Material__442.vmt,64,64
+materials/grovestreettest/Material__454.vmt,64,64
+materials/grovestreettest/Material__466.vmt,64,64
+materials/grovestreettest/Material__85.vmt,73,73
+materials/gtasas/Material__1014.vmt,64,64
+materials/gtasas/Material__1036.vmt,64,64
+materials/gtasas/Material__1058.vmt,64,64
+materials/gtasas/Material__1080.vmt,64,64
+materials/gtasas/Material__1102.vmt,64,64
+materials/gtasas/Material__1124.vmt,64,64
+materials/gtasas/Material__1146.vmt,64,64
+materials/gtasas/Material__1168.vmt,64,64
+materials/gtasas/Material__1190.vmt,64,64
+materials/gtasas/Material__1212.vmt,64,64
+materials/gtasas/Material__1234.vmt,64,64
+materials/gtasas/Material__1269.vmt,64,64
+materials/gtasas/Material__1284.vmt,64,64
+materials/gtasas/Material__1299.vmt,64,64
+materials/gtasas/Material__1314.vmt,64,64
+materials/gtasas/Material__1329.vmt,64,64
+materials/gtasas/Material__133.vmt,73,73
+materials/gtasas/Material__1344.vmt,64,64
+materials/gtasas/Material__1359.vmt,64,64
+materials/gtasas/Material__1374.vmt,64,64
+materials/gtasas/Material__1389.vmt,64,64
+materials/gtasas/Material__1404.vmt,64,64
+materials/gtasas/Material__1419.vmt,64,64
+materials/gtasas/Material__1434.vmt,65,65
+materials/gtasas/Material__1459.vmt,65,65
+materials/gtasas/Material__1471.vmt,65,65
+materials/gtasas/Material__1483.vmt,65,65
+materials/gtasas/Material__1495.vmt,65,65
+materials/gtasas/Material__1507.vmt,65,65
+materials/gtasas/Material__1519.vmt,65,65
+materials/gtasas/Material__1555.vmt,65,65
+materials/gtasas/Material__1568.vmt,65,65
+materials/gtasas/Material__1581.vmt,65,65
+materials/gtasas/Material__1594.vmt,65,65
+materials/gtasas/Material__1607.vmt,65,65
+materials/gtasas/Material__1620.vmt,65,65
+materials/gtasas/Material__1633.vmt,65,65
+materials/gtasas/Material__1646.vmt,65,65
+materials/gtasas/Material__1659.vmt,65,65
+materials/gtasas/Material__1672.vmt,65,65
+materials/gtasas/Material__1698.vmt,65,65
+materials/gtasas/Material__1722.vmt,65,65
+materials/gtasas/Material__1735.vmt,65,65
+materials/gtasas/Material__1748.vmt,65,65
+materials/gtasas/Material__1761.vmt,65,65
+materials/gtasas/Material__1774.vmt,65,65
+materials/gtasas/Material__1787.vmt,65,65
+materials/gtasas/Material__1800.vmt,65,65
+materials/gtasas/Material__1813.vmt,65,65
+materials/gtasas/Material__1826.vmt,65,65
+materials/gtasas/Material__1839.vmt,65,65
+materials/gtasas/Material__239.vmt,63,63
+materials/gtasas/Material__251.vmt,63,63
+materials/gtasas/Material__263.vmt,63,63
+materials/gtasas/Material__275.vmt,63,63
+materials/gtasas/Material__287.vmt,63,63
+materials/gtasas/Material__299.vmt,64,64
+materials/gtasas/Material__324.vmt,64,64
+materials/gtasas/Material__336.vmt,63,63
+materials/gtasas/Material__348.vmt,63,63
+materials/gtasas/Material__370.vmt,63,63
+materials/gtasas/Material__382.vmt,64,64
+materials/gtasas/Material__394.vmt,64,64
+materials/gtasas/Material__406.vmt,64,64
+materials/gtasas/Material__418.vmt,63,63
+materials/gtasas/Material__430.vmt,64,64
+materials/gtasas/Material__442.vmt,64,64
+materials/gtasas/Material__454.vmt,64,64
+materials/gtasas/Material__466.vmt,64,64
+materials/gtasas/Material__478.vmt,63,63
+materials/gtasas/Material__552.vmt,64,64
+materials/gtasas/Material__564.vmt,63,63
+materials/gtasas/Material__577.vmt,64,64
+materials/gtasas/Material__600.vmt,63,63
+materials/gtasas/Material__612.vmt,64,64
+materials/gtasas/Material__624.vmt,64,64
+materials/gtasas/Material__636.vmt,64,64
+materials/gtasas/Material__658.vmt,63,63
+materials/gtasas/Material__670.vmt,64,64
+materials/gtasas/Material__692.vmt,63,63
+materials/gtasas/Material__704.vmt,64,64
+materials/gtasas/Material__726.vmt,63,63
+materials/gtasas/Material__738.vmt,64,64
+materials/gtasas/Material__760.vmt,64,64
+materials/gtasas/Material__772.vmt,64,64
+materials/gtasas/Material__784.vmt,64,64
+materials/gtasas/Material__816.vmt,64,64
+materials/gtasas/Material__838.vmt,64,64
+materials/gtasas/Material__85.vmt,73,73
+materials/gtasas/Material__860.vmt,64,64
+materials/gtasas/Material__882.vmt,64,64
+materials/gtasas/Material__904.vmt,64,64
+materials/gtasas/Material__926.vmt,64,64
+materials/gtasas/Material__948.vmt,64,64
+materials/gtasas/Material__970.vmt,64,64
+materials/gtasas/Material__992.vmt,64,64
+materials/handel_server/clan_handel.vmt,73,73
+materials/handel_server/clan_handel.vtf,174984,174984
+materials/handel_server/clan_handel2.vmt,74,74
+materials/handel_server/clan_handel2.vtf,174984,174984
+materials/handel_server/clan_handel2_bump.vmt,160,160
+materials/handel_server/clan_handel2_nrm.vtf,174984,174984
+materials/handel_server/clan_handel_bump.vmt,158,158
+materials/handel_server/clan_handel_nrm.vtf,349760,349760
+materials/houses/Material__2465.vmt,65,65
+materials/houses/Material__2477.vmt,66,66
+materials/houses/Material__2489.vmt,66,66
+materials/houses/Material__2501.vmt,66,66
+materials/houses/Material__2513.vmt,66,66
+materials/houses/Material__2525.vmt,66,66
+materials/houses/Material__2537.vmt,66,66
+materials/houses/Material__2549.vmt,66,66
+materials/housestest/Material__1555.vmt,65,65
+materials/housestest/Material__1568.vmt,65,65
+materials/housestest/Material__1581.vmt,65,65
+materials/housestest/Material__1594.vmt,65,65
+materials/housestest/Material__1607.vmt,65,65
+materials/housestest/Material__1620.vmt,65,65
+materials/housestest/Material__1633.vmt,65,65
+materials/housestest/Material__1646.vmt,65,65
+materials/housestest/Material__1659.vmt,65,65
+materials/housestest/Material__1672.vmt,65,65
+materials/housestest/Material__1698.vmt,65,65
+materials/housestest/Material__2334.vmt,65,65
+materials/housestest/Material__2346.vmt,65,65
+materials/housestest/Material__2358.vmt,65,65
+materials/housestest/Material__2371.vmt,65,65
+materials/housestest/Material__2383.vmt,65,65
+materials/housestest/Material__2395.vmt,65,65
+materials/housestest/Material__2407.vmt,65,65
+materials/housestest/Material__2419.vmt,65,65
+materials/housestest/Material__2431.vmt,65,65
+materials/housestest/Material__2443.vmt,65,65
+materials/housestest/Material__2465.vmt,65,65
+materials/housestest/Material__2477.vmt,66,66
+materials/housestest/Material__2489.vmt,66,66
+materials/housestest/Material__2501.vmt,66,66
+materials/housestest/Material__2513.vmt,66,66
+materials/housestest/Material__2525.vmt,66,66
+materials/housestest/Material__2537.vmt,66,66
+materials/housestest/Material__2549.vmt,66,66
+materials/lods/Material__3227.vmt,69,69
+materials/lods/Material__3238.vmt,67,67
+materials/lods/Material__3239.vmt,67,67
+materials/lods/Material__3240.vmt,67,67
+materials/lods/Material__3241.vmt,69,69
+materials/lods/Material__3242.vmt,67,67
+materials/Map _100/47.vtf,87640,87640
+materials/Map _101/51.vtf,22104,22104
+materials/Map _102/52.vtf,22104,22104
+materials/Map _103/53.vtf,87640,87640
+materials/Map _104/54.vtf,5720,5720
+materials/Map _105/55.vtf,11128,11128
+materials/Map _106/56.vtf,5720,5720
+materials/Map _108/58.vtf,87640,87640
+materials/Map _109/59.vtf,22104,22104
+materials/Map _110/60.vtf,87640,87640
+materials/Map _111/61.vtf,5720,5720
+materials/Map _112/62.vtf,22104,22104
+materials/Map _113/63.vtf,87640,87640
+materials/Map _114/64.vtf,22104,22104
+materials/Map _115/65.vtf,87640,87640
+materials/Map _116/66.vtf,87640,87640
+materials/Map _117/67.vtf,22104,22104
+materials/Map _119/68.vtf,22104,22104
+materials/Map _120/69.vtf,87640,87640
+materials/Map _121/70.vtf,43896,43896
+materials/Map _122/71.vtf,22104,22104
+materials/Map _123/72.vtf,2936,2936
+materials/Map _124/73.vtf,87640,87640
+materials/Map _125/74.vtf,2936,2936
+materials/Map _126/75.vtf,22104,22104
+materials/Map _127/76.vtf,22104,22104
+materials/Map _128/75.vtf,22104,22104
+materials/Map _129/77.vtf,87640,87640
+materials/Map _130/80.vtf,87640,87640
+materials/Map _132/80.vtf,87640,87640
+materials/Map _133/79.vtf,22104,22104
+materials/Map _138/81.vtf,22104,22104
+materials/Map _139/81.vtf,22104,22104
+materials/Map _146/78.vtf,87640,87640
+materials/Map _157/85.vtf,87640,87640
+materials/Map _16/body.vtf,2796384,2796384
+materials/Map _16/body_nrm.vtf,2796384,2796384
+materials/Map _16/dt1_11_window_stack_mlw.vtf,174968,174968
+materials/Map _161/83.vtf,87640,87640
+materials/Map _162/86.vtf,87640,87640
+materials/Map _163/87.vtf,87640,87640
+materials/Map _164/88.vtf,349784,349784
+materials/Map _165/87.vtf,87640,87640
+materials/Map _166/81.vtf,22104,22104
+materials/Map _167/89.vtf,87640,87640
+materials/Map _168/90.vtf,87640,87640
+materials/Map _169/91.vtf,87640,87640
+materials/Map _17/1kirphich.vtf,87640,87640
+materials/Map _17/bmxtexpage.vtf,5720,5720
+materials/Map _171/92.vtf,87640,87640
+materials/Map _172/93.vtf,5720,5720
+materials/Map _173/94.vtf,87640,87640
+materials/Map _174/95.vtf,22104,22104
+materials/Map _175/96.vtf,11128,11128
+materials/Map _176/97.vtf,22104,22104
+materials/Map _177/98.vtf,87640,87640
+materials/Map _178/99.vtf,5720,5720
+materials/Map _179/100.vtf,87640,87640
+materials/Map _18/stekla.vtf,87640,87640
+materials/Map _180/100.vtf,87640,87640
+materials/Map _181/101.vtf,87640,87640
+materials/Map _182/102.vtf,22104,22104
+materials/Map _183/103.vtf,87640,87640
+materials/Map _184/104.vtf,22104,22104
+materials/Map _185/105.vtf,22104,22104
+materials/Map _187/106.vtf,2936,2936
+materials/Map _189/107.vtf,22104,22104
+materials/Map _19/2kirphich.vtf,87640,87640
+materials/Map _19/bmxdetail.vtf,1624,1624
+materials/Map _190/108.vtf,22104,22104
+materials/Map _191/109.vtf,11128,11128
+materials/Map _192/110.vtf,87640,87640
+materials/Map _193/111.vtf,22104,22104
+materials/Map _194/112.vtf,5720,5720
+materials/Map _195/113.vtf,87640,87640
+materials/Map _196/114.vtf,22104,22104
+materials/Map _197/115.vtf,87640,87640
+materials/Map _198/116.vtf,22104,22104
+materials/Map _199/117.vtf,5720,5720
+materials/Map _20/bmxdetail.vtf,1624,1624
+materials/Map _20/kirphich3.vtf,87640,87640
+materials/Map _20/stekla.vtf,87640,87640
+materials/Map _200/118.vtf,22104,22104
+materials/Map _201/119.vtf,11128,11128
+materials/Map _202/120.vtf,11128,11128
+materials/Map _203/121.vtf,87640,87640
+materials/Map _204/122.vtf,22104,22104
+materials/Map _205/123.vtf,22104,22104
+materials/Map _206/124.vtf,11128,11128
+materials/Map _209/122.vtf,22104,22104
+materials/Map _21/bmxdetail.vtf,1624,1624
+materials/Map _210/125.vtf,22104,22104
+materials/Map _211/126.vtf,22104,22104
+materials/Map _212/127.vtf,11128,11128
+materials/Map _213/128.vtf,87640,87640
+materials/Map _214/129.vtf,349784,349784
+materials/Map _215/129.vtf,349784,349784
+materials/Map _216/130.vtf,87640,87640
+materials/Map _217/131.vtf,174968,174968
+materials/Map _218/132.vtf,87640,87640
+materials/Map _219/132.vtf,87640,87640
+materials/Map _220/132.vtf,87640,87640
+materials/Map _229/129.vtf,349784,349784
+materials/Map _230/132.vtf,87640,87640
+materials/Map _234/doroga.vtf,349784,349784
+materials/Map _235/lod1.vtf,174968,174968
+materials/Map _236/lod2.vtf,22104,22104
+materials/Map _237/lod3.vtf,87640,87640
+materials/Map _238/doroga.vtf,349784,349784
+materials/Map _239/bballboard128.vtf,22104,22104
+materials/Map _239/lod4.vtf,87640,87640
+materials/Map _240/drkbrownmetal.vtf,5720,5720
+materials/Map _241/gen_chrome.vtf,22104,22104
+materials/Map _242/cratetop128.vtf,22104,22104
+materials/Map _243/wire2.vtf,5720,5720
+materials/Map _244/car1_128.vtf,22104,22104
+materials/Map _248/Metalox64.vtf,5720,5720
+materials/Map _249/car1_128.vtf,22104,22104
+materials/Map _252/Metalox64.vtf,5720,5720
+materials/Map _254/car2_128.vtf,22104,22104
+materials/Map _257/Metal1_128.vtf,22104,22104
+materials/Map _258/Metal1_128.vtf,22104,22104
+materials/Map _259/lampost_16clr.vtf,22104,22104
+materials/Map _260/white64.vtf,5720,5720
+materials/Map _261/trafficlight_64.vtf,5720,5720
+materials/Map _262/black64.vtf,5720,5720
+materials/Map _263/Metal1_128.vtf,22104,22104
+materials/Map _264/lampost_16clr.vtf,22104,22104
+materials/Map _265/black64.vtf,5720,5720
+materials/Map _266/roadsignbackground128.vtf,5720,5720
+materials/Map _267/Metal1_128.vtf,22104,22104
+materials/Map _268/telepole2128.vtf,22104,22104
+materials/Map _269/telepole2128.vtf,22104,22104
+materials/Map _270/metatelepole1.vtf,43896,43896
+materials/Map _271/steel64.vtf,5720,5720
+materials/Map _272/teleconect2.vtf,5720,5720
+materials/Map _273/cardboxes_128.vtf,22104,22104
+materials/Map _274/CJ_SLATEDWOOD.vtf,22104,22104
+materials/Map _28/6.vtf,87640,87640
+materials/Map _28/bmxdetail.vtf,1624,1624
+materials/Map _29/7.vtf,87640,87640
+materials/Map _29/bmxdetail.vtf,1624,1624
+materials/Map _30/4.vtf,22104,22104
+materials/Map _30/bmxdetail.vtf,1624,1624
+materials/Map _31/8.vtf,22104,22104
+materials/Map _32/9.vtf,87640,87640
+materials/Map _32/bmxtexpage.vtf,5720,5720
+materials/Map _33/10.vtf,87640,87640
+materials/Map _35/11.vtf,87640,87640
+materials/Map _35/bmxtexpage.vtf,5720,5720
+materials/Map _36/3.vtf,174968,174968
+materials/Map _36/cvet.vtf,5720,5720
+materials/Map _37/1.vtf,349784,349784
+materials/Map _37/bmxwheel.vtf,5720,5720
+materials/Map _38/6.vtf,87640,87640
+materials/Map _38/bmxwheel.vtf,5720,5720
+materials/Map _39/12.vtf,87640,87640
+materials/Map _40/13.vtf,87640,87640
+materials/Map _40/bmxtexpage.vtf,5720,5720
+materials/Map _41/14.vtf,87640,87640
+materials/Map _42/8.vtf,22104,22104
+materials/Map _43/15.vtf,11128,11128
+materials/Map _44/16.vtf,22104,22104
+materials/Map _45/17.vtf,87640,87640
+materials/Map _46/10.vtf,87640,87640
+materials/Map _47/2.vtf,87640,87640
+materials/Map _53/14.vtf,87640,87640
+materials/Map _54/5.vtf,87640,87640
+materials/Map _55/16.vtf,22104,22104
+materials/Map _56/6.vtf,87640,87640
+materials/Map _57/12.vtf,87640,87640
+materials/Map _58/17.vtf,87640,87640
+materials/Map _59/10.vtf,87640,87640
+materials/Map _60/6.vtf,87640,87640
+materials/Map _61/10.vtf,87640,87640
+materials/Map _62/8.vtf,22104,22104
+materials/Map _63/10.vtf,87640,87640
+materials/Map _64/2.vtf,87640,87640
+materials/Map _65/18.vtf,349784,349784
+materials/Map _66/19.vtf,87640,87640
+materials/Map _67/20.vtf,87640,87640
+materials/Map _68/18.vtf,349784,349784
+materials/Map _69/21.vtf,22104,22104
+materials/Map _70/22.vtf,43896,43896
+materials/Map _71/23.vtf,22104,22104
+materials/Map _72/24.vtf,22104,22104
+materials/Map _73/25.vtf,87640,87640
+materials/Map _74/26.vtf,22104,22104
+materials/Map _75/27.vtf,22104,22104
+materials/Map _76/28.vtf,87640,87640
+materials/Map _77/29.vtf,22104,22104
+materials/Map _78/19.vtf,87640,87640
+materials/Map _79/30.vtf,2936,2936
+materials/Map _80/31.vtf,22104,22104
+materials/Map _81/32.vtf,22104,22104
+materials/Map _82/33.vtf,22104,22104
+materials/Map _83/34.vtf,5656,5656
+materials/Map _84/35.vtf,43896,43896
+materials/Map _85/36.vtf,22104,22104
+materials/Map _86/37.vtf,5720,5720
+materials/Map _87/38.vtf,5656,5656
+materials/Map _88/39.vtf,5656,5656
+materials/Map _89/40.vtf,2936,2936
+materials/Map _90/41.vtf,43896,43896
+materials/Map _91/42.vtf,22104,22104
+materials/Map _92/43.vtf,87640,87640
+materials/Map _93/44.vtf,43896,43896
+materials/Map _94/45.vtf,22104,22104
+materials/Map _95/46.vtf,22104,22104
+materials/Map _96/47.vtf,87640,87640
+materials/Map _97/48.vtf,87640,87640
+materials/Map _98/49.vtf,22104,22104
+materials/Map _99/50.vtf,87640,87640
+materials/myproject/Material__133.vmt,73,73
+materials/myproject/Material__239.vmt,63,63
+materials/myproject/Material__251.vmt,63,63
+materials/myproject/Material__263.vmt,63,63
+materials/myproject/Material__275.vmt,63,63
+materials/myproject/Material__287.vmt,63,63
+materials/myproject/Material__299.vmt,64,64
+materials/myproject/Material__324.vmt,64,64
+materials/myproject/Material__336.vmt,63,63
+materials/myproject/Material__348.vmt,63,63
+materials/myproject/Material__370.vmt,63,63
+materials/myproject/Material__382.vmt,64,64
+materials/myproject/Material__394.vmt,64,64
+materials/myproject/Material__406.vmt,64,64
+materials/myproject/Material__418.vmt,63,63
+materials/myproject/Material__430.vmt,64,64
+materials/myproject/Material__442.vmt,64,64
+materials/myproject/Material__454.vmt,64,64
+materials/myproject/Material__466.vmt,64,64
+materials/myproject/Material__85.vmt,73,73
+materials/myproject3/Material__1014.vmt,64,64
+materials/myproject3/Material__1036.vmt,64,64
+materials/myproject3/Material__1058.vmt,64,64
+materials/myproject3/Material__1080.vmt,64,64
+materials/myproject3/Material__1102.vmt,64,64
+materials/myproject3/Material__1124.vmt,64,64
+materials/myproject3/Material__1146.vmt,64,64
+materials/myproject3/Material__1168.vmt,64,64
+materials/myproject3/Material__1190.vmt,64,64
+materials/myproject3/Material__1212.vmt,64,64
+materials/myproject3/Material__1234.vmt,64,64
+materials/myproject3/Material__1269.vmt,64,64
+materials/myproject3/Material__1284.vmt,64,64
+materials/myproject3/Material__1299.vmt,64,64
+materials/myproject3/Material__1314.vmt,64,64
+materials/myproject3/Material__1329.vmt,64,64
+materials/myproject3/Material__133.vmt,73,73
+materials/myproject3/Material__1344.vmt,64,64
+materials/myproject3/Material__1359.vmt,64,64
+materials/myproject3/Material__1374.vmt,64,64
+materials/myproject3/Material__1389.vmt,64,64
+materials/myproject3/Material__1404.vmt,64,64
+materials/myproject3/Material__1419.vmt,64,64
+materials/myproject3/Material__1434.vmt,65,65
+materials/myproject3/Material__1459.vmt,65,65
+materials/myproject3/Material__1471.vmt,65,65
+materials/myproject3/Material__1483.vmt,65,65
+materials/myproject3/Material__1495.vmt,65,65
+materials/myproject3/Material__1507.vmt,65,65
+materials/myproject3/Material__1519.vmt,65,65
+materials/myproject3/Material__1555.vmt,65,65
+materials/myproject3/Material__1568.vmt,65,65
+materials/myproject3/Material__1581.vmt,65,65
+materials/myproject3/Material__1594.vmt,65,65
+materials/myproject3/Material__1607.vmt,65,65
+materials/myproject3/Material__1620.vmt,65,65
+materials/myproject3/Material__1633.vmt,65,65
+materials/myproject3/Material__1646.vmt,65,65
+materials/myproject3/Material__1659.vmt,65,65
+materials/myproject3/Material__1672.vmt,65,65
+materials/myproject3/Material__1698.vmt,65,65
+materials/myproject3/Material__1722.vmt,65,65
+materials/myproject3/Material__1735.vmt,65,65
+materials/myproject3/Material__1748.vmt,65,65
+materials/myproject3/Material__1761.vmt,65,65
+materials/myproject3/Material__1774.vmt,65,65
+materials/myproject3/Material__1787.vmt,65,65
+materials/myproject3/Material__1800.vmt,65,65
+materials/myproject3/Material__1813.vmt,65,65
+materials/myproject3/Material__1826.vmt,65,65
+materials/myproject3/Material__1839.vmt,65,65
+materials/myproject3/Material__1874.vmt,65,65
+materials/myproject3/Material__1898.vmt,65,65
+materials/myproject3/Material__1910.vmt,65,65
+materials/myproject3/Material__1970.vmt,65,65
+materials/myproject3/Material__1982.vmt,65,65
+materials/myproject3/Material__2066.vmt,65,65
+materials/myproject3/Material__2198.vmt,65,65
+materials/myproject3/Material__2246.vmt,65,65
+materials/myproject3/Material__2268.vmt,65,65
+materials/myproject3/Material__2280.vmt,65,65
+materials/myproject3/Material__2292.vmt,65,65
+materials/myproject3/Material__2304.vmt,65,65
+materials/myproject3/Material__239.vmt,63,63
+materials/myproject3/Material__251.vmt,63,63
+materials/myproject3/Material__263.vmt,63,63
+materials/myproject3/Material__275.vmt,63,63
+materials/myproject3/Material__287.vmt,63,63
+materials/myproject3/Material__299.vmt,64,64
+materials/myproject3/Material__324.vmt,64,64
+materials/myproject3/Material__336.vmt,63,63
+materials/myproject3/Material__348.vmt,63,63
+materials/myproject3/Material__370.vmt,63,63
+materials/myproject3/Material__382.vmt,64,64
+materials/myproject3/Material__394.vmt,64,64
+materials/myproject3/Material__406.vmt,64,64
+materials/myproject3/Material__418.vmt,63,63
+materials/myproject3/Material__430.vmt,64,64
+materials/myproject3/Material__442.vmt,64,64
+materials/myproject3/Material__454.vmt,64,64
+materials/myproject3/Material__466.vmt,64,64
+materials/myproject3/Material__478.vmt,63,63
+materials/myproject3/Material__552.vmt,64,64
+materials/myproject3/Material__564.vmt,63,63
+materials/myproject3/Material__577.vmt,64,64
+materials/myproject3/Material__600.vmt,63,63
+materials/myproject3/Material__612.vmt,64,64
+materials/myproject3/Material__624.vmt,64,64
+materials/myproject3/Material__636.vmt,64,64
+materials/myproject3/Material__658.vmt,63,63
+materials/myproject3/Material__670.vmt,64,64
+materials/myproject3/Material__692.vmt,63,63
+materials/myproject3/Material__704.vmt,64,64
+materials/myproject3/Material__726.vmt,63,63
+materials/myproject3/Material__738.vmt,64,64
+materials/myproject3/Material__760.vmt,64,64
+materials/myproject3/Material__772.vmt,64,64
+materials/myproject3/Material__784.vmt,64,64
+materials/myproject3/Material__816.vmt,64,64
+materials/myproject3/Material__838.vmt,64,64
+materials/myproject3/Material__85.vmt,73,73
+materials/myproject3/Material__860.vmt,64,64
+materials/myproject3/Material__882.vmt,64,64
+materials/myproject3/Material__904.vmt,64,64
+materials/myproject3/Material__926.vmt,64,64
+materials/myproject3/Material__948.vmt,64,64
+materials/myproject3/Material__970.vmt,64,64
+materials/myproject3/Material__992.vmt,64,64
+materials/propsgtasa/Material__3273.vmt,76,76
+materials/propsgtasa/Material__3286.vmt,76,76
+materials/propsgtasa/Material__3298.vmt,73,73
+materials/propsgtasa/Material__3310.vmt,74,74
+materials/propsgtasa/Material__3322.vmt,68,68
+materials/propsgtasa/Material__3344.vmt,71,71
+materials/propsgtasa/Material__3392.vmt,72,72
+materials/propsgtasa/Material__3404.vmt,71,71
+materials/propsgtasa/Material__3440.vmt,72,72
+materials/propsgtasa/Material__3464.vmt,71,71
+materials/propsgtasa/Material__3501.vmt,73,73
+materials/propsgtasa/Material__3514.vmt,73,73
+materials/propsgtasa/Material__3527.vmt,76,76
+materials/propsgtasa/Material__3539.vmt,70,70
+materials/propsgtasa/Material__3583.vmt,78,78
+materials/propsgtasa/Material__3595.vmt,70,70
+materials/propsgtasa/Material__3607.vmt,73,73
+materials/propsgtasa/Material__3619.vmt,76,76
+materials/propsgtasa/Material__3632.vmt,70,70
+materials/propsgtasa/Material__3655.vmt,84,84
+materials/propsgtasa/Material__3667.vmt,73,73
+materials/propsgtasa/Material__3689.vmt,75,75
+materials/propsgtasa/Material__3701.vmt,75,75
+materials/propsgtasa/Material__3713.vmt,76,76
+materials/propsgtasa/Material__3725.vmt,70,70
+materials/propsgtasa/Material__3737.vmt,74,74
+materials/propsgtasas/Material__3783.vmt,76,76
+materials/propsgtasas/Material__3784.vmt,76,76

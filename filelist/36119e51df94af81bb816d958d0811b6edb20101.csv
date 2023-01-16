@@ -1,0 +1,43 @@
+filename,size,compressed
+materials/maps/xc_rocks_easy/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/xc_rocks_easy/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/xc_rocks_easy/nature/water_canals_water_clear_1120_-1120_720.vmt,170,170
+materials/maps/xc_rocks_easy/nature/water_canals_water2_4352_-3296_736.vmt,165,165
+materials/maps/xc_rocks_easy/maps/xc_rocks_easy/nature/water_canals_water2_4352_-3296_736_depth_64.vmt,147,147
+materials/maps/xc_rocks_easy/maps/xc_rocks_easy/nature/water_canals_water_clear_1120_-1120_720_depth_16.vmt,152,152
+materials/maps/xc_rocks_easy/cubemapdefault.vtf,28753,28753
+materials/maps/xc_rocks_easy/c1120_-1120_720.vtf,28753,28753
+materials/maps/xc_rocks_easy/c4352_-3296_736.vtf,28753,28753
+materials/maps/xc_rocks_easy/c144_64_816.vtf,28753,28753
+materials/maps/xc_rocks_easy/c1056_-2312_720.vtf,28753,28753
+materials/maps/xc_rocks_easy/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/xc_rocks_easy/c1120_-1120_720.hdr.vtf,76528,76528
+materials/maps/xc_rocks_easy/c4352_-3296_736.hdr.vtf,76528,76528
+materials/maps/xc_rocks_easy/c144_64_816.hdr.vtf,76528,76528
+materials/maps/xc_rocks_easy/c1056_-2312_720.hdr.vtf,76528,76528
+materials/maps/turtleshock/badlogo.vtf,174944,174944
+materials/maps/turtleshock/badlogo.vmt,118,118
+materials/models/fibbs/torch.vmt,178,178
+materials/models/fibbs/torch.vtf,174984,174984
+materials/models/fibbs/torchmount.vmt,199,199
+materials/models/fibbs/torchmount.vtf,43912,43912
+materials/models/fibbs/torchmount_n.vtf,87632,87632
+materials/models/fibbs/torch_n.vtf,349776,349776
+materials/turtleshock/mapfixedbyshock vtf.vmt,98,98
+materials/turtleshock/mapfixedbyshock vtf.vtf,87616,87616
+models/fibbs/torch/torchwithmount.dx80.vtx,9147,9147
+models/fibbs/torch/torchwithmount.dx90.vtx,9147,9147
+models/fibbs/torch/torchwithmount.sw.vtx,9147,9147
+models/fibbs/torch/torchwithmount.phy,8997,8997
+models/fibbs/torch/torchwithmount.vvd,38528,38528
+models/fibbs/torch/torchwithmount.mdl,1912,1912
+sound/rocks/duke_ballsofsteel_01.mp3,68205,68205
+C:/Program Files (x86)/Steam/steamapps/emilsm64/counter-strike source/cstrike/particles/thw_river.pcf,21672,21672
+materials/WaterSource/particles/SplashBottom.vmt,130,130
+materials/WaterSource/particles/SplashBottom.vtf,87616,87616
+materials/WaterSource/particles/WaterFall.vmt,116,116
+materials/WaterSource/particles/Waterfall.vtf,43872,43872
+materials/WaterSource/particles/water_splash_01.vmt,122,122
+materials/WaterSource/particles/water_splash_01.vtf,22080,22080
+materials/WaterSource/particles/water_splash_02.vmt,122,122
+materials/WaterSource/particles/water_splash_02.vtf,22080,22080

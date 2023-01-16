@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/bhop_colorclash/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_colorclash/cubemapdefault.hdr.vtf,76528,76528
+materials/Color/grey.vmt,61,61
+materials/Color/grey.vtf,11144,11144
+materials/devneons/blue_neon.vmt,108,108
+materials/devneons/blue_neon.vtf,43912,43912
+materials/Color/white.vmt,62,62
+materials/Color/white.vtf,11144,11144
+materials/devneons/white_neon.vmt,107,107
+materials/devneons/white_neon.vtf,43912,43912
+materials/Color/purple html.vmt,68,68
+materials/Color/purple html.vtf,11144,11144
+materials/RealWorldTextures/glass.vmt,252,252
+materials/RealWorldTextures/glass.vtf,349760,349760
+materials/devneons/green_neon.vmt,107,107
+materials/devneons/green_neon.vtf,43912,43912
+materials/Color/firebrick.vmt,66,66
+materials/Color/firebrick.vtf,11144,11144
+materials/devneons/orange_neon.vmt,108,108
+materials/devneons/orange_neon.vtf,43912,43912
+materials/devneons/red_neon.vmt,105,105
+materials/devneons/red_neon.vtf,43912,43912
+materials/skybox/lunarsky_01up.vmt,122,122
+materials/skybox/lunarsky_01up.vtf,2796424,2796424
+materials/skybox/lunarsky_01dn.vmt,122,122
+materials/skybox/lunarsky_01dn.vtf,2796424,2796424
+materials/skybox/lunarsky_01lf.vmt,122,122
+materials/skybox/lunarsky_01lf.vtf,2796424,2796424
+materials/skybox/lunarsky_01rt.vmt,122,122
+materials/skybox/lunarsky_01rt.vtf,2796424,2796424
+materials/skybox/lunarsky_01ft.vmt,122,122
+materials/skybox/lunarsky_01ft.vtf,2796424,2796424
+materials/skybox/lunarsky_01bk.vmt,122,122
+materials/skybox/lunarsky_01bk.vtf,2796424,2796424
+maps/bhop_colorclash.nav,205,205

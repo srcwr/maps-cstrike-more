@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/surf_badlands_r1/metal/citadel_metalwall077a_0_0_0.vmt,137,137
+materials/maps/surf_badlands_r1/glass/combineglass001a_0_0_0.vmt,132,132
+materials/maps/surf_badlands_r1/metal/citadel_metalwall063a_0_0_0.vmt,137,137
+materials/maps/surf_badlands_r1/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/surf_badlands_r1/dev/dev_water2_depth_4.vmt,100,100
+materials/maps/surf_badlands_r1/dev/dev_water2_depth_8.vmt,100,100
+materials/maps/surf_badlands_r1/cubemapdefault.vtf,9824,9824
+materials/maps/surf_badlands_r1/c0_0_0.vtf,9824,9824
+materials/CUSTOMS/THANKS_WALL2.vmt,68,68
+materials/customs/thanks_wall2.vtf,699272,699272
+materials/CUSTOMS/THANKS_WALL1.vmt,68,68
+materials/customs/thanks_wall1.vtf,699272,699272
+maps/soundcache/surf_badlands_r1.cache,16,16

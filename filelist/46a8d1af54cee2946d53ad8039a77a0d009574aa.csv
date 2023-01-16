@@ -1,0 +1,542 @@
+filename,size,compressed
+materials/maps/ze_starwars_v2/bk/bkmarbletiles1large1_-7541_12218_-3989.vmt,143,143
+materials/maps/ze_starwars_v2/de_piranesi/marblefloor04_-7541_12218_-3989.vmt,145,145
+materials/maps/ze_starwars_v2/metal/citadel_metalwall076a_-7541_12218_-3989.vmt,147,147
+materials/maps/ze_starwars_v2/dev/dev_water2_-7541_12218_-3989.vmt,157,157
+materials/maps/ze_starwars_v2/glass/combineglass001a_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/glass/glasswindowbreak070b_-7541_12218_-3989.vmt,114,114
+materials/maps/ze_starwars_v2/glass/offwndwb_-7541_12218_-3989.vmt,222,222
+materials/maps/ze_starwars_v2/skyppy3/metal_floor04a_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/skyppy3/metal_floor05b_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/metal/citadel_tilefloor016a_-7541_12218_-3989.vmt,147,147
+materials/maps/ze_starwars_v2/de_piranesi/wooddoor01_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/effects/com_shield003a_-7541_12218_-3989.vmt,165,165
+materials/maps/ze_starwars_v2/de_chateau/groundf01_-7541_12218_-3989.vmt,140,140
+materials/maps/ze_starwars_v2/cs_havana/door04_-7541_12218_-3989.vmt,136,136
+materials/maps/ze_starwars_v2/cs_havana/iflrd_-7541_12218_-3989.vmt,135,135
+materials/maps/ze_starwars_v2/tile/milflr002_-7541_12218_-3989.vmt,134,134
+materials/maps/ze_starwars_v2/metal/metalroof004a_-7541_12218_-3989.vmt,139,139
+materials/maps/ze_starwars_v2/de_piranesi/walltrim01_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/tile/milflr001_-7541_12218_-3989.vmt,134,134
+materials/maps/ze_starwars_v2/metal/metalwall076a_-7541_12218_-3989.vmt,139,139
+materials/maps/ze_starwars_v2/glass/glasswindow070c_-7541_12218_-3989.vmt,141,141
+materials/maps/ze_starwars_v2/maps/ze_starwars_v2/dev/dev_water2_-7541_12218_-3989_depth_243.vmt,140,140
+materials/maps/ze_starwars_v2/cubemapdefault.vtf,9832,9832
+materials/maps/ze_starwars_v2/c-7541_12218_-3989.vtf,9832,9832
+materials/maps/ze_starwars_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_starwars_v2/c-7541_12218_-3989.hdr.vtf,76528,76528
+"sound/star wars I/ah,i think_2.mp3",50197,50197
+sound/star wars I/ahhh_1.mp3,40584,40584
+sound/star wars I/Album.mp3,863084,863084
+sound/star wars I/almar.mp3,464250,464250
+sound/star wars I/ams_anakin_is_free.mp3,2904024,2904024
+sound/star wars I/anakin_and_padme.mp3,2545415,2545415
+sound/star wars I/Ap.mp3,1419388,1419388
+sound/star wars I/awake.mp3,3579026,3579026
+sound/star wars I/battle hero_1.mp3,3797118,3797118
+sound/star wars I/breathing.mp3,82363,82363
+sound/star wars I/Dart_vader.mp3,2253889,2253889
+sound/star wars I/Droid invasion.mp3,4776690,4776690
+sound/star wars I/Duel of the Fates.mp3,4071302,4071302
+sound/star wars I/end.mp3,2479175,2479175
+sound/star wars I/epic.mp3,2463887,2463887
+sound/star wars I/evrething_1.mp3,141312,141312
+sound/star wars I/final.mp3,1028197,1028197
+sound/star wars I/final_end.mp3,2609027,2609027
+sound/star wars I/glory.mp3,1606227,1606227
+sound/star wars I/Gravity.mp3,1246797,1246797
+sound/star wars I/imper.mp3,2842803,2842803
+sound/star wars I/isolation.mp3,2091466,2091466
+sound/star wars I/main_title.mp3,765536,765536
+sound/star wars I/Massive_1.mp3,2336565,2336565
+sound/star wars I/maul fear.mp3,296750,296750
+sound/star wars I/mech.mp3,89696,89696
+sound/star wars I/Neutral.mp3,2544534,2544534
+sound/star wars I/Now you will ex_1.mp3,109547,109547
+"sound/star wars I/Oh, oo_1.mp3",32224,32224
+sound/star wars I/only_1.mp3,94500,94500
+sound/star wars I/order 66.mp3,1861885,1861885
+sound/star wars I/Power of the dark side_1.mp3,99081,99081
+sound/star wars I/qui_gon_and_obi_wan_rescue_the_queen.mp3,3111541,3111541
+sound/star wars I/Resis.mp3,7497315,7497315
+sound/star wars I/Rey.mp3,1868194,1868194
+"sound/star wars I/Roger,roger_1.mp3",30971,30971
+sound/star wars I/rogeroger_1.mp3,140851,140851
+sound/star wars I/score_1.mp3,1851138,1851138
+sound/star wars I/Send fleet_1.mp3,67751,67751
+sound/star wars I/ships.mp3,1598992,1598992
+sound/star wars I/sith.mp3,2514843,2514843
+sound/star wars I/Skillet_fl.mp3,9411611,9411611
+sound/star wars I/speak vader.mp3,81134,81134
+sound/star wars I/surrender jedi_1.mp3,35568,35568
+sound/star wars I/TIE.wav,414882,414882
+sound/star wars I/Vader_2.mp3,572228,572228
+sound/star wars I/You will be destroyed_1.mp3,158013,158013
+cfg/sourcemod/entwatch/maps/ze_starwars_v2fix.cfg,3104,3104
+maps/ze_starwars_v2fix_particles.txt,64,64
+materials/anijf/ani-cockpit.vmt,63,63
+materials/anijf/ani-cockpit.vtf,699256,699256
+materials/anijf/ani-hullmap.vmt,63,63
+materials/anijf/ani-hullmap.vtf,699256,699256
+materials/anijf/ani-parts.vmt,61,61
+materials/anijf/ani-parts.vtf,174968,174968
+materials/anijf/ani-wings.vmt,61,61
+materials/anijf/ani-wings.vtf,174968,174968
+materials/arcup/base.vmt,56,56
+materials/arcup/base.vtf,699256,699256
+materials/arcup/bigwings.vmt,60,60
+materials/arcup/bigwings.vtf,699256,699256
+materials/arcup/body.vmt,56,56
+materials/arcup/body.vtf,699256,699256
+materials/arcup/cockpit.vmt,59,59
+materials/arcup/cockpit.vtf,699256,699256
+materials/arcup/engines.vmt,59,59
+materials/arcup/engines.vtf,699256,699256
+materials/arcup/guns.vmt,56,56
+materials/arcup/guns.vtf,699256,699256
+materials/arcup/littlewings.vmt,63,63
+materials/arcup/littlewings.vtf,699256,699256
+materials/arcup/nose.vmt,56,56
+materials/arcup/nose.vtf,699256,699256
+materials/arcup/struts.vmt,58,58
+materials/arcup/struts.vtf,699256,699256
+materials/arcup/turret.vmt,58,58
+materials/arcup/turret.vtf,699256,699256
+materials/BK/BKmarbletiles1large1.vmt,198,198
+materials/BK/BKmarbletiles1large1.vtf,175008,175008
+materials/BK/BKmarbletiles1large_normal.vtf,175008,175008
+materials/carpet/OFFFLRB.vmt,140,140
+materials/carpet/offflrb.vtf,174968,174968
+materials/detail/detailsprites.vmt,161,161
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/detail/dt_carpet1.vtf,22064,22064
+materials/glass/glasswindowbreak070b.vmt,672,672
+materials/glass/glasswindowbreak070b.vtf,349744,349744
+materials/glass/glasswindowbreak070b_mask.vtf,174968,174968
+materials/glass/offwndwb.vmt,227,227
+materials/glass/offwndwb.vtf,349744,349744
+materials/glass/offwndwb_ref.vtf,174968,174968
+materials/gunship/canopy.vmt,60,60
+materials/gunship/canopy.vtf,174968,174968
+materials/gunship/engines.vmt,61,61
+materials/gunship/engines.vtf,699256,699256
+materials/gunship/gunpod1.vmt,61,61
+materials/gunship/gunpod1.vtf,174968,174968
+materials/gunship/hull.vmt,58,58
+materials/gunship/hull.vtf,699256,699256
+materials/gunship/interior.vmt,62,62
+materials/gunship/interior.vtf,699256,699256
+materials/gunship/wings.vmt,59,59
+materials/gunship/wings.vtf,699256,699256
+materials/jedi2/TEX00000.vmt,60,60
+materials/jedi2/TEX00000.vtf,21992,21992
+materials/jedi2/TEX00001.vmt,60,60
+materials/jedi2/TEX00001.vtf,888,888
+materials/jedi2/TEX00002.vmt,60,60
+materials/jedi2/TEX00002.vtf,21992,21992
+materials/jedi2/TEX00003.vmt,60,60
+materials/jedi2/TEX00003.vtf,11128,11128
+materials/jedi2/TEX00004.vmt,60,60
+materials/jedi2/TEX00004.vtf,43896,43896
+materials/jedi2/TEX00005.vmt,60,60
+materials/jedi2/TEX00005.vtf,43896,43896
+materials/jedi2/TEX00006.vmt,60,60
+materials/jedi2/TEX00006.vtf,11128,11128
+materials/jedi2/TEX00007.vmt,60,60
+materials/jedi2/TEX00007.vtf,2936,2936
+materials/jedi2/TEX00008.vmt,60,60
+materials/jedi2/TEX00008.vtf,21992,21992
+materials/jedi2/TEX00009.vmt,60,60
+materials/jedi2/TEX00009.vtf,21992,21992
+materials/jedi2/TEX00010.vmt,60,60
+materials/jedi2/TEX00010.vtf,21992,21992
+materials/jedi2/TEX00011.vmt,60,60
+materials/jedi2/TEX00011.vtf,21992,21992
+materials/jedi2/TEX00012.vmt,60,60
+materials/jedi2/TEX00012.vtf,21992,21992
+materials/jedi2/TEX00013.vmt,60,60
+materials/jedi2/TEX00013.vtf,21992,21992
+materials/jedi2/TEX00014.vmt,60,60
+materials/jedi2/TEX00014.vtf,43896,43896
+materials/jedi2/TEX00015.vmt,60,60
+materials/jedi2/TEX00015.vtf,5608,5608
+materials/jedi2/TEX00016.vmt,60,60
+materials/jedi2/TEX00016.vtf,11128,11128
+materials/jedi2/TEX00017.vmt,60,60
+materials/jedi2/TEX00017.vtf,21992,21992
+materials/jedi2/TEX00018.vmt,60,60
+materials/jedi2/TEX00018.vtf,43896,43896
+materials/jedi2/TEX00019.vmt,60,60
+materials/jedi2/TEX00019.vtf,11048,11048
+materials/jedi2/TEX00020.vmt,60,60
+materials/jedi2/TEX00020.vtf,11048,11048
+materials/jedi2/TEX00021.vmt,60,60
+materials/jedi2/TEX00021.vtf,11128,11128
+materials/jedi2/TEX00022.vmt,60,60
+materials/jedi2/TEX00022.vtf,5608,5608
+materials/jedi2/TEX00023.vmt,60,60
+materials/jedi2/TEX00023.vtf,21992,21992
+materials/jedi2/TEX00024.vmt,60,60
+materials/jedi2/TEX00024.vtf,21992,21992
+materials/jedi2/TEX00025.vmt,60,60
+materials/jedi2/TEX00025.vtf,11048,11048
+materials/jedi2/TEX00026.vmt,60,60
+materials/jedi2/TEX00026.vtf,5608,5608
+materials/jedi2/TEX00027.vmt,60,60
+materials/jedi2/TEX00027.vtf,5608,5608
+materials/jedi2/TEX00028.vmt,60,60
+materials/jedi2/TEX00028.vtf,888,888
+materials/LIGHTS/WHITE001.vmt,127,127
+materials/LIGHTS/White002.vtf,2936,2936
+materials/maps/ze_starwars_v1fix/bk/bkmarbletiles1large1_-7541_12218_-3989.vmt,146,146
+materials/maps/ze_starwars_v1fix/c-7541_12218_-3989.hdr.vtf,76528,76528
+materials/maps/ze_starwars_v1fix/c-7541_12218_-3989.vtf,9832,9832
+materials/maps/ze_starwars_v1fix/cs_havana/door04_-7541_12218_-3989.vmt,139,139
+materials/maps/ze_starwars_v1fix/cs_havana/iflrd_-7541_12218_-3989.vmt,138,138
+materials/maps/ze_starwars_v1fix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_starwars_v1fix/cubemapdefault.vtf,9832,9832
+materials/maps/ze_starwars_v1fix/dev/dev_water2_-7541_12218_-3989.vmt,160,160
+materials/maps/ze_starwars_v1fix/de_chateau/groundf01_-7541_12218_-3989.vmt,143,143
+materials/maps/ze_starwars_v1fix/de_piranesi/marblefloor04_-7541_12218_-3989.vmt,148,148
+materials/maps/ze_starwars_v1fix/de_piranesi/walltrim01_-7541_12218_-3989.vmt,145,145
+materials/maps/ze_starwars_v1fix/de_piranesi/wooddoor01_-7541_12218_-3989.vmt,145,145
+materials/maps/ze_starwars_v1fix/effects/com_shield003a_-7541_12218_-3989.vmt,168,168
+materials/maps/ze_starwars_v1fix/glass/combineglass001a_-7541_12218_-3989.vmt,145,145
+materials/maps/ze_starwars_v1fix/glass/glasswindow070c_-7541_12218_-3989.vmt,144,144
+materials/maps/ze_starwars_v1fix/glass/glasswindowbreak070b_-7541_12218_-3989.vmt,114,114
+materials/maps/ze_starwars_v1fix/glass/offwndwb_-7541_12218_-3989.vmt,228,228
+materials/maps/ze_starwars_v1fix/maps/ze_starwars_v1fix/dev/dev_water2_-7541_12218_-3989_depth_243.vmt,143,143
+materials/maps/ze_starwars_v1fix/metal/citadel_metalwall076a_-7541_12218_-3989.vmt,150,150
+materials/maps/ze_starwars_v1fix/metal/citadel_tilefloor016a_-7541_12218_-3989.vmt,150,150
+materials/maps/ze_starwars_v1fix/metal/metalroof004a_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v1fix/metal/metalwall076a_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v1fix/tile/milflr001_-7541_12218_-3989.vmt,137,137
+materials/maps/ze_starwars_v1fix/tile/milflr002_-7541_12218_-3989.vmt,137,137
+materials/maps/ze_starwars_v2/bk/bkmarbletiles1large1_-7541_12218_-3989.vmt,143,143
+materials/maps/ze_starwars_v2/c-7541_12218_-3989.hdr.vtf,76528,76528
+materials/maps/ze_starwars_v2/c-7541_12218_-3989.vtf,9832,9832
+materials/maps/ze_starwars_v2/cs_havana/door04_-7541_12218_-3989.vmt,136,136
+materials/maps/ze_starwars_v2/cs_havana/iflrd_-7541_12218_-3989.vmt,135,135
+materials/maps/ze_starwars_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_starwars_v2/cubemapdefault.vtf,9832,9832
+materials/maps/ze_starwars_v2/dev/dev_water2_-7541_12218_-3989.vmt,157,157
+materials/maps/ze_starwars_v2/de_chateau/groundf01_-7541_12218_-3989.vmt,140,140
+materials/maps/ze_starwars_v2/de_piranesi/marblefloor04_-7541_12218_-3989.vmt,145,145
+materials/maps/ze_starwars_v2/de_piranesi/walltrim01_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/de_piranesi/wooddoor01_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/effects/com_shield003a_-7541_12218_-3989.vmt,165,165
+materials/maps/ze_starwars_v2/glass/combineglass001a_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/glass/glasswindow070c_-7541_12218_-3989.vmt,141,141
+materials/maps/ze_starwars_v2/glass/glasswindowbreak070b_-7541_12218_-3989.vmt,114,114
+materials/maps/ze_starwars_v2/glass/offwndwb_-7541_12218_-3989.vmt,222,222
+materials/maps/ze_starwars_v2/maps/ze_starwars_v2/dev/dev_water2_-7541_12218_-3989_depth_243.vmt,140,140
+materials/maps/ze_starwars_v2/metal/citadel_metalwall076a_-7541_12218_-3989.vmt,147,147
+materials/maps/ze_starwars_v2/metal/citadel_tilefloor016a_-7541_12218_-3989.vmt,147,147
+materials/maps/ze_starwars_v2/metal/metalroof004a_-7541_12218_-3989.vmt,139,139
+materials/maps/ze_starwars_v2/metal/metalwall076a_-7541_12218_-3989.vmt,139,139
+materials/maps/ze_starwars_v2/skyppy3/metal_floor04a_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/skyppy3/metal_floor05b_-7541_12218_-3989.vmt,142,142
+materials/maps/ze_starwars_v2/tile/milflr001_-7541_12218_-3989.vmt,134,134
+materials/maps/ze_starwars_v2/tile/milflr002_-7541_12218_-3989.vmt,134,134
+materials/microsoft/hpdarth.vmt,363,363
+materials/microsoft/hpdarth.vtf,87824,87824
+materials/models/enemy/2xa.vmt,108,108
+materials/models/enemy/2xa.vtf,43912,43912
+materials/models/enemy/6_metall2.vmt,93,93
+materials/models/enemy/6_metall2.vtf,174984,174984
+materials/models/player/b4p/darth_maul/handbase.vmt,83,83
+materials/models/player/b4p/darth_maul/handbase.vtf,43912,43912
+materials/models/player/b4p/darth_maul/head.vmt,79,79
+materials/models/player/b4p/darth_maul/head.vtf,174984,174984
+materials/models/player/b4p/darth_maul/torso.vmt,80,80
+materials/models/player/b4p/darth_maul/torso.vtf,699272,699272
+materials/models/player/b4p/vader/alnewhope.vmt,98,98
+materials/models/player/b4p/vader/alnewhope.vtf,174968,174968
+materials/models/player/b4p/vader/beltxtras.vmt,99,99
+materials/models/player/b4p/vader/beltxtras.vtf,43896,43896
+materials/models/player/b4p/vader/darthshing.vmt,99,99
+materials/models/player/b4p/vader/darthshing.vtf,174968,174968
+materials/models/player/b4p/vader/dbreather.vmt,98,98
+materials/models/player/b4p/vader/dbreather.vtf,43896,43896
+materials/models/player/b4p/vader/dcape.vmt,111,111
+materials/models/player/b4p/vader/dcape.vtf,174968,174968
+materials/models/player/b4p/vader/handhope.vmt,97,97
+materials/models/player/b4p/vader/handhope.vtf,43896,43896
+materials/models/player/b4p/vader/headhope.vmt,97,97
+materials/models/player/b4p/vader/headhope.vtf,174968,174968
+materials/models/player/b4p/vader/helmethope.vmt,99,99
+materials/models/player/b4p/vader/helmethope.vtf,174968,174968
+materials/models/player/b4p/vader/hipsvader.vmt,98,98
+materials/models/player/b4p/vader/hipsvader.vtf,699256,699256
+materials/models/player/b4p/vader/legsvader.vmt,98,98
+materials/models/player/b4p/vader/legsvader.vtf,174968,174968
+materials/models/player/b4p/vader/shoulderhope.vmt,101,101
+materials/models/player/b4p/vader/shoulderhope.vtf,174968,174968
+materials/models/player/b4p/vader/torsovader.vmt,99,99
+materials/models/player/b4p/vader/torsovader.vtf,699256,699256
+materials/models/player/b4p/vader/vaderface.vmt,98,98
+materials/models/player/b4p/vader/vaderface.vtf,174968,174968
+materials/models/player/elis/ep/arms.vmt,85,85
+materials/models/player/elis/ep/arms.vtf,174968,174968
+materials/models/player/elis/ep/body.vmt,85,85
+materials/models/player/elis/ep/body.vtf,699256,699256
+materials/models/player/elis/ep/hands.vmt,86,86
+materials/models/player/elis/ep/hands.vtf,87528,87528
+materials/models/player/elis/ep/head.vmt,85,85
+materials/models/player/elis/ep/head.vtf,174968,174968
+materials/models/player/elis/ep/head_hood_inner.vmt,96,96
+materials/models/player/elis/ep/head_hood_inner.vtf,174968,174968
+materials/models/player/elis/ep/legs.vmt,85,85
+materials/models/player/elis/ep/legs.vtf,174968,174968
+materials/models/player/elis/ep/mouth.vmt,86,86
+materials/models/player/elis/ep/mouth.vtf,11128,11128
+materials/models/player/elis/ep/torso_label.vmt,92,92
+materials/models/player/elis/ep/torso_label.vtf,43896,43896
+materials/models/props/cs_office/Crates_indoor.vmt,82,82
+materials/models/props/cs_office/crates_indoor.vtf,87528,87528
+materials/models/SGG/Starwars/Battledroid/armgeonosis.vmt,352,352
+materials/models/SGG/Starwars/Battledroid/armgeonosis.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/arminfantry.vmt,352,352
+materials/models/SGG/Starwars/Battledroid/arminfantry.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/arminfantry_normal.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/armpilot.vmt,349,349
+materials/models/SGG/Starwars/Battledroid/armpilot.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/armsecurity.vmt,352,352
+materials/models/SGG/Starwars/Battledroid/armsecurity.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/backpackgeo.vmt,359,359
+materials/models/SGG/Starwars/Battledroid/backpackgeo.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/backpackinfantry.vmt,364,364
+materials/models/SGG/Starwars/Battledroid/backpackinfantry.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/backpackinfantry_exp.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/backpackinfantry_normal.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/headcommand.vmt,351,351
+materials/models/SGG/Starwars/Battledroid/headcommand.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/headgeo.vmt,347,347
+materials/models/SGG/Starwars/Battledroid/headgeo.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/headinfantry.vmt,352,352
+materials/models/SGG/Starwars/Battledroid/headinfantry.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/headinfantry_exp.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/headinfantry_normal.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/headpilot.vmt,349,349
+materials/models/SGG/Starwars/Battledroid/headpilot.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/headsecurity.vmt,352,352
+materials/models/SGG/Starwars/Battledroid/headsecurity.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/leggeo.vmt,347,347
+materials/models/SGG/Starwars/Battledroid/leggeo.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/leginfantry.vmt,352,352
+materials/models/SGG/Starwars/Battledroid/leginfantry.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/leginfantry_normal.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/torsolower.vmt,349,349
+materials/models/SGG/Starwars/Battledroid/torsolower.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/torsolowergeo.vmt,352,352
+materials/models/SGG/Starwars/Battledroid/torsolowergeo.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/torsolower_normal.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/torsouppercom.vmt,358,358
+materials/models/SGG/Starwars/Battledroid/torsouppercom.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/torsouppergeo.vmt,358,358
+materials/models/SGG/Starwars/Battledroid/torsouppergeo.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/torsoupperinf.vmt,358,358
+materials/models/SGG/Starwars/Battledroid/torsoupperinf.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/torsoupperinf_normal.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/torsoupperpilot.vmt,360,360
+materials/models/SGG/Starwars/Battledroid/torsoupperpilot.vtf,1048784,1048784
+materials/models/SGG/Starwars/Battledroid/torsouppersec.vmt,358,358
+materials/models/SGG/Starwars/Battledroid/torsouppersec.vtf,1048784,1048784
+materials/models/SGG/Starwars/Weapons/BAW E-5/bd_blaster.vmt,407,407
+materials/models/SGG/Starwars/Weapons/BAW E-5/bd_blaster.vtf,2097296,2097296
+materials/models/SGG/Starwars/Weapons/BAW E-5/bd_blaster_exp.vtf,2097296,2097296
+materials/models/SGG/Starwars/Weapons/BAW E-5/bd_blaster_normal.vtf,2097296,2097296
+materials/models/starwars/aat/cis_hover_aat.vmt,132,132
+materials/models/starwars/aat/cis_hover_aat.vtf,349760,349760
+materials/models/starwars/aat/cis_hover_aat_NRM.vtf,349760,349760
+materials/models/station/cis_cap_fedcoreship.vmt,80,80
+materials/models/station/cis_cap_fedcoreship.vtf,43912,43912
+materials/models/station/cis_cap_fedcoreship_02.vmt,83,83
+materials/models/station/cis_cap_fedcoreship_02.vtf,43912,43912
+materials/models/station/cis_cap_fedcoreship_03.vmt,83,83
+materials/models/station/cis_cap_fedcoreship_03.vtf,43912,43912
+materials/obijf/obi-cockpit.vmt,63,63
+materials/obijf/obi-cockpit.vtf,699256,699256
+materials/obijf/obi-hullmap.vmt,63,63
+materials/obijf/obi-hullmap.vtf,699256,699256
+materials/obijf/obi-parts.vmt,61,61
+materials/obijf/obi-parts.vtf,174968,174968
+materials/obijf/obi-wings.vmt,61,61
+materials/obijf/obi-wings.vtf,174968,174968
+materials/skybox/lakeboxbk.vmt,93,93
+materials/skybox/lakeboxbk.vtf,1398208,1398208
+materials/skybox/lakeboxdn.vmt,93,93
+materials/skybox/lakeboxdn.vtf,1398208,1398208
+materials/skybox/lakeboxft.vmt,93,93
+materials/skybox/lakeboxft.vtf,1398208,1398208
+materials/skybox/lakeboxlf.vmt,93,93
+materials/skybox/lakeboxlf.vtf,1398208,1398208
+materials/skybox/lakeboxrt.vmt,93,93
+materials/skybox/lakeboxrt.vtf,1398208,1398208
+materials/skybox/lakeboxup.vmt,93,93
+materials/skybox/lakeboxup.vtf,1398208,1398208
+materials/Skyppy3/Metal_floor04a.vmt,255,255
+materials/Skyppy3/Metal_floor04a.vtf,699272,699272
+materials/Skyppy3/Metal_floor05b.vmt,255,255
+materials/Skyppy3/Metal_floor05b.vtf,699272,699272
+materials/sprites/Boss_HP_Bar.vmt,366,366
+materials/sprites/Boss_HP_Bar.vtf,327808,327808
+materials/sprites/i3d.vmt,59,59
+materials/sprites/i3d.vtf,699272,699272
+materials/sprites/Map start.vmt,65,65
+materials/sprites/Map start.vtf,699272,699272
+materials/sprites/Music.vmt,61,61
+materials/sprites/Music.vtf,2796384,2796384
+materials/sprites/Test server.vmt,67,67
+materials/sprites/Test server.vtf,699272,699272
+materials/sprites/Thanks_2.vmt,64,64
+materials/sprites/Thanks_2.vtf,699272,699272
+materials/temp/Cinder.vmt,59,59
+materials/temp/Cinder.vtf,349688,349688
+materials/temp/dark.vmt,57,57
+materials/temp/dark.vtf,43912,43912
+materials/temp/dj.vmt,55,55
+materials/temp/dj.vtf,174984,174984
+materials/temp/gug.vmt,56,56
+materials/temp/gug.vtf,43912,43912
+materials/temp/hav.vmt,56,56
+materials/temp/hav.vtf,11144,11144
+materials/temp/lal.vmt,56,56
+materials/temp/lal.vtf,43912,43912
+materials/temp/Large.vmt,58,58
+materials/temp/Large.vtf,174984,174984
+materials/temp/lel.vmt,56,56
+materials/temp/lel.vtf,43912,43912
+materials/temp/Metal 2.vmt,60,60
+materials/temp/Metal 2.vtf,43912,43912
+materials/temp/space.vmt,58,58
+materials/temp/space.vtf,2796424,2796424
+materials/temp/STAR WARS 2.vmt,64,64
+materials/temp/STAR WARS 2.vtf,43912,43912
+materials/temp/Thanks for test.vmt,68,68
+materials/temp/Thanks for test.vtf,43912,43912
+materials/temp/tiles.vmt,58,58
+materials/temp/tiles.vtf,349688,349688
+materials/temp/wall 1.vmt,59,59
+materials/temp/wall 1.vtf,43912,43912
+materials/temp/wall.vmt,57,57
+materials/temp/wall.vtf,43912,43912
+materials/tools/toolsblack.vmt,232,232
+materials/tools/toolsblack.vtf,2936,2936
+materials/tools/TOOLSINVISIBLE.vmt,304,304
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/tools/TOOLSNODRAW.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/tools/TOOLSSKYBOX.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/TOOLSTRIGGER.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/WATERSOURCE/RIVER/river_flat_01.vmt,387,387
+materials/WATERSOURCE/RIVER/river_flat_01.vtf,1398336,1398336
+materials/WATERSOURCE/RIVER/river_flat_nrm.vtf,699272,699272
+models/anijf/anijf.dx80.vtx,48515,48515
+models/anijf/anijf.dx90.vtx,48515,48515
+models/anijf/anijf.mdl,8312,8312
+models/anijf/anijf.phy,6417,6417
+models/anijf/anijf.sw.vtx,48355,48355
+models/anijf/anijf.vvd,175616,175616
+models/arcup/arcup.dx80.vtx,40167,40167
+models/arcup/arcup.dx90.vtx,40167,40167
+models/arcup/arcup.mdl,10564,10564
+models/arcup/arcup.phy,4116,4116
+models/arcup/arcup.sw.vtx,39959,39959
+models/arcup/arcup.vvd,147264,147264
+models/b4p/Dartmaul.dx80.vtx,42871,42871
+models/b4p/Dartmaul.dx90.vtx,42256,42256
+models/b4p/dartmaul.mdl,37020,37020
+models/b4p/Dartmaul.sw.vtx,41888,41888
+models/b4p/dartmaul.vvd,146048,146048
+models/gunship/gunship.dx80.vtx,20889,20889
+models/gunship/gunship.dx90.vtx,20889,20889
+models/gunship/gunship.mdl,5028,5028
+models/gunship/gunship.phy,3727,3727
+models/gunship/gunship.sw.vtx,20817,20817
+models/gunship/gunship.vvd,78464,78464
+models/jedi2/jedi2.dx80.vtx,90558,90558
+models/jedi2/jedi2.dx90.vtx,90558,90558
+models/jedi2/jedi2.mdl,14088,14088
+models/jedi2/jedi2.phy,3009,3009
+models/jedi2/jedi2.sw.vtx,90158,90158
+models/jedi2/jedi2.vvd,473088,473088
+models/obijf/obijf.dx80.vtx,48515,48515
+models/obijf/obijf.dx90.vtx,48515,48515
+models/obijf/obijf.mdl,8316,8316
+models/obijf/obijf.phy,6369,6369
+models/obijf/obijf.sw.vtx,48355,48355
+models/obijf/obijf.vvd,175616,175616
+models/player/b4p/b4p_vader.dx80.vtx,81025,81025
+models/player/b4p/b4p_vader.dx90.vtx,80902,80902
+models/player/b4p/b4p_vader.mdl,25500,25500
+models/player/b4p/b4p_vader.phy,17000,17000
+models/player/b4p/b4p_vader.sw.vtx,80494,80494
+models/player/b4p/b4p_vader.vvd,318592,318592
+models/player/b4p/palpatin2electr.dx80.vtx,38103,38103
+models/player/b4p/palpatin2electr.dx90.vtx,38103,38103
+models/player/b4p/palpatin2electr.mdl,33092,33092
+models/player/b4p/palpatin2electr.sw.vtx,37799,37799
+models/player/b4p/palpatin2electr.vvd,140544,140544
+models/player/b4p/vaderbat1.dx80.vtx,73471,73471
+models/player/b4p/vaderbat1.dx90.vtx,73294,73294
+models/player/b4p/vaderbat1.mdl,36224,36224
+models/player/b4p/vaderbat1.sw.vtx,72870,72870
+models/player/b4p/vaderbat1.vvd,245248,245248
+models/props/cs_office/crates_indoor.dx80.vtx,15933,15933
+models/props/cs_office/crates_indoor.dx90.vtx,15933,15933
+models/props/cs_office/crates_indoor.mdl,1480,1480
+models/props/cs_office/crates_indoor.phy,2485,2485
+models/props/cs_office/crates_indoor.sw.vtx,15933,15933
+models/props/cs_office/crates_indoor.vvd,79168,79168
+models/SGG/Starwars/Battledroid.dx80.vtx,50137,50137
+models/SGG/Starwars/Battledroid.dx90.vtx,50078,50078
+models/SGG/Starwars/battledroid.mdl,14620,14620
+models/SGG/Starwars/Battledroid.phy,27867,27867
+models/SGG/Starwars/Battledroid.sw.vtx,49686,49686
+models/SGG/Starwars/battledroid.vvd,225344,225344
+models/SGG/Starwars/Battledroid_commander.dx80.vtx,50137,50137
+models/SGG/Starwars/Battledroid_commander.dx90.vtx,50078,50078
+models/SGG/Starwars/battledroid_commander.mdl,14616,14616
+models/SGG/Starwars/Battledroid_commander.phy,27867,27867
+models/SGG/Starwars/Battledroid_commander.sw.vtx,49686,49686
+models/SGG/Starwars/battledroid_commander.vvd,225344,225344
+models/SGG/Starwars/Battledroid_geo.dx80.vtx,50137,50137
+models/SGG/Starwars/Battledroid_geo.dx90.vtx,50078,50078
+models/SGG/Starwars/battledroid_geo.mdl,14608,14608
+models/SGG/Starwars/Battledroid_geo.phy,27867,27867
+models/SGG/Starwars/Battledroid_geo.sw.vtx,49686,49686
+models/SGG/Starwars/battledroid_geo.vvd,225344,225344
+models/SGG/Starwars/Battledroid_pilot.dx80.vtx,47008,47008
+models/SGG/Starwars/Battledroid_pilot.dx90.vtx,46949,46949
+models/SGG/Starwars/battledroid_pilot.mdl,14616,14616
+models/SGG/Starwars/Battledroid_pilot.phy,27867,27867
+models/SGG/Starwars/Battledroid_pilot.sw.vtx,46581,46581
+models/SGG/Starwars/battledroid_pilot.vvd,214272,214272
+models/SGG/Starwars/Battledroid_security.dx80.vtx,47008,47008
+models/SGG/Starwars/Battledroid_security.dx90.vtx,46949,46949
+models/SGG/Starwars/battledroid_security.mdl,14620,14620
+models/SGG/Starwars/Battledroid_security.phy,27867,27867
+models/SGG/Starwars/Battledroid_security.sw.vtx,46581,46581
+models/SGG/Starwars/battledroid_security.vvd,214272,214272
+models/SGG/Starwars/weapons/w_BAW E-5.dx80.vtx,18504,18504
+models/SGG/Starwars/weapons/w_BAW E-5.dx90.vtx,18504,18504
+models/SGG/Starwars/weapons/w_baw e-5.mdl,3492,3492
+models/SGG/Starwars/weapons/w_BAW E-5.phy,2895,2895
+models/SGG/Starwars/weapons/w_BAW E-5.sw.vtx,18496,18496
+models/SGG/Starwars/weapons/w_baw e-5.vvd,67328,67328
+models/star wars/aat.dx80.vtx,29417,29417
+models/star wars/aat.dx90.vtx,29417,29417
+models/star wars/aat.mdl,3684,3684
+models/star wars/aat.phy,10404,10404
+models/star wars/aat.sw.vtx,29377,29377
+models/star wars/aat.vvd,133184,133184
+models/star wars/station.dx80.vtx,43623,43623
+models/star wars/station.dx90.vtx,43623,43623
+models/star wars/station.mdl,1876,1876
+models/star wars/station.phy,7180,7180
+models/star wars/station.sw.vtx,43623,43623
+models/star wars/station.vvd,203584,203584
+particles/star_wars.pcf,174673,174673

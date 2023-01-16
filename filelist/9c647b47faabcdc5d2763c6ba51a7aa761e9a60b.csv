@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/gg_box/dev/dev_water2_416_-144_-432.vmt,145,145
+materials/maps/gg_box/maps/gg_box/dev/dev_water2_416_-144_-432_depth_16.vmt,127,127
+materials/maps/gg_box/cubemapdefault.vtf,9824,9824
+materials/maps/gg_box/c416_-144_-432.vtf,9824,9824
+materials/maps/gg_box/c-448_-144_-168.vtf,9824,9824
+materials/maps/gg_box/c1280_-144_-176.vtf,9824,9824
+materials/maps/gg_box/c224_-192_96.vtf,9824,9824
+materials/maps/gg_box/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/gg_box/c416_-144_-432.hdr.vtf,76520,76520
+materials/maps/gg_box/c-448_-144_-168.hdr.vtf,76520,76520
+materials/maps/gg_box/c1280_-144_-176.hdr.vtf,76520,76520
+materials/maps/gg_box/c224_-192_96.hdr.vtf,76520,76520

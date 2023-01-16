@@ -1,0 +1,22 @@
+filename,size,compressed
+materials/maps/surf_japan_v2_d/wood/offdesktop_0_0_0.vmt,124,124
+materials/maps/surf_japan_v2_d/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/surf_japan_v2_d/glass/offwndwb_0_0_0.vmt,200,200
+materials/maps/surf_japan_v2_d/halflife/glassblue2_0_0_0.vmt,128,128
+materials/maps/surf_japan_v2_d/dev/dev_water2_depth_1020.vmt,103,103
+materials/maps/surf_japan_v2_d/nature/water_movingplane_depth_4.vmt,110,110
+materials/maps/surf_japan_v2_d/nature/water_movingplane_depth_100.vmt,112,112
+materials/maps/surf_japan_v2_d/nature/water_movingplane_depth_8.vmt,110,110
+materials/maps/surf_japan_v2_d/nature/water_movingplane_depth_112.vmt,112,112
+materials/maps/surf_japan_v2_d/nature/water_movingplane_depth_16.vmt,111,111
+materials/maps/surf_japan_v2_d/cubemapdefault.vtf,9824,9824
+materials/maps/surf_japan_v2_d/c0_0_0.vtf,9824,9824
+materials/WALL/GEN_WALL_STONE_ANCIENT01.vmt,267,267
+materials/wall/gen_wall_stone_ancient01.vtf,174968,174968
+materials/wall/gen_wall_stone_ancient01_normal.vtf,349760,349760
+materials/WALL/HR_WALL_HEXGLASS.vmt,516,516
+materials/Wall/HR_Wall_HexGlass.vtf,349744,349744
+materials/DECALS/BIOHAZZARD SPRAY.vmt,133,133
+materials/vgui/logos/biohazzard spray.vtf,87616,87616
+materials/VGUI/LOGOS/MAPPERDINGGENZZ.vmt,132,132
+materials/vgui/logos/mapperdinggenzZ.vtf,43912,43912

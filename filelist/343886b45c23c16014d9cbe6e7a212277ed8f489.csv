@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/fy_tombo/tile/tilefloor020a_1588_1497_23.vmt,127,127
+materials/maps/fy_tombo/dev/dev_water5_1961_647_-12.vmt,146,146
+materials/maps/fy_tombo/dev/dev_water5_1588_1497_23.vmt,146,146
+materials/maps/fy_tombo/maps/fy_tombo/dev/dev_water5_1588_1497_23_depth_11.vmt,128,128
+materials/maps/fy_tombo/cubemapdefault.vtf,9824,9824
+materials/maps/fy_tombo/c1588_1497_23.vtf,9824,9824
+materials/maps/fy_tombo/c1961_647_-12.vtf,9824,9824
+materials/maps/fy_tombo/c873_2333_-12.vtf,9824,9824
+materials/maps/fy_tombo/c1961_2333_-12.vtf,9824,9824
+materials/maps/fy_tombo/c873_647_-12.vtf,9824,9824
+materials/maps/fy_tombo/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/fy_tombo/c1588_1497_23.hdr.vtf,76520,76520
+materials/maps/fy_tombo/c1961_647_-12.hdr.vtf,76520,76520
+materials/maps/fy_tombo/c873_2333_-12.hdr.vtf,76520,76520
+materials/maps/fy_tombo/c1961_2333_-12.hdr.vtf,76520,76520
+materials/maps/fy_tombo/c873_647_-12.hdr.vtf,76520,76520

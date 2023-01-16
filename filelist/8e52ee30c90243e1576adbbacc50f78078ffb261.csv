@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/gg_neon_blue/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/gg_neon_blue/cubemapdefault.vtf,9832,9832
+materials/maps/gg_neon_blue/c0_-944_128.vtf,9832,9832
+materials/maps/gg_neon_blue/c0_160_128.vtf,9832,9832
+materials/maps/gg_neon_blue/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_neon_blue/c0_-944_128.hdr.vtf,76528,76528
+materials/maps/gg_neon_blue/c0_160_128.hdr.vtf,76528,76528
+materials/DEVNEONS/BLUE_NEON.vmt,103,103
+materials/devneons/blue_neon.vtf,43912,43912
+maps/gg_neon_blue.nav,18253,18253
+maps/soundcache/gg_neon_blue.cache,16,16

@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/fy_isle/dev/dev_water2_-839_-32_-517.vmt,146,146
+materials/maps/fy_isle/maps/fy_isle/dev/dev_water2_-839_-32_-517_depth_102.vmt,129,129
+materials/maps/fy_isle/cubemapdefault.vtf,9808,9808
+materials/maps/fy_isle/c-839_-32_-517.vtf,4936,4936
+materials/decals/fyisle.vmt,110,110
+materials/decals/fyisle.vtf,87536,87536
+materials/overviews/fy_isle.vmt,163,163
+materials/overviews/fy_isle.vtf,1398320,1398320
+resource/overviews/fy_isle.txt,203,203
+sound/fy_isle/sudden_death.wav,57642,57642
+sound/fy_isle/headshot.wav,45674,45674
+sound/fy_isle/regular.wav,30882,30882

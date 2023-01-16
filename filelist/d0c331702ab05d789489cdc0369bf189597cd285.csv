@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/gg_badneighbors_lk/effects/offgaragedr_0_0_0.vmt,131,131
+materials/maps/gg_badneighbors_lk/metal/metalwall031a_0_0_0.vmt,131,131
+materials/maps/gg_badneighbors_lk/cubemapdefault.vtf,9824,9824
+materials/maps/gg_badneighbors_lk/c0_0_0.vtf,9824,9824
+materials/maps/gg_badneighbors_lk/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/gg_badneighbors_lk/c0_0_0.hdr.vtf,76520,76520
+materials/decals/custom/lk_logos/lk_billboard.vmt,141,141
+materials/decals/custom/LK_Logos/LK_Billboard.vtf,87616,87616
+materials/decals/custom/lk_logos/clanlk_tractorfall.vmt,136,136
+materials/decals/custom/LK_Logos/clanlk_tractorfall.vtf,87616,87616
+materials/decals/custom/lk_logos/clanlk_crush.vmt,130,130
+materials/decals/custom/LK_Logos/clanlk_crush.vtf,87616,87616
+materials/rift_graffiti_roger.vmt,113,113
+materials/rift_graffiti_roger.vtf,87616,87616
+maps/gg_badneighbors_lk.nav,96790,96790
+maps/soundcache/gg_badneighbors_lk.cache,16,16

@@ -1,0 +1,364 @@
+filename,size,compressed
+materials/maps/mg_finally_many_z_fix/nature/rocks_red_grass_wvt_patch.vmt,323,323
+materials/maps/mg_finally_many_z_fix/nature/blendrockgravel001a_wvt_patch.vmt,353,353
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_5848_3153_-1037.vmt,145,145
+materials/maps/mg_finally_many_z_fix/de_piranesi/woodfloor03_88_301_-113.vmt,144,144
+materials/maps/mg_finally_many_z_fix/de_piranesi/woodfloor03_395_796_-117.vmt,145,145
+materials/maps/mg_finally_many_z_fix/de_piranesi/woodfloor03_702_205_-262.vmt,145,145
+materials/maps/mg_finally_many_z_fix/nature/water_coast01_1277_-244_-395.vmt,167,167
+materials/maps/mg_finally_many_z_fix/nature/sewer_waterdarkfog_860_-435_-366.vmt,171,171
+materials/maps/mg_finally_many_z_fix/nature/sewer_waterdarkfog_775_-554_-300.vmt,171,171
+materials/maps/mg_finally_many_z_fix/metal/metalpipe009b_1277_-244_-395.vmt,143,143
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_1277_-244_-395.vmt,144,144
+materials/maps/mg_finally_many_z_fix/nature/sewer_waterdarkfog_1277_-244_-395.vmt,172,172
+materials/maps/mg_finally_many_z_fix/nature/sewer_waterdarkfog_1999_-246_-362.vmt,172,172
+materials/maps/mg_finally_many_z_fix/nature/water_canals03_3407_728_121.vmt,166,166
+materials/maps/mg_finally_many_z_fix/metal/prodventa_3720_1713_59.vmt,137,137
+materials/maps/mg_finally_many_z_fix/metal/prodventa_3407_728_121.vmt,137,137
+materials/maps/mg_finally_many_z_fix/metal/prodventa_3343_2518_-36.vmt,138,138
+materials/maps/mg_finally_many_z_fix/metal/prodventa_5688_3153_-1037.vmt,140,140
+materials/maps/mg_finally_many_z_fix/metal/metalwall045a_3343_2518_-36.vmt,142,142
+materials/maps/mg_finally_many_z_fix/metal/prodventa_3180_2361_-473.vmt,139,139
+materials/maps/mg_finally_many_z_fix/metal/metalwall045a_3407_728_121.vmt,141,141
+materials/maps/mg_finally_many_z_fix/metal/metalwall045a_3720_1713_59.vmt,141,141
+materials/maps/mg_finally_many_z_fix/tile/tilefloor010a_3343_2518_-36.vmt,141,141
+materials/maps/mg_finally_many_z_fix/plaster/offwllg_3343_2518_-36.vmt,138,138
+materials/maps/mg_finally_many_z_fix/plaster/offwllg_3265_2606_-494.vmt,139,139
+materials/maps/mg_finally_many_z_fix/vehicle/metaltrain001d_6644_3161_-1049.vmt,147,147
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_6644_3161_-1049.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_6024_3153_-1037.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_6900_3297_-1625.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_7612_3009_-1060.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/citadel_metalwall072a_6024_3153_-1037.vmt,152,152
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_5688_3153_-1037.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/citadel_tilefloor016a_cheap_6644_3161_-1049.vmt,158,158
+materials/maps/mg_finally_many_z_fix/metal/citadel_metalwall072b_7200_3296_-1024.vmt,152,152
+materials/maps/mg_finally_many_z_fix/concrete/concretefloor010b_7742_2430_-1042.vmt,151,151
+materials/maps/mg_finally_many_z_fix/nature/toxicslime002a_6865_4197_-1588.vmt,169,169
+materials/maps/mg_finally_many_z_fix/tile/tilefloor020a_cheap_6898_4931_-1630.vmt,149,149
+materials/maps/mg_finally_many_z_fix/tile/tilefloor020a_cheap_6898_5233_-1630.vmt,149,149
+materials/maps/mg_finally_many_z_fix/tile/tilefloor001b_88_301_-113.vmt,139,139
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_702_205_-262.vmt,142,142
+materials/maps/mg_finally_many_z_fix/metal/metalwall082a_860_-435_-366.vmt,142,142
+materials/maps/mg_finally_many_z_fix/metal/metalwall082a_775_-554_-300.vmt,142,142
+materials/maps/mg_finally_many_z_fix/metal/metalwall082a_5688_3153_-1037.vmt,144,144
+materials/maps/mg_finally_many_z_fix/de_chateau/wall04pnl_775_-554_-300.vmt,143,143
+materials/maps/mg_finally_many_z_fix/de_chateau/wall04pnl02_3025_-219_74.vmt,144,144
+materials/maps/mg_finally_many_z_fix/de_chateau/wall04pnl02_3407_728_121.vmt,144,144
+materials/maps/mg_finally_many_z_fix/metal/prodventa_3025_-219_74.vmt,137,137
+materials/maps/mg_finally_many_z_fix/metal/citadel_tilefloor016a_cheap_3407_728_121.vmt,155,155
+materials/maps/mg_finally_many_z_fix/concrete/concretefloor010b_7200_3296_-1024.vmt,151,151
+materials/maps/mg_finally_many_z_fix/concrete/concretefloor010b_5688_3153_-1037.vmt,151,151
+materials/maps/mg_finally_many_z_fix/metal/citadel_tilefloor016a_cheap_7200_3296_-1024.vmt,158,158
+materials/maps/mg_finally_many_z_fix/metal/metalcombine001_7200_3296_-1024.vmt,146,146
+materials/maps/mg_finally_many_z_fix/metal/citadel_tilefloor016a_cheap_6898_3137_-1295.vmt,158,158
+materials/maps/mg_finally_many_z_fix/metal/metalcombine001_6898_3137_-1295.vmt,146,146
+materials/maps/mg_finally_many_z_fix/metal/metalcombine001_6865_4197_-1588.vmt,146,146
+materials/maps/mg_finally_many_z_fix/tile/tilefloor020a_cheap_6900_3297_-1625.vmt,149,149
+materials/maps/mg_finally_many_z_fix/metal/metalwall058a_6900_3297_-1625.vmt,144,144
+materials/maps/mg_finally_many_z_fix/tile/tilewall006a_6910_5737_-1625.vmt,142,142
+materials/maps/mg_finally_many_z_fix/tile/tilewall006d_6910_5737_-1625.vmt,142,142
+materials/maps/mg_finally_many_z_fix/tile/tilewall009d_6910_5737_-1625.vmt,142,142
+materials/maps/mg_finally_many_z_fix/metal/metaldoor018a_395_796_-117.vmt,141,141
+materials/maps/mg_finally_many_z_fix/metal/metaldoor018a_88_301_-113.vmt,140,140
+materials/maps/mg_finally_many_z_fix/metal/metaldoor018a_702_205_-262.vmt,141,141
+materials/maps/mg_finally_many_z_fix/metal/metaldoor018a_3025_-219_74.vmt,141,141
+materials/maps/mg_finally_many_z_fix/de_piranesi/woodfloor03_3180_2361_-473.vmt,147,147
+materials/maps/mg_finally_many_z_fix/metal/metalceiling005a_1277_-244_-395.vmt,146,146
+materials/maps/mg_finally_many_z_fix/metal/metalceiling005a_702_205_-262.vmt,144,144
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_3025_-219_74.vmt,142,142
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_3720_1713_59.vmt,142,142
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_3407_728_121.vmt,142,142
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_1999_-246_-362.vmt,144,144
+materials/maps/mg_finally_many_z_fix/effects/combineshield/comshieldwall_3025_-219_74.vmt,180,180
+materials/maps/mg_finally_many_z_fix/effects/combineshield/comshieldwall_3407_728_121.vmt,180,180
+materials/maps/mg_finally_many_z_fix/effects/combineshield/comshieldwall_1999_-246_-362.vmt,182,182
+materials/maps/mg_finally_many_z_fix/effects/combineshield/comshieldwall_3720_1713_59.vmt,180,180
+materials/maps/mg_finally_many_z_fix/de_chateau/wall04pnl02_3720_1713_59.vmt,144,144
+materials/maps/mg_finally_many_z_fix/de_cbble/woodfloor01_3180_2361_-473.vmt,144,144
+materials/maps/mg_finally_many_z_fix/de_cbble/woodfloor01_3407_728_121.vmt,142,142
+materials/maps/mg_finally_many_z_fix/de_chateau/wall04pnl02_5688_3153_-1037.vmt,147,147
+materials/maps/mg_finally_many_z_fix/de_cbble/woodfloor01_3720_1713_59.vmt,142,142
+materials/maps/mg_finally_many_z_fix/de_cbble/woodfloor01_3025_-219_74.vmt,142,142
+materials/maps/mg_finally_many_z_fix/de_cbble/woodfloor01_5688_3153_-1037.vmt,145,145
+materials/maps/mg_finally_many_z_fix/de_chateau/wall04pnl02_3180_2361_-473.vmt,146,146
+materials/maps/mg_finally_many_z_fix/metal/metalwall045a_3180_2361_-473.vmt,143,143
+materials/maps/mg_finally_many_z_fix/metal/metalwall045a_3265_2606_-494.vmt,143,143
+materials/maps/mg_finally_many_z_fix/metal/prodventa_3265_2606_-494.vmt,139,139
+materials/maps/mg_finally_many_z_fix/metal/metalwall045a_3025_-219_74.vmt,141,141
+materials/maps/mg_finally_many_z_fix/metal/metalwall045a_5688_3153_-1037.vmt,144,144
+materials/maps/mg_finally_many_z_fix/metal/offelevdrsa_3025_-219_74.vmt,139,139
+materials/maps/mg_finally_many_z_fix/metal/offelevdrsa_3343_2518_-36.vmt,140,140
+materials/maps/mg_finally_many_z_fix/metal/offelevdrsa_3265_2606_-494.vmt,141,141
+materials/maps/mg_finally_many_z_fix/metal/metalpipeendcap001a_5688_3153_-1037.vmt,150,150
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_4776_3205_-1057.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_6865_4197_-1588.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_4052_2743_-1074.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_6898_3137_-1295.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_7200_3296_-1024.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/metalfloor001a_7742_2430_-1042.vmt,145,145
+materials/maps/mg_finally_many_z_fix/metal/metaldoor046a_6644_3161_-1049.vmt,144,144
+materials/maps/mg_finally_many_z_fix/metal/metaldoor046a_6865_4197_-1588.vmt,144,144
+materials/maps/mg_finally_many_z_fix/glass/glasswindowbreak070a_7612_3009_-1060.vmt,151,151
+materials/maps/mg_finally_many_z_fix/glass/glasswindowbreak070a_7743_1881_-1036.vmt,151,151
+materials/maps/mg_finally_many_z_fix/glass/glasswindowbreak070a_6898_3137_-1295.vmt,151,151
+materials/maps/mg_finally_many_z_fix/metal/metalpipeendcap001a_6644_3161_-1049.vmt,150,150
+materials/maps/mg_finally_many_z_fix/metal/metalceiling005a_6898_3137_-1295.vmt,147,147
+materials/maps/mg_finally_many_z_fix/metal/metalceiling005a_7612_3009_-1060.vmt,147,147
+materials/maps/mg_finally_many_z_fix/metal/metalceiling005a_7742_2430_-1042.vmt,147,147
+materials/maps/mg_finally_many_z_fix/metal/metalceiling005a_3720_1713_59.vmt,144,144
+materials/maps/mg_finally_many_z_fix/metal/metalceiling005a_7200_3296_-1024.vmt,147,147
+materials/maps/mg_finally_many_z_fix/metal/metaldoor059a_7743_1881_-1036.vmt,144,144
+materials/maps/mg_finally_many_z_fix/metal/metaldoor059a_7742_2430_-1042.vmt,144,144
+materials/maps/mg_finally_many_z_fix/maps/mg_finally_many_z_fix/nature/sewer_waterdarkfog_775_-554_-300_depth_190.vmt,154,154
+materials/maps/mg_finally_many_z_fix/nature/water_canals_waterbeneath_clear_depth_20.vmt,125,125
+materials/maps/mg_finally_many_z_fix/maps/mg_finally_many_z_fix/nature/water_canals03_3407_728_121_depth_253.vmt,149,149
+materials/maps/mg_finally_many_z_fix/nature/water_coast01_beneath_depth_82.vmt,115,115
+materials/maps/mg_finally_many_z_fix/maps/mg_finally_many_z_fix/nature/toxicslime002a_6865_4197_-1588_depth_114.vmt,152,152
+materials/maps/mg_finally_many_z_fix/cubemapdefault.vtf,9832,9832
+materials/maps/mg_finally_many_z_fix/c5848_3153_-1037.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c88_301_-113.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c395_796_-117.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c702_205_-262.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c1277_-244_-395.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c860_-435_-366.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c775_-554_-300.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c1999_-246_-362.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c3407_728_121.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c3720_1713_59.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c3343_2518_-36.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c5688_3153_-1037.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c3180_2361_-473.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c3265_2606_-494.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c6644_3161_-1049.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c6024_3153_-1037.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c6900_3297_-1625.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c7612_3009_-1060.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c7200_3296_-1024.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c7742_2430_-1042.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c6865_4197_-1588.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c6898_4931_-1630.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c6898_5233_-1630.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c3025_-219_74.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c6898_3137_-1295.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c6910_5737_-1625.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c4776_3205_-1057.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c4052_2743_-1074.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c7743_1881_-1036.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/c3270_2750_-681.vtf,4968,4968
+materials/maps/mg_finally_many_z_fix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c5848_3153_-1037.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c88_301_-113.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c395_796_-117.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c702_205_-262.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c1277_-244_-395.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c860_-435_-366.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c775_-554_-300.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c1999_-246_-362.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c3407_728_121.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c3720_1713_59.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c3343_2518_-36.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c5688_3153_-1037.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c3180_2361_-473.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c3265_2606_-494.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c6644_3161_-1049.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c6024_3153_-1037.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c6900_3297_-1625.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c7612_3009_-1060.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c7200_3296_-1024.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c7742_2430_-1042.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c6865_4197_-1588.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c6898_4931_-1630.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c6898_5233_-1630.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c3025_-219_74.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c6898_3137_-1295.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c6910_5737_-1625.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c4776_3205_-1057.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c4052_2743_-1074.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c7743_1881_-1036.hdr.vtf,76528,76528
+materials/maps/mg_finally_many_z_fix/c3270_2750_-681.hdr.vtf,76528,76528
+sound/custom sounds/scare2.wav,345676,345676
+sound/sound_1.mp3,3912038,3912038
+sound/sound_2.mp3,3486514,3486514
+sound/sound_3.mp3,4076672,4076672
+sound/sound_4.mp3,4108855,4108855
+sound/sound_5.mp3,2843274,2843274
+sound/sunabouzu/trunk_sounds.mp3,386664,386664
+C:/Program Files (x86)/Steam/steamapps/avl732004/counter-strike source/cstrike/particles/combine_fx.pcf,8942,8942
+C:/Program Files (x86)/Steam/steamapps/avl732004/counter-strike source/cstrike/particles/particles_manifest.txt,1852,1852
+models/gmod_tower/catears.dx80.vtx,4161,4161
+models/gmod_tower/catears.dx90.vtx,4161,4161
+models/gmod_tower/catears.mdl,1392,1392
+models/gmod_tower/catears.sw.vtx,4161,4161
+models/gmod_tower/catears.vvd,15168,15168
+models/custom models/holttest2.dx80.vtx,7815,7815
+models/custom models/holttest2.dx90.vtx,7815,7815
+models/custom models/holttest2.mdl,16600,16600
+models/custom models/holttest2.phy,5592,5592
+models/custom models/holttest2.sw.vtx,7735,7735
+models/custom models/holttest2.vvd,28864,28864
+models/custom models/lampa4.dx80.vtx,10736,10736
+models/custom models/lampa4.dx90.vtx,10736,10736
+models/custom models/lampa4.mdl,6232,6232
+models/custom models/lampa4.sw.vtx,10696,10696
+models/custom models/lampa4.vvd,49472,49472
+models/custom models/lanc.dx80.vtx,56309,56309
+models/custom models/lanc.dx90.vtx,56309,56309
+models/custom models/lanc.mdl,3084,3084
+models/custom models/lanc.sw.vtx,56293,56293
+models/custom models/lanc.vvd,264448,264448
+models/custom models/lanc.xbox.vtx,56309,56309
+models/custom models/logoszovet.dx80.vtx,598,598
+models/custom models/logoszovet.dx90.vtx,598,598
+models/custom models/logoszovet.mdl,8648,8648
+models/custom models/logoszovet.sw.vtx,550,550
+models/custom models/logoszovet.vvd,1664,1664
+models/custom models/mom.dx80.vtx,26107,26107
+models/custom models/mom.dx90.vtx,25180,25180
+models/custom models/mom.mdl,95064,95064
+models/custom models/mom.phy,699,699
+models/custom models/mom.sw.vtx,24940,24940
+models/custom models/mom.vvd,86528,86528
+models/custom models/mom.xbox.vtx,25180,25180
+models/custom models/scarer.dx80.vtx,44529,44529
+models/custom models/scarer.dx90.vtx,43374,43374
+models/custom models/scarer.mdl,58300,58300
+models/custom models/scarer.sw.vtx,43126,43126
+models/custom models/scarer.vvd,149888,149888
+models/custom models/scarer.xbox.vtx,43374,43374
+models/props_blackmesa/console01.dx80.vtx,54381,54381
+models/props_blackmesa/console01.dx90.vtx,54381,54381
+models/props_blackmesa/console01.mdl,1956,1956
+models/props_blackmesa/console01.phy,6288,6288
+models/props_blackmesa/console01.sw.vtx,54381,54381
+models/props_blackmesa/console01.vvd,92224,92224
+models/props_interiors/teddy_bear.dx80.vtx,24673,24673
+models/props_interiors/teddy_bear.dx90.vtx,24673,24673
+models/props_interiors/teddy_bear.mdl,1896,1896
+models/props_interiors/teddy_bear.phy,3617,3617
+models/props_interiors/teddy_bear.sw.vtx,24673,24673
+models/props_interiors/teddy_bear.vtx,24673,24673
+models/props_interiors/teddy_bear.vvd,66432,66432
+models/props_questionableethics/qe_snarkgoo.dx80.vtx,29376,29376
+models/props_questionableethics/qe_snarkgoo.dx90.vtx,29376,29376
+models/props_questionableethics/qe_snarkgoo.mdl,1936,1936
+models/props_questionableethics/qe_snarkgoo.sw.vtx,29376,29376
+models/props_questionableethics/qe_snarkgoo.vvd,136000,136000
+models/sunabouzu/creature_eyes.dx80.vtx,413,413
+models/sunabouzu/creature_eyes.dx90.vtx,413,413
+models/sunabouzu/creature_eyes.mdl,10540,10540
+models/sunabouzu/creature_eyes.sw.vtx,373,373
+models/sunabouzu/creature_eyes.vvd,1344,1344
+models/sunabouzu/female_01new_trunk.dx80.vtx,165381,165381
+models/sunabouzu/female_01new_trunk.dx90.vtx,155144,155144
+models/sunabouzu/female_01new_trunk.mdl,131164,131164
+models/sunabouzu/female_01new_trunk.phy,27387,27387
+models/sunabouzu/female_01new_trunk.sw.vtx,150100,150100
+models/sunabouzu/female_01new_trunk.vvd,261280,261280
+models/sunabouzu/steamer_trunk.dx80.vtx,2963,2963
+models/sunabouzu/steamer_trunk.dx90.vtx,2963,2963
+models/sunabouzu/steamer_trunk.mdl,3944,3944
+models/sunabouzu/steamer_trunk.sw.vtx,2947,2947
+models/sunabouzu/steamer_trunk.vvd,13248,13248
+models/taskumodels/saw_chain.dx80.vtx,38874,38874
+models/taskumodels/saw_chain.dx90.vtx,38874,38874
+models/taskumodels/saw_chain.mdl,1728,1728
+models/taskumodels/saw_chain.sw.vtx,38874,38874
+models/taskumodels/saw_chain.vvd,206208,206208
+models/taskumodels/saw_chain_top.dx80.vtx,19641,19641
+models/taskumodels/saw_chain_top.dx90.vtx,19641,19641
+models/taskumodels/saw_chain_top.mdl,1732,1732
+models/taskumodels/saw_chain_top.sw.vtx,19641,19641
+models/taskumodels/saw_chain_top.vvd,103744,103744
+materials/concrete/concrete_ceiling_wetceil01.vmt,83,83
+materials/concrete/concrete_ceiling_wetceil01.vtf,174984,174984
+materials/sprites/rasta_flag.vmt,66,66
+materials/sprites/rasta_flag.vtf,11144,11144
+materials/concrete/concrete_ceiling_wetceil01.vmt,83,83
+materials/concrete/concrete_ceiling_wetceil01.vtf,174984,174984
+materials/grey/pokhalo.vmt,79,79
+materials/grey/pokhalo.vtf,349760,349760
+materials/grey/pokhalo2.vmt,80,80
+materials/grey/pokhalo2.vtf,87616,87616
+materials/grey/pokhalo3.vmt,80,80
+materials/grey/pokhalo3.vtf,87616,87616
+materials/metal/rust_floor_diamond1a.vmt,74,74
+materials/metal/rust_floor_diamond1a.vtf,174984,174984
+materials/sunabouzu/dof.vmt,226,226
+materials/sunabouzu/dof_nrml.vtf,576,576
+materials/sunabouzu/iron_ob_tex.vmt,69,69
+materials/sunabouzu/iron_ob_tex.vtf,349704,349704
+materials/sunabouzu/iron_tex.vmt,66,66
+materials/sunabouzu/iron_tex.vtf,699288,699288
+materials/sunabouzu/robert_lol.vmt,68,68
+materials/sunabouzu/robert_lol.vtf,175000,175000
+materials/sunabouzu/textyre_end.vmt,88,88
+materials/sunabouzu/textyre_end.vtf,699248,699248
+materials/sunabouzu/text_pia_mg.vmt,88,88
+materials/sunabouzu/text_pia_mg.vtf,174960,174960
+materials/sunabouzu/WaterfallFULL_1024_CLEAR.vmt,264,264
+materials/sunabouzu/WaterfallFULL_1024_CLEAR.vtf,1398336,1398336
+materials/models/gmod_tower/catears.vmt,71,71
+materials/models/gmod_tower/catears.vtf,174984,174984
+materials/models/custom models/holttest2.vmt,164,164
+materials/models/custom models/holttest2.vtf,174984,174984
+materials/models/custom models/holttest2_normal.vtf,174984,174984
+materials/models/custom models/lampa4.vmt,112,112
+materials/models/custom models/lampa4.vtf,349760,349760
+materials/models/custom models/lampa4_off.vmt,96,96
+materials/models/custom models/lancc.vmt,72,72
+materials/models/custom models/lancc.vtf,43912,43912
+materials/models/custom models/logoszovet.vmt,177,177
+materials/models/custom models/logoszovet.vtf,349760,349760
+materials/models/custom models/logoszovet_normal.vtf,43912,43912
+materials/models/custom models/mom.vmt,459,459
+materials/models/custom models/mom.vtf,1398336,1398336
+materials/models/custom models/mom_normal.vtf,174984,174984
+materials/models/custom models/scarer.vmt,123,123
+materials/models/custom models/scarer.vtf,699272,699272
+materials/models/props_blackmesa/console01_blue_off.vmt,706,706
+materials/models/props_blackmesa/console01_blue_off.vtf,174984,174984
+materials/models/props_blackmesa/console01_blue_on.vmt,724,724
+materials/models/props_blackmesa/console01_blue_on.vtf,349760,349760
+materials/models/props_blackmesa/console01_green_off.vmt,706,706
+materials/models/props_blackmesa/console01_green_off.vtf,174984,174984
+materials/models/props_blackmesa/console01_green_on.vmt,724,724
+materials/models/props_blackmesa/console01_green_on.vtf,349760,349760
+materials/models/props_blackmesa/console01_normal.vtf,349760,349760
+materials/models/props_blackmesa/console01_tan_off.vmt,705,705
+materials/models/props_blackmesa/console01_tan_off.vtf,174984,174984
+materials/models/props_blackmesa/console01_tan_on.vmt,723,723
+materials/models/props_blackmesa/console01_tan_on.vtf,349760,349760
+materials/models/props_interiors/teddybear.vmt,73,73
+materials/models/props_interiors/teddybear.vtf,43936,43936
+materials/models/props_interiors/teddybear_worned.vmt,80,80
+materials/models/props_interiors/teddybear_worned.vtf,43936,43936
+materials/models/props_questionableethics/qe_snarksplat.vmt,135,135
+materials/models/props_questionableethics/qe_snarksplat.vtf,349760,349760
+materials/models/sunabouzu/creature_eyes.vmt,102,102
+materials/models/sunabouzu/creature_eyes.vtf,349760,349760
+materials/models/sunabouzu/newdudes/trunk/citizen_sheet.vmt,149,149
+materials/models/sunabouzu/newdudes/trunk/citizen_sheet.vtf,1398336,1398336
+materials/models/sunabouzu/newdudes/trunk/dark_eyeball_l.vmt,145,145
+materials/models/sunabouzu/newdudes/trunk/dark_eyeball_l.vtf,2936,2936
+materials/models/sunabouzu/newdudes/trunk/dark_eyeball_r.vmt,145,145
+materials/models/sunabouzu/newdudes/trunk/dark_eyeball_r.vtf,2936,2936
+materials/models/sunabouzu/newdudes/trunk/eyeball_l.vmt,140,140
+materials/models/sunabouzu/newdudes/trunk/eyeball_l.vtf,2936,2936
+materials/models/sunabouzu/newdudes/trunk/eyeball_r.vmt,140,140
+materials/models/sunabouzu/newdudes/trunk/eyeball_r.vtf,2936,2936
+materials/models/sunabouzu/newdudes/trunk/fmouth.vmt,137,137
+materials/models/sunabouzu/newdudes/trunk/fmouth.vtf,21992,21992
+materials/models/sunabouzu/newdudes/trunk/glint.vmt,141,141
+materials/models/sunabouzu/newdudes/trunk/glint.vtf,1215,1215
+materials/models/sunabouzu/newdudes/trunk/joey_facemap.vmt,148,148
+materials/models/sunabouzu/newdudes/trunk/joey_facemap.vtf,174944,174944
+materials/models/sunabouzu/newdudes/trunk/pupil_l.vmt,76,76
+materials/models/sunabouzu/newdudes/trunk/pupil_l.vtf,5680,5680
+materials/models/sunabouzu/newdudes/trunk/pupil_r.vmt,76,76
+materials/models/sunabouzu/newdudes/trunk/pupil_r.vtf,5680,5680
+materials/models/sunabouzu/steamer_trunk.vmt,232,232
+materials/models/sunabouzu/steamer_trunk.vtf,349760,349760
+materials/models/taskumodels/saw_chain/ibeama.vmt,88,88
+materials/models/taskumodels/saw_chain2/ibeama.vmt,88,88
+materials/models/taskumodels/saw_chain_top/ibeama.vmt,88,88

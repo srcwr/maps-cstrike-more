@@ -1,0 +1,142 @@
+filename,size,compressed
+materials/maps/bhop_pyle_dec/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_pyle_dec/cubemapdefault.hdr.vtf,76528,76528
+materials/tools/TOOLSNODRAW.vmt,270,270
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/tools/toolsblack.vmt,64,64
+materials/tools/toolsblack.vtf,2936,2936
+materials/bhop_pyle/medium.vmt,87,87
+materials/bhop_pyle/medium.vtf,392,392
+materials/bhop_pyle/glass_medium.vmt,105,105
+materials/tools/toolsskybox.vmt,325,325
+materials/tools/toolsskybox.vtf,11128,11128
+materials/bhop_pyle/light.vmt,80,80
+materials/bhop_pyle/light.vtf,392,392
+materials/tools/toolsskip.vmt,281,281
+materials/tools/toolsskip.vtf,5680,5680
+materials/bhop_pyle/reset.vmt,86,86
+materials/bhop_pyle/reset.vtf,392,392
+materials/bhop_pyle/climb.vmt,86,86
+materials/bhop_pyle/climb.vtf,392,392
+materials/bhop_pyle/checkpoint.vmt,91,91
+materials/bhop_pyle/checkpoint.vtf,392,392
+materials/bhop_pyle/end.vmt,78,78
+materials/bhop_pyle/end.vtf,392,392
+materials/tools/TOOLSINVISIBLE.vmt,302,302
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/tools/toolsinvisible-dx10.vtf,5720,5720
+materials/bhop_pyle/start.vmt,80,80
+materials/bhop_pyle/start.vtf,392,392
+materials/bhop_pyle/longjump.vmt,89,89
+materials/bhop_pyle/longjump.vtf,392,392
+materials/tools/toolshint.vmt,324,324
+materials/tools/toolshint.vtf,5680,5680
+materials/tools/toolshint-dx10.vtf,5720,5720
+materials/bhop_pyle/bhop.vmt,85,85
+materials/bhop_pyle/bhop.vtf,392,392
+materials/bhop_pyle/booster.vmt,88,88
+materials/bhop_pyle/booster.vtf,392,392
+materials/bhop_pyle/surf.vmt,85,85
+materials/bhop_pyle/surf.vtf,392,392
+materials/tools/toolstrigger.vmt,388,388
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/bhop_pyle/annotations/end.vmt,101,101
+materials/bhop_pyle/annotations/end.vtf,43872,43872
+materials/tools/toolsareaportal.vmt,339,339
+materials/tools/toolsareaportal.vtf,5680,5680
+materials/tools/toolsareaportal-dx10.vtf,5720,5720
+materials/bhop_pyle/annotations/jump.vmt,102,102
+materials/bhop_pyle/annotations/jump.vtf,87552,87552
+materials/bhop_pyle/annotations/start.vmt,103,103
+materials/bhop_pyle/annotations/start.vtf,87552,87552
+materials/bhop_pyle/annotations/stage 8.vmt,111,111
+materials/bhop_pyle/annotations/stage 8.vtf,87552,87552
+materials/bhop_pyle/annotations/music.vmt,109,109
+materials/bhop_pyle/annotations/music.vtf,699232,699232
+materials/bhop_pyle/annotations/credits.vmt,113,113
+materials/bhop_pyle/annotations/credits.vtf,349760,349760
+materials/bhop_pyle/annotations/bonus.vmt,105,105
+materials/bhop_pyle/annotations/bonus.vtf,87552,87552
+materials/bhop_pyle/annotations/legend.vmt,112,112
+materials/bhop_pyle/annotations/legend.vtf,1398336,1398336
+materials/bhop_pyle/annotations/mapby.vmt,109,109
+materials/bhop_pyle/annotations/mapby.vtf,699232,699232
+materials/bhop_pyle/annotations/stage 1.vmt,111,111
+materials/bhop_pyle/annotations/stage 1.vtf,87552,87552
+materials/bhop_pyle/annotations/stage 2.vmt,111,111
+materials/bhop_pyle/annotations/stage 2.vtf,87552,87552
+materials/bhop_pyle/annotations/stage 3.vmt,111,111
+materials/bhop_pyle/annotations/stage 3.vtf,87552,87552
+materials/bhop_pyle/annotations/stage 4.vmt,111,111
+materials/bhop_pyle/annotations/stage 4.vtf,87552,87552
+materials/bhop_pyle/annotations/stage 5.vmt,111,111
+materials/bhop_pyle/annotations/stage 5.vtf,87552,87552
+materials/bhop_pyle/annotations/stage 6.vmt,111,111
+materials/bhop_pyle/annotations/stage 6.vtf,87552,87552
+materials/bhop_pyle/annotations/stage 7.vmt,111,111
+materials/bhop_pyle/annotations/stage 7.vtf,87552,87552
+materials/skybox/skybox_pyleup.vmt,88,88
+materials/skybox/skybox_pyleup.vtf,392,392
+materials/skybox/skybox_pyledn.vmt,88,88
+materials/skybox/skybox_pylelf.vmt,88,88
+materials/skybox/skybox_pylert.vmt,88,88
+materials/skybox/skybox_pyleft.vmt,88,88
+materials/skybox/skybox_pylebk.vmt,88,88
+materials/detail/detailsprites.vmt,87,87
+materials/detail/detailsprites.vtf,1398360,1398360
+sound/bhop_pyle/fx/conveyor.mp3,13842,13842
+sound/bhop_pyle/fx/elevatordoor.mp3,61146,61146
+sound/bhop_pyle/fx/elevator.mp3,85650,85650
+sound/bhop_pyle/fx/nojump.mp3,4534,4534
+sound/bhop_pyle/fx/gravity.mp3,1821,1821
+sound/bhop_pyle/fx/chute.mp3,5425,5425
+sound/bhop_pyle/fx/s8dooropen.mp3,25008,25008
+sound/bhop_pyle/fx/s8doorclose.mp3,19985,19985
+sound/bhop_pyle/fx/loopbooster.wav,422576,422576
+sound/bhop_pyle/fx/elevatortimer.mp3,1642,1642
+models/bhop_pyle/impossibletriangle.mdl,2116,2116
+models/bhop_pyle/impossibletriangle.vvd,3648,3648
+models/bhop_pyle/impossibletriangle.dx90.vtx,951,951
+models/bhop_pyle/impossibletriangle.dx80.vtx,951,951
+models/bhop_pyle/impossibletriangle.sw.vtx,951,951
+materials/models/bhop_pyle/impossibletriangle/medium.vmt,81,81
+materials/models/bhop_pyle/impossibletriangle/reset.vmt,80,80
+materials/models/bhop_pyle/impossibletriangle/light.vmt,91,91
+models/bhop_pyle/sphere.mdl,2864,2864
+models/bhop_pyle/sphere.vvd,217664,217664
+models/bhop_pyle/sphere.dx90.vtx,68019,68019
+models/bhop_pyle/sphere.dx80.vtx,68019,68019
+models/bhop_pyle/sphere.sw.vtx,68019,68019
+materials/models/bhop_pyle/sphere/medium.vmt,81,81
+materials/models/bhop_pyle/sphere/surf.vmt,79,79
+materials/models/bhop_pyle/sphere/climb.vmt,80,80
+materials/models/bhop_pyle/sphere/booster.vmt,82,82
+materials/models/bhop_pyle/sphere/longjump.vmt,83,83
+materials/models/bhop_pyle/sphere/bhop.vmt,79,79
+materials/models/bhop_pyle/sphere/checkpoint.vmt,85,85
+models/bhop_pyle/tesseract.mdl,2868,2868
+models/bhop_pyle/tesseract.vvd,46912,46912
+models/bhop_pyle/tesseract.dx90.vtx,9165,9165
+models/bhop_pyle/tesseract.dx80.vtx,9165,9165
+models/bhop_pyle/tesseract.sw.vtx,9165,9165
+materials/models/bhop_pyle/tesseract/bhop.vmt,79,79
+materials/models/bhop_pyle/tesseract/booster.vmt,82,82
+materials/models/bhop_pyle/tesseract/checkpoint.vmt,85,85
+materials/models/bhop_pyle/tesseract/surf.vmt,79,79
+materials/models/bhop_pyle/tesseract/longjump.vmt,83,83
+materials/models/bhop_pyle/tesseract/climb.vmt,80,80
+materials/models/bhop_pyle/tesseract/medium.vmt,81,81
+models/bhop_pyle/dna.mdl,2860,2860
+models/bhop_pyle/dna.vvd,665600,665600
+models/bhop_pyle/dna.dx90.vtx,120114,120114
+models/bhop_pyle/dna.dx80.vtx,120114,120114
+models/bhop_pyle/dna.sw.vtx,120114,120114
+materials/models/bhop_pyle/dna/bhop.vmt,94,94
+materials/models/bhop_pyle/dna/checkpoint.vmt,100,100
+materials/models/bhop_pyle/dna/longjump.vmt,98,98
+materials/models/bhop_pyle/dna/surf.vmt,94,94
+materials/models/bhop_pyle/dna/climb.vmt,95,95
+materials/models/bhop_pyle/dna/booster.vmt,97,97
+materials/models/bhop_pyle/dna/medium.vmt,96,96
+scripts/soundscapes_bhop_pyle.txt,812,812

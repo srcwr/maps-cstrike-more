@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/surf_awesome/tile/tilefloor012a_0_0_0.vmt,124,124
+materials/maps/surf_awesome/tile/tilefloor021a_0_0_0.vmt,124,124
+materials/maps/surf_awesome/tile/tilefloor010a_0_0_0.vmt,124,124
+materials/maps/surf_awesome/tile/tilefloor020a_0_0_0.vmt,124,124
+materials/maps/surf_awesome/dev/dev_water2_cheap_0_0_0.vmt,149,149
+materials/maps/surf_awesome/de_piranesi/marblefloor01_0_0_0.vmt,131,131
+materials/maps/surf_awesome/tile/tilefloor020a_cheap_0_0_0.vmt,130,130
+materials/maps/surf_awesome/liquids/militiawater_dx70_depth_8.vmt,111,111
+materials/maps/surf_awesome/dev/dev_water2_cheap_depth_8.vmt,106,106
+materials/maps/surf_awesome/dev/dev_water2_cheap_depth_80.vmt,107,107
+materials/maps/surf_awesome/tools/toolsnodraw_depth_144.vmt,105,105
+materials/maps/surf_awesome/de_nuke/nukwater_movingplane_dx70_depth_624.vmt,121,121
+materials/maps/surf_awesome/cubemapdefault.vtf,7248,7248
+materials/maps/surf_awesome/c0_0_0.vtf,7248,7248

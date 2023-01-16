@@ -1,0 +1,23 @@
+filename,size,compressed
+materials/maps/ba_hs_jail_3/wood/woodfloor007a_c17_0_0_0.vmt,167,167
+materials/maps/ba_hs_jail_3/tile/tilefloor012a_0_0_0.vmt,124,124
+materials/maps/ba_hs_jail_3/de_chateau/floor02_0_0_0.vmt,124,124
+materials/maps/ba_hs_jail_3/liquids/militiawater_dx70_beneath_depth_168.vmt,121,121
+materials/maps/ba_hs_jail_3/cubemapdefault.vtf,9824,9824
+materials/maps/ba_hs_jail_3/c0_0_0.vtf,9824,9824
+materials/VGUI/LOGOS/LOGO.vmt,121,121
+materials/vgui/logos/logo.vtf,43872,43872
+materials/VGUI/LOGOS/POOL.vmt,121,121
+materials/vgui/logos/Pool.vtf,87616,87616
+materials/VGUI/LOGOS/CAGE.vmt,121,121
+materials/vgui/logos/Cage.vtf,87616,87616
+materials/VGUI/LOGOS/GUN TOSS.vmt,125,125
+materials/VGUI/LOGOS/UI/SPRAY.vmt,206,206
+materials/VGUI/logos/Spray.vtf,43872,43872
+materials/VGUI/LOGOS/S4S.vmt,120,120
+materials/vgui/logos/S4s.vtf,43872,43872
+materials/VGUI/LOGOS/UI/KNIFE.vmt,206,206
+materials/VGUI/logos/Knife.vtf,43872,43872
+materials/VGUI/LOGOS/MADE.vmt,121,121
+materials/vgui/logos/made.vtf,87616,87616
+maps/soundcache/ba_hs_jail_3.cache,16,16

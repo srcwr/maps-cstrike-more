@@ -1,0 +1,20 @@
+filename,size,compressed
+materials/maps/aim_mir/glass/glasswindowbreak070b_674_-471_-142.vmt,114,114
+materials/maps/aim_mir/glass/offwndwb_674_-471_-142.vmt,200,200
+materials/maps/aim_mir/metal/citadel_metalwall077a_674_-471_-142.vmt,136,136
+materials/maps/aim_mir/environment maps/pipemetal004a_674_-471_-142.vmt,139,139
+materials/maps/aim_mir/metal/prodventa_674_-471_-142.vmt,124,124
+materials/maps/aim_mir/glass/prodwndwa_674_-471_-142.vmt,201,201
+materials/maps/aim_mir/metal/metalroof008a_674_-471_-142.vmt,128,128
+materials/maps/aim_mir/environment maps/pipemetal004b_674_-471_-142.vmt,139,139
+materials/maps/aim_mir/dev/dev_water2_674_-471_-142.vmt,146,146
+materials/maps/aim_mir/shadertest/watercheap_opaque_nofresnel_674_-471_-142.vmt,170,170
+materials/maps/aim_mir/de_nuke/nukdoorsa_674_-471_-142.vmt,126,126
+materials/maps/aim_mir/metal/metalpipe003a_674_-471_-142.vmt,128,128
+materials/maps/aim_mir/models/props_pipes/pipemetal004b_674_-471_-142.vmt,141,141
+materials/maps/aim_mir/maps/aim_mir/dev/dev_water2_674_-471_-142_depth_2.vmt,127,127
+materials/maps/aim_mir/maps/aim_mir/shadertest/watercheap_opaque_nofresnel_674_-471_-142_depth_85.vmt,152,152
+materials/maps/aim_mir/cubemapdefault.vtf,9824,9824
+materials/maps/aim_mir/c674_-471_-142.vtf,9824,9824
+materials/maps/aim_mir/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/aim_mir/c674_-471_-142.hdr.vtf,76520,76520

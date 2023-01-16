@@ -1,0 +1,60 @@
+filename,size,compressed
+materials/ATAM/METAL/NUKE_PIPE01.vmt,99,99
+materials/aTam/Metal/Nuke_pipe01.vtf,174984,174984
+materials/atam/overlay/ov_vine_climb_up.vmt,109,109
+materials/aTam/Overlay/ov_Vine_climb_up.vtf,349744,349744
+materials/DANCEMAT/2/WHITE.vmt,64,64
+materials/dancemat/2/white.vtf,43912,43912
+materials/maps/ba_jail_moshpit backup/c-240_752_-800.vtf,9824,9824
+materials/maps/ba_jail_moshpit backup/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_moshpit backup/de_chateau/floor03_-240_752_-800.vmt,142,142
+materials/maps/ba_jail_moshpit backup/de_piranesi/woodfloor02_-240_752_-800.vmt,147,147
+materials/maps/ba_jail_moshpit backup/de_piranesi/woodfloor03_-240_752_-800.vmt,147,147
+materials/maps/ba_jail_moshpit backup/liquids/water_pretty1_-240_752_-800.vmt,168,168
+materials/maps/ba_jail_moshpit backup/maps/ba_jail_moshpit backup/liquids/water_pretty1_-240_752_-800_depth_248.vmt,151,151
+materials/maps/ba_jail_moshpit backup/metal/citadel_metalwall076a_-240_752_-800.vmt,151,151
+materials/maps/ba_jail_moshpit backup/stone/stonefloor006a_-240_752_-800.vmt,144,144
+materials/maps/ba_jail_moshpit backup/stone/stonefloor006d_-240_752_-800.vmt,144,144
+materials/models/forlix/soccer/soccerball.vmt,100,100
+materials/models/forlix/soccer/soccerball.vtf,174984,174984
+materials/models/lduke/chicken/chicken2.vmt,88,88
+materials/models/lduke/chicken/chicken2.vtf,174968,174968
+materials/MODELS/PLAYER/TECHKNOW/SPIDERMAN/RED.vmt,247,247
+materials/models/player/techknow/spiderman/red.vtf,904,904
+materials/vgui/logos/asp_1280x1024_3.vmt,132,132
+materials/vgui/logos/asp_1280x1024_3.vtf,87616,87616
+materials/vgui/logos/calian.vmt,123,123
+materials/vgui/logos/calian.vtf,87616,87616
+materials/vgui/logos/folder.vmt,123,123
+materials/vgui/logos/folder.vtf,43912,43912
+materials/vgui/logos/mosh.vmt,121,121
+materials/vgui/logos/MOSH.vtf,87616,87616
+materials/vgui/logos/motivator2020477.vmt,133,133
+materials/vgui/logos/motivator2020477.vtf,87616,87616
+materials/vgui/logos/thumbs_scharfe emo girls_09.vmt,144,144
+materials/vgui/logos/thumbs_Scharfe EMO Girls_09.vtf,87616,87616
+materials/vgui/logos/thumbs_scharfe emo girls_11.vmt,144,144
+materials/vgui/logos/thumbs_Scharfe EMO Girls_11.vtf,87616,87616
+materials/vgui/logos/thumbs_scharfe emo girls_15.vmt,144,144
+materials/vgui/logos/thumbs_Scharfe EMO Girls_15.vtf,87616,87616
+models/forlix/soccer/soccerball.dx80.vtx,2655,2655
+models/forlix/soccer/soccerball.dx90.vtx,2655,2655
+models/forlix/soccer/soccerball.mdl,1540,1540
+models/forlix/soccer/soccerball.phy,5205,5205
+models/forlix/soccer/soccerball.sw.vtx,2655,2655
+models/forlix/soccer/soccerball.vvd,9408,9408
+models/lduke/chicken/chicken3.dx80.vtx,12364,12364
+models/lduke/chicken/chicken3.dx90.vtx,12364,12364
+models/lduke/chicken/chicken3.mdl,5728,5728
+models/lduke/chicken/chicken3.phy,842,842
+models/lduke/chicken/chicken3.sw.vtx,12316,12316
+models/lduke/chicken/chicken3.vvd,44288,44288
+sound/misc/atzenmusik.mp3,5052544,5052544
+sound/misc/budspencer.mp3,2944984,2944984
+sound/misc/cdccr.mp3,4180722,4180722
+sound/misc/cdccr1.mp3,3752188,3752188
+sound/misc/cdccr3.mp3,5346958,5346958
+sound/misc/cdcct1.mp3,4737795,4737795
+sound/misc/cdcct2.mp3,4696678,4696678
+sound/misc/tonybennet.mp3,4738761,4738761
+sprites/zerogxplode.vmt,126,126

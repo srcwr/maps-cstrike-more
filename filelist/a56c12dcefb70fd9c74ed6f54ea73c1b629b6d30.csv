@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/gg_awp_quarter1/de_nuke/nukwater_movingplane_0_0_0.vmt,160,160
+materials/maps/gg_awp_quarter1/de_nuke/nukwater_movingplane_depth_160.vmt,116,116
+materials/maps/gg_awp_quarter1/cubemapdefault.vtf,4952,4952
+materials/maps/gg_awp_quarter1/c0_0_0.vtf,4952,4952
+materials/MOLSON/CEILINGCAT.vmt,123,123
+materials/molson/ceilingcat.vtf,87616,87616
+materials/molson/dissapointed.vmt,125,125
+materials/molson/dissapointed.vtf,87616,87616
+materials/molson/trap_card.vmt,122,122
+materials/molson/Trap_card.vtf,87616,87616
+sound/molson/trapcard2.wav,544812,544812
+maps/soundcache/gg_awp_quarter.cache,110765,110765
+resource/overviews/gg_awp_quarter.txt,348,348
+materials/overviews/gg_awp_quarter.vmt,167,167
+materials/overviews/gg_awp_quarter.vtf,1048784,1048784

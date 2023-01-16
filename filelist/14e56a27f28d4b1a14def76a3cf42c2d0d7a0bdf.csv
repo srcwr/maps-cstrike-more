@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/bhop_coolkist_s2/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_coolkist_s2/cubemapdefault.hdr.vtf,76528,76528
+detail.vbsp,21135,21135
+materials/skybox/sunnyskybk.vmt,123,123
+materials/skybox/sunnyskybk.vtf,131160,131160
+materials/skybox/sunnyskydn.vmt,123,123
+materials/skybox/sunnyskydn.vtf,131160,131160
+materials/skybox/sunnyskyft.vmt,123,123
+materials/skybox/sunnyskyft.vtf,131160,131160
+materials/skybox/sunnyskylf.vmt,123,123
+materials/skybox/sunnyskylf.vtf,131160,131160
+materials/skybox/sunnyskyrt.vmt,123,123
+materials/skybox/sunnyskyrt.vtf,131160,131160
+materials/skybox/sunnyskyup.vmt,123,123
+materials/skybox/sunnyskyup.vtf,131160,131160

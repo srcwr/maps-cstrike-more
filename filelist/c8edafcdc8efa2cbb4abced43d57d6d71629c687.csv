@@ -1,0 +1,29 @@
+filename,size,compressed
+materials/maps/bhop_jx/de_season/glass00_88_12_128.vmt,122,122
+materials/maps/bhop_jx/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_jx/c88_12_128.vtf,28753,28753
+materials/maps/bhop_jx/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_jx/c88_12_128.hdr.vtf,76528,76528
+materials/de_season/glass00.vmt,212,212
+materials/de_season/glass00.vtf,349760,349760
+materials/Color/yellow green.vmt,69,69
+materials/Color/yellow green.vtf,11144,11144
+materials/Color/white.vmt,62,62
+materials/Color/white.vtf,11144,11144
+materials/Color/maroon.vmt,63,63
+materials/Color/maroon.vtf,11144,11144
+materials/skybox/ff_sky_clearblueup.vmt,124,124
+materials/skybox/ff_sky_clearblueup.vtf,4194383,4194383
+materials/skybox/ff_sky_clearbluedn.vmt,124,124
+materials/skybox/ff_sky_clearbluedn.vtf,4194511,4194511
+materials/skybox/ff_sky_clearbluelf.vmt,124,124
+materials/skybox/ff_sky_clearblueft.vtf,4194383,4194383
+materials/skybox/ff_sky_clearbluert.vmt,124,124
+materials/skybox/ff_sky_clearblueft.vmt,124,124
+materials/skybox/ff_sky_clearbluebk.vmt,124,124
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+maps/bhop_jx.nav,3906,3906
+scripts/soundscapes_bhop_jx.txt,819,819
+maps/bhop_jx_particles.txt,54,54
+particles/juxhop1.pcf,3910,3910

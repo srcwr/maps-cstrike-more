@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/dm_ghs_swampbase_v2/nature/blendgrassgravel003a_wvt_patch.vmt,221,221
+materials/maps/dm_ghs_swampbase_v2/nature/water_canals03_1056_422_-312.vmt,165,165
+materials/maps/dm_ghs_swampbase_v2/metal/metalfloor001a_1056_422_-312.vmt,141,141
+materials/maps/dm_ghs_swampbase_v2/metal/metalcombine001_1056_422_-312.vmt,142,142
+materials/maps/dm_ghs_swampbase_v2/metal/citadel_metalwall072b_1056_422_-312.vmt,148,148
+materials/maps/dm_ghs_swampbase_v2/wood/woodfloor006a_1056_422_-312.vmt,139,139
+materials/maps/dm_ghs_swampbase_v2/metal/metalpipe003a_1056_422_-312.vmt,140,140
+materials/maps/dm_ghs_swampbase_v2/maps/dm_ghs_swampbase_v2/nature/water_canals03_1056_422_-312_depth_166.vmt,148,148
+materials/maps/dm_ghs_swampbase_v2/cubemapdefault.vtf,9832,9832
+materials/maps/dm_ghs_swampbase_v2/c1056_422_-312.vtf,9832,9832
+materials/maps/dm_ghs_swampbase_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/dm_ghs_swampbase_v2/c1056_422_-312.hdr.vtf,76528,76528

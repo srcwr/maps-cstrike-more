@@ -1,0 +1,109 @@
+filename,size,compressed
+materials/maps/zm_quidditch_aet_beta_d/cubemapdefault.vtf,9832,9832
+materials/maps/zm_quidditch_aet_beta_d/cubemapdefault.hdr.vtf,76528,76528
+materials/DEVIOUSSKULLZ/INFWLLFTOPFIX.vmt,102,102
+materials/deviousskullz/infwllftopfix.vtf,174968,174968
+materials/EGYPT/WOODMGRID2A.vmt,65,65
+materials/egypt/woodmgrid2a.vtf,43912,43912
+materials/MAPS/ZE_HARRY_POTTER_V1_CFIX2/DE_CHATEAU/EXTWALL01A_0_0_0.vmt,139,139
+materials/maps/ze_harry_potter_v1_cfix2/c0_0_0.vtf,9832,9832
+materials/SKYBOX/LAKESKYLF.vmt,92,92
+materials/skybox/lakeskylf.vtf,1398208,1398208
+materials/COLOUR/METAL/METALWALL013A_BLACK.vmt,80,80
+materials/colour/metal/metalwall013a_black.vtf,349760,349760
+materials/TESTTT.vmt,51,51
+materials/testtt.vtf,349760,349760
+models/props/devious_skullz/harrypotter/stagezmtower3.mdl,3132,3132
+models/props/devious_skullz/harrypotter/stagezmtower3.dx80.vtx,17820,17820
+models/props/devious_skullz/harrypotter/stagezmtower3.dx90.vtx,17820,17820
+models/props/devious_skullz/harrypotter/stagezmtower3.sw.vtx,17820,17820
+models/props/devious_skullz/harrypotter/stagezmtower3.phy,58057,58057
+models/props/devious_skullz/harrypotter/stagezmtower3.vvd,90432,90432
+models/props/devious_skullz/harrypotter/stagezmtower4.mdl,3132,3132
+models/props/devious_skullz/harrypotter/stagezmtower4.dx80.vtx,17964,17964
+models/props/devious_skullz/harrypotter/stagezmtower4.dx90.vtx,17964,17964
+models/props/devious_skullz/harrypotter/stagezmtower4.sw.vtx,17964,17964
+models/props/devious_skullz/harrypotter/stagezmtower4.phy,57961,57961
+models/props/devious_skullz/harrypotter/stagezmtower4.vvd,91456,91456
+models/props/devious_skullz/harrypotter/stagezmtower1a.mdl,3508,3508
+models/props/devious_skullz/harrypotter/stagezmtower1a.dx80.vtx,5730,5730
+models/props/devious_skullz/harrypotter/stagezmtower1a.dx90.vtx,5730,5730
+models/props/devious_skullz/harrypotter/stagezmtower1a.sw.vtx,5730,5730
+models/props/devious_skullz/harrypotter/stagezmtower1a.phy,10867,10867
+models/props/devious_skullz/harrypotter/stagezmtower1a.vvd,26688,26688
+models/props/devious_skullz/harrypotter/stagezmstairs2.mdl,2148,2148
+models/props/devious_skullz/harrypotter/stagezmstairs2.dx80.vtx,4542,4542
+models/props/devious_skullz/harrypotter/stagezmstairs2.dx90.vtx,4542,4542
+models/props/devious_skullz/harrypotter/stagezmstairs2.sw.vtx,4542,4542
+models/props/devious_skullz/harrypotter/stagezmstairs2.phy,11968,11968
+models/props/devious_skullz/harrypotter/stagezmstairs2.vvd,22912,22912
+models/props/devious_skullz/harrypotter/stagezmmiddet6a.mdl,1772,1772
+models/props/devious_skullz/harrypotter/stagezmmiddet6a.dx80.vtx,6885,6885
+models/props/devious_skullz/harrypotter/stagezmmiddet6a.dx90.vtx,6885,6885
+models/props/devious_skullz/harrypotter/stagezmmiddet6a.sw.vtx,6885,6885
+models/props/devious_skullz/harrypotter/stagezmmiddet6a.phy,10690,10690
+models/props/devious_skullz/harrypotter/stagezmmiddet6a.vvd,35904,35904
+models/3d/staticfix/ladderwood_static.mdl,1472,1472
+models/3d/staticfix/ladderwood_static.dx80.vtx,7197,7197
+models/3d/staticfix/ladderwood_static.dx90.vtx,7197,7197
+models/3d/staticfix/ladderwood_static.sw.vtx,7197,7197
+models/3d/staticfix/ladderwood_static.phy,1802,1802
+models/3d/staticfix/ladderwood_static.vvd,33344,33344
+models/props/devious_skullz/harrypotter/stagezmtower1b.mdl,1956,1956
+models/props/devious_skullz/harrypotter/stagezmtower1b.dx80.vtx,978,978
+models/props/devious_skullz/harrypotter/stagezmtower1b.dx90.vtx,978,978
+models/props/devious_skullz/harrypotter/stagezmtower1b.sw.vtx,978,978
+models/props/devious_skullz/harrypotter/stagezmtower1b.phy,3858,3858
+models/props/devious_skullz/harrypotter/stagezmtower1b.vvd,4160,4160
+models/props/devious_skullz/harrypotter/stagezmground.mdl,1952,1952
+models/props/devious_skullz/harrypotter/stagezmground.dx80.vtx,1518,1518
+models/props/devious_skullz/harrypotter/stagezmground.dx90.vtx,1518,1518
+models/props/devious_skullz/harrypotter/stagezmground.sw.vtx,1518,1518
+models/props/devious_skullz/harrypotter/stagezmground.vvd,6976,6976
+models/props/devious_skullz/harrypotter/stagezmmiddet5.mdl,1956,1956
+models/props/devious_skullz/harrypotter/stagezmmiddet5.dx80.vtx,21450,21450
+models/props/devious_skullz/harrypotter/stagezmmiddet5.dx90.vtx,21450,21450
+models/props/devious_skullz/harrypotter/stagezmmiddet5.sw.vtx,21450,21450
+models/props/devious_skullz/harrypotter/stagezmmiddet5.phy,41232,41232
+models/props/devious_skullz/harrypotter/stagezmmiddet5.vvd,111424,111424
+models/props/devious_skullz/harrypotter/stagezmcornerstair1c.mdl,1956,1956
+models/props/devious_skullz/harrypotter/stagezmcornerstair1c.dx80.vtx,1074,1074
+models/props/devious_skullz/harrypotter/stagezmcornerstair1c.dx90.vtx,1074,1074
+models/props/devious_skullz/harrypotter/stagezmcornerstair1c.sw.vtx,1074,1074
+models/props/devious_skullz/harrypotter/stagezmcornerstair1c.phy,4438,4438
+models/props/devious_skullz/harrypotter/stagezmcornerstair1c.vvd,4672,4672
+models/props/devious_skullz/harrypotter/stagezmcornerstair1d.mdl,1956,1956
+models/props/devious_skullz/harrypotter/stagezmcornerstair1d.dx80.vtx,1122,1122
+models/props/devious_skullz/harrypotter/stagezmcornerstair1d.dx90.vtx,1122,1122
+models/props/devious_skullz/harrypotter/stagezmcornerstair1d.sw.vtx,1122,1122
+models/props/devious_skullz/harrypotter/stagezmcornerstair1d.phy,4438,4438
+models/props/devious_skullz/harrypotter/stagezmcornerstair1d.vvd,4928,4928
+models/props/devious_skullz/harrypotter/stagezmcornerstair1b.mdl,1956,1956
+models/props/devious_skullz/harrypotter/stagezmcornerstair1b.dx80.vtx,978,978
+models/props/devious_skullz/harrypotter/stagezmcornerstair1b.dx90.vtx,978,978
+models/props/devious_skullz/harrypotter/stagezmcornerstair1b.sw.vtx,978,978
+models/props/devious_skullz/harrypotter/stagezmcornerstair1b.phy,3796,3796
+models/props/devious_skullz/harrypotter/stagezmcornerstair1b.vvd,4160,4160
+sound/xstg2beginning.mp3,2522224,2522224
+materials/TESTTT.vmt,51,51
+materials/TESTTT.vmt,51,51
+materials/TESTTT.vmt,51,51
+materials/TESTTT.vmt,51,51
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/addons/sourcemod/configs/AntiGrief/ze_harry_potter_v1_cfix2/Hooks.txt,41,41
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/addons/sourcemod/configs/AntiGrief/ze_harry_potter_v1_cfix2/ItemUsed.txt,842,842
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/albedo.tga,1048594,1048594
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/bin/client.dll,5469984,5469984
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/bin/server.dll,5663520,5663520
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/bhop_japan.bsp.bz20000,15089664,15089664
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/deathrun_pool_final.bsp.bz20000,114688,114688
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/deathrun_simpsons_finalfix.bsp.bz20000,1247232,1247232
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/downloadcache.db,2468,2468
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/dreamfiiire-33.mp3.bz20000,43008,43008
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/jb_brikkenwood_v4.bsp.bz20000,9465856,9465856
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/mg_color_course_v2.bsp.bz20000,5601280,5601280
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/mg_thc_lego_final.bsp.bz20000,1269760,1269760
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/ze_lotr_isengard_v2_3.bsp.bz20000,6338560,6338560
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/ze_random_v9.bsp.bz20000,26486784,26486784
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/ze_sandstorm_v7_1.bsp.bz20000,44326912,44326912
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/cache/ze_serpentis_temple_b4.bsp.bz20000,921600,921600
+materials/TESTTT.vmt,51,51

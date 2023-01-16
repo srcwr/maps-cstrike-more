@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/wasteland_depot/nature/blendsandrock004a_wvt_patch.vmt,260,260
+materials/maps/wasteland_depot/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/wasteland_depot/concrete/concretefloor005a_0_0_0.vmt,135,135
+materials/maps/wasteland_depot/tile/tilefloor011a_0_0_0.vmt,127,127
+materials/maps/wasteland_depot/metal/metalpipe003a_0_0_0.vmt,128,128
+materials/maps/wasteland_depot/metal/metalpipe005a_0_0_0.vmt,128,128
+materials/maps/wasteland_depot/effects/com_shield003a_0_0_0.vmt,154,154
+materials/maps/wasteland_depot/cubemapdefault.vtf,9832,9832
+materials/maps/wasteland_depot/c0_0_0.vtf,9832,9832
+materials/maps/wasteland_depot/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/wasteland_depot/c0_0_0.hdr.vtf,76528,76528

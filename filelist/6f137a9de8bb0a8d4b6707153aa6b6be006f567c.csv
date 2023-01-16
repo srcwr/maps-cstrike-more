@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/fy_icecabin_gzm/metal/metalroof008a_576_-704_368.vmt,135,135
+materials/maps/fy_icecabin_gzm/cubemapdefault.vtf,7248,7248
+materials/maps/fy_icecabin_gzm/c576_-704_368.vtf,4952,4952
+materials/gzm/ceramic/black.vmt,99,99
+materials/gzm/ceramic/black.vtf,174968,174968
+materials/gzm/ceramic/greenglass.vtf,349744,349744
+materials/gzm/ceramic/special/ceramic_cubemap.vmt,80,80
+materials/gzm/ceramic/special/ceramic_cubemap.vtf,19272,19272
+materials/gzm/ceramic/special/greenglass_shiny_break.vmt,306,306
+materials/gzm/ceramic/special/ice_gb.vtf,349744,349744
+materials/gzm/ceramic/special/ice_gb_rough.vmt,291,291
+materials/gzm/ceramic/special/ice_normal.vtf,174968,174968
+maps/fy_icecabin_gzm.nav,210546,210546
+maps/fy_icecabin_gzm.txt,565,565

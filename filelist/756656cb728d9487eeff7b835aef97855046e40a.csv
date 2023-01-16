@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/deathrun_deathline/de_dust/tilefloor02_0_0_0.vmt,131,131
+materials/maps/deathrun_deathline/glass/glasswindow070c_0_0_0.vmt,133,133
+materials/maps/deathrun_deathline/nature/sewer_water001_depth_4.vmt,107,107
+materials/maps/deathrun_deathline/liquids/water_dx70_depth_4.vmt,104,104
+materials/maps/deathrun_deathline/nature/water_canals03_dx70_depth_99.vmt,113,113
+materials/maps/deathrun_deathline/cubemapdefault.vtf,28753,28753
+materials/maps/deathrun_deathline/c0_0_0.vtf,28753,28753
+materials/maps/deathrun_deathline/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/deathrun_deathline/c0_0_0.hdr.vtf,76528,76528
+materials/nature/ICE.vmt,214,214
+materials/nature/ice.vtf,699288,699288
+sound/admin_plugin/mp31.mp3,384839,384839
+sound/admin_plugin/mp32.mp3,232573,232573
+sound/admin_plugin/mp33.mp3,558102,558102

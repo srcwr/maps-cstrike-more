@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/surf_xpipe_final (2)/nature/water_canals03_0_0_-224.vmt,161,161
+materials/maps/surf_xpipe_final (2)/nature/water_canals03_0_1664_-224.vmt,164,164
+materials/maps/surf_xpipe_final (2)/nature/water_canals03_-1664_0_-224.vmt,165,165
+materials/maps/surf_xpipe_final (2)/nature/water_canals03_1664_0_-224.vmt,164,164
+materials/maps/surf_xpipe_final (2)/nature/water_canals03_0_-1664_-224.vmt,165,165
+materials/maps/surf_xpipe_final (2)/nature/sewer_water001_0_-1664_-224.vmt,165,165
+materials/maps/surf_xpipe_final (2)/nature/sewer_water001_1664_0_-224.vmt,164,164
+materials/maps/surf_xpipe_final (2)/nature/sewer_water001_0_1664_-224.vmt,164,164
+materials/maps/surf_xpipe_final (2)/nature/sewer_water001_-1664_0_-224.vmt,165,165
+materials/maps/surf_xpipe_final (2)/tile/tilefloor020a_-1664_0_-224.vmt,139,139
+materials/maps/surf_xpipe_final (2)/tile/tilefloor020a_1664_0_-224.vmt,138,138
+materials/maps/surf_xpipe_final (2)/tile/tilefloor020a_0_1664_-224.vmt,138,138
+materials/maps/surf_xpipe_final (2)/tile/tilefloor020a_0_-1664_-224.vmt,139,139
+materials/maps/surf_xpipe_final (2)/glass/glasswindow070c_0_-1664_-224.vmt,142,142
+materials/maps/surf_xpipe_final (2)/glass/glasswindow070c_1664_0_-224.vmt,141,141
+materials/maps/surf_xpipe_final (2)/glass/glasswindow070c_0_0_-224.vmt,138,138
+materials/maps/surf_xpipe_final (2)/glass/glasswindow070c_-1664_0_-224.vmt,142,142
+materials/maps/surf_xpipe_final (2)/glass/glasswindow070c_0_1664_-224.vmt,141,141
+materials/maps/surf_xpipe_final (2)/maps/surf_xpipe_final (2)/nature/water_canals03_0_-1664_-224_depth_12.vmt,147,147
+materials/maps/surf_xpipe_final (2)/maps/surf_xpipe_final (2)/nature/sewer_water001_0_-1664_-224_depth_8.vmt,146,146
+materials/maps/surf_xpipe_final (2)/maps/surf_xpipe_final (2)/nature/sewer_water001_-1664_0_-224_depth_8.vmt,146,146
+materials/maps/surf_xpipe_final (2)/maps/surf_xpipe_final (2)/nature/sewer_water001_1664_0_-224_depth_8.vmt,145,145
+materials/maps/surf_xpipe_final (2)/maps/surf_xpipe_final (2)/nature/sewer_water001_0_1664_-224_depth_8.vmt,145,145
+materials/maps/surf_xpipe_final (2)/cubemapdefault.vtf,9824,9824
+materials/maps/surf_xpipe_final (2)/c0_0_-224.vtf,9824,9824
+materials/maps/surf_xpipe_final (2)/c0_1664_-224.vtf,9824,9824
+materials/maps/surf_xpipe_final (2)/c-1664_0_-224.vtf,9824,9824
+materials/maps/surf_xpipe_final (2)/c1664_0_-224.vtf,9824,9824
+materials/maps/surf_xpipe_final (2)/c0_-1664_-224.vtf,9824,9824
+materials/maps/surf_xpipe_v10/c0_0_-224.hdr.vtf,76520,76520
+materials/maps/surf_xpipe_v10/c0_1664_-224.hdr.vtf,76520,76520
+materials/maps/surf_xpipe_v10/c-1664_0_-224.hdr.vtf,76520,76520
+materials/maps/surf_xpipe_v10/c1664_0_-224.hdr.vtf,76520,76520
+materials/maps/surf_xpipe_v10/c0_-1664_-224.hdr.vtf,76520,76520
+materials/maps/surf_xpipe_v10/cubemapdefault.vtf,9824,9824

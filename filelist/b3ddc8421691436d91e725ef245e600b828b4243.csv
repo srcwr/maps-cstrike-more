@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/bhop_fast_hop_v1/dev/dev_water2_-3264_-500_-8.vmt,155,155
+materials/maps/bhop_fast_hop_v1/concrete/concretefloor005a_-3296_972_-120.vmt,145,145
+materials/maps/bhop_fast_hop_v1/concrete/concretefloor011a_c17_-3296_972_-120.vmt,188,188
+materials/maps/bhop_fast_hop_v1/concrete/concretefloor011a_c17_-3264_-500_-8.vmt,187,187
+materials/maps/bhop_fast_hop_v1/concrete/concretefloor005a_-3264_-500_-8.vmt,144,144
+materials/maps/bhop_fast_hop_v1/glass/combineglass001a_-3264_-500_-8.vmt,140,140
+materials/maps/bhop_fast_hop_v1/glass/combineglass001a_-3296_972_-120.vmt,141,141
+materials/maps/bhop_fast_hop_v1/maps/bhop_fast_hop_v1/dev/dev_water2_-3264_-500_-8_depth_64.vmt,137,137
+materials/maps/bhop_fast_hop_v1/maps/bhop_fast_hop_v1/dev/dev_water2_-3264_-500_-8_depth_95.vmt,137,137
+materials/maps/bhop_fast_hop_v1/cubemapdefault.vtf,9824,9824
+materials/maps/bhop_fast_hop_v1/c-3264_-500_-8.vtf,9824,9824
+materials/maps/bhop_fast_hop_v1/c-3296_972_-120.vtf,9824,9824
+materials/maps/bhop_fast_hop_v1/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/bhop_fast_hop_v1/c-3264_-500_-8.hdr.vtf,76520,76520
+materials/maps/bhop_fast_hop_v1/c-3296_972_-120.hdr.vtf,76520,76520

@@ -1,0 +1,189 @@
+filename,size,compressed
+materials/maps/bkz_hb_momoko/cubemapdefault.vtf,4960,4960
+materials/maps/bkz_hb_momoko/cubemapdefault.hdr.vtf,76528,76528
+sp_0.vhv,1536,1536
+sp_1.vhv,1536,1536
+sp_2.vhv,2560,2560
+sp_3.vhv,2048,2048
+sp_4.vhv,2048,2048
+sp_5.vhv,3072,3072
+sp_6.vhv,1024,1024
+sp_7.vhv,2560,2560
+sp_8.vhv,1536,1536
+sp_9.vhv,1536,1536
+sp_10.vhv,1536,1536
+sp_11.vhv,2560,2560
+sp_12.vhv,1536,1536
+sp_13.vhv,2048,2048
+sp_14.vhv,1024,1024
+sp_15.vhv,1536,1536
+sp_16.vhv,1024,1024
+sp_17.vhv,1024,1024
+sp_18.vhv,1536,1536
+sp_19.vhv,1024,1024
+sp_20.vhv,3072,3072
+sp_21.vhv,1536,1536
+sp_22.vhv,1536,1536
+detail.vbsp,16826,16826
+models/momoko/ren.mdl,422048,422048
+models/momoko/ren.dx80.vtx,55002,55002
+models/momoko/ren.dx90.vtx,52496,52496
+models/momoko/ren.sw.vtx,51174,51174
+models/momoko/ren.vvd,192192,192192
+materials/models/momoko/studio_witch.vmt,72,72
+materials/models/momoko/studio_witch.vtf,131280,131280
+models/momoko/ji.mdl,3196,3196
+models/momoko/ji.dx80.vtx,9878,9878
+models/momoko/ji.dx90.vtx,9878,9878
+models/momoko/ji.sw.vtx,9854,9854
+models/momoko/ji.vvd,34624,34624
+materials/models/momoko/seno.vmt,64,64
+materials/models/momoko/seno.vtf,16528,16528
+materials/models/momoko/null.vmt,64,64
+materials/models/momoko/null.vtf,131280,131280
+models/momoko/keai (3).mdl,87140,87140
+models/momoko/keai (3).dx80.vtx,12407,12407
+models/momoko/keai (3).dx90.vtx,12372,12372
+models/momoko/keai (3).sw.vtx,12220,12220
+models/momoko/keai (3).vvd,43520,43520
+materials/models/momoko/mushroom03_idle.vmt,75,75
+materials/models/momoko/mushroom03_idle.vtf,32976,32976
+materials/models/momoko/mushroom03_damage.vmt,77,77
+materials/models/momoko/mushroom03_damage.vtf,32976,32976
+models/momoko/keai3.mdl,30408,30408
+models/momoko/keai3.dx80.vtx,9503,9503
+models/momoko/keai3.dx90.vtx,9503,9503
+models/momoko/keai3.sw.vtx,9439,9439
+models/momoko/keai3.vvd,38848,38848
+materials/models/momoko/pumpkin.vmt,67,67
+materials/models/momoko/pumpkin.vtf,131280,131280
+models/momoko/keai (2).mdl,41268,41268
+models/momoko/keai (2).dx80.vtx,7569,7569
+models/momoko/keai (2).dx90.vtx,7569,7569
+models/momoko/keai (2).sw.vtx,7489,7489
+models/momoko/keai (2).vvd,26432,26432
+materials/models/momoko/mushroom02_idle.vmt,75,75
+materials/models/momoko/mushroom02_idle.vtf,32976,32976
+materials/models/momoko/mushroom02_damage.vmt,77,77
+materials/models/momoko/mushroom02_damage.vtf,32976,32976
+models/momoko/keai.mdl,40732,40732
+models/momoko/keai.dx80.vtx,3427,3427
+models/momoko/keai.dx90.vtx,3427,3427
+models/momoko/keai.sw.vtx,3379,3379
+models/momoko/keai.vvd,10688,10688
+materials/models/momoko/mushroom01_idle.vmt,75,75
+materials/models/momoko/mushroom01_idle.vtf,131280,131280
+materials/models/momoko/mushroom01_damage.vmt,77,77
+materials/models/momoko/mushroom01_damage.vtf,131280,131280
+models/momoko/shu (3).mdl,1928,1928
+models/momoko/shu (3).dx80.vtx,2961,2961
+models/momoko/shu (3).dx90.vtx,2961,2961
+models/momoko/shu (3).sw.vtx,2961,2961
+models/momoko/shu (3).vvd,10304,10304
+materials/models/momoko/maple_a_tree02_green.vmt,80,80
+materials/models/momoko/maple_a_tree02_green.vtf,32976,32976
+materials/models/momoko/maple_a_tree02_yellow.vmt,81,81
+materials/models/momoko/maple_a_tree02_yellow.vtf,32976,32976
+materials/models/momoko/maple_a_tree02_red.vmt,78,78
+materials/models/momoko/maple_a_tree02_red.vtf,32976,32976
+models/momoko/shu.mdl,1924,1924
+models/momoko/shu.dx80.vtx,2847,2847
+models/momoko/shu.dx90.vtx,2847,2847
+models/momoko/shu.sw.vtx,2847,2847
+models/momoko/shu.vvd,10176,10176
+materials/models/momoko/maple_a_tree01_green.vmt,80,80
+materials/models/momoko/maple_a_tree01_green.vtf,32976,32976
+models/momoko/hua (2).mdl,1736,1736
+models/momoko/hua (2).dx80.vtx,5847,5847
+models/momoko/hua (2).dx90.vtx,5847,5847
+models/momoko/hua (2).sw.vtx,5847,5847
+models/momoko/hua (2).vvd,24768,24768
+materials/models/momoko/maple_a_corn01.vmt,74,74
+materials/models/momoko/maple_a_corn01.vtf,16528,16528
+models/momoko/hua2.mdl,1732,1732
+models/momoko/hua2.dx80.vtx,5715,5715
+models/momoko/hua2.dx90.vtx,5715,5715
+models/momoko/hua2.sw.vtx,5715,5715
+models/momoko/hua2.vvd,24000,24000
+models/momoko/hua3.mdl,1736,1736
+models/momoko/hua3.dx80.vtx,7809,7809
+models/momoko/hua3.dx90.vtx,7809,7809
+models/momoko/hua3.sw.vtx,7809,7809
+models/momoko/hua3.vvd,36160,36160
+materials/models/momoko/maple_a_flower01.vmt,76,76
+materials/models/momoko/maple_a_flower01.vtf,8400,8400
+models/momoko/shu (6).mdl,1928,1928
+models/momoko/shu (6).dx80.vtx,1119,1119
+models/momoko/shu (6).dx90.vtx,1119,1119
+models/momoko/shu (6).sw.vtx,1119,1119
+models/momoko/shu (6).vvd,4544,4544
+materials/models/momoko/maple_a_tree03_green.vmt,80,80
+materials/models/momoko/maple_a_tree03_green.vtf,32976,32976
+models/momoko/hua6.mdl,1736,1736
+models/momoko/hua6.dx80.vtx,6573,6573
+models/momoko/hua6.dx90.vtx,6573,6573
+models/momoko/hua6.sw.vtx,6573,6573
+models/momoko/hua6.vvd,30784,30784
+materials/models/momoko/maple_a_flower02.vmt,76,76
+materials/models/momoko/maple_a_flower02.vtf,16528,16528
+models/momoko/tong.mdl,1732,1732
+models/momoko/tong.dx80.vtx,3321,3321
+models/momoko/tong.dx90.vtx,3321,3321
+models/momoko/tong.sw.vtx,3321,3321
+models/momoko/tong.vvd,14656,14656
+materials/models/momoko/maple_a_drum01.vmt,74,74
+materials/models/momoko/maple_a_drum01.vtf,32976,32976
+models/momoko/fangzi (4).mdl,1740,1740
+models/momoko/fangzi (4).dx80.vtx,6318,6318
+models/momoko/fangzi (4).dx90.vtx,6318,6318
+models/momoko/fangzi (4).sw.vtx,6318,6318
+models/momoko/fangzi (4).vvd,28032,28032
+materials/models/momoko/maple_a_house02.vmt,75,75
+materials/models/momoko/maple_a_house02.vtf,65680,65680
+models/momoko/che2.mdl,1732,1732
+models/momoko/che2.dx80.vtx,5223,5223
+models/momoko/che2.dx90.vtx,5223,5223
+models/momoko/che2.sw.vtx,5223,5223
+models/momoko/che2.vvd,24512,24512
+materials/models/momoko/maple_a_cart01.vmt,74,74
+materials/models/momoko/maple_a_cart01.vtf,16528,16528
+models/momoko/shitou (3).mdl,1740,1740
+models/momoko/shitou (3).dx80.vtx,1083,1083
+models/momoko/shitou (3).dx90.vtx,1083,1083
+models/momoko/shitou (3).sw.vtx,1083,1083
+models/momoko/shitou (3).vvd,3904,3904
+materials/models/momoko/maple_a_rock01.vmt,74,74
+materials/models/momoko/maple_a_rock01.vtf,8400,8400
+models/momoko/che4.mdl,1732,1732
+models/momoko/che4.dx80.vtx,7335,7335
+models/momoko/che4.dx90.vtx,7335,7335
+models/momoko/che4.sw.vtx,7335,7335
+models/momoko/che4.vvd,32960,32960
+materials/models/momoko/maple_a_cart02.vmt,74,74
+materials/models/momoko/maple_a_cart02.vtf,32976,32976
+materials/momoko/!kart_water01.vmt,60,60
+materials/momoko/!kart_water01.vtf,11168,11168
+materials/momoko/5657.vmt,57,57
+materials/momoko/5657.vtf,11168,11168
+materials/momoko/344.vmt,56,56
+materials/momoko/344.vtf,11168,11168
+materials/momoko/hjjgk.vmt,58,58
+materials/momoko/hjjgk.vtf,11168,11168
+materials/momoko/thgj.vmt,57,57
+materials/momoko/thgj.vtf,11168,11168
+materials/momoko/54654.vmt,58,58
+materials/momoko/54654.vtf,11168,11168
+materials/momoko/5345.vmt,57,57
+materials/momoko/5345.vtf,11168,11168
+materials/skybox/mmkbk.vmt,80,80
+materials/skybox/mmkbk.vtf,32976,32976
+materials/skybox/mmkdn.vmt,80,80
+materials/skybox/mmkdn.vtf,32976,32976
+materials/skybox/mmkft.vmt,80,80
+materials/skybox/mmkft.vtf,32976,32976
+materials/skybox/mmklf.vmt,80,80
+materials/skybox/mmklf.vtf,32976,32976
+materials/skybox/mmkrt.vmt,80,80
+materials/skybox/mmkrt.vtf,32976,32976
+materials/skybox/mmkup.vmt,80,80
+materials/skybox/mmkup.vtf,32976,32976

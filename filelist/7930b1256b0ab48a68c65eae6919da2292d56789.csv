@@ -1,0 +1,72 @@
+filename,size,compressed
+materials/maps/gg_blopus/textures/sberbank_tile_0_0_0.vmt,125,125
+materials/maps/gg_blopus/realworldtextures2/concrete/concrete_59_0_0_0.vmt,142,142
+materials/maps/gg_blopus/fy_pool_day_gx/midtilewhitepool_0_0_0.vmt,134,134
+materials/maps/gg_blopus/stone/counter02_0_0_0.vmt,118,118
+materials/maps/gg_blopus/compo31/c31_glass_clean_0_0_0.vmt,126,126
+materials/maps/gg_blopus/de_nuke/nukwater_movingplane_dx70_depth_8.vmt,119,119
+materials/maps/gg_blopus/de_nuke/nukwater_movingplane_dx70_depth_12.vmt,120,120
+materials/maps/gg_blopus/cubemapdefault.vtf,4960,4960
+materials/maps/gg_blopus/c0_0_0.vtf,4960,4960
+materials/maps/gg_blopus/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_blopus/c0_0_0.hdr.vtf,76528,76528
+materials/textures/sberbank_tile.vmt,152,152
+materials/textures/sberbank_tile.vtf,699272,699272
+materials/RealWorldTextures2/Concrete/concrete_59.vmt,261,261
+materials/RealWorldTextures2/Concrete/concrete_59.vtf,174984,174984
+materials/RealWorldTextures2/Detail/detailconcrete001a.vtf,262567,262567
+materials/realisticwallsandfloors/nature/dirtpebbles2.vmt,115,115
+materials/realisticwallsandfloors/nature/dirtpebbles2.vtf,43912,43912
+materials/RealWorldTextures2/Ceiling/ceiling_05.vmt,290,290
+materials/RealWorldTextures2/Ceiling/ceiling_05.vtf,174984,174984
+materials/RealWorldTextures2/Ceiling/ceiling_05_nrm.vtf,174984,174984
+materials/Color/lavender blue.vmt,70,70
+materials/Color/lavender blue.vtf,11144,11144
+materials/Color/tea rose orange.vmt,72,72
+materials/Color/tea rose orange.vtf,11144,11144
+materials/Color/carolina blue.vmt,70,70
+materials/Color/carolina blue.vtf,11144,11144
+materials/RealWorldTextures2/Concrete/concrete_39.vmt,406,406
+materials/RealWorldTextures2/Concrete/concrete_39.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_39_40_41_42_nrm.vtf,174984,174984
+materials/Color/taupe.vmt,62,62
+materials/Color/taupe.vtf,11144,11144
+materials/WaterSource/Waterfall/WaterfallSOFT_1024_CLEAR.vmt,264,264
+materials/WaterSource/Waterfall/WaterfallSOFT_1024_CLEAR.vtf,1048784,1048784
+materials/RealWorldTextures/glass/Glass_09_P.vmt,129,129
+materials/RealWorldTextures/glass/Glass_09_P.vtf,175008,175008
+materials/skybox/hybridup.vmt,85,85
+materials/skybox/hybridup.vtf,524496,524496
+materials/skybox/hybriddn.vmt,85,85
+materials/skybox/hybriddn.vtf,524496,524496
+materials/skybox/hybridlf.vmt,85,85
+materials/skybox/hybridlf.vtf,524496,524496
+materials/skybox/hybridrt.vmt,85,85
+materials/skybox/hybridrt.vtf,524496,524496
+materials/skybox/hybridft.vmt,85,85
+materials/skybox/hybridft.vtf,524496,524496
+materials/skybox/hybridbk.vmt,85,85
+materials/skybox/hybridbk.vtf,524496,524496
+materials/fy_pool_day_gx/midtilewhitepool.vmt,341,341
+materials/fy_pool_day_gx/midtilewhitepool.vtf,43896,43896
+materials/fy_pool_day_gx/midtilewhite_normal.vtf,43896,43896
+materials/stone/counter02.vmt,233,233
+materials/stone/counter02.vtf,43936,43936
+materials/stone/counter01_ref.vtf,43936,43936
+materials/compo31/c31_glass_clean.vmt,323,323
+materials/compo31/c31_glass_clean.vtf,349640,349640
+materials/compo31/c31_glass_normal.vtf,1398308,1398308
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/cncr04sp3/concretetypes/acdoor5base1.vmt,112,112
+materials/cncr04sp3/concretetypes/acdoor5base1.vtf,43912,43912
+materials/SUB/WALL_SUB.vmt,119,119
+materials/SUB/wall_sub.vtf,87528,87528
+materials/SUB/wall_sub_normal.vtf,87528,87528
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/detail/detailsprites.vmt,135,135
+materials/detail/detailsprites.vtf,1398336,1398336

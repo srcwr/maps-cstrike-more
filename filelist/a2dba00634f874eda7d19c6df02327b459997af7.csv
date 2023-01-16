@@ -1,0 +1,24 @@
+filename,size,compressed
+materials/maps/de_monte/stone/stonefloor006d_-3890_195_-24.vmt,130,130
+materials/maps/de_monte/stone/stonefloor006d_-498_1436_-144.vmt,131,131
+materials/maps/de_monte/tile/tilefloor016a_-498_1436_-144.vmt,129,129
+materials/maps/de_monte/wood/woodfloor006a_-498_1436_-144.vmt,129,129
+materials/maps/de_monte/tile/tileroof004a_-498_1436_-144.vmt,128,128
+materials/maps/de_monte/tile/tileroof004a_-3890_195_-24.vmt,127,127
+materials/maps/de_monte/wood/woodfloor006a_-3890_195_-24.vmt,128,128
+materials/maps/de_monte/tile/tilefloor016a_-3890_195_-24.vmt,128,128
+materials/maps/de_monte/concrete/concretewall041c_-498_1436_-144.vmt,136,136
+materials/maps/de_monte/concrete/concretewall041b_-498_1436_-144.vmt,136,136
+materials/maps/de_monte/plaster/plasterwall013g_-498_1436_-144.vmt,134,134
+materials/maps/de_monte/glass/glasswindow037a_-498_1436_-144.vmt,132,132
+materials/maps/de_monte/environment maps/pipemetal004b_-498_1436_-144.vmt,141,141
+materials/maps/de_monte/glass/glasswindow037c_-498_1436_-144.vmt,132,132
+materials/maps/de_monte/cubemapdefault.vtf,9824,9824
+materials/maps/de_monte/c-3890_195_-24.vtf,9824,9824
+materials/maps/de_monte/c-498_1436_-144.vtf,9824,9824
+materials/overviews/de_monte.vmt,165,165
+materials/overviews/de_monte.vtf,1398336,1398336
+materials/overviews/de_monte_radar.vmt,171,171
+materials/overviews/de_monte_radar.vtf,1398336,1398336
+maps/soundcache/de_monte.cache,16,16
+resource/overviews/de_monte.txt,337,337

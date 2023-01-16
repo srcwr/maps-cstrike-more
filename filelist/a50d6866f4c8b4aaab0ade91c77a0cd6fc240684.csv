@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/surf_black_hole/metal/citadel_tilewall005a_0_0_0.vmt,135,135
+materials/maps/surf_black_hole/models/combine_citadel/combine_citadel001_0_0_0.vmt,150,150
+materials/maps/surf_black_hole/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/surf_black_hole/dev/dev_water2_depth_17.vmt,101,101
+materials/maps/surf_black_hole/dev/dev_water2_depth_29.vmt,101,101
+materials/maps/surf_black_hole/dev/dev_water2_depth_24.vmt,101,101
+materials/maps/surf_black_hole/dev/dev_water2_depth_12.vmt,101,101
+materials/maps/surf_black_hole/dev/dev_water2_depth_38.vmt,101,101
+materials/maps/surf_black_hole/dev/dev_water2_depth_55.vmt,101,101
+materials/maps/surf_black_hole/dev/dev_water2_depth_37.vmt,101,101
+materials/maps/surf_black_hole/cubemapdefault.vtf,9824,9824
+materials/maps/surf_black_hole/c0_0_0.vtf,9824,9824

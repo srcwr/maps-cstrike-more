@@ -1,0 +1,137 @@
+filename,size,compressed
+materials/maps/blendbhop/cubemapdefault.vtf,28753,28753
+materials/maps/blendbhop/cubemapdefault.hdr.vtf,76528,76528
+materials/RealWorldTextures/Walls/Pewter.vmt,239,239
+materials/RealWorldTextures/Walls/Pewter.vtf,174984,174984
+materials/RealWorldTextures/Walls/StoneHedge.vmt,243,243
+materials/RealWorldTextures/Walls/StoneHedge.vtf,174984,174984
+materials/Color/medium blue.vmt,68,68
+materials/Color/medium blue.vtf,11144,11144
+materials/RealWorldTextures/Walls/Mink.vmt,237,237
+materials/RealWorldTextures/Walls/Mink.vtf,174984,174984
+materials/WaterSource/Waterfall/waterfallSOFT_1024_NRM_RED.vmt,429,429
+materials/WaterSource/Waterfall/WaterfallSOFT_1024_NRM_CLEAR.vtf,1048784,1048784
+materials/WaterSource/River/river_flat_05.vmt,387,387
+materials/WaterSource/River/river_flat_05.vtf,1398336,1398336
+materials/WaterSource/River/river_flat_nrm.vtf,699272,699272
+materials/ICECREAMLOCK/YELLOWGLASS.vmt,119,119
+materials/ICECREAMLOCK/yellowglass.vtf,2952,2952
+materials/Color/red.vmt,60,60
+materials/Color/red.vtf,11144,11144
+materials/Color/golden yellow.vmt,70,70
+materials/Color/golden yellow.vtf,11144,11144
+materials/ICECREAMLOCK/REDGLASS.vmt,116,116
+materials/ICECREAMLOCK/redglass.vtf,2952,2952
+materials/Color/green.vmt,62,62
+materials/Color/green.vtf,11144,11144
+materials/Color/brilliant rose.vmt,71,71
+materials/Color/brilliant rose.vtf,11144,11144
+materials/ICECREAMLOCK/LIGHTGLASS.vmt,118,118
+materials/ICECREAMLOCK/lightglass.vtf,2952,2952
+materials/ICECREAMLOCK/purpleglass.vmt,119,119
+materials/ICECREAMLOCK/purpleglass.vtf,2952,2952
+materials/Color/purple html.vmt,68,68
+materials/Color/purple html.vtf,11144,11144
+materials/Color/pumpkin.vmt,64,64
+materials/Color/pumpkin.vtf,11144,11144
+materials/Color/bright turquoise.vmt,73,73
+materials/Color/bright turquoise.vtf,11144,11144
+materials/sprites/blend/MINTEKST.vmt,81,81
+materials/sprites/blend/mintekst.vtf,22369856,22369856
+materials/ICECREAMLOCK/CYANGLASS.vmt,117,117
+materials/ICECREAMLOCK/cyanglass.vtf,2952,2952
+materials/WaterSource/Waterfall/waterfallFULL_1024_NRM_yellow.vmt,431,431
+materials/WaterSource/Waterfall/WaterfallFULL_1024_NRM_CLEAR.vtf,524496,524496
+materials/WaterSource/River/River_yellow_1.vmt,391,391
+materials/WaterSource/River/river.vtf,699272,699272
+materials/ICECREAMLOCK/GREENGLASS.vmt,118,118
+materials/ICECREAMLOCK/greenglass.vtf,2952,2952
+materials/ICECREAMLOCK/ORANGEGLASS.vmt,119,119
+materials/ICECREAMLOCK/orangeglass.vtf,2952,2952
+materials/WaterSource/Waterfall/waterfallFULL_1024_NRM_orange.vmt,432,432
+materials/Color/dark brown.vmt,67,67
+materials/Color/dark brown.vtf,11144,11144
+materials/Color/brown.vmt,62,62
+materials/Color/brown.vtf,11144,11144
+materials/Color/carnation pink.vmt,71,71
+materials/Color/carnation pink.vtf,11144,11144
+materials/Color/dark green.vmt,67,67
+materials/Color/dark green.vtf,11144,11144
+materials/sprites/blend/STARTTIMER.vmt,83,83
+materials/sprites/blend/starttimer.vtf,349696,349696
+materials/badges/0.vmt,69,69
+materials/badges/0.vtf,43872,43872
+materials/badges/3.vmt,69,69
+materials/badges/3.vtf,43872,43872
+materials/badges/2.vmt,69,69
+materials/badges/2.vtf,43872,43872
+materials/badges/1.vmt,69,69
+materials/badges/1.vtf,43872,43872
+materials/badges/4.vmt,69,69
+materials/badges/4.vtf,43872,43872
+materials/badges/5.vmt,69,69
+materials/badges/5.vtf,43872,43872
+materials/badges/6.vmt,69,69
+materials/badges/6.vtf,43872,43872
+materials/badges/7.vmt,69,69
+materials/badges/7.vtf,43872,43872
+materials/badges/8.vmt,69,69
+materials/badges/8.vtf,43872,43872
+materials/badges/9.vmt,69,69
+materials/badges/9.vtf,43872,43872
+materials/detail/detailsprites.vmt,162,162
+materials/detail/detailsprites.vtf,699256,699256
+maps/blendbhop.nav,69708,69708
+materials/sprites/blend/KLI1.vmt,77,77
+materials/sprites/blend/kli1.vtf,22080,22080
+materials/sprites/blend/KLI2.vmt,77,77
+materials/sprites/blend/kli2.vtf,22080,22080
+materials/sprites/blend/KLI3.vmt,77,77
+materials/sprites/blend/kli3.vtf,22080,22080
+materials/sprites/blend/KLI4.vmt,77,77
+materials/sprites/blend/kli4.vtf,22080,22080
+materials/sprites/blend/KLI5.vmt,77,77
+materials/sprites/blend/kli5.vtf,22080,22080
+materials/sprites/blend/KLI6.vmt,77,77
+materials/sprites/blend/kli6.vtf,22080,22080
+materials/sprites/blend/KLI7.vmt,77,77
+materials/sprites/blend/kli7.vtf,22080,22080
+materials/sprites/blend/KLI8.vmt,77,77
+materials/sprites/blend/kli8.vtf,22080,22080
+materials/sprites/blend/KLI9.vmt,77,77
+materials/sprites/blend/kli9.vtf,22080,22080
+materials/sprites/blend/KLI10.vmt,78,78
+materials/sprites/blend/kli10.vtf,22080,22080
+materials/sprites/blend/KLI11.vmt,78,78
+materials/sprites/blend/kli11.vtf,22080,22080
+materials/sprites/blend/KLI12.vmt,78,78
+materials/sprites/blend/kli12.vtf,22080,22080
+materials/sprites/blend/KLI13.vmt,78,78
+materials/sprites/blend/kli13.vtf,22080,22080
+materials/sprites/blend/KLI14.vmt,78,78
+materials/sprites/blend/kli14.vtf,22080,22080
+materials/sprites/blend/KLI15.vmt,78,78
+materials/sprites/blend/kli15.vtf,22080,22080
+materials/sprites/blend/KLI16.vmt,78,78
+materials/sprites/blend/kli16.vtf,22080,22080
+materials/sprites/blend/KLI17.vmt,78,78
+materials/sprites/blend/kli17.vtf,22080,22080
+materials/sprites/blend/KLI18.vmt,78,78
+materials/sprites/blend/kli18.vtf,22080,22080
+materials/sprites/blend/KLI19.vmt,78,78
+materials/sprites/blend/kli19.vtf,22080,22080
+materials/sprites/blend/KLI20.vmt,78,78
+materials/sprites/blend/kli20.vtf,22080,22080
+materials/sprites/blend/KLI21.vmt,78,78
+materials/sprites/blend/kli21.vtf,22080,22080
+materials/sprites/blend/KLI22.vmt,78,78
+materials/sprites/blend/kli22.vtf,22080,22080
+materials/sprites/blend/KLI24.vmt,78,78
+materials/sprites/blend/kli24.vtf,22080,22080
+sound/blend/blend1.mp3,4472321,4472321
+sound/blend/blend2.mp3,4579318,4579318
+sound/blend/blend3.mp3,5714917,5714917
+sound/blend/blend4.mp3,5327465,5327465
+sound/blend/blend5.mp3,5388069,5388069
+sound/blend/blend6.mp3,4084454,4084454
+scripts/soundscapes_bhop_blend.txt,932,932

@@ -1,0 +1,69 @@
+filename,size,compressed
+materials/maps/bhop_icetrap_beta4/concrete/blend_milwall002_concretefloor012a_wvt_patch.vmt,97,97
+materials/maps/bhop_icetrap_beta4/banana/comp/pack 2 remnont/remn_metal_p1a_0_0_0.vmt,153,153
+materials/maps/bhop_icetrap_beta4/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_icetrap_beta4/c0_0_0.vtf,9832,9832
+materials/maps/bhop_icetrap_beta4/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_icetrap_beta4/c0_0_0.hdr.vtf,76528,76528
+materials/concrete/milwall002.vtf,174968,174968
+materials/banana/comp/Pack 2 Remnont/remn_metal_p1a.vmt,339,339
+materials/banana/comp/Pack 2 Remnont/remn_metal_p1a.vtf,174984,174984
+materials/banana/comp/Pack 2 Remnont/remn_metal_p1_normal.vtf,1398336,1398336
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/RealWorldTextures2/Ground/ice_03.vmt,274,274
+materials/RealWorldTextures2/Ground/ice_03.vtf,174984,174984
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/concrete/concretefloor016a.vmt,340,340
+materials/concrete/concretefloor016a.vtf,174968,174968
+materials/concrete/concretefloor016a_normal.vtf,174968,174968
+materials/brick/brickwall040c.vmt,285,285
+materials/brick/brickwall040c.vtf,174968,174968
+materials/brick/offwll_snow.vmt,213,213
+materials/brick/offwll_snow.vtf,349688,349688
+materials/brick/offwll_snow_normal.vtf,174944,174944
+materials/Silkroad/Ground/oakk_stone_13.vmt,101,101
+materials/Silkroad/Ground/oakk_stone_13.vtf,349760,349760
+materials/ArcticPanda/bonus/wintername.vmt,95,95
+materials/ArcticPanda/bonus/wintername.vtf,349760,349760
+materials/banana/comp/Pack 2 Remnont/remn_metal_p2.vmt,338,338
+materials/banana/comp/Pack 2 Remnont/remn_metal_p2.vtf,174984,174984
+materials/banana/comp/Pack 2 Remnont/remn_metal_p2_normal.vtf,349760,349760
+materials/Silkroad/FGWorld/ice2.vmt,69,69
+materials/Silkroad/FGWorld/ice2.vtf,349760,349760
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/brick/brickwall045a.vmt,243,243
+materials/brick/brickwall045a.vtf,174968,174968
+materials/RealWorldTextures2/Ground/ice_02.vmt,274,274
+materials/RealWorldTextures2/Ground/ice_02.vtf,174984,174984
+materials/ArcticPanda/bonus/WinterBonus.vmt,96,96
+materials/ArcticPanda/bonus/WinterBonus.vtf,349760,349760
+materials/banana/comp/Pack 2 Remnont/remn_window1.vmt,355,355
+materials/banana/comp/Pack 2 Remnont/remn_window1.vtf,174944,174944
+materials/banana/comp/Pack 2 Remnont/remn_window1_normal.vtf,174944,174944
+materials/skybox/frozenup.vmt,92,92
+materials/skybox/frozenup.vtf,1398208,1398208
+materials/skybox/frozendn.vmt,92,92
+materials/skybox/frozendn.vtf,1398208,1398208
+materials/skybox/frozenlf.vmt,92,92
+materials/skybox/frozenlf.vtf,1398208,1398208
+materials/skybox/frozenrt.vmt,92,92
+materials/skybox/frozenrt.vtf,1398208,1398208
+materials/skybox/frozenft.vmt,92,92
+materials/skybox/frozenft.vtf,1398208,1398208
+materials/skybox/frozenbk.vmt,92,92
+materials/skybox/frozenbk.vtf,1398208,1398208
+materials/detail/detailsprites.vmt,155,155
+materials/detail/detailsprites.vtf,1398336,1398336
+models/esther/misc/oillamp_001b.mdl,1740,1740
+models/esther/misc/oillamp_001b.vvd,41536,41536
+models/esther/misc/oillamp_001b.dx90.vtx,9926,9926
+models/esther/misc/oillamp_001b.dx80.vtx,9926,9926
+models/esther/misc/oillamp_001b.sw.vtx,9926,9926
+models/esther/misc/oillamp_001b.phy,1838,1838
+materials/models/esther/landmarks/metalbits_001c.vmt,130,130
+materials/esther/metal/metalbits_001c.vtf,174984,174984
+maps/bhop_icetrap.nav,205,205

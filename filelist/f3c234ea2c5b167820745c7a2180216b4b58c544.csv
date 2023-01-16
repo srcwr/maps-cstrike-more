@@ -1,0 +1,102 @@
+filename,size,compressed
+materials/maps/zm_csmega_district_b4_d/wood/woodfloor008a_0_0_0.vmt,174,174
+materials/maps/zm_csmega_district_b4_d/hl2/nature/water_canals_water2_depth_84.vmt,117,117
+materials/maps/zm_csmega_district_b4_d/hl2/nature/water_canals_water2_depth_48.vmt,117,117
+materials/maps/zm_csmega_district_b4_d/nature/sewer_waterdarkfog2_depth_84.vmt,113,113
+materials/maps/zm_csmega_district_b4_d/hl2/nature/water_canals_water2_depth_12.vmt,117,117
+materials/maps/zm_csmega_district_b4_d/cubemapdefault.vtf,4952,4952
+materials/maps/zm_csmega_district_b4_d/c0_0_0.vtf,4952,4952
+materials/REALWORLDTEXTURES2/CONCRETE/GROUND/CONCRETE_12.vmt,388,388
+materials/RealWorldTextures2/Concrete/ground/concrete_12.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/ground/concrete_12_nrm.vtf,174984,174984
+materials/RealWorldTextures2/detail/noise_detail_01.vtf,65959,65959
+materials/REALWORLDTEXTURES2/WALL/BRICK_WALL_08.vmt,391,391
+materials/RealWorldTextures2/Wall/Brick_wall_08.vtf,174984,174984
+materials/RealWorldTextures2/Wall/Brick_wall_08_nrm.vtf,174984,174984
+materials/RealWorldTextures2/detail/detailconcrete001a.vtf,262567,262567
+materials/REALWORLDTEXTURES2/METAL/METAL_162.vmt,354,354
+materials/RealWorldTextures2/Metal/metal_162.vtf,349760,349760
+materials/RealWorldTextures2/Metal/metal_162_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES2/GLASS/GLASS_REFRACT_03.vmt,536,536
+materials/RealWorldTextures2/Glass/glass_refract_03.vtf,349760,349760
+materials/CRUZZEIN'S TEXTURES/CRUZZEIN.vmt,151,151
+materials/REALWORLDTEXTURES2/METAL/CAST_IRON_06.vmt,303,303
+materials/RealWorldTextures2/Metal/cast_iron_06.vtf,174984,174984
+materials/RealWorldTextures2/Metal/cast_iron_06_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES2/GLASS/GLASS_08.vmt,296,296
+materials/RealWorldTextures2/Glass/glass_08.vtf,349760,349760
+materials/REALWORLDTEXTURES2/WOOD/WOOD_41.vmt,368,368
+materials/RealWorldTextures2/Wood/wood_41.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_41_nrm.vtf,174984,174984
+materials/RealWorldTextures2/detail/dt_wood1.vtf,16807,16807
+materials/REALWORLDTEXTURES2/CONCRETE/WALL/CONCRETE_WALL_25.vmt,397,397
+materials/RealWorldTextures2/Concrete/Wall/concrete_wall_25.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/Wall/concrete_wall_25_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES2/CONCRETE/WALL/CONCRETE_WALL_26.vmt,397,397
+materials/RealWorldTextures2/Concrete/Wall/concrete_wall_26.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/Wall/concrete_wall_26_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES2/CEILING/CEILING_02.vmt,290,290
+materials/RealWorldTextures2/Ceiling/ceiling_02.vtf,174984,174984
+materials/RealWorldTextures2/Ceiling/ceiling_02_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES2/METAL/CAST_IRON_02.vmt,303,303
+materials/RealWorldTextures2/Metal/cast_iron_02.vtf,174984,174984
+materials/RealWorldTextures2/Metal/cast_iron_02_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES2/METAL/CAST_IRON_01.vmt,303,303
+materials/RealWorldTextures2/Metal/cast_iron_01.vtf,174984,174984
+materials/RealWorldTextures2/Metal/cast_iron_01_nrm.vtf,174984,174984
+materials/CRUZZEIN'S TEXTURES/BULGARIA-FLAG.vmt,113,113
+materials/REALWORLDTEXTURES2/GROUND/GRASS_07.vmt,322,322
+materials/RealWorldTextures2/Ground/grass_07.vtf,174984,174984
+materials/RealWorldTextures2/detail/dt_grass1.vtf,16807,16807
+materials/REALWORLDTEXTURES2/METAL/FLOOR/METAL_06.vmt,361,361
+materials/RealWorldTextures2/Metal/floor/Metal_06.vtf,349760,349760
+materials/RealWorldTextures2/Metal/floor/Metal_06_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES2/WOOD/WOOD_100.vmt,272,272
+materials/RealWorldTextures2/Wood/wood_100.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_100_nrm.vtf,174984,174984
+materials/WATERSOURCE/WATERFALL/WATERFALLFULL_1024_NRM_CLEAR.vmt,376,376
+materials/Watersource/waterfall/WaterfallFULL_1024_NRM_CLEAR.vtf,524496,524496
+materials/REALWORLDTEXTURES2/METAL/METAL_73_REFLECTIVE.vmt,330,330
+materials/RealWorldTextures2/Metal/metal_73.vtf,174984,174984
+materials/RealWorldTextures2/Metal/metal_73_nrm.vtf,174984,174984
+models/tophattwafflemodels/stairs_01.mdl,2072,2072
+models/tophattwafflemodels/stairs_01.dx80.vtx,22008,22008
+models/tophattwafflemodels/stairs_01.dx90.vtx,22008,22008
+models/tophattwafflemodels/stairs_01.sw.vtx,22008,22008
+models/tophattwafflemodels/stairs_01.phy,7763,7763
+models/tophattwafflemodels/stairs_01.vvd,108096,108096
+materials/models/TopHATTwaffleModels/Stairs_01/train_metalceiling_02.vmt,106,106
+materials/models/TopHATTwaffleModels/Stairs_01/metalwall061f.vmt,166,166
+materials/models/TopHATTwaffleModels/Stairs_01/prodstairsafrnt.vmt,92,92
+materials/models/TopHATTwaffleModels/Stairs_01/stairsatp.vmt,86,86
+models/tophattwafflemodels/stairs_02.mdl,2072,2072
+models/tophattwafflemodels/stairs_02.dx80.vtx,17484,17484
+models/tophattwafflemodels/stairs_02.dx90.vtx,17484,17484
+models/tophattwafflemodels/stairs_02.sw.vtx,17484,17484
+models/tophattwafflemodels/stairs_02.phy,900,900
+models/tophattwafflemodels/stairs_02.vvd,91456,91456
+materials/models/TopHATTwaffleModels/Stairs_02/metalwall061f.vmt,166,166
+materials/models/TopHATTwaffleModels/Stairs_02/prodstairsafrnt.vmt,92,92
+materials/models/TopHATTwaffleModels/Stairs_02/train_metalceiling_02.vmt,106,106
+materials/models/TopHATTwaffleModels/Stairs_02/stairsatp.vmt,86,86
+materials/skybox/mpa120up.vmt,85,85
+materials/skybox/mpa120up.vtf,699272,699272
+materials/skybox/mpa120dn.vmt,85,85
+materials/skybox/mpa120dn.vtf,699272,699272
+materials/skybox/mpa120ft.vmt,85,85
+materials/skybox/mpa120ft.vtf,699272,699272
+materials/skybox/mpa120bk.vmt,85,85
+materials/skybox/mpa120bk.vtf,699272,699272
+materials/skybox/mpa120lf.vmt,85,85
+materials/skybox/mpa120lf.vtf,699272,699272
+materials/skybox/mpa120rt.vmt,85,85
+materials/skybox/mpa120rt.vtf,699272,699272
+maps/soundcache/zm_csmega_district_b4_d.cache,16,16
+materials/VBD/Pack 2 Remnont/remn_metal_p9.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_metal_p9.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p9_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vtf,174984,174984

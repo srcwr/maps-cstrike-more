@@ -1,0 +1,1224 @@
+filename,size,compressed
+materials/maps/bhop_aux_a10/metaltile2/metaltile2_0_0_0.vmt,127,127
+materials/maps/bhop_aux_a10/tile/tilefloor021a_0_0_0.vmt,124,124
+materials/maps/bhop_aux_a10/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_aux_a10/c0_0_0.vtf,9832,9832
+materials/maps/bhop_aux_a10/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_aux_a10/c0_0_0.hdr.vtf,76528,76528
+materials/METALTILE2/METALTILE2.vmt,262,262
+materials/METALTILE2/metaltile2.vtf,22080,22080
+materials/METALTILE2/metaltile2_normal.vtf,22080,22080
+materials/METALTILE2/metaltile2_spec.vtf,22080,22080
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/halo_textures/HALO_FLOOR011.vmt,100,100
+materials/halo_textures/halo_floor011.vtf,699272,699272
+materials/halo_textures/HALO_METAL021.vmt,100,100
+materials/halo_textures/halo_metal021.vtf,43912,43912
+materials/halo_textures/HALO_METAL007.vmt,100,100
+materials/halo_textures/halo_metal007.vtf,349688,349688
+materials/halo_textures/HALO_WALL12.vmt,99,99
+materials/halo_textures/halo_wall012.vtf,43912,43912
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/ryan_dev/WHITE.vmt,62,62
+materials/ryan_dev/white.vtf,11144,11144
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/halo_textures/HALO_GRATE005.vmt,100,100
+materials/halo_textures/halo_grate005.vtf,174984,174984
+materials/halo_textures/HALO_GRATE004.vmt,100,100
+materials/halo_textures/halo_grate004.vtf,174984,174984
+materials/skybox/spaceup.vmt,83,83
+materials/skybox/spaceup.vtf,1398336,1398336
+materials/skybox/spacedn.vmt,83,83
+materials/skybox/spacedn.vtf,1398336,1398336
+materials/skybox/spacelf.vmt,83,83
+materials/skybox/spacelf.vtf,1398336,1398336
+materials/skybox/spacert.vmt,83,83
+materials/skybox/spacert.vtf,1398336,1398336
+materials/skybox/spaceft.vmt,83,83
+materials/skybox/spaceft.vtf,1398336,1398336
+materials/skybox/spacebk.vmt,83,83
+materials/skybox/spacebk.vtf,1398336,1398336
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,349744,349744
+ev/10.vmt,59,59
+ev/10.vtf,11144,11144
+ev/15.vmt,59,59
+ev/15.vtf,11144,11144
+ev/20.vmt,59,59
+ev/20.vtf,11144,11144
+ev/25.vmt,59,59
+ev/25.vtf,11144,11144
+ev/30.vmt,59,59
+ev/30.vtf,11144,11144
+ev/35.vmt,59,59
+ev/35.vtf,11144,11144
+ev/40.vmt,59,59
+ev/40.vtf,11144,11144
+ev/45.vmt,59,59
+ev/45.vtf,11144,11144
+ev/50.vmt,59,59
+ev/50.vtf,11144,11144
+ev/55.vmt,59,59
+ev/55.vtf,11144,11144
+ev/60.vmt,59,59
+ev/60.vtf,11144,11144
+ev/65.vmt,59,59
+ev/65.vtf,11144,11144
+ev/70.vmt,59,59
+ev/70.vtf,11144,11144
+ev/75.vmt,59,59
+ev/75.vtf,11144,11144
+ev/80.vmt,59,59
+ev/80.vtf,11144,11144
+ev/85.vmt,59,59
+ev/85.vtf,11144,11144
+ev/90.vmt,59,59
+ev/90.vtf,11144,11144
+ev/95.vmt,59,59
+ev/95.vtf,11144,11144
+ev/BLACK.vmt,62,62
+ev/black.vtf,11144,11144
+ev/brown1.vmt,63,63
+ev/brown1.vtf,11144,11144
+ev/brown2.vmt,63,63
+ev/brown2.vtf,11144,11144
+ev/brown3.vmt,63,63
+ev/brown3.vtf,11144,11144
+ev/brown4.vmt,63,63
+ev/brown4.vtf,11144,11144
+ev/brown5.vmt,63,63
+ev/brown5.vtf,11144,11144
+ev/brown6.vmt,63,63
+ev/brown6.vtf,11144,11144
+ev/brown7.vmt,63,63
+ev/brown7.vtf,11144,11144
+ev/brown8.vmt,63,63
+ev/brown8.vtf,11144,11144
+ev/brown9.vmt,63,63
+ev/brown9.vtf,11144,11144
+ev/brown10.vmt,64,64
+ev/brown10.vtf,11144,11144
+ev/cmyk_blue.vmt,66,66
+ev/cmyk_blue.vtf,11144,11144
+ev/cmyk_cyan.vmt,66,66
+ev/cmyk_cyan.vtf,11144,11144
+ev/cmyk_green.vmt,67,67
+ev/cmyk_green.vtf,11144,11144
+ev/CMYK_MAGENTA.vmt,69,69
+ev/cmyk_magenta.vtf,11144,11144
+ev/cmyk_red.vmt,65,65
+ev/cmyk_red.vtf,11144,11144
+ev/cmyk_yellow.vmt,68,68
+ev/cmyk_yellow.vtf,11144,11144
+ev/dark_blue1.vmt,67,67
+ev/dark_blue1.vtf,11144,11144
+ev/dark_blue2.vmt,67,67
+ev/dark_blue2.vtf,11144,11144
+ev/dark_cyan1.vmt,67,67
+ev/dark_cyan1.vtf,11144,11144
+ev/dark_cyan2.vmt,67,67
+ev/dark_cyan2.vtf,11144,11144
+ev/dark_green1.vmt,68,68
+ev/dark_green1.vtf,11144,11144
+ev/dark_green2.vmt,68,68
+ev/dark_green2.vtf,11144,11144
+ev/dark_green3.vmt,68,68
+ev/dark_green3.vtf,11144,11144
+ev/dark_magenta1.vmt,70,70
+ev/dark_magenta1.vtf,11144,11144
+ev/dark_magenta2.vmt,70,70
+ev/dark_magenta2.vtf,11144,11144
+ev/dark_magenta3.vmt,70,70
+ev/dark_magenta3.vtf,11144,11144
+ev/dark_orange1.vmt,69,69
+ev/dark_orange1.vtf,11144,11144
+ev/dark_orange2.vmt,69,69
+ev/dark_orange2.vtf,11144,11144
+ev/dark_red.vmt,65,65
+ev/dark_red.vtf,11144,11144
+ev/dark_violet1.vmt,69,69
+ev/dark_violet1.vtf,11144,11144
+ev/dark_violet2.vmt,69,69
+ev/dark_violet2.vtf,11144,11144
+ev/dark_yellow.vmt,68,68
+ev/dark_yellow.vtf,11144,11144
+ev/darker_blue1.vmt,69,69
+ev/darker_blue1.vtf,11144,11144
+ev/darker_blue2.vmt,69,69
+ev/darker_blue2.vtf,11144,11144
+ev/darker_cyan1.vmt,69,69
+ev/darker_cyan1.vtf,11144,11144
+ev/darker_cyan2.vmt,69,69
+ev/darker_cyan2.vtf,11144,11144
+ev/darker_green1.vmt,70,70
+ev/darker_green1.vtf,11144,11144
+ev/darker_green2.vmt,70,70
+ev/darker_green2.vtf,11144,11144
+ev/darker_green3.vmt,70,70
+ev/darker_green3.vtf,11144,11144
+ev/darker_magenta1.vmt,72,72
+ev/darker_magenta1.vtf,11144,11144
+ev/darker_magenta2.vmt,72,72
+ev/darker_magenta2.vtf,11144,11144
+ev/darker_magenta3.vmt,72,72
+ev/darker_magenta3.vtf,11144,11144
+ev/darker_orange1.vmt,71,71
+ev/darker_orange1.vtf,11144,11144
+ev/darker_orange2.vmt,71,71
+ev/darker_orange2.vtf,11144,11144
+ev/darker_red.vmt,67,67
+ev/darker_red.vtf,11144,11144
+ev/darker_violet1.vmt,71,71
+ev/darker_violet1.vtf,11144,11144
+ev/darker_violet2.vmt,71,71
+ev/darker_violet2.vtf,11144,11144
+ev/darker_yellow.vmt,70,70
+ev/darker_yellow.vtf,11144,11144
+ev/dev_10.vmt,63,63
+ev/dev_10.vtf,11144,11144
+ev/dev_10_crate32.vmt,71,71
+ev/dev_10_crate32.vtf,11144,11144
+ev/dev_10_crate64.vmt,71,71
+ev/dev_10_crate64.vtf,43912,43912
+ev/dev_15.vmt,63,63
+ev/dev_15.vtf,11144,11144
+ev/dev_15_crate32.vmt,71,71
+ev/dev_15_crate32.vtf,11144,11144
+ev/dev_15_crate64.vmt,71,71
+ev/dev_15_crate64.vtf,43912,43912
+ev/dev_20.vmt,63,63
+ev/dev_20.vtf,11144,11144
+ev/dev_20_crate32.vmt,71,71
+ev/dev_20_crate32.vtf,11144,11144
+ev/dev_20_crate64.vmt,71,71
+ev/dev_20_crate64.vtf,43912,43912
+ev/dev_25.vmt,63,63
+ev/dev_25.vtf,11144,11144
+ev/dev_25_crate32.vmt,71,71
+ev/dev_25_crate32.vtf,11144,11144
+ev/dev_25_crate64.vmt,71,71
+ev/dev_25_crate64.vtf,43912,43912
+ev/dev_30.vmt,63,63
+ev/dev_30.vtf,11144,11144
+ev/dev_30_crate32.vmt,71,71
+ev/dev_30_crate32.vtf,11144,11144
+ev/dev_30_crate64.vmt,71,71
+ev/dev_30_crate64.vtf,43912,43912
+ev/dev_35.vmt,63,63
+ev/dev_35.vtf,11144,11144
+ev/dev_35_crate32.vmt,71,71
+ev/dev_35_crate32.vtf,11144,11144
+ev/dev_35_crate64.vmt,71,71
+ev/dev_35_crate64.vtf,43912,43912
+ev/dev_40.vmt,63,63
+ev/dev_40.vtf,11144,11144
+ev/dev_40_crate32.vmt,71,71
+ev/dev_40_crate32.vtf,11144,11144
+ev/dev_40_crate64.vmt,71,71
+ev/dev_40_crate64.vtf,43912,43912
+ev/dev_45.vmt,63,63
+ev/dev_45.vtf,11144,11144
+ev/dev_45_crate32.vmt,71,71
+ev/dev_45_crate32.vtf,11144,11144
+ev/dev_45_crate64.vmt,71,71
+ev/dev_45_crate64.vtf,43912,43912
+ev/dev_50.vmt,63,63
+ev/dev_50.vtf,11144,11144
+ev/dev_50_crate32.vmt,71,71
+ev/dev_50_crate32.vtf,11144,11144
+ev/dev_50_crate64.vmt,71,71
+ev/dev_50_crate64.vtf,43912,43912
+ev/dev_55.vmt,63,63
+ev/dev_55.vtf,11144,11144
+ev/dev_55_crate32.vmt,71,71
+ev/dev_55_crate32.vtf,11144,11144
+ev/dev_55_crate64.vmt,71,71
+ev/dev_55_crate64.vtf,43912,43912
+ev/dev_60.vmt,63,63
+ev/dev_60.vtf,11144,11144
+ev/dev_60_crate32.vmt,71,71
+ev/dev_60_crate32.vtf,11144,11144
+ev/dev_60_crate64.vmt,71,71
+ev/dev_60_crate64.vtf,43912,43912
+ev/dev_65.vmt,63,63
+ev/dev_65.vtf,11144,11144
+ev/dev_65_crate32.vmt,71,71
+ev/dev_65_crate32.vtf,11144,11144
+ev/dev_65_crate64.vmt,71,71
+ev/dev_65_crate64.vtf,43912,43912
+ev/dev_70.vmt,63,63
+ev/dev_70.vtf,11144,11144
+ev/dev_70_crate32.vmt,71,71
+ev/dev_70_crate32.vtf,11144,11144
+ev/dev_70_crate64.vmt,71,71
+ev/dev_70_crate64.vtf,43912,43912
+ev/dev_75.vmt,63,63
+ev/dev_75.vtf,11144,11144
+ev/dev_75_crate32.vmt,71,71
+ev/dev_75_crate32.vtf,11144,11144
+ev/dev_75_crate64.vmt,71,71
+ev/dev_75_crate64.vtf,43912,43912
+ev/dev_80.vmt,63,63
+ev/dev_80.vtf,11144,11144
+ev/dev_80_crate32.vmt,71,71
+ev/dev_80_crate32.vtf,11144,11144
+ev/dev_80_crate64.vmt,71,71
+ev/dev_80_crate64.vtf,43912,43912
+ev/dev_85.vmt,63,63
+ev/dev_85.vtf,11144,11144
+ev/dev_85_crate32.vmt,71,71
+ev/dev_85_crate32.vtf,11144,11144
+ev/dev_85_crate64.vmt,71,71
+ev/dev_85_crate64.vtf,43912,43912
+ev/dev_90.vmt,63,63
+ev/dev_90.vtf,11144,11144
+ev/dev_90_crate32.vmt,71,71
+ev/dev_90_crate32.vtf,11144,11144
+ev/dev_90_crate64.vmt,71,71
+ev/dev_90_crate64.vtf,43912,43912
+ev/dev_95.vmt,63,63
+ev/dev_95.vtf,11144,11144
+ev/dev_95_crate32.vmt,71,71
+ev/dev_95_crate32.vtf,11144,11144
+ev/dev_95_crate64.vmt,71,71
+ev/dev_95_crate64.vtf,43912,43912
+ev/dev_black.vmt,66,66
+ev/dev_black.vtf,11144,11144
+ev/dev_black_crate32.vmt,74,74
+ev/dev_black_crate32.vtf,11144,11144
+ev/dev_black_crate64.vmt,74,74
+ev/dev_black_crate64.vtf,43912,43912
+ev/dev_brown1.vmt,67,67
+ev/dev_brown1.vtf,11144,11144
+ev/dev_brown1_crate32.vmt,75,75
+ev/dev_brown1_crate32.vtf,11144,11144
+ev/dev_brown1_crate64.vmt,75,75
+ev/dev_brown1_crate64.vtf,43912,43912
+ev/dev_brown2.vmt,67,67
+ev/dev_brown2.vtf,11144,11144
+ev/dev_brown2_crate32.vmt,75,75
+ev/dev_brown2_crate32.vtf,11144,11144
+ev/dev_brown2_crate64.vmt,75,75
+ev/dev_brown2_crate64.vtf,43912,43912
+ev/dev_brown3.vmt,67,67
+ev/dev_brown3.vtf,11144,11144
+ev/dev_brown3_crate32.vmt,75,75
+ev/dev_brown3_crate32.vtf,11144,11144
+ev/dev_brown3_crate64.vmt,75,75
+ev/dev_brown3_crate64.vtf,43912,43912
+ev/dev_brown4.vmt,67,67
+ev/dev_brown4.vtf,11144,11144
+ev/dev_brown4_crate32.vmt,75,75
+ev/dev_brown4_crate32.vtf,11144,11144
+ev/dev_brown4_crate64.vmt,75,75
+ev/dev_brown4_crate64.vtf,43912,43912
+ev/dev_brown5.vmt,67,67
+ev/dev_brown5.vtf,11144,11144
+ev/dev_brown5_crate32.vmt,75,75
+ev/dev_brown5_crate32.vtf,11144,11144
+ev/dev_brown5_crate64.vmt,75,75
+ev/dev_brown5_crate64.vtf,43912,43912
+ev/dev_brown6.vmt,67,67
+ev/dev_brown6.vtf,11144,11144
+ev/dev_brown6_crate32.vmt,75,75
+ev/dev_brown6_crate32.vtf,11144,11144
+ev/dev_brown6_crate64.vmt,75,75
+ev/dev_brown6_crate64.vtf,43912,43912
+ev/dev_brown7.vmt,67,67
+ev/dev_brown7.vtf,11144,11144
+ev/dev_brown7_crate32.vmt,75,75
+ev/dev_brown7_crate32.vtf,11144,11144
+ev/dev_brown7_crate64.vmt,75,75
+ev/dev_brown7_crate64.vtf,43912,43912
+ev/dev_brown8.vmt,67,67
+ev/dev_brown8.vtf,11144,11144
+ev/dev_brown8_crate32.vmt,75,75
+ev/dev_brown8_crate32.vtf,11144,11144
+ev/dev_brown8_crate64.vmt,75,75
+ev/dev_brown8_crate64.vtf,43912,43912
+ev/dev_brown9.vmt,67,67
+ev/dev_brown9.vtf,11144,11144
+ev/dev_brown9_crate32.vmt,75,75
+ev/dev_brown9_crate32.vtf,11144,11144
+ev/dev_brown9_crate64.vmt,75,75
+ev/dev_brown9_crate64.vtf,43912,43912
+ev/dev_brown10.vmt,68,68
+ev/dev_brown10.vtf,11144,11144
+ev/dev_brown10_crate32.vmt,76,76
+ev/dev_brown10_crate32.vtf,11144,11144
+ev/dev_brown10_crate64.vmt,76,76
+ev/dev_brown10_crate64.vtf,43912,43912
+ev/dev_cmyk_blue.vmt,70,70
+ev/dev_cmyk_blue.vtf,11144,11144
+ev/dev_cmyk_blue_crate32.vmt,78,78
+ev/dev_cmyk_blue_crate32.vtf,11144,11144
+ev/dev_cmyk_blue_crate64.vmt,78,78
+ev/dev_cmyk_blue_crate64.vtf,43912,43912
+ev/dev_cmyk_cyan.vmt,70,70
+ev/dev_cmyk_cyan.vtf,11144,11144
+ev/dev_cmyk_cyan_crate32.vmt,78,78
+ev/dev_cmyk_cyan_crate32.vtf,11144,11144
+ev/dev_cmyk_cyan_crate64.vmt,78,78
+ev/dev_cmyk_cyan_crate64.vtf,43912,43912
+ev/dev_cmyk_green.vmt,71,71
+ev/dev_cmyk_green.vtf,11144,11144
+ev/dev_cmyk_green_crate32.vmt,79,79
+ev/dev_cmyk_green_crate32.vtf,11144,11144
+ev/dev_cmyk_green_crate64.vmt,79,79
+ev/dev_cmyk_green_crate64.vtf,43912,43912
+ev/dev_cmyk_magenta.vmt,73,73
+ev/dev_cmyk_magenta.vtf,11144,11144
+ev/dev_cmyk_magenta_crate32.vmt,81,81
+ev/dev_cmyk_magenta_crate32.vtf,11144,11144
+ev/dev_cmyk_magenta_crate64.vmt,81,81
+ev/dev_cmyk_magenta_crate64.vtf,43912,43912
+ev/dev_cmyk_red.vmt,69,69
+ev/dev_cmyk_red.vtf,11144,11144
+ev/dev_cmyk_red_crate32.vmt,77,77
+ev/dev_cmyk_red_crate32.vtf,11144,11144
+ev/dev_cmyk_red_crate64.vmt,77,77
+ev/dev_cmyk_red_crate64.vtf,43912,43912
+ev/dev_cmyk_yellow.vmt,72,72
+ev/dev_cmyk_yellow.vtf,11144,11144
+ev/dev_cmyk_yellow_crate32.vmt,80,80
+ev/dev_cmyk_yellow_crate32.vtf,11144,11144
+ev/dev_cmyk_yellow_crate64.vmt,80,80
+ev/dev_cmyk_yellow_crate64.vtf,43912,43912
+ev/dev_dark_blue1.vmt,71,71
+ev/dev_dark_blue1.vtf,11144,11144
+ev/dev_dark_blue1_crate32.vmt,79,79
+ev/dev_dark_blue1_crate32.vtf,11144,11144
+ev/dev_dark_blue1_crate64.vmt,79,79
+ev/dev_dark_blue1_crate64.vtf,43912,43912
+ev/dev_dark_blue2.vmt,71,71
+ev/dev_dark_blue2.vtf,11144,11144
+ev/dev_dark_blue2_crate32.vmt,79,79
+ev/dev_dark_blue2_crate32.vtf,11144,11144
+ev/dev_dark_blue2_crate64.vmt,79,79
+ev/dev_dark_blue2_crate64.vtf,43912,43912
+ev/dev_dark_cyan1.vmt,71,71
+ev/dev_dark_cyan1.vtf,11144,11144
+ev/dev_dark_cyan1_crate32.vmt,79,79
+ev/dev_dark_cyan1_crate32.vtf,11144,11144
+ev/dev_dark_cyan1_crate64.vmt,79,79
+ev/dev_dark_cyan1_crate64.vtf,43912,43912
+ev/dev_dark_cyan2.vmt,71,71
+ev/dev_dark_cyan2.vtf,11144,11144
+ev/dev_dark_cyan2_crate32.vmt,79,79
+ev/dev_dark_cyan2_crate32.vtf,11144,11144
+ev/dev_dark_cyan2_crate64.vmt,79,79
+ev/dev_dark_cyan2_crate64.vtf,43912,43912
+ev/dev_dark_green1.vmt,72,72
+ev/dev_dark_green1.vtf,11144,11144
+ev/dev_dark_green1_crate32.vmt,80,80
+ev/dev_dark_green1_crate32.vtf,11144,11144
+ev/dev_dark_green1_crate64.vmt,80,80
+ev/dev_dark_green1_crate64.vtf,43912,43912
+ev/dev_dark_green2.vmt,72,72
+ev/dev_dark_green2.vtf,11144,11144
+ev/dev_dark_green2_crate32.vmt,80,80
+ev/dev_dark_green2_crate32.vtf,11144,11144
+ev/dev_dark_green2_crate64.vmt,80,80
+ev/dev_dark_green2_crate64.vtf,43912,43912
+ev/dev_dark_green3.vmt,72,72
+ev/dev_dark_green3.vtf,11144,11144
+ev/dev_dark_green3_crate32.vmt,80,80
+ev/dev_dark_green3_crate32.vtf,11144,11144
+ev/dev_dark_green3_crate64.vmt,80,80
+ev/dev_dark_green3_crate64.vtf,43912,43912
+ev/dev_dark_magenta1.vmt,74,74
+ev/dev_dark_magenta1.vtf,11144,11144
+ev/dev_dark_magenta1_crate32.vmt,82,82
+ev/dev_dark_magenta1_crate32.vtf,11144,11144
+ev/dev_dark_magenta1_crate64.vmt,82,82
+ev/dev_dark_magenta1_crate64.vtf,43912,43912
+ev/dev_dark_magenta2.vmt,74,74
+ev/dev_dark_magenta2.vtf,11144,11144
+ev/dev_dark_magenta2_crate32.vmt,82,82
+ev/dev_dark_magenta2_crate32.vtf,11144,11144
+ev/dev_dark_magenta2_crate64.vmt,82,82
+ev/dev_dark_magenta2_crate64.vtf,43912,43912
+ev/dev_dark_magenta3.vmt,74,74
+ev/dev_dark_magenta3.vtf,11144,11144
+ev/dev_dark_magenta3_crate32.vmt,82,82
+ev/dev_dark_magenta3_crate32.vtf,11144,11144
+ev/dev_dark_magenta3_crate64.vmt,82,82
+ev/dev_dark_magenta3_crate64.vtf,43912,43912
+ev/dev_dark_orange1.vmt,73,73
+ev/dev_dark_orange1.vtf,11144,11144
+ev/dev_dark_orange1_crate32.vmt,81,81
+ev/dev_dark_orange1_crate32.vtf,11144,11144
+ev/dev_dark_orange1_crate64.vmt,81,81
+ev/dev_dark_orange1_crate64.vtf,43912,43912
+ev/dev_dark_orange2.vmt,73,73
+ev/dev_dark_orange2.vtf,11144,11144
+ev/dev_dark_orange2_crate32.vmt,81,81
+ev/dev_dark_orange2_crate32.vtf,11144,11144
+ev/dev_dark_orange2_crate64.vmt,81,81
+ev/dev_dark_orange2_crate64.vtf,43912,43912
+ev/dev_dark_red.vmt,69,69
+ev/dev_dark_red.vtf,11144,11144
+ev/dev_dark_red_crate32.vmt,77,77
+ev/dev_dark_red_crate32.vtf,11144,11144
+ev/dev_dark_red_crate64.vmt,77,77
+ev/dev_dark_red_crate64.vtf,43912,43912
+ev/dev_dark_violet1.vmt,73,73
+ev/dev_dark_violet1.vtf,11144,11144
+ev/dev_dark_violet1_crate32.vmt,81,81
+ev/dev_dark_violet1_crate32.vtf,11144,11144
+ev/dev_dark_violet1_crate64.vmt,81,81
+ev/dev_dark_violet1_crate64.vtf,43912,43912
+ev/dev_dark_violet2.vmt,73,73
+ev/dev_dark_violet2.vtf,11144,11144
+ev/dev_dark_violet2_crate32.vmt,81,81
+ev/dev_dark_violet2_crate32.vtf,11144,11144
+ev/dev_dark_violet2_crate64.vmt,81,81
+ev/dev_dark_violet2_crate64.vtf,43912,43912
+ev/dev_dark_yellow.vmt,72,72
+ev/dev_dark_yellow.vtf,11144,11144
+ev/dev_dark_yellow_crate32.vmt,80,80
+ev/dev_dark_yellow_crate32.vtf,11144,11144
+ev/dev_dark_yellow_crate64.vmt,80,80
+ev/dev_dark_yellow_crate64.vtf,43912,43912
+ev/dev_darker_blue1.vmt,73,73
+ev/dev_darker_blue1.vtf,11144,11144
+ev/dev_darker_blue1_crate32.vmt,81,81
+ev/dev_darker_blue1_crate32.vtf,11144,11144
+ev/dev_darker_blue1_crate64.vmt,81,81
+ev/dev_darker_blue1_crate64.vtf,43912,43912
+ev/dev_darker_blue2.vmt,73,73
+ev/dev_darker_blue2.vtf,11144,11144
+ev/dev_darker_blue2_crate32.vmt,81,81
+ev/dev_darker_blue2_crate32.vtf,11144,11144
+ev/dev_darker_blue2_crate64.vmt,81,81
+ev/dev_darker_blue2_crate64.vtf,43912,43912
+ev/dev_darker_cyan1.vmt,73,73
+ev/dev_darker_cyan1.vtf,11144,11144
+ev/dev_darker_cyan1_crate32.vmt,81,81
+ev/dev_darker_cyan1_crate32.vtf,11144,11144
+ev/dev_darker_cyan1_crate64.vmt,81,81
+ev/dev_darker_cyan1_crate64.vtf,43912,43912
+ev/dev_darker_cyan2.vmt,73,73
+ev/dev_darker_cyan2.vtf,11144,11144
+ev/dev_darker_cyan2_crate32.vmt,81,81
+ev/dev_darker_cyan2_crate32.vtf,11144,11144
+ev/dev_darker_cyan2_crate64.vmt,81,81
+ev/dev_darker_cyan2_crate64.vtf,43912,43912
+ev/dev_darker_green1.vmt,74,74
+ev/dev_darker_green1.vtf,11144,11144
+ev/dev_darker_green1_crate32.vmt,82,82
+ev/dev_darker_green1_crate32.vtf,11144,11144
+ev/dev_darker_green1_crate64.vmt,82,82
+ev/dev_darker_green1_crate64.vtf,43912,43912
+ev/dev_darker_green2.vmt,74,74
+ev/dev_darker_green2.vtf,11144,11144
+ev/dev_darker_green2_crate32.vmt,82,82
+ev/dev_darker_green2_crate32.vtf,11144,11144
+ev/dev_darker_green2_crate64.vmt,82,82
+ev/dev_darker_green2_crate64.vtf,43912,43912
+ev/dev_darker_green3.vmt,74,74
+ev/dev_darker_green3.vtf,11144,11144
+ev/dev_darker_green3_crate32.vmt,82,82
+ev/dev_darker_green3_crate32.vtf,11144,11144
+ev/dev_darker_green3_crate64.vmt,82,82
+ev/dev_darker_green3_crate64.vtf,43912,43912
+ev/dev_darker_magenta1.vmt,76,76
+ev/dev_darker_magenta1.vtf,11144,11144
+ev/dev_darker_magenta1_crate32.vmt,84,84
+ev/dev_darker_magenta1_crate32.vtf,11144,11144
+ev/dev_darker_magenta1_crate64.vmt,84,84
+ev/dev_darker_magenta1_crate64.vtf,43912,43912
+ev/dev_darker_magenta2.vmt,76,76
+ev/dev_darker_magenta2.vtf,11144,11144
+ev/dev_darker_magenta2_crate32.vmt,84,84
+ev/dev_darker_magenta2_crate32.vtf,11144,11144
+ev/dev_darker_magenta2_crate64.vmt,84,84
+ev/dev_darker_magenta2_crate64.vtf,43912,43912
+ev/dev_darker_magenta3.vmt,76,76
+ev/dev_darker_magenta3.vtf,11144,11144
+ev/dev_darker_magenta3_crate32.vmt,84,84
+ev/dev_darker_magenta3_crate32.vtf,11144,11144
+ev/dev_darker_magenta3_crate64.vmt,84,84
+ev/dev_darker_magenta3_crate64.vtf,43912,43912
+ev/dev_darker_orange1.vmt,75,75
+ev/dev_darker_orange1.vtf,11144,11144
+ev/dev_darker_orange1_crate32.vmt,83,83
+ev/dev_darker_orange1_crate32.vtf,11144,11144
+ev/dev_darker_orange1_crate64.vmt,83,83
+ev/dev_darker_orange1_crate64.vtf,43912,43912
+ev/dev_darker_orange2.vmt,75,75
+ev/dev_darker_orange2.vtf,11144,11144
+ev/dev_darker_orange2_crate32.vmt,83,83
+ev/dev_darker_orange2_crate32.vtf,11144,11144
+ev/dev_darker_orange2_crate64.vmt,83,83
+ev/dev_darker_orange2_crate64.vtf,43912,43912
+ev/dev_darker_red.vmt,71,71
+ev/dev_darker_red.vtf,11144,11144
+ev/dev_darker_red_crate32.vmt,79,79
+ev/dev_darker_red_crate32.vtf,11144,11144
+ev/dev_darker_red_crate64.vmt,79,79
+ev/dev_darker_red_crate64.vtf,43912,43912
+ev/dev_darker_violet1.vmt,75,75
+ev/dev_darker_violet1.vtf,11144,11144
+ev/dev_darker_violet1_crate32.vmt,83,83
+ev/dev_darker_violet1_crate32.vtf,11144,11144
+ev/dev_darker_violet1_crate64.vmt,83,83
+ev/dev_darker_violet1_crate64.vtf,43912,43912
+ev/dev_darker_violet2.vmt,75,75
+ev/dev_darker_violet2.vtf,11144,11144
+ev/dev_darker_violet2_crate32.vmt,83,83
+ev/dev_darker_violet2_crate32.vtf,11144,11144
+ev/dev_darker_violet2_crate64.vmt,83,83
+ev/dev_darker_violet2_crate64.vtf,43912,43912
+ev/dev_darker_yellow.vmt,74,74
+ev/dev_darker_yellow.vtf,11144,11144
+ev/dev_darker_yellow_crate32.vmt,82,82
+ev/dev_darker_yellow_crate32.vtf,11144,11144
+ev/dev_darker_yellow_crate64.vmt,82,82
+ev/dev_darker_yellow_crate64.vtf,43912,43912
+ev/dev_light_blue1.vmt,72,72
+ev/dev_light_blue1.vtf,11144,11144
+ev/dev_light_blue1_crate32.vmt,80,80
+ev/dev_light_blue1_crate32.vtf,11144,11144
+ev/dev_light_blue1_crate64.vmt,80,80
+ev/dev_light_blue1_crate64.vtf,43912,43912
+ev/dev_light_blue2.vmt,72,72
+ev/dev_light_blue2.vtf,11144,11144
+ev/dev_light_blue2_crate32.vmt,80,80
+ev/dev_light_blue2_crate32.vtf,11144,11144
+ev/dev_light_blue2_crate64.vmt,80,80
+ev/dev_light_blue2_crate64.vtf,43912,43912
+ev/dev_light_cyan1.vmt,72,72
+ev/dev_light_cyan1.vtf,11144,11144
+ev/dev_light_cyan1_crate32.vmt,80,80
+ev/dev_light_cyan1_crate32.vtf,11144,11144
+ev/dev_light_cyan1_crate64.vmt,80,80
+ev/dev_light_cyan1_crate64.vtf,43912,43912
+ev/dev_light_cyan2.vmt,72,72
+ev/dev_light_cyan2.vtf,11144,11144
+ev/dev_light_cyan2_crate32.vmt,80,80
+ev/dev_light_cyan2_crate32.vtf,11144,11144
+ev/dev_light_cyan2_crate64.vmt,80,80
+ev/dev_light_cyan2_crate64.vtf,43912,43912
+ev/dev_light_green1.vmt,73,73
+ev/dev_light_green1.vtf,11144,11144
+ev/dev_light_green1_crate32.vmt,81,81
+ev/dev_light_green1_crate32.vtf,11144,11144
+ev/dev_light_green1_crate64.vmt,81,81
+ev/dev_light_green1_crate64.vtf,43912,43912
+ev/dev_light_green2.vmt,73,73
+ev/dev_light_green2.vtf,11144,11144
+ev/dev_light_green2_crate32.vmt,81,81
+ev/dev_light_green2_crate32.vtf,11144,11144
+ev/dev_light_green2_crate64.vmt,81,81
+ev/dev_light_green2_crate64.vtf,43912,43912
+ev/dev_light_green3.vmt,73,73
+ev/dev_light_green3.vtf,11144,11144
+ev/dev_light_green3_crate32.vmt,81,81
+ev/dev_light_green3_crate32.vtf,11144,11144
+ev/dev_light_green3_crate64.vmt,81,81
+ev/dev_light_green3_crate64.vtf,43912,43912
+ev/dev_light_magenta1.vmt,75,75
+ev/dev_light_magenta1.vtf,11144,11144
+ev/dev_light_magenta1_crate32.vmt,83,83
+ev/dev_light_magenta1_crate32.vtf,11144,11144
+ev/dev_light_magenta1_crate64.vmt,83,83
+ev/dev_light_magenta1_crate64.vtf,43912,43912
+ev/dev_light_magenta2.vmt,75,75
+ev/dev_light_magenta2.vtf,11144,11144
+ev/dev_light_magenta2_crate32.vmt,83,83
+ev/dev_light_magenta2_crate32.vtf,11144,11144
+ev/dev_light_magenta2_crate64.vmt,83,83
+ev/dev_light_magenta2_crate64.vtf,43912,43912
+ev/dev_light_magenta3.vmt,75,75
+ev/dev_light_magenta3.vtf,11144,11144
+ev/dev_light_magenta3_crate32.vmt,83,83
+ev/dev_light_magenta3_crate32.vtf,11144,11144
+ev/dev_light_magenta3_crate64.vmt,83,83
+ev/dev_light_magenta3_crate64.vtf,43912,43912
+ev/dev_light_orange1.vmt,74,74
+ev/dev_light_orange1.vtf,11144,11144
+ev/dev_light_orange1_crate32.vmt,82,82
+ev/dev_light_orange1_crate32.vtf,11144,11144
+ev/dev_light_orange1_crate64.vmt,82,82
+ev/dev_light_orange1_crate64.vtf,43912,43912
+ev/dev_light_orange2.vmt,74,74
+ev/dev_light_orange2.vtf,11144,11144
+ev/dev_light_orange2_crate32.vmt,82,82
+ev/dev_light_orange2_crate32.vtf,11144,11144
+ev/dev_light_orange2_crate64.vmt,82,82
+ev/dev_light_orange2_crate64.vtf,43912,43912
+ev/dev_light_red.vmt,70,70
+ev/dev_light_red.vtf,11144,11144
+ev/dev_light_red_crate32.vmt,78,78
+ev/dev_light_red_crate32.vtf,11144,11144
+ev/dev_light_red_crate64.vmt,78,78
+ev/dev_light_red_crate64.vtf,43912,43912
+ev/dev_light_violet1.vmt,74,74
+ev/dev_light_violet1.vtf,11144,11144
+ev/dev_light_violet1_crate32.vmt,82,82
+ev/dev_light_violet1_crate32.vtf,11144,11144
+ev/dev_light_violet1_crate64.vmt,82,82
+ev/dev_light_violet1_crate64.vtf,43912,43912
+ev/dev_light_violet2.vmt,74,74
+ev/dev_light_violet2.vtf,11144,11144
+ev/dev_light_violet2_crate32.vmt,82,82
+ev/dev_light_violet2_crate32.vtf,11144,11144
+ev/dev_light_violet2_crate64.vmt,82,82
+ev/dev_light_violet2_crate64.vtf,43912,43912
+ev/dev_light_yellow.vmt,73,73
+ev/dev_light_yellow.vtf,11144,11144
+ev/dev_light_yellow_crate32.vmt,81,81
+ev/dev_light_yellow_crate32.vtf,11144,11144
+ev/dev_light_yellow_crate64.vmt,81,81
+ev/dev_light_yellow_crate64.vtf,43912,43912
+ev/dev_pastel_blue1.vmt,73,73
+ev/dev_pastel_blue1.vtf,11144,11144
+ev/dev_pastel_blue1_crate32.vmt,81,81
+ev/dev_pastel_blue1_crate32.vtf,11144,11144
+ev/dev_pastel_blue1_crate64.vmt,81,81
+ev/dev_pastel_blue1_crate64.vtf,43912,43912
+ev/dev_pastel_blue2.vmt,73,73
+ev/dev_pastel_blue2.vtf,11144,11144
+ev/dev_pastel_blue2_crate32.vmt,81,81
+ev/dev_pastel_blue2_crate32.vtf,11144,11144
+ev/dev_pastel_blue2_crate64.vmt,81,81
+ev/dev_pastel_blue2_crate64.vtf,43912,43912
+ev/dev_pastel_cyan1.vmt,73,73
+ev/dev_pastel_cyan1.vtf,11144,11144
+ev/dev_pastel_cyan1_crate32.vmt,81,81
+ev/dev_pastel_cyan1_crate32.vtf,11144,11144
+ev/dev_pastel_cyan1_crate64.vmt,81,81
+ev/dev_pastel_cyan1_crate64.vtf,43912,43912
+ev/dev_pastel_cyan2.vmt,73,73
+ev/dev_pastel_cyan2.vtf,11144,11144
+ev/dev_pastel_cyan2_crate32.vmt,81,81
+ev/dev_pastel_cyan2_crate32.vtf,11144,11144
+ev/dev_pastel_cyan2_crate64.vmt,81,81
+ev/dev_pastel_cyan2_crate64.vtf,43912,43912
+ev/dev_pastel_green1.vmt,74,74
+ev/dev_pastel_green1.vtf,11144,11144
+ev/dev_pastel_green1_crate32.vmt,82,82
+ev/dev_pastel_green1_crate32.vtf,11144,11144
+ev/dev_pastel_green1_crate64.vmt,82,82
+ev/dev_pastel_green1_crate64.vtf,43912,43912
+ev/dev_pastel_green2.vmt,74,74
+ev/dev_pastel_green2.vtf,11144,11144
+ev/dev_pastel_green2_crate32.vmt,82,82
+ev/dev_pastel_green2_crate32.vtf,11144,11144
+ev/dev_pastel_green2_crate64.vmt,82,82
+ev/dev_pastel_green2_crate64.vtf,43912,43912
+ev/dev_pastel_green3.vmt,74,74
+ev/dev_pastel_green3.vtf,11144,11144
+ev/dev_pastel_green3_crate32.vmt,82,82
+ev/dev_pastel_green3_crate32.vtf,11144,11144
+ev/dev_pastel_green3_crate64.vmt,82,82
+ev/dev_pastel_green3_crate64.vtf,43912,43912
+ev/dev_pastel_magenta1.vmt,76,76
+ev/dev_pastel_magenta1.vtf,11144,11144
+ev/dev_pastel_magenta1_crate32.vmt,84,84
+ev/dev_pastel_magenta1_crate32.vtf,11144,11144
+ev/dev_pastel_magenta1_crate64.vmt,84,84
+ev/dev_pastel_magenta1_crate64.vtf,43912,43912
+ev/dev_pastel_magenta2.vmt,76,76
+ev/dev_pastel_magenta2.vtf,11144,11144
+ev/dev_pastel_magenta2_crate32.vmt,84,84
+ev/dev_pastel_magenta2_crate32.vtf,11144,11144
+ev/dev_pastel_magenta2_crate64.vmt,84,84
+ev/dev_pastel_magenta2_crate64.vtf,43912,43912
+ev/dev_pastel_magenta3.vmt,76,76
+ev/dev_pastel_magenta3.vtf,11144,11144
+ev/dev_pastel_magenta3_crate32.vmt,84,84
+ev/dev_pastel_magenta3_crate32.vtf,11144,11144
+ev/dev_pastel_magenta3_crate64.vmt,84,84
+ev/dev_pastel_magenta3_crate64.vtf,43912,43912
+ev/dev_pastel_red1.vmt,72,72
+ev/dev_pastel_red1.vtf,11144,11144
+ev/dev_pastel_red1_crate32.vmt,80,80
+ev/dev_pastel_red1_crate32.vtf,11144,11144
+ev/dev_pastel_red1_crate64.vmt,80,80
+ev/dev_pastel_red1_crate64.vtf,43912,43912
+ev/dev_pastel_red2.vmt,72,72
+ev/dev_pastel_red2.vtf,11144,11144
+ev/dev_pastel_red2_crate32.vmt,80,80
+ev/dev_pastel_red2_crate32.vtf,11144,11144
+ev/dev_pastel_red2_crate64.vmt,80,80
+ev/dev_pastel_red2_crate64.vtf,43912,43912
+ev/dev_pastel_violet1.vmt,75,75
+ev/dev_pastel_violet1.vtf,11144,11144
+ev/dev_pastel_violet1_crate32.vmt,83,83
+ev/dev_pastel_violet1_crate32.vtf,11144,11144
+ev/dev_pastel_violet1_crate64.vmt,83,83
+ev/dev_pastel_violet1_crate64.vtf,43912,43912
+ev/dev_pastel_violet2.vmt,75,75
+ev/dev_pastel_violet2.vtf,11144,11144
+ev/dev_pastel_violet2_crate32.vmt,83,83
+ev/dev_pastel_violet2_crate32.vtf,11144,11144
+ev/dev_pastel_violet2_crate64.vmt,83,83
+ev/dev_pastel_violet2_crate64.vtf,43912,43912
+ev/dev_pastel_yellow1.vmt,75,75
+ev/dev_pastel_yellow1.vtf,11144,11144
+ev/dev_pastel_yellow1_crate32.vmt,83,83
+ev/dev_pastel_yellow1_crate32.vtf,11144,11144
+ev/dev_pastel_yellow1_crate64.vmt,83,83
+ev/dev_pastel_yellow1_crate64.vtf,43912,43912
+ev/dev_pastel_yellow2.vmt,75,75
+ev/dev_pastel_yellow2.vtf,11144,11144
+ev/dev_pastel_yellow2_crate32.vmt,83,83
+ev/dev_pastel_yellow2_crate32.vtf,11144,11144
+ev/dev_pastel_yellow2_crate64.vmt,83,83
+ev/dev_pastel_yellow2_crate64.vtf,43912,43912
+ev/dev_pure_blue1.vmt,71,71
+ev/dev_pure_blue1.vtf,11144,11144
+ev/dev_pure_blue1_crate32.vmt,79,79
+ev/dev_pure_blue1_crate32.vtf,11144,11144
+ev/dev_pure_blue1_crate64.vmt,79,79
+ev/dev_pure_blue1_crate64.vtf,43912,43912
+ev/dev_pure_blue2.vmt,71,71
+ev/dev_pure_blue2.vtf,11144,11144
+ev/dev_pure_blue2_crate32.vmt,79,79
+ev/dev_pure_blue2_crate32.vtf,11144,11144
+ev/dev_pure_blue2_crate64.vmt,79,79
+ev/dev_pure_blue2_crate64.vtf,43912,43912
+ev/dev_pure_cyan1.vmt,71,71
+ev/dev_pure_cyan1.vtf,11144,11144
+ev/dev_pure_cyan1_crate32.vmt,79,79
+ev/dev_pure_cyan1_crate32.vtf,11144,11144
+ev/dev_pure_cyan1_crate64.vmt,79,79
+ev/dev_pure_cyan1_crate64.vtf,43912,43912
+ev/dev_pure_cyan2.vmt,71,71
+ev/dev_pure_cyan2.vtf,11144,11144
+ev/dev_pure_cyan2_crate32.vmt,79,79
+ev/dev_pure_cyan2_crate32.vtf,11144,11144
+ev/dev_pure_cyan2_crate64.vmt,79,79
+ev/dev_pure_cyan2_crate64.vtf,43912,43912
+ev/dev_pure_green1.vmt,72,72
+ev/dev_pure_green1.vtf,11144,11144
+ev/dev_pure_green1_crate32.vmt,80,80
+ev/dev_pure_green1_crate32.vtf,11144,11144
+ev/dev_pure_green1_crate64.vmt,80,80
+ev/dev_pure_green1_crate64.vtf,43912,43912
+ev/dev_pure_green2.vmt,72,72
+ev/dev_pure_green2.vtf,11144,11144
+ev/dev_pure_green2_crate32.vmt,80,80
+ev/dev_pure_green2_crate32.vtf,11144,11144
+ev/dev_pure_green2_crate64.vmt,80,80
+ev/dev_pure_green2_crate64.vtf,43912,43912
+ev/dev_pure_green3.vmt,72,72
+ev/dev_pure_green3.vtf,11144,11144
+ev/dev_pure_green3_crate32.vmt,80,80
+ev/dev_pure_green3_crate32.vtf,11144,11144
+ev/dev_pure_green3_crate64.vmt,80,80
+ev/dev_pure_green3_crate64.vtf,43912,43912
+ev/dev_pure_magenta1.vmt,74,74
+ev/dev_pure_magenta1.vtf,11144,11144
+ev/dev_pure_magenta1_crate32.vmt,82,82
+ev/dev_pure_magenta1_crate32.vtf,11144,11144
+ev/dev_pure_magenta1_crate64.vmt,82,82
+ev/dev_pure_magenta1_crate64.vtf,43912,43912
+ev/dev_pure_magenta2.vmt,74,74
+ev/dev_pure_magenta2.vtf,11144,11144
+ev/dev_pure_magenta2_crate32.vmt,82,82
+ev/dev_pure_magenta2_crate32.vtf,11144,11144
+ev/dev_pure_magenta2_crate64.vmt,82,82
+ev/dev_pure_magenta2_crate64.vtf,43912,43912
+ev/dev_pure_magenta3.vmt,74,74
+ev/dev_pure_magenta3.vtf,11144,11144
+ev/dev_pure_magenta3_crate32.vmt,82,82
+ev/dev_pure_magenta3_crate32.vtf,11144,11144
+ev/dev_pure_magenta3_crate64.vmt,82,82
+ev/dev_pure_magenta3_crate64.vtf,43912,43912
+ev/dev_pure_orange1.vmt,73,73
+ev/dev_pure_orange1.vtf,11144,11144
+ev/dev_pure_orange1_crate32.vmt,81,81
+ev/dev_pure_orange1_crate32.vtf,11144,11144
+ev/dev_pure_orange1_crate64.vmt,81,81
+ev/dev_pure_orange1_crate64.vtf,43912,43912
+ev/dev_pure_orange2.vmt,73,73
+ev/dev_pure_orange2.vtf,11144,11144
+ev/dev_pure_orange2_crate32.vmt,81,81
+ev/dev_pure_orange2_crate32.vtf,11144,11144
+ev/dev_pure_orange2_crate64.vmt,81,81
+ev/dev_pure_orange2_crate64.vtf,43912,43912
+ev/dev_pure_red.vmt,69,69
+ev/dev_pure_red.vtf,11144,11144
+ev/dev_pure_red_crate32.vmt,77,77
+ev/dev_pure_red_crate32.vtf,11144,11144
+ev/dev_pure_red_crate64.vmt,77,77
+ev/dev_pure_red_crate64.vtf,43912,43912
+ev/dev_pure_violet1.vmt,73,73
+ev/dev_pure_violet1.vtf,11144,11144
+ev/dev_pure_violet1_crate32.vmt,81,81
+ev/dev_pure_violet1_crate32.vtf,11144,11144
+ev/dev_pure_violet1_crate64.vmt,81,81
+ev/dev_pure_violet1_crate64.vtf,43912,43912
+ev/dev_pure_violet2.vmt,73,73
+ev/dev_pure_violet2.vtf,11144,11144
+ev/dev_pure_violet2_crate32.vmt,81,81
+ev/dev_pure_violet2_crate32.vtf,11144,11144
+ev/dev_pure_violet2_crate64.vmt,81,81
+ev/dev_pure_violet2_crate64.vtf,43912,43912
+ev/dev_pure_yellow.vmt,72,72
+ev/dev_pure_yellow.vtf,11144,11144
+ev/dev_pure_yellow_crate32.vmt,80,80
+ev/dev_pure_yellow_crate32.vtf,11144,11144
+ev/dev_pure_yellow_crate64.vmt,80,80
+ev/dev_pure_yellow_crate64.vtf,43912,43912
+ev/dev_rbg_blue.vmt,69,69
+ev/dev_rbg_blue.vtf,11144,11144
+ev/dev_rbg_blue_crate32.vmt,77,77
+ev/dev_rbg_blue_crate32.vtf,11144,11144
+ev/dev_rbg_blue_crate64.vmt,77,77
+ev/dev_rbg_blue_crate64.vtf,43912,43912
+ev/dev_rbg_cyan.vmt,69,69
+ev/dev_rbg_cyan.vtf,11144,11144
+ev/dev_rbg_cyan_crate32.vmt,77,77
+ev/dev_rbg_cyan_crate32.vtf,11144,11144
+ev/dev_rbg_cyan_crate64.vmt,77,77
+ev/dev_rbg_cyan_crate64.vtf,43912,43912
+ev/dev_rbg_green.vmt,70,70
+ev/dev_rbg_green.vtf,11144,11144
+ev/dev_rbg_green_crate32.vmt,78,78
+ev/dev_rbg_green_crate32.vtf,11144,11144
+ev/dev_rbg_green_crate64.vmt,78,78
+ev/dev_rbg_green_crate64.vtf,43912,43912
+ev/dev_rbg_magenta.vmt,72,72
+ev/dev_rbg_magenta.vtf,11144,11144
+ev/dev_rbg_magenta_crate32.vmt,80,80
+ev/dev_rbg_magenta_crate32.vtf,11144,11144
+ev/dev_rbg_magenta_crate64.vmt,80,80
+ev/dev_rbg_magenta_crate64.vtf,43912,43912
+ev/dev_rbg_red.vmt,68,68
+ev/dev_rbg_red.vtf,11144,11144
+ev/dev_rbg_red_crate32.vmt,76,76
+ev/dev_rbg_red_crate32.vtf,11144,11144
+ev/dev_rbg_red_crate64.vmt,76,76
+ev/dev_rbg_red_crate64.vtf,43912,43912
+ev/dev_rbg_yellow.vmt,71,71
+ev/dev_rbg_yellow.vtf,11144,11144
+ev/dev_rbg_yellow_crate32.vmt,79,79
+ev/dev_rbg_yellow_crate32.vtf,11144,11144
+ev/dev_rbg_yellow_crate64.vmt,79,79
+ev/dev_rbg_yellow_crate64.vtf,43912,43912
+ev/dev_white.vmt,66,66
+ev/dev_white.vtf,11144,11144
+ev/dev_white_crate32.vmt,74,74
+ev/dev_white_crate32.vtf,11144,11144
+ev/dev_white_crate64.vmt,74,74
+ev/dev_white_crate64.vtf,43912,43912
+ev/light_blue1.vmt,68,68
+ev/light_blue1.vtf,11144,11144
+ev/light_blue2.vmt,68,68
+ev/light_blue2.vtf,11144,11144
+ev/light_cyan1.vmt,68,68
+ev/light_cyan1.vtf,11144,11144
+ev/light_cyan2.vmt,68,68
+ev/light_cyan2.vtf,11144,11144
+ev/light_green1.vmt,69,69
+ev/light_green1.vtf,11144,11144
+ev/light_green2.vmt,69,69
+ev/light_green2.vtf,11144,11144
+ev/light_green3.vmt,69,69
+ev/light_green3.vtf,11144,11144
+ev/light_magenta1.vmt,71,71
+ev/light_magenta1.vtf,11144,11144
+ev/light_magenta2.vmt,71,71
+ev/light_magenta2.vtf,11144,11144
+ev/light_magenta3.vmt,71,71
+ev/light_magenta3.vtf,11144,11144
+ev/light_orange1.vmt,70,70
+ev/light_orange1.vtf,11144,11144
+ev/light_orange2.vmt,70,70
+ev/light_orange2.vtf,11144,11144
+ev/light_red.vmt,66,66
+ev/light_red.vtf,11144,11144
+ev/light_violet1.vmt,70,70
+ev/light_violet1.vtf,11144,11144
+ev/light_violet2.vmt,70,70
+ev/light_violet2.vtf,11144,11144
+ev/light_yellow.vmt,69,69
+ev/light_yellow.vtf,11144,11144
+ev/pastel_blue1.vmt,69,69
+ev/pastel_blue1.vtf,11144,11144
+ev/pastel_blue2.vmt,69,69
+ev/pastel_blue2.vtf,11144,11144
+ev/pastel_cyan1.vmt,69,69
+ev/pastel_cyan1.vtf,11144,11144
+ev/pastel_cyan2.vmt,69,69
+ev/pastel_cyan2.vtf,11144,11144
+ev/pastel_green1.vmt,70,70
+ev/pastel_green1.vtf,11144,11144
+ev/pastel_green2.vmt,70,70
+ev/pastel_green2.vtf,11144,11144
+ev/pastel_green3.vmt,70,70
+ev/pastel_green3.vtf,11144,11144
+ev/pastel_magenta1.vmt,72,72
+ev/pastel_magenta1.vtf,11144,11144
+ev/pastel_magenta2.vmt,72,72
+ev/pastel_magenta2.vtf,11144,11144
+ev/pastel_magenta3.vmt,72,72
+ev/pastel_magenta3.vtf,11144,11144
+ev/pastel_red1.vmt,68,68
+ev/pastel_red1.vtf,11144,11144
+ev/pastel_red2.vmt,68,68
+ev/pastel_red2.vtf,11144,11144
+ev/pastel_violet1.vmt,71,71
+ev/pastel_violet1.vtf,11144,11144
+ev/pastel_violet2.vmt,71,71
+ev/pastel_violet2.vtf,11144,11144
+ev/pastel_yellow1.vmt,71,71
+ev/pastel_yellow1.vtf,11144,11144
+ev/pastel_yellow2.vmt,71,71
+ev/pastel_yellow2.vtf,11144,11144
+ev/pure_blue1.vmt,67,67
+ev/pure_blue1.vtf,11144,11144
+ev/pure_blue2.vmt,67,67
+ev/pure_blue2.vtf,11144,11144
+ev/pure_cyan1.vmt,67,67
+ev/pure_cyan1.vtf,11144,11144
+ev/pure_cyan2.vmt,67,67
+ev/pure_cyan2.vtf,11144,11144
+ev/pure_green1.vmt,68,68
+ev/pure_green1.vtf,11144,11144
+ev/pure_green2.vmt,68,68
+ev/pure_green2.vtf,11144,11144
+ev/pure_green3.vmt,68,68
+ev/pure_green3.vtf,11144,11144
+ev/pure_magenta1.vmt,70,70
+ev/pure_magenta1.vtf,11144,11144
+ev/pure_magenta2.vmt,70,70
+ev/pure_magenta2.vtf,11144,11144
+ev/pure_magenta3.vmt,70,70
+ev/pure_magenta3.vtf,11144,11144
+ev/pure_orange1.vmt,69,69
+ev/pure_orange1.vtf,11144,11144
+ev/pure_orange2.vmt,69,69
+ev/pure_orange2.vtf,11144,11144
+ev/pure_red.vmt,65,65
+ev/pure_red.vtf,11144,11144
+ev/pure_violet1.vmt,69,69
+ev/pure_violet1.vtf,11144,11144
+ev/pure_violet2.vmt,69,69
+ev/pure_violet2.vtf,11144,11144
+ev/pure_yellow.vmt,68,68
+ev/pure_yellow.vtf,11144,11144
+ev/RBG_BLUE.vmt,65,65
+ev/rbg_blue.vtf,11144,11144
+ev/rbg_cyan.vmt,65,65
+ev/rbg_cyan.vtf,11144,11144
+ev/RBG_GREEN.vmt,66,66
+ev/rbg_green.vtf,11144,11144
+ev/rbg_magenta.vmt,68,68
+ev/rbg_magenta.vtf,11144,11144
+ev/RBG_RED.vmt,64,64
+ev/rbg_red.vtf,11144,11144
+ev/rbg_yellow.vmt,67,67
+ev/rbg_yellow.vtf,11144,11144
+ev/WHITE.vmt,62,62
+ev/white.vtf,11144,11144
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_box001.vmt,98,98
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_box001.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_box002.vmt,98,98
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_box002.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_box003.vmt,98,98
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_box003.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_caution.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_caution.vtf,22080,22080
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_console.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_console.vtf,11104,11104
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_console_a.vmt,312,312
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_console_a.vtf,11104,11104
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate_side.vmt,102,102
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate_side.vtf,699272,699272
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate_top.vmt,101,101
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate_top.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate2_front.vmt,104,104
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate2_front.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate2_side.vmt,103,103
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate2_side.vtf,87544,87544
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate2_top.vmt,102,102
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_crate2_top.vtf,87544,87544
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_door001.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_door001.vtf,699232,699232
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_door002.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_door002.vtf,699272,699272
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_door003.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_door003.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_door004.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_door004.vtf,349688,349688
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor001.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor001.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_FLOOR002.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor002.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor003.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor003.vtf,22008,22008
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor004.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor004.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor005.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor005.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor006.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor006.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor007.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor007.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor008.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor008.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_FLOOR009.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor009.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor010.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor010.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_FLOOR011.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor011.vtf,699272,699272
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor012.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor012.vtf,22008,22008
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor013.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor013.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor014.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor014.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor015.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_floor015.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate_blue.vmt,102,102
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate_blue.vtf,349760,349760
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_GRATE001.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate001.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_GRATE002.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate002.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate003.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate003.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_GRATE004.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate004.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_GRATE005.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate005.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate006.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_grate006.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_light001.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_light001.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_light002.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_light002.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal001.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal001.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal002.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal002.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal003.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal003.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal004.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal004.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal005.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal005.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal006.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal006.vtf,11144,11144
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_METAL007.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal007.vtf,349688,349688
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal008.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal008.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal009.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal009.vtf,87544,87544
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal010.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal010.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal011.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal011.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal012.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal012.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal013.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal013.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal014.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal014.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_METAL015.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal015.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal016.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal016.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal017.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal017.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal018.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal018.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal019.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal019.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal020.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal020.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_METAL021.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal021.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal022.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal022.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal023.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal023.vtf,87544,87544
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal024.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal024.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal025.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal025.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal026.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal026.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal027.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal027.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal028.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal028.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal029.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_metal029.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel001.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel001.vtf,43872,43872
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel002.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel002.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel003.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel003.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel004.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel004.vtf,87552,87552
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel005.vmt,100,100
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_panel005.vtf,349688,349688
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_ring_inside.vmt,103,103
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_ring_inside.vtf,43896,43896
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_ring_outside.vmt,104,104
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_ring_outside.vtf,87544,87544
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_rock001.vmt,98,98
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_rock001.vtf,87544,87544
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_roof001.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_roof001.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_roof002.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_roof002.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_sign001.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_sign001.vtf,22008,22008
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_sign002.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_sign002.vtf,87544,87544
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim001.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim001.vtf,43872,43872
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim002.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim002.vtf,43872,43872
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim003.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim003.vtf,22016,22016
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim004.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim004.vtf,11144,11144
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim005.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim005.vtf,11064,11064
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim006.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_trim006.vtf,11144,11144
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall001.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall001.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall002.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall002.vtf,87544,87544
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall003.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall003.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall004.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall004.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall005.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall005.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall006.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall006.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall007.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall007.vtf,87616,87616
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_WALL008.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall008.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall009.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall009.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall010.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall010.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall011.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall011.vtf,87544,87544
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall012.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/HALO_WALL12.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall013.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall013.vtf,43912,43912
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall014.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall014.vtf,174984,174984
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall015.vmt,99,99
+C:/Program Files (x86)/Steam/SteamApps/common/counter-strike source/cstrike/materials/halo_textures/halo_wall015.vtf,43912,43912

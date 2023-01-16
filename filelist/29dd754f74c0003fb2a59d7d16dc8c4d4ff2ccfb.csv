@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/aim_fcdeagle/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/aim_fcdeagle/cubemapdefault.vtf,9832,9832
+materials/maps/aim_fcdeagle/c134_-448_128.vtf,4968,4968
+materials/maps/aim_fcdeagle/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_fcdeagle/c134_-448_128.hdr.vtf,76528,76528
+materials/DEV/DEV_MEASUREGENERIC42.vmt,93,93
+materials/dev/dev_measuregeneric42.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC03.vmt,93,93
+materials/dev/dev_measuregeneric03.vtf,11144,11144
+maps/aim_fcdeagle.nav,42521,42521
+maps/soundcache/aim_fcdeagle.cache,40629,40629

@@ -1,0 +1,34 @@
+filename,size,compressed
+materials/maps/test/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/test/wood/woodfloor007a_2080_1840_80.vmt,123,123
+materials/maps/test/building_template/building_template004d_2080_1840_80.vmt,144,144
+materials/maps/test/de_chateau/floor02_2080_1840_80.vmt,123,123
+materials/maps/test/cs_italy/cobble07_2080_1840_80.vmt,122,122
+materials/maps/test/glass/glasswindowbreak070a_2080_1840_80.vmt,131,131
+materials/maps/test/glass/combineglass001a_2080_1840_80.vmt,127,127
+materials/maps/test/glass/glasswindow070c_2080_1840_80.vmt,126,126
+materials/maps/test/vehicle/metaltrain001d_2080_1840_80.vmt,127,127
+materials/maps/test/metal/citadel_metalwall072c_2080_1840_80.vmt,132,132
+materials/maps/test/liquids/water_chateau_dx70_depth_224.vmt,114,114
+materials/maps/test/de_nuke/nukwater_movingplane_dx70_depth_88.vmt,120,120
+materials/maps/test/de_nuke/nukwater_movingplane_dx70_depth_32.vmt,120,120
+materials/maps/test/cubemapdefault.vtf,9832,9832
+materials/maps/test/c2080_1840_80.vtf,9832,9832
+materials/maps/test/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/test/c2080_1840_80.hdr.vtf,76528,76528
+materials/PENGUINJOKE.vmt,59,59
+materials/PENGUINJOKE.vtf,87544,87544
+materials/EASY MODE.vmt,57,57
+materials/NORMAL MODE.vmt,59,59
+materials/HARD MODE.vmt,57,57
+materials/EXTREME MODE.vmt,60,60
+materials/ADMIN BUTTON.vmt,60,60
+sound/ituga/dubstep/skrillex-first-of-the-year.mp3,4413682,4413682
+sound/my sounds/pendulum-voodoo ppl.mp3,7333929,7333929
+sound/my sounds/bangarang.mp3,3635618,3635618
+sound/my sounds/rammstein - du hast.mp3,5630537,5630537
+materials/Admin Button.vtf,11144,11144
+materials/Easy Mode.vtf,22080,22080
+materials/Extreme Mode.vtf,11144,11144
+materials/Hard Mode.vtf,22080,22080
+materials/Normal Mode.vtf,43872,43872

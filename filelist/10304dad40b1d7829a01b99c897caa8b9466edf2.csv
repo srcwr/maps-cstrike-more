@@ -1,0 +1,49 @@
+filename,size,compressed
+materials/maps/bhop_cold/hammer textures/bhop_newone/31_newone_brick_white_192_128_80.vmt,157,157
+materials/maps/bhop_cold/hammer textures/bhop_newone/31_newone_brick_black_192_128_80.vmt,157,157
+materials/maps/bhop_cold/liquids/militiawater_192_128_80.vmt,151,151
+materials/maps/bhop_cold/hammer textures/bhop_newone/31_newone_concrete_floor_cube_192_128_80.vmt,165,165
+materials/maps/bhop_cold/maps/bhop_cold/liquids/militiawater_192_128_80_depth_24.vmt,133,133
+materials/maps/bhop_cold/cubemapdefault.vtf,9824,9824
+materials/maps/bhop_cold/c192_128_80.vtf,9824,9824
+materials/maps/bhop_cold/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/bhop_cold/c192_128_80.hdr.vtf,76520,76520
+materials/HAMMER TEXTURES/BHOP_NEWONE/31_NEWONE_MARPLE_FLOOR.vmt,125,125
+materials/HAMMER TEXTURES/BHOP_NEWONE/31_NEWONE_CONCRETE_BLACK.vmt,128,128
+materials/HAMMER TEXTURES/BHOP_NEWONE/31_NEWONE_GLASS_WHITE75.vmt,143,143
+materials/HAMMER TEXTURES/BHOP_NEWONE/31_NEWONE_MAPBY.vmt,135,135
+materials/HAMMER TEXTURES/BHOP_NEWONE/31_NEWONE_TELE_1234.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_NEWONE/31_NEWONE_TELE_5678.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_NEWONE/31_NEWONE_TELE_910BONUS.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_NEWONE/31_NEWONE_GLASS_BLUE50.vmt,142,142
+maps/soundcache/bhop_cold.cache,16,16
+materials/hammer textures/bhop_newone/31_newone_brick_black.vmt,180,180
+materials/hammer textures/bhop_newone/31_newone_brick_black.vtf,43912,43912
+materials/hammer textures/bhop_newone/31_newone_brick_white.vmt,180,180
+materials/hammer textures/bhop_newone/31_newone_brick_white.vtf,43912,43912
+materials/hammer textures/bhop_newone/31_newone_concrete_black.vmt,128,128
+materials/hammer textures/bhop_newone/31_newone_concrete_black.vtf,11144,11144
+materials/hammer textures/bhop_newone/31_newone_concrete_floor.vmt,128,128
+materials/hammer textures/bhop_newone/31_newone_concrete_floor.vtf,11144,11144
+materials/hammer textures/bhop_newone/31_newone_concrete_floor_cube.vmt,191,191
+materials/hammer textures/bhop_newone/31_newone_concrete_floor_cube.vtf,11144,11144
+materials/hammer textures/bhop_newone/31_newone_concrete_white.vmt,128,128
+materials/hammer textures/bhop_newone/31_newone_concrete_white.vtf,11144,11144
+materials/hammer textures/bhop_newone/31_newone_glass_blue50.vmt,142,142
+materials/hammer textures/bhop_newone/31_newone_glass_blue50.vtf,22080,22080
+materials/hammer textures/bhop_newone/31_newone_glass_blue75.vmt,142,142
+materials/hammer textures/bhop_newone/31_newone_glass_blue75.vtf,22080,22080
+materials/hammer textures/bhop_newone/31_newone_glass_green75.vmt,143,143
+materials/hammer textures/bhop_newone/31_newone_glass_green75.vtf,22080,22080
+materials/hammer textures/bhop_newone/31_newone_glass_white75.vmt,143,143
+materials/hammer textures/bhop_newone/31_newone_glass_white75.vtf,22080,22080
+materials/hammer textures/bhop_newone/31_newone_mapby.vmt,135,135
+materials/hammer textures/bhop_newone/31_newone_mapby.vtf,87616,87616
+materials/hammer textures/bhop_newone/31_newone_marple_floor.vmt,125,125
+materials/hammer textures/bhop_newone/31_newone_marple_floor.vtf,11144,11144
+materials/hammer textures/bhop_newone/31_newone_tele_1234.vmt,114,114
+materials/hammer textures/bhop_newone/31_newone_tele_1234.vtf,22080,22080
+materials/hammer textures/bhop_newone/31_newone_tele_5678.vmt,114,114
+materials/hammer textures/bhop_newone/31_newone_tele_5678.vtf,22080,22080
+materials/hammer textures/bhop_newone/31_newone_tele_910bonus.vmt,118,118
+materials/hammer textures/bhop_newone/31_newone_tele_910bonus.vtf,22080,22080

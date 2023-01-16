@@ -1,0 +1,27 @@
+filename,size,compressed
+materials/maps/bhop_not_dejavu_d/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_not_dejavu_d/cubemapdefault.hdr.vtf,76528,76528
+materials/tools/TOOLSNODRAW.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/COLOR/LAVENDER GREY.vmt,70,70
+materials/COLOR/lavender grey.vtf,11144,11144
+materials/COLOR/PALE CORNFLOWER BLUE.vmt,77,77
+materials/COLOR/pale cornflower blue.vtf,11144,11144
+materials/tools/TOOLSSKIP.vmt,326,326
+materials/tools/toolsskip.vtf,5680,5680
+materials/tools/toolsskip-dx10.vtf,5720,5720
+materials/tools/TOOLSINVISIBLE.vmt,354,354
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/tools/toolsinvisible-dx10.vtf,5720,5720
+materials/tools/TOOLSHINT.vmt,324,324
+materials/tools/toolshint.vtf,5680,5680
+materials/tools/toolshint-dx10.vtf,5720,5720
+materials/BHOPNOTDEJAVU/MAPBYRON.vmt,86,86
+materials/vgui/logos/MapByRon.vtf,349760,349760
+materials/sprites/STORE/TRAILS/RAINBOW.vmt,120,120
+materials/sprites/STORE/TRAILS/rainbow.vtf,22080,22080
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,349744,349744

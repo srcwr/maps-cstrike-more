@@ -1,0 +1,46 @@
+filename,size,compressed
+materials/maps/fy_streetz_v1/glass/glasswindowbreak070a_-553_1076_548.vmt,141,141
+materials/maps/fy_streetz_v1/glass/glasswindow007a_-820_1127_536.vmt,136,136
+materials/maps/fy_streetz_v1/concrete/blendconcretegravel001a_-852_309_163.vmt,185,185
+materials/maps/fy_streetz_v1/concrete/blendconcretegravel001a_-42_-774_163.vmt,185,185
+materials/maps/fy_streetz_v1/concrete/concretefloor028c_-42_-774_163.vmt,140,140
+materials/maps/fy_streetz_v1/concrete/concretefloor028c_772_-763_306.vmt,140,140
+materials/maps/fy_streetz_v1/brick/brickwall055b_-42_-774_163.vmt,133,133
+materials/maps/fy_streetz_v1/concrete/blendconcretegravel001a_773_1220_93.vmt,184,184
+materials/maps/fy_streetz_v1/concrete/concretefloor028c_28_1288_163.vmt,139,139
+materials/maps/fy_streetz_v1/concrete/concretefloor028c_-774_1216_532.vmt,141,141
+materials/maps/fy_streetz_v1/concrete/concretefloor028c_773_1220_93.vmt,139,139
+materials/maps/fy_streetz_v1/wood/woodwall009a_-820_1127_536.vmt,132,132
+materials/maps/fy_streetz_v1/de_piranesi/woodfloor01_-774_1216_532.vmt,138,138
+materials/maps/fy_streetz_v1/wood/woodwall009a_-774_1216_532.vmt,132,132
+materials/maps/fy_streetz_v1/de_piranesi/woodfloor01_-820_1127_536.vmt,138,138
+materials/maps/fy_streetz_v1/glass/glasswindow007a_-774_1216_532.vmt,136,136
+materials/maps/fy_streetz_v1/concrete/concretefloor028c_-852_309_163.vmt,140,140
+materials/maps/fy_streetz_v1/concrete/concretefloor028c_-739_1216_297.vmt,141,141
+materials/maps/fy_streetz_v1/concrete/concretefloor028c_852_161_163.vmt,139,139
+materials/maps/fy_streetz_v1/metal/citadel_metalwall063a_cheap_-852_309_163.vmt,147,147
+materials/maps/fy_streetz_v1/metal/citadel_metalwall063a_cheap_772_-763_306.vmt,147,147
+materials/maps/fy_streetz_v1/metal/citadel_metalwall063a_cheap_773_1220_93.vmt,146,146
+materials/maps/fy_streetz_v1/metal/citadel_metalwall063a_cheap_852_161_163.vmt,146,146
+materials/maps/fy_streetz_v1/metal/citadel_metalwall063a_cheap_28_1288_163.vmt,146,146
+materials/maps/fy_streetz_v1/metal/citadel_metalwall063a_cheap_-42_-774_163.vmt,147,147
+materials/maps/fy_streetz_v1/environment maps/pipemetal001a_-852_309_163.vmt,144,144
+materials/maps/fy_streetz_v1/environment maps/pipemetal001a_-553_1076_548.vmt,145,145
+materials/maps/fy_streetz_v1/environment maps/pipemetal001a_-42_-774_163.vmt,144,144
+materials/maps/fy_streetz_v1/environment maps/pipemetal001a_773_1220_93.vmt,143,143
+materials/maps/fy_streetz_v1/effects/offgaragedr_-42_-774_163.vmt,133,133
+materials/maps/fy_streetz_v1/metal/metalroof006a_772_-763_306.vmt,133,133
+materials/maps/fy_streetz_v1/brick/brickwall055b_-852_309_163.vmt,133,133
+materials/maps/fy_streetz_v1/wood/wooddoor048a_-42_-774_163.vmt,131,131
+materials/maps/fy_streetz_v1/wood/wooddoor048a_852_161_163.vmt,130,130
+materials/maps/fy_streetz_v1/cubemapdefault.vtf,4936,4936
+materials/maps/fy_streetz_v1/c-553_1076_548.vtf,4936,4936
+materials/maps/fy_streetz_v1/c-820_1127_536.vtf,4936,4936
+materials/maps/fy_streetz_v1/c-852_309_163.vtf,4936,4936
+materials/maps/fy_streetz_v1/c-42_-774_163.vtf,4936,4936
+materials/maps/fy_streetz_v1/c772_-763_306.vtf,4936,4936
+materials/maps/fy_streetz_v1/c773_1220_93.vtf,4936,4936
+materials/maps/fy_streetz_v1/c28_1288_163.vtf,4936,4936
+materials/maps/fy_streetz_v1/c-774_1216_532.vtf,4936,4936
+materials/maps/fy_streetz_v1/c-739_1216_297.vtf,4936,4936
+materials/maps/fy_streetz_v1/c852_161_163.vtf,4936,4936

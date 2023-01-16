@@ -1,0 +1,131 @@
+filename,size,compressed
+materials/maps/awp_crashz_bandicoot/crash bandicoot/dirt_sand_blend_wvt_patch.vmt,95,95
+materials/maps/awp_crashz_bandicoot/cubemapdefault.vtf,4960,4960
+materials/maps/awp_crashz_bandicoot/cubemapdefault.hdr.vtf,76528,76528
+materials/CRASH BANDICOOT/AZTEC_WALL9.vmt,99,99
+materials/CRASH BANDICOOT/AZTEC_WALL4.vmt,99,99
+materials/CRASH BANDICOOT/AZTEC_WALL5.vmt,99,99
+materials/CRASH BANDICOOT/GRASS1.vmt,95,95
+materials/CRASH BANDICOOT/AZTEC_WALL3.vmt,99,99
+materials/CRASH BANDICOOT/EGYPT_WALL4.vmt,99,99
+materials/CRASH BANDICOOT/EGYPT_BORDER1.vmt,101,101
+materials/CRASH BANDICOOT/EGYPT_GROUND1.vmt,105,105
+materials/CRASH BANDICOOT/WOOD_WALL1.vmt,104,104
+materials/CRASH BANDICOOT/WOOD_WALL2.vmt,104,104
+materials/CRASH BANDICOOT/EGYPT_PUZZEL3.vmt,101,101
+materials/CRASH BANDICOOT/EGYPT_GROUND2.vmt,101,101
+materials/CRASH BANDICOOT/SKYBOXBIG.vmt,117,117
+materials/CRASH BANDICOOT/EGYPT_WALL4_2.vmt,101,101
+materials/CRASH BANDICOOT/WOOD_CRATE_JUMP.vmt,109,109
+materials/CRASH BANDICOOT/WOOD_CRATE_NORMAL.vmt,111,111
+materials/CRASH BANDICOOT/WOOD_CRATE_ARMORED.vmt,112,112
+materials/CRASH BANDICOOT/WOOD_CRATE_MASK.vmt,109,109
+materials/CRASH BANDICOOT/WOOD_CRATE_NITRO_TOP.vmt,114,114
+materials/CRASH BANDICOOT/WOOD_CRATE_NITRO.vmt,110,110
+materials/CRASH BANDICOOT/CB_LOGO.vmt,120,120
+materials/NIK/ZXX_CRASH1.vmt,118,118
+materials/NIK/zxx_crash1.vtf,87616,87616
+materials/NIK/zxx_crash1_NORMAL.vtf,87616,87616
+models/shiroko/ot_tree05.mdl,2212,2212
+models/shiroko/ot_tree05.dx80.vtx,37084,37084
+models/shiroko/ot_tree05.dx90.vtx,37084,37084
+models/shiroko/ot_tree05.sw.vtx,37084,37084
+models/shiroko/ot_tree05.phy,6395,6395
+models/shiroko/ot_tree05.vvd,42032,42032
+materials/models/shiroko/ot_eucbark03.vmt,284,284
+materials/shiroko/ot_eucbark03.vtf,87528,87528
+materials/shiroko/ot_eucbark02normal.vtf,87528,87528
+materials/models/shiroko/ot_eucbark01.vmt,284,284
+materials/shiroko/ot_eucbark02.vtf,87528,87528
+materials/models/shiroko/ot_fern01.vmt,287,287
+materials/shiroko/ot_fern01.vtf,87600,87600
+materials/models/shiroko/ot_branches1.vmt,290,290
+materials/shiroko/ot_branches2.vtf,349744,349744
+materials/models/shiroko/ot_eucbark01a.vmt,285,285
+materials/shiroko/ot_eucbark01a.vtf,174928,174928
+materials/models/shiroko/ot_eucbark03a.vmt,284,284
+materials/shiroko/ot_eucbark03a.vtf,87528,87528
+materials/skybox/mpa02up.vmt,84,84
+materials/skybox/mpa02up.vtf,174984,174984
+materials/skybox/mpa02dn.vmt,84,84
+materials/skybox/mpa02dn.vtf,174984,174984
+materials/skybox/mpa02ft.vmt,84,84
+materials/skybox/mpa02ft.vtf,174984,174984
+materials/skybox/mpa02bk.vmt,84,84
+materials/skybox/mpa02bk.vtf,174984,174984
+materials/skybox/mpa02lf.vmt,84,84
+materials/skybox/mpa02lf.vtf,174984,174984
+materials/skybox/mpa02rt.vmt,84,84
+materials/skybox/mpa02rt.vtf,174984,174984
+materials/sprites/aku_aku_mask4.vmt,206,206
+materials/sprites/aku_aku_mask4.vtf,16592,16592
+sound/firewavezzmusic/cb_egypt_bonus.wav,11543084,11543084
+sound/crashz/aku aku sound effect.wav,437858,437858
+materials/CRASH BANDICOOT/aztec_wall9.vtf,87616,87616
+materials/CRASH BANDICOOT/akuakumask.vtf,349760,349760
+materials/CRASH BANDICOOT/aztec_wall3.vtf,349760,349760
+materials/CRASH BANDICOOT/aztec_wall4.vtf,349760,349760
+materials/CRASH BANDICOOT/aztec_wall5.vtf,174984,174984
+materials/CRASH BANDICOOT/aztec_wall9.vtf,87616,87616
+materials/CRASH BANDICOOT/aztec_wall11.vtf,87616,87616
+materials/CRASH BANDICOOT/aztec_wall12.vtf,87616,87616
+materials/CRASH BANDICOOT/CB_Logo.vtf,43872,43872
+materials/CRASH BANDICOOT/credit.vtf,699232,699232
+materials/CRASH BANDICOOT/diamond.vtf,1600,1600
+materials/CRASH BANDICOOT/dirt1.vtf,349760,349760
+materials/CRASH BANDICOOT/dirt2.vtf,349760,349760
+materials/CRASH BANDICOOT/dirt3.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_battle_awp.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_battle_bhop.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_battle_knife.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_battle_punish.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_border1.vtf,22016,22016
+materials/CRASH BANDICOOT/egypt_coffin.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_coffinback.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_color1.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_color2.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_decal4.vtf,22080,22080
+materials/CRASH BANDICOOT/egypt_decal6.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_decal7.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_glass2.vtf,87616,87616
+materials/CRASH BANDICOOT/egypt_ground1.vtf,87616,87616
+materials/CRASH BANDICOOT/egypt_ground1_2.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_ground2.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_puzzel1.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_puzzel2.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_puzzel3.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_puzzel4.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_puzzel5.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_puzzel6.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_roof1.vtf,43912,43912
+materials/CRASH BANDICOOT/egypt_stair1.vtf,87552,87552
+materials/CRASH BANDICOOT/egypt_wall1_3.vtf,174944,174944
+materials/CRASH BANDICOOT/egypt_wall3.vtf,87616,87616
+materials/CRASH BANDICOOT/egypt_wall3_2.vtf,87616,87616
+materials/CRASH BANDICOOT/egypt_wall4.vtf,87616,87616
+materials/CRASH BANDICOOT/egypt_wall4_2.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_wall5_2.vtf,349760,349760
+materials/CRASH BANDICOOT/egypt_wall6.vtf,87616,87616
+materials/CRASH BANDICOOT/foliage1.vtf,349760,349760
+materials/CRASH BANDICOOT/grass1.vtf,349760,349760
+materials/CRASH BANDICOOT/grass32.vtf,87552,87552
+materials/CRASH BANDICOOT/krystal.vtf,1600,1600
+materials/CRASH BANDICOOT/krystal2.vtf,1600,1600
+materials/CRASH BANDICOOT/Map_by.vtf,349760,349760
+materials/CRASH BANDICOOT/oil1.vtf,349760,349760
+materials/CRASH BANDICOOT/skyboxbig.vtf,1398336,1398336
+materials/CRASH BANDICOOT/text_decal1.vtf,349760,349760
+materials/CRASH BANDICOOT/text_decal2.vtf,349760,349760
+materials/CRASH BANDICOOT/wood_crate_armored.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_arrowup.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_check.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_jump.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_mask.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_nitro.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_nitro_top.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_normal.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_q.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_tnt.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_crate_tnt_top.vtf,87616,87616
+materials/CRASH BANDICOOT/wood_wall1.vtf,174944,174944
+materials/CRASH BANDICOOT/wood_wall2.vtf,174944,174944

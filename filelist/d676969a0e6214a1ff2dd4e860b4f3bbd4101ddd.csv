@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/test/metal/citadel_metalwall090a_0_0_0.vmt,125,125
+materials/maps/test/metal/citadel_metalwall077a_0_0_0.vmt,125,125
+materials/maps/test/cubemapdefault.vtf,9824,9824
+materials/maps/test/c0_0_0.vtf,9824,9824
+materials/skybox/sky_spacebk.vmt,86,86
+materials/skybox/sky_spacebk.vtf,1398320,1398320
+materials/skybox/sky_spacedn.vmt,86,86
+materials/skybox/sky_spacedn.vtf,1398320,1398320
+materials/skybox/sky_spaceft.vmt,86,86
+materials/skybox/sky_spaceft.vtf,1398320,1398320
+materials/skybox/sky_spacelf.vmt,86,86
+materials/skybox/sky_spacelf.vtf,1398320,1398320
+materials/skybox/sky_spacert.vmt,86,86
+materials/skybox/sky_spacert.vtf,1398320,1398320
+materials/skybox/sky_spaceup.vmt,86,86
+materials/skybox/sky_spaceup.vtf,1398320,1398320

@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/de_saunawar_v2/nature/blendmilground004_2_wvt_patch.vmt,185,185
+materials/maps/de_saunawar_v2/nature/blendgrassgravel003a_wvt_patch.vmt,221,221
+materials/maps/de_saunawar_v2/tile/tilefloor009a_0_0_0.vmt,126,126
+materials/maps/de_saunawar_v2/metal/metalroof006a_0_0_0.vmt,127,127
+materials/maps/de_saunawar_v2/nature/water_canals03_depth_1.vmt,107,107
+materials/maps/de_saunawar_v2/nature/water_canals03_depth_80.vmt,108,108
+materials/maps/de_saunawar_v2/nature/water_movingplane_depth_444.vmt,112,112
+materials/maps/de_saunawar_v2/cubemapdefault.vtf,9832,9832
+materials/maps/de_saunawar_v2/c0_0_0.vtf,9832,9832
+materials/maps/de_saunawar_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_saunawar_v2/c0_0_0.hdr.vtf,76528,76528
+resource/overviews/de_saunawar_v2.txt,400,400
+materials/overviews/de_saunawar_v2.vmt,161,161
+materials/overviews/de_saunawar_v2.vtf,1048784,1048784
+materials/overviews/de_saunawar_v2_radar.vmt,167,167
+materials/overviews/de_saunawar_v2_radar.vtf,1048784,1048784

@@ -1,0 +1,123 @@
+filename,size,compressed
+materials/maps/bhop_flowers_v1/metal/citadel_tilefloor016a_0_0_0.vmt,136,136
+materials/maps/bhop_flowers_v1/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_flowers_v1/c0_0_0.vtf,4960,4960
+materials/maps/bhop_flowers_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_flowers_v1/c0_0_0.hdr.vtf,76528,76528
+materials/FLOWERBEDS0012_5_S.vmt,91,91
+materials/FlowerBeds0012_5_S.vtf,174984,174984
+materials/CNCR04S/WOOD/RIBPANELLING.vmt,119,119
+materials/cncr04s/wood/ribpanelling.vtf,43896,43896
+materials/YELLOWFLOWERSIGN.vmt,89,89
+materials/yellowflowersign.vtf,174984,174984
+materials/PURPLEFLOWERSIGN.vmt,89,89
+materials/purpleflowersign.vtf,174984,174984
+materials/VGUI/LOGOS/FUZZYSMILEY.vmt,128,128
+materials/vgui/logos/fuzzysmiley.vtf,87616,87616
+materials/REALWORLDTEXTURES/NEWER/1/GRASS_1_11.vmt,109,109
+materials/RealWorldTextures/Newer/1/Grass_1_11.vtf,174984,174984
+materials/REALWORLDTEXTURES/GRASS/GRASSBLEND1.vmt,160,160
+materials/RealWorldTextures/grass/grassblend1.vtf,5592612,5592612
+materials/RealWorldTextures/grass/Grassblend1_normal.vtf,4194511,4194511
+materials/TURQSIGN.vmt,81,81
+materials/turqsign.vtf,43912,43912
+materials/REALWORLDTEXTURES/NEWER/0/BRICKS_0_35.vmt,170,170
+materials/RealWorldTextures/newer/0/bricks_0_35.vtf,174984,174984
+materials/RealWorldTextures/newer/0/bricks_0_35_nrm.vtf,174984,174984
+materials/XENOXTILE/XENOX_BHOP_TILE_YELLOW.vmt,105,105
+materials/XenoXtile/xenox_bhop_tile_yellow.vtf,87616,87616
+materials/GREENSIGN.vmt,87,87
+materials/greensign.vtf,43912,43912
+materials/WEIRDSIGN.vmt,87,87
+materials/weirdsign.vtf,43912,43912
+materials/CNCR04S/ROCK/FIELDSTONE_WALL.vmt,122,122
+materials/cncr04s/rock/fieldstone_wall.vtf,43896,43896
+materials/STARWARS/IMP_MINE/LAVA2.vmt,71,71
+materials/starwars/imp_mine/lava2.vtf,174984,174984
+materials/CNCR04S/GRASS/HEDGETRM1MSK1.vmt,123,123
+materials/cncr04s/grass/hedgetrm1msk1.vtf,87600,87600
+materials/STARWARS/YAVIN/ROCKMOSSY.vmt,72,72
+materials/starwars/yavin/rockmossy.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/PURPLE_CARPET04.vmt,186,186
+materials/CustomText/GC Textures/Carpet/Purple_Carpet04.vtf,87544,87544
+materials/CustomText/GC Textures/Carpet/Green_Carpet01_normal.vtf,87544,87544
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/PURPLE_CARPET06.vmt,184,184
+materials/CustomText/GC Textures/Carpet/Purple_Carpet06.vtf,174984,174984
+materials/CustomText/GC Textures/Carpet/Red_Carpet01_normal.vtf,174984,174984
+materials/CNCR04S/GRASS/GRASS1A.vmt,117,117
+materials/cncr04s/grass/grass1a.vtf,43896,43896
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/YELLOW_CARPET02.vmt,185,185
+materials/CustomText/GC Textures/Carpet/Yellow_Carpet02.vtf,174984,174984
+materials/CustomText/GC Textures/Carpet/Blue_Carpet02_normal.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/YELLOW_CARPET04.vmt,184,184
+materials/CustomText/GC Textures/Carpet/Yellow_Carpet04.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/RED_CARPET01.vmt,181,181
+materials/CustomText/GC Textures/Carpet/Red_Carpet01.vtf,174984,174984
+materials/CNCR04S/WOODSOLID/WLPPRBG1_REDCRUSH.vmt,135,135
+materials/cncr04s/woodsolid/wlpprbg1_redcrush.vtf,2936,2936
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/PINK_CARPET04.vmt,182,182
+materials/CustomText/GC Textures/Carpet/Pink_Carpet04.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/PINK_CARPET02.vmt,184,184
+materials/CustomText/GC Textures/Carpet/Pink_Carpet02.vtf,174984,174984
+materials/CustomText/GC Textures/Carpet/Brown_Carpet02_normal.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/RED_CARPET07.vmt,184,184
+materials/CustomText/GC Textures/Carpet/Red_Carpet07.vtf,174984,174984
+materials/CustomText/GC Textures/Carpet/Yellow_Carpet01_normal.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/BLUE_CARPET08.vmt,182,182
+materials/CustomText/GC Textures/Carpet/Blue_Carpet08.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/BLUE_CARPET05.vmt,184,184
+materials/CustomText/GC Textures/Carpet/Blue_Carpet05.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/GREEN_CARPET05.vmt,183,183
+materials/CustomText/GC Textures/Carpet/Green_Carpet05.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/GREEN_CARPET04.vmt,185,185
+materials/CustomText/GC Textures/Carpet/Green_Carpet04.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/TRUQUOISE_CARPET03.vmt,190,190
+materials/CustomText/GC Textures/Carpet/Truquoise_Carpet03.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/TRUQUOISE_CARPET01.vmt,187,187
+materials/CustomText/GC Textures/Carpet/Truquoise_Carpet01.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/LIMEGREEN_CARPET02.vmt,187,187
+materials/CustomText/GC Textures/Carpet/LimeGreen_Carpet02.vtf,174984,174984
+materials/CNCR04S/TILE/TILEDFLOOR_MANORDARK.vmt,127,127
+materials/cncr04s/tile/tiledfloor_manordark.vtf,2936,2936
+materials/decals/custom/stop-hacking-noob.vmt,139,139
+materials/decals/custom/stop-hacking-noob.vtf,87616,87616
+models/de_vegas/vegas_archway.mdl,1468,1468
+materials/models/de_vegas/vegas_archway.vtf,295480,295480
+models/de_vegas/vegas_archway.dx80.vtx,87537,87537
+models/de_vegas/vegas_archway.dx90.vtx,87537,87537
+models/de_vegas/vegas_archway.sw.vtx,87537,87537
+models/de_vegas/vegas_archway.phy,1380,1380
+models/de_vegas/vegas_archway.vvd,499008,499008
+materials/models/de_vegas/vegas_archway.vmt,250,250
+models/aoc_trees/aoc_lowveg17.mdl,1468,1468
+materials/models/AoC_Trees/palm_branch.vtf,174928,174928
+models/aoc_trees/aoc_lowveg17.dx80.vtx,1383,1383
+models/aoc_trees/aoc_lowveg17.dx90.vtx,1383,1383
+models/aoc_trees/aoc_lowveg17.sw.vtx,1383,1383
+models/aoc_trees/aoc_lowveg17.phy,703,703
+models/aoc_trees/aoc_lowveg17.vvd,5824,5824
+materials/models/AoC_Trees/palm_branch.vmt,105,105
+models/props/nature/rd_mediumbush01.mdl,1672,1672
+materials/models/props/nature/rd_mediumbush01.vtf,349760,349760
+materials/models/props/nature/rd_jngl_lodsheet.vtf,1048784,1048784
+models/props/nature/rd_mediumbush01.dx80.vtx,3347,3347
+models/props/nature/rd_mediumbush01.dx90.vtx,3347,3347
+models/props/nature/rd_mediumbush01.sw.vtx,3347,3347
+models/props/nature/rd_mediumbush01.phy,706,706
+models/props/nature/rd_mediumbush01.vvd,12976,12976
+materials/models/props/nature/rd_mediumbush01.vmt,152,152
+materials/models/props/nature/rd_jngl_lodsheet.vmt,150,150
+materials/skybox/mpa125ft.vmt,85,85
+materials/skybox/bloody-marvelous512_lf.vtf,174984,174984
+materials/skybox/mpa125bk.vmt,85,85
+materials/skybox/mpa125bk.vtf,699272,699272
+materials/skybox/mpa125dn.vmt,85,85
+materials/skybox/mpa125dn.vtf,699272,699272
+materials/skybox/mpa125ft.vmt,85,85
+materials/skybox/mpa125ft.vtf,699272,699272
+materials/skybox/mpa125lf.vmt,85,85
+materials/skybox/mpa125lf.vtf,699272,699272
+materials/skybox/mpa125rt.vmt,85,85
+materials/skybox/mpa125rt.vtf,699272,699272
+materials/skybox/mpa125up.vmt,85,85
+materials/skybox/mpa125up.vtf,699272,699272

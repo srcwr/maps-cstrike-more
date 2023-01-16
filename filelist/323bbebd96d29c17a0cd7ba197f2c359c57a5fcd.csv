@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/kb_cataclysm_testbox_v1/glass/combineglass001a_0_0_0.vmt,139,139
+materials/maps/kb_cataclysm_testbox_v1/metal/citadel_metalwall090a_0_0_0.vmt,144,144
+materials/maps/kb_cataclysm_testbox_v1/metal/metalfloor001a_0_0_0.vmt,137,137
+materials/maps/kb_cataclysm_testbox_v1/cubemapdefault.vtf,9824,9824
+materials/maps/kb_cataclysm_testbox_v1/c0_0_0.vtf,9824,9824
+materials/custom/cataclysm/couleurs_fluo_jaune.vmt,123,123
+materials/custom/cataclysm/couleurs_fluo_jaune.vtf,174984,174984
+materials/custom/cataclysm/couleurs_fluo_rouge.vmt,123,123
+materials/custom/cataclysm/couleurs_fluo_rouge.vtf,174984,174984
+materials/custom/cataclysm/couleurs_fluo_vert.vmt,122,122
+materials/custom/cataclysm/couleurs_fluo_vert.vtf,174984,174984
+materials/custom/cataclysm/source_drapeau_quebec.vmt,136,136
+materials/custom/cataclysm/source_drapeau_quebec.vtf,1398336,1398336
+sound/Cataclysm_Series_sounds/001_Battle1.mp3,6644424,6644424
+sound/Cataclysm_Series_sounds/005_LargeHadronRap.mp3,5842961,5842961

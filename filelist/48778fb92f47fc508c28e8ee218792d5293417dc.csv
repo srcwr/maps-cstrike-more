@@ -1,0 +1,34 @@
+filename,size,compressed
+materials/maps/35hp_alpha_d/cubemapdefault.vtf,9832,9832
+materials/maps/35hp_alpha_d/c-768_794_-200.vtf,9832,9832
+materials/maps/35hp_alpha_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/35hp_alpha_d/c-768_794_-200.hdr.vtf,76528,76528
+C:/Steam/steamapps/common/Day of Defeat Source/dod/materials/TOOLS/TOOLSNODRAW.vmt,209,209
+C:/Steam/steamapps/common/Day of Defeat Source/dod/materials/Tools/toolsnodraw.vtf,2976,2976
+C:/Steam/steamapps/common/Day of Defeat Source/dod/materials/DEV/DEV_FLATUI_MIDNIGHTBLUE.vmt,143,143
+C:/Steam/steamapps/common/Day of Defeat Source/dod/materials/dev/dev_flatui_midnightblue.vtf,87588,87588
+C:/Steam/steamapps/common/Day of Defeat Source/dod/materials/DEV/DEV_FLATUI_SILVER.vmt,137,137
+C:/Steam/steamapps/common/Day of Defeat Source/dod/materials/dev/dev_flatui_silver.vtf,87588,87588
+materials/TOOLS/TOOLSNODRAW.vmt,209,209
+materials/Tools/toolsnodraw.vtf,2976,2976
+materials/DEV/DEV_FLATUI_ASBESTOS.vmt,139,139
+materials/dev/dev_flatui_asbestos.vtf,87588,87588
+materials/DEV/DEV_FLATUI_MIDNIGHTBLUE.vmt,143,143
+materials/dev/dev_flatui_midnightblue.vtf,87588,87588
+materials/DEV/DEV_FLATUI_SILVER.vmt,137,137
+materials/dev/dev_flatui_silver.vtf,87588,87588
+materials/DEV/DEV_FLATUI_CLOUDS.vmt,137,137
+materials/dev/dev_flatui_clouds.vtf,87588,87588
+materials/TILE/TILEFLOOR008A.vmt,161,161
+materials/Tile/tilefloor008a.vtf,43896,43896
+materials/tile/tilefloor008a_normal.vtf,43896,43896
+materials/TOOLS/TOOLSSKYBOX.vmt,235,235
+materials/Tools/toolsskybox.vtf,11168,11168
+materials/DEV/DEV_FLATUI_PETERRIVER.vmt,142,142
+materials/dev/dev_flatui_pomegranate.vtf,87588,87588
+materials/DEV/DEV_FLATUI_ALIZARIN.vmt,139,139
+materials/dev/dev_flatui_alizarin.vtf,87588,87588
+materials/TOOLS/TOOLSTRIGGER.vmt,278,278
+materials/Tools/toolstrigger.vtf,5720,5720
+materials/sprites/light_glow03.vmt,139,139
+materials/sprites/light_glow03.vtf,65727,65727

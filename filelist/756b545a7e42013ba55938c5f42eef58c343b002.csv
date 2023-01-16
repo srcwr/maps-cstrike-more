@@ -1,0 +1,21 @@
+filename,size,compressed
+materials/maps/aim_double_rainbow/cubemapdefault.vtf,9832,9832
+materials/maps/aim_double_rainbow/cubemapdefault.hdr.vtf,76528,76528
+maps/aim_double_rainbow.nav,106358,106358
+maps/aim_double_rainbow.txt,502,502
+materials/rainbow/cereal.vmt,88,88
+materials/rainbow/cereal.vtf,32976,32976
+materials/rainbow/charms.vmt,62,62
+materials/rainbow/charms.vtf,43912,43912
+materials/rainbow/double_rainbow.vmt,89,89
+materials/rainbow/double_rainbow.vtf,2796384,2796384
+materials/rainbow/sketch.vmt,95,95
+materials/rainbow/sketch.vtf,174984,174984
+sound/double rainbow/across.wav,283692,283692
+sound/double rainbow/backhoe.wav,361516,361516
+sound/double rainbow/double_rainbow_song.mp3,597391,597391
+sound/double rainbow/full_on.wav,250924,250924
+sound/double rainbow/leprechaun.wav,608300,608300
+sound/double rainbow/oh.wav,85036,85036
+sound/double rainbow/so_intense.wav,217132,217132
+sound/double rainbow/triple.wav,238636,238636

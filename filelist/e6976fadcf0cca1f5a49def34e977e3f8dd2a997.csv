@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/gg_ae_deathplex/de_train/blendgraveldirt001a_wvt_patch.vmt,130,130
+materials/maps/gg_ae_deathplex/nature/blendprodconcgrass_wvt_patch.vmt,92,92
+materials/maps/gg_ae_deathplex/nature/blendprodasphaltgrass_wvt_patch.vmt,122,122
+materials/maps/gg_ae_deathplex/concrete/concretefloor028a_0_0_0.vmt,135,135
+materials/maps/gg_ae_deathplex/cubemapdefault.vtf,28753,28753
+materials/maps/gg_ae_deathplex/c0_0_0.vtf,28753,28753
+materials/maps/gg_ae_deathplex/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_ae_deathplex/c0_0_0.hdr.vtf,76528,76528
+maps/gg_ae_deathplex.nav,178530,178530
+maps/gg_ae_deathplex.txt,300,300
+materials/overviews/gg_ae_deathplex.vmt,136,136
+materials/overviews/gg_ae_deathplex.vtf,1048784,1048784
+materials/overviews/gg_ae_deathplex_radar.vmt,142,142
+materials/overviews/gg_ae_deathplex_radar.vtf,1048784,1048784
+resource/overviews/gg_ae_deathplex.txt,336,336

@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/mg_saw_all4all_fixed_2/environment maps/pipemetal004a_0_0_0.vmt,146,146
+materials/maps/mg_saw_all4all_fixed_2/environment maps/pipemetal001a_0_0_0.vmt,146,146
+materials/maps/mg_saw_all4all_fixed_2/de_piranesi/marblefloor08_0_0_0.vmt,141,141
+materials/maps/mg_saw_all4all_fixed_2/nature/water_movingplane_dx70_depth_207.vmt,117,117
+materials/maps/mg_saw_all4all_fixed_2/liquids/water_chateau_dx70_depth_93.vmt,113,113
+materials/maps/mg_saw_all4all_fixed_2/liquids/water_chateau_dx70_depth_69.vmt,113,113
+materials/maps/mg_saw_all4all_fixed_2/de_nuke/nukwater_movingplane_dx70_depth_185.vmt,121,121
+materials/maps/mg_saw_all4all_fixed_2/shadertest/watercheap_opaque_nofresnel_depth_315.vmt,126,126
+materials/maps/mg_saw_all4all_fixed_2/cubemapdefault.vtf,28753,28753
+materials/maps/mg_saw_all4all_fixed_2/c0_0_0.vtf,28753,28753
+materials/maps/mg_saw_all4all_fixed_2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_saw_all4all_fixed_2/c0_0_0.hdr.vtf,76528,76528

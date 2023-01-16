@@ -1,0 +1,68 @@
+filename,size,compressed
+materials/maps/amap_11_d/glass/glasswindow070c_0_0_0.vmt,124,124
+materials/maps/amap_11_d/nature/water_coast03_depth_12.vmt,107,107
+materials/maps/amap_11_d/nature/water_coast03_depth_15.vmt,107,107
+materials/maps/amap_11_d/nature/water_coast03_depth_9.vmt,106,106
+materials/maps/amap_11_d/nature/water_coast03_depth_11.vmt,107,107
+materials/maps/amap_11_d/nature/water_coast03_depth_13.vmt,107,107
+materials/maps/amap_11_d/nature/water_coast03_depth_16.vmt,107,107
+materials/maps/amap_11_d/nature/water_coast03_depth_25.vmt,107,107
+materials/maps/amap_11_d/dev/dev_water2_depth_159.vmt,102,102
+materials/maps/amap_11_d/nature/water_coast03_depth_8.vmt,106,106
+materials/maps/amap_11_d/nature/water_coast03_depth_32.vmt,107,107
+materials/maps/amap_11_d/nature/water_coast03_depth_10.vmt,107,107
+materials/maps/amap_11_d/nature/water_coast03_depth_6.vmt,106,106
+materials/maps/amap_11_d/nature/water_coast03_depth_7.vmt,106,106
+materials/maps/amap_11_d/cubemapdefault.vtf,9832,9832
+materials/maps/amap_11_d/c0_0_0.vtf,9832,9832
+materials/maps/amap_11_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/amap_11_d/c0_0_0.hdr.vtf,76528,76528
+materials/DEV/DEV_MEASUREGENERIC02.vmt,93,93
+materials/dev/dev_measuregeneric02.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC17.vmt,93,93
+materials/dev/dev_measuregeneric17.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC34.vmt,93,93
+materials/dev/dev_measuregeneric34.vtf,11144,11144
+materials/SIMPLE_COLORS_BLOCKS/03_GREY.vmt,76,76
+materials/simple_colors_blocks/03_grey.vtf,8416,8416
+materials/DEV/DEV_MEASUREGENERIC14.vmt,93,93
+materials/dev/dev_measuregeneric14.vtf,11144,11144
+materials/RYAN_DEV/BLACK.vmt,62,62
+materials/ryan_dev/black.vtf,11144,11144
+materials/SIMPLE_COLORS_BLOCKS/01_WHITE.vmt,77,77
+materials/simple_colors_blocks/01_white.vtf,8416,8416
+materials/RYAN_DEV/80.vmt,59,59
+materials/ryan_dev/80.vtf,11144,11144
+materials/SIMPLE_COLORS_BLOCKS/06_BLUE.vmt,76,76
+materials/simple_colors_blocks/06_blue.vtf,8416,8416
+materials/B2/CYANGLASS.vmt,107,107
+materials/b2/cyanglass.vtf,2952,2952
+materials/DEV/DEV_MEASUREGENERIC12.vmt,93,93
+materials/dev/dev_measuregeneric12.vtf,11144,11144
+materials/ICECREAMLOCK/YELLOWGLASS.vmt,119,119
+materials/icecreamlock/yellowglass.vtf,2952,2952
+materials/ICECREAMLOCK/CYANGLASS.vmt,117,117
+materials/icecreamlock/cyanglass.vtf,2952,2952
+materials/DEVURA/REFLECTIVITY_20B.vmt,136,136
+materials/DEV/TROLOLO.vmt,59,59
+materials/dev/TROLOLO.vtf,524432,524432
+sound/sweatshirt/la_mer.mp3,3246607,3246607
+sound/sweatshirt/insanity.mp3,1908015,1908015
+sound/sweatshirt/colossus.mp3,3416848,3416848
+sound/sweatshirt/yonkers.mp3,5925303,5925303
+sound/sweatshirt/molasses.mp3,4478739,4478739
+sound/sweatshirt/chum.mp3,1956358,1956358
+sound/sweatshirt/flume - on top (feat t.shirt) (1).mp3,3697163,3697163
+sound/sweatshirt/purge.mp3,2600282,2600282
+sound/sweatshirt/burn.mp3,3811683,3811683
+sound/sweatshirt/gtfomymap.mp3,5652638,5652638
+materials/sparx/end timer.vmt,76,76
+materials/sparx/start timer.vmt,78,78
+sound/sweatshirt/intoxicated.mp3,5930500,5930500
+scripts/soundscapes_amap_11_d.txt,109,109
+materials/sparx/End Timer.vmt,76,76
+materials/sparx/End Timer.vtf,5632,5632
+materials/sparx/Start Timer.vmt,78,78
+materials/sparx/Start Timer.vtf,5632,5632
+materials/sparx/sprites_End Timer.vmt,147,147
+materials/sparx/sprites_Start Timer.vmt,149,149

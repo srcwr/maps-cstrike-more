@@ -1,0 +1,43 @@
+filename,size,compressed
+materials/maps/surf_meltdown_v2/dev/dev_water2_cheap_2688_-1598_640.vmt,162,162
+materials/maps/surf_meltdown_v2/models/props_trainstation/trainstation_clock_glass001_2688_-1598_640.vmt,172,172
+materials/maps/surf_meltdown_v2/models/props_combine/combine_tower01b_2688_-1598_640.vmt,156,156
+materials/maps/surf_meltdown_v2/effects/combineshield/comshieldwall3_2688_-1598_640.vmt,178,178
+materials/maps/surf_meltdown_v2/metal/metalcombine001_2688_-1598_640.vmt,140,140
+materials/maps/surf_meltdown_v2/de_piranesi/woodfloor01_2688_-1598_640.vmt,142,142
+materials/maps/surf_meltdown_v2/sub/black_sub_2688_-1598_640.vmt,132,132
+materials/maps/surf_meltdown_v2/models/props_combine/tprings_globe_2688_-1598_640.vmt,176,176
+materials/maps/surf_meltdown_v2/dev/dev_water5_2688_-1598_640.vmt,156,156
+materials/maps/surf_meltdown_v2/effects/combineshield/comshieldwall2_2688_-1598_640.vmt,178,178
+materials/maps/surf_meltdown_v2/models/props_combine/combine_door01_glass_2688_-1598_640.vmt,160,160
+materials/maps/surf_meltdown_v2/models/props_combine/stasisshield_sheet_2688_-1598_640.vmt,181,181
+materials/maps/surf_meltdown_v2/metal/citadel_metalwall063a_2688_-1598_640.vmt,146,146
+materials/maps/surf_meltdown_v2/maps/surf_meltdown_v2/dev/dev_water5_2688_-1598_640_depth_16.vmt,138,138
+materials/maps/surf_meltdown_v2/maps/surf_meltdown_v2/dev/dev_water2_cheap_2688_-1598_640_depth_30.vmt,144,144
+materials/maps/surf_meltdown_v2/maps/surf_meltdown_v2/dev/dev_water2_cheap_2688_-1598_640_depth_23.vmt,144,144
+materials/maps/surf_meltdown_v2/maps/surf_meltdown_v2/dev/dev_water2_cheap_2688_-1598_640_depth_24.vmt,144,144
+materials/maps/surf_meltdown_v2/nature/water_movingplane_dx70_depth_58.vmt,116,116
+materials/maps/surf_meltdown_v2/maps/surf_meltdown_v2/dev/dev_water2_cheap_2688_-1598_640_depth_16.vmt,144,144
+materials/maps/surf_meltdown_v2/maps/surf_meltdown_v2/dev/dev_water2_cheap_2688_-1598_640_depth_44.vmt,144,144
+materials/maps/surf_meltdown_v2/maps/surf_meltdown_v2/dev/dev_water2_cheap_2688_-1598_640_depth_61.vmt,144,144
+materials/maps/surf_meltdown_v2/liquids/water_dx70_beneath_depth_2.vmt,112,112
+materials/maps/surf_meltdown_v2/maps/surf_meltdown_v2/dev/dev_water2_cheap_2688_-1598_640_depth_17.vmt,144,144
+materials/maps/surf_meltdown_v2/nature/water_movingplane_dx70_depth_33.vmt,116,116
+materials/maps/surf_meltdown_v2/cubemapdefault.vtf,9808,9808
+materials/maps/surf_meltdown_v2/c2688_-1598_640.vtf,9808,9808
+materials/SKYBOX/SPACEDN.vmt,56,56
+materials/skybox/spacedn.vtf,43896,43896
+materials/SUB/BLACK_SUB.vmt,141,141
+materials/sub/black_sub.vtf,11128,11128
+materials/CONCRETE/CONCRETEWALL057A.vmt,169,169
+materials/Concrete/concretewall057a.vtf,174968,174968
+materials/STEVE TEXTURES/CRUSHER.vmt,70,70
+materials/Steve Textures/Crusher.vtf,5608,5608
+materials/STEVE TEXTURES/GRENADE-ARENA.vmt,76,76
+materials/Steve Textures/Grenade-Arena.vtf,5608,5608
+materials/STEVE TEXTURES/SULOGO-OFFICIAL.vmt,78,78
+materials/Steve Textures/SULogo-Official.vtf,349672,349672
+materials/NIPPERTEXTURES/SPOOKS/{CHAIN1.vmt,98,98
+materials/nippertextures/spooks/{chain1.vtf,848,848
+materials/STEVE TEXTURES/CREDITS.vmt,70,70
+materials/Steve Textures/credits.vtf,21992,21992

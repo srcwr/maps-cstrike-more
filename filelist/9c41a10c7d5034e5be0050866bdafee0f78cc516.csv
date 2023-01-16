@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/aim_texture_amsay_v1_1/liquids/militiawater_592_160_32.vmt,164,164
+materials/maps/aim_texture_amsay_v1_1/liquids/militiawater_-608_288_32.vmt,165,165
+materials/maps/aim_texture_amsay_v1_1/glass/combineglass001a_-608_288_32.vmt,144,144
+materials/maps/aim_texture_amsay_v1_1/glass/combineglass001a_592_160_32.vmt,143,143
+materials/maps/aim_texture_amsay_v1_1/maps/aim_texture_amsay_v1_1/liquids/militiawater_592_160_32_depth_64.vmt,146,146
+materials/maps/aim_texture_amsay_v1_1/maps/aim_texture_amsay_v1_1/liquids/militiawater_-608_288_32_depth_63.vmt,147,147
+materials/maps/aim_texture_amsay_v1_1/maps/aim_texture_amsay_v1_1/liquids/militiawater_-608_288_32_depth_8.vmt,146,146
+materials/maps/aim_texture_amsay_v1_1/maps/aim_texture_amsay_v1_1/liquids/militiawater_592_160_32_depth_8.vmt,145,145
+materials/maps/aim_texture_amsay_v1_1/cubemapdefault.vtf,9824,9824
+materials/maps/aim_texture_amsay_v1_1/c592_160_32.vtf,9824,9824
+materials/maps/aim_texture_amsay_v1_1/c-608_288_32.vtf,9824,9824

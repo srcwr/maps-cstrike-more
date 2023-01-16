@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/surf_da_whoop/glass/combineglass001a_0_0_0.vmt,129,129
+materials/maps/surf_da_whoop/dev/dev_water2_depth_8.vmt,100,100
+materials/maps/surf_da_whoop/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/surf_da_whoop/dev/dev_water2_depth_12.vmt,101,101
+materials/maps/surf_da_whoop/dev/dev_water2_depth_15.vmt,101,101
+materials/maps/surf_da_whoop/cubemapdefault.vtf,9824,9824
+materials/maps/surf_da_whoop/c0_0_0.vtf,9824,9824
+materials/RED.vmt,75,75
+materials/red.vtf,87588,87588
+materials/PURPLE.vmt,78,78
+materials/purple.vtf,87588,87588
+maps/soundcache/surf_da_whoop.cache,16,16

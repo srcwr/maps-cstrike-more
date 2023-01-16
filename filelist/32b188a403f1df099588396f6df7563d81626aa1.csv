@@ -1,0 +1,33 @@
+filename,size,compressed
+materials/maps/deathrun_winterland_v2a/concrete/milflr001_0_0_0.vmt,135,135
+materials/maps/deathrun_winterland_v2a/glass/glasswindow007a_0_0_0.vmt,138,138
+materials/maps/deathrun_winterland_v2a/tile/tilefloor016a_0_0_0.vmt,135,135
+materials/maps/deathrun_winterland_v2a/tile/tilefloor021a_0_0_0.vmt,135,135
+materials/maps/deathrun_winterland_v2a/tile/tilefloor020a_0_0_0.vmt,135,135
+materials/maps/deathrun_winterland_v2a/de_nuke/nukwater_movingplane_dx70_depth_24.vmt,120,120
+materials/maps/deathrun_winterland_v2a/nature/water_movingplane_depth_384.vmt,112,112
+materials/maps/deathrun_winterland_v2a/cubemapdefault.vtf,4960,4960
+materials/maps/deathrun_winterland_v2a/c0_0_0.vtf,4960,4960
+materials/maps/deathrun_winterland_v2a/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/deathrun_winterland_v2a/c0_0_0.hdr.vtf,76528,76528
+materials/WINTERLAND/MAPCREDITS.vmt,69,69
+materials/winterland/mapcredits.vtf,349688,349688
+materials/WINTERLAND/MAPCREDITS2.vmt,70,70
+materials/winterland/mapcredits2.vtf,349688,349688
+materials/winterland/merry.vmt,64,64
+materials/winterland/merry.vtf,43912,43912
+materials/skybox/sky46up.vmt,88,88
+materials/skybox/sky46up.vtf,699272,699272
+materials/skybox/sky46dn.vmt,88,88
+materials/skybox/sky46dn.vtf,699272,699272
+materials/skybox/sky46ft.vmt,88,88
+materials/skybox/sky46ft.vtf,699272,699272
+materials/skybox/sky46bk.vmt,88,88
+materials/skybox/sky46bk.vtf,699272,699272
+materials/skybox/sky46lf.vmt,88,88
+materials/skybox/sky46lf.vtf,699272,699272
+materials/skybox/sky46rt.vmt,88,88
+materials/skybox/sky46rt.vtf,699272,699272
+maps/soundcache/deathrun_winterland_v2a.cache,16,16
+materials/winterland/add me.vmt,65,65
+materials/winterland/add me.vtf,43832,43832

@@ -1,0 +1,115 @@
+filename,size,compressed
+materials/maps/surf_hyper2/water/water_yellow01_depth_3.vmt,106,106
+materials/maps/surf_hyper2/water/water_caribbean01_depth_2.vmt,109,109
+materials/maps/surf_hyper2/water/water_yellow01_depth_5.vmt,106,106
+materials/maps/surf_hyper2/water/water_lava01_depth_12.vmt,105,105
+materials/maps/surf_hyper2/water/water_slime01_depth_4.vmt,105,105
+materials/maps/surf_hyper2/cubemapdefault.vtf,4960,4960
+materials/maps/surf_hyper2/cubemapdefault.hdr.vtf,76528,76528
+detail.vbsp,1013,1013
+materials/ryan_dev/85.vmt,59,59
+materials/ryan_dev/85.vtf,11144,11144
+materials/water/water_lava01.vmt,1438,1438
+materials/water/water_lava01_dx70.vmt,1636,1636
+materials/water/water_lava01_beneath.vmt,1157,1157
+materials/water/water_yellow01.vmt,1445,1445
+materials/water/water_yellow01_dx70.vmt,1640,1640
+materials/water/water_yellow01_beneath.vmt,1160,1160
+materials/color/dark green.vmt,67,67
+materials/color/dark green.vtf,11144,11144
+materials/ryan_dev/90.vmt,59,59
+materials/ryan_dev/90.vtf,11144,11144
+materials/color/islamic green.vmt,70,70
+materials/color/islamic green.vtf,11144,11144
+materials/color/forest green.vmt,69,69
+materials/color/forest green.vtf,11144,11144
+materials/color/office green.vmt,69,69
+materials/color/office green.vtf,11144,11144
+materials/color/kelly green.vmt,68,68
+materials/color/kelly green.vtf,11144,11144
+materials/color/dark spring green.vmt,74,74
+materials/color/dark spring green.vtf,11144,11144
+materials/neon/green.vmt,95,95
+materials/neon/green.vtf,174968,174968
+materials/shields/greenshield.vmt,437,437
+materials/shields/greenshield.vtf,43912,43912
+materials/water/water_slime01.vmt,1441,1441
+materials/water/water_slime01_dx70.vmt,1636,1636
+materials/water/water_slime01_beneath.vmt,1158,1158
+materials/shields/orangeshield.vmt,439,439
+materials/shields/orangeshield.vtf,43912,43912
+materials/shields/greyshield.vmt,435,435
+materials/shields/greyshield.vtf,43912,43912
+materials/water/water_caribbean01.vmt,1447,1447
+materials/water/water_caribbean01_dx70.vmt,1636,1636
+materials/water/water_caribbean01_beneath.vmt,1156,1156
+materials/color/black.vmt,62,62
+materials/color/black.vtf,11144,11144
+materials/shields/redshield.vmt,433,433
+materials/shields/redshield.vtf,43912,43912
+materials/neon/orange.vmt,96,96
+materials/neon/orange.vtf,174968,174968
+materials/icecreamlock/colorsatsuma.vmt,101,101
+materials/icecreamlock/colorsatsuma.vtf,392,392
+materials/ryan_dev/dark_orange2.vmt,69,69
+materials/ryan_dev/dark_orange2.vtf,11144,11144
+materials/color/international orange.vmt,77,77
+materials/color/international orange.vtf,11144,11144
+materials/ryan_dev/80.vmt,59,59
+materials/ryan_dev/80.vtf,11144,11144
+materials/shields/yellowshield.vmt,439,439
+materials/shields/yellowshield.vtf,43912,43912
+materials/icecreamlock/colorblack.vmt,99,99
+materials/icecreamlock/colorblack.vtf,392,392
+materials/neon/blue.vmt,94,94
+materials/neon/blue.vtf,174968,174968
+materials/neon/red.vmt,93,93
+materials/neon/red.vtf,174968,174968
+materials/neon/yellow.vmt,96,96
+materials/neon/yellow.vtf,174968,174968
+materials/color/selective yellow.vmt,73,73
+materials/color/selective yellow.vtf,11144,11144
+materials/color/electric green.vmt,71,71
+materials/color/electric green.vtf,11144,11144
+materials/ryan_dev/darker_red.vmt,67,67
+materials/ryan_dev/darker_red.vtf,11144,11144
+materials/ryan_dev/30.vmt,59,59
+materials/ryan_dev/30.vtf,11144,11144
+materials/ryan_dev/dark_red.vmt,65,65
+materials/ryan_dev/dark_red.vtf,11144,11144
+materials/ryan_dev/20.vmt,59,59
+materials/ryan_dev/20.vtf,11144,11144
+materials/ryan_dev/75.vmt,59,59
+materials/ryan_dev/75.vtf,11144,11144
+materials/ryan_dev/65.vmt,59,59
+materials/ryan_dev/65.vtf,11144,11144
+materials/ryan_dev/95.vmt,59,59
+materials/ryan_dev/95.vtf,11144,11144
+materials/color/tangerine yellow.vmt,73,73
+materials/color/tangerine yellow.vtf,11144,11144
+materials/ryan_dev/cmyk_yellow.vmt,68,68
+materials/ryan_dev/cmyk_yellow.vtf,11144,11144
+materials/ryan_dev/dark_yellow.vmt,68,68
+materials/ryan_dev/dark_yellow.vtf,11144,11144
+materials/ryan_dev/black.vmt,62,62
+materials/ryan_dev/black.vtf,11144,11144
+materials/ryan_dev/darker_green3.vmt,70,70
+materials/ryan_dev/darker_green3.vtf,11144,11144
+materials/color/green yellow.vmt,69,69
+materials/color/green yellow.vtf,11144,11144
+materials/color/blue.vmt,61,61
+materials/color/blue.vtf,11144,11144
+materials/ryan_dev/darker_blue2.vmt,69,69
+materials/ryan_dev/darker_blue2.vtf,11144,11144
+materials/skybox/space_01bk.vmt,119,119
+materials/skybox/space_01bk.vtf,699256,699256
+materials/skybox/space_01dn.vmt,119,119
+materials/skybox/space_01dn.vtf,699256,699256
+materials/skybox/space_01ft.vmt,119,119
+materials/skybox/space_01ft.vtf,699256,699256
+materials/skybox/space_01lf.vmt,119,119
+materials/skybox/space_01lf.vtf,699256,699256
+materials/skybox/space_01rt.vmt,119,119
+materials/skybox/space_01rt.vtf,699256,699256
+materials/skybox/space_01up.vmt,119,119
+materials/skybox/space_01up.vtf,699256,699256

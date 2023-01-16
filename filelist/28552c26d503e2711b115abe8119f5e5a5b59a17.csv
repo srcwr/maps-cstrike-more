@@ -1,0 +1,221 @@
+filename,size,compressed
+materials/maps/cs_arabstreets/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/cs_arabstreets/de_chateau/extwall01_270_-222_95.vmt,134,134
+materials/maps/cs_arabstreets/de_chateau/extwall01_1164_432_102.vmt,135,135
+materials/maps/cs_arabstreets/de_chateau/extwall01_621_-599_271.vmt,135,135
+materials/maps/cs_arabstreets/cs_assault/pavement001a_-863_14_148.vmt,137,137
+materials/maps/cs_arabstreets/cs_assault/pavement001a_621_-599_271.vmt,138,138
+materials/maps/cs_arabstreets/cs_assault/pavement001a_-441_-528_256.vmt,139,139
+materials/maps/cs_arabstreets/cs_assault/pavement001a_74_223_126.vmt,136,136
+materials/maps/cs_arabstreets/cs_assault/pavement001a_347_422_186.vmt,137,137
+materials/maps/cs_arabstreets/cs_assault/pavement001a_270_-222_95.vmt,137,137
+materials/maps/cs_arabstreets/cs_assault/pavement001a_-377_711_232.vmt,138,138
+materials/maps/cs_arabstreets/glass/glasswindowbreak070b_-441_-528_256.vmt,114,114
+materials/maps/cs_arabstreets/glass/offwndwb_-441_-528_256.vmt,214,214
+materials/maps/cs_arabstreets/glass/glasswindowbreak070b_-863_14_148.vmt,114,114
+materials/maps/cs_arabstreets/glass/offwndwb_-863_14_148.vmt,210,210
+materials/maps/cs_arabstreets/cubemapdefault.vtf,9832,9832
+materials/maps/cs_arabstreets/c270_-222_95.vtf,9832,9832
+materials/maps/cs_arabstreets/c1164_432_102.vtf,9832,9832
+materials/maps/cs_arabstreets/c621_-599_271.vtf,9832,9832
+materials/maps/cs_arabstreets/c-863_14_148.vtf,9832,9832
+materials/maps/cs_arabstreets/c-441_-528_256.vtf,9832,9832
+materials/maps/cs_arabstreets/c74_223_126.vtf,9832,9832
+materials/maps/cs_arabstreets/c347_422_186.vtf,9832,9832
+materials/maps/cs_arabstreets/c-377_711_232.vtf,9832,9832
+materials/maps/cs_arabstreets/c683_559_100.vtf,9832,9832
+materials/maps/cs_arabstreets/c-812_2023_254.vtf,9832,9832
+materials/maps/cs_arabstreets/c458_2033_157.vtf,9832,9832
+materials/maps/cs_arabstreets/c888_686_83.vtf,9832,9832
+materials/maps/cs_arabstreets/c-457_1674_114.vtf,9832,9832
+materials/maps/cs_arabstreets/c320_586_108.vtf,9832,9832
+materials/maps/cs_arabstreets/c-1055_1958_70.vtf,9832,9832
+materials/maps/cs_arabstreets/c-1062_1569_70.vtf,9832,9832
+materials/maps/cs_arabstreets/c-1059_1227_70.vtf,9832,9832
+materials/maps/cs_arabstreets/c-554_1193_70.vtf,9832,9832
+materials/maps/cs_arabstreets/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c270_-222_95.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c1164_432_102.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c621_-599_271.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c-863_14_148.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c-441_-528_256.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c74_223_126.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c347_422_186.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c-377_711_232.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c683_559_100.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c-812_2023_254.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c458_2033_157.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c888_686_83.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c-457_1674_114.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c320_586_108.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c-1055_1958_70.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c-1062_1569_70.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c-1059_1227_70.hdr.vtf,76528,76528
+materials/maps/cs_arabstreets/c-554_1193_70.hdr.vtf,76528,76528
+materials/cs_arabstreets/Arabmusic.wav,4310400,4310400
+materials/cs_arabstreets/avtor.vmt,103,103
+materials/cs_arabstreets/avtor.vtf,174984,174984
+materials/cs_arabstreets/marketwall04b.vmt,178,178
+materials/cs_arabstreets/marketwall04b.vtf,174968,174968
+materials/cs_arabstreets/marketwall04b_normal.vtf,1048767,1048767
+materials/cs_arabstreets/WHITEWALL_mid.vmt,180,180
+materials/cs_arabstreets/WHITEWALL_mid.vtf,174968,174968
+materials/cs_arabstreets/WHITEWALL_mid_normal.vtf,174984,174984
+materials/cs_arabstreets/1.vmt,64,64
+materials/cs_arabstreets/1.vtf,174984,174984
+materials/cs_arabstreets/2.vmt,64,64
+materials/cs_arabstreets/2.vtf,174984,174984
+materials/cs_arabstreets/3.vmt,64,64
+materials/cs_arabstreets/3.vtf,87544,87544
+materials/cs_arabstreets/4.vmt,64,64
+materials/cs_arabstreets/4.vtf,174984,174984
+materials/cs_arabstreets/5.vmt,64,64
+materials/cs_arabstreets/5.vtf,699272,699272
+materials/cs_arabstreets/eto Pasha.vmt,72,72
+materials/cs_arabstreets/eto Pasha.vtf,87544,87544
+materials/cs_arabstreets/gosdep.vmt,69,69
+materials/cs_arabstreets/gosdep.vtf,87544,87544
+materials/cs_arabstreets/isil.vmt,67,67
+materials/cs_arabstreets/isil.vtf,174984,174984
+materials/cs_arabstreets/sodom.vmt,68,68
+materials/cs_arabstreets/sodom.vtf,43912,43912
+materials/models/dimidrol/equipment/6af35e01.vmt,99,99
+materials/models/dimidrol/equipment/6af35e01.vtf,43912,43912
+materials/models/dimidrol/equipment/a37696e3.vmt,163,163
+materials/models/dimidrol/equipment/a37696e3.vtf,699272,699272
+materials/models/dimidrol/equipment/a37696e3_normal.vtf,699272,699272
+materials/models/dimidrol/transport/ec49f977.vmt,89,89
+materials/models/dimidrol/transport/ec49f977.vtf,1398264,1398264
+materials/models/dimidrol/flora/5f8bed2b.vmt,149,149
+materials/models/dimidrol/flora/5f8bed2b.vtf,1398308,1398308
+materials/models/dimidrol/buildings/e178f636.vmt,89,89
+materials/models/dimidrol/buildings/e178f636.vtf,87544,87544
+materials/models/props_DNK/Items/pen01.vmt,76,76
+materials/models/props_DNK/Items/pen01.vtf,22080,22080
+materials/models/sh2/7a807e80.vmt,326,326
+materials/models/sh2/7a807e80.vtf,174968,174968
+materials/models/sh2/7a807e80_normal.vtf,1398292,1398292
+materials/models/sh2/7a807e80_s.vtf,174968,174968
+materials/models/Z-O-M-B-I-E/metro_2033/lada_leto_rsrsc_1.vmt,93,93
+materials/models/Z-O-M-B-I-E/metro_2033/lada_leto_rsrsc_1.vtf,699256,699256
+materials/models/Z-O-M-B-I-E/metro_2033/Thumbs.db,5632,5632
+materials/models/Z-O-M-B-I-E/metro_2033/veh_f_1.vmt,83,83
+materials/models/Z-O-M-B-I-E/metro_2033/veh_f_1.vtf,699256,699256
+materials/models/jason278/GTA IV/bm_amb_hammer.vmt,101,101
+materials/models/jason278/GTA IV/bm_amb_hammer.vtf,22016,22016
+materials/models/jason278/GTA IV/bm_amb_holdall.vmt,102,102
+materials/models/jason278/GTA IV/bm_amb_holdall.vtf,87616,87616
+materials/models/jason278/GTA IV/bm_drill.vmt,77,77
+materials/models/jason278/GTA IV/bm_drill.vtf,43912,43912
+materials/models/jason278/GTA IV/bm_drinks_ecolacan.vmt,106,106
+materials/models/jason278/GTA IV/bm_drinks_ecolacan.vtf,22080,22080
+materials/models/jason278/GTA IV/bm_e2_phone_hand.vmt,104,104
+materials/models/jason278/GTA IV/bm_e2_phone_hand.vtf,174944,174944
+materials/models/jason278/GTA IV/cj_ak12.vmt,76,76
+materials/models/jason278/GTA IV/cj_ak12.vtf,174984,174984
+materials/models/jason278/GTA IV/cj_ak2.vmt,75,75
+materials/models/jason278/GTA IV/cj_ak2.vtf,174984,174984
+materials/models/jason278/GTA IV/cj_env.vmt,94,94
+materials/models/jason278/GTA IV/cj_env.vtf,22080,22080
+materials/models/jason278/GTA IV/phone_screencj_747_fus_1b_s_low.vmt,119,119
+materials/models/jason278/GTA IV/phone_screencj_747_fus_1b_s_low.vtf,22080,22080
+models/dimidrol/equipment/engine_szp_001.dx80.vtx,19146,19146
+models/dimidrol/equipment/engine_szp_001.dx90.vtx,19146,19146
+models/dimidrol/equipment/engine_szp_001.mdl,1404,1404
+models/dimidrol/equipment/engine_szp_001.phy,5280,5280
+models/dimidrol/equipment/engine_szp_001.sw.vtx,19146,19146
+models/dimidrol/equipment/engine_szp_001.vvd,87424,87424
+models/dimidrol/equipment/electro_installation_szp_001.mdl,1404,1404
+models/dimidrol/equipment/electro_installation_szp_001.phy,2433,2433
+models/dimidrol/equipment/electro_installation_szp_001.sw.vtx,5967,5967
+models/dimidrol/equipment/electro_installation_szp_001.vvd,26304,26304
+models/dimidrol/equipment/electro_installation_szp_001.dx80.vtx,5967,5967
+models/dimidrol/equipment/electro_installation_szp_001.dx90.vtx,5967,5967
+models/dimidrol/flora/palm_cod4_01.dx80.vtx,10530,10530
+models/dimidrol/flora/palm_cod4_01.dx90.vtx,10530,10530
+models/dimidrol/flora/palm_cod4_01.mdl,1400,1400
+models/dimidrol/flora/palm_cod4_01.phy,4960,4960
+models/dimidrol/flora/palm_cod4_01.sw.vtx,10530,10530
+models/dimidrol/flora/palm_cod4_01.vvd,47744,47744
+models/dimidrol/flora/palm_cod4_01.xbox.vtx,10530,10530
+models/dimidrol/buildings/counter_cod4_01.dx80.vtx,5139,5139
+models/dimidrol/buildings/counter_cod4_01.dx90.vtx,5139,5139
+models/dimidrol/buildings/counter_cod4_01.mdl,1404,1404
+models/dimidrol/buildings/counter_cod4_01.phy,5592,5592
+models/dimidrol/buildings/counter_cod4_01.sw.vtx,5139,5139
+models/dimidrol/buildings/counter_cod4_01.vvd,25536,25536
+models/dimidrol/buildings/counter_cod4_01.xbox.vtx,5139,5139
+models/dimidrol/transport/avto_cod4_01.dx80.vtx,242265,242265
+models/dimidrol/transport/avto_cod4_01.dx90.vtx,242265,242265
+models/dimidrol/transport/avto_cod4_01.mdl,1596,1596
+models/dimidrol/transport/avto_cod4_01.phy,14242,14242
+models/dimidrol/transport/avto_cod4_01.sw.vtx,242265,242265
+models/dimidrol/transport/avto_cod4_01.vvd,1032192,1032192
+models/dimidrol/transport/avto_cod4_01.xbox.vtx,242265,242265
+models/props_DNK/Items/pen01.dx80.vtx,1473,1473
+models/props_DNK/Items/pen01.dx90.vtx,1473,1473
+models/props_DNK/Items/pen01.mdl,1792,1792
+models/props_DNK/Items/pen01.phy,836,836
+models/props_DNK/Items/pen01.sw.vtx,1465,1465
+models/props_DNK/Items/pen01.vvd,5952,5952
+models/sh2/sh2_011.dx80.vtx,837,837
+models/sh2/sh2_011.dx90.vtx,837,837
+models/sh2/sh2_011.mdl,1496,1496
+models/sh2/sh2_011.phy,885,885
+models/sh2/sh2_011.sw.vtx,829,829
+models/sh2/sh2_011.vvd,3648,3648
+models/GTA IV/ak47_reload.mdl,1652,1652
+models/GTA IV/AK47_reload.phy,1900,1900
+models/GTA IV/AK47_reload.sw.vtx,37790,37790
+models/GTA IV/ak47_reload.vvd,171584,171584
+models/GTA IV/AK47_reload.xbox.vtx,37806,37806
+models/GTA IV/AK47_reload.dx80.vtx,37806,37806
+models/GTA IV/AK47_reload.dx90.vtx,37806,37806
+models/GTA IV/ak47_clip.mdl,1464,1464
+models/GTA IV/AK47_clip.phy,1128,1128
+models/GTA IV/AK47_clip.sw.vtx,1462,1462
+models/GTA IV/ak47_clip.vvd,5248,5248
+models/GTA IV/AK47_clip.xbox.vtx,1470,1470
+models/GTA IV/AK47_clip.dx80.vtx,1470,1470
+models/GTA IV/AK47_clip.dx90.vtx,1470,1470
+models/GTA IV/Can_2.xbox.vtx,1011,1011
+models/GTA IV/Can_2.dx80.vtx,1011,1011
+models/GTA IV/Can_2.dx90.vtx,1011,1011
+models/GTA IV/can_2.mdl,1480,1480
+models/GTA IV/Can_2.phy,1464,1464
+models/GTA IV/Can_2.sw.vtx,1003,1003
+models/GTA IV/can_2.vvd,3520,3520
+models/GTA IV/Duffle_Bag.xbox.vtx,9300,9300
+models/GTA IV/Duffle_Bag.dx80.vtx,9300,9300
+models/GTA IV/Duffle_Bag.dx90.vtx,9300,9300
+models/GTA IV/duffle_bag.mdl,1472,1472
+models/GTA IV/Duffle_Bag.phy,11066,11066
+models/GTA IV/Duffle_Bag.sw.vtx,9292,9292
+models/GTA IV/duffle_bag.vvd,34048,34048
+models/GTA IV/Hammer.sw.vtx,4366,4366
+models/GTA IV/hammer.vvd,17792,17792
+models/GTA IV/Hammer.xbox.vtx,4374,4374
+models/GTA IV/Hammer.dx80.vtx,4374,4374
+models/GTA IV/Hammer.dx90.vtx,4374,4374
+models/GTA IV/hammer.mdl,1472,1472
+models/GTA IV/Hammer.phy,1514,1514
+models/GTA IV/Drill.sw.vtx,9316,9316
+models/GTA IV/drill.vvd,33792,33792
+models/GTA IV/Drill.xbox.vtx,9324,9324
+models/GTA IV/Drill.dx80.vtx,9324,9324
+models/GTA IV/Drill.dx90.vtx,9324,9324
+models/GTA IV/drill.mdl,1464,1464
+models/GTA IV/Drill.phy,3338,3338
+models/GTA IV/phone_3.dx80.vtx,7758,7758
+models/GTA IV/phone_3.dx90.vtx,7758,7758
+models/GTA IV/phone_3.mdl,1936,1936
+models/GTA IV/phone_3.phy,1226,1226
+models/GTA IV/phone_3.sw.vtx,7742,7742
+models/GTA IV/phone_3.vvd,41280,41280
+models/GTA IV/phone_3.xbox.vtx,7758,7758
+models/Z-O-M-B-I-E/metro_2033/m_33_car_lada_01.dx80.vtx,100422,100422
+models/Z-O-M-B-I-E/metro_2033/m_33_car_lada_01.dx90.vtx,100422,100422
+models/Z-O-M-B-I-E/metro_2033/m_33_car_lada_01.mdl,1496,1496
+models/Z-O-M-B-I-E/metro_2033/m_33_car_lada_01.phy,15900,15900
+models/Z-O-M-B-I-E/metro_2033/m_33_car_lada_01.sw.vtx,100422,100422
+models/Z-O-M-B-I-E/metro_2033/m_33_car_lada_01.vvd,439296,439296

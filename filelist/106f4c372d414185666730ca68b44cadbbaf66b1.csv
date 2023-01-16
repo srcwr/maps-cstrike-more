@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/gg_yellow-shotty-arena/cubemapdefault.vtf,4960,4960
+materials/maps/gg_yellow-shotty-arena/cubemapdefault.hdr.vtf,76528,76528
+materials/TEXTURES/BLUESUN1.vmt,65,65
+materials/Textures/bluesun1.vtf,699272,699272
+materials/CASTLE TEXTURES/ARENA_DARKBLUE.vmt,78,78
+materials/CASTLE TEXTURES/ARENA_YELLOW.vmt,76,76
+materials/TEXTURES/FUNFUN4.vmt,64,64
+materials/Textures/funfun4.vtf,174984,174984
+materials/TEXTURES/EWMAP.vmt,62,62
+materials/Textures/ewmap.vtf,11144,11144
+materials/skybox/mpa109up.vmt,85,85
+materials/skybox/mpa109up.vtf,699272,699272
+materials/skybox/mpa109dn.vmt,85,85
+materials/skybox/mpa109dn.vtf,699272,699272
+materials/skybox/mpa109ft.vmt,85,85
+materials/skybox/mpa109ft.vtf,699272,699272
+materials/skybox/mpa109bk.vmt,85,85
+materials/skybox/mpa109bk.vtf,699272,699272
+materials/skybox/mpa109lf.vmt,85,85
+materials/skybox/mpa109lf.vtf,699272,699272
+materials/skybox/mpa109rt.vmt,85,85
+materials/skybox/mpa109rt.vtf,699272,699272
+maps/soundcache/gg_yellow-shotty-arena.cache,16,16
+materials/castle textures/arena_darkblue.vtf,43912,43912
+materials/castle textures/arena_yellow.vtf,43912,43912

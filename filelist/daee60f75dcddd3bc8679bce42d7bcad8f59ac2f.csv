@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/mg_mountain_course_gk/perftest/blendrockdirt001a_wvt_patch.vmt,168,168
+materials/maps/mg_mountain_course_gk/nature/blendgrassgravel001a_wvt_patch.vmt,283,283
+materials/maps/mg_mountain_course_gk/nature/blendcliffgrass001a_wvt_patch.vmt,307,307
+materials/maps/mg_mountain_course_gk/nature/rockwall015a_0_0_0.vmt,134,134
+materials/maps/mg_mountain_course_gk/liquids/infernowater_depth_48.vmt,107,107
+materials/maps/mg_mountain_course_gk/liquids/water_pretty1_depth_32.vmt,108,108
+materials/maps/mg_mountain_course_gk/nature/sewer_waterdarkfog_depth_15.vmt,112,112
+materials/maps/mg_mountain_course_gk/liquids/infernowater_depth_16.vmt,107,107
+materials/maps/mg_mountain_course_gk/nature/sewer_water001_depth_144.vmt,109,109
+materials/maps/mg_mountain_course_gk/cubemapdefault.vtf,9832,9832
+materials/maps/mg_mountain_course_gk/c0_0_0.vtf,9832,9832
+materials/maps/mg_mountain_course_gk/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_mountain_course_gk/c0_0_0.hdr.vtf,76528,76528
+sound/admin_plugin/connect_sounds/winning.mp3,1739572,1739572

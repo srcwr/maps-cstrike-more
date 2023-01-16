@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/de_legobomb_a3/glass/glasswindow070a_0_-1680_32.vmt,134,134
+materials/maps/de_legobomb_a3/glass/glasswindow070a_0_-128_160.vmt,134,134
+materials/maps/de_legobomb_a3/glass/glasswindow070a_-480_-2939_192.vmt,138,138
+materials/maps/de_legobomb_a3/models/props_trainstation/trainstation_clock_glass001_-480_-2939_192.vmt,170,170
+materials/maps/de_legobomb_a3/models/props_trainstation/trainstation_clock_glass001_0_-1680_32.vmt,166,166
+materials/maps/de_legobomb_a3/models/props_trainstation/trainstation_clock_glass001_0_-128_160.vmt,166,166
+materials/maps/de_legobomb_a3/glass/glasswindow070a_-16_-1648_288.vmt,137,137
+materials/maps/de_legobomb_a3/models/props_trainstation/trainstation_clock_glass001_-16_-1648_288.vmt,169,169
+materials/maps/de_legobomb_a3/cubemapdefault.vtf,9808,9808
+materials/maps/de_legobomb_a3/c0_-1680_32.vtf,9808,9808
+materials/maps/de_legobomb_a3/c0_-128_160.vtf,9808,9808
+materials/maps/de_legobomb_a3/c-480_-2939_192.vtf,9808,9808
+materials/maps/de_legobomb_a3/c-16_-1648_288.vtf,9808,9808

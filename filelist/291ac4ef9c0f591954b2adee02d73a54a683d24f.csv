@@ -1,0 +1,35 @@
+filename,size,compressed
+materials/maps/awp_folly/water/water_slime01_depth_8.vmt,105,105
+materials/maps/awp_folly/water/water_yellow01_depth_8.vmt,106,106
+materials/maps/awp_folly/water/water_lava01_depth_8.vmt,104,104
+materials/maps/awp_folly/water/water_caribbean01_depth_8.vmt,109,109
+materials/maps/awp_folly/cubemapdefault.vtf,9824,9824
+materials/COLOR/GREY.vmt,61,61
+materials/color/grey.vtf,11144,11144
+materials/WATER/WATER_LAVA01.vmt,1438,1438
+materials/water/water_lava01_dx70.vmt,1636,1636
+materials/water/water_lava01_beneath.vmt,1157,1157
+materials/WATER/WATER_YELLOW01.vmt,1445,1445
+materials/water/water_yellow01_dx70.vmt,1640,1640
+materials/water/water_yellow01_beneath.vmt,1160,1160
+materials/WATER/WATER_SLIME01.vmt,1441,1441
+materials/water/water_slime01_dx70.vmt,1636,1636
+materials/water/water_slime01_beneath.vmt,1158,1158
+materials/COLOR/BLUE VIOLET.vmt,68,68
+materials/COLOR/BLUE.vmt,61,61
+materials/color/blue.vtf,11144,11144
+materials/WATER/WATER_CARIBBEAN01.vmt,1447,1447
+materials/water/water_caribbean01_dx70.vmt,1636,1636
+materials/water/water_caribbean01_beneath.vmt,1156,1156
+materials/COLOR/ORANGE WEB.vmt,67,67
+materials/COLOR/RUSSET.vmt,63,63
+materials/color/russet.vtf,11144,11144
+materials/ICECREAMLOCK/PURPLEGLASS.vmt,119,119
+materials/icecreamlock/purpleglass.vtf,2952,2952
+materials/VALUSFINISH.vmt,83,83
+materials/valusfinish.vtf,174984,174984
+maps/awp_folly.nav,146244,146244
+materials/Color/blue violet.vmt,68,68
+materials/Color/blue violet.vtf,11144,11144
+materials/Color/orange web.vmt,67,67
+materials/Color/orange web.vtf,11144,11144

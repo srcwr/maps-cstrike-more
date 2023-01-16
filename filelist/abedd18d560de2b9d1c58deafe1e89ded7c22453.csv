@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/gg_urbanwarfare/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/gg_urbanwarfare/dev/dev_water2_0_0_0.vmt,146,146
+materials/maps/gg_urbanwarfare/cs_assault/pavement001a_0_0_0.vmt,132,132
+materials/maps/gg_urbanwarfare/buildings/gen17_0_0_0.vmt,124,124
+materials/maps/gg_urbanwarfare/building_template/building_template019c_0_0_0.vmt,148,148
+materials/maps/gg_urbanwarfare/glass/combineglass001a_0_0_0.vmt,131,131
+materials/maps/gg_urbanwarfare/building_template/building_template007b_0_0_0.vmt,148,148
+materials/maps/gg_urbanwarfare/metal/citadel_metalwall090a_0_0_0.vmt,136,136
+materials/maps/gg_urbanwarfare/building_template/building_template012f_0_0_0.vmt,148,148
+materials/maps/gg_urbanwarfare/building_template/building_template012h_0_0_0.vmt,148,148
+materials/maps/gg_urbanwarfare/dev/dev_water2_depth_8.vmt,100,100
+materials/maps/gg_urbanwarfare/cubemapdefault.vtf,28753,28753
+materials/maps/gg_urbanwarfare/c0_0_0.vtf,28753,28753
+materials/maps/gg_urbanwarfare/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_urbanwarfare/c0_0_0.hdr.vtf,76528,76528

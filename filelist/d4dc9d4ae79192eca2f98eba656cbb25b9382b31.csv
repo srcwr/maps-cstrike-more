@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/gg_reckoner/cs_havana/glass2_0_0_-64.vmt,123,123
+materials/maps/gg_reckoner/cs_havana/glass2_0_-768_64.vmt,125,125
+materials/maps/gg_reckoner/cs_havana/glass2_0_768_64.vmt,124,124
+materials/maps/gg_reckoner/cubemapdefault.vtf,9824,9824
+materials/maps/gg_reckoner/c0_0_-64.vtf,4952,4952
+materials/maps/gg_reckoner/c0_-768_64.vtf,4952,4952
+materials/maps/gg_reckoner/c0_768_64.vtf,4952,4952
+materials/maps/gg_reckoner/c0_0_144.vtf,4952,4952
+materials/maps/gg_reckoner/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/gg_reckoner/c0_0_-64.hdr.vtf,76520,76520
+materials/maps/gg_reckoner/c0_-768_64.hdr.vtf,76520,76520
+materials/maps/gg_reckoner/c0_768_64.hdr.vtf,76520,76520
+materials/maps/gg_reckoner/c0_0_144.hdr.vtf,76520,76520
+materials/RYANS DEV SMALL PACK/RYANS_DEV_BLACK.vmt,84,84
+materials/RYANS DEV SMALL PACK/RYANS_DEV_WHITE.vmt,84,84
+materials/NEON/BLUE.vmt,94,94
+materials/neon/blau.vtf,174968,174968
+materials/NEON/RED.vmt,93,93
+materials/neon/red.vtf,174968,174968
+materials/skybox/down-under512_up.vmt,143,143
+materials/skybox/down-under512_up.vtf,131280,131280
+materials/skybox/down-under512_dn.vmt,143,143
+materials/skybox/down-under512_dn.vtf,131280,131280
+materials/skybox/down-under512_ft.vmt,143,143
+materials/skybox/down-under512_ft.vtf,131280,131280
+materials/skybox/down-under512_bk.vmt,143,143
+materials/skybox/down-under512_bk.vtf,131280,131280
+materials/skybox/down-under512_lf.vmt,143,143
+materials/skybox/down-under512_lf.vtf,131280,131280
+materials/skybox/down-under512_rt.vmt,143,143
+materials/skybox/down-under512_rt.vtf,131280,131280
+maps/soundcache/gg_reckoner.cache,16,16
+maps/gg_reckoner.txt,32,32
+materials/Ryans dev small pack/ryans_dev_black.vtf,22080,22080
+materials/Ryans dev small pack/ryans_dev_white.vtf,87588,87588

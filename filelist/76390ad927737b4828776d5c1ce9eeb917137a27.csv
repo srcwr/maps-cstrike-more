@@ -1,0 +1,116 @@
+filename,size,compressed
+materials/maps/ze_greece_escape/liquids/water_pretty1_144_2712_135.vmt,161,161
+materials/maps/ze_greece_escape/liquids/water_pretty1_52_-5794_135.vmt,161,161
+materials/maps/ze_greece_escape/liquids/water_pretty1_144_-8114_135.vmt,162,162
+materials/maps/ze_greece_escape/liquids/water_pretty1_5536_252_135.vmt,161,161
+materials/maps/ze_greece_escape/concrete/concretefloor028a_144_2712_135.vmt,143,143
+materials/maps/ze_greece_escape/concrete/concretefloor028a_5536_252_135.vmt,143,143
+materials/maps/ze_greece_escape/de_piranesi/marblefloor14_144_2712_135.vmt,142,142
+materials/maps/ze_greece_escape/de_piranesi/marblefloor14_5536_252_135.vmt,142,142
+materials/maps/ze_greece_escape/metal/citadel_metalwall076a_144_2712_135.vmt,144,144
+materials/maps/ze_greece_escape/metal/citadel_metalwall076a_52_-5794_135.vmt,144,144
+materials/maps/ze_greece_escape/glass/glasswindowbreak070b_144_2712_135.vmt,114,114
+materials/maps/ze_greece_escape/glass/offwndwb_144_2712_135.vmt,216,216
+materials/maps/ze_greece_escape/glass/glasswindowbreak070b_52_-5794_135.vmt,114,114
+materials/maps/ze_greece_escape/glass/offwndwb_52_-5794_135.vmt,216,216
+materials/maps/ze_greece_escape/metal/citadel_metalwall076a_5536_252_135.vmt,144,144
+materials/maps/ze_greece_escape/metal/citadel_metalwall076a_144_-8114_135.vmt,145,145
+materials/maps/ze_greece_escape/glass/glasswindowbreak070b_144_-8114_135.vmt,114,114
+materials/maps/ze_greece_escape/glass/offwndwb_144_-8114_135.vmt,218,218
+materials/maps/ze_greece_escape/glass/glasswindowbreak070b_5536_252_135.vmt,114,114
+materials/maps/ze_greece_escape/glass/offwndwb_5536_252_135.vmt,216,216
+materials/maps/ze_greece_escape/maps/ze_greece_escape/liquids/water_pretty1_144_-8114_135_depth_208.vmt,145,145
+materials/maps/ze_greece_escape/maps/ze_greece_escape/liquids/water_pretty1_5536_252_135_depth_196.vmt,144,144
+materials/maps/ze_greece_escape/maps/ze_greece_escape/liquids/water_pretty1_144_2712_135_depth_208.vmt,144,144
+materials/maps/ze_greece_escape/cubemapdefault.vtf,9824,9824
+materials/maps/ze_greece_escape/c144_2712_135.vtf,9824,9824
+materials/maps/ze_greece_escape/c52_-5794_135.vtf,9824,9824
+materials/maps/ze_greece_escape/c144_-8114_135.vtf,9824,9824
+materials/maps/ze_greece_escape/c5536_252_135.vtf,9824,9824
+materials/maps/ze_greece_escape/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/ze_greece_escape/c144_2712_135.hdr.vtf,76520,76520
+materials/maps/ze_greece_escape/c52_-5794_135.hdr.vtf,76520,76520
+materials/maps/ze_greece_escape/c144_-8114_135.hdr.vtf,76520,76520
+materials/maps/ze_greece_escape/c5536_252_135.hdr.vtf,76520,76520
+materials/Smokes textures/blue.vmt,101,101
+materials/Smokes textures/blue.vtf,174968,174968
+materials/Smokes textures/jasmina skin.vmt,76,76
+materials/Smokes textures/jasmina skin.vtf,11144,11144
+materials/Smokes textures/orange.vmt,103,103
+materials/Smokes textures/orange.vtf,174968,174968
+materials/Smokes textures/red.vmt,100,100
+materials/Smokes textures/red.vtf,174968,174968
+materials/Smokes textures/Smoke signature.vmt,115,115
+materials/Smokes textures/Smoke signature.vtf,174968,174968
+materials/Smokes textures/team cynish.vmt,108,108
+materials/Smokes textures/team cynish.vtf,349672,349672
+materials/Smokes textures/white.vmt,102,102
+materials/Smokes textures/white.vtf,174968,174968
+materials/Smokes textures/yellow.vmt,103,103
+materials/Smokes textures/yellow.vtf,174968,174968
+models/gm_forest/grass.dx80.vtx,4898,4898
+models/gm_forest/grass.dx90.vtx,4898,4898
+models/gm_forest/grass.mdl,1580,1580
+models/gm_forest/grass.sw.vtx,4898,4898
+models/gm_forest/grass.vvd,16320,16320
+models/gm_forest/grass.xbox.vtx,4898,4898
+models/gm_forest/tree_alder.dx80.vtx,36808,36808
+models/gm_forest/tree_alder.dx90.vtx,36808,36808
+models/gm_forest/tree_alder.mdl,1848,1848
+models/gm_forest/tree_alder.phy,1279,1279
+models/gm_forest/tree_alder.sw.vtx,36808,36808
+models/gm_forest/tree_alder.vvd,170064,170064
+models/gm_forest/tree_alder.xbox.vtx,36808,36808
+models/gm_forest/tree_birch1.dx80.vtx,19462,19462
+models/gm_forest/tree_birch1.dx90.vtx,19462,19462
+models/gm_forest/tree_birch1.mdl,1844,1844
+models/gm_forest/tree_birch1.phy,1085,1085
+models/gm_forest/tree_birch1.sw.vtx,19462,19462
+models/gm_forest/tree_birch1.vvd,54960,54960
+models/gm_forest/tree_birch1.xbox.vtx,19462,19462
+models/gm_forest/Tree_CommonLinden_1.dx80.vtx,29937,29937
+models/gm_forest/Tree_CommonLinden_1.dx90.vtx,29937,29937
+models/gm_forest/tree_commonlinden_1.mdl,1644,1644
+models/gm_forest/Tree_CommonLinden_1.phy,1567,1567
+models/gm_forest/Tree_CommonLinden_1.sw.vtx,29937,29937
+models/gm_forest/tree_commonlinden_1.vvd,95408,95408
+models/gm_forest/Tree_CommonLinden_1.xbox.vtx,29937,29937
+models/gm_forest/tree_oak1.dx80.vtx,71366,71366
+models/gm_forest/tree_oak1.dx90.vtx,71366,71366
+models/gm_forest/tree_oak1.mdl,1640,1640
+models/gm_forest/tree_oak1.phy,1088,1088
+models/gm_forest/tree_oak1.sw.vtx,71366,71366
+models/gm_forest/tree_oak1.vvd,144624,144624
+models/gm_forest/tree_oak1.xbox.vtx,71366,71366
+models/gm_forest/wood_a.dx80.vtx,2141,2141
+models/gm_forest/wood_a.dx90.vtx,2141,2141
+models/gm_forest/wood_a.mdl,1480,1480
+models/gm_forest/wood_a.phy,1423,1423
+models/gm_forest/wood_a.sw.vtx,2141,2141
+models/gm_forest/wood_a.vvd,5248,5248
+models/gm_forest/wood_a.xbox.vtx,2141,2141
+sound/admin_plugin/Riva Starr feat. Noze - I was drunk (Original Mix).wav,6562800,6562800
+materials/gm_forest/3dm_grass_001.vmt,83,83
+materials/gm_forest/3dm_grass_001.vtf,872,872
+materials/gm_forest/3dm_wood_001.vmt,113,113
+materials/gm_forest/3dm_wood_001.vtf,174968,174968
+materials/gm_forest/3dm_wood_001_normal.vtf,1048767,1048767
+materials/gm_forest/brg_alder_brk.vmt,93,93
+materials/gm_forest/brg_alder_brk.vtf,1048688,1048688
+materials/gm_forest/brg_alder_brk2.vmt,94,94
+materials/gm_forest/brg_alder_brk2.vtf,65648,65648
+materials/gm_forest/brg_alder_brn.vmt,128,128
+materials/gm_forest/brg_alder_brn.vtf,262352,262352
+materials/gm_forest/brg_berk_brk.vmt,83,83
+materials/gm_forest/brg_berk_brk.vtf,1048688,1048688
+materials/gm_forest/brg_berk_brk2.vmt,84,84
+materials/gm_forest/brg_berk_brk2.vtf,16528,16528
+materials/gm_forest/brg_berk_brn.vmt,127,127
+materials/gm_forest/brg_berk_brn.vtf,262352,262352
+materials/gm_forest/brg_eik_brn2.vmt,106,106
+materials/gm_forest/brg_eik_brn2.vtf,349760,349760
+materials/gm_forest/linde_tak_1.vmt,110,110
+materials/gm_forest/linde_tak_1.vtf,262352,262352
+materials/gm_forest/lindestam1.vmt,81,81
+materials/gm_forest/lindestam1.vtf,16528,16528
+materials/gm_forest/oak_brk.vmt,106,106

@@ -1,0 +1,105 @@
+filename,size,compressed
+materials/maps/jb_piranesi_beta_02c/de_piranesi/pi_ground_blend_wvt_patch.vmt,120,120
+materials/maps/jb_piranesi_beta_02c/de_piranesi/castle02b_0_0_0.vmt,135,135
+materials/maps/jb_piranesi_beta_02c/de_piranesi/castle02d_0_0_0.vmt,135,135
+materials/maps/jb_piranesi_beta_02c/de_piranesi/castle02_0_0_0.vmt,134,134
+materials/maps/jb_piranesi_beta_02c/de_piranesi/castle01_0_0_0.vmt,134,134
+materials/maps/jb_piranesi_beta_02c/de_piranesi/castle02c_0_0_0.vmt,135,135
+materials/maps/jb_piranesi_beta_02c/de_piranesi/marblefloor01_0_0_0.vmt,139,139
+materials/maps/jb_piranesi_beta_02c/de_piranesi/walltrim01_0_0_0.vmt,136,136
+materials/maps/jb_piranesi_beta_02c/de_piranesi/castle01d_0_0_0.vmt,135,135
+materials/maps/jb_piranesi_beta_02c/de_piranesi/marblefloor06_0_0_0.vmt,139,139
+materials/maps/jb_piranesi_beta_02c/de_piranesi/castle01e_0_0_0.vmt,135,135
+materials/maps/jb_piranesi_beta_02c/nature/mudfloor001a_0_0_0.vmt,172,172
+materials/maps/jb_piranesi_beta_02c/de_piranesi/wooddoor01_0_0_0.vmt,136,136
+materials/maps/jb_piranesi_beta_02c/liquids/water_pretty1_0_0_0.vmt,158,158
+materials/maps/jb_piranesi_beta_02c/de_piranesi/castle02a_0_0_0.vmt,135,135
+materials/maps/jb_piranesi_beta_02c/de_piranesi/stairmarble01_0_0_0.vmt,139,139
+materials/maps/jb_piranesi_beta_02c/jb_piranesi/black_0_0_0.vmt,131,131
+materials/maps/jb_piranesi_beta_02c/de_piranesi/pi_cobbles1_0_0_0.vmt,137,137
+materials/maps/jb_piranesi_beta_02c/liquids/water_pretty1_depth_12.vmt,108,108
+materials/maps/jb_piranesi_beta_02c/liquids/water_pretty1_depth_96.vmt,108,108
+materials/maps/jb_piranesi_beta_02c/liquids/water_pretty1_depth_6.vmt,107,107
+materials/maps/jb_piranesi_beta_02c/liquids/water_pretty1_depth_24.vmt,108,108
+materials/maps/jb_piranesi_beta_02c/cubemapdefault.vtf,28753,28753
+materials/maps/jb_piranesi_beta_02c/c0_0_0.vtf,28753,28753
+materials/maps/jb_piranesi_beta_02c/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jb_piranesi_beta_02c/c0_0_0.hdr.vtf,76528,76528
+materials/jb_piranesi/Black.vmt,235,235
+materials/jb_piranesi/Black.vtf,699272,699272
+materials/WaterSource/Waterfall/waterfallFULL_512_NRM_gray.vmt,430,430
+materials/WaterSource/Waterfall/waterfallFULL_512_NRM_CLEAR.vtf,131280,131280
+materials/jb_piranesi/Red.vmt,233,233
+materials/jb_piranesi/Red.vtf,699272,699272
+materials/jb_piranesi/Blue.vmt,234,234
+materials/jb_piranesi/Blue.vtf,699272,699272
+materials/jb_piranesi/Green.vmt,235,235
+materials/jb_piranesi/Green.vtf,699272,699272
+materials/jb_piranesi/White.vmt,235,235
+materials/jb_piranesi/White.vtf,699272,699272
+materials/jb_piranesi/Yellow.vmt,236,236
+materials/jb_piranesi/Yellow.vtf,699272,699272
+materials/decals/sumball.vmt,110,110
+materials/decals/sumball.vtf,43912,43912
+materials/jb_piranesi/Reset.vmt,84,84
+materials/jb_piranesi/Reset.vtf,87616,87616
+materials/jb_piranesi/Traitor.vmt,86,86
+materials/jb_piranesi/Traitor.vtf,87616,87616
+materials/jb_piranesi/Terrorists.vmt,89,89
+materials/jb_piranesi/Terrorists.vtf,87616,87616
+materials/jb_piranesi/2.vmt,80,80
+materials/jb_piranesi/2.vtf,87616,87616
+materials/jb_piranesi/1.vmt,80,80
+materials/jb_piranesi/1.vtf,87616,87616
+materials/jb_piranesi/Climb.vmt,84,84
+materials/jb_piranesi/Climb.vtf,87616,87616
+materials/jb_piranesi/On.vmt,81,81
+materials/jb_piranesi/On.vtf,87616,87616
+materials/jb_piranesi/Off.vmt,82,82
+materials/jb_piranesi/Off.vtf,87616,87616
+materials/jb_piranesi/Football.vmt,87,87
+materials/jb_piranesi/Football.vtf,87616,87616
+materials/jb_piranesi/3.vmt,80,80
+materials/jb_piranesi/3.vtf,87616,87616
+materials/jb_piranesi/4.vmt,80,80
+materials/jb_piranesi/4.vtf,87616,87616
+materials/jb_piranesi/5.vmt,82,82
+materials/jb_piranesi/5.vtf,87616,87616
+materials/jb_piranesi/6.vmt,80,80
+materials/jb_piranesi/6.vtf,87616,87616
+materials/jb_piranesi/Colours.vmt,86,86
+materials/jb_piranesi/Colours.vtf,87616,87616
+materials/jb_piranesi/Exit.vmt,83,83
+materials/jb_piranesi/Exit.vtf,87616,87616
+materials/jb_piranesi/Open.vmt,83,83
+materials/jb_piranesi/Open.vtf,87616,87616
+materials/jb_piranesi/Close.vmt,84,84
+materials/jb_piranesi/Close.vtf,87616,87616
+materials/jb_piranesi/Cell Doors.vmt,89,89
+materials/jb_piranesi/Cell Doors.vtf,87616,87616
+materials/hell_clan_logos/hell_clan_logo_2014.vmt,102,102
+materials/hell_clan_logos/hell_clan_logo_2014.vtf,349696,349696
+materials/Piranesi_Titles/WazBlaz Map Watermark.vmt,104,104
+materials/Piranesi_Titles/WazBlaz Map Watermark.vtf,87616,87616
+materials/jb_piranesi/Dodgeball.vmt,88,88
+materials/jb_piranesi/Dodgeball.vtf,87616,87616
+materials/jb_piranesi/Deathcrate.vmt,89,89
+materials/jb_piranesi/Deathcrate.vtf,87616,87616
+materials/jb_piranesi/Volleyball.vmt,89,89
+materials/jb_piranesi/Volleyball.vtf,87616,87616
+materials/jb_piranesi/Surf.vmt,83,83
+materials/jb_piranesi/Surf.vtf,87616,87616
+materials/jb_piranesi/Wipeout.vmt,86,86
+materials/jb_piranesi/Wipeout.vtf,87616,87616
+materials/jb_piranesi/Jousting.vmt,87,87
+materials/jb_piranesi/Jousting.vtf,87616,87616
+materials/jb_piranesi/4Chairs.vmt,86,86
+materials/jb_piranesi/4Chairs.vtf,87616,87616
+materials/jb_piranesi/Armoury.vmt,86,86
+materials/jb_piranesi/Armoury.vtf,87616,87616
+sound/jb_piranesi_sound/Different Heaven & EH!DE - My Heart [NCS Release].mp3,2577469,2577469
+sound/jb_piranesi_sound/Disfigure - Blank [NCS Release].mp3,2048729,2048729
+sound/jb_piranesi_sound/PatrickReza - Choices [NCS Release].mp3,1813901,1813901
+sound/jb_piranesi_sound/Xaia & Rain Man & Oly - Breakdown [NCS Release].mp3,2451120,2451120
+sound/jb_piranesi_sound/Cartoon - Howling (ft. Asena)(Andromedik Remix) [NCS Release].mp3,2146111,2146111
+sound/jb_piranesi_sound/Rob Gasser & Laura Brehm - Vertigo (Spitfya Remix) [NCS Release].mp3,2175537,2175537

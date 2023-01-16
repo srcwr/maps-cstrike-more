@@ -1,0 +1,22 @@
+filename,size,compressed
+materials/maps/hoejhus9_ming_pcw/metal/citadel_metalwall078a_0_0_0.vmt,138,138
+materials/maps/hoejhus9_ming_pcw/metal/citadel_tilewall005a_0_0_0.vmt,137,137
+materials/maps/hoejhus9_ming_pcw/liquids/water_chateau_dx70_depth_4.vmt,112,112
+materials/maps/hoejhus9_ming_pcw/liquids/militiawater_dx70_depth_17.vmt,112,112
+materials/maps/hoejhus9_ming_pcw/liquids/militiawater_dx70_depth_32.vmt,112,112
+materials/maps/hoejhus9_ming_pcw/cubemapdefault.vtf,9824,9824
+materials/maps/hoejhus9_ming_pcw/c0_0_0.vtf,9824,9824
+materials/ming.vmt,139,139
+materials/ming.vtf,349760,349760
+materials/Color/navy blue.vmt,66,66
+materials/Color/navy blue.vtf,11144,11144
+materials/MY TEXTURES/MING.vmt,64,64
+models/extras/mbang/info_speech.mdl,1820,1820
+models/extras/mbang/info_speech.dx80.vtx,7827,7827
+models/extras/mbang/info_speech.dx90.vtx,7827,7827
+models/extras/mbang/info_speech.sw.vtx,7819,7819
+models/extras/mbang/info_speech.phy,3480,3480
+models/extras/mbang/info_speech.vvd,28096,28096
+materials/models/extras/mbang/speech_info.vmt,197,197
+materials/Models/extras/mbang/speech_info.vtf,43912,43912
+maps/soundcache/hoejhus9_ming_pcw.cache,16,16

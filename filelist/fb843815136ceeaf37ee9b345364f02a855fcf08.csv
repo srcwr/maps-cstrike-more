@@ -1,0 +1,83 @@
+filename,size,compressed
+materials/CS_ITALY/BLACK.vmt,62,62
+materials/cs_italy/black.vtf,1584,1584
+materials/CUSTOM/BETAPSYK.vmt,63,63
+materials/custom/betapsyk.vtf,87544,87544
+materials/CUSTOM/FLAGHESSEN.vmt,65,65
+materials/custom/flaghessen.vtf,2796384,2796384
+materials/CUSTOM/FUNU1_BETA_01.vmt,68,68
+materials/custom/funu1_beta_01.vtf,2796424,2796424
+materials/CUSTOM/FUNU1_BETA_02.vmt,68,68
+materials/custom/funu1_beta_02.vtf,2796424,2796424
+materials/CUSTOM/FUNU1_BETA_03.vmt,68,68
+materials/custom/funu1_beta_03.vtf,2796424,2796424
+materials/CUSTOM/FUNU1_BETA_04.vmt,68,68
+materials/custom/funu1_beta_04.vtf,2796424,2796424
+materials/CUSTOM/FUNU2_BETA_01.vmt,68,68
+materials/custom/funu2_beta_01.vtf,1398264,1398264
+materials/CUSTOM/FUNU2_BETA_02.vmt,68,68
+materials/custom/funu2_beta_02.vtf,1398264,1398264
+materials/CUSTOM/FUNU2_BETA_03.vmt,68,68
+materials/custom/funu2_beta_03.vtf,1398264,1398264
+materials/CUSTOM/FUNU2_BETA_04.vmt,68,68
+materials/custom/funu2_beta_04.vtf,1398264,1398264
+materials/CUSTOM/KZPSYK.vmt,61,61
+materials/custom/kzpsyk.vtf,699232,699232
+materials/CUSTOM/MAP1_BETA_01.vmt,67,67
+materials/custom/map1_beta_01.vtf,1398264,1398264
+materials/CUSTOM/MAP1_BETA_02.vmt,67,67
+materials/custom/map1_beta_02.vtf,1398264,1398264
+materials/CUSTOM/MAP1_BETA_03.vmt,67,67
+materials/custom/map1_beta_03.vtf,1398264,1398264
+materials/CUSTOM/MAP1_BETA_04.vmt,67,67
+materials/custom/map1_beta_04.vtf,1398264,1398264
+materials/CUSTOM/MAP2_BETA_01.vmt,67,67
+materials/custom/map2_beta_01.vtf,1398264,1398264
+materials/CUSTOM/MAP2_BETA_02.vmt,67,67
+materials/custom/map2_beta_02.vtf,1398264,1398264
+materials/CUSTOM/MAP2_BETA_03.vmt,67,67
+materials/custom/map2_beta_03.vtf,1398264,1398264
+materials/CUSTOM/MAP2_BETA_04.vmt,67,67
+materials/custom/map2_beta_04.vtf,1398264,1398264
+materials/CUSTOM/MAP3_BETA_01.vmt,67,67
+materials/custom/map3_beta_01.vtf,1398264,1398264
+materials/CUSTOM/MAP3_BETA_02.vmt,67,67
+materials/custom/map3_beta_02.vtf,1398264,1398264
+materials/CUSTOM/MAP3_BETA_03.vmt,67,67
+materials/custom/map3_beta_03.vtf,1398264,1398264
+materials/CUSTOM/MAP3_BETA_04.vmt,67,67
+materials/custom/map3_beta_04.vtf,1398264,1398264
+materials/CUSTOM/MAP4_BETA_01.vmt,67,67
+materials/custom/map4_beta_01.vtf,1398264,1398264
+materials/CUSTOM/MAP4_BETA_02.vmt,67,67
+materials/custom/map4_beta_02.vtf,1398264,1398264
+materials/CUSTOM/MAP4_BETA_03.vmt,67,67
+materials/custom/map4_beta_03.vtf,1398264,1398264
+materials/CUSTOM/MAP4_BETA_04.vmt,67,67
+materials/custom/map4_beta_04.vtf,1398264,1398264
+materials/CUSTOM/PKZTAG.vmt,61,61
+materials/custom/pkztag.vtf,2796424,2796424
+materials/DECALS/ARROW.vmt,167,167
+materials/Decals/arrow.vtf,87616,87616
+materials/maps/kz_psyk/c0_0_0.hdr.vtf,76528,76528
+materials/maps/kz_psyk/c0_0_0.vtf,9832,9832
+materials/maps/kz_psyk/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/kz_psyk/cubemapdefault.vtf,9832,9832
+materials/maps/kz_psyk/nature/blenddirtgrass008b_lowfriction_wvt_patch.vmt,393,393
+materials/maps/kz_psyk/nature/blendprodconcgrass_wvt_patch.vmt,92,92
+materials/maps/kz_psyk/nature/water_canals_water_murky_0_0_0.vmt,155,155
+materials/maps/kz_psyk/nature/water_canals_water_murky_depth_16.vmt,118,118
+materials/silkroad/egypt/wall (105).vmt,92,92
+materials/Silkroad/Egypt/wall (105).vtf,174944,174944
+materials/silkroad/egypt/wall (106).vmt,92,92
+materials/Silkroad/Egypt/wall (106).vtf,174944,174944
+materials/silkroad/egypt/wall (108).vmt,92,92
+materials/Silkroad/Egypt/wall (108).vtf,174944,174944
+materials/silkroad/egypt/wall (109).vmt,92,92
+materials/Silkroad/Egypt/wall (109).vtf,174944,174944
+materials/silkroad/egypt/wall (28).vmt,91,91
+materials/Silkroad/Egypt/wall (28).vtf,349760,349760
+materials/SILKROAD/GROUND/ARABIA_BAGH_GRASS_03.vmt,109,109
+materials/Silkroad/Ground/arabia_bagh_grass_03.vtf,349760,349760
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/Tools/toolstrigger.vtf,5680,5680

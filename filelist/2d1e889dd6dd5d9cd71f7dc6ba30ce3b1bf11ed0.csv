@@ -1,0 +1,1563 @@
+filename,size,compressed
+materials/maps/zm_duke3d_l1_v1/concrete/concretefloor033o_0_0_0.vmt,135,135
+materials/maps/zm_duke3d_l1_v1/metal/metalwall031a_0_0_0.vmt,128,128
+materials/maps/zm_duke3d_l1_v1/wood/offdesktop_0_0_0.vmt,124,124
+materials/maps/zm_duke3d_l1_v1/concrete/concretefloor028d_0_0_0.vmt,135,135
+materials/maps/zm_duke3d_l1_v1/cubemapdefault.vtf,4960,4960
+materials/maps/zm_duke3d_l1_v1/c0_0_0.vtf,4960,4960
+materials/maps/zm_duke3d_l1_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_duke3d_l1_v1/c0_0_0.hdr.vtf,76528,76528
+sp_0.vhv,5120,5120
+sp_1.vhv,5120,5120
+sp_2.vhv,5120,5120
+sp_3.vhv,5120,5120
+sp_4.vhv,5120,5120
+sp_5.vhv,5120,5120
+sp_6.vhv,5120,5120
+sp_7.vhv,5120,5120
+sp_8.vhv,2048,2048
+sp_9.vhv,2048,2048
+sp_10.vhv,2048,2048
+sp_11.vhv,1024,1024
+sp_12.vhv,92672,92672
+sp_13.vhv,2048,2048
+sp_14.vhv,2048,2048
+sp_15.vhv,2048,2048
+sp_16.vhv,2048,2048
+sp_17.vhv,2048,2048
+sp_18.vhv,2048,2048
+sp_19.vhv,2048,2048
+sp_20.vhv,2048,2048
+sp_21.vhv,2048,2048
+sp_22.vhv,2048,2048
+sp_23.vhv,2048,2048
+sp_24.vhv,2048,2048
+sp_25.vhv,2048,2048
+sp_26.vhv,2048,2048
+sp_27.vhv,2048,2048
+sp_28.vhv,2048,2048
+sp_29.vhv,2048,2048
+sp_30.vhv,2048,2048
+sp_31.vhv,2048,2048
+sp_32.vhv,2048,2048
+sp_33.vhv,2048,2048
+sp_34.vhv,2048,2048
+sp_35.vhv,2048,2048
+sp_36.vhv,2048,2048
+sp_37.vhv,2048,2048
+sp_38.vhv,2048,2048
+sp_43.vhv,2048,2048
+sp_44.vhv,2048,2048
+sp_45.vhv,2048,2048
+sp_47.vhv,2048,2048
+sp_48.vhv,2048,2048
+sp_49.vhv,2048,2048
+sp_50.vhv,2048,2048
+sp_51.vhv,2048,2048
+sp_52.vhv,2048,2048
+sp_53.vhv,2048,2048
+sp_54.vhv,2048,2048
+sp_55.vhv,2048,2048
+sp_56.vhv,2048,2048
+sp_57.vhv,2048,2048
+sp_58.vhv,2048,2048
+sp_59.vhv,2048,2048
+sp_60.vhv,2048,2048
+sp_61.vhv,2048,2048
+sp_63.vhv,2048,2048
+sp_64.vhv,4608,4608
+sp_65.vhv,6656,6656
+sp_66.vhv,2048,2048
+sp_67.vhv,2048,2048
+sp_68.vhv,1024,1024
+sp_69.vhv,2048,2048
+sp_70.vhv,2048,2048
+sp_71.vhv,2048,2048
+sp_72.vhv,2048,2048
+sp_73.vhv,2048,2048
+sp_74.vhv,2048,2048
+sp_75.vhv,2048,2048
+sp_76.vhv,2048,2048
+sp_77.vhv,2048,2048
+sp_78.vhv,2048,2048
+sp_79.vhv,2048,2048
+sp_80.vhv,2048,2048
+sp_81.vhv,2048,2048
+sp_82.vhv,5632,5632
+sp_83.vhv,5632,5632
+sp_84.vhv,5632,5632
+sp_85.vhv,5632,5632
+sp_86.vhv,5632,5632
+sp_87.vhv,5632,5632
+sp_88.vhv,5632,5632
+sp_89.vhv,5632,5632
+sp_90.vhv,5632,5632
+sp_91.vhv,4608,4608
+sp_92.vhv,22528,22528
+sp_93.vhv,2560,2560
+sp_94.vhv,2560,2560
+sp_95.vhv,2048,2048
+sp_96.vhv,4608,4608
+sp_97.vhv,5632,5632
+sp_98.vhv,5632,5632
+sp_99.vhv,5632,5632
+sp_100.vhv,5632,5632
+sp_101.vhv,4608,4608
+sp_102.vhv,4608,4608
+sp_103.vhv,4608,4608
+sp_104.vhv,4608,4608
+sp_105.vhv,4608,4608
+sp_106.vhv,4608,4608
+sp_107.vhv,10240,10240
+sp_108.vhv,10240,10240
+sp_109.vhv,10240,10240
+sp_110.vhv,2048,2048
+sp_111.vhv,2048,2048
+sp_112.vhv,2048,2048
+sp_114.vhv,28672,28672
+sp_115.vhv,4096,4096
+sp_116.vhv,4096,4096
+sp_117.vhv,4096,4096
+sp_118.vhv,4096,4096
+sp_119.vhv,4096,4096
+sp_120.vhv,4096,4096
+sp_121.vhv,4096,4096
+sp_122.vhv,4096,4096
+sp_123.vhv,4096,4096
+sp_124.vhv,6656,6656
+sp_125.vhv,6656,6656
+sp_126.vhv,6656,6656
+sp_127.vhv,6656,6656
+sp_128.vhv,7168,7168
+sp_129.vhv,7168,7168
+sp_130.vhv,36352,36352
+sp_131.vhv,34816,34816
+sp_132.vhv,25600,25600
+sp_133.vhv,1024,1024
+sp_134.vhv,4608,4608
+sp_135.vhv,4608,4608
+sp_136.vhv,4608,4608
+sp_137.vhv,11264,11264
+sp_138.vhv,11264,11264
+sp_139.vhv,15872,15872
+sp_140.vhv,7168,7168
+sp_141.vhv,7168,7168
+sp_142.vhv,3584,3584
+sp_143.vhv,4096,4096
+sp_144.vhv,11264,11264
+sp_145.vhv,7168,7168
+sp_146.vhv,11776,11776
+sp_147.vhv,11776,11776
+sp_148.vhv,11264,11264
+sp_149.vhv,10240,10240
+sp_150.vhv,5120,5120
+sp_151.vhv,7168,7168
+sp_152.vhv,4096,4096
+sp_153.vhv,2048,2048
+sp_154.vhv,5632,5632
+sp_155.vhv,4096,4096
+sp_156.vhv,2560,2560
+sp_157.vhv,2560,2560
+sp_158.vhv,9216,9216
+sp_159.vhv,2560,2560
+sp_160.vhv,2560,2560
+sp_161.vhv,2560,2560
+sp_162.vhv,2048,2048
+sp_163.vhv,2048,2048
+sp_164.vhv,2560,2560
+sp_165.vhv,2560,2560
+sp_167.vhv,2560,2560
+sp_168.vhv,2560,2560
+sp_169.vhv,2560,2560
+sp_170.vhv,2560,2560
+sp_171.vhv,2560,2560
+sp_172.vhv,2560,2560
+sp_173.vhv,7168,7168
+materials/zm_duke3d/plasterwall_stripe.vmt,104,104
+materials/zm_duke3d/plasterwall_stripe.vtf,87544,87544
+materials/zm_duke3d/concrete_bricks.vmt,107,107
+materials/zm_duke3d/concrete_bricks.vtf,43912,43912
+materials/zm_duke3d/theatre_doors_wood_fulldouble.vmt,117,117
+materials/zm_duke3d/theatre_doors_wood_fulldouble.vtf,699272,699272
+materials/zm_duke3d/concrete_bricks_tile.vmt,78,78
+materials/zm_duke3d/concrete_bricks_tile.vtf,174984,174984
+materials/zm_duke3d/duke3d_poster.vmt,71,71
+materials/zm_duke3d/duke3d_poster.vtf,699272,699272
+materials/zm_duke3d/duke_endbutton_1.vmt,74,74
+materials/zm_duke3d/duke_endbutton_1.vtf,87544,87544
+materials/zm_duke3d/sisteract3_poster.vmt,75,75
+materials/zm_duke3d/sisteract3_poster.vtf,174984,174984
+materials/zm_duke3d/moviestripper_anim.vmt,297,297
+materials/zm_duke3d/moviestripper_anim.vtf,1485944,1485944
+materials/zm_duke3d/curtain.vmt,65,65
+materials/zm_duke3d/curtain.vtf,2796424,2796424
+materials/DE_TRAIN/TRAIN_METALCEILING_02.vmt,108,108
+materials/DE_TRAIN/train_metalceiling_02.vtf,174968,174968
+materials/zm_duke3d/tvstripper_anim.vmt,291,291
+materials/zm_duke3d/tvstripper_anim.vtf,262432,262432
+materials/zm_duke3d/creditsduke1.vmt,70,70
+materials/zm_duke3d/creditsduke1.vtf,699272,699272
+materials/zm_duke3d/collumn_brick.vmt,105,105
+materials/zm_duke3d/collumn_brick.vtf,349688,349688
+materials/zm_duke3d/donotcross_yellow.vmt,75,75
+materials/zm_duke3d/donotcross_yellow.vtf,904,904
+materials/zm_duke3d/donotcross.vmt,68,68
+materials/zm_duke3d/donotcross.vtf,174904,174904
+materials/zm_duke3d/moviesign_front.vmt,73,73
+materials/zm_duke3d/moviesign_front.vtf,174984,174984
+materials/zm_duke3d/moviesign_fill.vmt,72,72
+materials/zm_duke3d/moviesign_fill.vtf,11128,11128
+materials/zm_duke3d/bleached_blonde_bikers_poster.vmt,112,112
+materials/zm_duke3d/bleached_blonde_bikers_poster.vtf,174984,174984
+materials/zm_duke3d/innocent_sign.vmt,90,90
+materials/zm_duke3d/innocent_sign.vtf,174944,174944
+materials/zm_duke3d/cinema_sign.vmt,113,113
+materials/zm_duke3d/cinema_sign.vtf,87552,87552
+materials/zm_duke3d/duke2_poster.vmt,70,70
+materials/zm_duke3d/duke2_poster.vtf,349688,349688
+materials/zm_duke3d/alienreactor.vmt,89,89
+materials/zm_duke3d/alienreactor.vtf,87616,87616
+materials/zm_duke3d/originaltheme.vmt,90,90
+materials/zm_duke3d/originaltheme.vtf,87616,87616
+materials/zm_duke3d/megadeththeme.vmt,90,90
+materials/zm_duke3d/megadeththeme.vtf,87616,87616
+materials/zm_duke3d/dukeforevertheme.vmt,93,93
+materials/zm_duke3d/dukeforevertheme.vtf,87616,87616
+materials/zm_duke3d/arcade_sign.vmt,69,69
+materials/zm_duke3d/arcade_sign.vtf,349688,349688
+materials/zm_duke3d/playmag_red.vmt,101,101
+materials/zm_duke3d/playmag_red.vtf,87616,87616
+materials/zm_duke3d/sexy_poster.vmt,88,88
+materials/zm_duke3d/sexy_poster.vtf,174944,174944
+materials/zm_duke3d/sexy_poster_2.vmt,71,71
+materials/zm_duke3d/sexy_poster_2.vtf,174984,174984
+materials/zm_duke3d/duke_graffiti_4.vmt,92,92
+materials/zm_duke3d/duke_graffiti_4.vtf,349760,349760
+materials/zm_duke3d/duke_graffiti_2.vmt,92,92
+materials/zm_duke3d/duke_graffiti_2.vtf,174944,174944
+materials/zm_duke3d/duke_graffiti_3.vmt,92,92
+materials/zm_duke3d/duke_graffiti_3.vtf,174944,174944
+materials/skybox/sky_oar_night_01_up.vmt,78,78
+materials/skybox/sky_oar_night_01_up.vtf,524496,524496
+materials/skybox/sky_oar_night_01_dn.vmt,78,78
+materials/skybox/sky_oar_night_01_dn.vtf,96,96
+materials/skybox/sky_oar_night_01_lf.vmt,78,78
+materials/skybox/sky_oar_night_01_lf.vtf,524496,524496
+materials/skybox/sky_oar_night_01_rt.vmt,78,78
+materials/skybox/sky_oar_night_01_rt.vtf,524496,524496
+materials/skybox/sky_oar_night_01_ft.vmt,78,78
+materials/skybox/sky_oar_night_01_ft.vtf,524496,524496
+materials/skybox/sky_oar_night_01_bk.vmt,78,78
+materials/skybox/sky_oar_night_01_bk.vtf,524496,524496
+materials/detail/detailsprites.vmt,155,155
+materials/detail/detailsprites.vtf,1398336,1398336
+models/Duke Nukem Forever/steroids_pill.mdl,1488,1488
+models/Duke Nukem Forever/steroids_pill.vvd,3712,3712
+models/Duke Nukem Forever/Steroids_pill.dx90.vtx,1014,1014
+models/Duke Nukem Forever/Steroids_pill.dx80.vtx,1014,1014
+models/Duke Nukem Forever/Steroids_pill.sw.vtx,1006,1006
+models/Duke Nukem Forever/Steroids_pill.phy,602,602
+materials/models/Jason278/Duke Nukem Forever/SteroidBottle1tw_d2.vmt,342,342
+materials/models/Jason278/Duke Nukem Forever/SteroidBottle1tw_d2.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/SteroidBottle1tw_Normal2.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/SteroidBottle1tw_e3.vtf,87616,87616
+models/steroids.mdl,1588,1588
+models/steroids.vvd,4800,4800
+models/steroids.dx90.vtx,1143,1143
+models/steroids.dx80.vtx,1143,1143
+models/steroids.sw.vtx,1135,1135
+models/steroids.phy,1319,1319
+materials/0055_steroids.vmt,216,216
+materials/0055_steroids.vtf,43912,43912
+materials/hoteliteactionxxx_clickhere.vtf,22052,22052
+materials/0023_rpg.vmt,211,211
+materials/0023_rpg.vtf,43912,43912
+models/dukerpg.mdl,1512,1512
+models/dukerpg.vvd,33792,33792
+models/dukerpg.dx90.vtx,7404,7404
+models/dukerpg.dx80.vtx,7404,7404
+models/dukerpg.sw.vtx,7396,7396
+models/dukerpg.phy,2995,2995
+models/Duke Nukem Forever/arcade_pinball_scientits.mdl,19500,19500
+models/Duke Nukem Forever/arcade_pinball_scientits.vvd,155392,155392
+models/Duke Nukem Forever/Arcade_Pinball_Scientits.dx90.vtx,36121,36121
+models/Duke Nukem Forever/Arcade_Pinball_Scientits.dx80.vtx,36121,36121
+models/Duke Nukem Forever/Arcade_Pinball_Scientits.sw.vtx,35681,35681
+models/Duke Nukem Forever/Arcade_Pinball_Scientits.phy,1806,1806
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballtable_d.vmt,294,294
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballtable_d.vtf,699232,699232
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinballtable_E.vtf,699232,699232
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballtabletop_d.vmt,406,406
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballtabletop_d.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballtabletop_nm.vtf,699232,699232
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballtabletop_e.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrn_d.vmt,204,204
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrn_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pbbumper_d.vmt,365,365
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pbbumper_d.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pbbumper_nm.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pbbumper_E.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Panties.vmt,397,397
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Panties.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Panties_E.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circlex6.vmt,432,432
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circlex6.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circle_n.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circle_e.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circlex4.vmt,432,432
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circlex4.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circlex2.vmt,432,432
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circlex2.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Arrow.vmt,427,427
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Arrow.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Arrow_n.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Arrow_e.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/inertia.vmt,314,314
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/inertia.vtf,22016,22016
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/inertia_e.vtf,22016,22016
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circle.vmt,429,429
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Light_Circle.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_MISC.vmt,111,111
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_MISC.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/E=MC2.vmt,309,309
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/E=MC2.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/E=MC2_E.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Energy.vmt,264,264
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Energy.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Energy_e.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballtarget_d.vmt,198,198
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballtarget_d.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballtarget_n.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinball_d.vmt,186,186
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinball_d.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinball_n.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Inside_d.vmt,115,115
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/Pinball_Inside_d.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballplunger_d.vmt,200,200
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballplunger_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballplunger_n.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/flipper_d.vmt,186,186
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/flipper_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/flipper_n.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballhitbox_d.vmt,198,198
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballhitbox_d.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/pinballhitbox_n.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnBalls1_d.vmt,212,212
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnBalls1_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnBalls2_d.vmt,210,210
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnBalls2_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnBalls3_d.vmt,210,210
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnBalls3_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnHigh_d.vmt,208,208
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnHigh_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnTilt_d.vmt,208,208
+materials/models/Jason278/Duke Nukem Forever/Pinball Scientits/PinballScoreScrnTilt_d.vtf,11104,11104
+models/Duke Nukem Forever/arcade_gamemachine.mdl,2860,2860
+models/Duke Nukem Forever/arcade_gamemachine.vvd,27200,27200
+models/Duke Nukem Forever/Arcade_GameMachine.dx90.vtx,6324,6324
+models/Duke Nukem Forever/Arcade_GameMachine.dx80.vtx,6324,6324
+models/Duke Nukem Forever/Arcade_GameMachine.sw.vtx,6308,6308
+models/Duke Nukem Forever/Arcade_GameMachine.phy,1227,1227
+materials/models/Jason278/Duke Nukem Forever/arcade_d.vmt,148,148
+materials/models/Jason278/Duke Nukem Forever/arcade_d.vtf,1398336,1398336
+materials/models/Jason278/Duke Nukem Forever/arcade_n.vtf,1398336,1398336
+materials/models/Jason278/Duke Nukem Forever/Screen_Start.vmt,93,93
+materials/models/Jason278/Duke Nukem Forever/Screen_Start.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Screen_instructions.vmt,100,100
+materials/models/Jason278/Duke Nukem Forever/Screen_instructions.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Screen_instructions_2.vmt,102,102
+materials/models/Jason278/Duke Nukem Forever/Screen_instructions_2.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Screen_Stage_1.vmt,95,95
+materials/models/Jason278/Duke Nukem Forever/Screen_Stage_1.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Screen_Stage_2.vmt,95,95
+materials/models/Jason278/Duke Nukem Forever/Screen_Stage_2.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Screen_Stage_3.vmt,95,95
+materials/models/Jason278/Duke Nukem Forever/Screen_Stage_3.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Screen_game.vmt,92,92
+materials/models/Jason278/Duke Nukem Forever/Screen_game.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Screen_game_boss.vmt,97,97
+materials/models/Jason278/Duke Nukem Forever/Screen_game_boss.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/screen_gameover.vmt,96,96
+materials/models/Jason278/Duke Nukem Forever/screen_gameover.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Screen_Win.vmt,91,91
+materials/models/Jason278/Duke Nukem Forever/Screen_Win.vtf,174944,174944
+models/Duke Nukem Forever/arcade_airhockey.mdl,1680,1680
+models/Duke Nukem Forever/arcade_airhockey.vvd,120704,120704
+models/Duke Nukem Forever/Arcade_Airhockey.dx90.vtx,24375,24375
+models/Duke Nukem Forever/Arcade_Airhockey.dx80.vtx,24375,24375
+models/Duke Nukem Forever/Arcade_Airhockey.sw.vtx,24359,24359
+models/Duke Nukem Forever/Arcade_Airhockey.phy,5166,5166
+materials/models/Jason278/Duke Nukem Forever/Air_Hockey_Table_diff.vmt,335,335
+materials/models/Jason278/Duke Nukem Forever/Air_Hockey_Table_diff.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/Air_Hockey_Table_norm.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/Hockey_Table_e.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Airhockey_0.vmt,92,92
+materials/models/Jason278/Duke Nukem Forever/Airhockey_0.vtf,2912,2912
+models/Duke Nukem Forever/paddle.mdl,1488,1488
+models/Duke Nukem Forever/paddle.vvd,8384,8384
+models/Duke Nukem Forever/Paddle.dx90.vtx,2463,2463
+models/Duke Nukem Forever/Paddle.dx80.vtx,2463,2463
+models/Duke Nukem Forever/Paddle.sw.vtx,2455,2455
+models/Duke Nukem Forever/Paddle.phy,2188,2188
+materials/models/Jason278/Duke Nukem Forever/Air_Hockey_Paddle_diff.vmt,176,176
+materials/models/Jason278/Duke Nukem Forever/Air_Hockey_Paddle_diff.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Air_Hockey_Paddle_norm.vtf,5696,5696
+models/Duke Nukem Forever/arcade_pinball.mdl,21640,21640
+models/Duke Nukem Forever/arcade_pinball.vvd,202048,202048
+models/Duke Nukem Forever/Arcade_Pinball.dx90.vtx,45948,45948
+models/Duke Nukem Forever/Arcade_Pinball.dx80.vtx,45948,45948
+models/Duke Nukem Forever/Arcade_Pinball.sw.vtx,45468,45468
+models/Duke Nukem Forever/Arcade_Pinball.phy,1806,1806
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballtable_d.vmt,348,348
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballtable_d.vtf,699232,699232
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballTable_nm.vtf,699232,699232
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballTable_e.vtf,699232,699232
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballtabletop_d.vmt,183,183
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballtabletop_d.vtf,2796384,2796384
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballtabletop_nm.vtf,699232,699232
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrn_d.vmt,184,184
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrn_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballhitbox_d.vmt,178,178
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballhitbox_d.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballhitbox_n.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/flipper_d.vmt,166,166
+materials/models/Jason278/Duke Nukem Forever/Pinball/flipper_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/flipper_n.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Nuke.vmt,394,394
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Nuke.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Nuke_n.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Nuke_e.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circlex6.vmt,402,402
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circlex6.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circle_n.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circle_e.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circlex4.vmt,402,402
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circlex4.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circlex2.vmt,402,402
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circlex2.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circle.vmt,399,399
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Circle.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Arrow.vmt,397,397
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Arrow.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Arrow_n.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Arrow_e.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Jetpack.vmt,405,405
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Jetpack.vtf,22016,22016
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Jetpack_n.vtf,22016,22016
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Jetpack_e.vtf,22016,22016
+materials/models/Jason278/Duke Nukem Forever/Pinball/pbbumper_d.vmt,335,335
+materials/models/Jason278/Duke Nukem Forever/Pinball/pbbumper_d.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball/pbbumper_nm.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball/pbbumper_e.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_MISC.vmt,101,101
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_MISC.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Jackpot.vmt,401,401
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Jackpot.vtf,43872,43872
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Jackpot_n.vtf,43872,43872
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_Jackpot_e.vtf,43872,43872
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_RedKey.vmt,366,366
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_RedKey.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_RedKey_e.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_BlueKey.vmt,369,369
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_BlueKey.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_RedKey_n.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Light_BlueKey_e.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballtarget_d.vmt,178,178
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballtarget_d.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballtarget_n.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinball_d.vmt,166,166
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinball_d.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinball_n.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballgate_d.vmt,174,174
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballgate_d.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballgate_n.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballgateplate_d.vmt,184,184
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballgateplate_d.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballgateplate_n.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Inside_d.vmt,181,181
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Inside_d.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball/Pinball_Inside_nm.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballplunger_d.vmt,180,180
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballplunger_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/pinballplunger_n.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnBalls1_d.vmt,192,192
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnBalls1_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnBalls2_d.vmt,190,190
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnBalls2_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnBalls3_d.vmt,190,190
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnBalls3_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnHigh_d.vmt,188,188
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnHigh_d.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnTilt_d.vmt,188,188
+materials/models/Jason278/Duke Nukem Forever/Pinball/PinballScoreScrnTilt_d.vtf,11104,11104
+models/Duke Nukem Forever/arcade_gamemachine_pimpslap.mdl,1924,1924
+models/Duke Nukem Forever/arcade_gamemachine_pimpslap.vvd,27200,27200
+models/Duke Nukem Forever/Arcade_Gamemachine_Pimpslap.dx90.vtx,6324,6324
+models/Duke Nukem Forever/Arcade_Gamemachine_Pimpslap.dx80.vtx,6324,6324
+models/Duke Nukem Forever/Arcade_Gamemachine_Pimpslap.sw.vtx,6308,6308
+models/Duke Nukem Forever/Arcade_Gamemachine_Pimpslap.phy,1275,1275
+materials/models/Jason278/Duke Nukem Forever/Screen.vmt,87,87
+materials/models/Jason278/Duke Nukem Forever/Screen.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/Pimpslap_Arcade.vmt,155,155
+materials/models/Jason278/Duke Nukem Forever/Pimpslap_Arcade.vtf,1398336,1398336
+models/Duke Nukem Forever/arcade_basketball.mdl,3580,3580
+models/Duke Nukem Forever/arcade_basketball.vvd,97536,97536
+models/Duke Nukem Forever/Arcade_Basketball.dx90.vtx,19815,19815
+models/Duke Nukem Forever/Arcade_Basketball.dx80.vtx,19815,19815
+models/Duke Nukem Forever/Arcade_Basketball.sw.vtx,19759,19759
+models/Duke Nukem Forever/Arcade_Basketball.phy,1902,1902
+materials/models/Jason278/Duke Nukem Forever/arcadehoops_d.vmt,158,158
+materials/models/Jason278/Duke Nukem Forever/arcadehoops_d.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/arcadehoops_n.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/BBallhoop1tw_d.vmt,162,162
+materials/models/Jason278/Duke Nukem Forever/BBallhoop1tw_d.vtf,1600,1600
+materials/models/Jason278/Duke Nukem Forever/BBallhoop1tw_Normal.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/Basketball_Arcade_Net.vmt,150,150
+materials/models/Jason278/Duke Nukem Forever/Basketball_Arcade_Net.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/bballnet1tw_d.vmt,222,222
+materials/models/Jason278/Duke Nukem Forever/bballnet1tw_d.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/bballnet1tw_normal.vtf,22080,22080
+models/Duke Nukem Forever/basketball.mdl,1480,1480
+models/Duke Nukem Forever/basketball.vvd,23232,23232
+models/Duke Nukem Forever/Basketball.dx90.vtx,7719,7719
+models/Duke Nukem Forever/Basketball.dx80.vtx,7719,7719
+models/Duke Nukem Forever/Basketball.sw.vtx,7711,7711
+models/Duke Nukem Forever/Basketball.phy,16341,16341
+materials/models/Jason278/Duke Nukem Forever/basketball1tw_d.vmt,168,168
+materials/models/Jason278/Duke Nukem Forever/basketball1tw_d.vtf,43872,43872
+materials/models/Jason278/Duke Nukem Forever/BasketBall1tw_Normala.vtf,43872,43872
+models/Duke Nukem Forever/basketball_deflate.mdl,1484,1484
+models/Duke Nukem Forever/basketball_deflate.vvd,26240,26240
+models/Duke Nukem Forever/Basketball_Deflate.dx90.vtx,8142,8142
+models/Duke Nukem Forever/Basketball_Deflate.dx80.vtx,8142,8142
+models/Duke Nukem Forever/Basketball_Deflate.sw.vtx,8134,8134
+models/Duke Nukem Forever/Basketball_Deflate.phy,11781,11781
+models/Duke Nukem Forever/cigs_vending.mdl,14484,14484
+models/Duke Nukem Forever/cigs_vending.vvd,56128,56128
+models/Duke Nukem Forever/Cigs_Vending.dx90.vtx,11954,11954
+models/Duke Nukem Forever/Cigs_Vending.dx80.vtx,11981,11981
+models/Duke Nukem Forever/Cigs_Vending.sw.vtx,11562,11562
+models/Duke Nukem Forever/Cigs_Vending.phy,1274,1274
+materials/models/Jason278/Duke Nukem Forever/CigBox.vmt,146,146
+materials/models/Jason278/Duke Nukem Forever/CigBox.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/CigBox_n.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/CigBox_04.vmt,149,149
+materials/models/Jason278/Duke Nukem Forever/CigBox_04.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/CigBox_02.vmt,146,146
+materials/models/Jason278/Duke Nukem Forever/CigBox_02.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/CigBox_03.vmt,149,149
+materials/models/Jason278/Duke Nukem Forever/CigBox_03.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/CigVend.vmt,148,148
+materials/models/Jason278/Duke Nukem Forever/CigVend.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/CigVend_n.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/CigVendKnob.vmt,308,308
+materials/models/Jason278/Duke Nukem Forever/CigVendKnob.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/CigVendKnob_n.vtf,5696,5696
+models/Duke Nukem Forever/condom_machine.mdl,2756,2756
+models/Duke Nukem Forever/condom_machine.vvd,26176,26176
+models/Duke Nukem Forever/Condom_Machine.dx90.vtx,6131,6131
+models/Duke Nukem Forever/Condom_Machine.dx80.vtx,6131,6131
+models/Duke Nukem Forever/Condom_Machine.sw.vtx,6099,6099
+models/Duke Nukem Forever/Condom_Machine.phy,1660,1660
+materials/models/Jason278/Duke Nukem Forever/CondomMachine_diff.vmt,174,174
+materials/models/Jason278/Duke Nukem Forever/CondomMachine_diff.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/CondomTamponMachine_norm.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/CondomMachineSigns_diff.vmt,104,104
+materials/models/Jason278/Duke Nukem Forever/CondomMachineSigns_diff.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/CondomTamponMachineKnob_diff.vmt,188,188
+materials/models/Jason278/Duke Nukem Forever/CondomTamponMachineKnob_diff.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/CondomTamponMachineKnob_norm.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/TamponMachineSigns_diff.vmt,104,104
+materials/models/Jason278/Duke Nukem Forever/TamponMachineSigns_diff.vtf,22080,22080
+models/Duke Nukem Forever/duke_cutout.mdl,1476,1476
+models/Duke Nukem Forever/duke_cutout.vvd,31424,31424
+models/Duke Nukem Forever/Duke_Cutout.dx90.vtx,6435,6435
+models/Duke Nukem Forever/Duke_Cutout.dx80.vtx,6435,6435
+models/Duke Nukem Forever/Duke_Cutout.sw.vtx,6427,6427
+models/Duke Nukem Forever/Duke_Cutout.phy,1615,1615
+materials/models/Jason278/Duke Nukem Forever/DukeCutout.vmt,154,154
+materials/models/Jason278/Duke Nukem Forever/DukeCutout.vtf,699232,699232
+materials/models/Jason278/Duke Nukem Forever/DukeCutout_n.vtf,699232,699232
+models/Duke Nukem Forever/puck.mdl,1488,1488
+models/Duke Nukem Forever/puck.vvd,6464,6464
+models/Duke Nukem Forever/Puck.dx90.vtx,1617,1617
+models/Duke Nukem Forever/Puck.dx80.vtx,1617,1617
+models/Duke Nukem Forever/Puck.sw.vtx,1609,1609
+models/Duke Nukem Forever/Puck.phy,843,843
+materials/models/Jason278/Duke Nukem Forever/Air_Hockey_Puck_diff.vmt,172,172
+materials/models/Jason278/Duke Nukem Forever/Air_Hockey_Puck_diff.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/Air_Hockey_Puck_norm.vtf,5696,5696
+models/Duke Nukem Forever/soda_fountain.mdl,3240,3240
+models/Duke Nukem Forever/soda_fountain.vvd,41280,41280
+models/Duke Nukem Forever/Soda_Fountain.dx90.vtx,9690,9690
+models/Duke Nukem Forever/Soda_Fountain.dx80.vtx,9690,9690
+models/Duke Nukem Forever/Soda_Fountain.sw.vtx,9610,9610
+models/Duke Nukem Forever/Soda_Fountain.phy,987,987
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Ice.vmt,156,156
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Ice.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Ice_n.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Pep.vmt,175,175
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Pep.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Water_n.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_PepDiet.vmt,177,177
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_PepDiet.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Duf.vmt,173,173
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Duf.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Water.vmt,160,160
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Water.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Esprit.vmt,176,176
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Esprit.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Spaz.vmt,159,159
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Spaz.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_DrnkSign.vmt,97,97
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_DrnkSign.vtf,43872,43872
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Body.vmt,158,158
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Body.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Body_n.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Grill.vmt,293,293
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Grill.vtf,11104,11104
+materials/models/Jason278/Duke Nukem Forever/SodaFtn_Grill_n.vtf,11104,11104
+models/Duke Nukem Forever/tampon_used.mdl,1484,1484
+models/Duke Nukem Forever/tampon_used.vvd,5120,5120
+models/Duke Nukem Forever/Tampon_Used.dx90.vtx,1332,1332
+models/Duke Nukem Forever/Tampon_Used.dx80.vtx,1332,1332
+models/Duke Nukem Forever/Tampon_Used.sw.vtx,1324,1324
+models/Duke Nukem Forever/Tampon_Used.phy,697,697
+materials/models/Jason278/Duke Nukem Forever/tampon_D.vmt,148,148
+materials/models/Jason278/Duke Nukem Forever/tampon_D.vtf,22080,22080
+materials/models/Jason278/Duke Nukem Forever/tampon_N.vtf,22080,22080
+models/Duke Nukem Forever/toy_duke_package.mdl,1892,1892
+models/Duke Nukem Forever/toy_duke_package.vvd,85888,85888
+models/Duke Nukem Forever/Toy_Duke_Package.dx90.vtx,21120,21120
+models/Duke Nukem Forever/Toy_Duke_Package.dx80.vtx,21120,21120
+models/Duke Nukem Forever/Toy_Duke_Package.sw.vtx,21096,21096
+models/Duke Nukem Forever/Toy_Duke_Package.phy,794,794
+materials/models/Jason278/Duke Nukem Forever/Toys/PlasticToys_Characters_d.vmt,190,190
+materials/models/Jason278/Duke Nukem Forever/Toys/PlasticToys_Characters_d.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/Toys/PlasticToys_Characters_n.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/Toys/ToysCover_d.vmt,322,322
+materials/models/Jason278/Duke Nukem Forever/Toys/ToysCover_d.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Toys/ToysCover_n.vtf,174944,174944
+materials/models/Jason278/Duke Nukem Forever/Toys/Vibr8cover_HV_DIf.vmt,359,359
+materials/models/Jason278/Duke Nukem Forever/Toys/Vibr8cover_HV_DIf.vtf,22080,22080
+models/Duke Nukem Forever/urnial.mdl,2260,2260
+models/Duke Nukem Forever/urnial.vvd,100480,100480
+models/Duke Nukem Forever/Urnial.dx90.vtx,26423,26423
+models/Duke Nukem Forever/Urnial.dx80.vtx,26423,26423
+models/Duke Nukem Forever/Urnial.sw.vtx,26399,26399
+models/Duke Nukem Forever/Urnial.phy,4588,4588
+materials/models/Jason278/Duke Nukem Forever/Toilets_Clean_D.vmt,156,156
+materials/models/Jason278/Duke Nukem Forever/Toilets_Clean_D.vtf,1398336,1398336
+materials/models/Jason278/Duke Nukem Forever/Toilets_N.vtf,1398336,1398336
+materials/models/Jason278/Duke Nukem Forever/Toilets_D.vmt,150,150
+materials/models/Jason278/Duke Nukem Forever/Toilets_D.vtf,1398336,1398336
+models/Duke Nukem Forever/shit.mdl,1480,1480
+models/Duke Nukem Forever/shit.vvd,5120,5120
+models/Duke Nukem Forever/Shit.dx90.vtx,1500,1500
+models/Duke Nukem Forever/Shit.dx80.vtx,1500,1500
+models/Duke Nukem Forever/Shit.sw.vtx,1492,1492
+models/Duke Nukem Forever/Shit.phy,1706,1706
+materials/models/Jason278/Duke Nukem Forever/Shit.vmt,167,167
+materials/models/Jason278/Duke Nukem Forever/Shit.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/Turd1tw_Normal.vtf,87616,87616
+models/Duke Nukem Forever/handdryer.mdl,1676,1676
+models/Duke Nukem Forever/handdryer.vvd,17408,17408
+models/Duke Nukem Forever/Handdryer.dx90.vtx,4689,4689
+models/Duke Nukem Forever/Handdryer.dx80.vtx,4689,4689
+models/Duke Nukem Forever/Handdryer.sw.vtx,4673,4673
+models/Duke Nukem Forever/Handdryer.phy,2522,2522
+materials/models/Jason278/Duke Nukem Forever/HandDryer1_diff.vmt,96,96
+materials/models/Jason278/Duke Nukem Forever/HandDryer1_diff.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/HandDryer2_diff.vmt,96,96
+materials/models/Jason278/Duke Nukem Forever/HandDryer2_diff.vtf,22080,22080
+models/Duke Nukem Forever/turntables.mdl,1476,1476
+models/Duke Nukem Forever/turntables.vvd,83008,83008
+models/Duke Nukem Forever/Turntables.dx90.vtx,18897,18897
+models/Duke Nukem Forever/Turntables.dx80.vtx,18897,18897
+models/Duke Nukem Forever/Turntables.sw.vtx,18889,18889
+models/Duke Nukem Forever/Turntables.phy,1650,1650
+materials/models/Jason278/Duke Nukem Forever/turntable_d.vmt,314,314
+materials/models/Jason278/Duke Nukem Forever/turntable_d.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/turntable_n.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/turntable_e.vtf,87616,87616
+models/Duke Nukem Forever/cd_player.mdl,1476,1476
+models/Duke Nukem Forever/cd_player.vvd,22912,22912
+models/Duke Nukem Forever/CD_Player.dx90.vtx,5178,5178
+models/Duke Nukem Forever/CD_Player.dx80.vtx,5178,5178
+models/Duke Nukem Forever/CD_Player.sw.vtx,5170,5170
+models/Duke Nukem Forever/CD_Player.phy,1986,1986
+materials/models/Jason278/Duke Nukem Forever/cdplayer_d.vmt,309,309
+materials/models/Jason278/Duke Nukem Forever/cdplayer_d.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/cdplayer_n.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/cdplayer_e.vtf,87616,87616
+models/Duke Nukem Forever/dart_board.mdl,1484,1484
+models/Duke Nukem Forever/dart_board.vvd,6784,6784
+models/Duke Nukem Forever/Dart_Board.dx90.vtx,1686,1686
+models/Duke Nukem Forever/Dart_Board.dx80.vtx,1686,1686
+models/Duke Nukem Forever/Dart_Board.sw.vtx,1678,1678
+models/Duke Nukem Forever/Dart_Board.phy,2235,2235
+materials/models/Jason278/Duke Nukem Forever/Dartboard.vmt,152,152
+materials/models/Jason278/Duke Nukem Forever/Dartboard.vtf,1398336,1398336
+materials/models/Jason278/Duke Nukem Forever/Dartboard_N.vtf,1398336,1398336
+models/Duke Nukem Forever/dart.mdl,1484,1484
+models/Duke Nukem Forever/dart.vvd,8256,8256
+models/Duke Nukem Forever/Dart.dx90.vtx,2061,2061
+models/Duke Nukem Forever/Dart.dx80.vtx,2061,2061
+models/Duke Nukem Forever/Dart.sw.vtx,2053,2053
+models/Duke Nukem Forever/Dart.phy,793,793
+models/Duke Nukem Forever/porn_mag_2.mdl,1816,1816
+models/Duke Nukem Forever/porn_mag_2.vvd,4800,4800
+models/Duke Nukem Forever/Porn_mag_2.dx90.vtx,1047,1047
+models/Duke Nukem Forever/Porn_mag_2.dx80.vtx,1047,1047
+models/Duke Nukem Forever/Porn_mag_2.sw.vtx,1039,1039
+models/Duke Nukem Forever/Porn_mag_2.phy,602,602
+materials/models/Jason278/Duke Nukem Forever/PornMag.vmt,148,148
+materials/models/Jason278/Duke Nukem Forever/PornMag.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/PornMag_n.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/PornMag2.vmt,149,149
+materials/models/Jason278/Duke Nukem Forever/PornMag2.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/PornMag3.vmt,149,149
+materials/models/Jason278/Duke Nukem Forever/PornMag3.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/PornMagD.vmt,149,149
+materials/models/Jason278/Duke Nukem Forever/PornMagD.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/PornMagE.vmt,149,149
+materials/models/Jason278/Duke Nukem Forever/PornMagE.vtf,349760,349760
+models/Duke Nukem Forever/duke_book.mdl,2184,2184
+models/Duke Nukem Forever/duke_book.vvd,31808,31808
+models/Duke Nukem Forever/Duke_Book.dx90.vtx,7754,7754
+models/Duke Nukem Forever/Duke_Book.dx80.vtx,7754,7754
+models/Duke Nukem Forever/Duke_Book.sw.vtx,7730,7730
+models/Duke Nukem Forever/Duke_Book.phy,698,698
+materials/models/Jason278/Duke Nukem Forever/SignBook1tw_d.vmt,163,163
+materials/models/Jason278/Duke Nukem Forever/SignBook1tw_d.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/SignBook1tw_Normal.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/SignBook2tw_d.vmt,163,163
+materials/models/Jason278/Duke Nukem Forever/SignBook2tw_d.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/SignBook2tw_Normal.vtf,349760,349760
+models/Duke Nukem Forever/porn_mag_1.mdl,1824,1824
+models/Duke Nukem Forever/porn_mag_1.vvd,2880,2880
+models/Duke Nukem Forever/Porn_mag_1.dx90.vtx,777,777
+models/Duke Nukem Forever/Porn_mag_1.dx80.vtx,777,777
+models/Duke Nukem Forever/Porn_mag_1.sw.vtx,769,769
+models/Duke Nukem Forever/Porn_mag_1.phy,947,947
+models/Duke Nukem Forever/poster_1.mdl,1484,1484
+models/Duke Nukem Forever/poster_1.vvd,3648,3648
+models/Duke Nukem Forever/Poster_1.dx90.vtx,813,813
+models/Duke Nukem Forever/Poster_1.dx80.vtx,813,813
+models/Duke Nukem Forever/Poster_1.sw.vtx,805,805
+models/Duke Nukem Forever/Poster_1.phy,700,700
+materials/models/Jason278/Duke Nukem Forever/Posters_Duke3d_d.vmt,164,164
+materials/models/Jason278/Duke Nukem Forever/Posters_Duke3d_d.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/Posters_Duke3d_n.vtf,349760,349760
+models/Duke Nukem Forever/painting_1.mdl,1684,1684
+models/Duke Nukem Forever/painting_1.vvd,3392,3392
+models/Duke Nukem Forever/Painting_1.dx90.vtx,834,834
+models/Duke Nukem Forever/Painting_1.dx80.vtx,834,834
+models/Duke Nukem Forever/Painting_1.sw.vtx,818,818
+models/Duke Nukem Forever/Painting_1.phy,701,701
+materials/models/Jason278/Duke Nukem Forever/GothicBlueBoyDuke_d.vmt,170,170
+materials/models/Jason278/Duke Nukem Forever/GothicBlueBoyDuke_d.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/GothicBlueBoyDuke_n.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/PaintingFrame_diff.vmt,168,168
+materials/models/Jason278/Duke Nukem Forever/PaintingFrame_diff.vtf,5696,5696
+materials/models/Jason278/Duke Nukem Forever/PaintingFrame_norm.vtf,5696,5696
+models/Duke Nukem Forever/painting_4.mdl,1680,1680
+models/Duke Nukem Forever/painting_4.vvd,3392,3392
+models/Duke Nukem Forever/Painting_4.dx90.vtx,834,834
+models/Duke Nukem Forever/Painting_4.dx80.vtx,834,834
+models/Duke Nukem Forever/Painting_4.sw.vtx,818,818
+models/Duke Nukem Forever/Painting_4.phy,701,701
+materials/models/Jason278/Duke Nukem Forever/MonalisaDuke_d.vmt,160,160
+materials/models/Jason278/Duke Nukem Forever/MonalisaDuke_d.vtf,349760,349760
+materials/models/Jason278/Duke Nukem Forever/MonalisaDuke_n.vtf,349760,349760
+sound/zm_duke3d/lookingood.mp3,53288,53288
+sound/zm_duke3d/playwithmyself.mp3,68335,68335
+models/Duke Nukem Forever/food_tray.mdl,1480,1480
+models/Duke Nukem Forever/food_tray.vvd,15552,15552
+models/Duke Nukem Forever/Food_Tray.dx90.vtx,3759,3759
+models/Duke Nukem Forever/Food_Tray.dx80.vtx,3759,3759
+models/Duke Nukem Forever/Food_Tray.sw.vtx,3751,3751
+models/Duke Nukem Forever/Food_Tray.phy,1413,1413
+materials/models/Jason278/Duke Nukem Forever/FoodTray_diff.vmt,158,158
+materials/models/Jason278/Duke Nukem Forever/FoodTray_diff.vtf,87616,87616
+materials/models/Jason278/Duke Nukem Forever/FoodTray_norm.vtf,87616,87616
+models/duke.mdl,1908,1908
+models/duke.vvd,186432,186432
+models/Duke.dx90.vtx,44655,44655
+models/Duke.dx80.vtx,44655,44655
+models/Duke.sw.vtx,44631,44631
+models/Duke.phy,4345,4345
+materials/0057_jetpack.vmt,215,215
+materials/0057_jetpack.vtf,43912,43912
+materials/1405_duke.vmt,58,58
+materials/1405_duke.vtf,174984,174984
+models/trooper_green.mdl,1548,1548
+models/trooper_green.vvd,91200,91200
+models/Trooper_green.dx90.vtx,24297,24297
+models/Trooper_green.dx80.vtx,24297,24297
+models/Trooper_green.sw.vtx,24297,24297
+models/Trooper_green.phy,17322,17322
+materials/1680_trooper_green.vmt,67,67
+materials/1680_trooper_green.vtf,174984,174984
+materials/1680_trooper_blue.vmt,66,66
+materials/1680_trooper_blue.vtf,174984,174984
+models/props_urban/dumpster001.mdl,1720,1720
+models/props_urban/dumpster001.vvd,265024,265024
+models/props_urban/dumpster001.dx90.vtx,60969,60969
+models/props_urban/dumpster001.phy,4316,4316
+materials/models/props_urban/dumpster001.vmt,75,75
+materials/models/props_urban/dumpster001.vtf,175008,175008
+models/props_highway/plywood_02.mdl,1664,1664
+models/props_highway/plywood_02.vvd,10560,10560
+models/props_highway/plywood_02.dx90.vtx,2385,2385
+models/props_highway/plywood_02.phy,707,707
+materials/models/props_highway/plywood_ext_01.vmt,101,101
+materials/wood/plywood_ext_01.vtf,175008,175008
+sound/zm_duke3d/Duke Nukem 3D Soundtrack Remixed - Alien Reactor (Acid Banging remix).mp3,4830386,4830386
+sound/zm_duke3d/Duke Nukem 3D Theme Song (HD).mp3,2040634,2040634
+sound/zm_duke3d/Duke Nukem Forever- Official Soundtrack -Theme Song.mp3,3412668,3412668
+sound/zm_duke3d/Megadeth - Duke Nukem Theme.mp3,3748575,3748575
+materials/zm_duke3d/duke_graffiti_1.vmt,92,92
+materials/zm_duke3d/duke_graffiti_1.vtf,87616,87616
+materials/wood/offdesktop.vmt,184,184
+materials/wood/offdesktop.vtf,87528,87528
+materials/wood/offdesktop_ref.vtf,21992,21992
+materials/metal/prodventa.vmt,186,186
+materials/metal/prodventa.vtf,87528,87528
+materials/metal/prodventa_normal.vtf,174928,174928
+materials/de_prodigy/metal02.vmt,116,116
+materials/de_prodigy/metal02.vtf,174968,174968
+materials/DE_TRAIN/train_metalceiling_01.vmt,108,108
+materials/DE_TRAIN/train_metalceiling_01.vtf,174968,174968
+materials/plaster/plasterwall037b.vmt,123,123
+materials/plaster/plasterwall037b.vtf,174968,174968
+materials/de_cbble/trim01.vmt,115,115
+materials/de_cbble/trim01.vtf,21992,21992
+materials/cs_havana/glassfluorescentlighton01.vmt,161,161
+materials/models/props_c17/glassfluorescentlighton01.vtf,5616,5616
+materials/tile/prodceilingtilea.vmt,101,101
+materials/tile/prodceilingtilea.vtf,174968,174968
+materials/de_dust/tilefloor01.vmt,162,162
+materials/de_dust/tilefloor01.vtf,174968,174968
+materials/de_dust/tilefloor01_normal.vtf,1048767,1048767
+materials/de_chateau/interiortile03.vmt,254,254
+materials/de_chateau/interiortile03.vtf,174968,174968
+materials/de_chateau/interiortile03_normal.vtf,1398292,1398292
+materials/de_prodigy/concrete01.vmt,122,122
+materials/de_prodigy/concrete01.vtf,174968,174968
+materials/plaster/milwall003.vmt,164,164
+materials/plaster/milwall003.vtf,174968,174968
+materials/de_prodigy/concrete02.vmt,122,122
+materials/de_prodigy/concrete02.vtf,174968,174968
+materials/concrete/concretewall011h.vmt,174,174
+materials/concrete/concretewall011h.vtf,174968,174968
+materials/detail/detailconcrete001a.vtf,174968,174968
+materials/concrete/concretewall002a.vmt,126,126
+materials/concrete/concretewall002a.vtf,174968,174968
+materials/wood/infwoodfloor007a.vmt,131,131
+materials/concrete/offflra.vmt,92,92
+materials/concrete/offflra.vtf,174968,174968
+materials/cs_italy/pcon2trim.vmt,135,135
+materials/cs_italy/pcon2trim.vtf,5608,5608
+materials/cs_italy/pcon2trim_normal.vtf,32877,32877
+materials/cs_havana/woodm.vmt,111,111
+materials/cs_havana/woodm.vtf,174968,174968
+materials/metal/prodventb.vmt,111,111
+materials/metal/prodventb.vtf,87600,87600
+materials/glass/unbreakable.vmt,177,177
+materials/glass/unbreakable.vtf,87600,87600
+materials/glass/unbreakable_ref.vtf,2936,2936
+materials/de_chateau/wall04pnl.vmt,211,211
+materials/de_chateau/wall04pnl.vtf,174968,174968
+materials/de_chateau/wall04pnl_spec.vtf,174968,174968
+materials/de_nuke/nuke_metalvent.vmt,116,116
+materials/de_nuke/nuke_metalvent.vtf,87600,87600
+materials/test_speakers/miwoodm.vmt,117,117
+materials/test_speakers/miwoodm.vtf,43896,43896
+materials/de_piranesi/pi_wood1.vmt,122,122
+materials/de_piranesi/pi_wood1.vtf,21992,21992
+materials/detail/dt_wood1.vtf,22064,22064
+materials/de_cbble/cratebig01c.vmt,116,116
+materials/de_cbble/cratebig01c.vtf,174968,174968
+materials/de_cbble/cratebig01a.vmt,116,116
+materials/de_cbble/cratebig01a.vtf,174968,174968
+materials/metal/ibeama.vmt,90,90
+materials/metal/ibeama.vtf,43816,43816
+materials/de_nuke/nukwindowc.vmt,158,158
+materials/de_nuke/nukwindowc.vtf,174968,174968
+materials/de_nuke/nukwindowc_ref.vtf,43896,43896
+sound/ambient/tones/projector.wav,76828,76828
+models/props/cs_office/projector.mdl,1548,1548
+models/props/cs_office/projector.vvd,29120,29120
+models/props/cs_office/projector.dx90.vtx,6627,6627
+models/props/cs_office/projector.dx80.vtx,6627,6627
+models/props/cs_office/projector.sw.vtx,6627,6627
+models/props/cs_office/projector.phy,1457,1457
+models/props/cs_office/projector_p1.mdl,1744,1744
+models/props/cs_office/projector_p1.vvd,19904,19904
+models/props/cs_office/projector_p1.dx90.vtx,4716,4716
+models/props/cs_office/projector_p1.dx80.vtx,4716,4716
+models/props/cs_office/projector_p1.sw.vtx,4716,4716
+models/props/cs_office/projector_p1.phy,824,824
+models/props/cs_office/projector_p1a.mdl,1744,1744
+models/props/cs_office/projector_p1a.vvd,17216,17216
+models/props/cs_office/projector_p1a.dx90.vtx,4134,4134
+models/props/cs_office/projector_p1a.dx80.vtx,4134,4134
+models/props/cs_office/projector_p1a.sw.vtx,4134,4134
+models/props/cs_office/projector_p1a.phy,903,903
+models/props/cs_office/projector_gib1.mdl,1484,1484
+models/props/cs_office/projector_gib1.vvd,3136,3136
+models/props/cs_office/projector_gib1.dx90.vtx,741,741
+models/props/cs_office/projector_gib1.dx80.vtx,741,741
+models/props/cs_office/projector_gib1.sw.vtx,741,741
+models/props/cs_office/projector_gib1.phy,692,692
+materials/models/props/cs_office/projector_p.vmt,163,163
+materials/models/props/cs_office/projector_p.vtf,43896,43896
+materials/models/props/cs_office/projector_p_ref.vtf,2936,2936
+models/props/cs_office/projector_gib2.mdl,1484,1484
+models/props/cs_office/projector_gib2.vvd,3904,3904
+models/props/cs_office/projector_gib2.dx90.vtx,849,849
+models/props/cs_office/projector_gib2.dx80.vtx,849,849
+models/props/cs_office/projector_gib2.sw.vtx,849,849
+models/props/cs_office/projector_gib2.phy,692,692
+models/props/cs_office/projector_gib3.mdl,1484,1484
+models/props/cs_office/projector_gib3.vvd,1984,1984
+models/props/cs_office/projector_gib3.dx90.vtx,507,507
+models/props/cs_office/projector_gib3.dx80.vtx,507,507
+models/props/cs_office/projector_gib3.sw.vtx,507,507
+models/props/cs_office/projector_gib3.phy,692,692
+materials/models/props/cs_office/circuit_boards.vmt,83,83
+materials/models/props/cs_office/circuit_boards.vtf,43896,43896
+models/props/cs_office/projector_p1b.mdl,1552,1552
+models/props/cs_office/projector_p1b.vvd,10688,10688
+models/props/cs_office/projector_p1b.dx90.vtx,2451,2451
+models/props/cs_office/projector_p1b.dx80.vtx,2451,2451
+models/props/cs_office/projector_p1b.sw.vtx,2451,2451
+models/props/cs_office/projector_p1b.phy,903,903
+models/props/cs_office/projector_p2.mdl,1744,1744
+models/props/cs_office/projector_p2.vvd,13824,13824
+models/props/cs_office/projector_p2.dx90.vtx,3237,3237
+models/props/cs_office/projector_p2.dx80.vtx,3237,3237
+models/props/cs_office/projector_p2.sw.vtx,3237,3237
+models/props/cs_office/projector_p2.phy,824,824
+models/props/cs_office/projector_p2a.mdl,1744,1744
+models/props/cs_office/projector_p2a.vvd,13504,13504
+models/props/cs_office/projector_p2a.dx90.vtx,3036,3036
+models/props/cs_office/projector_p2a.dx80.vtx,3036,3036
+models/props/cs_office/projector_p2a.sw.vtx,3036,3036
+models/props/cs_office/projector_p2a.phy,903,903
+models/props/cs_office/projector_p2b.mdl,1744,1744
+models/props/cs_office/projector_p2b.vvd,10304,10304
+models/props/cs_office/projector_p2b.dx90.vtx,2388,2388
+models/props/cs_office/projector_p2b.dx80.vtx,2388,2388
+models/props/cs_office/projector_p2b.sw.vtx,2388,2388
+models/props/cs_office/projector_p2b.phy,903,903
+models/props/cs_office/projector_p3.mdl,1552,1552
+models/props/cs_office/projector_p3.vvd,17024,17024
+models/props/cs_office/projector_p3.dx90.vtx,3432,3432
+models/props/cs_office/projector_p3.dx80.vtx,3432,3432
+models/props/cs_office/projector_p3.sw.vtx,3432,3432
+models/props/cs_office/projector_p3.phy,824,824
+models/props/cs_office/projector_p3a.mdl,1552,1552
+models/props/cs_office/projector_p3a.vvd,17216,17216
+models/props/cs_office/projector_p3a.dx90.vtx,3279,3279
+models/props/cs_office/projector_p3a.dx80.vtx,3279,3279
+models/props/cs_office/projector_p3a.sw.vtx,3279,3279
+models/props/cs_office/projector_p3a.phy,903,903
+models/props/cs_office/projector_p3b.mdl,1552,1552
+models/props/cs_office/projector_p3b.vvd,12608,12608
+models/props/cs_office/projector_p3b.dx90.vtx,2571,2571
+models/props/cs_office/projector_p3b.dx80.vtx,2571,2571
+models/props/cs_office/projector_p3b.sw.vtx,2571,2571
+models/props/cs_office/projector_p3b.phy,903,903
+models/props/cs_office/projector_p4.mdl,1552,1552
+models/props/cs_office/projector_p4.vvd,25152,25152
+models/props/cs_office/projector_p4.dx90.vtx,5349,5349
+models/props/cs_office/projector_p4.dx80.vtx,5349,5349
+models/props/cs_office/projector_p4.sw.vtx,5349,5349
+models/props/cs_office/projector_p4.phy,824,824
+models/props/cs_office/projector_p4a.mdl,1552,1552
+models/props/cs_office/projector_p4a.vvd,16192,16192
+models/props/cs_office/projector_p4a.dx90.vtx,3369,3369
+models/props/cs_office/projector_p4a.dx80.vtx,3369,3369
+models/props/cs_office/projector_p4a.sw.vtx,3369,3369
+models/props/cs_office/projector_p4a.phy,903,903
+models/props/cs_office/projector_p4b.mdl,1552,1552
+models/props/cs_office/projector_p4b.vvd,19136,19136
+models/props/cs_office/projector_p4b.dx90.vtx,3915,3915
+models/props/cs_office/projector_p4b.dx80.vtx,3915,3915
+models/props/cs_office/projector_p4b.sw.vtx,3915,3915
+models/props/cs_office/projector_p4b.phy,903,903
+models/props/cs_office/projector_p5.mdl,1552,1552
+models/props/cs_office/projector_p5.vvd,7872,7872
+models/props/cs_office/projector_p5.dx90.vtx,1791,1791
+models/props/cs_office/projector_p5.dx80.vtx,1791,1791
+models/props/cs_office/projector_p5.sw.vtx,1791,1791
+models/props/cs_office/projector_p5.phy,1025,1025
+models/props/cs_office/projector_p6.mdl,1744,1744
+models/props/cs_office/projector_p6.vvd,1600,1600
+models/props/cs_office/projector_p6.dx90.vtx,498,498
+models/props/cs_office/projector_p6.dx80.vtx,498,498
+models/props/cs_office/projector_p6.sw.vtx,498,498
+models/props/cs_office/projector_p6.phy,630,630
+models/props/cs_office/projector_p6a.mdl,1744,1744
+models/props/cs_office/projector_p6a.vvd,2880,2880
+models/props/cs_office/projector_p6a.dx90.vtx,774,774
+models/props/cs_office/projector_p6a.dx80.vtx,774,774
+models/props/cs_office/projector_p6a.sw.vtx,774,774
+models/props/cs_office/projector_p6a.phy,709,709
+models/props/cs_office/projector_p6b.mdl,1744,1744
+models/props/cs_office/projector_p6b.vvd,2880,2880
+models/props/cs_office/projector_p6b.dx90.vtx,774,774
+models/props/cs_office/projector_p6b.dx80.vtx,774,774
+models/props/cs_office/projector_p6b.sw.vtx,774,774
+models/props/cs_office/projector_p6b.phy,709,709
+models/props/cs_office/projector_p7.mdl,1744,1744
+models/props/cs_office/projector_p7.vvd,1600,1600
+models/props/cs_office/projector_p7.dx90.vtx,498,498
+models/props/cs_office/projector_p7.dx80.vtx,498,498
+models/props/cs_office/projector_p7.sw.vtx,498,498
+materials/models/props/cs_office/projector.vmt,176,176
+materials/models/props/cs_office/projector.vtf,87600,87600
+materials/models/props/cs_office/projector_ref.vtf,2936,2936
+materials/sprites/glow.vmt,119,119
+models/props/cs_office/cardboard_box01.mdl,1536,1536
+models/props/cs_office/cardboard_box01.vvd,11072,11072
+models/props/cs_office/cardboard_box01.dx90.vtx,2289,2289
+models/props/cs_office/cardboard_box01.dx80.vtx,2289,2289
+models/props/cs_office/cardboard_box01.sw.vtx,2289,2289
+models/props/cs_office/cardboard_box01.phy,807,807
+materials/models/props/cs_office/shelves_stuff.vmt,82,82
+materials/models/props/cs_office/shelves_stuff.vtf,174968,174968
+models/props/cs_office/cardboard_box02.mdl,1536,1536
+models/props/cs_office/cardboard_box02.vvd,10304,10304
+models/props/cs_office/cardboard_box02.dx90.vtx,2085,2085
+models/props/cs_office/cardboard_box02.dx80.vtx,2085,2085
+models/props/cs_office/cardboard_box02.sw.vtx,2085,2085
+models/props/cs_office/cardboard_box02.phy,807,807
+models/props/cs_office/cardboard_box03.mdl,1536,1536
+models/props/cs_office/cardboard_box03.vvd,12096,12096
+models/props/cs_office/cardboard_box03.dx90.vtx,2505,2505
+models/props/cs_office/cardboard_box03.dx80.vtx,2505,2505
+models/props/cs_office/cardboard_box03.sw.vtx,2505,2505
+models/props/cs_office/cardboard_box03.phy,807,807
+models/props/de_prodigy/wood_pallet_01.mdl,1524,1524
+models/props/de_prodigy/wood_pallet_01.vvd,43712,43712
+models/props/de_prodigy/wood_pallet_01.dx90.vtx,15785,15785
+models/props/de_prodigy/wood_pallet_01.dx80.vtx,15785,15785
+models/props/de_prodigy/wood_pallet_01.sw.vtx,15785,15785
+models/props/de_prodigy/wood_pallet_01.phy,1062,1062
+models/props/de_prodigy/wood_pallet_debris_01.mdl,1632,1632
+models/props/de_prodigy/wood_pallet_debris_01.vvd,22592,22592
+models/props/de_prodigy/wood_pallet_debris_01.dx90.vtx,4725,4725
+models/props/de_prodigy/wood_pallet_debris_01.dx80.vtx,4725,4725
+models/props/de_prodigy/wood_pallet_debris_01.sw.vtx,4725,4725
+models/props/de_prodigy/wood_pallet_debris_01.phy,2944,2944
+models/props/de_prodigy/wood_pallet_debris_09.mdl,1632,1632
+models/props/de_prodigy/wood_pallet_debris_09.vvd,6208,6208
+models/props/de_prodigy/wood_pallet_debris_09.dx90.vtx,1413,1413
+models/props/de_prodigy/wood_pallet_debris_09.dx80.vtx,1413,1413
+models/props/de_prodigy/wood_pallet_debris_09.sw.vtx,1413,1413
+models/props/de_prodigy/wood_pallet_debris_09.phy,793,793
+materials/models/props/de_prodigy/wood_pallet_01.vmt,205,205
+materials/models/props/de_prodigy/wood_pallet_01.vtf,174968,174968
+materials/models/props/de_prodigy/wood_pallet_01_normal.vtf,349744,349744
+models/props/de_prodigy/wood_pallet_debris_10.mdl,1632,1632
+models/props/de_prodigy/wood_pallet_debris_10.vvd,6208,6208
+models/props/de_prodigy/wood_pallet_debris_10.dx90.vtx,1413,1413
+models/props/de_prodigy/wood_pallet_debris_10.dx80.vtx,1413,1413
+models/props/de_prodigy/wood_pallet_debris_10.sw.vtx,1413,1413
+models/props/de_prodigy/wood_pallet_debris_10.phy,841,841
+models/props/de_prodigy/wood_pallet_debris_11.mdl,1632,1632
+models/props/de_prodigy/wood_pallet_debris_11.vvd,3136,3136
+models/props/de_prodigy/wood_pallet_debris_11.dx90.vtx,789,789
+models/props/de_prodigy/wood_pallet_debris_11.dx80.vtx,789,789
+models/props/de_prodigy/wood_pallet_debris_11.sw.vtx,789,789
+models/props/de_prodigy/wood_pallet_debris_11.phy,985,985
+models/props/de_prodigy/wood_pallet_debris_12.mdl,1632,1632
+models/props/de_prodigy/wood_pallet_debris_12.vvd,2624,2624
+models/props/de_prodigy/wood_pallet_debris_12.dx90.vtx,669,669
+models/props/de_prodigy/wood_pallet_debris_12.dx80.vtx,669,669
+models/props/de_prodigy/wood_pallet_debris_12.sw.vtx,669,669
+models/props/de_prodigy/wood_pallet_debris_12.phy,841,841
+models/props/de_prodigy/wood_pallet_debris_02.mdl,1632,1632
+models/props/de_prodigy/wood_pallet_debris_02.vvd,6336,6336
+models/props/de_prodigy/wood_pallet_debris_02.dx90.vtx,1431,1431
+models/props/de_prodigy/wood_pallet_debris_02.dx80.vtx,1431,1431
+models/props/de_prodigy/wood_pallet_debris_02.sw.vtx,1431,1431
+models/props/de_prodigy/wood_pallet_debris_02.phy,697,697
+models/props/de_prodigy/wood_pallet_debris_04.mdl,1632,1632
+models/props/de_prodigy/wood_pallet_debris_04.vvd,2624,2624
+models/props/de_prodigy/wood_pallet_debris_04.dx90.vtx,669,669
+models/props/de_prodigy/wood_pallet_debris_04.dx80.vtx,669,669
+models/props/de_prodigy/wood_pallet_debris_04.sw.vtx,669,669
+models/props/de_prodigy/wood_pallet_debris_04.phy,841,841
+models/props/de_prodigy/wood_pallet_debris_06.mdl,1632,1632
+models/props/de_prodigy/wood_pallet_debris_06.vvd,2624,2624
+models/props/de_prodigy/wood_pallet_debris_06.dx90.vtx,669,669
+models/props/de_prodigy/wood_pallet_debris_06.dx80.vtx,669,669
+models/props/de_prodigy/wood_pallet_debris_06.sw.vtx,669,669
+models/props/de_prodigy/wood_pallet_debris_06.phy,841,841
+models/props/de_inferno/bed.mdl,1664,1664
+models/props/de_inferno/bed.vvd,65024,65024
+models/props/de_inferno/bed.dx90.vtx,13137,13137
+models/props/de_inferno/bed.dx80.vtx,13137,13137
+models/props/de_inferno/bed.sw.vtx,13137,13137
+models/props/de_inferno/bed.phy,4115,4115
+materials/models/props/de_inferno/bed.vmt,73,73
+materials/models/props/de_inferno/bed.vtf,349744,349744
+materials/models/props/de_inferno/mattress.vmt,78,78
+materials/models/props/de_inferno/mattress.vtf,87528,87528
+models/props/cs_militia/microwave01.mdl,1476,1476
+models/props/cs_militia/microwave01.vvd,20288,20288
+models/props/cs_militia/microwave01.dx90.vtx,4329,4329
+models/props/cs_militia/microwave01.dx80.vtx,4329,4329
+models/props/cs_militia/microwave01.sw.vtx,4329,4329
+models/props/cs_militia/microwave01.phy,1412,1412
+materials/models/props/cs_militia/microwave01.vmt,165,165
+materials/models/props/cs_militia/microwave01.vtf,174984,174984
+materials/models/props/cs_militia/microwave01_ref.vtf,174984,174984
+models/props/cs_office/phone_p1.mdl,1544,1544
+models/props/cs_office/phone_p1.vvd,17216,17216
+models/props/cs_office/phone_p1.dx90.vtx,4149,4149
+models/props/cs_office/phone_p1.dx80.vtx,4149,4149
+models/props/cs_office/phone_p1.sw.vtx,4149,4149
+models/props/cs_office/phone_p1.phy,688,688
+materials/models/props/cs_office/phone.vmt,151,151
+materials/models/props/cs_office/phone.vtf,43896,43896
+materials/models/props/cs_office/phone_ref.vtf,888,888
+models/props/cs_office/phone_p2.mdl,1544,1544
+models/props/cs_office/phone_p2.vvd,9024,9024
+models/props/cs_office/phone_p2.dx90.vtx,2145,2145
+models/props/cs_office/phone_p2.dx80.vtx,2145,2145
+models/props/cs_office/phone_p2.sw.vtx,2145,2145
+models/props/cs_office/phone_p2.phy,687,687
+models/props/cs_office/vending_machine.mdl,1480,1480
+models/props/cs_office/vending_machine.vvd,27712,27712
+models/props/cs_office/vending_machine.dx90.vtx,5565,5565
+models/props/cs_office/vending_machine.dx80.vtx,5565,5565
+models/props/cs_office/vending_machine.sw.vtx,5565,5565
+models/props/cs_office/vending_machine.phy,3501,3501
+materials/models/props/cs_office/vending_machine.vmt,190,190
+materials/models/props/cs_office/vending_machine.vtf,349744,349744
+materials/models/props/cs_office/vending_machine_ref.vtf,174968,174968
+models/props/cs_office/bookshelf1.mdl,1476,1476
+models/props/cs_office/bookshelf1.vvd,90624,90624
+models/props/cs_office/bookshelf1.dx90.vtx,17520,17520
+models/props/cs_office/bookshelf1.dx80.vtx,17520,17520
+models/props/cs_office/bookshelf1.sw.vtx,17520,17520
+models/props/cs_office/bookshelf1.phy,698,698
+materials/models/props/cs_office/bookshelf1.vmt,79,79
+materials/models/props/cs_office/bookshelf1.vtf,174968,174968
+models/props/cs_havana/bookcase_small.mdl,1456,1456
+models/props/cs_havana/bookcase_small.vvd,13760,13760
+models/props/cs_havana/bookcase_small.dx90.vtx,2727,2727
+models/props/cs_havana/bookcase_small.dx80.vtx,2727,2727
+models/props/cs_havana/bookcase_small.sw.vtx,2727,2727
+models/props/cs_havana/bookcase_small.phy,697,697
+materials/models/cs_havana/bookcase_small.vmt,125,125
+materials/models/cs_havana/bookcase_small.vtf,174968,174968
+models/props/cs_havana/bookcase_large.mdl,1456,1456
+models/props/cs_havana/bookcase_large.vvd,14784,14784
+models/props/cs_havana/bookcase_large.dx90.vtx,2919,2919
+models/props/cs_havana/bookcase_large.dx80.vtx,2919,2919
+models/props/cs_havana/bookcase_large.sw.vtx,2919,2919
+models/props/cs_havana/bookcase_large.phy,698,698
+materials/models/cs_havana/bookcase_large.vmt,125,125
+materials/models/cs_havana/bookcase_large.vtf,174968,174968
+models/props_wasteland/controlroom_desk001b.mdl,1476,1476
+models/props_wasteland/controlroom_desk001b.vvd,33088,33088
+models/props_wasteland/controlroom_desk001b.dx90.vtx,8306,8306
+models/props_wasteland/controlroom_desk001b.dx80.vtx,8306,8306
+models/props_wasteland/controlroom_desk001b.sw.vtx,8306,8306
+models/props_wasteland/controlroom_desk001b.phy,2519,2519
+models/props/cs_office/bookshelf2.mdl,1476,1476
+models/props/cs_office/bookshelf2.vvd,76992,76992
+models/props/cs_office/bookshelf2.dx90.vtx,14823,14823
+models/props/cs_office/bookshelf2.dx80.vtx,14823,14823
+models/props/cs_office/bookshelf2.sw.vtx,14823,14823
+models/props/cs_office/bookshelf2.phy,698,698
+models/props/cs_office/sofa.mdl,1472,1472
+models/props/cs_office/sofa.vvd,91840,91840
+models/props/cs_office/sofa.dx90.vtx,53731,53731
+models/props/cs_office/sofa.dx80.vtx,53731,53731
+models/props/cs_office/sofa.sw.vtx,53731,53731
+models/props/cs_office/sofa.phy,2443,2443
+materials/models/props/cs_office/sofa.vmt,294,294
+materials/models/props/cs_office/sofa.vtf,174968,174968
+materials/models/props/cs_office/sofa_spec.vtf,174984,174984
+models/props/cs_office/bookshelf3.mdl,1476,1476
+models/props/cs_office/bookshelf3.vvd,112256,112256
+models/props/cs_office/bookshelf3.dx90.vtx,21408,21408
+models/props/cs_office/bookshelf3.dx80.vtx,21408,21408
+models/props/cs_office/bookshelf3.sw.vtx,21408,21408
+models/props/cs_office/bookshelf3.phy,698,698
+models/props/cs_office/shelves_metal1.mdl,1672,1672
+models/props/cs_office/shelves_metal1.vvd,185168,185168
+models/props/cs_office/shelves_metal1.dx90.vtx,94621,94621
+models/props/cs_office/shelves_metal1.dx80.vtx,94621,94621
+models/props/cs_office/shelves_metal1.sw.vtx,94621,94621
+models/props/cs_office/shelves_metal1.phy,699,699
+materials/models/props/cs_office/shelves_metal.vmt,167,167
+materials/models/props/cs_office/shelves_metal.vtf,174968,174968
+materials/models/props/cs_office/shelves_metal_ref.vtf,888,888
+models/props/cs_office/fire_extinguisher.mdl,1540,1540
+models/props/cs_office/fire_extinguisher.vvd,51584,51584
+models/props/cs_office/fire_extinguisher.dx90.vtx,21925,21925
+models/props/cs_office/fire_extinguisher.dx80.vtx,21925,21925
+models/props/cs_office/fire_extinguisher.sw.vtx,21925,21925
+models/props/cs_office/fire_extinguisher.phy,893,893
+materials/models/props/cs_office/fire_extinguisher.vmt,175,175
+materials/models/props/cs_office/fire_extinguisher.vtf,43896,43896
+materials/models/props/cs_office/fire_extinguisher_ref.vtf,888,888
+models/props/cs_militia/crate_extrasmallmill.mdl,1480,1480
+models/props/cs_militia/crate_extrasmallmill.vvd,29504,29504
+models/props/cs_militia/crate_extrasmallmill.dx90.vtx,5661,5661
+models/props/cs_militia/crate_extrasmallmill.dx80.vtx,5661,5661
+models/props/cs_militia/crate_extrasmallmill.sw.vtx,5661,5661
+models/props/cs_militia/crate_extrasmallmill.phy,1613,1613
+materials/models/props/cs_militia/crate_extrasmallmil.vmt,89,89
+materials/models/props/cs_militia/crate_extrasmallmil.vtf,699272,699272
+models/props/cs_militia/stove01.mdl,1472,1472
+models/props/cs_militia/stove01.vvd,1164480,1164480
+models/props/cs_militia/stove01.dx90.vtx,450984,450984
+models/props/cs_militia/stove01.dx80.vtx,450984,450984
+models/props/cs_militia/stove01.sw.vtx,450984,450984
+models/props/cs_militia/stove01.phy,3812,3812
+materials/models/props/cs_militia/stove01.vmt,157,157
+materials/models/props/cs_militia/stove01.vtf,699272,699272
+materials/models/props/cs_militia/stove01_ref.vtf,699272,699272
+models/props/cs_office/file_cabinet1_group.mdl,1536,1536
+models/props/cs_office/file_cabinet1_group.vvd,132928,132928
+models/props/cs_office/file_cabinet1_group.dx90.vtx,28941,28941
+models/props/cs_office/file_cabinet1_group.dx80.vtx,28941,28941
+models/props/cs_office/file_cabinet1_group.sw.vtx,28941,28941
+models/props/cs_office/file_cabinet1_group.phy,707,707
+materials/models/props/cs_office/file_cabinet1.vmt,167,167
+materials/models/props/cs_office/file_cabinet1.vtf,174968,174968
+materials/models/props/cs_office/file_cabinet1_ref.vtf,888,888
+models/props/cs_office/plant01.mdl,1716,1716
+models/props/cs_office/plant01.vvd,58432,58432
+models/props/cs_office/plant01.dx90.vtx,14862,14862
+models/props/cs_office/plant01.dx80.vtx,14862,14862
+models/props/cs_office/plant01.sw.vtx,14862,14862
+models/props/cs_office/plant01.phy,1606,1606
+models/props/cs_office/plant01_p1.mdl,1904,1904
+models/props/cs_office/plant01_p1.vvd,44544,44544
+models/props/cs_office/plant01_p1.dx90.vtx,11106,11106
+models/props/cs_office/plant01_p1.dx80.vtx,11106,11106
+models/props/cs_office/plant01_p1.sw.vtx,11106,11106
+models/props/cs_office/plant01_p1.phy,1884,1884
+models/props/cs_office/plant01_gib1.mdl,1528,1528
+models/props/cs_office/plant01_gib1.vvd,1728,1728
+models/props/cs_office/plant01_gib1.dx90.vtx,519,519
+models/props/cs_office/plant01_gib1.dx80.vtx,519,519
+models/props/cs_office/plant01_gib1.sw.vtx,519,519
+models/props/cs_office/plant01_gib1.phy,686,686
+materials/models/props/cs_office/plant01_p.vmt,78,78
+materials/models/props/cs_office/plant01_p.vtf,43896,43896
+materials/models/props/cs_office/plant01.vmt,76,76
+materials/models/props/cs_office/plant01.vtf,43896,43896
+materials/models/props/cs_office/plant02.vmt,76,76
+materials/models/props/cs_office/plant02.vtf,43896,43896
+models/props/cs_office/plant01_p2.mdl,1528,1528
+models/props/cs_office/plant01_p2.vvd,7168,7168
+models/props/cs_office/plant01_p2.dx90.vtx,1704,1704
+models/props/cs_office/plant01_p2.dx80.vtx,1704,1704
+models/props/cs_office/plant01_p2.sw.vtx,1704,1704
+models/props/cs_office/plant01_p2.phy,2512,2512
+models/props/cs_office/plant01_gib2.mdl,1524,1524
+models/props/cs_office/plant01_gib2.vvd,3392,3392
+models/props/cs_office/plant01_gib2.dx90.vtx,753,753
+models/props/cs_office/plant01_gib2.dx80.vtx,753,753
+models/props/cs_office/plant01_gib2.sw.vtx,753,753
+models/props/cs_office/plant01_gib2.phy,687,687
+models/props/cs_office/plant01_gib3.mdl,1524,1524
+models/props/cs_office/plant01_gib3.vvd,2240,2240
+models/props/cs_office/plant01_gib3.dx90.vtx,543,543
+models/props/cs_office/plant01_gib3.dx80.vtx,543,543
+models/props/cs_office/plant01_gib3.sw.vtx,543,543
+models/props/cs_office/plant01_gib3.phy,686,686
+models/props/cs_office/plant01_p3.mdl,1716,1716
+models/props/cs_office/plant01_p3.vvd,14464,14464
+models/props/cs_office/plant01_p3.dx90.vtx,3291,3291
+models/props/cs_office/plant01_p3.dx80.vtx,3291,3291
+models/props/cs_office/plant01_p3.sw.vtx,3291,3291
+models/props/cs_office/plant01_p3.phy,2545,2545
+models/props/cs_office/plant01_p4.mdl,1528,1528
+models/props/cs_office/plant01_p4.vvd,6272,6272
+models/props/cs_office/plant01_p4.dx90.vtx,1554,1554
+models/props/cs_office/plant01_p4.dx80.vtx,1554,1554
+models/props/cs_office/plant01_p4.sw.vtx,1554,1554
+models/props/cs_office/plant01_p4.phy,2576,2576
+models/props/cs_office/plant01_p5.mdl,1716,1716
+models/props/cs_office/plant01_p5.vvd,12736,12736
+models/props/cs_office/plant01_p5.dx90.vtx,2832,2832
+models/props/cs_office/plant01_p5.dx80.vtx,2832,2832
+models/props/cs_office/plant01_p5.sw.vtx,2832,2832
+models/props/cs_office/plant01_p5.phy,2577,2577
+models/props/cs_office/plant01_p6.mdl,1528,1528
+models/props/cs_office/plant01_p6.vvd,5632,5632
+models/props/cs_office/plant01_p6.dx90.vtx,1296,1296
+models/props/cs_office/plant01_p6.dx80.vtx,1296,1296
+models/props/cs_office/plant01_p6.sw.vtx,1296,1296
+models/props/cs_office/plant01_p6.phy,2480,2480
+models/props/cs_office/plant01_p7.mdl,1716,1716
+models/props/cs_office/plant01_p7.vvd,14208,14208
+models/props/cs_office/plant01_p7.dx90.vtx,3081,3081
+models/props/cs_office/plant01_p7.dx80.vtx,3081,3081
+models/props/cs_office/plant01_p7.sw.vtx,3081,3081
+models/props/cs_office/plant01_p7.phy,2705,2705
+models/props/de_nuke/truck_nuke_glass.mdl,1472,1472
+models/props/de_nuke/truck_nuke_glass.vvd,7232,7232
+models/props/de_nuke/truck_nuke_glass.dx90.vtx,1917,1917
+models/props/de_nuke/truck_nuke_glass.dx80.vtx,1917,1917
+models/props/de_nuke/truck_nuke_glass.sw.vtx,1917,1917
+models/props/de_nuke/truck_nuke_glass.phy,4828,4828
+materials/models/props/de_nuke/truck_nuke.vmt,157,157
+materials/models/props/de_nuke/truck_nuke.vtf,699256,699256
+materials/models/props/de_nuke/truck_nuke_ref.vtf,174968,174968
+models/props/de_nuke/truck_nuke.mdl,1476,1476
+models/props/de_nuke/truck_nuke.vvd,630400,630400
+models/props/de_nuke/truck_nuke.dx90.vtx,319826,319826
+models/props/de_nuke/truck_nuke.dx80.vtx,319826,319826
+models/props/de_nuke/truck_nuke.sw.vtx,319826,319826
+models/props/de_nuke/truck_nuke.phy,19297,19297
+models/props/cs_office/light_inset.mdl,1472,1472
+models/props/cs_office/light_inset.vvd,19328,19328
+models/props/cs_office/light_inset.dx90.vtx,4650,4650
+models/props/cs_office/light_inset.dx80.vtx,4650,4650
+models/props/cs_office/light_inset.sw.vtx,4650,4650
+models/props/cs_office/light_inset.phy,1072,1072
+materials/models/props/cs_office/light_inset.vmt,182,182
+materials/models/props/cs_office/light_inset.vtf,22064,22064
+materials/models/props/cs_office/light_inset_ref.vtf,11128,11128
+models/props/cs_assault/light_shop2.mdl,1744,1744
+models/props/cs_assault/light_shop2.vvd,23616,23616
+models/props/cs_assault/light_shop2.dx90.vtx,5325,5325
+models/props/cs_assault/light_shop2.dx80.vtx,5325,5325
+models/props/cs_assault/light_shop2.sw.vtx,5325,5325
+models/props/cs_assault/light_shop2.phy,697,697
+materials/models/props/cs_assault/light_shop2.vmt,184,184
+materials/models/props/cs_assault/light_shop2.vtf,87600,87600
+materials/models/props/cs_assault/light_shop2_ref.vtf,11128,11128
+materials/models/props/cs_assault/light_shop2_off.vmt,165,165
+materials/models/props/cs_assault/light_shop2b.vmt,185,185
+materials/models/props/cs_assault/light_shop2b.vtf,87600,87600
+materials/models/props/cs_assault/light_shop2b_off.vmt,166,166
+models/props/cs_office/light_security.mdl,1768,1768
+models/props/cs_office/light_security.vvd,8640,8640
+models/props/cs_office/light_security.dx90.vtx,1932,1932
+models/props/cs_office/light_security.dx80.vtx,1932,1932
+models/props/cs_office/light_security.sw.vtx,1932,1932
+models/props/cs_office/light_security.phy,696,696
+materials/models/props/cs_office/light_security2.vmt,84,84
+materials/models/props/cs_office/light_security2.vtf,43896,43896
+materials/models/props/cs_office/light_security.vmt,102,102
+materials/models/props/cs_office/light_security.vtf,22064,22064
+materials/models/props/cs_office/light_security_off.vmt,143,143
+materials/models/props/cs_office/light_securitya.vtf,11128,11128
+materials/fx/white25_ref.vtf,376,376
+models/props/cs_militia/light_shop2.mdl,1476,1476
+models/props/cs_militia/light_shop2.vvd,24640,24640
+models/props/cs_militia/light_shop2.dx90.vtx,5397,5397
+models/props/cs_militia/light_shop2.dx80.vtx,5397,5397
+models/props/cs_militia/light_shop2.sw.vtx,5397,5397
+models/props/cs_militia/light_shop2.phy,707,707
+materials/models/props/cs_militia/light_shop2.vmt,184,184
+materials/models/props/cs_militia/light_shop2.vtf,349744,349744
+materials/models/props/cs_militia/light_shop2_ref.vtf,174968,174968
+models/props/de_nuke/emergency_lightb.mdl,1868,1868
+models/props/de_nuke/emergency_lightb.vvd,17472,17472
+models/props/de_nuke/emergency_lightb.dx90.vtx,3606,3606
+models/props/de_nuke/emergency_lightb.dx80.vtx,3606,3606
+models/props/de_nuke/emergency_lightb.sw.vtx,3606,3606
+materials/models/props/de_nuke/emergency_lightb_glow_off.vmt,126,126
+materials/models/props/de_nuke/emergency_lightb_glow_off.vtf,21992,21992
+materials/models/props/de_nuke/emergency_lightb_off.vmt,201,201
+materials/models/props/de_nuke/emergency_lightb_off.vtf,1512,1512
+materials/models/props/de_nuke/emergency_lightb_ref.vtf,1512,1512
+materials/models/props/de_nuke/emergency_lightb.vmt,216,216
+materials/models/props/de_nuke/emergency_lightb.vtf,2896,2896
+materials/models/props/de_nuke/emergency_lightb_glow.vmt,122,122
+materials/models/props/de_nuke/emergency_lightb_glow.vtf,87528,87528
+models/props/de_nuke/emergency_lighta.mdl,1768,1768
+models/props/de_nuke/emergency_lighta.vvd,17856,17856
+models/props/de_nuke/emergency_lighta.dx90.vtx,4071,4071
+models/props/de_nuke/emergency_lighta.dx80.vtx,4071,4071
+models/props/de_nuke/emergency_lighta.sw.vtx,4071,4071
+models/props/de_nuke/emergency_lighta.phy,2668,2668
+materials/models/props/de_nuke/light_red1_glass.vmt,235,235
+materials/models/props/de_nuke/light_red1_glass.vtf,2896,2896
+materials/models/props/de_nuke/light_red1_glass_ref.vtf,1512,1512
+materials/models/props/de_nuke/emergency_lighta.vmt,169,169
+materials/models/props/de_nuke/emergency_lighta.vtf,5608,5608
+materials/models/props/de_nuke/emergency_lighta_ref.vtf,5608,5608
+materials/models/props/de_nuke/light_red1_glass_on.vmt,246,246
+models/props/cs_assault/billboard.mdl,1476,1476
+models/props/cs_assault/billboard.vvd,157312,157312
+models/props/cs_assault/billboard.dx90.vtx,68780,68780
+models/props/cs_assault/billboard.dx80.vtx,68780,68780
+models/props/cs_assault/billboard.sw.vtx,68780,68780
+models/props/cs_assault/billboard.phy,1407,1407
+materials/models/props/cs_assault/billboard.vmt,161,161
+materials/models/props/cs_assault/billboard.vtf,174968,174968
+materials/models/props/cs_assault/billboard_ref.vtf,43896,43896
+models/props/cs_militia/tv_console.mdl,1472,1472
+models/props/cs_militia/tv_console.vvd,22912,22912
+models/props/cs_militia/tv_console.dx90.vtx,4890,4890
+models/props/cs_militia/tv_console.dx80.vtx,4890,4890
+models/props/cs_militia/tv_console.sw.vtx,4890,4890
+models/props/cs_militia/tv_console.phy,7907,7907
+materials/models/props/cs_militia/tv_console.vmt,163,163
+materials/models/props/cs_militia/tv_console.vtf,174968,174968
+materials/models/props/cs_militia/tv_console_ref.vtf,174968,174968
+models/props/de_nuke/electricalbox02.mdl,1476,1476
+models/props/de_nuke/electricalbox02.vvd,260160,260160
+models/props/de_nuke/electricalbox02.dx90.vtx,126826,126826
+models/props/de_nuke/electricalbox02.dx80.vtx,126826,126826
+models/props/de_nuke/electricalbox02.sw.vtx,126826,126826
+models/props/de_nuke/electricalbox02.phy,2384,2384
+materials/models/props/de_nuke/electricalbox02.vmt,167,167
+materials/models/props/de_nuke/electricalbox02.vtf,174984,174984
+materials/models/props/de_nuke/electricalbox02_ref.vtf,43912,43912
+models/props/de_nuke/electricalbox01.mdl,1476,1476
+models/props/de_nuke/electricalbox01.vvd,265600,265600
+models/props/de_nuke/electricalbox01.dx90.vtx,123937,123937
+models/props/de_nuke/electricalbox01.dx80.vtx,123937,123937
+models/props/de_nuke/electricalbox01.sw.vtx,123937,123937
+models/props/de_nuke/electricalbox01.phy,1297,1297
+materials/models/props/de_nuke/electricalbox01.vmt,167,167
+materials/models/props/de_nuke/electricalbox01.vtf,699256,699256
+materials/models/props/de_nuke/electricalbox01_ref.vtf,174968,174968
+models/props/cs_assault/wall_wires1.mdl,1480,1480
+models/props/cs_assault/wall_wires1.vvd,169152,169152
+models/props/cs_assault/wall_wires1.dx90.vtx,84961,84961
+models/props/cs_assault/wall_wires1.dx80.vtx,84961,84961
+models/props/cs_assault/wall_wires1.sw.vtx,84961,84961
+models/props/cs_assault/wall_wires1.phy,1534,1534
+materials/models/props/cs_assault/wall_wires1.vmt,165,165
+materials/models/props/cs_assault/wall_wires1.vtf,87528,87528
+materials/models/props/cs_assault/wall_wires1_ref.vtf,87528,87528
+models/props/cs_assault/wall_vent.mdl,1476,1476
+models/props/cs_assault/wall_vent.vvd,5952,5952
+models/props/cs_assault/wall_vent.dx90.vtx,1305,1305
+models/props/cs_assault/wall_vent.dx80.vtx,1305,1305
+models/props/cs_assault/wall_vent.sw.vtx,1305,1305
+models/props/cs_assault/wall_vent.phy,695,695
+materials/models/props/cs_assault/wall_vent.vmt,161,161
+materials/models/props/cs_assault/wall_vent.vtf,43896,43896
+materials/models/props/cs_assault/wall_vent_ref.vtf,43896,43896
+models/props/de_train/de_train_signalbox_01.mdl,1484,1484
+models/props/de_train/de_train_signalbox_01.vvd,46784,46784
+models/props/de_train/de_train_signalbox_01.dx90.vtx,20293,20293
+models/props/de_train/de_train_signalbox_01.dx80.vtx,20293,20293
+models/props/de_train/de_train_signalbox_01.sw.vtx,20293,20293
+models/props/de_train/de_train_signalbox_01.phy,2140,2140
+materials/models/props/de_train/de_train_signalbox.vmt,208,208
+materials/models/props/de_train/de_train_signalbox.vtf,349672,349672
+materials/models/props/de_train/de_train_signalbox_normal.vtf,699216,699216
+models/props/de_prodigy/prodcratesb.mdl,1472,1472
+models/props/de_prodigy/prodcratesb.vvd,20160,20160
+models/props/de_prodigy/prodcratesb.dx90.vtx,4143,4143
+models/props/de_prodigy/prodcratesb.dx80.vtx,4143,4143
+models/props/de_prodigy/prodcratesb.sw.vtx,4143,4143
+models/props/de_prodigy/prodcratesb.phy,1914,1914
+materials/models/props/de_prodigy/prodcrates.vmt,80,80
+materials/models/props/de_prodigy/prodcrates.vtf,349672,349672
+models/props/cs_office/crates_indoor.mdl,1480,1480
+models/props/cs_office/crates_indoor.vvd,79168,79168
+models/props/cs_office/crates_indoor.dx90.vtx,15933,15933
+models/props/cs_office/crates_indoor.dx80.vtx,15933,15933
+models/props/cs_office/crates_indoor.sw.vtx,15933,15933
+models/props/cs_office/crates_indoor.phy,2485,2485
+materials/models/props/cs_office/crates_indoor.vmt,82,82
+materials/models/props/cs_office/crates_indoor.vtf,87528,87528
+models/props/cs_militia/ladderwood.mdl,1472,1472
+models/props/cs_militia/ladderwood.vvd,36544,36544
+models/props/cs_militia/ladderwood.dx90.vtx,11102,11102
+models/props/cs_militia/ladderwood.dx80.vtx,11102,11102
+models/props/cs_militia/ladderwood.sw.vtx,11102,11102
+models/props/cs_militia/ladderwood.phy,7023,7023
+materials/models/props/cs_militia/ladderwood.vmt,80,80
+materials/models/props/cs_militia/ladderwood.vtf,699256,699256
+models/props/de_nuke/crate_extrasmall.mdl,1476,1476
+models/props/de_nuke/crate_extrasmall.vvd,29504,29504
+models/props/de_nuke/crate_extrasmall.dx90.vtx,5661,5661
+models/props/de_nuke/crate_extrasmall.dx80.vtx,5661,5661
+models/props/de_nuke/crate_extrasmall.sw.vtx,5661,5661
+models/props/de_nuke/crate_extrasmall.phy,1561,1561
+materials/models/props/de_nuke/crate_extrasmall.vmt,83,83
+materials/models/props/de_nuke/crate_extrasmall.vtf,699256,699256
+models/props/de_nuke/crate_small.mdl,1472,1472
+models/props/de_nuke/crate_small.vvd,84032,84032
+models/props/de_nuke/crate_small.dx90.vtx,26623,26623
+models/props/de_nuke/crate_small.dx80.vtx,26623,26623
+models/props/de_nuke/crate_small.sw.vtx,26623,26623
+models/props/de_nuke/crate_small.phy,700,700
+materials/models/props/de_nuke/crate.vmt,72,72
+materials/models/props/de_nuke/crate.vtf,43912,43912
+models/props/de_nuke/crate_extralarge.mdl,1476,1476
+models/props/de_nuke/crate_extralarge.vvd,23616,23616
+models/props/de_nuke/crate_extralarge.dx90.vtx,4557,4557
+models/props/de_nuke/crate_extralarge.dx80.vtx,4557,4557
+models/props/de_nuke/crate_extralarge.sw.vtx,4557,4557
+models/props/de_nuke/crate_extralarge.phy,892,892
+materials/models/props/de_nuke/crate_extralarge.vmt,83,83
+materials/models/props/de_nuke/crate_extralarge.vtf,699256,699256
+materials/sprites/glow.vtf,11128,11128
+materials/tools/TOOLSSKYBOX.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/concrete/concretefloor001a.vmt,266,266
+materials/detail/noise_detail_01.vtf,43936,43936
+materials/tools/toolstrigger.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolsinvisible.vmt,304,304
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/decals/bloodstain_003.vmt,98,98
+materials/decals/bloodstain_003.vtf,174888,174888
+models/props/cs_militia/ladderrung.mdl,1472,1472
+models/props/cs_militia/ladderrung.vvd,129280,129280
+models/props/cs_militia/ladderrung.dx90.vtx,67417,67417
+models/props/cs_militia/ladderrung.dx80.vtx,67417,67417
+models/props/cs_militia/ladderrung.sw.vtx,67417,67417
+models/props/cs_militia/ladderrung.phy,16392,16392
+materials/models/props/cs_militia/ladderrung.vmt,163,163
+materials/models/props/cs_militia/ladderrung.vtf,174968,174968
+materials/models/props/cs_militia/ladderrung_ref.vtf,174968,174968
+models/editor/weaponspawner.mdl,2592,2592
+models/editor/weaponspawner.vvd,1600,1600
+models/editor/weaponspawner.dx90.vtx,429,429
+models/editor/weaponspawner.dx80.vtx,429,429
+models/editor/weaponspawner.sw.vtx,421,421
+models/editor/weaponspawner.phy,682,682
+materials/models/editor/weaponspawner_1.vmt,128,128
+materials/models/editor/weaponspawner_1.vtf,32976,32976
+materials/models/editor/weaponspawner_green.vmt,107,107
+materials/models/editor/weaponspawner_green.vtf,392,392
+materials/models/editor/weaponspawner_2.vmt,128,128
+materials/models/editor/weaponspawner_2.vtf,32976,32976
+materials/models/editor/weaponspawner_3.vmt,128,128
+materials/models/editor/weaponspawner_3.vtf,32976,32976
+materials/models/editor/weaponspawner_4.vmt,128,128
+materials/models/editor/weaponspawner_4.vtf,32976,32976
+materials/models/editor/weaponspawner_5.vmt,128,128
+materials/models/editor/weaponspawner_5.vtf,32976,32976
+materials/models/editor/weaponspawner_6.vmt,128,128
+materials/models/editor/weaponspawner_6.vtf,32976,32976
+materials/models/editor/weaponspawner_7.vmt,128,128
+materials/models/editor/weaponspawner_7.vtf,32976,32976
+materials/models/editor/weaponspawner_0.vmt,128,128
+materials/models/editor/weaponspawner_0.vtf,32976,32976
+models/weapons/ammocrate.mdl,1960,1960
+models/weapons/ammocrate.vvd,62592,62592
+models/weapons/ammocrate.dx90.vtx,25237,25237
+models/weapons/ammocrate.dx80.vtx,25237,25237
+models/weapons/ammocrate.sw.vtx,25213,25213
+models/weapons/ammocrate.phy,886,886
+materials/models/weapons/ammocrate.vmt,73,73
+materials/models/weapons/ammocrate.vtf,349688,349688
+materials/models/weapons/ammocrate_grenades.vmt,82,82
+materials/models/weapons/ammocrate_grenades.vtf,349688,349688
+materials/models/weapons/ammocrate_mines.vmt,79,79
+materials/models/weapons/ammocrate_mines.vtf,349688,349688

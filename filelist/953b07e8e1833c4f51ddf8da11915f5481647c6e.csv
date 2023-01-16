@@ -1,0 +1,21 @@
+filename,size,compressed
+materials/maps/zm_ocean_monument/tile/tilefloor019a_0_0_0.vmt,129,129
+materials/maps/zm_ocean_monument/de_chateau/interiortile01b_0_0_0.vmt,137,137
+materials/maps/zm_ocean_monument/environment maps/pipemetal001a_0_0_0.vmt,141,141
+materials/maps/zm_ocean_monument/de_dust/tilefloor02_0_0_0.vmt,130,130
+materials/maps/zm_ocean_monument/cubemapdefault.vtf,4960,4960
+materials/maps/zm_ocean_monument/c0_0_0.vtf,4960,4960
+materials/maps/zm_ocean_monument/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_ocean_monument/c0_0_0.hdr.vtf,76528,76528
+materials/skybox/sky35bk.vmt,88,88
+materials/skybox/sky35bk.vtf,699272,699272
+materials/skybox/sky35dn.vmt,88,88
+materials/skybox/sky35dn.vtf,699272,699272
+materials/skybox/sky35ft.vmt,88,88
+materials/skybox/sky35ft.vtf,699272,699272
+materials/skybox/sky35lf.vmt,88,88
+materials/skybox/sky35lf.vtf,699272,699272
+materials/skybox/sky35rt.vmt,88,88
+materials/skybox/sky35rt.vtf,699272,699272
+materials/skybox/sky35up.vmt,88,88
+materials/skybox/sky35up.vtf,699272,699272

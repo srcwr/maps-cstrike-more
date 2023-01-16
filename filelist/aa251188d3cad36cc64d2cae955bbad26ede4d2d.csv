@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/ka_rotate2_d/tile/tilefloor021a_0_0_420.vmt,126,126
+materials/maps/ka_rotate2_d/glass/glasswindowbreak070b_0_-256_39.vmt,114,114
+materials/maps/ka_rotate2_d/glass/prodwndwa_0_-256_39.vmt,203,203
+materials/maps/ka_rotate2_d/glass/unbreakable_0_-256_39.vmt,127,127
+materials/maps/ka_rotate2_d/glass/unbreakable_0_256_39.vmt,126,126
+materials/maps/ka_rotate2_d/glass/unbreakable_0_0_420.vmt,125,125
+materials/maps/ka_rotate2_d/cubemapdefault.vtf,9824,9824
+materials/maps/ka_rotate2_d/c0_0_420.vtf,9824,9824
+materials/maps/ka_rotate2_d/c0_-256_39.vtf,9824,9824
+materials/maps/ka_rotate2_d/c0_256_39.vtf,9824,9824
+materials/maps/ka_rotate2_d/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/ka_rotate2_d/c0_0_420.hdr.vtf,76520,76520
+materials/maps/ka_rotate2_d/c0_-256_39.hdr.vtf,76520,76520
+materials/maps/ka_rotate2_d/c0_256_39.hdr.vtf,76520,76520

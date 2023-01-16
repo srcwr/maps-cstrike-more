@@ -1,0 +1,48 @@
+filename,size,compressed
+materials/maps/mapa_foda/de_nuke/nukwindowc_-1105_-116_59.vmt,129,129
+materials/maps/mapa_foda/de_nuke/nukwindowc_-466_-155_59.vmt,128,128
+materials/maps/mapa_foda/de_nuke/nukwindowc_-377_109_59.vmt,127,127
+materials/maps/mapa_foda/de_nuke/nukdoorsb_-1105_-116_59.vmt,128,128
+materials/maps/mapa_foda/metal/metalfloor001a_-466_-155_59.vmt,130,130
+materials/maps/mapa_foda/metal/metalfloor001a_-16_-24_59.vmt,128,128
+materials/maps/mapa_foda/metal/metalfloor001a_-377_109_59.vmt,129,129
+materials/maps/mapa_foda/props/metalduct001a_-466_-155_59.vmt,129,129
+materials/maps/mapa_foda/props/metalduct001a_-16_-24_59.vmt,127,127
+materials/maps/mapa_foda/props/metalduct001a_-377_109_59.vmt,128,128
+materials/maps/mapa_foda/concrete/concretefloor033q_-377_109_59.vmt,135,135
+materials/maps/mapa_foda/concrete/concretefloor033q_-466_-155_59.vmt,136,136
+materials/maps/mapa_foda/metal/metalwall001a_-1105_-116_59.vmt,130,130
+materials/maps/mapa_foda/metal/metalwall001a_-377_109_59.vmt,128,128
+materials/maps/mapa_foda/glass/offlightcover_-1105_-116_59.vmt,130,130
+materials/maps/mapa_foda/glass/offlightcover_-377_109_59.vmt,128,128
+materials/maps/mapa_foda/metal/metalwall001a_-16_-24_59.vmt,127,127
+materials/maps/mapa_foda/glass/offlightcover_-16_-24_59.vmt,127,127
+materials/maps/mapa_foda/metal/metalwall001a_-466_-155_59.vmt,129,129
+materials/maps/mapa_foda/glass/offlightcover_-466_-155_59.vmt,129,129
+materials/maps/mapa_foda/metal/metalfloor001a_-1105_-116_59.vmt,131,131
+materials/maps/mapa_foda/metal/metalfloor001a_258_-85_59.vmt,128,128
+materials/maps/mapa_foda/metal/metalfloor001a_-366_11_59.vmt,128,128
+materials/maps/mapa_foda/glass/glasswindow018a_-366_11_59.vmt,129,129
+materials/maps/mapa_foda/glass/glasswindow018a_-16_-24_59.vmt,129,129
+materials/maps/mapa_foda/glass/glasswindow018a_258_-85_59.vmt,129,129
+materials/maps/mapa_foda/glass/glasswindow018a_-1105_-116_59.vmt,132,132
+materials/maps/mapa_foda/glass/glasswindow018a_-466_-155_59.vmt,131,131
+materials/maps/mapa_foda/de_nuke/nukwater_movingplane_dx70_depth_10.vmt,120,120
+materials/maps/mapa_foda/cubemapdefault.vtf,28753,28753
+materials/maps/mapa_foda/c-1105_-116_59.vtf,28753,28753
+materials/maps/mapa_foda/c-466_-155_59.vtf,28753,28753
+materials/maps/mapa_foda/c-377_109_59.vtf,28753,28753
+materials/maps/mapa_foda/c-16_-24_59.vtf,28753,28753
+materials/maps/mapa_foda/c258_-85_59.vtf,28753,28753
+materials/maps/mapa_foda/c-366_11_59.vtf,28753,28753
+materials/maps/mapa_foda/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mapa_foda/c-1105_-116_59.hdr.vtf,76528,76528
+materials/maps/mapa_foda/c-466_-155_59.hdr.vtf,76528,76528
+materials/maps/mapa_foda/c-377_109_59.hdr.vtf,76528,76528
+materials/maps/mapa_foda/c-16_-24_59.hdr.vtf,76528,76528
+materials/maps/mapa_foda/c258_-85_59.hdr.vtf,76528,76528
+materials/maps/mapa_foda/c-366_11_59.hdr.vtf,76528,76528
+C:/Documents and Settings/Welder/Desktop/macaco mapa.vmt,140,140
+C:/Documents and Settings/Welder/Desktop/macaco mapa.vtf,43936,43936
+materials/decals/macaco mapa.vmt,140,140
+materials/decals/macaco mapa.vtf,43936,43936

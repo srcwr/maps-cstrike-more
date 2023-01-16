@@ -1,0 +1,41 @@
+filename,size,compressed
+materials/maps/de_loop_brick/nature/blendmilground004_12_wvt_patch.vmt,93,93
+materials/maps/de_loop_brick/nature/blendproddirtgrass_wvt_patch.vmt,90,90
+materials/maps/de_loop_brick/de_piranesi/marblefloor01_-355_-32_139.vmt,139,139
+materials/maps/de_loop_brick/environment maps/pipemetal001a_-355_-32_139.vmt,144,144
+materials/maps/de_loop_brick/environment maps/pipemetal001a_-343_-129_165.vmt,145,145
+materials/maps/de_loop_brick/environment maps/pipemetal001a_-350_-151_154.vmt,145,145
+materials/maps/de_loop_brick/de_piranesi/marblefloor10_-355_-32_139.vmt,139,139
+materials/maps/de_loop_brick/de_piranesi/marblefloor10_-343_-129_165.vmt,140,140
+materials/maps/de_loop_brick/de_piranesi/marblefloor01_-343_-129_165.vmt,140,140
+materials/maps/de_loop_brick/de_piranesi/marblefloor01_-350_-151_154.vmt,140,140
+materials/maps/de_loop_brick/de_nuke/nukwater_movingplane_-355_-32_139.vmt,165,165
+materials/maps/de_loop_brick/de_nuke/nukwater_movingplane_-350_-151_154.vmt,166,166
+materials/maps/de_loop_brick/maps/de_loop_brick/de_nuke/nukwater_movingplane_-355_-32_139_depth_17.vmt,147,147
+materials/maps/de_loop_brick/cubemapdefault.vtf,9832,9832
+materials/maps/de_loop_brick/c-355_-32_139.vtf,9832,9832
+materials/maps/de_loop_brick/c-343_-129_165.vtf,9832,9832
+materials/maps/de_loop_brick/c-350_-151_154.vtf,9832,9832
+materials/maps/de_loop_brick/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_loop_brick/c-355_-32_139.hdr.vtf,76528,76528
+materials/maps/de_loop_brick/c-343_-129_165.hdr.vtf,76528,76528
+materials/maps/de_loop_brick/c-350_-151_154.hdr.vtf,76528,76528
+materials/de_Loop/Brown1.vmt,99,99
+materials/de_Loop/Brown1.vtf,699196,699196
+materials/de_Loop/FloorBrick.vmt,128,128
+materials/de_Loop/FloorBrick.vtf,5592612,5592612
+materials/de_Loop/FloorBrick2.vmt,129,129
+materials/de_Loop/FloorBrick2.vtf,5592612,5592612
+materials/de_Loop/FloorBrick_Normal.vtf,5592612,5592612
+materials/de_Loop/Graffity.vmt,83,83
+materials/de_Loop/Graffity.vtf,1398336,1398336
+materials/de_Loop/NOOB_Decals.vmt,86,86
+materials/de_Loop/NOOB_Decals.vtf,349760,349760
+materials/de_Loop/Sewer2.vmt,82,82
+materials/de_Loop/Sewer2.vtf,2796348,2796348
+materials/de_Loop/Wooden_floor.vmt,105,105
+materials/de_Loop/Wooden_floor.vtf,5592612,5592612
+materials/de_Loop/Wooden_floor_normal.vtf,5592612,5592612
+materials/de_Loop/brick01.vmt,246,246
+materials/de_Loop/sewer1.vmt,81,81
+materials/de_Loop/sewer1.vtf,22369740,22369740

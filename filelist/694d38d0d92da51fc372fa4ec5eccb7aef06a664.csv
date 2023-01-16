@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/aim_texture_canyon_big/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/aim_texture_canyon_big/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/aim_texture_canyon_big/dev/dev_water2_0_-768_-352.vmt,159,159
+materials/maps/aim_texture_canyon_big/maps/aim_texture_canyon_big/dev/dev_water2_0_-768_-352_depth_96.vmt,141,141
+materials/maps/aim_texture_canyon_big/cubemapdefault.vtf,9832,9832
+materials/maps/aim_texture_canyon_big/c0_-768_-352.vtf,9832,9832
+materials/maps/aim_texture_canyon_big/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_texture_canyon_big/c0_-768_-352.hdr.vtf,76528,76528
+maps/aim_texture_canyon_big.nav,78500,78500

@@ -1,0 +1,12 @@
+filename,size,compressed
+maps/bigpool.nav,507172,507172
+materials/maps/bigpool/c0_0_-880.vtf,7248,7248
+materials/maps/bigpool/cs_havana/flrc01_0_0_-880.vmt,120,120
+materials/maps/bigpool/cubemapdefault.vtf,7248,7248
+materials/maps/bigpool/de_piranesi/marblefloor08_0_0_-880.vmt,129,129
+materials/maps/bigpool/de_piranesi/marblefloor13_0_0_-880.vmt,129,129
+materials/maps/bigpool/dev/dev_water2_0_0_-880.vmt,141,141
+materials/maps/bigpool/glass/glasswindow018a_0_0_-880.vmt,125,125
+materials/maps/bigpool/maps/bigpool/dev/dev_water2_0_0_-880_depth_112.vmt,124,124
+materials/maps/bigpool/models/props_pipes/pipemetal004b_0_0_-880.vmt,136,136
+materials/maps/bigpool/vehicle/rubbertrainfloor002a_0_0_-880.vmt,132,132

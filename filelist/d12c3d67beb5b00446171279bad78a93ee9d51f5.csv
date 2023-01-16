@@ -1,0 +1,31 @@
+filename,size,compressed
+materials/maps/zm_disco/de_nuke/nukblenddirtgrassb_wvt_patch.vmt,304,304
+materials/maps/zm_disco/metal/metalceiling005a_474_-127_273.vmt,131,131
+materials/maps/zm_disco/metal/metalceiling005a_-49_-388_285.vmt,131,131
+materials/maps/zm_disco/glass/combineglass001a_474_-127_273.vmt,131,131
+materials/maps/zm_disco/de_chateau/cnstrcttarpb_-49_-388_285.vmt,132,132
+materials/maps/zm_disco/de_chateau/cnstrcttarpb_474_-127_273.vmt,132,132
+materials/maps/zm_disco/cubemapdefault.vtf,4960,4960
+materials/maps/zm_disco/c474_-127_273.vtf,4960,4960
+materials/maps/zm_disco/c-49_-388_285.vtf,4960,4960
+materials/maps/zm_disco/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_disco/c474_-127_273.hdr.vtf,76528,76528
+materials/maps/zm_disco/c-49_-388_285.hdr.vtf,76528,76528
+materials/fares.vmt,53,53
+materials/fares.vtf,174984,174984
+materials/skybox/mpa100bk.vmt,85,85
+materials/skybox/mpa100bk.vtf,699272,699272
+materials/skybox/mpa100dn.vmt,85,85
+materials/skybox/mpa100dn.vtf,699272,699272
+materials/skybox/mpa100ft.vmt,85,85
+materials/skybox/mpa100ft.vtf,699272,699272
+materials/skybox/mpa100lf.vmt,85,85
+materials/skybox/mpa100lf.vtf,699272,699272
+materials/skybox/mpa100rt.vmt,85,85
+materials/skybox/mpa100rt.vtf,699272,699272
+materials/skybox/mpa100up.vmt,85,85
+materials/skybox/mpa100up.vtf,699272,699272
+sound/1Hardwell fea.mp3,3085056,3085056
+sound/1She Wolf.mp3,1633913,1633913
+sound/1xs.mp3,1157329,1157329
+sound/DJ Terminator.mp3,4109596,4109596

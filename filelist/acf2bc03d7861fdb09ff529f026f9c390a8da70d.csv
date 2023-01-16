@@ -1,0 +1,380 @@
+filename,size,compressed
+materials/maps/bhop_pharaoh/dev/dev_water5_-7064_-760_-6231.vmt,154,154
+materials/maps/bhop_pharaoh/egypt/deco_panel_-7064_-760_-6231.vmt,133,133
+materials/maps/bhop_pharaoh/egypt/deco_panel_half_-7064_-760_-6231.vmt,138,138
+materials/maps/bhop_pharaoh/egypt/base_plaster_-7064_-760_-6231.vmt,135,135
+materials/maps/bhop_pharaoh/egypt/base_stone3_moss_-7064_-760_-6231.vmt,139,139
+materials/maps/bhop_pharaoh/egypt/base_stone2_moss_-7064_-760_-6231.vmt,139,139
+materials/maps/bhop_pharaoh/egypt/deco_panel_half_statue_-7064_-760_-6231.vmt,145,145
+materials/maps/bhop_pharaoh/egypt/woodplanks1_-7064_-760_-6231.vmt,134,134
+materials/maps/bhop_pharaoh/egypt/base_stone3_-7064_-760_-6231.vmt,134,134
+materials/maps/bhop_pharaoh/egypt/wall_stone1_drips_-7064_-760_-6231.vmt,140,140
+materials/maps/bhop_pharaoh/egypt/floor_mosaictiles_-7064_-760_-6231.vmt,140,140
+materials/maps/bhop_pharaoh/egypt/wall_stone_gradient_-7064_-760_-6231.vmt,142,142
+materials/maps/bhop_pharaoh/egypt/floor_fossiltiles_-7064_-760_-6231.vmt,140,140
+materials/maps/bhop_pharaoh/egypt/wall_stone1_gradient_-7064_-760_-6231.vmt,143,143
+materials/maps/bhop_pharaoh/maps/bhop_pharaoh/dev/dev_water5_-7064_-760_-6231_depth_32.vmt,136,136
+materials/maps/bhop_pharaoh/maps/bhop_pharaoh/dev/dev_water5_-7064_-760_-6231_depth_128.vmt,137,137
+materials/maps/bhop_pharaoh/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_pharaoh/c-7064_-760_-6231.vtf,4960,4960
+materials/maps/bhop_pharaoh/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_pharaoh/c-7064_-760_-6231.hdr.vtf,76528,76528
+materials/Egypt/deco_panel.vmt,236,236
+materials/Egypt/deco_panel.vtf,174984,174984
+materials/Egypt/deco_panel_half.vmt,241,241
+materials/Egypt/deco_panel_half.vtf,87544,87544
+materials/Egypt/base_plaster.vmt,237,237
+materials/Egypt/base_plaster.vtf,174984,174984
+materials/Egypt/base_stone3_moss.vmt,242,242
+materials/Egypt/base_stone3_moss.vtf,174984,174984
+materials/Egypt/base_stone2_moss.vmt,242,242
+materials/Egypt/base_stone2_moss.vtf,174984,174984
+materials/Egypt/deco_panel_half_statue.vmt,248,248
+materials/Egypt/deco_panel_half_statue.vtf,87544,87544
+materials/Egypt/WOODPLANKS1.vmt,239,239
+materials/Egypt/woodplanks1.vtf,174984,174984
+materials/Egypt/base_stone3.vmt,237,237
+materials/Egypt/base_stone3.vtf,174984,174984
+materials/Egypt/wall_stone1_drips.vmt,240,240
+materials/Egypt/wall_stone1_drips.vtf,699272,699272
+materials/Egypt/floor_mosaictiles.vmt,243,243
+materials/Egypt/floor_mosaictiles.vtf,174984,174984
+materials/Egypt/wall_stone_gradient.vmt,242,242
+materials/Egypt/wall_stone_gradient.vtf,699272,699272
+materials/Egypt/floor_fossiltiles.vmt,243,243
+materials/Egypt/floor_fossiltiles.vtf,699272,699272
+materials/Egypt/wall_stone1_gradient.vmt,243,243
+materials/Egypt/wall_stone1_gradient.vtf,699272,699272
+materials/Silkroad/Egypt/ground (19).vmt,78,78
+materials/Silkroad/Egypt/ground (19).vtf,87616,87616
+materials/tools/TOOLSNODRAW.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/Egypt/064-08f.vmt,61,61
+materials/Egypt/064-08f.vtf,11064,11064
+materials/Silkroad/Egypt/ground (7).vmt,92,92
+materials/Silkroad/Egypt/ground (7).vtf,87616,87616
+materials/Silkroad/Egypt/wall (11).vmt,76,76
+materials/Silkroad/Egypt/wall (11).vtf,174944,174944
+materials/Egypt/stone06e.vmt,62,62
+materials/Egypt/stone06e.vtf,43912,43912
+materials/Egypt/stone08a.vmt,62,62
+materials/Egypt/stone08a.vtf,43912,43912
+materials/sock_egyptian/lig_b064-01d.vmt,74,74
+materials/sock_egyptian/lig_b064-01d.vtf,11064,11064
+materials/sock_egyptian/stone11d.vmt,70,70
+materials/sock_egyptian/stone11d.vtf,43912,43912
+materials/Egypt/stone07b.vmt,62,62
+materials/Egypt/stone07b.vtf,43912,43912
+materials/Egypt/stone08b.vmt,62,62
+materials/Egypt/stone08b.vtf,43912,43912
+materials/sock_egyptian/jumppad1bg.vmt,91,91
+materials/sock_egyptian/jumppad1bg.vtf,87616,87616
+materials/Silkroad/Egypt/ground (20).vmt,78,78
+materials/Silkroad/Egypt/ground (20).vtf,87616,87616
+materials/Egypt/064-08e.vmt,61,61
+materials/Egypt/064-08e.vtf,11064,11064
+materials/Silkroad/Egypt/wall (7).vmt,75,75
+materials/Silkroad/Egypt/wall (7).vtf,349760,349760
+materials/Egypt/096-01c.vmt,61,61
+materials/Egypt/096-01c.vtf,22008,22008
+materials/tools/TOOLSSKYBOX.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/Egypt/stone07d.vmt,62,62
+materials/Egypt/stone07d.vtf,43912,43912
+materials/sock_egyptian/v128-03dr.vmt,71,71
+materials/sock_egyptian/v128-03dr.vtf,22008,22008
+materials/Egypt/block02a.vmt,62,62
+materials/Egypt/block02a.vtf,43912,43912
+materials/Egypt/lig_128-05b.vmt,65,65
+materials/Egypt/lig_128-05b.vtf,5624,5624
+materials/Egypt/v128-03g.vmt,62,62
+materials/Egypt/v128-03g.vtf,22008,22008
+materials/Silkroad/Ground/mong_sand_01.vmt,100,100
+materials/Silkroad/Ground/mong_sand_01.vtf,349760,349760
+materials/Egypt/128-01c.vmt,61,61
+materials/Egypt/128-01c.vtf,22008,22008
+materials/Egypt/v128-02e.vmt,62,62
+materials/Egypt/v128-02e.vtf,22008,22008
+materials/Egypt/stone03a.vmt,62,62
+materials/Egypt/stone03a.vtf,43912,43912
+materials/tools/toolsskip.vmt,326,326
+materials/tools/toolsskip.vtf,5680,5680
+materials/tools/toolsskip-dx10.vtf,5720,5720
+materials/tools/toolshint.vmt,324,324
+materials/tools/toolshint.vtf,5680,5680
+materials/tools/toolshint-dx10.vtf,5720,5720
+materials/Egypt/048-02g.vmt,61,61
+materials/Egypt/048-02g.vtf,11064,11064
+materials/SDO/EGYPTE/KT_Q3.vmt,88,88
+materials/SDO/EGYPTE/kt_q3.vtf,174984,174984
+materials/Egypt/064-02c.vmt,61,61
+materials/Egypt/064-02c.vtf,11064,11064
+materials/Egypt/stone06b.vmt,62,62
+materials/Egypt/stone06b.vtf,43912,43912
+materials/Egypt/stone-block.vmt,94,94
+materials/giza/stone-block.vtf,174968,174968
+materials/Egypt/128-comb1.vmt,63,63
+materials/Egypt/128-comb1.vtf,22008,22008
+materials/Egypt/block09a.vmt,62,62
+materials/Egypt/block09a.vtf,43912,43912
+materials/Egypt/block08c.vmt,62,62
+materials/Egypt/block08c.vtf,43912,43912
+materials/sock_egyptian/block07b.vmt,70,70
+materials/sock_egyptian/block07b.vtf,43912,43912
+materials/sock_egyptian/lig_b064-01b.vmt,85,85
+materials/sock_egyptian/lig_b064-01b.vtf,11064,11064
+materials/Silkroad/Egypt/wall (100).vmt,92,92
+materials/Silkroad/Egypt/wall (100).vtf,174944,174944
+materials/Silkroad/Egypt/wall (84).vmt,76,76
+materials/Silkroad/Egypt/wall (84).vtf,349760,349760
+materials/sock_egyptian/lig_064-05y2.vmt,74,74
+materials/sock_egyptian/lig_064-05y2.vtf,2952,2952
+materials/Egypt/block10b.vmt,62,62
+materials/Egypt/block10b.vtf,43912,43912
+materials/Egypt/block10a.vmt,62,62
+materials/Egypt/block10a.vtf,43912,43912
+materials/Egypt/block10c.vmt,62,62
+materials/Egypt/block10c.vtf,43912,43912
+materials/Silkroad/Egypt/column (2).vmt,92,92
+materials/Silkroad/Egypt/column (2).vtf,87552,87552
+materials/cs_italy/black.vmt,62,62
+materials/cs_italy/black.vtf,1584,1584
+materials/Egypt/lig_v192-01yb.vmt,67,67
+materials/Egypt/lig_v192-01yb.vtf,22008,22008
+materials/Egypt/128-03a.vmt,61,61
+materials/Egypt/128-03a.vtf,22008,22008
+materials/Egypt/lig_064-05r2.vmt,66,66
+materials/Egypt/lig_064-05r2.vtf,2952,2952
+materials/Egypt/032-03c.vmt,61,61
+materials/Egypt/032-03c.vtf,5624,5624
+materials/Egypt/032-03b.vmt,61,61
+materials/Egypt/032-03b.vtf,5624,5624
+materials/SDO/EGYPTE/HORUS7.vmt,89,89
+materials/SDO/EGYPTE/horus7.vtf,43912,43912
+materials/Egypt/064-05d.vmt,61,61
+materials/Egypt/064-05d.vtf,11064,11064
+materials/Egypt/128-05a.vmt,61,61
+materials/Egypt/128-05a.vtf,22008,22008
+materials/Egypt/128-02pb.vmt,62,62
+materials/Egypt/128-02pb.vtf,22008,22008
+materials/Silkroad/Egypt/ground (2).vmt,77,77
+materials/Silkroad/Egypt/ground (2).vtf,87616,87616
+materials/Silkroad/Egypt/ground (12).vmt,78,78
+materials/Silkroad/Egypt/ground (12).vtf,87616,87616
+materials/Silkroad/Egypt/wall (83).vmt,76,76
+materials/Silkroad/Egypt/wall (83).vtf,349760,349760
+materials/Egypt/128-04d.vmt,61,61
+materials/Egypt/128-04d.vtf,22008,22008
+materials/Silkroad/Egypt/roof (2).vmt,90,90
+materials/Silkroad/Egypt/roof (2).vtf,87616,87616
+materials/Silkroad/Egypt/ground (13).vmt,78,78
+materials/Silkroad/Egypt/ground (13).vtf,87616,87616
+materials/Egypt/stone03b.vmt,62,62
+materials/Egypt/stone03b.vtf,43912,43912
+materials/Egypt/TRIM.vmt,117,117
+materials/Egypt/trim.vtf,22008,22008
+materials/Egypt/trim_normal.vtf,22008,22008
+materials/Egypt/woodmgrid3b.vmt,65,65
+materials/Egypt/woodmgrid3b.vtf,43912,43912
+materials/Egypt/v064-03d.vmt,62,62
+materials/Egypt/v064-03d.vtf,11064,11064
+materials/Egypt/v128-02a.vmt,62,62
+materials/Egypt/v128-02a.vtf,22008,22008
+materials/Egypt/v064-02b.vmt,62,62
+materials/Egypt/v064-02b.vtf,11064,11064
+materials/Egypt/marker1bb.vmt,63,63
+materials/Egypt/marker1bb.vtf,43912,43912
+materials/Silkroad/Egypt/wall (89).vmt,76,76
+materials/Silkroad/Egypt/wall (89).vtf,87616,87616
+materials/Silkroad/Egypt/ground (21).vmt,93,93
+materials/Silkroad/Egypt/ground (21).vtf,87616,87616
+materials/Egypt/jumppad1ab.vmt,64,64
+materials/Egypt/jumppad1ab.vtf,43912,43912
+materials/sock_egyptian/s064-05c.vmt,70,70
+materials/sock_egyptian/s064-05c.vtf,11144,11144
+materials/Silkroad/Egypt/roof (4).vmt,75,75
+materials/Silkroad/Egypt/roof (4).vtf,87616,87616
+materials/Silkroad/Egypt/roof (6).vmt,90,90
+materials/Silkroad/Egypt/roof (6).vtf,87616,87616
+materials/Silkroad/Egypt/wall (110).vmt,77,77
+materials/Silkroad/Egypt/wall (110).vtf,174944,174944
+materials/Egypt/128-03c.vmt,61,61
+materials/Egypt/128-03c.vtf,22008,22008
+materials/sock_egyptian/s064-05e.vmt,70,70
+materials/sock_egyptian/s064-05e.vtf,11144,11144
+materials/Egypt/s064-01f.vmt,62,62
+materials/Egypt/s064-01f.vtf,2952,2952
+materials/Egypt/stone11a.vmt,62,62
+materials/Egypt/stone11a.vtf,43912,43912
+materials/Silkroad/Egypt/wall (67).vmt,76,76
+materials/Silkroad/Egypt/wall (67).vtf,87616,87616
+materials/Egypt/stone05a.vmt,62,62
+materials/Egypt/stone05a.vtf,43912,43912
+materials/Egypt/s064-02d.vmt,62,62
+materials/Egypt/s064-02d.vtf,2952,2952
+materials/Egypt/stone10b.vmt,62,62
+materials/Egypt/stone10b.vtf,43912,43912
+materials/tools/TOOLSTRIGGER.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/Egypt/128-05g.vmt,61,61
+materials/Egypt/128-05g.vtf,22008,22008
+materials/sock_egyptian/block08c.vmt,70,70
+materials/sock_egyptian/block08c.vtf,43912,43912
+materials/Silkroad/Egypt/ground (22).vmt,93,93
+materials/Silkroad/Egypt/ground (22).vtf,87616,87616
+materials/SDO/EGYPTE/KT_SARC_B.vmt,92,92
+materials/SDO/EGYPTE/kt_sarc_b.vtf,174904,174904
+materials/Silkroad/Egypt/ground (24).vmt,93,93
+materials/Silkroad/Egypt/ground (24).vtf,87616,87616
+materials/Egypt/jumppad1ar.vmt,64,64
+materials/Egypt/jumppad1ar.vtf,43912,43912
+materials/Egypt/stone09c.vmt,62,62
+materials/Egypt/stone09c.vtf,43912,43912
+materials/Egypt/stone09d.vmt,62,62
+materials/Egypt/stone09d.vtf,43912,43912
+materials/WaterSource/Waterfall/WaterfallFULL_1024_CLEAR.vmt,264,264
+materials/WaterSource/Waterfall/WaterfallFULL_1024_CLEAR.vtf,1398336,1398336
+materials/one/default/white.vmt,99,99
+materials/one/default/white.vtf,349760,349760
+materials/one/egypt/pharaoh.vmt,95,95
+materials/one/egypt/pharaoh.vtf,174944,174944
+materials/Egypt/s128-02e.vmt,62,62
+materials/Egypt/s128-02e.vtf,11144,11144
+materials/sock_egyptian/lig_064-02r2.vmt,74,74
+materials/sock_egyptian/lig_064-02r2.vtf,2952,2952
+materials/Egypt/stone06a.vmt,62,62
+materials/Egypt/stone06a.vtf,43912,43912
+materials/Egypt/v064-02d.vmt,62,62
+materials/Egypt/v064-02d.vtf,11064,11064
+materials/skybox/mpa117up.vmt,85,85
+materials/skybox/mpa117up.vtf,699272,699272
+materials/skybox/mpa117dn.vmt,85,85
+materials/skybox/mpa117dn.vtf,699272,699272
+materials/skybox/mpa117lf.vmt,85,85
+materials/skybox/mpa117lf.vtf,699272,699272
+materials/skybox/mpa117rt.vmt,85,85
+materials/skybox/mpa117rt.vtf,699272,699272
+materials/skybox/mpa117ft.vmt,85,85
+materials/skybox/mpa117ft.vtf,699272,699272
+materials/skybox/mpa117bk.vmt,85,85
+materials/skybox/mpa117bk.vtf,699272,699272
+materials/detail/detailsprites.vmt,87,87
+materials/detail/detailsprites.vtf,1398360,1398360
+models/fy_ancient_egypt/cat.mdl,1716,1716
+models/fy_ancient_egypt/cat.vvd,471552,471552
+models/fy_ancient_egypt/cat.dx90.vtx,117864,117864
+models/fy_ancient_egypt/cat.dx80.vtx,117864,117864
+models/fy_ancient_egypt/cat.sw.vtx,117864,117864
+models/fy_ancient_egypt/cat.phy,6121,6121
+materials/fy_ancient_egypt/statue.vmt,379,379
+materials/fy_ancient_egypt/block01b.vtf,43936,43936
+materials/fy_ancient_egypt/block01b_normal.vtf,43936,43936
+materials/fy_ancient_egypt/gold_specular.vtf,43936,43936
+models/fy_ancient_egypt/palm04.mdl,1912,1912
+models/fy_ancient_egypt/palm04.vvd,31040,31040
+models/fy_ancient_egypt/palm04.dx90.vtx,7770,7770
+models/fy_ancient_egypt/palm04.dx80.vtx,7770,7770
+models/fy_ancient_egypt/palm04.sw.vtx,7770,7770
+models/fy_ancient_egypt/palm04.phy,1084,1084
+materials/fy_ancient_egypt/palmleafs.vmt,405,405
+materials/fy_ancient_egypt/palmleafs.vtf,1398360,1398360
+materials/fy_ancient_egypt/palmleafs_normal.vtf,699296,699296
+materials/fy_ancient_egypt/palmleafs_spec.vtf,175008,175008
+materials/fy_ancient_egypt/palmbark.vmt,375,375
+materials/fy_ancient_egypt/palmbark.vtf,349712,349712
+materials/fy_ancient_egypt/palmbark_normal.vtf,349712,349712
+materials/fy_ancient_egypt/palmbark_spec.vtf,87568,87568
+models/props_nature/tropicalplant_1a.mdl,1764,1764
+models/props_nature/tropicalplant_1a.vvd,19264,19264
+models/props_nature/tropicalplant_1a.dx90.vtx,4657,4657
+models/props_nature/tropicalplant_1a.dx80.vtx,4657,4657
+models/props_nature/tropicalplant_1a.phy,2375,2375
+materials/models/props_nature/tropicalplant_1.vmt,462,462
+materials/models/props_nature/tropicalplant_1.vtf,699232,699232
+materials/models/props_nature/tropicalplant_1_normal.vtf,699232,699232
+models/Fibbs/Torch/LODs/torchwithmount.mdl,1912,1912
+models/Fibbs/Torch/LODs/torchwithmount.vvd,48288,48288
+models/Fibbs/Torch/LODs/TorchwithMount.dx90.vtx,21369,21369
+models/Fibbs/Torch/LODs/TorchwithMount.dx80.vtx,21369,21369
+models/Fibbs/Torch/LODs/TorchwithMount.sw.vtx,21369,21369
+models/Fibbs/Torch/LODs/TorchwithMount.phy,8997,8997
+materials/models/fibbs/TorchMount.vmt,199,199
+materials/models/fibbs/TorchMount.vtf,43912,43912
+materials/models/fibbs/TorchMount_n.vtf,87632,87632
+materials/models/fibbs/Torch.vmt,178,178
+materials/models/fibbs/Torch.vtf,174984,174984
+materials/models/fibbs/Torch_n.vtf,349776,349776
+models/Kloetengott/kiste.mdl,1696,1696
+models/Kloetengott/kiste.vvd,15936,15936
+models/Kloetengott/Kiste.dx90.vtx,3213,3213
+models/Kloetengott/Kiste.dx80.vtx,3213,3213
+models/Kloetengott/Kiste.sw.vtx,3213,3213
+models/Kloetengott/Kiste.phy,684,684
+materials/models/Kloetengott/Kiste.vmt,94,94
+materials/models/Kloetengott/Kiste.vtf,174984,174984
+materials/models/Kloetengott/Kiste2.vmt,95,95
+materials/models/Kloetengott/Kiste2.vtf,174984,174984
+materials/models/Kloetengott/Kiste3.vmt,95,95
+materials/models/Kloetengott/Kiste3.vtf,174984,174984
+materials/models/Kloetengott/Kiste4.vmt,95,95
+materials/models/Kloetengott/Kiste4.vtf,174984,174984
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_b_02.mdl,2400,2400
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_b_02.vvd,56768,56768
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_02.dx90.vtx,15816,15816
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_02.dx80.vtx,15816,15816
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_02.sw.vtx,15816,15816
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_02.phy,3981,3981
+materials/DomiTibingen/Foliage/Palms/D_palm_01/palm_bark_02.vmt,182,182
+materials/DomiTibingen/Foliage/Palms/D_palm_01/palm_bark_02.vtf,174928,174928
+materials/DomiTibingen/Foliage/Palms/D_palm_01/palm_bark_02_normal.vtf,174928,174928
+materials/DomiTibingen/Foliage/Palms/D_palm_01/DatePalmFrond_Dead.vmt,174,174
+materials/DomiTibingen/Foliage/Palms/D_palm_01/DatePalmFrond_Dead.vtf,349720,349720
+materials/DomiTibingen/Foliage/Palms/D_palm_01/DatePalmFrond.vmt,169,169
+materials/DomiTibingen/Foliage/Palms/D_palm_01/DatePalmFrond.vtf,349720,349720
+materials/DomiTibingen/Foliage/Palms/D_palm_01/Cap_04.vmt,147,147
+materials/DomiTibingen/Foliage/Palms/D_palm_01/Cap_04.vtf,175008,175008
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_b_05.mdl,2400,2400
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_b_05.vvd,46208,46208
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_05.dx90.vtx,13119,13119
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_05.dx80.vtx,13119,13119
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_05.sw.vtx,13119,13119
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_05.phy,2438,2438
+models/fy_ancient_egypt/horus.mdl,1716,1716
+models/fy_ancient_egypt/horus.vvd,808576,808576
+models/fy_ancient_egypt/horus.dx90.vtx,204498,204498
+models/fy_ancient_egypt/horus.dx80.vtx,204498,204498
+models/fy_ancient_egypt/horus.sw.vtx,204498,204498
+models/fy_ancient_egypt/horus.phy,8916,8916
+models/madebycn/anubis.mdl,2004,2004
+models/madebycn/anubis.vvd,248256,248256
+models/madebycn/anubis.dx90.vtx,77910,77910
+models/madebycn/anubis.dx80.vtx,77910,77910
+models/madebycn/anubis.sw.vtx,77910,77910
+models/madebycn/anubis.phy,3546,3546
+materials/MadebyCN/robe.vmt,256,256
+materials/MadebyCN/robe.vtf,392,392
+materials/MadebyCN/gold.vmt,256,256
+materials/MadebyCN/gold.vtf,392,392
+materials/MadebyCN/white.vmt,257,257
+materials/MadebyCN/white.vtf,392,392
+materials/MadebyCN/eyes.vmt,256,256
+materials/MadebyCN/eyes.vtf,392,392
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_s_06.mdl,2400,2400
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_s_06.vvd,49280,49280
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_s_06.dx90.vtx,14091,14091
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_s_06.dx80.vtx,14091,14091
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_s_06.sw.vtx,14091,14091
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_s_06.phy,3735,3735
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_b_04.mdl,2400,2400
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_b_04.vvd,76288,76288
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_04.dx90.vtx,20829,20829
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_04.dx80.vtx,20829,20829
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_04.sw.vtx,20829,20829
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_04.phy,4791,4791
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_b_03.mdl,2400,2400
+models/DomiTibingen/Foliage/Palms/D_palm_01/d_palm_b_03.vvd,62272,62272
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_03.dx90.vtx,17322,17322
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_03.dx80.vtx,17322,17322
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_03.sw.vtx,17322,17322
+models/DomiTibingen/Foliage/Palms/D_palm_01/D_palm_b_03.phy,4695,4695
+maps/bhop_pharaoh.nav,205,205

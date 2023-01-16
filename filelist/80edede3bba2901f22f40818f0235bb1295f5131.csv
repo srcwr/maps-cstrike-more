@@ -1,0 +1,64 @@
+filename,size,compressed
+materials/maps/bootybay_turned/wood/woodfloor008a_0_0_0.vmt,166,166
+materials/maps/bootybay_turned/de_piranesi/woodfloor03_0_0_0.vmt,132,132
+materials/maps/bootybay_turned/wood/woodfloor007a_c17_0_0_0.vmt,170,170
+materials/maps/bootybay_turned/props/metalduct001a_0_0_0.vmt,128,128
+materials/maps/bootybay_turned/dev/dev_water5_depth_100.vmt,102,102
+materials/maps/bootybay_turned/cubemapdefault.vtf,38300,38300
+materials/maps/bootybay_turned/c0_0_0.vtf,38300,38300
+materials/CRUZZEIN'S TEXTURES/OTHERES/WOODWALL01.vmt,116,116
+materials/REALWORLDTEXTURES2/ROOF/ROOF_04.vmt,375,375
+materials/RealWorldTextures2/Roof/roof_04.vtf,174984,174984
+materials/RealWorldTextures2/Roof/roof_04_nrm.vtf,174984,174984
+materials/RealWorldTextures2/detail/noise_detail_01.vtf,65959,65959
+materials/HL2/WOOD/WOODFLOOR006A.vmt,120,120
+materials/CRUZZEIN'S TEXTURES/OTHERES/WOOD01.vmt,112,112
+materials/CRUZZEIN'S TEXTURES/OTHERES/WOODCUTTEDTREE01.vmt,122,122
+materials/REALWORLDTEXTURES2/STAIRS/STAIRS_07.vmt,298,298
+materials/RealWorldTextures2/stairs/stairs_07.vtf,174984,174984
+materials/RealWorldTextures2/stairs/stairs_07_nrm.vtf,174984,174984
+materials/CRUZZEIN'S TEXTURES/OTHERES/BRICK01.vmt,164,164
+materials/SILKROAD/EGYPT/COLUMN (1).vmt,92,92
+materials/SILKROAD/FGWORLD/GROUNDWOOD1.vmt,106,106
+materials/Silkroad/FGWorld/groundwood1.vtf,349760,349760
+materials/SILKROAD/CHINA/COBWEB_CIRCLE.vmt,95,95
+materials/Silkroad/China/cobweb_circle.vtf,87616,87616
+materials/REALWORLDTEXTURES2/MISC/FENCE_06.vmt,244,244
+materials/RealWorldTextures2/Misc/fence_06.vtf,349760,349760
+materials/CRUZZEIN'S TEXTURES/OTHERES/INSPIRATION.vmt,127,127
+models/props/cruzzein/stair01.mdl,1952,1952
+models/props/cruzzein/stair01.dx80.vtx,3543,3543
+models/props/cruzzein/stair01.dx90.vtx,3543,3543
+models/props/cruzzein/stair01.sw.vtx,3543,3543
+models/props/cruzzein/stair01.phy,5561,5561
+models/props/cruzzein/stair01.vvd,17472,17472
+materials/models/cruzzein/wood01.vmt,110,110
+materials/models/cruzzein/woodcuttedtree01.vmt,120,120
+materials/models/cruzzein/woodwall01.vmt,114,114
+materials/skybox/icebergsup.vmt,94,94
+materials/skybox/icebergsup.vtf,5592612,5592612
+materials/skybox/icebergsdn.vmt,94,94
+materials/skybox/icebergsdn.vtf,5592612,5592612
+materials/skybox/icebergsft.vmt,94,94
+materials/skybox/icebergsft.vtf,5592612,5592612
+materials/skybox/icebergsbk.vmt,94,94
+materials/skybox/icebergsbk.vtf,5592612,5592612
+materials/skybox/icebergslf.vmt,94,94
+materials/skybox/icebergslf.vtf,5592612,5592612
+materials/skybox/icebergsrt.vmt,94,94
+materials/skybox/icebergsrt.vtf,5592612,5592612
+materials/models/Gibs/furniture_gibs/FurnitureWoodDrawers001a.vtf,174968,174968
+maps/soundcache/bootybay_turned.cache,16,16
+materials/CrUzZeiN's textures/otheres/Brick01.vmt,164,164
+materials/CrUzZeiN's textures/otheres/Brick01.vtf,43912,43912
+materials/CrUzZeiN's textures/otheres/Brick01_nrm.vtf,43912,43912
+materials/CrUzZeiN's textures/otheres/inspiration.vmt,127,127
+materials/CrUzZeiN's textures/otheres/inspiration.vtf,2796424,2796424
+materials/CrUzZeiN's textures/otheres/wood01.vmt,112,112
+materials/CrUzZeiN's textures/otheres/wood01.vtf,22008,22008
+materials/CrUzZeiN's textures/otheres/woodcuttedtree01.vmt,122,122
+materials/CrUzZeiN's textures/otheres/woodcuttedtree01.vtf,2952,2952
+materials/CrUzZeiN's textures/otheres/woodwall01.vmt,116,116
+materials/CrUzZeiN's textures/otheres/woodwall01.vtf,22008,22008
+materials/Silkroad/Egypt/column (1).vmt,92,92
+materials/Silkroad/Egypt/column (1).vtf,87552,87552

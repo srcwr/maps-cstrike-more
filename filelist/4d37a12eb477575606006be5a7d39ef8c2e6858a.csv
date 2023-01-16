@@ -1,0 +1,28 @@
+filename,size,compressed
+materials/maps/surf_imagine_fix/metal/citadel_tilefloor016a_0_0_0.vmt,137,137
+materials/maps/surf_imagine_fix/nature/water_canals03_0_0_0.vmt,154,154
+materials/maps/surf_imagine_fix/concrete/milflr001_0_0_0.vmt,128,128
+materials/maps/surf_imagine_fix/glass/glasswindow007a_0_0_0.vmt,131,131
+materials/maps/surf_imagine_fix/metal/citadel_metalwall063a_0_0_0.vmt,137,137
+materials/maps/surf_imagine_fix/metal/metalfloor001a_0_0_0.vmt,130,130
+materials/maps/surf_imagine_fix/nature/water_canals03_depth_3.vmt,107,107
+materials/maps/surf_imagine_fix/nature/water_canals_water2_depth_3.vmt,112,112
+materials/maps/surf_imagine_fix/nature/sewer_waterdarkfog2_depth_3.vmt,112,112
+materials/maps/surf_imagine_fix/cubemapdefault.vtf,4960,4960
+materials/maps/surf_imagine_fix/c0_0_0.vtf,4960,4960
+materials/maps/surf_imagine_fix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_imagine_fix/c0_0_0.hdr.vtf,76528,76528
+materials/custom tex/stars.vtf,5592640,5592640
+materials/custom tex/stars.vmt,114,114
+materials/skybox/black/blackbk.vmt,79,79
+materials/skybox/black/blackbk.vtf,699272,699272
+materials/skybox/black/blackdn.vmt,79,79
+materials/skybox/black/blackdn.vtf,699272,699272
+materials/skybox/black/blackft.vmt,79,79
+materials/skybox/black/blackft.vtf,699272,699272
+materials/skybox/black/blacklf.vmt,79,79
+materials/skybox/black/blacklf.vtf,699272,699272
+materials/skybox/black/blackrt.vmt,79,79
+materials/skybox/black/blackrt.vtf,699272,699272
+materials/skybox/black/blackup.vmt,79,79
+materials/skybox/black/blackup.vtf,699272,699272

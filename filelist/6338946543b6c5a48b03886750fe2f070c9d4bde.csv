@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/mg_g2_run/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/mg_g2_run/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/mg_g2_run/shadertest/watercheap_opaque_49_-800_1991.vmt,161,161
+materials/maps/mg_g2_run/glass/glasswindow070c_49_-800_1991.vmt,131,131
+materials/maps/mg_g2_run/maps/mg_g2_run/shadertest/watercheap_opaque_49_-800_1991_depth_166.vmt,144,144
+materials/maps/mg_g2_run/cubemapdefault.vtf,28753,28753
+materials/maps/mg_g2_run/c49_-800_1991.vtf,28753,28753
+materials/maps/mg_g2_run/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_g2_run/c49_-800_1991.hdr.vtf,76528,76528

@@ -1,0 +1,21 @@
+filename,size,compressed
+materials/maps/cs_hurst_gold/nature/sewer_water001_430_258_-987.vmt,158,158
+materials/maps/cs_hurst_gold/liquids/water_pretty1_4938_6411_-2227.vmt,161,161
+materials/maps/cs_hurst_gold/de_chateau/groundc_430_258_-987.vmt,132,132
+materials/maps/cs_hurst_gold/de_chateau/groundc_4938_6411_-2227.vmt,135,135
+materials/maps/cs_hurst_gold/concrete/concretefloor013c_4938_6411_-2227.vmt,143,143
+materials/maps/cs_hurst_gold/models/props_wasteland/metal_tram001a_430_258_-987.vmt,151,151
+materials/maps/cs_hurst_gold/concrete/concretefloor039a_430_258_-987.vmt,140,140
+materials/maps/cs_hurst_gold/environment maps/pipemetal001a_430_258_-987.vmt,144,144
+materials/maps/cs_hurst_gold/environment maps/pipemetal001a_4938_6411_-2227.vmt,147,147
+materials/maps/cs_hurst_gold/glass/glasswindowbreak070b_430_258_-987.vmt,114,114
+materials/maps/cs_hurst_gold/glass/offwndwb_430_258_-987.vmt,210,210
+materials/maps/cs_hurst_gold/metal/citadel_tilefloor016a_430_258_-987.vmt,141,141
+materials/maps/cs_hurst_gold/metal/metalwall031a_430_258_-987.vmt,133,133
+materials/maps/cs_hurst_gold/metal/metalwall031a_4938_6411_-2227.vmt,136,136
+materials/maps/cs_hurst_gold/concrete/concretefloor028a_c17_430_258_-987.vmt,183,183
+materials/maps/cs_hurst_gold/maps/cs_hurst_gold/nature/sewer_water001_430_258_-987_depth_124.vmt,141,141
+materials/maps/cs_hurst_gold/maps/cs_hurst_gold/liquids/water_pretty1_4938_6411_-2227_depth_115.vmt,144,144
+materials/maps/cs_hurst_gold/cubemapdefault.vtf,9808,9808
+materials/maps/cs_hurst_gold/c430_258_-987.vtf,4936,4936
+materials/maps/cs_hurst_gold/c4938_6411_-2227.vtf,4936,4936

@@ -1,0 +1,54 @@
+filename,size,compressed
+materials/maps/mg_orange_v1/ground/blendsnow_conc_wvt_patch.vmt,91,91
+materials/maps/mg_orange_v1/glass/unbreakable_320_-992_154.vmt,130,130
+materials/maps/mg_orange_v1/glass/unbreakable_1384_176_146.vmt,130,130
+materials/maps/mg_orange_v1/glass/glasswindow070c_320_-992_154.vmt,134,134
+materials/maps/mg_orange_v1/glass/glasswindow070c_-496_-624_544.vmt,135,135
+materials/maps/mg_orange_v1/glass/glasswindow070c_1792_-1664_480.vmt,136,136
+materials/maps/mg_orange_v1/metal/citadel_metalwall090a_1792_-1664_480.vmt,142,142
+materials/maps/mg_orange_v1/metal/citadel_metalwall090a_1808_-624_1168.vmt,142,142
+materials/maps/mg_orange_v1/metal/citadel_metalwall090a_1384_176_146.vmt,140,140
+materials/maps/mg_orange_v1/metal/citadel_metalwall090a_320_-992_154.vmt,140,140
+materials/maps/mg_orange_v1/cubemapdefault.vtf,9832,9832
+materials/maps/mg_orange_v1/c320_-992_154.vtf,9832,9832
+materials/maps/mg_orange_v1/c1384_176_146.vtf,9832,9832
+materials/maps/mg_orange_v1/c-496_-624_544.vtf,9832,9832
+materials/maps/mg_orange_v1/c1792_-1664_480.vtf,9832,9832
+materials/maps/mg_orange_v1/c1808_-624_1168.vtf,9832,9832
+materials/maps/mg_orange_v1/c64_-64_928.vtf,9832,9832
+materials/maps/mg_orange_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_orange_v1/c320_-992_154.hdr.vtf,76528,76528
+materials/maps/mg_orange_v1/c1384_176_146.hdr.vtf,76528,76528
+materials/maps/mg_orange_v1/c-496_-624_544.hdr.vtf,76528,76528
+materials/maps/mg_orange_v1/c1792_-1664_480.hdr.vtf,76528,76528
+materials/maps/mg_orange_v1/c1808_-624_1168.hdr.vtf,76528,76528
+materials/maps/mg_orange_v1/c64_-64_928.hdr.vtf,76528,76528
+materials/mg_notextured_v1/Image Ball.vmt,75,75
+materials/mg_notextured_v1/Image Ball.vtf,22008,22008
+materials/mg_notextured_v1/Image BreakWall Game.vmt,85,85
+materials/mg_notextured_v1/Image BreakWall Game.vtf,22008,22008
+materials/mg_notextured_v1/Image NightSon.vmt,79,79
+materials/mg_notextured_v1/Image NightSon.vtf,174904,174904
+materials/mg_notextured_v1/Image RunForYourLife.vmt,85,85
+materials/mg_notextured_v1/Image RunForYourLife.vtf,22008,22008
+materials/mg_notextured_v1/Image Snow.vmt,75,75
+materials/mg_notextured_v1/Image Snow.vtf,22008,22008
+materials/mg_notextured_v1/Image Warzone.vmt,78,78
+materials/mg_notextured_v1/Image Warzone.vtf,22008,22008
+materials/lightbar/lightbar_blue.vmt,114,114
+materials/lightbar/lightbar_blue.vtf,22080,22080
+materials/lightbar/lightbar_green.vmt,96,96
+materials/lightbar/lightbar_green.vtf,22080,22080
+materials/lightbar/lightbar_orange.vmt,116,116
+materials/lightbar/lightbar_orange.vtf,22080,22080
+materials/lightbar/lightbar_red.vmt,113,113
+materials/lightbar/lightbar_red.vtf,22080,22080
+materials/lightbar/lightbar_white.vmt,115,115
+materials/lightbar/lightbar_white.vtf,22080,22080
+materials/lightbar/lightbar_yellow.vmt,116,116
+materials/lightbar/lightbar_yellow.vtf,22080,22080
+sound/mg_orange_v1/Mario Kart 64 Battle Block Fort - Choco Mountain PSR-740 Unknown.mp3,1469838,1469838
+sound/mg_orange_v1/Mario Kart 64 Music - Frappe Snowland.mp3,1996124,1996124
+sound/mg_orange_v1/Mario Kart 64 Music - Turnpike.mp3,2520559,2520559
+sound/mg_orange_v1/Mario Kart DS Music - Tick Tock Clock (No Engine Sound) (Final Lap).mp3,1563469,1563469
+sound/mg_orange_v1/Mario Kart DS Music - Tick Tock Clock No Engine Sound.mp3,1555073,1555073

@@ -1,0 +1,18 @@
+filename,size,compressed
+materials/maps/zm_dk/de_nuke/nukblenddirtgrass_wvt_patch.vmt,303,303
+materials/maps/zm_dk/de_dust/tilefloor02_0_0_0.vmt,118,118
+materials/maps/zm_dk/metal/citadel_tilefloor016a_0_0_0.vmt,126,126
+materials/maps/zm_dk/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/zm_dk/glass/offwndwb_0_0_0.vmt,180,180
+materials/maps/zm_dk/props/metalduct001a_0_0_0.vmt,118,118
+materials/maps/zm_dk/wood/wooddoor045a_0_0_0.vmt,116,116
+materials/maps/zm_dk/plaster/offwllc_0_0_0.vmt,114,114
+materials/maps/zm_dk/plaster/offwllb_0_0_0.vmt,114,114
+materials/maps/zm_dk/wood/offdesktop_0_0_0.vmt,114,114
+materials/maps/zm_dk/cubemapdefault.vtf,28753,28753
+materials/maps/zm_dk/c0_0_0.vtf,28753,28753
+materials/maps/zm_dk/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_dk/c0_0_0.hdr.vtf,76528,76528
+materials/NEW TEXTURES/BULLET1SMALL.vmt,100,100
+maps/zm_dk.nav,9374189,9374189
+maps/soundcache/zm_dk.cache,16,16

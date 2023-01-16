@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/db_syke/cubemapdefault.vtf,4952,4952
+materials/CUSTOM/DBSIGN.vmt,83,83
+materials/custom/dbsign.vtf,5592640,5592640
+materials/skybox/mpa45up.vmt,84,84
+materials/skybox/mpa45up.vtf,699272,699272
+materials/skybox/mpa45dn.vmt,84,84
+materials/skybox/mpa45dn.vtf,699272,699272
+materials/skybox/mpa45ft.vmt,84,84
+materials/skybox/mpa45ft.vtf,699272,699272
+materials/skybox/mpa45bk.vmt,84,84
+materials/skybox/mpa45bk.vtf,699272,699272
+materials/skybox/mpa45lf.vmt,84,84
+materials/skybox/mpa45lf.vtf,699272,699272
+materials/skybox/mpa45rt.vmt,84,84
+materials/skybox/mpa45rt.vtf,699272,699272
+maps/soundcache/db_syke.cache,16,16

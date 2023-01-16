@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/wcs_01/cubemapdefault.vtf,9824,9824
+materials/maps/wcs_01/c-568_-126_56.vtf,9824,9824
+materials/maps/wcs_01/c-1216_-56_56.vtf,9824,9824
+materials/maps/wcs_01/c-744_352_56.vtf,9824,9824
+materials/maps/wcs_01/c-568_-126_56.hdr.vtf,76520,76520
+materials/maps/wcs_01/c-1216_-56_56.hdr.vtf,76520,76520
+materials/maps/wcs_01/c-744_352_56.hdr.vtf,76520,76520
+materials/custom/chefkoch.vmt,63,63
+materials/custom/chefkoch.vtf,22008,22008
+maps/wcs_01.nav,135433,135433
+maps/soundcache/wcs_01.cache,16,16
+materials/maps/fy_africanheat/c-568_-126_56.hdr.vtf,76520,76520
+materials/maps/fy_africanheat/c-1216_-56_56.hdr.vtf,76520,76520
+materials/maps/fy_africanheat/c-744_352_56.hdr.vtf,76520,76520
+materials/maps/fy_africanheat/cubemapdefault.vtf,9824,9824

@@ -1,0 +1,23 @@
+filename,size,compressed
+materials/maps/zr_nightowers/cubemapdefault.vtf,4960,4960
+materials/maps/zr_nightowers/cubemapdefault.hdr.vtf,76528,76528
+materials/PB_TEXTURES/SGM.vmt,100,100
+materials/PB_textures/SGM.vtf,43912,43912
+materials/PB_TEXTURES/PLANET QX.vmt,104,104
+materials/PB_TEXTURES/SLEGGIE_SIGNATURE.vmt,114,114
+materials/PB_textures/Sleggie_Signature.vtf,174984,174984
+materials/skybox/mpa112up.vmt,92,92
+materials/skybox/mpa112up.vtf,699272,699272
+materials/skybox/mpa112dn.vmt,92,92
+materials/skybox/mpa112dn.vtf,699272,699272
+materials/skybox/mpa112ft.vmt,92,92
+materials/skybox/mpa112ft.vtf,699272,699272
+materials/skybox/mpa112bk.vmt,92,92
+materials/skybox/mpa112bk.vtf,699272,699272
+materials/skybox/mpa112lf.vmt,92,92
+materials/skybox/mpa112lf.vtf,699272,699272
+materials/skybox/mpa112rt.vmt,92,92
+materials/skybox/mpa112rt.vtf,699272,699272
+sound/slegsounds/28 days later theme.mp3,4119019,4119019
+maps/zr_nightowers.nav,172264,172264
+maps/soundcache/zr_nightowers.cache,604711,604711

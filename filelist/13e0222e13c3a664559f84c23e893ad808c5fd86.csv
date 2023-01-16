@@ -1,0 +1,9 @@
+filename,size,compressed
+materials/maps/fy_luonto_small/dev/dev_water2_-128_1032_40.vmt,153,153
+materials/maps/fy_luonto_small/maps/fy_luonto_small/dev/dev_water2_-128_1032_40_depth_64.vmt,135,135
+materials/maps/fy_luonto_small/cubemapdefault.vtf,9824,9824
+materials/maps/fy_luonto_small/c-128_1032_40.vtf,9824,9824
+materials/maps/fy_luonto_small/c-104_-336_0.vtf,9824,9824
+materials/maps/fy_luonto_small/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/fy_luonto_small/c-128_1032_40.hdr.vtf,76520,76520
+materials/maps/fy_luonto_small/c-104_-336_0.hdr.vtf,76520,76520

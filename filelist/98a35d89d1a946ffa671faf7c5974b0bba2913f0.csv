@@ -1,0 +1,111 @@
+filename,size,compressed
+materials/maps/gg_portal2_v3/realworldtextures2/metal/metal_08_0_0_0.vmt,140,140
+materials/maps/gg_portal2_v3/metal/citadel_metalwall077a_0_0_0.vmt,134,134
+materials/maps/gg_portal2_v3/metal/metalpipe005a_0_0_0.vmt,126,126
+materials/maps/gg_portal2_v3/cubemapdefault.vtf,28753,28753
+materials/maps/gg_portal2_v3/c0_0_0.vtf,28753,28753
+materials/maps/gg_portal2_v3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_portal2_v3/c0_0_0.hdr.vtf,76528,76528
+materials/RealWorldTextures2/Metal/Metal_08.vmt,435,435
+materials/RealWorldTextures2/Metal/Metal_08.vtf,174984,174984
+materials/RealWorldTextures2/Metal/Metal_08_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/metal_detail_01.vtf,262567,262567
+materials/PortalTextures/nonportal1.vmt,109,109
+materials/PortalTextures/nonportal1.vtf,174984,174984
+materials/PortalTextures/portal1.vmt,106,106
+materials/PortalTextures/portal1.vtf,174984,174984
+materials/RealWorldTextures/newer/1/Carpet_1_03.vmt,111,111
+materials/RealWorldTextures/newer/1/Carpet_1_03.vtf,174984,174984
+materials/RealWorldTextures/glass/Glass_01.vmt,522,522
+materials/RealWorldTextures/glass/Glass_01_nrm.vtf,349760,349760
+materials/aperture/aperture_6.vmt,86,86
+materials/aperture/aperture_6.vtf,349760,349760
+materials/wolflogo/wolflogo1.vmt,85,85
+materials/wolflogo/wolflogo1.vtf,699232,699232
+materials/hell_clan_logos/hell_clan_logo_2014.vmt,102,102
+materials/hell_clan_logos/hell_clan_logo_2014.vtf,349696,349696
+materials/aperture/Sign2.vmt,81,81
+materials/aperture/Sign2.vtf,699232,699232
+materials/aperture/Sign3.vmt,81,81
+materials/aperture/Sign3.vtf,699232,699232
+materials/aperture/Thanks2.vmt,83,83
+materials/aperture/thanks2.vtf,1398336,1398336
+materials/RealWorldTextures2/Wood/wood_crate_07.vmt,323,323
+materials/RealWorldTextures2/Wood/wood_crate_07.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_wood1.vtf,16807,16807
+materials/RealWorldTextures2/Wood/wood_crate_03.vmt,323,323
+materials/RealWorldTextures2/Wood/wood_crate_03.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_crate_08.vmt,323,323
+materials/RealWorldTextures2/Wood/wood_crate_08.vtf,174984,174984
+models/Portal 2 Pack vol.1/models/anim_wp/paneltop_192/paneltop_192.mdl,1752,1752
+models/Portal 2 Pack vol.1/models/anim_wp/paneltop_192/paneltop_192.vvd,131520,131520
+models/Portal 2 Pack vol.1/models/anim_wp/paneltop_192/paneltop_192.dx90.vtx,24565,24565
+models/Portal 2 Pack vol.1/models/anim_wp/paneltop_192/paneltop_192.dx80.vtx,24565,24565
+models/Portal 2 Pack vol.1/models/anim_wp/paneltop_192/paneltop_192.sw.vtx,24565,24565
+models/Portal 2 Pack vol.1/models/anim_wp/paneltop_192/paneltop_192.phy,712,712
+materials/models/anim_wp/circle_shield/circle_shield_main.vmt,332,332
+materials/models/anim_wp/circle_shield/circle_shield_main.vtf,699256,699256
+models/models/a4_destruction/portal_door_lowres.mdl,1776,1776
+models/models/a4_destruction/portal_door_lowres.vvd,12288,12288
+models/models/a4_destruction/portal_door_lowres.dx90.vtx,2914,2914
+models/models/a4_destruction/portal_door_lowres.dx80.vtx,2914,2914
+models/models/a4_destruction/portal_door_lowres.sw.vtx,2914,2914
+materials/models/a4_destruction/portal_door_lowres.vmt,103,103
+materials/models/a4_destruction/portal_door_lowres.vtf,349784,349784
+models/Portal 2 Pack vol.1/models/props/prop_portalgun.mdl,3784,3784
+models/Portal 2 Pack vol.1/models/props/prop_portalgun.vvd,237888,237888
+models/Portal 2 Pack vol.1/models/props/prop_portalgun.dx90.vtx,57553,57553
+models/Portal 2 Pack vol.1/models/props/prop_portalgun.dx80.vtx,57553,57553
+models/Portal 2 Pack vol.1/models/props/prop_portalgun.sw.vtx,57553,57553
+models/Portal 2 Pack vol.1/models/props/prop_portalgun.phy,3482,3482
+materials/models/weapons/w_models/portalgun/w_portalgun.vmt,319,319
+materials/models/weapons/w_models/portalgun/w_portalgun.vtf,175008,175008
+materials/models/weapons/w_models/portalgun/w_portalgun_normal.vtf,87640,87640
+materials/models/weapons/w_models/portalgun/w_portalgun_exponent.vtf,43936,43936
+materials/models/weapons/w_models/portalgun/w_portalgun_blue.vmt,324,324
+materials/models/weapons/w_models/portalgun/w_portalgun_blue.vtf,175008,175008
+materials/models/weapons/w_models/portalgun/w_portalgun_orange.vmt,326,326
+materials/models/weapons/w_models/portalgun/w_portalgun_orange.vtf,175008,175008
+models/Portal 2 Pack vol.1/models/cores/sputnik.mdl,25192,25192
+models/Portal 2 Pack vol.1/models/cores/sputnik.vvd,852160,852160
+models/Portal 2 Pack vol.1/models/cores/sputnik.dx90.vtx,199997,199997
+models/Portal 2 Pack vol.1/models/cores/sputnik.dx80.vtx,200326,200326
+models/Portal 2 Pack vol.1/models/cores/sputnik.sw.vtx,199557,199557
+models/Portal 2 Pack vol.1/models/cores/sputnik.phy,26702,26702
+materials/models/cores/sputnik/personality_sphere.vmt,289,289
+materials/models/cores/sputnik/personality_sphere.vtf,699296,699296
+materials/models/cores/sputnik/personality_sphere_glass.vmt,114,114
+materials/models/cores/sputnik/personality_sphere_glass.vtf,349784,349784
+materials/models/cores/sputnik/personality_sphere_light_damaged.vmt,177,177
+materials/models/cores/sputnik/personality_sphere_light_damaged.vtf,87640,87640
+models/Portal 2 Pack vol.1/models/npcs/potatos/world_model/potatos_wmodel.mdl,1844,1844
+models/Portal 2 Pack vol.1/models/npcs/potatos/world_model/potatos_wmodel.vvd,238400,238400
+models/Portal 2 Pack vol.1/models/npcs/potatos/world_model/potatos_wmodel.dx90.vtx,90460,90460
+models/Portal 2 Pack vol.1/models/npcs/potatos/world_model/potatos_wmodel.dx80.vtx,90460,90460
+models/Portal 2 Pack vol.1/models/npcs/potatos/world_model/potatos_wmodel.sw.vtx,90460,90460
+models/Portal 2 Pack vol.1/models/npcs/potatos/world_model/potatos_wmodel.phy,1434,1434
+materials/models/npcs/potatos/world_model/potatos_wmodel.vmt,182,182
+materials/models/npcs/potatos/world_model/potatos_wmodel.vtf,87640,87640
+models/Portal 2 Pack vol.1/models/props/radio_reference.mdl,1752,1752
+models/Portal 2 Pack vol.1/models/props/radio_reference.vvd,72832,72832
+models/Portal 2 Pack vol.1/models/props/radio_reference.dx90.vtx,18958,18958
+models/Portal 2 Pack vol.1/models/props/radio_reference.dx80.vtx,18958,18958
+models/Portal 2 Pack vol.1/models/props/radio_reference.sw.vtx,18958,18958
+models/Portal 2 Pack vol.1/models/props/radio_reference.phy,3252,3252
+materials/models/props/radio.vmt,71,71
+materials/models/props/radio.vtf,349784,349784
+models/Portal 2 Pack vol.1/models/npcs/personality_sphere_angry.mdl,4108,4108
+models/Portal 2 Pack vol.1/models/npcs/personality_sphere_angry.vvd,142912,142912
+models/Portal 2 Pack vol.1/models/npcs/personality_sphere_angry.dx90.vtx,35457,35457
+models/Portal 2 Pack vol.1/models/npcs/personality_sphere_angry.dx80.vtx,35457,35457
+models/Portal 2 Pack vol.1/models/npcs/personality_sphere_angry.sw.vtx,35457,35457
+models/Portal 2 Pack vol.1/models/npcs/personality_sphere_angry.vtx,35457,35457
+models/Portal 2 Pack vol.1/models/npcs/personality_sphere_angry.phy,5602,5602
+materials/models/npcs/personality_sphere/personality_sphere_angry.vmt,319,319
+materials/models/npcs/personality_sphere/personality_sphere_angry.vtf,1398360,1398360
+models/models/props/prop_portalgun.mdl,3784,3784
+models/models/props/prop_portalgun.vvd,237888,237888
+models/models/props/prop_portalgun.dx90.vtx,57553,57553
+models/models/props/prop_portalgun.dx80.vtx,57553,57553
+models/models/props/prop_portalgun.sw.vtx,57553,57553
+models/models/props/prop_portalgun.phy,3482,3482

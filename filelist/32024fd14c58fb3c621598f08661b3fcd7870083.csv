@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/cs_fightarena1/metal/citadel_tilewall005a_1272_1441_-142.vmt,143,143
+materials/maps/cs_fightarena1/metal/citadel_tilewall005a_3184_-896_106.vmt,142,142
+materials/maps/cs_fightarena1/metal/citadel_metalwall078a_1272_1441_-142.vmt,144,144
+materials/maps/cs_fightarena1/metal/citadel_metalwall090a_3184_-896_106.vmt,143,143
+materials/maps/cs_fightarena1/metal/citadel_metalwall078a_3184_-896_106.vmt,143,143
+materials/maps/cs_fightarena1/liquids/water_pretty1_3184_-896_106.vmt,160,160
+materials/maps/cs_fightarena1/liquids/water_pretty1_1272_1441_-142.vmt,161,161
+materials/maps/cs_fightarena1/de_piranesi/marblefloor14_1272_1441_-142.vmt,142,142
+materials/maps/cs_fightarena1/de_piranesi/marblefloor14_3184_-896_106.vmt,141,141
+materials/maps/cs_fightarena1/models/props/de_inferno/wall_lamp_glass_1272_1441_-142.vmt,156,156
+materials/maps/cs_fightarena1/models/props/de_inferno/wall_lamp_glass_3184_-896_106.vmt,155,155
+materials/maps/cs_fightarena1/wood/wooddoor014a_3184_-896_106.vmt,133,133
+materials/maps/cs_fightarena1/de_nuke/nukwater_movingplane_dx70_depth_64.vmt,120,120
+materials/maps/cs_fightarena1/de_nuke/nukwater_movingplane_dx70_depth_94.vmt,120,120
+materials/maps/cs_fightarena1/maps/cs_fightarena1/liquids/water_pretty1_1272_1441_-142_depth_16.vmt,143,143
+materials/maps/cs_fightarena1/maps/cs_fightarena1/liquids/water_pretty1_3184_-896_106_depth_16.vmt,142,142
+materials/maps/cs_fightarena1/nature/water_movingplane_beneath_depth_10.vmt,119,119
+materials/maps/cs_fightarena1/de_nuke/nukwater_movingplane_dx70_depth_16351.vmt,123,123
+materials/maps/cs_fightarena1/cubemapdefault.vtf,28753,28753
+materials/maps/cs_fightarena1/c1272_1441_-142.vtf,28753,28753
+materials/maps/cs_fightarena1/c3184_-896_106.vtf,28753,28753
+materials/maps/cs_fightarena1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cs_fightarena1/c1272_1441_-142.hdr.vtf,76528,76528
+materials/maps/cs_fightarena1/c3184_-896_106.hdr.vtf,76528,76528
+materials/CUSTOMS/CREATED BY2.vmt,67,67

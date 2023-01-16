@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/de_gate/nature/blendprodasphaltgrass_wvt_patch.vmt,122,122
+materials/maps/de_gate/nature/blendrockgrass004a_wvt_patch.vmt,415,415
+materials/maps/de_gate/environment maps/pipemetal001a_3008_-832_-960.vmt,140,140
+materials/maps/de_gate/dev/dev_water2_3008_-832_-960.vmt,147,147
+materials/maps/de_gate/maps/de_gate/dev/dev_water2_3008_-832_-960_depth_512.vmt,130,130
+materials/maps/de_gate/cubemapdefault.vtf,9832,9832
+materials/maps/de_gate/c3008_-832_-960.vtf,9832,9832
+materials/maps/de_gate/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_gate/c3008_-832_-960.hdr.vtf,76528,76528

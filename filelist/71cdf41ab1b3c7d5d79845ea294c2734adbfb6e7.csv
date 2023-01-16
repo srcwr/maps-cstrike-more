@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/ze_red_planet/nature/rocks_red_grass_wvt_patch.vmt,323,323
+materials/maps/ze_red_planet/metal/citadel_tilefloor016a_0_0_0.vmt,134,134
+materials/maps/ze_red_planet/metal/metalwall048a_0_0_0.vmt,126,126
+materials/maps/ze_red_planet/metal/metalwall056a_0_0_0.vmt,126,126
+materials/maps/ze_red_planet/metal/citadel_metalwall076a_0_0_0.vmt,134,134
+materials/maps/ze_red_planet/cubemapdefault.vtf,9832,9832
+materials/maps/ze_red_planet/c0_0_0.vtf,9832,9832
+materials/maps/ze_red_planet/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_red_planet/c0_0_0.hdr.vtf,76528,76528
+materials/CUSTOMMATERIALS/LUSHGRASS.vmt,102,102
+materials/custommaterials/lushgrass.vtf,699272,699272
+materials/CUSTOMMATERIALS/GRAINY_YELLOW.vmt,109,109
+materials/custommaterials/grainy_yellow.vtf,43912,43912
+sound/1/red planet.mp3,9607848,9607848

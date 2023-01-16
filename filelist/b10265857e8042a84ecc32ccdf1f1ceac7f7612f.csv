@@ -1,0 +1,20 @@
+filename,size,compressed
+materials/maps/surf__poppin/environment maps/pipemetal001a_0_824_1953.vmt,141,141
+materials/maps/surf__poppin/metal/metalfloor001a_0_824_1953.vmt,131,131
+materials/maps/surf__poppin/metal/citadel_metalwall063a_cheap_0_824_1953.vmt,144,144
+materials/maps/surf__poppin/glass/combineglass001a_0_824_1953.vmt,133,133
+materials/maps/surf__poppin/de_nuke/nukwater_movingplane_0_824_1953.vmt,162,162
+materials/maps/surf__poppin/metal/citadel_metalwall063a_0_824_1953.vmt,138,138
+materials/maps/surf__poppin/vehicle/metaltrain002d_0_824_1953.vmt,133,133
+materials/maps/surf__poppin/glass/unbreakable_0_824_1953.vmt,128,128
+materials/maps/surf__poppin/vehicle/rubbertrainfloor001a_0_824_1953.vmt,139,139
+materials/maps/surf__poppin/nature/water_movingplane_beneath_depth_8.vmt,118,118
+materials/maps/surf__poppin/nature/water_movingplane_beneath_depth_16.vmt,119,119
+materials/maps/surf__poppin/nature/water_movingplane_beneath_depth_4.vmt,118,118
+materials/maps/surf__poppin/maps/surf__poppin/de_nuke/nukwater_movingplane_0_824_1953_depth_112.vmt,145,145
+materials/maps/surf__poppin/nature/water_movingplane_beneath_depth_15.vmt,119,119
+materials/maps/surf__poppin/nature/water_movingplane_beneath_depth_6.vmt,118,118
+materials/maps/surf__poppin/cubemapdefault.vtf,9832,9832
+materials/maps/surf__poppin/c0_824_1953.vtf,9832,9832
+materials/maps/surf__poppin/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf__poppin/c0_824_1953.hdr.vtf,76528,76528

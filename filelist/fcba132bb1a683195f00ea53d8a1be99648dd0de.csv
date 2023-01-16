@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/zm_nuclear_bunker/nature/sewer_water001_-576_-192_-160.vmt,164,164
+materials/maps/zm_nuclear_bunker/concrete/concretefloor010b_-576_-192_-160.vmt,146,146
+materials/maps/zm_nuclear_bunker/metal/prodventa_-576_-192_-160.vmt,135,135
+materials/maps/zm_nuclear_bunker/metal/metalpipe003a_-576_-192_-160.vmt,139,139
+materials/maps/zm_nuclear_bunker/metal/metalpipe005a_-576_-192_-160.vmt,139,139
+materials/maps/zm_nuclear_bunker/metal/metaldoor030a_-576_-192_-160.vmt,139,139
+materials/maps/zm_nuclear_bunker/models/props_debris/tilewall009b_-576_-192_-160.vmt,152,152
+materials/maps/zm_nuclear_bunker/de_piranesi/marblefloor13_-576_-192_-160.vmt,145,145
+materials/maps/zm_nuclear_bunker/models/props_trainstation/trainstation_clock_glass001_-576_-192_-160.vmt,173,173
+materials/maps/zm_nuclear_bunker/maps/zm_nuclear_bunker/nature/sewer_water001_-576_-192_-160_depth_33.vmt,146,146
+materials/maps/zm_nuclear_bunker/de_nuke/nukwater_movingplane_dx70_depth_32.vmt,120,120
+materials/maps/zm_nuclear_bunker/maps/zm_nuclear_bunker/nature/sewer_water001_-576_-192_-160_depth_23.vmt,146,146
+materials/maps/zm_nuclear_bunker/de_nuke/nukwater_movingplane_dx70_depth_88.vmt,120,120
+materials/maps/zm_nuclear_bunker/de_nuke/nukwater_movingplane_dx70_depth_48.vmt,120,120
+materials/maps/zm_nuclear_bunker/cubemapdefault.vtf,9824,9824
+materials/maps/zm_nuclear_bunker/c-576_-192_-160.vtf,4952,4952

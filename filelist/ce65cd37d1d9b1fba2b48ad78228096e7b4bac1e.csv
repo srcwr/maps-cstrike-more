@@ -1,0 +1,33 @@
+filename,size,compressed
+materials/maps/bhop_spacecake/vbd/pack 2 remnont/remn_confloor1_0_0_0.vmt,141,141
+materials/maps/bhop_spacecake/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_spacecake/c0_0_0.vtf,4960,4960
+materials/maps/bhop_spacecake/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_spacecake/c0_0_0.hdr.vtf,76528,76528
+materials/VBD/Pack 2 Remnont/remn_confloor1.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_confloor1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_confloor1_normal.vtf,1398308,1398308
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base.vmt,334,334
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor3_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2_normal.vtf,1398336,1398336
+materials/skybox/realsky6up.vmt,89,89
+materials/skybox/realsky6up.vtf,699272,699272
+materials/skybox/realsky6dn.vmt,89,89
+materials/skybox/realsky6dn.vtf,112,112
+materials/skybox/realsky6lf.vmt,166,166
+materials/skybox/realsky6lf.vtf,349688,349688
+materials/skybox/realsky6rt.vmt,166,166
+materials/skybox/realsky6rt.vtf,349688,349688
+materials/skybox/realsky6ft.vmt,166,166
+materials/skybox/realsky6ft.vtf,349688,349688
+materials/skybox/realsky6bk.vmt,166,166
+materials/skybox/realsky6bk.vtf,349688,349688

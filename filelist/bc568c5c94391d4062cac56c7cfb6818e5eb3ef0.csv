@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/bhop_ashortmap/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_ashortmap/cubemapdefault.hdr.vtf,76528,76528
+materials/custom/colorpallette.vmt,152,152
+materials/custom/colorpallette.vtf,87616,87616
+materials/skybox/mpa59up.vmt,84,84
+materials/skybox/mpa59up.vtf,699272,699272
+materials/skybox/mpa59dn.vmt,84,84
+materials/skybox/mpa59dn.vtf,699272,699272
+materials/skybox/mpa59lf.vmt,84,84
+materials/skybox/mpa59lf.vtf,699272,699272
+materials/skybox/mpa59rt.vmt,84,84
+materials/skybox/mpa59rt.vtf,699272,699272
+materials/skybox/mpa59ft.vmt,84,84
+materials/skybox/mpa59ft.vtf,699272,699272
+materials/skybox/mpa59bk.vmt,84,84
+materials/skybox/mpa59bk.vtf,699272,699272

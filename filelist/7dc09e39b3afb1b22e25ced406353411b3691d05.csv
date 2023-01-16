@@ -1,0 +1,19 @@
+filename,size,compressed
+materials/maps/65map/cubemapdefault.vtf,9832,9832
+materials/maps/65map/cubemapdefault.hdr.vtf,76528,76528
+materials/CONCRETE/CONCRETE_FLOOR_10.vmt,110,110
+materials/concrete/concrete_floor_10.vtf,175008,175008
+materials/TOOLS/TOOLSNODRAW.vmt,224,224
+materials/Tools/toolsnodraw.vtf,2936,2936
+materials/CONCRETE/CONCRETE_BTS_WALL001A.vmt,114,114
+materials/concrete/concrete_bts_wall001a.vtf,175008,175008
+materials/CONCRETE/CONCRETE_MODULAR_FLOOR001B.vmt,917,917
+materials/Concrete/concrete_modular_floor001b.vtf,174984,174984
+materials/concrete/concrete_modular_floor002_height-ssbump.vtf,349784,349784
+materials/detail/detail_concrete_02.vtf,175008,175008
+materials/Concrete/concrete_modular_floor001a_normal.vtf,175008,175008
+materials/CONCRETE/CONCRETE_BTS_CEILING001A.vmt,119,119
+materials/Concrete/concrete_bts_ceiling001a.vtf,174968,174968
+materials/TOOLS/TOOLSTRIGGER.vmt,278,278
+materials/Tools/toolstrigger.vtf,5680,5680
+D:/Steam/steamapps/common/Counter-Strike Source/cstrike/maps/65map.nav,2786,2786

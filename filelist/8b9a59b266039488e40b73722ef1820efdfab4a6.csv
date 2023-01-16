@@ -1,0 +1,94 @@
+filename,size,compressed
+materials/maps/achieve_arena/nature/water_lowmurkref_depth_128.vmt,111,111
+materials/maps/achieve_arena/cubemapdefault.vtf,9832,9832
+materials/maps/achieve_arena/cubemapdefault.hdr.vtf,76528,76528
+materials/skybox/amethystbk.vmt,94,94
+materials/skybox/amethystbk.vtf,1398208,1398208
+materials/skybox/amethystdn.vmt,94,94
+materials/skybox/amethystdn.vtf,1398208,1398208
+materials/skybox/amethystft.vmt,94,94
+materials/skybox/amethystft.vtf,1398208,1398208
+materials/skybox/amethystlf.vmt,94,94
+materials/skybox/amethystlf.vtf,1398208,1398208
+materials/skybox/amethystrt.vmt,94,94
+materials/skybox/amethystrt.vtf,1398208,1398208
+materials/skybox/amethystup.vmt,94,94
+materials/skybox/amethystup.vtf,1398208,1398208
+materials/Zephyr Textures/Brick/bricks_0_21.vmt,105,105
+materials/Zephyr Textures/Brick/bricks_0_21.vtf,174984,174984
+materials/Zephyr Textures/Brick/bricks_0_23.vmt,105,105
+materials/Zephyr Textures/Brick/bricks_0_23.vtf,174984,174984
+materials/Zephyr Textures/Brick/Brick_1_06.vmt,105,105
+materials/Zephyr Textures/Brick/Brick_1_06.vtf,174984,174984
+materials/Zephyr Textures/Brick/Brick_1_13.vmt,105,105
+materials/Zephyr Textures/Brick/Brick_1_13.vtf,174984,174984
+materials/Zephyr Textures/Carpet/Carpet_01.vtf,174984,174984
+materials/Zephyr Textures/Carpet/Carpet_02.vtf,174984,174984
+materials/Zephyr Textures/Carpet/Carpet_1_01.vmt,108,108
+materials/Zephyr Textures/Carpet/Carpet_1_01.vtf,174984,174984
+materials/Zephyr Textures/Carpet/Carpet_1_02.vmt,108,108
+materials/Zephyr Textures/Carpet/Carpet_1_02.vtf,174984,174984
+materials/Zephyr Textures/Carpet/Carpet_1_03.vmt,108,108
+materials/Zephyr Textures/Carpet/Carpet_1_03.vtf,174984,174984
+materials/Zephyr Textures/Carpet/Tan_Mixed1.vmt,112,112
+materials/Zephyr Textures/Carpet/Tan_Mixed1.vtf,699272,699272
+materials/Zephyr Textures/Ground/ground3.vmt,97,97
+materials/Zephyr Textures/Ground/ground3.vtf,174984,174984
+materials/Zephyr Textures/Ground/ground5.vmt,98,98
+materials/Zephyr Textures/Ground/ground5.vtf,174984,174984
+materials/Zephyr Textures/Ground/lava2.vmt,100,100
+materials/Zephyr Textures/Ground/lava2.vtf,174984,174984
+materials/Zephyr Textures/Other/Concrete_1_02.vmt,111,111
+materials/Zephyr Textures/Other/Concrete_1_02.vtf,174984,174984
+materials/Zephyr Textures/Other/red_neon.vmt,115,115
+materials/Zephyr Textures/Other/red_neon.vtf,43912,43912
+materials/Zephyr Textures/Other/WaterfallFULL_256_CLEAR.vmt,267,267
+materials/Zephyr Textures/Other/WaterfallFULL_256_CLEAR.vtf,87616,87616
+materials/Zephyr Textures/Other/white_neon.vmt,117,117
+materials/Zephyr Textures/Other/white_neon.vtf,43912,43912
+materials/Zephyr Textures/Tile/BKmarbletiles1small1.vmt,171,171
+materials/Zephyr Textures/Tile/BKmarbletiles1small1.vtf,175008,175008
+materials/Zephyr Textures/Tile/Floor_1_02.vmt,103,103
+materials/Zephyr Textures/Tile/Floor_1_02.vtf,43912,43912
+materials/Zephyr Textures/Tile/Floor_1_14.vmt,103,103
+materials/Zephyr Textures/Tile/Floor_1_14.vtf,43912,43912
+materials/Zephyr Textures/Tile/Floor_1_22.vmt,103,103
+materials/Zephyr Textures/Tile/Floor_1_22.vtf,43912,43912
+materials/Zephyr Textures/Walls/AmsterDam.vmt,119,119
+materials/Zephyr Textures/Walls/AmsterDam.vtf,174984,174984
+materials/Zephyr Textures/Walls/Carpet_01.vmt,105,105
+materials/Zephyr Textures/Walls/Carpet_02.vmt,105,105
+materials/Zephyr Textures/Walls/concrete.vmt,87,87
+materials/Zephyr Textures/Walls/concrete.vtf,174984,174984
+materials/Zephyr Textures/Walls/ground6.vmt,103,103
+materials/Zephyr Textures/Walls/ground6.vtf,174984,174984
+materials/Zephyr Textures/Walls/ground8.vmt,97,97
+materials/Zephyr Textures/Walls/ground8.vtf,174984,174984
+materials/Zephyr Textures/Walls/ModernBlue.vmt,108,108
+materials/Zephyr Textures/Walls/ModernBlue.vtf,174984,174984
+materials/Zephyr Textures/Walls/MysticBlack.vmt,121,121
+materials/Zephyr Textures/Walls/MysticBlack.vtf,174984,174984
+materials/Zephyr Textures/Walls/StoneHedge.vmt,120,120
+materials/Zephyr Textures/Walls/StoneHedge.vtf,174984,174984
+materials/Zephyr Textures/Walls/TraditionalBlue.vmt,124,124
+materials/Zephyr Textures/Walls/TraditionalBlue.vtf,174984,174984
+materials/Zephyr Textures/Walls/WesternWhite.vmt,122,122
+materials/Zephyr Textures/Walls/WesternWhite.vtf,174984,174984
+materials/Zephyr Textures/Walls/winningred.vmt,120,120
+materials/Zephyr Textures/Walls/winningred.vtf,174984,174984
+materials/Zephyr Textures/Walls/Woodchuck.vmt,119,119
+materials/Zephyr Textures/Walls/Woodchuck.vtf,174984,174984
+materials/Zephyr Textures/Wood/wood1.vmt,93,93
+materials/Zephyr Textures/Wood/wood1.vtf,174984,174984
+materials/Zephyr Textures/Wood/wood2.vmt,93,93
+materials/Zephyr Textures/Wood/wood2.vtf,174984,174984
+materials/Zephyr Textures/Wood/wood_1_01.vmt,102,102
+materials/Zephyr Textures/Wood/wood_1_01.vtf,174984,174984
+materials/Zephyr Textures/Wood/Wood_1_02.vmt,102,102
+materials/Zephyr Textures/Wood/Wood_1_02.vtf,174984,174984
+materials/Zephyr Textures/Wood/Wood_1_03.vmt,102,102
+materials/Zephyr Textures/Wood/Wood_1_03.vtf,174984,174984
+materials/Zephyr Textures/Wood/wood_floor_3.vtf,105,105
+materials/Zephyr Textures/Wood/wood_floor_4.vmt,105,105
+materials/Ztext/arena.vmt,87,87
+materials/Ztext/arena.vtf,349688,349688

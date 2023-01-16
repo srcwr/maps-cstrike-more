@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/spaceframe_v2/glass/glasswindowbreak070b_0_0_80.vmt,114,114
+materials/maps/spaceframe_v2/glass/prodwndwa_0_0_80.vmt,199,199
+materials/maps/spaceframe_v2/metal/metalpipe003a_0_0_80.vmt,127,127
+materials/maps/spaceframe_v2/metal/citadel_metalwall072c_0_0_80.vmt,135,135
+materials/maps/spaceframe_v2/metal/citadel_metalwall090a_0_0_80.vmt,135,135
+materials/maps/spaceframe_v2/cubemapdefault.vtf,4960,4960
+materials/maps/spaceframe_v2/c0_0_80.vtf,4960,4960
+materials/maps/spaceframe_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/spaceframe_v2/c0_0_80.hdr.vtf,76528,76528
+materials/LOLEARTH.vmt,71,71
+materials/lolearth.vtf,524496,524496
+materials/skybox/spacepartyup.vmt,118,118
+materials/skybox/spacepartyup.vtf,524496,524496
+materials/skybox/spacepartydn.vmt,118,118
+materials/skybox/spacepartydn.vtf,524496,524496
+materials/skybox/spacepartyft.vmt,118,118
+materials/skybox/spacepartyft.vtf,524496,524496
+materials/skybox/spacepartybk.vmt,118,118
+materials/skybox/spacepartybk.vtf,524496,524496
+materials/skybox/spacepartylf.vmt,118,118
+materials/skybox/spacepartylf.vtf,524496,524496
+materials/skybox/spacepartyrt.vmt,118,118
+materials/skybox/spacepartyrt.vtf,524496,524496
+C:/Program Files/Steam/steamapps/kahgarak/counter-strike source/cstrike/maps/spaceframe_v2.nav,40897,40897
+soundcache/spaceframe_v2.cache,16,16

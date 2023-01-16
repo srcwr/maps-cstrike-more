@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/surf_feret_v2/dev/dev_water2_614_2524_-2947.vmt,153,153
+materials/maps/surf_feret_v2/nature/water_canals_water2_675_2254_137.vmt,163,163
+materials/maps/surf_feret_v2/models/props_trainstation/trainstation_clock_glass001_614_2524_-2947.vmt,169,169
+materials/maps/surf_feret_v2/models/props_trainstation/trainstation_clock_glass001_675_2254_137.vmt,167,167
+materials/maps/surf_feret_v2/models/props_trainstation/trainstation_clock_glass001_-1097_342_-1639.vmt,170,170
+materials/maps/surf_feret_v2/dev/dev_water2_-1097_342_-1639.vmt,154,154
+materials/maps/surf_feret_v2/nature/water_canals_water2_-1097_342_-1639.vmt,166,166
+materials/maps/surf_feret_v2/maps/surf_feret_v2/nature/water_canals_water2_-1097_342_-1639_depth_16.vmt,148,148
+materials/maps/surf_feret_v2/maps/surf_feret_v2/nature/water_canals_water2_-1097_342_-1639_depth_40.vmt,148,148
+materials/maps/surf_feret_v2/maps/surf_feret_v2/nature/water_canals_water2_675_2254_137_depth_23.vmt,145,145
+materials/maps/surf_feret_v2/maps/surf_feret_v2/dev/dev_water2_614_2524_-2947_depth_16.vmt,135,135
+materials/maps/surf_feret_v2/cubemapdefault.vtf,9808,9808
+materials/maps/surf_feret_v2/c614_2524_-2947.vtf,9808,9808
+materials/maps/surf_feret_v2/c675_2254_137.vtf,9808,9808
+materials/maps/surf_feret_v2/c-1097_342_-1639.vtf,9808,9808

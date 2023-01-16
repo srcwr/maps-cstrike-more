@@ -1,0 +1,76 @@
+filename,size,compressed
+materials/maps/mg_ghosts_course_v2_beta_v2/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128.vmt,164,164
+materials/maps/mg_ghosts_course_v2_beta_v2/glass/glasswindowbreak070b_224_358_128.vmt,114,114
+materials/maps/mg_ghosts_course_v2_beta_v2/glass/offwndwb_224_358_128.vmt,236,236
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_64.vmt,146,146
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_53.vmt,146,146
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_1.vmt,145,145
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_6.vmt,145,145
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_52.vmt,146,146
+materials/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water3_depth_6.vmt,100,100
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_111.vmt,147,147
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_51.vmt,146,146
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_5.vmt,145,145
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_39.vmt,146,146
+materials/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water3_depth_55.vmt,101,101
+materials/maps/mg_ghosts_course_v2_beta_v2/maps/mg_ghosts_course_v2_beta_v2/dev/dev_water2_224_358_128_depth_385.vmt,147,147
+materials/maps/mg_ghosts_course_v2_beta_v2/cubemapdefault.vtf,4960,4960
+materials/maps/mg_ghosts_course_v2_beta_v2/c224_358_128.vtf,4960,4960
+materials/maps/mg_ghosts_course_v2_beta_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_ghosts_course_v2_beta_v2/c224_358_128.hdr.vtf,76528,76528
+materials/MY_TEXTURES/COURSE_LEVEL2_1.vmt,98,98
+materials/My_textures/Course_Level2_1.vtf,349760,349760
+materials/MY_TEXTURES/COURSE_LEVEL2_2.vmt,98,98
+materials/My_textures/Course_Level2_2.vtf,349760,349760
+materials/MY_TEXTURES/COURSE_LEVEL1_1.vmt,98,98
+materials/My_textures/Course_Level1_1.vtf,349760,349760
+materials/MY_TEXTURES/COURSE_LEVEL4_1.vmt,98,98
+materials/My_textures/Course_Level4_1.vtf,349760,349760
+materials/MY_TEXTURES/COURSE_LEVEL6_1.vmt,98,98
+materials/My_textures/Course_Level6_1.vtf,349760,349760
+materials/SPRITES/STORE/SKULLNBONES.vmt,122,122
+materials/sprites/store/skullnbones.vtf,16592,16592
+materials/MY_TEXTURES/COURSE_POSTER_5.vmt,98,98
+materials/My_textures/Course_poster_5.vtf,87544,87544
+materials/MY_TEXTURES/COURSE_SPECIAL_THANKS.vmt,104,104
+materials/My_textures/Course_special_thanks.vtf,699272,699272
+materials/MY_TEXTURES/COURSE_LEVEL3_1.vmt,98,98
+materials/My_textures/Course_Level3_1.vtf,349760,349760
+materials/MY_TEXTURES/COURSE_LEVEL5_1.vmt,98,98
+materials/My_textures/Course_Level5_1.vtf,349760,349760
+materials/MY_TEXTURES/COURSE_POSTER_1.vmt,98,98
+materials/My_textures/Course_poster_1.vtf,349760,349760
+materials/MY_TEXTURES/COURSE_POSTER_2.vmt,98,98
+materials/My_textures/Course_poster_2.vtf,699272,699272
+materials/MY_TEXTURES/COURSE_POSTER_3.vmt,98,98
+materials/My_textures/Course_poster_3.vtf,699272,699272
+materials/MY_TEXTURES/COURSE_POSTER_4.vmt,98,98
+materials/My_textures/Course_poster_4.vtf,699272,699272
+materials/MY_TEXTURES/COURSE_POSTER_7.vmt,98,98
+materials/My_textures/Course_poster_7.vtf,699272,699272
+materials/MY_TEXTURES/COURSE_POSTER_6.vmt,98,98
+materials/My_textures/Course_poster_6.vtf,699272,699272
+materials/MY_TEXTURES/COURSE_BONUS_ROOM.vmt,100,100
+materials/My_textures/Course_bonus_room.vtf,699272,699272
+materials/MY_TEXTURES/COURSE_FINISH.vmt,96,96
+materials/My_textures/Course_finish.vtf,699272,699272
+materials/skybox/sky43up.vmt,88,88
+materials/skybox/sky43up.vtf,699272,699272
+materials/skybox/sky43dn.vmt,88,88
+materials/skybox/sky43dn.vtf,699272,699272
+materials/skybox/sky43ft.vmt,88,88
+materials/skybox/sky43ft.vtf,699272,699272
+materials/skybox/sky43bk.vmt,88,88
+materials/skybox/sky43bk.vtf,699272,699272
+materials/skybox/sky43lf.vmt,88,88
+materials/skybox/sky43lf.vtf,699272,699272
+materials/skybox/sky43rt.vmt,88,88
+materials/skybox/sky43rt.vtf,699272,699272
+sound/map music bad q/wiz khalifa - black and yellow bad q.mp3,2171144,2171144
+sound/map music bad q/18 - chiddy bang - oppposite of adults bad q.mp3,1259963,1259963
+sound/map music bad q/david guetta feat. nicki minaj & flo rida - where them girls at (mastered bad q).mp3,1429971,1429971
+sound/map music bad q/jennifer lopez- on the floor feat. pitbull [itunes deluxe version bad q].mp3,5289229,5289229
+sound/map music bad q/the lazy song bad q .mp3,1279361,1279361
+sound/map music bad q/01 judas ibentv bad q.mp3,1658265,1658265
+maps/soundcache/mg_ghosts_course_v2_beta_v2.cache,16,16

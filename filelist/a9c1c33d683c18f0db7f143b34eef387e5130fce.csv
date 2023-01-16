@@ -1,0 +1,37 @@
+filename,size,compressed
+materials/maps/xc_skystorm_v2/dev/dev_water2_212_736_922.vmt,151,151
+materials/maps/xc_skystorm_v2/cs_assault/pavement001a_112_-856_755.vmt,138,138
+materials/maps/xc_skystorm_v2/concrete/concretefloor033a_-59_-7_3723.vmt,140,140
+materials/maps/xc_skystorm_v2/concrete/concretefloor005a_-59_-7_3723.vmt,140,140
+materials/maps/xc_skystorm_v2/de_cbble/woodfloor01_112_-856_755.vmt,135,135
+materials/maps/xc_skystorm_v2/concrete/concretefloor033a_112_-856_755.vmt,141,141
+materials/maps/xc_skystorm_v2/concrete/concretefloor033a_212_736_922.vmt,140,140
+materials/maps/xc_skystorm_v2/concrete/concretefloor033a_714_686_1011.vmt,141,141
+materials/maps/xc_skystorm_v2/concrete/concretefloor033a_-513_581_3008.vmt,142,142
+materials/maps/xc_skystorm_v2/metal/prodventa_714_686_1011.vmt,130,130
+materials/maps/xc_skystorm_v2/metal/prodventa_-513_581_3008.vmt,131,131
+materials/maps/xc_skystorm_v2/metal/prodventa_212_736_922.vmt,129,129
+materials/maps/xc_skystorm_v2/glass/combineglass001a_-513_581_3008.vmt,138,138
+materials/maps/xc_skystorm_v2/glass/combineglass001a_-59_-7_3723.vmt,136,136
+materials/maps/xc_skystorm_v2/glass/combineglass001a_212_736_922.vmt,136,136
+materials/maps/xc_skystorm_v2/environment maps/pipemetal001a_-513_581_3008.vmt,146,146
+materials/maps/xc_skystorm_v2/environment maps/pipemetal001a_212_736_922.vmt,144,144
+materials/maps/xc_skystorm_v2/environment maps/pipemetal001a_112_-856_755.vmt,145,145
+materials/maps/xc_skystorm_v2/environment maps/pipemetal001a_-59_-7_3723.vmt,144,144
+materials/maps/xc_skystorm_v2/cs_assault/pavement001a_714_686_1011.vmt,138,138
+materials/maps/xc_skystorm_v2/de_piranesi/woodfloor03_-59_-7_3723.vmt,137,137
+materials/maps/xc_skystorm_v2/maps/xc_skystorm_v2/dev/dev_water2_212_736_922_depth_16.vmt,133,133
+materials/maps/xc_skystorm_v2/cubemapdefault.vtf,9832,9832
+materials/maps/xc_skystorm_v2/c212_736_922.vtf,9832,9832
+materials/maps/xc_skystorm_v2/c112_-856_755.vtf,9832,9832
+materials/maps/xc_skystorm_v2/c-59_-7_3723.vtf,9832,9832
+materials/maps/xc_skystorm_v2/c714_686_1011.vtf,9832,9832
+materials/maps/xc_skystorm_v2/c-513_581_3008.vtf,9832,9832
+materials/maps/xc_skystorm_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/xc_skystorm_v2/c212_736_922.hdr.vtf,76528,76528
+materials/maps/xc_skystorm_v2/c112_-856_755.hdr.vtf,76528,76528
+materials/maps/xc_skystorm_v2/c-59_-7_3723.hdr.vtf,76528,76528
+materials/maps/xc_skystorm_v2/c714_686_1011.hdr.vtf,76528,76528
+materials/maps/xc_skystorm_v2/c-513_581_3008.hdr.vtf,76528,76528
+cstrike/sound/thunder.wav,2446992,2446992
+cstrike/sound/techno.wav,734664,734664

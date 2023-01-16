@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/aim_sic_v2/dev/dev_water2_384_216_-200.vmt,148,148
+materials/maps/aim_sic_v2/dev/dev_water2_384_1800_-200.vmt,149,149
+materials/maps/aim_sic_v2/glass/unbreakable_384_216_-200.vmt,128,128
+materials/maps/aim_sic_v2/glass/unbreakable_384_1800_-200.vmt,129,129
+materials/maps/aim_sic_v2/maps/aim_sic_v2/dev/dev_water2_384_216_-200_depth_32.vmt,130,130
+materials/maps/aim_sic_v2/maps/aim_sic_v2/dev/dev_water2_384_1800_-200_depth_31.vmt,131,131
+materials/maps/aim_sic_v2/cubemapdefault.vtf,9824,9824
+materials/maps/aim_sic_v2/c384_216_-200.vtf,4952,4952
+materials/maps/aim_sic_v2/c384_1800_-200.vtf,4952,4952
+materials/maps/aim_sic_v2/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/aim_sic_v2/c384_216_-200.hdr.vtf,76520,76520
+materials/maps/aim_sic_v2/c384_1800_-200.hdr.vtf,76520,76520
+maps/aim_sic_v2.nav,63474,63474
+maps/soundcache/aim_sic_v2.cache,16,16

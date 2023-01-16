@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/cs_training/plaster/plasterwall029g_0_0_0.vmt,128,128
+materials/maps/cs_training/tile/tileroof004b_0_0_0.vmt,122,122
+materials/maps/cs_training/wood/wooddoor045b_0_0_0.vmt,122,122
+materials/maps/cs_training/wood/woodfloor008a_0_0_0.vmt,162,162
+materials/maps/cs_training/tile/tileroof004a_0_0_0.vmt,122,122
+materials/maps/cs_training/nature/water_coast05_depth_27.vmt,107,107
+materials/maps/cs_training/liquids/militiawater_depth_108.vmt,108,108
+materials/maps/cs_training/liquids/militiawater_depth_13.vmt,107,107
+materials/maps/cs_training/liquids/militiawater_depth_19198.vmt,110,110
+materials/maps/cs_training/cubemapdefault.vtf,28753,28753
+materials/maps/cs_training/c0_0_0.vtf,28753,28753
+materials/maps/cs_training/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cs_training/c0_0_0.hdr.vtf,76528,76528

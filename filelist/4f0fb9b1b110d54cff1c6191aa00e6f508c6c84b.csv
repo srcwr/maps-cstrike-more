@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/pb_sloped/cubemapdefault.vtf,9824,9824
+materials/maps/pb_sloped/c1254_1835_639.vtf,4952,4952
+materials/maps/pb_sloped/c2132_1835_225.vtf,4952,4952
+materials/maps/pb_sloped/c2556_1835_172.vtf,4952,4952
+materials/maps/pb_sloped/c2917_1835_244.vtf,4952,4952
+materials/maps/pb_sloped/c3856_1835_634.vtf,4952,4952
+materials/maps/pb_sloped/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/pb_sloped/c1254_1835_639.hdr.vtf,76520,76520
+materials/maps/pb_sloped/c2132_1835_225.hdr.vtf,76520,76520
+materials/maps/pb_sloped/c2556_1835_172.hdr.vtf,76520,76520
+materials/maps/pb_sloped/c2917_1835_244.hdr.vtf,76520,76520
+materials/maps/pb_sloped/c3856_1835_634.hdr.vtf,76520,76520
+maps/pb_sloped.nav,370570,370570
+maps/soundcache/pb_sloped.cache,16,16
+maps/pb_sloped.txt,85,85

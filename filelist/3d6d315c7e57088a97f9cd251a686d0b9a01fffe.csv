@@ -1,0 +1,89 @@
+filename,size,compressed
+materials/maps/trikz_3man_2013_server_v3/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/trikz_3man_2013_server_v3/tile/tilefloor021a_-3411_9201_352.vmt,146,146
+materials/maps/trikz_3man_2013_server_v3/tile/tilefloor016a_-3411_9201_352.vmt,146,146
+materials/maps/trikz_3man_2013_server_v3/nature/sewer_waterdarkfog_-3411_9201_352.vmt,176,176
+materials/maps/trikz_3man_2013_server_v3/de_chateau/exttile01_-3411_9201_352.vmt,148,148
+materials/maps/trikz_3man_2013_server_v3/de_chateau/interiortile03_-3411_9201_352.vmt,153,153
+materials/maps/trikz_3man_2013_server_v3/maps/trikz_3man_2013_server_v3/nature/sewer_waterdarkfog_-3411_9201_352_depth_62.vmt,158,158
+materials/maps/trikz_3man_2013_server_v3/maps/trikz_3man_2013_server_v3/nature/sewer_waterdarkfog_-3411_9201_352_depth_64.vmt,158,158
+materials/maps/trikz_3man_2013_server_v3/maps/trikz_3man_2013_server_v3/nature/sewer_waterdarkfog_-3411_9201_352_depth_59.vmt,158,158
+materials/maps/trikz_3man_2013_server_v3/maps/trikz_3man_2013_server_v3/nature/sewer_waterdarkfog_-3411_9201_352_depth_60.vmt,158,158
+materials/maps/trikz_3man_2013_server_v3/maps/trikz_3man_2013_server_v3/nature/sewer_waterdarkfog_-3411_9201_352_depth_63.vmt,158,158
+materials/maps/trikz_3man_2013_server_v3/cubemapdefault.vtf,9832,9832
+materials/maps/trikz_3man_2013_server_v3/c-3411_9201_352.vtf,9832,9832
+materials/maps/trikz_3man_2013_server_v3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/trikz_3man_2013_server_v3/c-3411_9201_352.hdr.vtf,76528,76528
+sound/custom/crush.mp3,10265870,10265870
+sound/custom/fire.mp3,12234458,12234458
+sound/custom/goodfeeling.mp3,4326597,4326597
+sound/custom/immunize.mp3,11182246,11182246
+sound/custom/salt.mp3,16090132,16090132
+sound/custom/water.mp3,12280434,12280434
+sound/custom/waves.mp3,11919944,11919944
+materials/trillz/3manhighlevel1.vmt,88,88
+materials/trillz/3manhighlevel1.vtf,1398336,1398336
+materials/trillz/3manorgtfo.vmt,84,84
+materials/trillz/3manorgtfo.vtf,349760,349760
+materials/trillz/3manrb2.vmt,81,81
+materials/trillz/3manrb2.vtf,1398336,1398336
+materials/trillz/3manrunboost.vmt,86,86
+materials/trillz/3manrunboost.vtf,87616,87616
+materials/trillz/alice blue.vmt,68,68
+materials/trillz/alice blue.vtf,11144,11144
+materials/trillz/bhoplevel1.vmt,65,65
+materials/trillz/bhoplevel1.vtf,1398264,1398264
+materials/trillz/bitch_box.vmt,64,64
+materials/trillz/bitch_box.vtf,349760,349760
+materials/trillz/bitch_box03.vmt,110,110
+materials/trillz/bitch_box03.vtf,87616,87616
+materials/trillz/black.vmt,63,63
+materials/trillz/black.vtf,11144,11144
+materials/trillz/blaze orange.vmt,70,70
+materials/trillz/blaze orange.vtf,11144,11144
+materials/trillz/boosterlevel1.vmt,68,68
+materials/trillz/boosterlevel1.vtf,1398336,1398336
+materials/trillz/cerulean blue.vmt,71,71
+materials/trillz/cerulean blue.vtf,11144,11144
+materials/trillz/cnsc_whiteglass.vmt,89,89
+materials/trillz/cnsc_whiteglass.vtf,349760,349760
+materials/trillz/cornflower blue.vmt,73,73
+materials/trillz/cornflower blue.vtf,11144,11144
+materials/trillz/dark cerulean.vmt,71,71
+materials/trillz/dark cerulean.vtf,11144,11144
+materials/trillz/doublestrafelevel1.vmt,73,73
+materials/trillz/doublestrafelevel1.vtf,1398336,1398336
+materials/trillz/electric green.vmt,72,72
+materials/trillz/electric green.vtf,11144,11144
+materials/trillz/firstlevel1.vmt,66,66
+materials/trillz/firstlevel1.vtf,1398336,1398336
+materials/trillz/gravitymod.vmt,84,84
+materials/trillz/gravitymod.vtf,349760,349760
+materials/trillz/huge_fucking_wall.vmt,116,116
+materials/trillz/huge_fucking_wall.vtf,349760,349760
+materials/trillz/musicselect.vmt,85,85
+materials/trillz/musicselect.vtf,87616,87616
+materials/trillz/nooblevel1.vmt,65,65
+materials/trillz/nooblevel1.vtf,1398336,1398336
+materials/trillz/playlist.vmt,63,63
+materials/trillz/playlist.vtf,349760,349760
+materials/trillz/rbsurflevel1.vmt,67,67
+materials/trillz/rbsurflevel1.vtf,1398336,1398336
+materials/trillz/red.vmt,61,61
+materials/trillz/red.vtf,11144,11144
+materials/trillz/selective yellow.vmt,74,74
+materials/trillz/selective yellow.vtf,11144,11144
+materials/trillz/shotgun.vmt,81,81
+materials/trillz/shotgun.vtf,349760,349760
+materials/trillz/snowwashere.vmt,66,66
+materials/trillz/snowwashere.vtf,349760,349760
+materials/trillz/speaker.vmt,62,62
+materials/trillz/speaker.vtf,43912,43912
+materials/trillz/surftriangle1.vmt,68,68
+materials/trillz/surftriangle1.vtf,1398336,1398336
+materials/trillz/tripplesky1.vmt,66,66
+materials/trillz/tripplesky1.vtf,1398336,1398336
+materials/trillz/upandoverlevel1.vmt,70,70
+materials/trillz/upandoverlevel1.vtf,1398336,1398336
+materials/trillz/warning.vmt,62,62
+materials/trillz/warning.vtf,1398336,1398336

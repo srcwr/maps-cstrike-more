@@ -1,0 +1,23 @@
+filename,size,compressed
+materials/maps/mg_super_smash_bross_test/de_piranesi/woodfloor03_-1695_524_93.vmt,149,149
+materials/maps/mg_super_smash_bross_test/liquids/militiawater_-1695_524_93.vmt,169,169
+materials/maps/mg_super_smash_bross_test/metal/metalroof004a_c17_-1695_524_93.vmt,188,188
+materials/maps/mg_super_smash_bross_test/maps/mg_super_smash_bross_test/liquids/militiawater_-1695_524_93_depth_80.vmt,151,151
+materials/maps/mg_super_smash_bross_test/cubemapdefault.vtf,9824,9824
+materials/maps/mg_super_smash_bross_test/c-1695_524_93.vtf,9824,9824
+sound/ssbb/34 legend of zelda main theme [the legend of zelda].mp3,1544897,1544897
+sound/ssbb/snd_se_common_Water_hit_l.wav,441044,441044
+sound/ssbb/snd_se_common_Water_hit_ll.wav,441044,441044
+sound/ssbb/snd_se_item_Smashball.wav,22960,22960
+sound/ssbb/snd_se_item_Smashball_dmg.wav,5658,5658
+sound/ssbb/snd_se_link_001.wav,441044,441044
+sound/ssbb/suddendeath.wav,441044,441044
+sound/ssbb/zelda_backmusic.wav,2205058,2205058
+materials/ssbb/afk_kill.vmt,80,80
+materials/ssbb/afk_kill.vtf,22080,22080
+materials/ssbb/background.vmt,63,63
+materials/ssbb/background.vtf,174944,174944
+materials/ssbb/brawl_ball.vmt,124,124
+materials/ssbb/brawl_ball.vtf,22080,22080
+materials/ssbb/brawl_instruc.vmt,85,85
+materials/ssbb/brawl_instruc.vtf,87616,87616

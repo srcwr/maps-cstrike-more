@@ -1,0 +1,67 @@
+filename,size,compressed
+materials/silkroad/egypt/wall (5).vmt,72,72
+materials/silkroad/egypt/wall (5).vtf,87616,87616
+materials/silkroad/ground/mong_sand_01.vmt,100,100
+materials/silkroad/ground/mong_sand_01.vtf,349760,349760
+materials/silkroad/egypt/ground (15).vmt,75,75
+materials/silkroad/egypt/ground (15).vtf,87616,87616
+materials/silkroad/ground/oakk_stone_02.vmt,101,101
+materials/silkroad/ground/oakk_stone_02.vtf,349760,349760
+materials/silkroad/egypt/wall (76).vmt,73,73
+materials/silkroad/egypt/wall (76).vtf,349760,349760
+materials/silkroad/egypt/ground (9).vmt,92,92
+materials/silkroad/egypt/ground (9).vtf,87616,87616
+materials/realworldtextures2/wood/wood_15.vmt,317,317
+materials/realworldtextures2/wood/wood_15.vtf,174984,174984
+materials/realworldtextures2/detail/dt_wood2.vtf,16807,16807
+materials/silkroad/egypt/roof (5).vmt,90,90
+materials/silkroad/egypt/roof (5).vtf,87616,87616
+materials/silkroad/egypt/ground (3).vmt,74,74
+materials/silkroad/egypt/ground (3).vtf,87616,87616
+materials/egypt/flat_wall_02.vmt,130,130
+materials/egypt/flat_wall_02.vtf,699272,699272
+materials/egypt/flat_wall_normal.vtf,4194511,4194511
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/skybox/sky_harvest_night_01up.vmt,169,169
+materials/skybox/sky_harvest_night_01up.vtf,4194535,4194535
+materials/skybox/sky_harvest_night_01dn.vmt,169,169
+materials/skybox/sky_harvest_night_01dn.vtf,1255,1255
+materials/skybox/sky_harvest_night_01lf.vmt,241,241
+materials/skybox/sky_harvest_night_01lf.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01rt.vmt,241,241
+materials/skybox/sky_harvest_night_01rt.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01ft.vmt,241,241
+materials/skybox/sky_harvest_night_01ft.vtf,2097321,2097321
+materials/skybox/sky_harvest_night_01bk.vmt,241,241
+materials/skybox/sky_harvest_night_01bk.vtf,2097321,2097321
+models/egypt/stick_torch/stick_torch_big.mdl,1464,1464
+models/egypt/stick_torch/stick_torch_big.vvd,30848,30848
+models/egypt/stick_torch/stick_torch_big.dx90.vtx,6810,6810
+models/egypt/stick_torch/stick_torch_big.dx80.vtx,6810,6810
+models/egypt/stick_torch/stick_torch_big.sw.vtx,6810,6810
+models/egypt/stick_torch/stick_torch_big.phy,1817,1817
+materials/egypt/stick_torch/stick_torch_skin.vmt,93,93
+materials/egypt/stick_torch/stick_torch_skin.vtf,174984,174984
+models/egypt/wall_torch/wall_torch.mdl,1464,1464
+models/egypt/wall_torch/wall_torch.vvd,20480,20480
+models/egypt/wall_torch/wall_torch.dx90.vtx,4992,4992
+models/egypt/wall_torch/wall_torch.dx80.vtx,4992,4992
+models/egypt/wall_torch/wall_torch.sw.vtx,4992,4992
+models/egypt/wall_torch/wall_torch.phy,703,703
+materials/egypt/wall_torch/wall_torch_skin.vmt,91,91
+materials/egypt/wall_torch/wall_torch_skin.vtf,174984,174984
+models/egypt/palm_tree/palm_tree_medium.mdl,1460,1460
+models/egypt/palm_tree/palm_tree_medium.vvd,87680,87680
+models/egypt/palm_tree/palm_tree_medium.dx90.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_medium.dx80.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_medium.sw.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_medium.phy,1463,1463
+materials/egypt/palm_tree/palm_tree_skin.vmt,89,89
+materials/egypt/palm_tree/palm_tree_skin.vtf,174984,174984
+models/egypt/palm_tree/palm_tree_big.mdl,1460,1460
+models/egypt/palm_tree/palm_tree_big.vvd,87680,87680
+models/egypt/palm_tree/palm_tree_big.dx90.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_big.dx80.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_big.sw.vtx,23850,23850
+models/egypt/palm_tree/palm_tree_big.phy,1463,1463

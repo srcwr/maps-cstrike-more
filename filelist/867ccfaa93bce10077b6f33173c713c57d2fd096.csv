@@ -1,0 +1,50 @@
+filename,size,compressed
+materials/maps/bhop_twisted/hammer textures/bhop_abc/31_abc_wall_1_304_112_148.vmt,150,150
+materials/maps/bhop_twisted/hammer textures/bhop_abc/31_abc_floor_1_304_112_148.vmt,151,151
+materials/maps/bhop_twisted/nature/water_canals_city_murky_dx70_depth_32.vmt,122,122
+materials/maps/bhop_twisted/cubemapdefault.vtf,9824,9824
+materials/maps/bhop_twisted/c304_112_148.vtf,9824,9824
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_FLOOR_2.vmt,111,111
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_GLASSBLUE_3_70.vmt,138,138
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_GLASSORANGE_1_70.vmt,140,140
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_GLASSGREEN_1_70.vmt,139,139
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_GLASSWHITE_1_70.vmt,139,139
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_SNOW_1.vmt,110,110
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_JUMPBLUE_1.vmt,90,90
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_JUMPORANGE_1.vmt,92,92
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_JUMPGREEN_1.vmt,91,91
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_LVL123.vmt,105,105
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_LVLBONUS.vmt,107,107
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_MAPBY.vmt,104,104
+materials/HAMMER TEXTURES/BHOP_ABC/31_ABC_JUMPWHITE_1.vmt,91,91
+maps/soundcache/bhop_twisted.cache,16,16
+materials/hammer textures/bhop_abc/31_abc_floor_1.vmt,145,145
+materials/hammer textures/bhop_abc/31_abc_floor_1.vtf,43912,43912
+materials/hammer textures/bhop_abc/31_abc_floor_2.vmt,111,111
+materials/hammer textures/bhop_abc/31_abc_floor_2.vtf,43912,43912
+materials/hammer textures/bhop_abc/31_abc_glassblue_3_70.vmt,138,138
+materials/hammer textures/bhop_abc/31_abc_glassblue_3_70.vtf,87616,87616
+materials/hammer textures/bhop_abc/31_abc_glassgreen_1_70.vmt,139,139
+materials/hammer textures/bhop_abc/31_abc_glassgreen_1_70.vtf,87616,87616
+materials/hammer textures/bhop_abc/31_abc_glassorange_1_70.vmt,140,140
+materials/hammer textures/bhop_abc/31_abc_glassorange_1_70.vtf,87616,87616
+materials/hammer textures/bhop_abc/31_abc_glasswhite_1_70.vmt,139,139
+materials/hammer textures/bhop_abc/31_abc_glasswhite_1_70.vtf,87616,87616
+materials/hammer textures/bhop_abc/31_abc_jumpblue_1.vmt,90,90
+materials/hammer textures/bhop_abc/31_abc_jumpblue_1.vtf,43912,43912
+materials/hammer textures/bhop_abc/31_abc_jumpgreen_1.vmt,91,91
+materials/hammer textures/bhop_abc/31_abc_jumpgreen_1.vtf,43912,43912
+materials/hammer textures/bhop_abc/31_abc_jumporange_1.vmt,92,92
+materials/hammer textures/bhop_abc/31_abc_jumporange_1.vtf,43912,43912
+materials/hammer textures/bhop_abc/31_abc_jumpwhite_1.vmt,91,91
+materials/hammer textures/bhop_abc/31_abc_jumpwhite_1.vtf,43912,43912
+materials/hammer textures/bhop_abc/31_abc_lvl123.vmt,105,105
+materials/hammer textures/bhop_abc/31_abc_lvl123.vtf,87616,87616
+materials/hammer textures/bhop_abc/31_abc_lvlbonus.vmt,107,107
+materials/hammer textures/bhop_abc/31_abc_lvlbonus.vtf,87616,87616
+materials/hammer textures/bhop_abc/31_abc_Mapby.vmt,104,104
+materials/hammer textures/bhop_abc/31_abc_Mapby.vtf,349760,349760
+materials/hammer textures/bhop_abc/31_abc_snow_1.vmt,110,110
+materials/hammer textures/bhop_abc/31_abc_snow_1.vtf,43912,43912
+materials/hammer textures/bhop_abc/31_abc_wall_1.vmt,144,144
+materials/hammer textures/bhop_abc/31_abc_wall_1.vtf,43912,43912

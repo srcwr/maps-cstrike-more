@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/zm_zombie_turret_attack/glass/glasswindow070c_36_1270_204.vmt,144,144
+materials/maps/zm_zombie_turret_attack/glass/glasswindow070c_742_1288_204.vmt,145,145
+materials/maps/zm_zombie_turret_attack/environment maps/pipemetal001a_78_1328_417.vmt,153,153
+materials/maps/zm_zombie_turret_attack/environment maps/pipemetal001a_36_1270_204.vmt,153,153
+materials/maps/zm_zombie_turret_attack/environment maps/pipemetal001a_742_1288_204.vmt,154,154
+materials/maps/zm_zombie_turret_attack/glass/glasswindowbreak070b_36_1270_204.vmt,114,114
+materials/maps/zm_zombie_turret_attack/glass/prodwndwa_36_1270_204.vmt,229,229
+materials/maps/zm_zombie_turret_attack/glass/glasswindowbreak070b_742_1288_204.vmt,114,114
+materials/maps/zm_zombie_turret_attack/glass/prodwndwa_742_1288_204.vmt,231,231
+materials/maps/zm_zombie_turret_attack/models/weapons/v_grenade/blackseal_36_1270_204.vmt,157,157
+materials/maps/zm_zombie_turret_attack/models/weapons/v_grenade/blackseal_78_1328_417.vmt,157,157
+materials/maps/zm_zombie_turret_attack/models/weapons/v_grenade/blackseal_742_1288_204.vmt,158,158
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall090a_742_1288_204.vmt,151,151
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall076a_78_1328_417.vmt,150,150
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall090a_78_1328_417.vmt,150,150
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall063a_742_1288_204.vmt,151,151
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall063a_78_1328_417.vmt,150,150
+materials/maps/zm_zombie_turret_attack/metal/metalpipeendcap001a_78_1328_417.vmt,148,148
+materials/maps/zm_zombie_turret_attack/metal/metalpipeendcap001a_742_1288_204.vmt,149,149
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall076a_742_1288_204.vmt,151,151
+materials/maps/zm_zombie_turret_attack/vehicle/rubbertrainfloor001a_78_1328_417.vmt,151,151
+materials/maps/zm_zombie_turret_attack/vehicle/rubbertrainfloor001a_742_1288_204.vmt,152,152
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall072b_cheap_742_1288_204.vmt,157,157
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall072b_cheap_78_1328_417.vmt,156,156
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall077a_742_1288_204.vmt,151,151
+materials/maps/zm_zombie_turret_attack/metal/citadel_metalwall077a_78_1328_417.vmt,150,150
+materials/maps/zm_zombie_turret_attack/models/props/cs_assault/consolepanelloadingbay_78_1328_417.vmt,169,169
+materials/maps/zm_zombie_turret_attack/models/props/cs_assault/consolepanelloadingbay_36_1270_204.vmt,169,169
+materials/maps/zm_zombie_turret_attack/glass/glasswindow070c_78_1328_417.vmt,144,144
+materials/maps/zm_zombie_turret_attack/props/plasticceiling003a_78_1328_417.vmt,147,147
+materials/maps/zm_zombie_turret_attack/props/plasticceiling003a_36_1270_204.vmt,147,147
+materials/maps/zm_zombie_turret_attack/cubemapdefault.vtf,9824,9824
+materials/maps/zm_zombie_turret_attack/c36_1270_204.vtf,9824,9824
+materials/maps/zm_zombie_turret_attack/c742_1288_204.vtf,9824,9824
+materials/maps/zm_zombie_turret_attack/c78_1328_417.vtf,9824,9824

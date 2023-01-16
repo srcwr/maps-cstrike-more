@@ -1,0 +1,38 @@
+filename,size,compressed
+materials/maps/ze_gied/cubemapdefault.vtf,4960,4960
+materials/maps/ze_gied/c-102_-54_-10.vtf,4960,4960
+materials/maps/ze_gied/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_gied/c-102_-54_-10.hdr.vtf,76528,76528
+materials/GIED/COLORZER/SIMPLE-GREY.vmt,71,71
+materials/gied/colorzer/Simple-Grey.vtf,22008,22008
+materials/GIED/COLORZER/GREY-STUFF.vmt,71,71
+materials/gied/colorzer/Grey-Stuff.vtf,174984,174984
+materials/GIED/COLORZER/GLASS1.vmt,114,114
+materials/gied/colorzer/glass1.vtf,2952,2952
+materials/GIED/COLORZER/GREY.vmt,65,65
+materials/gied/colorzer/Grey.vtf,2796384,2796384
+materials/GIED/COLORZER/REDGLASS.vmt,115,115
+materials/gied/colorzer/redglass.vtf,174984,174984
+materials/GIED/LE_CREDITS.vmt,63,63
+materials/gied/le_credits.vtf,1398336,1398336
+materials/GIED/NICEPEOPLE.vmt,63,63
+materials/gied/nicepeople.vtf,1398336,1398336
+materials/GIED/LE_TEXTURE_CREDITS.vmt,71,71
+materials/gied/le_texture_credits.vtf,1398336,1398336
+materials/skybox/sky08up.vmt,88,88
+materials/skybox/sky08up.vtf,699272,699272
+materials/skybox/sky08dn.vmt,88,88
+materials/skybox/sky08dn.vtf,699272,699272
+materials/skybox/sky08ft.vmt,88,88
+materials/skybox/sky08ft.vtf,699272,699272
+materials/skybox/sky08bk.vmt,88,88
+materials/skybox/sky08bk.vtf,699272,699272
+materials/skybox/sky08lf.vmt,88,88
+materials/skybox/sky08lf.vtf,699272,699272
+materials/skybox/sky08rt.vmt,88,88
+materials/skybox/sky08rt.vtf,699272,699272
+sound/gied_musicallly/1.xi - happy end of the world.mp3,9294504,9294504
+sound/gied_musicallly/lazer sound.mp3,32737,32737
+sound/gied_musicallly/3.starset - down with the fallen.mp3,6231908,6231908
+sound/gied_musicallly/earth!!!.mp3,49665,49665
+sound/gied_musicallly/4.starset - antigravity(outtro).mp3,3425098,3425098

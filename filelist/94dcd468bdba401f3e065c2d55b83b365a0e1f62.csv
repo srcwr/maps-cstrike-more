@@ -1,0 +1,19 @@
+filename,size,compressed
+materials/maps/surf_fury_v5/glass/combineglass001a_0_0_0.vmt,128,128
+materials/maps/surf_fury_v5/nature/water_canals03_0_0_0.vmt,150,150
+materials/maps/surf_fury_v5/nature/water_canals03_depth_8.vmt,107,107
+materials/maps/surf_fury_v5/nature/water_canals03_depth_16.vmt,108,108
+materials/maps/surf_fury_v5/nature/water_canals03_depth_7.vmt,107,107
+materials/maps/surf_fury_v5/cubemapdefault.vtf,9824,9824
+materials/maps/surf_fury_v5/c0_0_0.vtf,9824,9824
+materials/VGUI/LOGOS/NICEBEWBS.vmt,126,126
+materials/vgui/logos/nicebewbs.vtf,87616,87616
+models/weapons/w_pist_deagle.mdl,2776,2776
+models/weapons/w_pist_deagle.dx80.vtx,112865,112865
+models/weapons/w_pist_deagle.dx90.vtx,112865,112865
+models/weapons/w_pist_deagle.sw.vtx,112833,112833
+models/weapons/w_pist_deagle.phy,1737,1737
+models/weapons/w_pist_deagle.vvd,501952,501952
+materials/models/weapons/w_models/Vashts Deagle/Frame.vmt,86,86
+materials/models/weapons/w_models/Vashts Deagle/Grip.vmt,96,96
+materials/models/weapons/w_models/Vashts Deagle/Front.vmt,86,86

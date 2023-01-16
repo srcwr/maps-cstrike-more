@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/gg_ccss_emerald/cubemapdefault.vtf,28753,28753
+materials/maps/gg_ccss_emerald/cubemapdefault.hdr.vtf,76528,76528
+materials/COLOUR/METAL/METALFLOOR003A_BLACK.vmt,81,81
+materials/colour/metal/metalfloor003a_black.vtf,349760,349760
+materials/COLOUR/NEON/GREEN_DEV_NEON.vmt,111,111
+materials/colour/neon/green_dev_neon.vtf,11144,11144
+materials/COLOUR/NEON/GREEN_NEON.vmt,107,107
+materials/colour/neon/green_neon.vtf,43912,43912
+materials/COLOUR/NEON/WHITE_NEON.vmt,107,107
+materials/colour/neon/white_neon.vtf,43912,43912
+materials/COLOUR/METAL/METALWALL013A_GREEN.vmt,80,80
+materials/colour/metal/metalwall013a_green.vtf,349760,349760
+materials/COLOUR/GLASS/GREENGLASS.vmt,118,118
+materials/colour/glass/greenglass.vtf,2952,2952
+soundcache/gg_ccss_emerald.cache,16,16

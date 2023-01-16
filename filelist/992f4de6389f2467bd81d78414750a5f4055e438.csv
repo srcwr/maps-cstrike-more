@@ -1,0 +1,19 @@
+filename,size,compressed
+materials/maps/bhop_linear/nature/blendrocksgrass006a_wvt_patch.vmt,330,330
+materials/maps/bhop_linear/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_linear/cubemapdefault.hdr.vtf,76528,76528
+materials/skybox/galaxyup.vmt,89,89
+materials/skybox/GalaxyUp.vtf,699272,699272
+materials/skybox/galaxydn.vmt,89,89
+materials/skybox/GalaxyDn.vtf,699272,699272
+materials/skybox/galaxyft.vmt,89,89
+materials/skybox/Galaxyft.vtf,699272,699272
+materials/skybox/galaxybk.vmt,89,89
+materials/skybox/Galaxybk.vtf,699272,699272
+materials/skybox/galaxylf.vmt,89,89
+materials/skybox/GalaxyLf.vtf,699272,699272
+materials/skybox/galaxyrt.vmt,89,89
+materials/skybox/Galaxyrt.vtf,699272,699272
+scripts/soundscapes_bhop_linear.txt,161,161
+sound/aids/swagz.mp3,32638319,32638319
+E:/HDD/Steam/steamapps/common/Counter-Strike Source/cstrike/steamcmd/css4/cstrike/maps/bhop_linear.nav,28,28

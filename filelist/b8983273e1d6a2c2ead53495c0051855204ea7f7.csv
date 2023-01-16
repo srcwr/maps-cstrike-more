@@ -1,0 +1,144 @@
+filename,size,compressed
+materials/maps/surf_saturday/glass/glasswindow001a_0_0_0.vmt,128,128
+materials/maps/surf_saturday/tile/tilefloor020a_0_0_0.vmt,125,125
+materials/maps/surf_saturday/tile/tilefloor021a_0_0_0.vmt,125,125
+materials/maps/surf_saturday/cubemapdefault.vtf,28753,28753
+materials/maps/surf_saturday/c0_0_0.vtf,28753,28753
+materials/maps/surf_saturday/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_saturday/c0_0_0.hdr.vtf,76528,76528
+materials/glass/glasswindow001a.vmt,314,314
+materials/glass/glasswindow001a.vtf,22104,22104
+materials/RealWorldTextures2/Ground/brick_paver_06.vmt,388,388
+materials/RealWorldTextures2/Ground/brick_paver_06.vtf,174984,174984
+materials/RealWorldTextures2/Ground/brick_paver_06_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_stone1.vtf,16807,16807
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/RealWorldTextures2/Ground/brick_paver_05.vmt,388,388
+materials/RealWorldTextures2/Ground/brick_paver_05.vtf,174984,174984
+materials/RealWorldTextures2/Ground/brick_paver_05_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_17.vmt,464,464
+materials/RealWorldTextures2/Wood/wood_17.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_17_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_wood.vtf,16807,16807
+materials/Silkroad/Ground/central asia_stone_01.vmt,109,109
+materials/Silkroad/Ground/central asia_stone_01.vtf,349760,349760
+materials/36_dev/white_black.vmt,66,66
+materials/36_dev/white_black.vtf,43912,43912
+materials/RealWorldTextures/newer/1/Brick_1_03.vmt,109,109
+materials/RealWorldTextures/newer/1/Brick_1_03.vtf,174984,174984
+materials/customs/madebyxtrafestive.vmt,92,92
+materials/customs/madebyxtrafestive.vtf,174976,174976
+materials/customs/madebyiamsupaman2.vmt,92,92
+materials/customs/madebyiamsupaman2.vtf,174976,174976
+materials/customs/bonus1.vmt,81,81
+materials/customs/bonus1.vtf,43872,43872
+materials/customs/bonus2.vmt,81,81
+materials/customs/bonus2.vtf,43872,43872
+materials/metal/metalfence007a.vmt,87,87
+materials/metal/metalfence007a.vtf,349744,349744
+materials/RealWorldTextures2/Wood/wood_lattice_04.vmt,246,246
+materials/RealWorldTextures2/Wood/wood_lattice_04.vtf,349760,349760
+materials/Silkroad/Ground/stone02.vmt,96,96
+materials/Silkroad/FGWorld/stone02.vtf,349760,349760
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/RealWorldTextures/Walls/WesternWhite.vmt,245,245
+materials/RealWorldTextures/Walls/WesternWhite.vtf,174984,174984
+materials/RealWorldTextures/Walls/MontereyGray.vmt,245,245
+materials/RealWorldTextures/Walls/MontereyGray.vtf,174984,174984
+materials/tile/tilefloor005a.vmt,158,158
+materials/tile/tilefloor005a.vtf,174968,174968
+materials/tools/toolsblack.vmt,64,64
+materials/tools/toolsblack.vtf,2936,2936
+materials/de_train/train_metalceiling_02.vmt,108,108
+materials/de_train/train_metalceiling_02.vtf,174968,174968
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+models/temple/statue_erhu.mdl,2144,2144
+models/temple/statue_erhu.vvd,217856,217856
+models/temple/statue_erhu.dx90.vtx,57720,57720
+models/temple/statue_erhu.dx80.vtx,57720,57720
+models/temple/statue_erhu.phy,705,705
+materials/models/temple/statue_erhu.vmt,118,118
+materials/models/temple/statue_erhu.vtf,174984,174984
+materials/models/temple/statue_erhu_normal.vtf,699272,699272
+materials/models/temple/statue_pipa_pede.vmt,78,78
+materials/models/temple/statue_pipa_pede.vtf,699272,699272
+materials/models/temple/statue_instruments.vmt,133,133
+materials/models/temple/statue_instruments.vtf,174984,174984
+materials/models/temple/statue_instruments_normal.vtf,174984,174984
+models/temple/statue_pipa.mdl,2144,2144
+models/temple/statue_pipa.vvd,233920,233920
+models/temple/statue_pipa.dx90.vtx,60183,60183
+models/temple/statue_pipa.dx80.vtx,60183,60183
+models/temple/statue_pipa.phy,705,705
+materials/models/temple/statue_pipa.vmt,119,119
+materials/models/temple/statue_pipa.vtf,699272,699272
+materials/models/temple/statue_pipa_normal.vtf,699272,699272
+models/temple/statue_guard.mdl,1936,1936
+models/temple/statue_guard.vvd,113920,113920
+models/temple/statue_guard.dx90.vtx,31463,31463
+models/temple/statue_guard.dx80.vtx,31463,31463
+materials/models/temple/statue_guard.vmt,124,124
+materials/models/temple/statue_guard.vtf,699272,699272
+materials/models/temple/statue_guard_normal.vtf,699272,699272
+materials/models/temple/statue_guard_pede.vmt,77,77
+materials/models/temple/statue_guard_pede.vtf,2796424,2796424
+models/temple/statue_center.mdl,1944,1944
+models/temple/statue_center.vvd,141120,141120
+models/temple/statue_center.dx90.vtx,40184,40184
+models/temple/statue_center.dx80.vtx,40184,40184
+materials/models/temple/statue_center_pede.vmt,81,81
+materials/models/temple/statue_center_pede.vtf,2796424,2796424
+materials/models/temple/statue_center.vmt,123,123
+materials/models/temple/statue_center.vtf,699272,699272
+materials/models/temple/statue_center_normal.vtf,699272,699272
+models/wall_torch/wall_torch.mdl,1464,1464
+models/wall_torch/wall_torch.vvd,20480,20480
+models/wall_torch/wall_torch.dx90.vtx,4992,4992
+models/wall_torch/wall_torch.dx80.vtx,4992,4992
+models/wall_torch/wall_torch.sw.vtx,4992,4992
+models/wall_torch/wall_torch.phy,703,703
+materials/egypt/wall_torch/wall_torch_skin.vmt,91,91
+materials/egypt/wall_torch/wall_torch_skin.vtf,174984,174984
+maps/surf_saturday.nav,1804,1804
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/railing1_diffuse.vmt,76,76
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/railing1_diffuse.vtf,174984,174984
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/railing2_diffuse.vmt,76,76
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/railing2_diffuse.vtf,174984,174984
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_center.vmt,123,123
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_center.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_center_normal.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_center_pede.vmt,81,81
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_center_pede.vtf,2796424,2796424
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_erhu.vmt,118,118
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_erhu.vtf,174984,174984
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_erhu_normal.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_guard.vmt,124,124
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_guard.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_guard_normal.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_guard_pede.vmt,77,77
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_guard_pede.vtf,2796424,2796424
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_instruments.vmt,133,133
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_instruments.vtf,174984,174984
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_instruments_normal.vtf,174984,174984
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_pipa.vmt,119,119
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_pipa.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_pipa_normal.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_pipa_pede.vmt,78,78
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/statue_pipa_pede.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/temple_template_aa.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/torii_walkway.vmt,403,403
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/torii_walkway.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/torii_walkway_gate.vmt,412,412
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/torii_walkway_gate.vtf,699272,699272
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/torii_walkway_gate_n.vtf,1398336,1398336
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/torii_walkway_n.vtf,1398336,1398336
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/tt_caps.vmt,905,905
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/tt_caps.vtf,174976,174976
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/tt_caps_n.vtf,174976,174976
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/tt_tiles.vmt,931,931
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/tt_tiles.vtf,174984,174984
+C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Source/cstrike/materials/models/temple/tt_tiles_n.vtf,349760,349760

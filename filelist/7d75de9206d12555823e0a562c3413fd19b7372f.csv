@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/gg_dust_caryard/stone/blendcobbledirt001a_wvt_patch.vmt,167,167
+materials/maps/gg_dust_caryard/cubemapdefault.vtf,9832,9832
+materials/maps/gg_dust_caryard/cubemapdefault.hdr.vtf,76528,76528
+materials/COLOUR/GLASS/BLUEGLASS.vmt,117,117
+materials/colour/glass/blueglass.vtf,2952,2952
+materials/COLOUR/GLASS/REDGLASS.vmt,116,116
+materials/colour/glass/redglass.vtf,2952,2952
+materials/HALO_TEXTURES/HALO_METAL021.vmt,100,100
+materials/halo_textures/halo_metal021.vtf,43912,43912
+maps/gg_dust_caryard.nav,33946,33946
+maps/soundcache/gg_dust_caryard.cache,16,16

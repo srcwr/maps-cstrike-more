@@ -1,0 +1,368 @@
+filename,size,compressed
+materials/maps/ze_ffxii_moko_temple_v1_1/tile/tilefloor010a_0_0_0.vmt,137,137
+materials/maps/ze_ffxii_moko_temple_v1_1/tile/tilefloor001b_0_0_0.vmt,137,137
+materials/maps/ze_ffxii_moko_temple_v1_1/de_piranesi/marblefloor03_0_0_0.vmt,144,144
+materials/maps/ze_ffxii_moko_temple_v1_1/de_piranesi/marblefloor06_0_0_0.vmt,144,144
+materials/maps/ze_ffxii_moko_temple_v1_1/vehicle/metaltrain001c_0_0_0.vmt,141,141
+materials/maps/ze_ffxii_moko_temple_v1_1/kaemon/ff7makoreactorv6/makov6_pipea_0_0_0.vmt,155,155
+materials/maps/ze_ffxii_moko_temple_v1_1/nature/water_coast02_depth_64.vmt,107,107
+materials/maps/ze_ffxii_moko_temple_v1_1/nature/water_coast02_depth_160.vmt,108,108
+materials/maps/ze_ffxii_moko_temple_v1_1/nature/water_coast02_depth_416.vmt,108,108
+materials/maps/ze_ffxii_moko_temple_v1_1/cubemapdefault.vtf,9832,9832
+materials/maps/ze_ffxii_moko_temple_v1_1/c0_0_0.vtf,9832,9832
+materials/maps/ze_ffxii_moko_temple_v1_1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_ffxii_moko_temple_v1_1/c0_0_0.hdr.vtf,76528,76528
+cfg/sourcemod/entwatch/maps/ze_ffxii_moko_temple_v1_1.cfg,3060,3060
+maps/ze_ffxii_moko_temple_v1_1_level_sounds.txt,604,604
+maps/ze_ffxii_moko_temple_v1_1_particles.txt,60,60
+materials/church/brian.vmt,60,60
+materials/church/brian.vtf,22008,22008
+materials/church/lute_angel.vmt,65,65
+materials/church/lute_angel.vtf,43912,43912
+materials/effects/lighting3.vmt,153,153
+materials/effects/lighting3.vtf,87616,87616
+materials/effects/lightning001.vmt,182,182
+materials/effects/lightning002.vmt,172,172
+materials/effects/yellowflare.vmt,115,115
+materials/effects/yellowflare.vtf,16575,16575
+materials/ffvii/1225968701_raz_87.vmt,71,71
+materials/ffvii/1225968701_raz_87.vtf,174984,174984
+materials/ffvii/1232905119854.vmt,67,67
+materials/ffvii/1232905119854.vtf,174984,174984
+materials/ffvii/1255351008927.vmt,67,67
+materials/ffvii/1255351008927.vtf,174984,174984
+materials/ffvii/129043819766108190.vmt,72,72
+materials/ffvii/129043819766108190.vtf,174984,174984
+materials/ffvii/129067373410563380.vmt,72,72
+materials/ffvii/129067373410563380.vtf,87544,87544
+materials/ffvii/2645.vmt,58,58
+materials/ffvii/2645.vtf,174984,174984
+materials/ffvii/27351991.vmt,62,62
+materials/ffvii/27351991.vtf,174984,174984
+materials/ffvii/28ls979.vmt,61,61
+materials/ffvii/28ls979.vtf,174984,174984
+materials/ffvii/3159.vmt,58,58
+materials/ffvii/3159.vtf,174984,174984
+materials/ffvii/34fmp8k.vmt,61,61
+materials/ffvii/34fmp8k.vtf,349688,349688
+materials/ffvii/633691524861450860-lolspider.vmt,82,82
+materials/ffvii/633691524861450860-lolspider.vtf,349688,349688
+materials/ffvii/contest_nombres.vmt,69,69
+materials/ffvii/contest_nombres.vtf,349688,349688
+materials/ffvii/contest_pins.vmt,66,66
+materials/ffvii/contest_pins.vtf,699232,699232
+materials/ffvii/contest_winners.vmt,69,69
+materials/ffvii/contest_winners.vtf,699272,699272
+materials/ffvii/contest_winners_silver.vmt,76,76
+materials/ffvii/contest_winners_silver.vtf,699272,699272
+materials/ffvii/cowbell.vmt,249,249
+materials/ffvii/cowbell.vtf,175024,175024
+materials/ffvii/dailypicdumpjzflm64041.vmt,76,76
+materials/ffvii/dailypicdumpjzflm64041.vtf,174984,174984
+materials/ffvii/ex1.vmt,104,104
+materials/ffvii/ex1.vtf,32912,32912
+materials/ffvii/ex2.vmt,104,104
+materials/ffvii/ex2.vtf,32912,32912
+materials/ffvii/hard.vmt,105,105
+materials/ffvii/hard.vtf,32912,32912
+materials/ffvii/humo_mako.vmt,286,286
+materials/ffvii/humo_mako.vtf,1092808,1092808
+materials/ffvii/iyd0i.vmt,59,59
+materials/ffvii/iyd0i.vtf,699272,699272
+materials/ffvii/kill.vmt,105,105
+materials/ffvii/kill.vtf,32912,32912
+materials/ffvii/light_inset.vtf,22064,22064
+materials/ffvii/light_inset2.vmt,91,91
+materials/ffvii/lordofthestrings833.vmt,73,73
+materials/ffvii/lordofthestrings833.vtf,174984,174984
+materials/ffvii/mako.raw,98304,98304
+materials/ffvii/mako_azul.raw,98304,98304
+materials/ffvii/mako_extreme2.raw,98304,98304
+materials/ffvii/mako_rojo.raw,98304,98304
+materials/ffvii/metalwall029a.vmt,170,170
+materials/ffvii/normal.vmt,107,107
+materials/ffvii/normal.vtf,32912,32912
+materials/ffvii/perrocabeza.vmt,65,65
+materials/ffvii/perrocabeza.vtf,174984,174984
+materials/ffvii/pi_grnmetalt.vmt,122,122
+materials/ffvii/pi_grnmetalt.vtf,2856,2856
+materials/ffvii/pipemetal004b2.vmt,198,198
+materials/ffvii/pipesa_bombsite.vtf,43832,43832
+materials/ffvii/pipesa_bombsite2.vmt,95,95
+materials/ffvii/seph.vmt,105,105
+materials/ffvii/seph.vtf,131216,131216
+materials/ffvii/shinra.vmt,64,64
+materials/ffvii/shinra.vtf,174984,174984
+materials/ffvii/shinra2.vmt,61,61
+materials/ffvii/shinra2.vtf,174984,174984
+materials/ffvii/songs.vmt,59,59
+materials/ffvii/songs.vtf,174984,174984
+materials/ffvii/tips.vmt,58,58
+materials/ffvii/tips.vtf,174984,174984
+materials/ffvii/train_gutterandpipes.vtf,43816,43816
+materials/ffvii/zm.vmt,103,103
+materials/ffvii/zm.vtf,32912,32912
+materials/ffxii/belias_portal.vmt,106,106
+materials/ffxii/belias_portal.vtf,699272,699272
+materials/ffxii/cho_portal.vmt,103,103
+materials/ffxii/cho_portal.vtf,699272,699272
+materials/ffxii/cho_portal1.vmt,104,104
+materials/ffxii/cho_portal1.vtf,699272,699272
+materials/ffxii/desertarch/templewall04.vmt,162,162
+materials/ffxii/desertarch/templewall04a.vmt,164,164
+materials/ffxii/desertarch/templewall04b.vmt,164,164
+materials/ffxii/detail_arch/metaltrain001d.vmt,297,297
+materials/ffxii/detail_arch5/metaltrain001d.vmt,297,297
+materials/ffxii/esper_portal_belias.vmt,112,112
+materials/ffxii/esper_portal_belias.vtf,699272,699272
+materials/ffxii/esper_portal_chaos.vmt,111,111
+materials/ffxii/esper_portal_chaos.vtf,699272,699272
+materials/ffxii/esper_portal_mateus.vmt,112,112
+materials/ffxii/esper_portal_mateus.vtf,699272,699272
+materials/ffxii/ffxiibosshp.vmt,364,364
+materials/ffxii/ffxiibosshp.vtf,8388976,8388976
+materials/ffxii/leftdetails/metaltrain001d.vmt,297,297
+materials/ffxii/minetunnel/woodbeam01.vmt,113,113
+materials/ffxii/minetunnel/woodfloor005a.vmt,113,113
+materials/ffxii/rightdetails/metaltrain001d.vmt,297,297
+materials/kaemon/ff7makoreactorv6/makov6_pipea.vmt,187,187
+materials/kaemon/ff7makoreactorv6/makov6_pipea.vtf,43832,43832
+materials/kaemon/ff7makoreactorv6/makov6_shinralogo.vmt,106,106
+materials/kaemon/ff7makoreactorv6/makov6_shinralogo.vtf,349760,349760
+materials/kaemon/ff7makoreactorv6/makov6_shinralogo_metal_full.vmt,100,100
+materials/kaemon/ff7makoreactorv6/makov6_shinralogo_metal_full.vtf,174984,174984
+materials/luff_cv/pdoor1.vmt,85,85
+materials/maps/ze_genso_of_last_a1/de_chateau/interiortile01_-719_-273_367.vmt,146,146
+materials/maps/ze_genso_of_last_a1/de_chateau/interiortile03_-719_-273_367.vmt,146,146
+materials/maps/ze_genso_of_last_a1/de_chateau/interiortile03_-770_-796_344.vmt,146,146
+materials/models/ffxii/earthmodel1/rockwall01.vmt,117,117
+materials/models/ffxii/guardian/1.vmt,67,67
+materials/models/ffxii/guardian/1.vtf,87616,87616
+materials/models/ffxii/guardian/2.vmt,67,67
+materials/models/ffxii/guardian/2.vtf,43872,43872
+materials/models/kaemon/citymap002a.vmt,188,188
+materials/models/kaemon/citymap002b.vmt,188,188
+materials/models/kaemon/citymap002c.vmt,188,188
+materials/models/kaemon/citymap002d.vmt,188,188
+materials/models/kaemon/ironmetal01.vmt,115,115
+materials/models/kaemon/metaltrain001a.vmt,297,297
+materials/models/kaemon/metaltrain001c.vmt,297,297
+materials/models/kaemon/metaltrain001d.vmt,297,297
+materials/models/kaemon/metaltruss022a.vmt,174,174
+materials/models/kaemon/metaltruss024a.vmt,224,224
+materials/models/kaemon/prodcaution.vmt,88,88
+materials/models/kaemon/train_gutterandpipes_fix.vmt,72,72
+materials/models/kaemon/white.vmt,57,57
+materials/models/player/slow/amberlyn/lotr/balrog/slow_body.vmt,213,213
+materials/models/player/slow/amberlyn/lotr/balrog/slow_body.vtf,1398336,1398336
+materials/models/player/slow/amberlyn/lotr/balrog/slow_body_2.vmt,215,215
+materials/models/player/slow/amberlyn/lotr/balrog/slow_eyes.vmt,247,247
+materials/models/player/slow/amberlyn/lotr/balrog/slow_weapon.vmt,194,194
+materials/models/player/slow/amberlyn/lotr/balrog/slow_weapon.vtf,22008,22008
+materials/models/player/slow/amberlyn/lotr/balrog/slow_weapon_blade.vmt,260,260
+materials/models/player/slow/amberlyn/lotr/balrog/slow_weapon_bump.vtf,22008,22008
+materials/models/player/slow/amberlyn/lotr/balrog/slow_wings.vmt,375,375
+materials/models/rafuron/ffvii/skybox_muralla/metaltrain001d.vmt,297,297
+materials/models/rafuron/ffvii/skybox_silo1/metaltrain001c.vmt,297,297
+materials/models/rafuron/ffvii/skybox_silo1/metaltrain001d.vmt,297,297
+materials/models/rafuron/ffvii/skybox_silo2/metaltrain001d.vmt,297,297
+materials/models/rafuron/ffvii/skybox_silo2/white.vmt,57,57
+materials/models/saddong/staff/pwood1.vmt,123,123
+materials/models/saddong/staff/woodm.vmt,110,110
+materials/saddong/boss_hp2.vmt,361,361
+materials/saddong/boss_hp2.vtf,1572976,1572976
+materials/saddong/gachimuchi.vmt,284,284
+materials/saddong/gachimuchi.vtf,4894544,4894544
+materials/saddong/gachimuchisign.vmt,70,70
+materials/saddong/gachimuchisign.vtf,87544,87544
+materials/saddong/guchi01.vmt,281,281
+materials/saddong/guchi01.vtf,262512,262512
+materials/saddong/guchi02.vmt,281,281
+materials/saddong/guchi02.vtf,1136512,1136512
+materials/saddong/heart.vmt,149,149
+materials/saddong/heart.vtf,87616,87616
+materials/saddong/keemstar.vmt,282,282
+materials/saddong/keemstar.vtf,349840,349840
+materials/saddong/keemstarface.vmt,84,84
+materials/saddong/keemstarface.vtf,349760,349760
+materials/saddong/mlg_horn.vmt,152,152
+materials/saddong/mlg_horn.vtf,87616,87616
+materials/saddong/mlghorn.vmt,79,79
+materials/saddong/mlghorn.vtf,87616,87616
+materials/saddong/nigra_pilot.vmt,83,83
+materials/saddong/nigra_pilot.vtf,349760,349760
+materials/saddong/russian.vmt,79,79
+materials/saddong/russian.vtf,87616,87616
+materials/saddong/van darkholme.vmt,287,287
+materials/saddong/van darkholme.vtf,87616,87616
+materials/saddong/von.vmt,355,355
+materials/saddong/von.vtf,4894544,4894544
+materials/saddong/vonboss.vmt,281,281
+materials/saddong/vonboss.vtf,349840,349840
+materials/saddong/woah.vmt,279,279
+materials/saddong/woah.vtf,1223744,1223744
+materials/saddong/woah2.vmt,77,77
+materials/saddong/woah2.vtf,349760,349760
+materials/skybox/nightsky_bk.vmt,88,88
+materials/skybox/nightsky_bk.vtf,1398336,1398336
+materials/skybox/nightsky_dn.vmt,88,88
+materials/skybox/nightsky_dn.vtf,1398336,1398336
+materials/skybox/nightsky_ft.vmt,88,88
+materials/skybox/nightsky_ft.vtf,1398336,1398336
+materials/skybox/nightsky_lf.vmt,88,88
+materials/skybox/nightsky_lf.vtf,1398336,1398336
+materials/skybox/nightsky_rt.vmt,88,88
+materials/skybox/nightsky_rt.vtf,1398336,1398336
+materials/skybox/nightsky_up.vmt,88,88
+materials/skybox/nightsky_up.vtf,1398336,1398336
+materials/spm/knuckles/commandah.vmt,349,349
+materials/spm/knuckles/commandah.vtf,1048784,1048784
+materials/spm/knuckles/eyes.vmt,290,290
+materials/spm/knuckles/eyes.vtf,65744,65744
+materials/spm/knuckles/flat.vtf,349784,349784
+materials/spm/knuckles/knuckles.vmt,348,348
+materials/spm/knuckles/knuckles.vtf,1048784,1048784
+materials/spm/knuckles/sanic.vmt,345,345
+materials/spm/knuckles/sanic.vtf,1048784,1048784
+materials/stonefloor/stone_floor_06b.vmt,279,279
+materials/stonefloor/stonetile1.vtf,174984,174984
+materials/stonefloor/stonetile1_normal.vtf,349760,349760
+models/3d/bossguard/bossguard.dx80.vtx,43379,43379
+models/3d/bossguard/bossguard.dx90.vtx,42824,42824
+models/3d/bossguard/bossguard.mdl,198092,198092
+models/3d/bossguard/bossguard.phy,53420,53420
+models/3d/bossguard/bossguard.sw.vtx,42392,42392
+models/3d/bossguard/bossguard.vvd,206144,206144
+models/ffxii/airshiparch.dx80.vtx,1842,1842
+models/ffxii/airshiparch.dx90.vtx,1842,1842
+models/ffxii/airshiparch.mdl,1932,1932
+models/ffxii/airshiparch.phy,4398,4398
+models/ffxii/airshiparch.sw.vtx,1842,1842
+models/ffxii/airshiparch.vvd,8512,8512
+models/ffxii/desertarch.dx80.vtx,1911,1911
+models/ffxii/desertarch.dx90.vtx,1911,1911
+models/ffxii/desertarch.mdl,2124,2124
+models/ffxii/desertarch.phy,5680,5680
+models/ffxii/desertarch.sw.vtx,1911,1911
+models/ffxii/desertarch.vvd,8512,8512
+models/ffxii/earthmodel1.dx80.vtx,9123,9123
+models/ffxii/earthmodel1.dx90.vtx,9123,9123
+models/ffxii/earthmodel1.mdl,1732,1732
+models/ffxii/earthmodel1.phy,721,721
+models/ffxii/earthmodel1.sw.vtx,9123,9123
+models/ffxii/earthmodel1.vvd,31168,31168
+models/ffxii/leviathan_biganim.dx80.vtx,154425,154425
+models/ffxii/leviathan_biganim.dx90.vtx,154425,154425
+models/ffxii/leviathan_biganim.mdl,6776,6776
+models/ffxii/leviathan_biganim.sw.vtx,154273,154273
+models/ffxii/leviathan_biganim.vvd,819840,819840
+models/ffxii/minetunnel.dx80.vtx,1314,1314
+models/ffxii/minetunnel.dx90.vtx,1314,1314
+models/ffxii/minetunnel.mdl,1920,1920
+models/ffxii/minetunnel.phy,2894,2894
+models/ffxii/minetunnel.sw.vtx,1314,1314
+models/ffxii/minetunnel.vvd,5952,5952
+models/ffxii/vulcano.dx80.vtx,3432,3432
+models/ffxii/vulcano.dx90.vtx,3432,3432
+models/ffxii/vulcano.mdl,1732,1732
+models/ffxii/vulcano.sw.vtx,3432,3432
+models/ffxii/vulcano.vvd,12544,12544
+models/judge_gabranth.dx80.vtx,42416,42416
+models/judge_gabranth.dx90.vtx,41621,41621
+models/judge_gabranth.mdl,445392,445392
+models/judge_gabranth.sw.vtx,41189,41189
+models/judge_gabranth.vvd,198784,198784
+models/kaemon/kae_midgar_01.dx80.vtx,43488,43488
+models/kaemon/kae_midgar_01.dx90.vtx,43488,43488
+models/kaemon/kae_midgar_01.mdl,4068,4068
+models/kaemon/kae_midgar_01.sw.vtx,43488,43488
+models/kaemon/kae_midgar_01.vvd,220928,220928
+models/player/slow/amberlyn/lotr/balrog/slow.dx80.vtx,188667,188667
+models/player/slow/amberlyn/lotr/balrog/slow.dx90.vtx,186935,186935
+models/player/slow/amberlyn/lotr/balrog/slow.mdl,166636,166636
+models/player/slow/amberlyn/lotr/balrog/slow.phy,17172,17172
+models/player/slow/amberlyn/lotr/balrog/slow.sw.vtx,186471,186471
+models/player/slow/amberlyn/lotr/balrog/slow.vvd,645504,645504
+models/rafuron/ffvii/skybox_muralla.dx80.vtx,3597,3597
+models/rafuron/ffvii/skybox_muralla.dx90.vtx,3597,3597
+models/rafuron/ffvii/skybox_muralla.mdl,1748,1748
+models/rafuron/ffvii/skybox_muralla.sw.vtx,3597,3597
+models/rafuron/ffvii/skybox_muralla.vvd,18496,18496
+models/rafuron/ffvii/skybox_silo2.dx80.vtx,11118,11118
+models/rafuron/ffvii/skybox_silo2.dx90.vtx,11118,11118
+models/rafuron/ffvii/skybox_silo2.mdl,1932,1932
+models/rafuron/ffvii/skybox_silo2.sw.vtx,11118,11118
+models/rafuron/ffvii/skybox_silo2.vvd,57664,57664
+models/saddong/staff.dx80.vtx,2577,2577
+models/saddong/staff.dx90.vtx,2577,2577
+models/saddong/staff.mdl,1928,1928
+models/saddong/staff.sw.vtx,2577,2577
+models/saddong/staff.vvd,12544,12544
+models/spm/knuckles/knuckles.dx90.vtx,31053,31053
+models/spm/knuckles/knuckles.mdl,29296,29296
+models/spm/knuckles/knuckles.vvd,130240,130240
+particles/copypasta.pcf,166048,166048
+sound/allahu akbar.mp3,48197,48197
+sound/bladeout.mp3,26964,26964
+sound/camera1.mp3,5465,5465
+sound/crash bandicoot 'woah' sound effect.mp3,13755,13755
+sound/cyka.wav,150172,150172
+sound/epic ass boss song edit.mp3,1864018,1864018
+sound/ff7victory.mp3,26977,26977
+sound/gachi/aaaaaaah.mp3,25912,25912
+sound/gachi/aaaaah spank.mp3,23644,23644
+sound/gachi/boy next door.mp3,18982,18982
+sound/gachi/come on college boy.mp3,20267,20267
+"sound/gachi/come on, lets go.mp3",28660,28660
+"sound/gachi/come on, son.mp3",37019,37019
+sound/gachi/fuckyou.mp3,18389,18389
+sound/gachi/like embarrassing me.mp3,32562,32562
+sound/gachi/oh oh aaah ah.mp3,48064,48064
+sound/gachi/penetration 1.mp3,20860,20860
+sound/gachi/penetration 2.mp3,44265,44265
+sound/gachi/penetration 4.mp3,17934,17934
+sound/gachi/spank.mp3,17098,17098
+sound/gachi/take it boy.mp3,12325,12325
+sound/gachi/thank you sir.mp3,16505,16505
+sound/gachi/that's power son.mp3,27790,27790
+sound/gachi/woo.mp3,6819,6819
+sound/gachi/yes sir.mp3,19013,19013
+sound/gachi/you like that.mp3,21695,21695
+sound/gettothechopper.mp3,112085,112085
+sound/honk.mp3,7023,7023
+sound/keemstar saying nigger - sound effect.mp3,13924,13924
+sound/large truck driving  sound effect louder.mp3,804703,804703
+sound/large truck driving  sound effect.mp3,804285,804285
+sound/laserbeamsound.mp3,46017,46017
+sound/mlg horn spam.mp3,41087,41087
+sound/mlg horn.mp3,6189,6189
+sound/mlg horns sound effect.mp3,82604,82604
+sound/moko.mp3,3851414,3851414
+sound/nigra pilot.mp3,24546,24546
+sound/prepare_meet_end.mp3,60084,60084
+sound/sound.cache,19839,19839
+sound/uganda knucles/bweh.mp3,49963,49963
+sound/uganda knucles/clicking sound.mp3,103156,103156
+sound/uganda knucles/clucking1.mp3,29877,29877
+sound/uganda knucles/clucking4.mp3,56070,56070
+sound/uganda knucles/do u no de wae.mp3,29462,29462
+sound/uganda knucles/do you know da way.mp3,169617,169617
+sound/uganda knucles/do you see devil.mp3,23193,23193
+sound/uganda knucles/ebolatoknow.mp3,36267,36267
+sound/uganda knucles/he don't know de life wae.mp3,16193,16193
+sound/uganda knucles/honored_guest.mp3,176665,176665
+sound/uganda knucles/i_will_teach_u_the_way.mp3,39575,39575
+sound/uganda knucles/let_us_conquer.mp3,37903,37903
+sound/uganda knucles/my_brodda.mp3,21185,21185
+sound/uganda knucles/queenchant.mp3,152083,152083
+sound/uganda knucles/queenfreakout.mp3,158142,158142
+sound/uganda knucles/sniffing1.mp3,134734,134734
+sound/uganda knucles/spit_on_him.mp3,38739,38739
+sound/uganda knucles/spitting1.mp3,44591,44591
+sound/uganda knucles/u_do_not_know_the_way.mp3,37903,37903
+sound/uganda knucles/we_must_help_our_queen.mp3,39575,39575
+sound/uganda knucles/whatisthis.mp3,24500,24500
+sound/uganda knucles/whereisthequeen.mp3,21318,21318
+sound/uganda knucles/you_cannot_escape_the_devil.mp3,49606,49606
+sound/victory.mp3,3524151,3524151
+sound/woah woah woah.mp3,81259,81259

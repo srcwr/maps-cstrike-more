@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/ba_jail_real_b11/de_chateau/intbrickk_0_0_0.vmt,130,130
+materials/maps/ba_jail_real_b11/de_dust/tilefloor02_0_0_0.vmt,129,129
+materials/maps/ba_jail_real_b11/metal/citadel_metalwall076a_0_0_0.vmt,137,137
+materials/maps/ba_jail_real_b11/metal/citadel_tilefloor016a_0_0_0.vmt,137,137
+materials/maps/ba_jail_real_b11/liquids/aztecwater_depth_6.vmt,104,104
+materials/maps/ba_jail_real_b11/liquids/militiawater_dx70_depth_136.vmt,113,113
+materials/maps/ba_jail_real_b11/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_real_b11/c0_0_0.vtf,9824,9824
+materials/ba_jail_real/route_grise.vmt,125,125
+materials/ba_jail_real/route_grise.vtf,174968,174968
+materials/ba_jail_real/route_traits.vmt,126,126
+materials/ba_jail_real/route_traits.vtf,174968,174968
+materials/VGUI/logos/logo copie.vmt,127,127
+materials/VGUI/logos/logo copie.vtf,87616,87616
+sound/ba_jail_real/carengine.wav,32398,32398

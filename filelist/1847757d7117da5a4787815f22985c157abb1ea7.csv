@@ -1,0 +1,29 @@
+filename,size,compressed
+materials/maps/bhop_phaze/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_phaze/cubemapdefault.hdr.vtf,76528,76528
+materials/Color/office green.vmt,69,69
+materials/Color/office green.vtf,11144,11144
+materials/Color/maya blue.vmt,66,66
+materials/Color/maya blue.vtf,11144,11144
+materials/Color/grey.vmt,61,61
+materials/Color/grey.vtf,11144,11144
+materials/Color/green.vmt,62,62
+materials/Color/green.vtf,11144,11144
+materials/Color/pale brown.vmt,67,67
+materials/Color/pale brown.vtf,11144,11144
+materials/Color/sandy brown.vmt,68,68
+materials/Color/sandy brown.vtf,11144,11144
+materials/Color/coral red.vmt,66,66
+materials/Color/coral red.vtf,11144,11144
+materials/Color/green html.vmt,67,67
+materials/Color/green html.vtf,11144,11144
+materials/Color/black.vmt,62,62
+materials/Color/black.vtf,11144,11144
+materials/skybox/sky_01up.vmt,85,85
+materials/skybox/sky_01bk.vtf,4194511,4194511
+materials/skybox/sky_01dn.vmt,83,83
+materials/skybox/sky_01lf.vmt,83,83
+materials/skybox/sky_01rt.vmt,83,83
+materials/skybox/sky_01ft.vmt,83,83
+materials/skybox/sky_01bk.vmt,87,87
+maps/graphs/bhop_phaze.ain,16,16

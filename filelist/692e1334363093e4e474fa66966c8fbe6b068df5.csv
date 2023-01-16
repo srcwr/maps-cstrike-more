@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/CUSTOMS/STONETOWER.vmt,66,66
+materials/customs/stonetower.vtf,699272,699272
+materials/decals/bloodstain_003.vmt,98,98
+materials/Decals/bloodstain_003.vtf,174888,174888
+materials/maps/xc_stonetower_v2_fix/c-425_-235_-11619.hdr.vtf,76528,76528
+materials/maps/xc_stonetower_v2_fix/c-425_-235_-11619.vtf,9832,9832
+materials/maps/xc_stonetower_v2_fix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/xc_stonetower_v2_fix/cubemapdefault.vtf,9832,9832
+materials/maps/xc_stonetower_v2_fix/de_piranesi/woodfloor02_-425_-235_-11619.vmt,148,148
+materials/maps/xc_stonetower_v2_fix/glass/glasswindow070c_-425_-235_-11619.vmt,146,146
+materials/maps/xc_stonetower_v2_fix/maps/xc_stonetower_v2_fix/nature/water_canals03_-425_-235_-11619_depth_4.vmt,150,150
+materials/maps/xc_stonetower_v2_fix/nature/water_canals03_-425_-235_-11619.vmt,169,169
+materials/TOOLS/TOOLSINVISIBLE.vmt,354,354
+materials/Tools/toolsinvisible.vtf,5680,5680
+materials/TOOLS/TOOLSTRIGGER.vmt,394,394
+materials/Tools/toolstrigger.vtf,5680,5680

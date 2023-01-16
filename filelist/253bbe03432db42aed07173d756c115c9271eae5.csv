@@ -1,0 +1,42 @@
+filename,size,compressed
+materials/maps/gg_shroomtemple_ggn/cubemapdefault.vtf,9824,9824
+materials/textures/BIGNUTS.vmt,97,97
+materials/textures/BIGNUTS.vtf,87528,87528
+materials/textures/dev_measurecrate04.vmt,143,143
+materials/textures/dev_measurecrate04.vtf,43912,43912
+materials/textures/dev_measurecrate05.vmt,143,143
+materials/textures/dev_measurecrate05.vtf,11144,11144
+materials/models/mush/mush.vmt,93,93
+materials/models/mush/mush.vtf,2796408,2796408
+materials/models/Shroom/Shroom.vmt,204,204
+materials/models/Shroom/Shroom.vtf,174968,174968
+models/Mush/mush_3d.dx80.vtx,7536,7536
+models/Mush/mush_3d.dx90.vtx,7536,7536
+models/Mush/mush_3d.mdl,1452,1452
+models/Mush/mush_3d.phy,5165,5165
+models/Mush/mush_3d.sw.vtx,7536,7536
+models/Mush/mush_3d.vvd,25344,25344
+models/Mush/mush_3d.xbox.vtx,7536,7536
+models/Mush/mush_a.dx80.vtx,8979,8979
+models/Mush/mush_a.dx90.vtx,8979,8979
+models/Mush/mush_a.mdl,1440,1440
+models/Mush/mush_a.phy,8431,8431
+models/Mush/mush_a.sw.vtx,8979,8979
+models/Mush/mush_a.vvd,27072,27072
+models/Mush/mush_a.xbox.vtx,8979,8979
+models/Mush/mush_flop.dx80.vtx,7536,7536
+models/Mush/mush_flop.dx90.vtx,7536,7536
+models/Mush/mush_flop.mdl,1452,1452
+models/Mush/mush_flop.phy,5167,5167
+models/Mush/mush_flop.sw.vtx,7536,7536
+models/Mush/mush_flop.vvd,25344,25344
+models/Mush/mush_flop.xbox.vtx,7536,7536
+models/Shroom/Shroom _Norm_A.dx80.vtx,7536,7536
+models/Shroom/Shroom _Norm_A.dx90.vtx,7536,7536
+models/Shroom/shroom _norm_a.mdl,1452,1452
+models/Shroom/Shroom _Norm_A.phy,5171,5171
+models/Shroom/Shroom _Norm_A.sw.vtx,7536,7536
+models/Shroom/shroom _norm_a.vvd,25344,25344
+models/Shroom/Shroom _Norm_A.xbox.vtx,7536,7536
+sound/gungame/Shroom.wav,28056,28056
+maps/gg_shroomtemple_ggn.nav,161979,161979

@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/mg_secrets_2/dev/dev_water2_0_0_0.vmt,143,143
+materials/maps/mg_secrets_2/models/props_building_details/courtyard_template001c_bars_dark_0_0_0.vmt,168,168
+materials/maps/mg_secrets_2/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/mg_secrets_2/dev/dev_water2_depth_6.vmt,100,100
+materials/maps/mg_secrets_2/dev/dev_water2_depth_5.vmt,100,100
+materials/maps/mg_secrets_2/cubemapdefault.vtf,9824,9824
+materials/maps/mg_secrets_2/c0_0_0.vtf,9824,9824
+materials/COLORS_PACK/GREEN.vmt,65,65
+materials/colors_pack/green.vtf,11144,11144
+materials/COLORS_PACK/ORANGE.vmt,66,66
+materials/colors_pack/orange.vtf,11144,11144
+materials/COLORS_PACK/BLUE.vmt,64,64
+materials/colors_pack/blue.vtf,11144,11144
+materials/COLORS_PACK/RED.vmt,63,63
+materials/colors_pack/red.vtf,11144,11144
+maps/soundcache/mg_secrets_2_fix.cache,16,16

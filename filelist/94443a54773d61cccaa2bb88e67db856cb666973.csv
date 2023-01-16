@@ -1,0 +1,63 @@
+filename,size,compressed
+materials/maps/aim_deagle_2010/cubemapdefault.vtf,4960,4960
+materials/maps/aim_deagle_2010/c85_243_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c258_-4_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c488_275_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-577_317_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-852_142_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-583_3_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-538_615_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-858_603_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-1284_-58_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-1111_-314_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-1337_334_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-1086_124_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-771_-464_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-393_-349_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c56_-414_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-340_165_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c-96_592_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/c355_625_129.vtf,4960,4960
+materials/maps/aim_deagle_2010/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c85_243_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c258_-4_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c488_275_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-577_317_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-852_142_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-583_3_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-538_615_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-858_603_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-1284_-58_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-1111_-314_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-1337_334_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-1086_124_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-771_-464_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-393_-349_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c56_-414_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-340_165_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c-96_592_129.hdr.vtf,76528,76528
+materials/maps/aim_deagle_2010/c355_625_129.hdr.vtf,76528,76528
+materials/Zephyr Textures/Ground/ground3.vmt,97,97
+materials/Zephyr Textures/Ground/ground3.vtf,174984,174984
+materials/Zephyr Textures/Ground/ground5.vmt,98,98
+materials/Zephyr Textures/Ground/ground5.vtf,174984,174984
+materials/Zephyr Textures/Walls/ground8.vmt,97,97
+materials/Zephyr Textures/Walls/ground8.vtf,174984,174984
+materials/Ztext/aimdeagle.vmt,107,107
+materials/Ztext/aimdeagle.vtf,349696,349696
+materials/Ztext/TmF ad.vmt,100,100
+materials/Ztext/TmF ad.vtf,349696,349696
+materials/Ztext/TmFad.vmt,99,99
+materials/Ztext/TmFad.vtf,22016,22016
+materials/skybox/otherworldbk.vmt,96,96
+materials/skybox/otherworldbk.vtf,699272,699272
+materials/skybox/otherworlddn.vmt,96,96
+materials/skybox/otherworlddn.vtf,699272,699272
+materials/skybox/otherworldft.vmt,96,96
+materials/skybox/otherworldft.vtf,699272,699272
+materials/skybox/otherworldlf.vmt,96,96
+materials/skybox/otherworldlf.vtf,699272,699272
+materials/skybox/otherworldrt.vmt,96,96
+materials/skybox/otherworldrt.vtf,699272,699272
+materials/skybox/otherworldup.vmt,96,96
+materials/skybox/otherworldup.vtf,699272,699272

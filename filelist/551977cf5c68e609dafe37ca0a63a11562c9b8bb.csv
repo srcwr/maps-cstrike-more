@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/aim_deagle_rge/dev/dev_water5_0_0_48.vmt,146,146
+materials/maps/aim_deagle_rge/models/shadertest/shader5_0_0_48.vmt,157,157
+materials/maps/aim_deagle_rge/models/shadertest/shader5_2587_94_-2241.vmt,164,164
+materials/maps/aim_deagle_rge/models/shadertest/shader5_9_-595_-327.vmt,162,162
+materials/maps/aim_deagle_rge/concrete/concretefloor011a_c17_0_0_48.vmt,178,178
+materials/maps/aim_deagle_rge/concrete/concretefloor011a_c17_9_-595_-327.vmt,183,183
+materials/maps/aim_deagle_rge/concrete/concretefloor011a_c17_2587_94_-2241.vmt,185,185
+materials/maps/aim_deagle_rge/maps/aim_deagle_rge/dev/dev_water5_0_0_48_depth_8.vmt,127,127
+materials/maps/aim_deagle_rge/cubemapdefault.vtf,9824,9824
+materials/maps/aim_deagle_rge/c0_0_48.vtf,9824,9824
+materials/maps/aim_deagle_rge/c2587_94_-2241.vtf,9824,9824
+materials/maps/aim_deagle_rge/c9_-595_-327.vtf,9824,9824
+materials/maps/aim_deagle_rge/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/aim_deagle_rge/c0_0_48.hdr.vtf,76520,76520
+materials/maps/aim_deagle_rge/c2587_94_-2241.hdr.vtf,76520,76520
+materials/maps/aim_deagle_rge/c9_-595_-327.hdr.vtf,76520,76520

@@ -1,0 +1,66 @@
+filename,size,compressed
+materials/maps/hg_forest_h1/nature/blendrockgrass004a_wvt_patch.vmt,415,415
+materials/maps/hg_forest_h1/glass/combineglass001a_0_0_0.vmt,128,128
+materials/maps/hg_forest_h1/wood/woodfloor007a_0_0_0.vmt,124,124
+materials/maps/hg_forest_h1/dev/dev_water5_depth_464.vmt,102,102
+materials/maps/hg_forest_h1/dev/dev_water5_depth_7.vmt,100,100
+materials/maps/hg_forest_h1/cubemapdefault.vtf,9832,9832
+materials/maps/hg_forest_h1/c0_0_0.vtf,9832,9832
+materials/maps/hg_forest_h1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/hg_forest_h1/c0_0_0.hdr.vtf,76528,76528
+materials/tools/TOOLSSKYBOX.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/TOOLSNODRAW.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/tools/TOOLSINVISIBLE.vmt,304,304
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/tools/TOOLSTRIGGER.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/wood/WOODFLOOR005A.vmt,115,115
+materials/wood/woodfloor005a.vtf,174968,174968
+materials/nexuz customs/LOGO.vmt,66,66
+materials/nexuz customs/LOGO.vtf,87544,87544
+materials/nexuz customs/HG.vmt,92,92
+materials/nexuz customs/HG.vtf,349688,349688
+materials/Custom Thorius Tex/thorius.vmt,102,102
+materials/Custom Thorius Tex/thorius.vtf,87544,87544
+materials/METAL/METALHULL003A.vmt,157,157
+materials/METAL/metalhull003a.vtf,174968,174968
+materials/CS_ITALY/BLACK.vmt,62,62
+materials/CS_ITALY/black.vtf,1584,1584
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,349744,349744
+models/props/CS_militia/ladderwood.mdl,1472,1472
+models/props/CS_militia/ladderwood.vvd,36544,36544
+models/props/CS_militia/ladderwood.dx90.vtx,11102,11102
+models/props/CS_militia/ladderwood.dx80.vtx,11102,11102
+models/props/CS_militia/ladderwood.sw.vtx,11102,11102
+models/props/CS_militia/ladderwood.phy,7023,7023
+materials/models/props/CS_militia/LadderWood.vmt,80,80
+materials/models/props/CS_militia/ladderwood.vtf,699256,699256
+models/moroes/pine_tree.mdl,1800,1800
+models/moroes/pine_tree.vvd,126528,126528
+models/moroes/Pine_Tree.dx90.vtx,44891,44891
+models/moroes/Pine_Tree.dx80.vtx,44891,44891
+models/moroes/Pine_Tree.sw.vtx,44891,44891
+models/moroes/Pine_Tree.phy,3719,3719
+materials/models/moroes/Pine_Tree.vmt,135,135
+materials/models/moroes/Pine_Tree.vtf,1398336,1398336
+models/moroes/pine_tree_little.mdl,1800,1800
+models/moroes/pine_tree_little.vvd,189824,189824
+models/moroes/Pine_Tree_Little.dx90.vtx,46211,46211
+models/moroes/Pine_Tree_Little.dx80.vtx,46211,46211
+models/moroes/Pine_Tree_Little.sw.vtx,46211,46211
+models/moroes/Pine_Tree_Little.phy,3645,3645
+models/moroes/pine_tree_med.mdl,1800,1800
+models/moroes/pine_tree_med.vvd,188992,188992
+models/moroes/Pine_Tree_Med.dx90.vtx,46211,46211
+models/moroes/Pine_Tree_Med.dx80.vtx,46211,46211
+models/moroes/Pine_Tree_Med.sw.vtx,46211,46211
+models/moroes/Pine_Tree_Med.phy,3722,3722
+models/moroes/pine_tree_medbreak.mdl,1800,1800
+models/moroes/pine_tree_medbreak.vvd,146624,146624
+models/moroes/Pine_Tree_MedBreak.dx90.vtx,35969,35969
+models/moroes/Pine_Tree_MedBreak.dx80.vtx,35969,35969
+models/moroes/Pine_Tree_MedBreak.sw.vtx,35969,35969
+models/moroes/Pine_Tree_MedBreak.phy,3727,3727

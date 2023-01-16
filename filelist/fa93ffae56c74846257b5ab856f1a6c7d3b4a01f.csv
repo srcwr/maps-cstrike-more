@@ -1,0 +1,76 @@
+filename,size,compressed
+materials/maps/aim_prime_orange_real/metal/metaldoor030a_46_-124_286.vmt,140,140
+materials/maps/aim_prime_orange_real/de_nuke/nukfloorb_46_-124_286.vmt,138,138
+materials/maps/aim_prime_orange_real/de_nuke/nuke_metaldoor_01_46_-124_286.vmt,146,146
+materials/maps/aim_prime_orange_real/de_nuke/nuke_metaldoor_01_385_-52_-4060.vmt,148,148
+materials/maps/aim_prime_orange_real/metal/metalwall056a_46_-124_286.vmt,140,140
+materials/maps/aim_prime_orange_real/metal/metalwall056a_385_-52_-4060.vmt,142,142
+materials/maps/aim_prime_orange_real/cubemapdefault.vtf,9824,9824
+materials/maps/aim_prime_orange_real/c46_-124_286.vtf,9824,9824
+materials/maps/aim_prime_orange_real/c385_-52_-4060.vtf,9824,9824
+materials/maps/aim_prime_orange_real/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/aim_prime_orange_real/c46_-124_286.hdr.vtf,76520,76520
+materials/maps/aim_prime_orange_real/c385_-52_-4060.hdr.vtf,76520,76520
+materials/METAL/METALWALL013A_RED.vmt,71,71
+materials/metal/metalwall013a_red.vtf,349760,349760
+materials/HALO_TEXTURES/HALO_WALL008.vmt,99,99
+materials/halo_textures/halo_wall008.vtf,174984,174984
+materials/HALO_TEXTURES/HALO_FLOOR014.vmt,100,100
+materials/halo_textures/halo_floor014.vtf,174984,174984
+materials/METAL/PRODCAUTION_WHITE.vmt,90,90
+materials/metal/prodcaution_white.vtf,87616,87616
+materials/METAL/PRODCAUTION_ORANGE.vmt,72,72
+materials/metal/prodcaution_orange.vtf,87616,87616
+materials/METAL/METALFLOOR003A_BLACK.vmt,74,74
+materials/metal/metalfloor003a_black.vtf,349760,349760
+materials/METAL/PRODCAUTION_BLACK.vmt,71,71
+materials/metal/prodcaution_black.vtf,87616,87616
+materials/HALO_TEXTURES/HALO_METAL026.vmt,100,100
+materials/halo_textures/halo_metal026.vtf,43912,43912
+materials/METAL/PRODCAUTION_RED.vmt,69,69
+materials/metal/prodcaution_red.vtf,87616,87616
+materials/METAL/PRODCAUTION_BLUE.vmt,70,70
+materials/metal/prodcaution_blue.vtf,87616,87616
+materials/HALO_TEXTURES/HALO_METAL003.vmt,100,100
+materials/halo_textures/halo_metal003.vtf,87616,87616
+materials/decals/blackmesalogo.vmt,115,115
+materials/decals/blackmesalogo.vtf,349732,349732
+models/ss-create models/blacmtext/blacmtext.mdl,1532,1532
+models/ss-create models/blacmtext/blacmtext.dx80.vtx,81783,81783
+models/ss-create models/blacmtext/blacmtext.dx90.vtx,81783,81783
+models/ss-create models/blacmtext/blacmtext.sw.vtx,81783,81783
+models/ss-create models/blacmtext/blacmtext.phy,1425,1425
+models/ss-create models/blacmtext/blacmtext.vvd,397504,397504
+materials/models/SS-Create Models/blacMtext/blacMtext.vmt,89,89
+models/ss-create models/boxes/boxes.mdl,1728,1728
+models/ss-create models/boxes/boxes.dx80.vtx,3954,3954
+models/ss-create models/boxes/boxes.dx90.vtx,3954,3954
+models/ss-create models/boxes/boxes.sw.vtx,3954,3954
+models/ss-create models/boxes/boxes.phy,1085,1085
+models/ss-create models/boxes/boxes.vvd,20032,20032
+materials/models/SS-Create Models/boxes/boxes_texture.vmt,153,153
+materials/models/SS-Create Models/boxes/boxes_texture1.vmt,154,154
+sound/aim_prime_orange_real/aim_prime_orange_real_audio_test1.wav,1326475,1326475
+sound/aim_prime_orange_real/aim_prime_orange_real_moskovskaya_pesnya.wav,33979436,33979436
+models/ss-create models/sslogo/sslogo.mdl,1528,1528
+models/ss-create models/sslogo/sslogo.dx80.vtx,91617,91617
+models/ss-create models/sslogo/sslogo.dx90.vtx,91617,91617
+models/ss-create models/sslogo/sslogo.sw.vtx,91617,91617
+models/ss-create models/sslogo/sslogo.phy,7086,7086
+models/ss-create models/sslogo/sslogo.vvd,448064,448064
+materials/models/SS-Create Models/sslogo/SSLogo.vmt,151,151
+maps/soundcache/aim_prime_orange_real.cache,16,16
+materials/models/SS-Create Models/blacMtext/blacMtext.vmt,89,89
+materials/models/SS-Create Models/blacMtext/blacMtext.vtf,11144,11144
+materials/models/SS-Create Models/boxes/boxes_texture.vmt,153,153
+materials/models/SS-Create Models/boxes/boxes_texture.vtf,43912,43912
+materials/models/SS-Create Models/boxes/boxes_texture1.vmt,154,154
+materials/models/SS-Create Models/boxes/boxes_texture1.vtf,2796424,2796424
+materials/models/SS-Create Models/boxes/boxes_texture1bump.vmt,96,96
+materials/models/SS-Create Models/boxes/boxes_texture1bump.vtf,2796424,2796424
+materials/models/SS-Create Models/boxes/boxes_textureubump.vmt,96,96
+materials/models/SS-Create Models/boxes/boxes_textureubump.vtf,43912,43912
+materials/models/SS-Create Models/sslogo/sslogo.vmt,151,151
+materials/models/SS-Create Models/sslogo/sslogo.vtf,43912,43912
+materials/models/SS-Create Models/sslogo/sslogobump.vmt,87,87
+materials/models/SS-Create Models/sslogo/sslogobump.vtf,43912,43912

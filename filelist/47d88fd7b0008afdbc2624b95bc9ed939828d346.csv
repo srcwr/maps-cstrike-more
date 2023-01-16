@@ -1,0 +1,130 @@
+filename,size,compressed
+materials/maps/surf_sandman/nature/sewer_water001_2528_-6208_3344.vmt,160,160
+materials/maps/surf_sandman/nature/sewer_water001_-1568_-5664_504.vmt,160,160
+materials/maps/surf_sandman/nature/sewer_water001_-581_-6208_3160.vmt,160,160
+materials/maps/surf_sandman/nature/sewer_water001_-5280_-3584_4568.vmt,161,161
+materials/maps/surf_sandman/nature/sewer_water001_-4336_-1024_4920.vmt,161,161
+materials/maps/surf_sandman/nature/sewer_water001_1792_-1024_328.vmt,159,159
+materials/maps/surf_sandman/nature/sewer_water001_4248_-1024_544.vmt,159,159
+materials/maps/surf_sandman/nature/sewer_water001_-7264_1792_7072.vmt,160,160
+materials/maps/surf_sandman/nature/sewer_water001_-5840_4608_6244.vmt,160,160
+materials/maps/surf_sandman/nature/sewer_water001_1744_-8624_1344.vmt,160,160
+materials/maps/surf_sandman/nature/sewer_water001_4320_-9296_1344.vmt,160,160
+materials/maps/surf_sandman/nature/sewer_water001_924_-9888_660.vmt,158,158
+materials/maps/surf_sandman/nature/sewer_water001_-1724_-9888_660.vmt,160,160
+materials/maps/surf_sandman/glass/combineglass001a_4248_-1024_544.vmt,137,137
+materials/maps/surf_sandman/glass/combineglass001a_-581_-6208_3160.vmt,138,138
+materials/maps/surf_sandman/glass/combineglass001a_-1568_-5664_504.vmt,138,138
+materials/maps/surf_sandman/glass/combineglass001a_-5280_-3584_4568.vmt,139,139
+materials/maps/surf_sandman/glass/combineglass001a_-400_-9888_984.vmt,137,137
+materials/maps/surf_sandman/glass/combineglass001a_1152_-8192_708.vmt,137,137
+materials/maps/surf_sandman/nature/sewer_water001_1152_-8192_708.vmt,159,159
+materials/maps/surf_sandman/glass/combineglass001a_-4336_-1024_4920.vmt,139,139
+materials/maps/surf_sandman/glass/combineglass001a_2528_-6208_3344.vmt,138,138
+materials/maps/surf_sandman/nature/sewer_water001_-400_-9888_984.vmt,159,159
+materials/maps/surf_sandman/glass/combineglass001a_1792_-1024_328.vmt,137,137
+materials/maps/surf_sandman/nature/sewer_water001_6560_1792_1080.vmt,159,159
+materials/maps/surf_sandman/glass/combineglass001a_6560_1792_1080.vmt,137,137
+materials/maps/surf_sandman/glass/combineglass001a_-5840_4608_6244.vmt,138,138
+materials/maps/surf_sandman/glass/combineglass001a_-7264_1792_7072.vmt,138,138
+materials/maps/surf_sandman/glass/combineglass001a_1744_-8624_1344.vmt,138,138
+materials/maps/surf_sandman/glass/combineglass001a_-1724_-9888_660.vmt,138,138
+materials/maps/surf_sandman/glass/combineglass001a_3532_-7872_1336.vmt,138,138
+materials/maps/surf_sandman/nature/sewer_water001_2536_-10048_1336.vmt,161,161
+materials/maps/surf_sandman/glass/unbreakable_-400_-9888_984.vmt,132,132
+materials/maps/surf_sandman/glass/unbreakable_924_-9888_660.vmt,131,131
+materials/maps/surf_sandman/glass/unbreakable_1152_-8192_708.vmt,132,132
+materials/maps/surf_sandman/glass/unbreakable_-1724_-9888_660.vmt,133,133
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_-1724_-9888_660_depth_8.vmt,141,141
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_-5280_-3584_4568_depth_8.vmt,142,142
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_-581_-6208_3160_depth_36.vmt,142,142
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_-1568_-5664_504_depth_8.vmt,141,141
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_-7264_1792_7072_depth_8.vmt,141,141
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_-5840_4608_6244_depth_8.vmt,141,141
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_-4336_-1024_4920_depth_8.vmt,142,142
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_924_-9888_660_depth_8.vmt,139,139
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_4320_-9296_1344_depth_8.vmt,141,141
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_1152_-8192_708_depth_8.vmt,140,140
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_1744_-8624_1344_depth_8.vmt,141,141
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_2528_-6208_3344_depth_8.vmt,141,141
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_1792_-1024_328_depth_8.vmt,140,140
+materials/maps/surf_sandman/maps/surf_sandman/nature/sewer_water001_4248_-1024_544_depth_-2321.vmt,144,144
+materials/maps/surf_sandman/cubemapdefault.vtf,9824,9824
+materials/maps/surf_sandman/c2528_-6208_3344.vtf,4952,4952
+materials/maps/surf_sandman/c-1568_-5664_504.vtf,4952,4952
+materials/maps/surf_sandman/c-581_-6208_3160.vtf,4952,4952
+materials/maps/surf_sandman/c-5280_-3584_4568.vtf,4952,4952
+materials/maps/surf_sandman/c-4336_-1024_4920.vtf,4952,4952
+materials/maps/surf_sandman/c1792_-1024_328.vtf,4952,4952
+materials/maps/surf_sandman/c4248_-1024_544.vtf,4952,4952
+materials/maps/surf_sandman/c-7264_1792_7072.vtf,4952,4952
+materials/maps/surf_sandman/c-5840_4608_6244.vtf,4952,4952
+materials/maps/surf_sandman/c1744_-8624_1344.vtf,4952,4952
+materials/maps/surf_sandman/c4320_-9296_1344.vtf,4952,4952
+materials/maps/surf_sandman/c924_-9888_660.vtf,4952,4952
+materials/maps/surf_sandman/c-1724_-9888_660.vtf,4952,4952
+materials/maps/surf_sandman/c-400_-9888_984.vtf,4952,4952
+materials/maps/surf_sandman/c1152_-8192_708.vtf,4952,4952
+materials/maps/surf_sandman/c6560_1792_1080.vtf,4952,4952
+materials/maps/surf_sandman/c3532_-7872_1336.vtf,4952,4952
+materials/maps/surf_sandman/c2536_-10048_1336.vtf,4952,4952
+materials/maps/surf_sandman/c1744_-9776_1336.vtf,4952,4952
+materials/maps/surf_sandman/c4320_-8144_1336.vtf,4952,4952
+materials/maps/surf_sandman/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c2528_-6208_3344.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c-1568_-5664_504.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c-581_-6208_3160.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c-5280_-3584_4568.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c-4336_-1024_4920.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c1792_-1024_328.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c4248_-1024_544.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c-7264_1792_7072.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c-5840_4608_6244.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c1744_-8624_1344.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c4320_-9296_1344.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c924_-9888_660.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c-1724_-9888_660.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c-400_-9888_984.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c1152_-8192_708.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c6560_1792_1080.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c3532_-7872_1336.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c2536_-10048_1336.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c1744_-9776_1336.hdr.vtf,76520,76520
+materials/maps/surf_sandman/c4320_-8144_1336.hdr.vtf,76520,76520
+materials/CUSTOMTEXTURES/JAIL1.vmt,93,93
+materials/CustomTextures/Jail1.vtf,174984,174984
+models/my model/stage 2.mdl,1648,1648
+models/my model/stage 2.dx80.vtx,55698,55698
+models/my model/stage 2.dx90.vtx,55698,55698
+models/my model/stage 2.sw.vtx,55698,55698
+models/my model/stage 2.vvd,239680,239680
+materials/models/My Model/black.vmt,60,60
+materials/models/My Model/white.vmt,59,59
+models/my model/finish.mdl,1648,1648
+models/my model/finish.dx80.vtx,22386,22386
+models/my model/finish.dx90.vtx,22386,22386
+models/my model/finish.sw.vtx,22386,22386
+models/my model/finish.vvd,97856,97856
+models/my model/sandmanmdl.mdl,1648,1648
+models/my model/sandmanmdl.dx80.vtx,69768,69768
+models/my model/sandmanmdl.dx90.vtx,69768,69768
+models/my model/sandmanmdl.sw.vtx,69768,69768
+models/my model/sandmanmdl.vvd,299968,299968
+materials/models/My Model/Black.vmt,60,60
+materials/models/My Model/White.vmt,59,59
+models/my model/stage 3.mdl,1648,1648
+models/my model/stage 3.dx80.vtx,61014,61014
+models/my model/stage 3.dx90.vtx,61014,61014
+models/my model/stage 3.sw.vtx,61014,61014
+models/my model/stage 3.vvd,262464,262464
+models/my model/stage 4.mdl,1648,1648
+models/my model/stage 4.dx80.vtx,49626,49626
+models/my model/stage 4.dx90.vtx,49626,49626
+models/my model/stage 4.sw.vtx,49626,49626
+models/my model/stage 4.vvd,214080,214080
+models/my model/stage 5.mdl,1648,1648
+models/my model/stage 5.dx80.vtx,57090,57090
+models/my model/stage 5.dx90.vtx,57090,57090
+models/my model/stage 5.sw.vtx,57090,57090
+models/my model/stage 5.vvd,245824,245824
+maps/soundcache/surf_sandman.cache,16,16

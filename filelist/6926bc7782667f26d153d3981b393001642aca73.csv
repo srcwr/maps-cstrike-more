@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/surf_point/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/surf_point/metal/metalceiling005a_0_0_0.vmt,126,126
+materials/maps/surf_point/metal/citadel_metalwall078a_0_0_0.vmt,131,131
+materials/maps/surf_point/metal/citadel_metalwall090a_0_0_0.vmt,131,131
+materials/maps/surf_point/dev/dev_water2_depth_24.vmt,101,101
+materials/maps/surf_point/dev/dev_water2_depth_8.vmt,100,100
+materials/maps/surf_point/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/surf_point/cubemapdefault.vtf,28753,28753
+materials/maps/surf_point/c0_0_0.vtf,28753,28753
+materials/maps/surf_point/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_point/c0_0_0.hdr.vtf,76528,76528

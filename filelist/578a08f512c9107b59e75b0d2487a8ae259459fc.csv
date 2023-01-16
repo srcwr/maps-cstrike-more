@@ -1,0 +1,37 @@
+filename,size,compressed
+materials/maps/fy_area_n9/esmod/utf/utf_wall01b_-893_511_152.vmt,132,132
+materials/maps/fy_area_n9/esmod/utf/utf_wall01b_-83_510_152.vmt,131,131
+materials/maps/fy_area_n9/esmod/utf/utf_wall01a_-893_511_152.vmt,132,132
+materials/maps/fy_area_n9/esmod/utf/utf_wall01a_-83_510_152.vmt,131,131
+materials/maps/fy_area_n9/esmod/utf/utftrim1a_-893_511_152.vmt,130,130
+materials/maps/fy_area_n9/esmod/utf/utftrim1a_-83_510_152.vmt,129,129
+materials/maps/fy_area_n9/glass/glasswindow070c_-893_511_152.vmt,132,132
+materials/maps/fy_area_n9/glass/glasswindow070c_-83_510_152.vmt,131,131
+materials/maps/fy_area_n9/cubemapdefault.vtf,9824,9824
+materials/maps/fy_area_n9/c-893_511_152.vtf,9824,9824
+materials/maps/fy_area_n9/c-83_510_152.vtf,9824,9824
+materials/hellhunters/new skull 256.vmt,104,104
+materials/hellhunters/new skull 256.vtf,349732,349732
+materials/skybox/aethra_normal.vmt,66,66
+materials/skybox/Aethra_planet.vmt,637,637
+materials/skybox/aethraBK.vmt,84,84
+materials/skybox/aethraBK.vtf,1398208,1398208
+materials/skybox/aethraDN.vmt,84,84
+materials/skybox/aethraDN.vtf,1398208,1398208
+materials/skybox/aethraFT.vmt,84,84
+materials/skybox/aethraFT.vtf,1398208,1398208
+materials/skybox/aethraLF.vmt,84,84
+materials/skybox/aethraLF.vtf,1398208,1398208
+materials/skybox/aethraRT.vmt,84,84
+materials/skybox/aethraRT.vtf,1398208,1398208
+materials/skybox/aethraUP.vmt,84,84
+materials/skybox/aethraUP.vtf,1398208,1398208
+materials/esmod/utf/utf_wall01a.vmt,230,230
+materials/esmod/utf/utf_wall01a.vtf,174984,174984
+materials/esmod/utf/utf_wall01a_normal.vtf,349760,349760
+materials/esmod/utf/utf_wall01b.vmt,230,230
+materials/esmod/utf/utf_wall01b.vtf,174984,174984
+materials/esmod/utf/utftrim1a.vmt,240,240
+materials/esmod/utf/utftrim1a.vtf,87544,87544
+materials/esmod/utf/utftrim1a_bump.vtf,87544,87544
+materials/esmod/utf/utftrim1a_normal.vtf,174944,174944

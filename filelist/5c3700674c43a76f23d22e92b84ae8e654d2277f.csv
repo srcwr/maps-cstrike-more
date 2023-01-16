@@ -1,0 +1,41 @@
+filename,size,compressed
+materials/maps/bhop_spaceshit/cubemapdefault.vtf,28753,113
+materials/maps/bhop_spaceshit/cubemapdefault.hdr.vtf,76528,149
+materials/tools/toolsskybox.vmt,285,228
+materials/tools/toolsskybox.vtf,11128,957
+materials/tools/toolsnodraw.vmt,254,206
+materials/tools/toolsnodraw.vtf,2936,567
+materials/black.vmt,53,64
+materials/black.vtf,174984,150
+materials/egypt/stone07d.vmt,62,73
+materials/egypt/stone07d.vtf,43912,26890
+materials/tools/toolstrigger.vmt,394,268
+materials/tools/toolstrigger.vtf,5680,979
+materials/tools/toolstrigger-dx10.vtf,5720,1012
+materials/base_floor/tilefloor2.vmt,69,75
+materials/base_floor/tilefloor2.vtf,11144,5511
+materials/base_floor/achtung_clang.vmt,97,98
+materials/base_floor/achtung_clang.vtf,11144,7221
+materials/lemog/tiles/016chine_noire.vmt,139,111
+materials/lemog/tiles/016chine_noire.vtf,131280,43250
+materials/lemog/tiles/016chine_noire_ssbump.vtf,131280,20708
+materials/banana/comp/pack 2 remnont/remn_window1.vmt,355,212
+materials/banana/comp/pack 2 remnont/remn_window1.vtf,174944,125604
+materials/banana/comp/pack 2 remnont/remn_window1_normal.vtf,174944,40141
+materials/jurd9r_logo/map_by_jurd9r.vmt,121,104
+materials/jurd9r_logo/map_by_jurd9r.vtf,699232,55174
+materials/skybox/space_17up.vmt,83,87
+materials/skybox/space_17up.vtf,4194511,838471
+materials/skybox/space_17dn.vmt,83,87
+materials/skybox/space_17dn.vtf,4194511,607007
+materials/skybox/space_17lf.vmt,83,87
+materials/skybox/space_17lf.vtf,4194511,842871
+materials/skybox/space_17rt.vmt,83,87
+materials/skybox/space_17rt.vtf,4194511,681345
+materials/skybox/space_17ft.vmt,83,87
+materials/skybox/space_17ft.vtf,4194511,870148
+materials/skybox/space_17bk.vmt,83,87
+materials/skybox/space_17bk.vtf,4194511,819665
+materials/detail/detailsprites.vmt,161,123
+materials/detail/detailsprites.vtf,1398336,765896
+maps/bhop_spaceshit.nav,205,95

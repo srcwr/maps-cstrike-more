@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/gm_audiosurf/effects/combineshield/comshieldwall3_0_0_0.vmt,165,165
+materials/maps/gm_audiosurf/metal/citadel_metalwall078a_0_0_0.vmt,133,133
+materials/maps/gm_audiosurf/metal/citadel_metalwall063a_cheap_0_0_0.vmt,139,139
+materials/maps/gm_audiosurf/metal/citadel_metalwall072b_cheap_0_0_0.vmt,139,139
+materials/maps/gm_audiosurf/metal/citadel_metalwall072c_0_0_0.vmt,133,133
+materials/maps/gm_audiosurf/cubemapdefault.vtf,28753,28753
+materials/maps/gm_audiosurf/c0_0_0.vtf,28753,28753
+materials/maps/gm_audiosurf/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gm_audiosurf/c0_0_0.hdr.vtf,76528,76528
+sound/1/sound01.mp3,6133834,6133834
+sound/1/sound02.mp3,6389794,6389794
+sound/1/sound03.mp3,6451439,6451439

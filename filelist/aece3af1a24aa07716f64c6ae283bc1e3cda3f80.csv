@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/headshot/concrete/concretefloor005a_0_0_0.vmt,128,128
+materials/maps/headshot/cubemapdefault.vtf,9824,9824
+materials/maps/headshot/c0_0_0.vtf,9824,9824
+materials/GIZA/SANDRIPPLE.vmt,89,89
+materials/giza/sandripple.vtf,174968,174968
+materials/GIZA/SANDSTONE.vmt,130,130
+materials/giza/sandstone.vtf,174968,174968
+materials/giza/sandstone_normal.vtf,174968,174968
+maps/aim_headshot.nav,2120412,2120412
+maps/soundcache/aim_headshot.cache,16,16

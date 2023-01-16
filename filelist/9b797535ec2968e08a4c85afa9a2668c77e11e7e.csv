@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/de_mgs_tanker_3_3/metal/metalwall063a_0_0_0.vmt,130,130
+materials/maps/de_mgs_tanker_3_3/cubemapdefault.vtf,28753,28753
+materials/maps/de_mgs_tanker_3_3/c0_0_0.vtf,28753,28753
+materials/maps/de_mgs_tanker_3_3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_mgs_tanker_3_3/c0_0_0.hdr.vtf,76528,76528
+materials/CUSTOM_TEXTURES/GOLDENEYE_CEILING.vmt,103,103
+materials/custom_textures/goldeneye_ceiling.vtf,349688,349688
+materials/CUSTOM_TEXTURES/GOLDENEYE_FLOOR.vmt,105,105
+materials/custom_textures/goldeneye_floor.vtf,349688,349688
+materials/CUSTOM_TEXTURES/MGSWALL29.vmt,95,95
+materials/custom_textures/mgswall29.vtf,87544,87544
+sound/x3ent3nte/metal gear solid 2 substance intro (ps2 widescreen)_0.mp3,1488176,1488176
+maps/de_mgs_tanker_3_3.nav,581038,581038
+maps/soundcache/de_mgs_tanker_3_3.cache,576838,576838

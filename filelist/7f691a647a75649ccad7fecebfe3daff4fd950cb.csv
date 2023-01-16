@@ -1,0 +1,57 @@
+filename,size,compressed
+materials/maps/ze_zk_confuse/glass/glasswindow070c_0_0_0.vmt,128,128
+materials/maps/ze_zk_confuse/cubemapdefault.vtf,4960,4960
+materials/maps/ze_zk_confuse/c0_0_0.vtf,4960,4960
+materials/maps/ze_zk_confuse/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_zk_confuse/c0_0_0.hdr.vtf,76528,76528
+materials/colour texture.vmt,62,62
+materials/colour texture.vtf,1398264,1398264
+materials/fake trigger texture.vmt,68,68
+materials/fake trigger texture.vtf,43912,43912
+materials/voilet spike texture.vmt,68,68
+materials/voilet spike texture.vtf,1398264,1398264
+materials/blue texture.vmt,60,60
+materials/blue texture.vtf,1398264,1398264
+materials/white texture.vmt,61,61
+materials/white texture.vtf,699272,699272
+materials/arrow button texture.vmt,68,68
+materials/arrow button texture.vtf,174904,174904
+materials/green texture go.vmt,64,64
+materials/green texture go.vtf,5592568,5592568
+materials/red texture stop.vmt,64,64
+materials/red texture stop.vtf,1398264,1398264
+materials/blackrockshooter/brsbodyinterior.vmt,312,312
+materials/blackrockshooter/brsbodyinterior.vtf,699272,699272
+materials/blackrockshooter/brsbodyinteriornormalmap.vtf,699272,699272
+materials/credit textures.vmt,63,63
+materials/credit textures.vtf,349688,349688
+materials/zombie-kebab.vmt,60,60
+materials/zombie-kebab.vtf,43912,43912
+materials/animated portal.vmt,63,63
+materials/animated portal.vtf,87544,87544
+materials/green teleport texture.vmt,70,70
+materials/green teleport texture.vtf,349688,349688
+materials/red texture hold here.vmt,69,69
+materials/red texture hold here.vtf,1398264,1398264
+materials/black texture touch me.vmt,70,70
+materials/black texture touch me.vtf,699272,699272
+materials/yellow texture.vmt,62,62
+materials/yellow texture.vtf,5592568,5592568
+materials/skybox/sky_night_testup.vmt,71,71
+materials/skybox/sky_night_testup.vtf,1398264,1398264
+materials/skybox/sky_night_testdn.vmt,71,71
+materials/skybox/sky_night_testdn.vtf,1398264,1398264
+materials/skybox/sky_night_testlf.vmt,71,71
+materials/skybox/sky_night_testlf.vtf,1398264,1398264
+materials/skybox/sky_night_testrt.vmt,71,71
+materials/skybox/sky_night_testrt.vtf,1398264,1398264
+materials/skybox/sky_night_testft.vmt,71,71
+materials/skybox/sky_night_testft.vtf,1398264,1398264
+materials/skybox/sky_night_testbk.vmt,71,71
+materials/skybox/sky_night_testbk.vtf,1398264,1398264
+sound/mapsounds/Kola Kid - Can't Hide Your Love.mp3,2756602,2756602
+sound/mapsounds/World of Warcraft - The Naaru Sound OST  VGM.mp3,1618078,1618078
+sound/mapsounds/Noisestorm - Pulse.mp3,4147023,4147023
+sound/mapsounds/Ronald Jenkees - Throwing Fire - Kopi.mp3,2989727,2989727
+sound/mapsounds/Touhou Electro House 202.mp3,4411299,4411299
+sound/mapsounds/Savant - Nightmare Adventures.mp3,3397904,3397904

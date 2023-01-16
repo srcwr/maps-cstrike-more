@@ -1,0 +1,59 @@
+filename,size,compressed
+materials/maps/ze_kanker_escape_v1_1/wood/offdesktop_0_0_0.vmt,130,130
+materials/maps/ze_kanker_escape_v1_1/plaster/plasterwall043c_0_0_0.vmt,138,138
+materials/maps/ze_kanker_escape_v1_1/nature/water_coast01_depth_160.vmt,108,108
+materials/maps/ze_kanker_escape_v1_1/cubemapdefault.vtf,9832,9832
+materials/maps/ze_kanker_escape_v1_1/c0_0_0.vtf,9832,9832
+materials/maps/ze_kanker_escape_v1_1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_kanker_escape_v1_1/c0_0_0.hdr.vtf,76528,76528
+maps/ze_kanker_escape_v1_1_particles.txt,2035,2035
+particles/skybox_smoke.pcf,275799,275799
+materials/particle/bendibeam_nofog.vmt,269,269
+materials/particle/aurora_2/aurora_2.vmt,154,154
+materials/particle/aurora_2/aurora_2.vtf,699788,699788
+materials/particle/aurora_2/aurora_2_alpha.vmt,140,140
+materials/particle/particle_cloud2.vmt,147,147
+materials/effects/citadel_sky_card_01.vtf,1398308,1398308
+particles/waterfall.pcf,30441,30441
+materials/arkane/particles/arkane_healing_2.vmt,260,260
+materials/arkane/particles/arkane_healing_3.vtf,22080,22080
+particles/rain.pcf,30108,30108
+particles/aurora_sphere2.pcf,25908,25908
+particles/fire_01.pcf,297076,297076
+particles/dust_rumble.pcf,74772,74772
+particles/advisor_fx.pcf,174957,174957
+particles/waterdrips.pcf,56349,56349
+particles/hunter_flechette.pcf,6438,6438
+particles/weapon_fx.pcf,107858,107858
+particles/combine_fx.pcf,8942,8942
+particles/ffvii_3.pcf,126670,126670
+particles/ze_boatescape6_remix_batata_fix2.pcf,293733,293733
+particles/fusee.pcf,85072,85072
+particles/ze_nemesis_nide_laser_2_particles.pcf,132049,132049
+models/player/custom/beatrix/beatrix.mdl,22368,22368
+models/player/custom/beatrix/beatrix.dx80.vtx,8824,8824
+models/player/custom/beatrix/beatrix.dx90.vtx,8700,8700
+models/player/custom/beatrix/beatrix.phy,13343,13343
+models/player/custom/beatrix/beatrix.sw.vtx,8508,8508
+models/player/custom/beatrix/beatrix.vvd,33664,33664
+materials/models/player/custom/beatrix/dbfile0001.vmt,231,231
+materials/models/player/custom/beatrix/dbfile0001.vtf,22096,22096
+materials/models/player/custom/beatrix/dbfile0000.vmt,231,231
+materials/models/player/custom/beatrix/dbfile0000.vtf,11120,11120
+materials/models/player/custom/beatrix/427_0.vmt,226,226
+materials/models/player/custom/beatrix/427_0.vtf,22096,22096
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,22064,22064
+materials/tools/toolstrigger.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+sound/aimzakar/laser.mp3,11417,11417
+sound/aimzakar/dead or alive - you spin me round (like a record) (official video).mp3,1366961,1366961
+sound/aimzakar/carol of the bells - epic version _ epic christmas music.mp3,3439327,3439327
+sound/aimzakar/interstellar main theme - extra extended - soundtrack by  hans zimmer.mp3,2114328,2114328
+sound/aimzakar/pitstop boys - super max  f1 fans max verstappen (orginele video).mp3,5085222,5085222
+sound/aimzakar/captain hollywood project - flying high (official video).mp3,1458756,1458756
+sound/aimzakar/elevator music.mp3,1374952,1374952

@@ -1,0 +1,40 @@
+filename,size,compressed
+materials/maps/bhop_pp1/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_pp1/cubemapdefault.hdr.vtf,76528,76528
+materials/saspatoontexturepack398/Saspatoon/Pastel/Xor/PastelXorViolet.vmt,195,195
+materials/Saspatoon/Pastel/Xor/PastelXorViolet.vtf,174984,174984
+materials/saspatoontexturepack398/Saspatoon/Pastel/Xor/PastelXorBlack.vmt,194,194
+materials/Saspatoon/Pastel/Xor/PastelXorBlack.vtf,174984,174984
+materials/Color/shocking pink.vmt,70,70
+materials/Color/shocking pink.vtf,11144,11144
+materials/Saspatoon/Concrete/Rough/ConcreteRoughPinkBorder.vmt,234,234
+materials/Saspatoon/Concrete/Rough/ConcreteRoughPinkBorder.vtf,174984,174984
+materials/colour/neon/pink_neon.vmt,106,106
+materials/colour/neon/pink_neon.vtf,43912,43912
+materials/saspatoontexturepack398/Saspatoon/Carpet/Smooth/SmoothCarpetGrey.vmt,222,222
+materials/Saspatoon/Carpet/Smooth/SmoothCarpetGrey.vtf,174984,174984
+materials/Saspatoon/Glass/GlassPink.vmt,227,227
+materials/Saspatoon/Glass/GlassPink.vtf,349760,349760
+materials/Color/aqua.vmt,61,61
+materials/Color/aqua.vtf,11144,11144
+materials/Saspatoon/Metal/Grate/MetalGrateRed.vmt,218,218
+materials/Saspatoon/Metal/Grate/MetalGrateRed.vtf,174984,174984
+materials/Color/lawn green.vmt,67,67
+materials/Color/lawn green.vtf,11144,11144
+materials/ryan_dev/dev_rbg_magenta_crate64.vmt,80,80
+materials/ryan_dev/dev_rbg_magenta_crate64.vtf,43912,43912
+materials/vgui/logos/ssp.vmt,62,62
+materials/vgui/logos/ssp.vtf,43936,43936
+materials/skybox/pandora_fup.vmt,85,85
+materials/skybox/pandora_fup.vtf,4194511,4194511
+materials/skybox/pandora_fdn.vmt,85,85
+materials/skybox/pandora_fdn.vtf,4194511,4194511
+materials/skybox/pandora_flf.vmt,85,85
+materials/skybox/pandora_flf.vtf,4194511,4194511
+materials/skybox/pandora_frt.vmt,85,85
+materials/skybox/pandora_frt.vtf,4194511,4194511
+materials/skybox/pandora_fft.vmt,85,85
+materials/skybox/pandora_fft.vtf,4194511,4194511
+materials/skybox/pandora_fbk.vmt,85,85
+materials/skybox/pandora_fbk.vtf,4194511,4194511
+maps/bhop_pp1.nav,99588,99588

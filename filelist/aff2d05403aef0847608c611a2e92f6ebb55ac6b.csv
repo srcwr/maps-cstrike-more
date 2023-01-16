@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/fy_tusken_v4/cubemapdefault.vtf,9824,9824
+materials/maps/fy_tusken_v4/cubemapdefault.hdr.vtf,76520,76520
+materials/perso/cn.vmt,56,56
+materials/perso/cr.vmt,56,56
+materials/perso/md.vmt,56,56
+materials/perso/t.vmt,55,55
+materials/perso/tg.vmt,56,56
+materials/perso/v.vmt,55,55
+materials/perso/v.vtf,43896,43896
+materials/perso/tg.vtf,174968,174968
+materials/perso/md.vtf,174968,174968
+materials/perso/t.vtf,174968,174968
+materials/perso/cr.vtf,174968,174968
+maps/fy_tusken_v4.nav,81567,81567
+maps/soundcache/fy_tusken_v4.cache,16,16

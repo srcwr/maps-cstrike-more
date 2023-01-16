@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/training_usp_v2/cubemapdefault.vtf,9824,9824
+materials/perso/cn.vmt,56,56
+materials/perso/cr.vmt,56,56
+materials/perso/md.vmt,56,56
+materials/perso/t.vmt,55,55
+materials/perso/tg.vmt,56,56
+materials/perso/v.vmt,55,55
+materials/perso/v.vtf,43896,43896
+materials/perso/md.vtf,174968,174968
+materials/perso/cn.vtf,174968,174968
+materials/perso/cr.vtf,174968,174968
+materials/perso/t.vtf,174968,174968
+maps/training_usp_v2.nav,66160,66160
+maps/soundcache/training_usp_v2.cache,16,16

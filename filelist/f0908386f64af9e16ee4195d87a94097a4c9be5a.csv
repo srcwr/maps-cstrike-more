@@ -1,0 +1,27 @@
+filename,size,compressed
+materials/maps/bhop_simplewhite/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_simplewhite/cubemapdefault.hdr.vtf,76528,76528
+materials/Color/lavender blue.vmt,70,70
+materials/Color/lavender blue.vtf,11144,11144
+materials/Color/white.vmt,62,62
+materials/Color/white.vtf,11144,11144
+materials/Color/lavender grey.vmt,70,70
+materials/Color/lavender grey.vtf,11144,11144
+materials/Color/mint green.vmt,67,67
+materials/Color/mint green.vtf,11144,11144
+materials/Color/lavender pink.vmt,70,70
+materials/Color/lavender pink.vtf,11144,11144
+materials/Color/green.vmt,62,62
+materials/Color/green.vtf,11144,11144
+materials/Color/red.vmt,60,60
+materials/Color/red.vtf,11144,11144
+materials/Color/pink orange.vmt,68,68
+materials/Color/pink orange.vtf,11144,11144
+materials/skybox/sky_06up.vmt,85,85
+materials/skybox/sky_06bk.vtf,4194511,4194511
+materials/skybox/sky_06dn.vmt,83,83
+materials/skybox/sky_06lf.vmt,83,83
+materials/skybox/sky_06rt.vmt,83,83
+materials/skybox/sky_06ft.vmt,83,83
+materials/skybox/sky_06bk.vmt,87,87
+maps/graphs/bhop_simplewhite.ain,16,16

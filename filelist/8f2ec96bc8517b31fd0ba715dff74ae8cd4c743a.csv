@@ -1,0 +1,275 @@
+filename,size,compressed
+materials/explorer2/180.vmt,80,80
+materials/explorer2/180.vtf,349760,349760
+materials/explorer2/graudreckig.vmt,71,71
+materials/explorer2/graudreckig.vtf,349760,349760
+materials/explorer2/pfeil.vmt,82,82
+materials/explorer2/pfeil.vtf,87616,87616
+materials/filter/credits.vmt,81,81
+materials/filter/credits.vtf,1398336,1398336
+materials/filter/glass50.vmt,106,106
+materials/filter/glass50.vtf,349760,349760
+materials/filter/gruen2.vmt,97,97
+materials/filter/gruen2.vtf,349760,349760
+materials/filter/lila.vmt,95,95
+materials/filter/lila.vtf,349760,349760
+materials/filter/lost inside.vmt,85,85
+materials/filter/lost inside.vtf,87616,87616
+materials/filter/mint.vmt,95,95
+materials/filter/mint.vtf,349760,349760
+materials/filter/orange.vmt,97,97
+materials/filter/orange.vtf,349760,349760
+materials/filter/street.vmt,80,80
+materials/filter/street.vtf,87616,87616
+materials/filter/therush.vmt,81,81
+materials/filter/therush.vtf,87616,87616
+materials/filter/tuerkis.vmt,98,98
+materials/filter/tuerkis.vtf,349760,349760
+materials/filter/warehouse.vmt,83,83
+materials/filter/warehouse.vtf,87616,87616
+materials/giga/BMX_body.vmt,95,95
+materials/giga/BMX_body.vtf,699296,699296
+materials/giga/inek.vmt,55,55
+materials/giga/inek.vtf,349688,349688
+materials/HAMMER TEXTURES/bhop_vierdo/31_WIERDO_WALL_BLACK.vmt,124,124
+materials/HAMMER TEXTURES/bhop_vierdo/31_wierdo_wall_black.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_ARROW.vmt,110,110
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_arrow.vtf,87616,87616
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_CYAN.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_cyan.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_GREEN.vmt,115,115
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_green.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_DOTS_PINK.vmt,114,114
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_pink.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_red.vmt,113,113
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_red.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_yellow.vmt,116,116
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_dots_yellow.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_GROUND_1.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_ground_1.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_GROUND_2.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_ground_2.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_GROUND_3.vmt,118,118
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_ground_3.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_JUMPBLOCK.vmt,119,119
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_jumpblock.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_MAPBY.vmt,110,110
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_mapby.vtf,349760,349760
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_WALL_BLACK.vmt,124,124
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_wall_black.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_WIERDSURFACE_RED.vmt,132,132
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_wierdsurface_red.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_WIERDO_WIERDSURFACE_YELLOW.vmt,135,135
+materials/HAMMER TEXTURES/BHOP_WIERDO/31_wierdo_wierdsurface_yellow.vtf,43912,43912
+materials/HAMMER TEXTURES/BHOP_WIERDO/sadfa.vmt,71,71
+materials/HAMMER TEXTURES/BHOP_WIERDO/sadfa.vtf,1398264,1398264
+materials/kostya/angel.vmt,79,79
+materials/kostya/angel.vtf,349732,349732
+materials/kostya/AWP.vmt,77,77
+materials/kostya/AWP.vtf,87588,87588
+materials/kostya/babagrena.vmt,83,83
+materials/kostya/babagrena.vtf,349732,349732
+materials/kostya/banner.vmt,80,80
+materials/kostya/banner.vtf,1398308,1398308
+materials/kostya/bender.vmt,80,80
+materials/kostya/bender.vtf,349732,349732
+materials/kostya/bhop.vmt,78,78
+materials/kostya/bhop.vtf,87588,87588
+materials/kostya/bhop2.vmt,79,79
+materials/kostya/bhop2.vtf,87588,87588
+materials/kostya/knife.vmt,79,79
+materials/kostya/knife.vtf,87588,87588
+materials/kostya/konec.vmt,79,79
+materials/kostya/konec.vtf,1398308,1398308
+materials/kostya/kristi.vmt,80,80
+materials/kostya/kristi.vtf,349732,349732
+materials/kostya/nightwolf.vmt,83,83
+materials/kostya/nightwolf.vtf,349732,349732
+materials/kostya/roulette.vmt,82,82
+materials/kostya/roulette.vtf,87588,87588
+materials/kostya/skaile.vmt,80,80
+materials/kostya/skaile.vtf,349732,349732
+materials/kostya/slide.vmt,79,79
+materials/kostya/slide.vtf,87588,87588
+materials/kostya/walker.vmt,80,80
+materials/kostya/walker.vtf,349732,349732
+materials/metal/prodcaution_black.vmt,71,71
+materials/metal/prodcaution_black.vtf,87616,87616
+materials/metal/prodcaution_blue.vmt,70,70
+materials/metal/prodcaution_blue.vtf,87616,87616
+materials/metal/prodcaution_cyan.vmt,89,89
+materials/metal/prodcaution_cyan.vtf,87616,87616
+materials/metal/prodcaution_green.vmt,71,71
+materials/metal/prodcaution_green.vtf,87616,87616
+materials/metal/prodcaution_orange.vmt,72,72
+materials/metal/prodcaution_orange.vtf,87616,87616
+materials/metal/prodcaution_pink.vmt,70,70
+materials/metal/prodcaution_pink.vtf,87616,87616
+materials/metal/prodcaution_purple.vmt,72,72
+materials/metal/prodcaution_purple.vtf,87616,87616
+materials/metal/prodcaution_red.vmt,69,69
+materials/metal/prodcaution_red.vtf,87616,87616
+materials/metal/prodcaution_white.vmt,90,90
+materials/metal/prodcaution_white.vtf,87616,87616
+materials/models/parachute/pack_carbon.vmt,74,74
+materials/models/parachute/pack_carbon.vtf,174984,174984
+materials/models/parachute/parachute_carbon.vmt,79,79
+materials/models/parachute/parachute_carbon.vtf,174984,174984
+materials/models/player/kuristaja/saw/jigsaw/jigsaw.vmt,157,157
+materials/models/player/kuristaja/saw/jigsaw/jigsaw.vtf,699272,699272
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_eyes.vmt,164,164
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_eyes.vtf,22052,22052
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_hair.vmt,196,196
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_hair.vtf,87616,87616
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_hair_normal.vtf,43912,43912
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_holster.vmt,248,248
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_holster.vtf,43912,43912
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_holster_normal.vtf,43912,43912
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_normal.vtf,699272,699272
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_shoes.vmt,272,272
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_shoes_normal.vtf,43912,43912
+materials/models/player/kuristaja/saw/jigsaw/jigsaw_shoes_red.vtf,43912,43912
+materials/models/player/slow/aliendrone/drone_arms.vmt,314,314
+materials/models/player/slow/aliendrone/drone_arms.vtf,349760,349760
+materials/models/player/slow/aliendrone/drone_arms_normal.vtf,349760,349760
+materials/models/player/slow/aliendrone/drone_head.vmt,313,313
+materials/models/player/slow/aliendrone/drone_head.vtf,349760,349760
+materials/models/player/slow/aliendrone/drone_head_normal.vtf,349760,349760
+materials/models/player/slow/aliendrone/drone_legs.vmt,314,314
+materials/models/player/slow/aliendrone/drone_legs.vtf,349760,349760
+materials/models/player/slow/aliendrone/drone_legs_normal.vtf,349760,349760
+materials/models/player/slow/aliendrone/drone_torso.vmt,358,358
+materials/models/player/slow/aliendrone/drone_torso.vtf,1398336,1398336
+materials/models/player/slow/aliendrone/drone_torso_normal.vtf,1398336,1398336
+materials/models/player/slow/amberlyn/re5/dog/slow_claws.vmt,195,195
+materials/models/player/slow/amberlyn/re5/dog/slow_dog_1.vmt,261,261
+materials/models/player/slow/amberlyn/re5/dog/slow_dog_1.vtf,349688,349688
+materials/models/player/slow/amberlyn/re5/dog/slow_dog_2.vmt,263,263
+materials/models/player/slow/amberlyn/re5/dog/slow_dog_2.vtf,349688,349688
+materials/models/player/slow/amberlyn/re5/dog/slow_dog_bump.vtf,2796384,2796384
+materials/models/player/slow/amberlyn/re5/dog/slow_dog_crap.vmt,269,269
+materials/models/player/slow/amberlyn/re5/dog/slow_dog_crap.vtf,87544,87544
+materials/models/player/slow/amberlyn/re5/dog/slow_dog_crap_bump.vtf,174944,174944
+materials/models/player/slow/amberlyn/re5/dog/slow_eyes.vmt,262,262
+materials/models/player/slow/amberlyn/re5/dog/slow_mouth.vmt,261,261
+materials/models/props/de_nuke/emergency_lightb_glow_off.vmt,126,126
+materials/models/props/de_nuke/emergency_lightb_glow_off.vtf,21992,21992
+materials/precision/grau1.vmt,96,96
+materials/precision/grau1.vtf,43896,43896
+materials/precision/grau2.vmt,96,96
+materials/precision/grau2.vtf,43896,43896
+materials/precision/grau3.vmt,96,96
+materials/precision/grau3.vtf,43896,43896
+materials/qube/blau.vmt,74,74
+materials/qube/blau.vtf,349760,349760
+materials/qube/gelb.vmt,76,76
+materials/qube/gelb.vtf,349760,349760
+materials/qube/gruen.vmt,75,75
+materials/qube/gruen.vtf,349760,349760
+materials/qube/rosa.vmt,76,76
+materials/qube/rosa.vtf,349760,349760
+materials/qube/rot.vmt,73,73
+materials/qube/rot.vtf,349760,349760
+materials/qube/weiss.vmt,75,75
+materials/qube/weiss.vtf,349760,349760
+materials/xtreo8/Glass.vmt,110,110
+materials/xtreo8/Glass.vtf,349760,349760
+materials/Dev/dev_combinemonitor_b.vmt,672,672
+materials/Dev/dev_measureladder01.vmt,193,193
+materials/Dev/dev_measureladder01.vtf,87536,87536
+materials/Dev/value10.vmt,83,83
+materials/Dev/value10.vtf,174968,174968
+materials/Dev/value20.vmt,83,83
+materials/Dev/value20.vtf,174968,174968
+materials/Dev/value30.vmt,83,83
+materials/Dev/value30.vtf,174968,174968
+materials/Dev/value40.vmt,83,83
+materials/Dev/value40.vtf,174968,174968
+materials/Dev/value50.vmt,83,83
+materials/Dev/value50.vtf,174968,174968
+materials/Dev/value60.vmt,83,83
+materials/Dev/value60.vtf,174968,174968
+materials/Dev/value70.vmt,83,83
+materials/Dev/value70.vtf,174968,174968
+materials/Dev/value80.vmt,83,83
+materials/Dev/value80.vtf,174968,174968
+materials/Dev/value90.vmt,83,83
+materials/Dev/value90.vtf,174968,174968
+materials/Dev/valuesand10.vmt,87,87
+materials/Dev/valuesand10.vtf,174968,174968
+materials/Dev/valuesand20.vmt,87,87
+materials/Dev/valuesand20.vtf,174968,174968
+materials/Dev/valuesand30.vmt,87,87
+materials/Dev/valuesand30.vtf,174968,174968
+materials/Dev/valuesand40.vmt,87,87
+materials/Dev/valuesand40.vtf,174968,174968
+materials/Dev/valuesand50.vmt,87,87
+materials/Dev/valuesand50.vtf,174968,174968
+materials/Dev/valuesand60.vmt,87,87
+materials/Dev/valuesand60.vtf,174968,174968
+materials/Dev/valuesand70.vmt,87,87
+materials/Dev/valuesand70.vtf,174968,174968
+materials/Dev/valuesand80.vmt,87,87
+materials/Dev/valuesand80.vtf,174968,174968
+materials/Dev/valuesand90.vmt,87,87
+materials/Dev/valuesand90.vtf,174968,174968
+materials/Effects/fleck_glass1.vmt,185,185
+materials/Effects/fleck_glass1.vtf,5680,5680
+materials/Effects/fleck_glass2.vmt,185,185
+materials/Effects/fleck_glass2.vtf,5680,5680
+materials/Effects/fleck_glass3.vmt,133,133
+materials/Effects/fleck_glass3.vtf,5680,5680
+models/parachute/parachute_carbon.dx80.vtx,5279,5279
+models/parachute/parachute_carbon.dx90.vtx,5279,5279
+models/parachute/parachute_carbon.mdl,2424,2424
+models/parachute/parachute_carbon.sw.vtx,5279,5279
+models/parachute/parachute_carbon.vvd,20288,20288
+models/player/kuristaja/saw/jigsaw/jigsaw.dx80.vtx,45486,45486
+models/player/kuristaja/saw/jigsaw/jigsaw.dx90.vtx,44542,44542
+models/player/kuristaja/saw/jigsaw/jigsaw.mdl,18048,18048
+models/player/kuristaja/saw/jigsaw/jigsaw.phy,17142,17142
+models/player/kuristaja/saw/jigsaw/jigsaw.sw.vtx,44102,44102
+models/player/kuristaja/saw/jigsaw/jigsaw.vvd,161920,161920
+models/player/slow/aliendrone/slow_alien.dx80.vtx,22734,22734
+models/player/slow/aliendrone/slow_alien.dx90.vtx,22211,22211
+models/player/slow/aliendrone/slow_alien.mdl,49572,49572
+models/player/slow/aliendrone/slow_alien.phy,29744,29744
+models/player/slow/aliendrone/slow_alien.sw.vtx,21811,21811
+models/player/slow/aliendrone/slow_alien.vvd,87296,87296
+models/player/slow/amberlyn/re5/dog/slow.dx80.vtx,80637,80637
+models/player/slow/amberlyn/re5/dog/slow.dx90.vtx,79894,79894
+models/player/slow/amberlyn/re5/dog/slow.mdl,128480,128480
+models/player/slow/amberlyn/re5/dog/slow.phy,47871,47871
+models/player/slow/amberlyn/re5/dog/slow.sw.vtx,79550,79550
+models/player/slow/amberlyn/re5/dog/slow.vvd,276096,276096
+models/player/tinkywinky_css/ear.vmt,89,89
+models/player/tinkywinky_css/ear.vtf,131280,131280
+models/player/tinkywinky_css/face.vmt,93,93
+models/player/tinkywinky_css/face.vtf,524496,524496
+models/player/tinkywinky_css/plantar.vmt,93,93
+models/player/tinkywinky_css/plantar.vtf,32976,32976
+models/player/tinkywinky_css/purple.vmt,92,92
+models/player/tinkywinky_css/purple.vtf,524496,524496
+models/player/tinkywinky_css/tinkywinky_css.dx80.vtx,23054,23054
+models/player/tinkywinky_css/tinkywinky_css.dx90.vtx,23027,23027
+models/player/tinkywinky_css/tinkywinky_css.mdl,13400,13400
+models/player/tinkywinky_css/tinkywinky_css.phy,17240,17240
+models/player/tinkywinky_css/tinkywinky_css.sw.vtx,22763,22763
+models/player/tinkywinky_css/tinkywinky_css.vvd,84672,84672
+models/player/tinkywinky_css/TV.vmt,88,88
+models/player/tinkywinky_css/TV.vtf,131280,131280
+models/giga/bmx.dx80.vtx,86934,86934
+models/giga/bmx.dx90.vtx,86934,86934
+models/giga/bmx.mdl,1712,1712
+models/giga/bmx.phy,66593,66593
+models/giga/bmx.sw.vtx,86934,86934
+models/giga/bmx.vvd,276864,276864
+models/giga/inek.dx80.vtx,120153,120153
+models/giga/inek.dx90.vtx,120153,120153
+models/giga/inek.mdl,1704,1704
+models/giga/inek.phy,26100,26100
+models/giga/inek.sw.vtx,120153,120153
+models/giga/inek.vvd,386624,386624
+sound/ambient/music11.mp3,10336101,10336101
+sound/ambient/music222.mp3,9231096,9231096
+sound/ambient/music33.mp3,11516777,11516777

@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/fy_summer/concrete/concretefloor005a_121_435_396.vmt,135,135
+materials/maps/fy_summer/technic/wall_-197_668_183.vmt,122,122
+materials/maps/fy_summer/de_dust/tilefloor02_67_1110_167.vmt,128,128
+materials/maps/fy_summer/de_dust/tilefloor02_-197_668_183.vmt,129,129
+materials/maps/fy_summer/de_dust/tilefloor02_67_-295_167.vmt,128,128
+materials/maps/fy_summer/cubemapdefault.vtf,9824,9824
+materials/maps/fy_summer/c121_435_396.vtf,4952,4952
+materials/maps/fy_summer/c-197_668_183.vtf,4952,4952
+materials/maps/fy_summer/c67_1110_167.vtf,4952,4952
+materials/maps/fy_summer/c67_-295_167.vtf,4952,4952
+materials/technic/wall.vmt,217,217
+materials/technic/wall.vtf,131280,131280
+materials/technic/wall_normal.vtf,131280,131280
+materials/technic/wall_spec.vtf,131280,131280
+materials/decals/decal_fox.vmt,111,111
+materials/decals/decal_fox.vtf,349732,349732

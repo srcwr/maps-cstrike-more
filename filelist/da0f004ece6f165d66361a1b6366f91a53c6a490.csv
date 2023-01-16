@@ -1,0 +1,25 @@
+filename,size,compressed
+materials/maps/gg_deadspace_machineshop/vehicle/metaltrain001c_0_0_0.vmt,140,140
+materials/maps/gg_deadspace_machineshop/perftest/water_pretty1_depth_8.vmt,108,108
+materials/maps/gg_deadspace_machineshop/cubemapdefault.vtf,9832,9832
+materials/maps/gg_deadspace_machineshop/c0_0_0.vtf,9832,9832
+materials/maps/gg_deadspace_machineshop/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_deadspace_machineshop/c0_0_0.hdr.vtf,76528,76528
+materials/NEWTEXTURES/DEAD-SPACE-10.vmt,98,98
+materials/Newtextures/dead-space-10.vtf,174984,174984
+materials/skybox/spaceup.vmt,83,83
+materials/skybox/spaceup.vtf,1398336,1398336
+materials/skybox/spacedn.vmt,83,83
+materials/skybox/spacedn.vtf,1398336,1398336
+materials/skybox/spaceft.vmt,83,83
+materials/skybox/spaceft.vtf,1398336,1398336
+materials/skybox/spacebk.vmt,83,83
+materials/skybox/spacebk.vtf,1398336,1398336
+materials/skybox/spacelf.vmt,83,83
+materials/skybox/spacelf.vtf,1398336,1398336
+materials/skybox/spacert.vmt,83,83
+materials/skybox/spacert.vtf,1398336,1398336
+sound/gg_deadspace/dead space audio - ambiance - leapers in the rafters.mp3,2572153,2572153
+sound/gg_deadspace/dead space - fighting in a vacuum.mp3,463967,463967
+maps/soundcache/gg_deadspace_machineshop.cache,16,16
+materials/correction/cc_white.raw,98304,98304

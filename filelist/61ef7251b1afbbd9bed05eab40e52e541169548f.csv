@@ -1,0 +1,35 @@
+filename,size,compressed
+materials/maps/ba_jail_sick/tile/tilefloor011a_-1634_-579_-126.vmt,134,134
+materials/maps/ba_jail_sick/tile/tilewall006a_-1634_-579_-126.vmt,133,133
+materials/maps/ba_jail_sick/glass/combineglass001a_-1634_-579_-126.vmt,138,138
+materials/maps/ba_jail_sick/metal/metalcombine001_-1634_-579_-126.vmt,137,137
+materials/maps/ba_jail_sick/vehicle/rubbertrainfloor001a_-1634_-579_-126.vmt,144,144
+materials/maps/ba_jail_sick/models/props/de_nuke/light_red1_glass_-1634_-579_-126.vmt,153,153
+materials/maps/ba_jail_sick/metal/citadel_metalwall076a_-1634_-579_-126.vmt,143,143
+materials/maps/ba_jail_sick/metal/metalwall045a_nobump_-1634_-579_-126.vmt,142,142
+materials/maps/ba_jail_sick/tile/tilefloor021a_-1634_-579_-126.vmt,134,134
+materials/maps/ba_jail_sick/metal/citadel_metalwall101b_-1634_-579_-126.vmt,143,143
+materials/maps/ba_jail_sick/de_nuke/nuke_metaldoor_01_-1634_-579_-126.vmt,141,141
+materials/maps/ba_jail_sick/liquids/water_chateau_dx70_depth_173.vmt,114,114
+materials/maps/ba_jail_sick/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_sick/c-1634_-579_-126.vtf,9824,9824
+materials/banner_2.vmt,56,56
+materials/banner_2.vtf,699232,699232
+materials/map by 2.vmt,56,56
+materials/map by 2.vtf,174976,174976
+materials/Map by.vmt,73,73
+materials/Map by.vtf,174976,174976
+sound/admin_plugin/115-laurent_wolf_-_no_stress.mp3,4484141,4484141
+sound/admin_plugin/Dj CafΘ - EnΘrgy.wav,5199962,5199962
+materials/dev_entity.vmt,56,56
+materials/dev_entity.vtf,65743,65743
+materials/dev_wallblue.vmt,58,58
+materials/dev_wallblue.vtf,65743,65743
+materials/dev_wallgreen.vmt,59,59
+materials/dev_wallgreen.vtf,65743,65743
+materials/dev_wallorange.vmt,62,62
+materials/dev_wallorange.vtf,65743,65743
+materials/dev_wallpurple.vmt,62,62
+materials/dev_wallpurple.vtf,65743,65743
+materials/dev_wallred.vmt,59,59
+materials/dev_wallred.vtf,65743,65743

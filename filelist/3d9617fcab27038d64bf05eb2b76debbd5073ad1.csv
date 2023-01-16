@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/deaglecup_map1/metal/offgaragedr_-384_320_-464.vmt,133,133
+materials/maps/deaglecup_map1/metal/offgaragedr_384_-320_-464.vmt,133,133
+materials/maps/deaglecup_map1/cubemapdefault.vtf,9824,9824
+materials/maps/deaglecup_map1/c-384_320_-464.vtf,4952,4952
+materials/maps/deaglecup_map1/c384_-320_-464.vtf,4952,4952
+materials/maps/deaglecup_map1/c0_0_-528.vtf,4952,4952
+materials/maps/deaglecup_map1/c-384_-320_-464.vtf,4952,4952
+materials/maps/deaglecup_map1/c384_320_-464.vtf,4952,4952
+maps/deaglecup_map1.txt,104,104
+materials/overviews/deaglecup_map1.vmt,141,141
+materials/overviews/deaglecup_map1.vtf,5592612,5592612
+materials/overviews/deaglecup_map1_radar.vmt,147,147
+materials/overviews/deaglecup_map1_radar.vtf,5592612,5592612
+resource/overviews/deaglecup_map1.txt,344,344

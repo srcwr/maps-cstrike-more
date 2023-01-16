@@ -1,0 +1,77 @@
+filename,size,compressed
+materials/maps/gg_garages_ggn/glass/glasswindowbreak070b_-701_-488_180.vmt,114,114
+materials/maps/gg_garages_ggn/glass/offwndwb_-701_-488_180.vmt,214,214
+materials/maps/gg_garages_ggn/glass/glasswindowbreak070b_176_-464_180.vmt,114,114
+materials/maps/gg_garages_ggn/glass/offwndwb_176_-464_180.vmt,212,212
+materials/maps/gg_garages_ggn/glass/glasswindowbreak070b_752_496_180.vmt,114,114
+materials/maps/gg_garages_ggn/glass/offwndwb_752_496_180.vmt,210,210
+materials/maps/gg_garages_ggn/glass/glasswindowbreak070b_-176_560_180.vmt,114,114
+materials/maps/gg_garages_ggn/glass/offwndwb_-176_560_180.vmt,212,212
+materials/maps/gg_garages_ggn/concrete/concretefloor005a_-257_-503_211.vmt,142,142
+materials/maps/gg_garages_ggn/metal/metalfloor001a_-273_-703_211.vmt,136,136
+materials/maps/gg_garages_ggn/metal/metalfloor001a_-257_-503_211.vmt,136,136
+materials/maps/gg_garages_ggn/metal/metalfloor001a_-701_-488_180.vmt,136,136
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_-720_-615_84.vmt,145,145
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_176_-464_180.vmt,145,145
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_-273_-703_84.vmt,145,145
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_-273_-703_211.vmt,146,146
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_-752_93_84.vmt,143,143
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_-176_560_180.vmt,145,145
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_-265_-192_84.vmt,145,145
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_-265_-192_211.vmt,146,146
+materials/maps/gg_garages_ggn/concrete/concretefloor005a_734_341_84.vmt,139,139
+materials/maps/gg_garages_ggn/metal/metalfloor001a_-176_560_180.vmt,135,135
+materials/maps/gg_garages_ggn/metal/metalfloor001a_752_496_180.vmt,134,134
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_752_496_180.vmt,144,144
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_302_-323_84.vmt,144,144
+materials/maps/gg_garages_ggn/environment maps/pipemetal004a_734_341_84.vmt,143,143
+materials/maps/gg_garages_ggn/concrete/concretefloor005a_-176_560_180.vmt,141,141
+materials/maps/gg_garages_ggn/concrete/concretefloor005a_752_496_180.vmt,140,140
+materials/maps/gg_garages_ggn/glass/glasswindowbreak070b_-265_-192_84.vmt,114,114
+materials/maps/gg_garages_ggn/glass/offwndwb_-265_-192_84.vmt,212,212
+materials/maps/gg_garages_ggn/glass/glasswindowbreak070b_302_-323_84.vmt,114,114
+materials/maps/gg_garages_ggn/glass/offwndwb_302_-323_84.vmt,210,210
+materials/maps/gg_garages_ggn/metal/metalroof008a_750_-119_84.vmt,133,133
+materials/maps/gg_garages_ggn/metal/metalroof008a_302_-323_84.vmt,133,133
+materials/maps/gg_garages_ggn/metal/metalroof008a_752_496_180.vmt,133,133
+materials/maps/gg_garages_ggn/metal/metalroof004a_752_496_180.vmt,133,133
+materials/maps/gg_garages_ggn/metal/metalroof004a_750_-119_84.vmt,133,133
+materials/maps/gg_garages_ggn/metal/metalroof004a_734_341_84.vmt,132,132
+materials/maps/gg_garages_ggn/metal/metalroof004a_176_-464_180.vmt,134,134
+materials/maps/gg_garages_ggn/metal/metalroof004a_-257_-503_211.vmt,135,135
+materials/maps/gg_garages_ggn/cubemapdefault.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-701_-488_180.vtf,9824,9824
+materials/maps/gg_garages_ggn/c176_-464_180.vtf,9824,9824
+materials/maps/gg_garages_ggn/c752_496_180.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-176_560_180.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-257_-503_211.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-273_-703_211.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-720_-615_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-273_-703_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-752_93_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-265_-192_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-265_-192_211.vtf,9824,9824
+materials/maps/gg_garages_ggn/c734_341_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/c302_-323_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/c750_-119_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-400_541_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/c-724_-263_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/c670_-867_84.vtf,9824,9824
+materials/maps/gg_garages_ggn/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-701_-488_180.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c176_-464_180.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c752_496_180.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-176_560_180.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-257_-503_211.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-273_-703_211.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-720_-615_84.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-273_-703_84.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-752_93_84.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-265_-192_84.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-265_-192_211.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c734_341_84.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c302_-323_84.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c750_-119_84.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-400_541_84.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c-724_-263_84.hdr.vtf,76520,76520
+materials/maps/gg_garages_ggn/c670_-867_84.hdr.vtf,76520,76520

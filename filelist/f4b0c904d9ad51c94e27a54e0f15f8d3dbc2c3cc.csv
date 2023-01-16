@@ -1,0 +1,450 @@
+filename,size,compressed
+materials/maps/cs_isd/nature/blendmudmud001a_wvt_patch.vmt,451,451
+materials/maps/cs_isd/isd textures/lights_g_-1056_-640_-2172.vmt,132,132
+materials/maps/cs_isd/isd textures/lights_g_480_-96_-2172.vmt,129,129
+materials/maps/cs_isd/isd textures/steel tile_s_-304_-1024_-2160.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_s_-320_576_128.vmt,132,132
+materials/maps/cs_isd/isd textures/steel tile_s_-288_96_-2172.vmt,133,133
+materials/maps/cs_isd/isd textures/steel tile_s_-304_64_128.vmt,131,131
+materials/maps/cs_isd/isd textures/steel tile_s_480_-96_-2172.vmt,133,133
+materials/maps/cs_isd/isd textures/steel tile_s_-304_1088_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/steel tile_s_-288_-6384_-2160.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_s_-1056_-640_-2172.vmt,136,136
+materials/maps/cs_isd/metal/citadel_metalwall101b_-288_-6384_-2160.vmt,138,138
+materials/maps/cs_isd/metal/citadel_metalwall101b_480_1056_-2172.vmt,136,136
+materials/maps/cs_isd/metal/citadel_metalwall101b_-304_64_128.vmt,133,133
+materials/maps/cs_isd/metal/citadel_metalwall101b_-320_576_128.vmt,134,134
+materials/maps/cs_isd/metal/citadel_metalwall101b_-304_832_-2172.vmt,136,136
+materials/maps/cs_isd/metal/citadel_metalwall101b_-1056_1056_-2172.vmt,138,138
+materials/maps/cs_isd/metal/citadel_metalwall101b_-1056_-640_-2172.vmt,138,138
+materials/maps/cs_isd/metal/citadel_metalwall101b_-304_1088_-2172.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_-288_96_-2172.vmt,135,135
+materials/maps/cs_isd/metal/citadel_metalwall101b_-304_-1024_-2160.vmt,138,138
+materials/maps/cs_isd/metal/citadel_metalwall101b_1344_-1984_-2172.vmt,138,138
+materials/maps/cs_isd/metal/citadel_metalwall091a_-304_1088_-2172.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall091a_-320_576_128.vmt,134,134
+materials/maps/cs_isd/isd textures/stainless steel01_-320_576_128.vmt,137,137
+materials/maps/cs_isd/isd textures/stainless steel01_-1056_1056_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_480_1056_-2172.vmt,139,139
+materials/maps/cs_isd/isd textures/steel tile_s_-304_1456_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/funny lights_g_-320_576_128.vmt,134,134
+materials/maps/cs_isd/isd textures/funny lights_g_-304_64_128.vmt,133,133
+materials/maps/cs_isd/isd textures/funny lights_g_-304_832_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/funny lights_g_-1056_1056_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/stainless steel01_-304_1456_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_-304_1088_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/steel tile_s_-1056_1056_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_s_-304_832_-2172.vmt,134,134
+materials/maps/cs_isd/isd textures/wall_g_-304_1088_-2172.vmt,129,129
+materials/maps/cs_isd/isd textures/wall_g_630_-1099_-3652.vmt,129,129
+materials/maps/cs_isd/isd textures/wall_g_-304_832_-2172.vmt,128,128
+materials/maps/cs_isd/isd textures/wall_g_-304_1456_-2172.vmt,129,129
+materials/maps/cs_isd/isd textures/steel tile_b_480_1056_-2172.vmt,134,134
+materials/maps/cs_isd/isd textures/wall_g_480_1056_-2172.vmt,128,128
+materials/maps/cs_isd/isd textures/wall_g_-320_576_128.vmt,126,126
+materials/maps/cs_isd/isd textures/wall_g_-1225_-1099_-3652.vmt,131,131
+materials/maps/cs_isd/isd textures/steel tile_b_-1056_1056_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/wall_g_-1056_1056_-2172.vmt,130,130
+materials/maps/cs_isd/isd textures/wall_g_-777_-1067_-3652.vmt,130,130
+materials/maps/cs_isd/isd textures/wall_g_-304_-1312_-2160.vmt,130,130
+materials/maps/cs_isd/isd textures/wall_g_1344_-1984_-2172.vmt,130,130
+materials/maps/cs_isd/isd textures/wall_g_464_-1568_-2172.vmt,129,129
+materials/maps/cs_isd/isd textures/wall_g_-304_-1024_-2160.vmt,130,130
+materials/maps/cs_isd/isd textures/wall_g_608_-1560_-3624.vmt,129,129
+materials/maps/cs_isd/isd textures/steel tile_b_480_-1344_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/wall_g_480_-1344_-2172.vmt,129,129
+materials/maps/cs_isd/isd textures/wall_g_214_-1067_-3652.vmt,129,129
+materials/maps/cs_isd/isd textures/wall_g_-1200_-1544_-3624.vmt,131,131
+materials/maps/cs_isd/isd textures/wall_g_-288_-1984_-2172.vmt,130,130
+materials/maps/cs_isd/isd textures/wall_g_-1056_-640_-2172.vmt,130,130
+materials/maps/cs_isd/isd textures/steel tile_b_-1056_-1344_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/wall_g_-1056_-1344_-2172.vmt,131,131
+materials/maps/cs_isd/isd textures/wall_g_-304_64_128.vmt,125,125
+materials/maps/cs_isd/isd textures/wall_g_-288_96_-2172.vmt,127,127
+materials/maps/cs_isd/isd textures/wall_g_480_-96_-2172.vmt,127,127
+materials/maps/cs_isd/isd textures/wall_g_-329_-1067_-3652.vmt,130,130
+materials/maps/cs_isd/metal/citadel_metalwall101b_-304_1456_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/stainless steel01_-329_-1067_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_214_-1067_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_-777_-1067_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_-304_832_-2172.vmt,139,139
+materials/maps/cs_isd/isd textures/stainless steel01_-288_96_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/stainless steel06_576_-4944_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_-288_-6384_-2160.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_-24_-5632_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_-304_64_128.vmt,136,136
+materials/maps/cs_isd/isd textures/stainless steel01_-288_-6384_-2160.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_1312_-3456_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_576_-4944_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_-304_64_128.vmt,136,136
+materials/maps/cs_isd/isd textures/silver_-288_-6384_-2160.vmt,130,130
+materials/maps/cs_isd/isd textures/silver_-24_-5632_-3648.vmt,129,129
+materials/maps/cs_isd/isd textures/silver_-304_64_128.vmt,125,125
+materials/maps/cs_isd/isd textures/stainless steel01_1088_-4144_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/steel tile_b_-1200_-3611_-3652.vmt,137,137
+materials/maps/cs_isd/isd textures/steel tile_b_576_-4944_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/steel tile_b_-288_-6384_-2160.vmt,136,136
+materials/maps/cs_isd/isd textures/silver_-1200_-3611_-3652.vmt,131,131
+materials/maps/cs_isd/isd textures/silver_576_-4944_-2172.vmt,129,129
+materials/maps/cs_isd/isd textures/tilefloor01_-288_-6384_-2160.vmt,135,135
+materials/maps/cs_isd/isd textures/tilefloor01_-24_-5632_-3648.vmt,134,134
+materials/maps/cs_isd/isd textures/tilefloor01_1312_-3456_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/tilefloor01_576_-4944_-2172.vmt,134,134
+materials/maps/cs_isd/isd textures/stainless steel06_1088_-4144_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/steel tile_s_576_-4944_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/steel tile_s_512_-4432_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/stainless steel01_512_-4432_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_-28_-4944_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_-288_-6384_-2160.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_512_-4432_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_576_-4944_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_672_-4112_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_656_-3611_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_672_-4112_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/steel tile_s_672_-4112_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/stainless steel01_128_-4112_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/steel tile_s_-1200_-3611_-3652.vmt,137,137
+materials/maps/cs_isd/isd textures/steel tile_s_1312_-3456_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_s_-288_-3456_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_s_128_-4112_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/stainless steel01_-1200_-3611_-3652.vmt,142,142
+materials/maps/cs_isd/isd textures/stainless steel01_-320_-4112_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_-768_-4144_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/steel tile_s_-320_-4112_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/stainless steel01_-752_-3579_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/lights_b_-304_832_-2172.vmt,130,130
+materials/maps/cs_isd/metal/citadel_metalwall101b_-329_-1067_-3652.vmt,138,138
+materials/maps/cs_isd/isd textures/lights_b_-304_1088_-2172.vmt,131,131
+materials/maps/cs_isd/metal/citadel_metalwall101b_128_-4112_-2172.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_576_-4944_-2172.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_-28_-4944_-3648.vmt,137,137
+materials/maps/cs_isd/isd textures/lights_g_576_-4944_-2172.vmt,131,131
+materials/maps/cs_isd/metal/citadel_metalwall101b_512_-4432_-2172.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_1088_-4144_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/lights_g_512_-4432_-2172.vmt,131,131
+materials/maps/cs_isd/metal/citadel_metalwall101b_672_-4112_-2172.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_656_-3611_-3652.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_-320_-4112_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/lights_g_128_-4112_-2172.vmt,131,131
+materials/maps/cs_isd/metal/citadel_metalwall101b_-28_-3672_-3648.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_-288_-3456_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/lights_g_672_-4112_-2172.vmt,131,131
+materials/maps/cs_isd/metal/citadel_metalwall101b_240_-3579_-3652.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_1312_-3456_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/lights_g_1088_-4144_-2172.vmt,132,132
+materials/maps/cs_isd/isd textures/lights_g_-320_-4112_-2172.vmt,132,132
+materials/maps/cs_isd/metal/citadel_metalwall101b_-768_-4144_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/lights_g_-768_-4144_-2172.vmt,132,132
+materials/maps/cs_isd/metal/citadel_metalwall101b_-752_-3579_-3652.vmt,138,138
+materials/maps/cs_isd/metal/citadel_metalwall101b_-304_-3579_-3652.vmt,138,138
+materials/maps/cs_isd/metal/citadel_metalwall101b_-1200_-3611_-3652.vmt,139,139
+materials/maps/cs_isd/isd textures/stainless steel04_128_-4112_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/funny lights_g_-1200_-3611_-3652.vmt,139,139
+materials/maps/cs_isd/isd textures/funny lights_g_-288_-6384_-2160.vmt,138,138
+materials/maps/cs_isd/isd textures/funny lights_g_-768_-4144_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/funny lights_g_-24_-5632_-3648.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_576_-4944_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_656_-3611_-3652.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_672_-4112_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_512_-4432_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_-28_-4944_-3648.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_128_-4112_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_-320_-4112_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/funny lights_g_480_1056_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/funny lights_g_-288_96_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/funny lights_g_-304_1088_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_214_-1067_-3652.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_-329_-1067_-3652.vmt,138,138
+materials/maps/cs_isd/isd textures/steel tile_s_-1056_-1344_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/steel tile_s_480_-1344_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/steel tile_s_-288_-1984_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_s_-329_-1067_-3652.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_s_-304_-1312_-2160.vmt,136,136
+materials/maps/cs_isd/isd textures/stainless steel01_-1056_-1344_-2172.vmt,142,142
+materials/maps/cs_isd/isd textures/stainless steel01_-304_-1312_-2160.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_-288_-1984_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_464_-1568_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_-28_-1768_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_-304_-1024_-2160.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_-1056_-640_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_480_-1344_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_480_-96_-2172.vmt,138,138
+materials/maps/cs_isd/metal/citadel_metalwall101b_480_-1344_-2172.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_-304_-1312_-2160.vmt,138,138
+materials/maps/cs_isd/isd textures/lights_b_-304_-1024_-2160.vmt,132,132
+materials/maps/cs_isd/metal/citadel_metalwall101b_464_-1568_-2172.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_-288_-1984_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/lights_b_-304_-1312_-2160.vmt,132,132
+materials/maps/cs_isd/metal/citadel_metalwall101b_-28_-1768_-3648.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_-1056_-1344_-2172.vmt,139,139
+materials/maps/cs_isd/isd textures/funny lights_g_-304_-1024_-2160.vmt,138,138
+materials/maps/cs_isd/isd textures/funny lights_g_480_-1344_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_-304_-1312_-2160.vmt,138,138
+materials/maps/cs_isd/isd textures/funny lights_g_480_-96_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/funny lights_g_-1056_-1344_-2172.vmt,139,139
+materials/maps/cs_isd/isd textures/funny lights_g_-1056_-640_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/wall_b_-1056_-640_-2172.vmt,130,130
+materials/maps/cs_isd/isd textures/wall_b_-288_96_-2172.vmt,127,127
+materials/maps/cs_isd/isd textures/wall_b_-304_-1024_-2160.vmt,130,130
+materials/maps/cs_isd/isd textures/wall_b_-304_832_-2172.vmt,128,128
+materials/maps/cs_isd/isd textures/wall_b_-777_-1067_-3652.vmt,130,130
+materials/maps/cs_isd/isd textures/wall_b_480_-96_-2172.vmt,127,127
+materials/maps/cs_isd/isd textures/wall_b_214_-1067_-3652.vmt,129,129
+materials/maps/cs_isd/isd textures/wall_b_480_-1344_-2172.vmt,129,129
+materials/maps/cs_isd/isd textures/steel tile_b_-288_96_-2172.vmt,133,133
+materials/maps/cs_isd/isd textures/steel tile_b_480_-96_-2172.vmt,133,133
+materials/maps/cs_isd/isd textures/steel tile_b_-1056_-640_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_b_-304_-1024_-2160.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_b_-304_832_-2172.vmt,134,134
+materials/maps/cs_isd/isd textures/steel tile_b_1344_-1984_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/stainless steel04_-304_-1024_-2160.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_-304_832_-2172.vmt,139,139
+materials/maps/cs_isd/isd textures/stainless steel04_-288_96_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/steel tile_b_-304_1456_-2172.vmt,135,135
+materials/maps/cs_isd/metal/citadel_metalwall101b_-28_-3040_-3648.vmt,137,137
+materials/maps/cs_isd/isd textures/stainless steel01_-288_-3456_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel01_-28_-3040_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_1344_-1984_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/lights_g_-304_-1312_-2160.vmt,132,132
+materials/maps/cs_isd/isd textures/stainless steel01_608_-1560_-3624.vmt,140,140
+materials/maps/cs_isd/isd textures/tilefloor01_-304_64_128.vmt,130,130
+materials/maps/cs_isd/isd textures/stainless steel04_-304_64_128.vmt,136,136
+materials/maps/cs_isd/isd textures/stainless steel04_-24_-5632_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_1088_-4144_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_656_-3611_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_1312_-3456_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/steel tile_s_1088_-4144_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/stainless steel04_-1200_-3611_-3652.vmt,142,142
+materials/maps/cs_isd/isd textures/stainless steel04_-752_-3579_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_-288_-3456_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_-768_-4144_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/steel tile_s_-768_-4144_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/stainless steel01_-304_-3579_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/steel tile_s_464_-1568_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/funny lights_g_1344_-1984_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/funny lights_g_464_-1568_-2172.vmt,137,137
+materials/maps/cs_isd/isd textures/funny lights_g_1088_-4144_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/stainless steel01_240_-3579_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/steel tile_s_-28_-4944_-3648.vmt,135,135
+materials/maps/cs_isd/isd textures/steel tile_s_-24_-5632_-3648.vmt,135,135
+materials/maps/cs_isd/isd textures/steel tile_s_-28_-3672_-3648.vmt,135,135
+materials/maps/cs_isd/isd textures/stainless steel01_-24_-5632_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_-28_-3672_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_-28_-4944_-3648.vmt,140,140
+materials/maps/cs_isd/metal/citadel_metalwall101b_-24_-5632_-3648.vmt,137,137
+materials/maps/cs_isd/isd textures/lights_g_-28_-4944_-3648.vmt,131,131
+materials/maps/cs_isd/isd textures/lights_g_-28_-3672_-3648.vmt,131,131
+materials/maps/cs_isd/isd textures/stainless steel04_214_-1067_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_-28_-1768_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/lights_g_-28_-3040_-3648.vmt,131,131
+materials/maps/cs_isd/metal/citadel_metalwall101b_-1200_-1544_-3624.vmt,139,139
+materials/maps/cs_isd/isd textures/lights_g_-28_-1768_-3648.vmt,131,131
+materials/maps/cs_isd/metal/citadel_metalwall101b_608_-1560_-3624.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall101b_214_-1067_-3652.vmt,137,137
+materials/maps/cs_isd/isd textures/steel tile_s_-1225_-1099_-3652.vmt,137,137
+materials/maps/cs_isd/isd textures/steel tile_s_1344_-1984_-2172.vmt,136,136
+materials/maps/cs_isd/isd textures/steel tile_s_-28_-1768_-3648.vmt,135,135
+materials/maps/cs_isd/isd textures/stainless steel01_630_-1099_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel01_-1225_-1099_-3652.vmt,142,142
+materials/maps/cs_isd/isd textures/steel tile_s_-777_-1067_-3652.vmt,136,136
+materials/maps/cs_isd/metal/citadel_metalwall101b_-777_-1067_-3652.vmt,138,138
+materials/maps/cs_isd/isd textures/lights_g_-329_-1067_-3652.vmt,132,132
+materials/maps/cs_isd/isd textures/lights_g_214_-1067_-3652.vmt,131,131
+materials/maps/cs_isd/metal/citadel_metalwall101b_480_-96_-2172.vmt,135,135
+materials/maps/cs_isd/metal/citadel_metalwall101b_630_-1099_-3652.vmt,137,137
+materials/maps/cs_isd/isd textures/lights_g_630_-1099_-3652.vmt,131,131
+materials/maps/cs_isd/isd textures/lights_g_-777_-1067_-3652.vmt,132,132
+materials/maps/cs_isd/metal/citadel_metalwall101b_-1225_-1099_-3652.vmt,139,139
+materials/maps/cs_isd/isd textures/lights_g_-1225_-1099_-3652.vmt,133,133
+materials/maps/cs_isd/isd textures/stainless steel04_-329_-1067_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_630_-1099_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_608_-1560_-3624.vmt,140,140
+materials/maps/cs_isd/isd textures/steel tile_s_608_-1560_-3624.vmt,135,135
+materials/maps/cs_isd/isd textures/stainless steel04_480_-96_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/stainless steel04_480_1056_-2172.vmt,139,139
+materials/maps/cs_isd/isd textures/stainless steel04_1344_-1984_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_480_-1344_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/steel tile_s_630_-1099_-3652.vmt,135,135
+materials/maps/cs_isd/isd textures/stainless steel04_-1225_-1099_-3652.vmt,142,142
+materials/maps/cs_isd/isd textures/stainless steel04_-1200_-1544_-3624.vmt,142,142
+materials/maps/cs_isd/isd textures/steel tile_s_-1200_-1544_-3624.vmt,137,137
+materials/maps/cs_isd/isd textures/stainless steel04_-1056_-640_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_-1056_1056_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_-1056_-1344_-2172.vmt,142,142
+materials/maps/cs_isd/isd textures/steel tile_s_-28_-3040_-3648.vmt,135,135
+materials/maps/cs_isd/isd textures/steel tile_s_-304_-3579_-3652.vmt,136,136
+materials/maps/cs_isd/isd textures/stainless steel01_-28_-3672_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/steel tile_s_-752_-3579_-3652.vmt,136,136
+materials/maps/cs_isd/isd textures/lights_g_-304_-3579_-3652.vmt,132,132
+materials/maps/cs_isd/isd textures/lights_g_240_-3579_-3652.vmt,131,131
+materials/maps/cs_isd/isd textures/lights_g_656_-3611_-3652.vmt,131,131
+materials/maps/cs_isd/isd textures/lights_g_-752_-3579_-3652.vmt,132,132
+materials/maps/cs_isd/isd textures/lights_g_-1200_-3611_-3652.vmt,133,133
+materials/maps/cs_isd/isd textures/stainless steel04_-28_-3040_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel04_-304_-3579_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/steel tile_s_656_-3611_-3652.vmt,135,135
+materials/maps/cs_isd/isd textures/steel tile_s_214_-1067_-3652.vmt,135,135
+materials/maps/cs_isd/isd textures/stainless steel04_-320_-4112_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel04_-777_-1067_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/tilefloor01_1344_-1984_-2172.vmt,135,135
+materials/maps/cs_isd/isd textures/stainless steel04_-320_576_128.vmt,137,137
+materials/maps/cs_isd/vehicle/metaltrainglass001a_576_-4944_-2172.vmt,137,137
+materials/maps/cs_isd/vehicle/metaltrainglass001a_512_-4432_-2172.vmt,137,137
+materials/maps/cs_isd/vehicle/metaltrainglass001a_-320_-4112_-2172.vmt,138,138
+materials/maps/cs_isd/vehicle/metaltrainglass001a_-768_-4144_-2172.vmt,138,138
+materials/maps/cs_isd/metal/metalfloor001a_-288_-6384_-2160.vmt,131,131
+materials/maps/cs_isd/metal/metalfloor001a_-304_64_128.vmt,126,126
+materials/maps/cs_isd/metal/metalfloor001a_-768_-4144_-2172.vmt,131,131
+materials/maps/cs_isd/metal/metalfloor001a_-24_-5632_-3648.vmt,130,130
+materials/maps/cs_isd/metal/metalfloor001a_576_-4944_-2172.vmt,130,130
+materials/maps/cs_isd/metal/metalfloor001a_-1200_-3611_-3652.vmt,132,132
+materials/maps/cs_isd/metal/metaldoor046a_-288_-6384_-2160.vmt,130,130
+materials/maps/cs_isd/metal/metaldoor046a_-304_64_128.vmt,125,125
+materials/maps/cs_isd/metal/metaldoor046a_1088_-4144_-2172.vmt,130,130
+materials/maps/cs_isd/metal/metaldoor046a_576_-4944_-2172.vmt,129,129
+materials/maps/cs_isd/metal/metaldoor046a_-24_-5632_-3648.vmt,129,129
+materials/maps/cs_isd/metal/metaldoor046a_-304_-1312_-2160.vmt,130,130
+materials/maps/cs_isd/metal/metaldoor046a_480_-96_-2172.vmt,127,127
+materials/maps/cs_isd/metal/metaldoor046a_-304_-1024_-2160.vmt,130,130
+materials/maps/cs_isd/metal/metaldoor046a_-288_-3456_-2172.vmt,130,130
+materials/maps/cs_isd/metal/metaldoor046a_1312_-3456_-2172.vmt,130,130
+materials/maps/cs_isd/metal/metaldoor046a_-288_-1984_-2172.vmt,130,130
+materials/maps/cs_isd/metal/metaldoor046a_512_-4432_-2172.vmt,129,129
+materials/maps/cs_isd/metal/metaldoor046a_-768_-4144_-2172.vmt,130,130
+materials/maps/cs_isd/metal/metaldoor046a_-1056_-640_-2172.vmt,130,130
+materials/maps/cs_isd/metal/metaldoor046a_-1056_-1344_-2172.vmt,131,131
+materials/maps/cs_isd/metal/metaldoor046a_-1200_-3611_-3652.vmt,131,131
+materials/maps/cs_isd/metal/citadel_metalwall091a_-288_-6384_-2160.vmt,138,138
+materials/maps/cs_isd/metal/citadel_metalwall091a_-24_-5632_-3648.vmt,137,137
+materials/maps/cs_isd/metal/citadel_metalwall091a_-768_-4144_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/stainless steel04_-304_1456_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel03_-1056_1056_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel03_480_1056_-2172.vmt,139,139
+materials/maps/cs_isd/isd textures/stainless steel03_-304_1456_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel03_-320_576_128.vmt,137,137
+materials/maps/cs_isd/isd textures/stainless steel06_-768_-4144_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_128_-4112_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_-320_-4112_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_-288_-3456_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_-304_-3579_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_-1056_-1344_-2172.vmt,142,142
+materials/maps/cs_isd/isd textures/stainless steel06_464_-1568_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_-288_-1984_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_-304_-1312_-2160.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_-28_-1768_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/control pannel copy_-320_-4112_-2172.vmt,143,143
+materials/maps/cs_isd/isd textures/control pannel copy_-768_-4144_-2172.vmt,143,143
+materials/maps/cs_isd/isd textures/stainless steel03_-320_-4112_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel03_-288_-3456_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel03_-304_64_128.vmt,136,136
+materials/maps/cs_isd/isd textures/control pannel copy_-304_-1312_-2160.vmt,143,143
+materials/maps/cs_isd/isd textures/stainless steel06_672_-4112_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_1312_-3456_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_656_-3611_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_1344_-1984_-2172.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_608_-1560_-3624.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_480_-1344_-2172.vmt,140,140
+materials/maps/cs_isd/isd textures/control pannel copy_464_-1568_-2172.vmt,142,142
+materials/maps/cs_isd/isd textures/control pannel copy_480_-1344_-2172.vmt,142,142
+materials/maps/cs_isd/isd textures/control pannel copy_1088_-4144_-2172.vmt,143,143
+materials/maps/cs_isd/isd textures/stainless steel06_-1200_-3611_-3652.vmt,142,142
+materials/maps/cs_isd/isd textures/stainless steel06_-752_-3579_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_-28_-3040_-3648.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_240_-3579_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_214_-1067_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_630_-1099_-3652.vmt,140,140
+materials/maps/cs_isd/isd textures/stainless steel06_480_-96_-2172.vmt,138,138
+materials/maps/cs_isd/isd textures/stainless steel06_-1225_-1099_-3652.vmt,142,142
+materials/maps/cs_isd/isd textures/stainless steel06_-329_-1067_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_-777_-1067_-3652.vmt,141,141
+materials/maps/cs_isd/isd textures/stainless steel06_-1056_-640_-2172.vmt,141,141
+materials/maps/cs_isd/cubemapdefault.vtf,9832,9832
+materials/maps/cs_isd/c-1056_-640_-2172.vtf,4960,4960
+materials/maps/cs_isd/c480_-96_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-304_-1024_-2160.vtf,4960,4960
+materials/maps/cs_isd/c-320_576_128.vtf,4960,4960
+materials/maps/cs_isd/c-288_96_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-304_64_128.vtf,4960,4960
+materials/maps/cs_isd/c-304_1088_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-288_-6384_-2160.vtf,4960,4960
+materials/maps/cs_isd/c480_1056_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-304_832_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-1056_1056_-2172.vtf,4960,4960
+materials/maps/cs_isd/c1344_-1984_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-304_1456_-2172.vtf,4960,4960
+materials/maps/cs_isd/c630_-1099_-3652.vtf,4960,4960
+materials/maps/cs_isd/c-1225_-1099_-3652.vtf,4960,4960
+materials/maps/cs_isd/c-777_-1067_-3652.vtf,4960,4960
+materials/maps/cs_isd/c-304_-1312_-2160.vtf,4960,4960
+materials/maps/cs_isd/c464_-1568_-2172.vtf,4960,4960
+materials/maps/cs_isd/c608_-1560_-3624.vtf,4960,4960
+materials/maps/cs_isd/c480_-1344_-2172.vtf,4960,4960
+materials/maps/cs_isd/c214_-1067_-3652.vtf,4960,4960
+materials/maps/cs_isd/c-1200_-1544_-3624.vtf,4960,4960
+materials/maps/cs_isd/c-288_-1984_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-1056_-1344_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-329_-1067_-3652.vtf,4960,4960
+materials/maps/cs_isd/c576_-4944_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-24_-5632_-3648.vtf,4960,4960
+materials/maps/cs_isd/c1312_-3456_-2172.vtf,4960,4960
+materials/maps/cs_isd/c1088_-4144_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-1200_-3611_-3652.vtf,4960,4960
+materials/maps/cs_isd/c512_-4432_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-28_-4944_-3648.vtf,4960,4960
+materials/maps/cs_isd/c672_-4112_-2172.vtf,4960,4960
+materials/maps/cs_isd/c656_-3611_-3652.vtf,4960,4960
+materials/maps/cs_isd/c128_-4112_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-288_-3456_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-320_-4112_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-768_-4144_-2172.vtf,4960,4960
+materials/maps/cs_isd/c-752_-3579_-3652.vtf,4960,4960
+materials/maps/cs_isd/c-28_-3672_-3648.vtf,4960,4960
+materials/maps/cs_isd/c240_-3579_-3652.vtf,4960,4960
+materials/maps/cs_isd/c-304_-3579_-3652.vtf,4960,4960
+materials/maps/cs_isd/c-28_-1768_-3648.vtf,4960,4960
+materials/maps/cs_isd/c-28_-3040_-3648.vtf,4960,4960
+materials/maps/cs_isd/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cs_isd/c-1056_-640_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c480_-96_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-304_-1024_-2160.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-320_576_128.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-288_96_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-304_64_128.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-304_1088_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-288_-6384_-2160.hdr.vtf,76536,76536
+materials/maps/cs_isd/c480_1056_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-304_832_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-1056_1056_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c1344_-1984_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-304_1456_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c630_-1099_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-1225_-1099_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-777_-1067_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-304_-1312_-2160.hdr.vtf,76536,76536
+materials/maps/cs_isd/c464_-1568_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c608_-1560_-3624.hdr.vtf,76536,76536
+materials/maps/cs_isd/c480_-1344_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c214_-1067_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-1200_-1544_-3624.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-288_-1984_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-1056_-1344_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-329_-1067_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c576_-4944_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-24_-5632_-3648.hdr.vtf,76536,76536
+materials/maps/cs_isd/c1312_-3456_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c1088_-4144_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-1200_-3611_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c512_-4432_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-28_-4944_-3648.hdr.vtf,76536,76536
+materials/maps/cs_isd/c672_-4112_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c656_-3611_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c128_-4112_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-288_-3456_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-320_-4112_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-768_-4144_-2172.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-752_-3579_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-28_-3672_-3648.hdr.vtf,76536,76536
+materials/maps/cs_isd/c240_-3579_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-304_-3579_-3652.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-28_-1768_-3648.hdr.vtf,76536,76536
+materials/maps/cs_isd/c-28_-3040_-3648.hdr.vtf,76536,76536

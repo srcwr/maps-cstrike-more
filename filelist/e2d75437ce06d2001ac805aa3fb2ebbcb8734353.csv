@@ -1,0 +1,37 @@
+filename,size,compressed
+materials/maps/surf_drop/brick/offwllb_0_0_0.vmt,116,116
+materials/maps/surf_drop/nature/water_canals_water2_depth_32.vmt,113,113
+materials/maps/surf_drop/nature/water_canals_water2_depth_42.vmt,113,113
+materials/maps/surf_drop/nature/water_canals_water2_depth_23.vmt,113,113
+materials/maps/surf_drop/nature/water_canals_water2_depth_120.vmt,114,114
+materials/maps/surf_drop/cubemapdefault.vtf,9808,9808
+materials/maps/surf_drop/c0_0_0.vtf,9808,9808
+,100,100
+custommaterials/detector_lights.vmt,108,108
+custommaterials/detector_lights.vtf,2856,2856
+custommaterials/elebutton_off.vmt,106,106
+custommaterials/elebutton_off.vtf,21992,21992
+custommaterials/elebutton_on.vmt,105,105
+custommaterials/elebutton_on.vtf,21992,21992
+custommaterials/elevatorpanel.vmt,106,106
+custommaterials/elevatorpanel.vtf,21992,21992
+custommaterials/lobbytiles.vmt,105,105
+custommaterials/lobbytiles.vtf,174968,174968
+custommaterials/map tag.vmt,100,100
+custommaterials/map tag.vtf,699256,699256
+custommaterials/matrixcode.vmt,312,312
+custommaterials/matrixcode.vtf,524640,524640
+custommaterials/plasterwall.vmt,103,103
+custommaterials/plasterwall.vtf,699256,699256
+custommaterials/teleportcode.vmt,362,362
+custommaterials/teleportcode.vtf,262496,262496
+custommaterials/texture001.vmt,103,103
+custommaterials/texture001.vtf,699256,699256
+custommaterials/texture002.vmt,103,103
+custommaterials/texture002.vtf,43896,43896
+custommaterials/tv_back.vmt,100,100
+custommaterials/tv_back.vtf,11128,11128
+custommaterials/tv_front.vmt,101,101
+custommaterials/tv_front.vtf,43896,43896
+custommaterials/woodfloor.vmt,101,101
+custommaterials/woodfloor.vtf,699256,699256

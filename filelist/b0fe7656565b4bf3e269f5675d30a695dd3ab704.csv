@@ -1,0 +1,312 @@
+filename,size,compressed
+materials/maps/bhop_bugga/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/bhop_bugga/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/bhop_bugga/nature/blenddirtgrass008b_wvt_patch.vmt,393,393
+materials/maps/bhop_bugga/de_nuke/nukblenddirtgrass_wvt_patch.vmt,303,303
+materials/maps/bhop_bugga/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/bhop_bugga/water/water_caribbean01_-2688_6528_-2825.vmt,265,265
+materials/maps/bhop_bugga/liquids/aztecwater_2272_2688_-960.vmt,154,154
+materials/maps/bhop_bugga/water/water_caribbean01_-960_6048_-2729.vmt,264,264
+materials/maps/bhop_bugga/water/water_caribbean01_-480_5984_-2729.vmt,264,264
+materials/maps/bhop_bugga/water/water_caribbean01_288_5344_-2729.vmt,263,263
+materials/maps/bhop_bugga/concrete/milflr001_2272_2688_-960.vmt,131,131
+materials/maps/bhop_bugga/realworldtextures/glass/glass_06_-480_5344_-2729.vmt,146,146
+materials/maps/bhop_bugga/realworldtextures/glass/glass_06_2272_2688_-960.vmt,145,145
+materials/maps/bhop_bugga/realworldtextures/glass/glass_06_288_5344_-2729.vmt,145,145
+materials/maps/bhop_bugga/nature/water_wasteland002a_-2816_1408_-1264.vmt,164,164
+materials/maps/bhop_bugga/nature/water_wasteland002a_-2880_3136_-1280.vmt,164,164
+materials/maps/bhop_bugga/realworldtextures/glass/glass_06_-2880_3136_-1280.vmt,147,147
+materials/maps/bhop_bugga/realworldtextures/glass/glass_06_-960_6048_-2729.vmt,146,146
+materials/maps/bhop_bugga/realworldtextures/glass/glass_06_-288_7616_-2360.vmt,146,146
+materials/maps/bhop_bugga/realworldtextures/glass/glass_06_-2816_1408_-1264.vmt,147,147
+materials/maps/bhop_bugga/realworldtextures/glass/glass_06_-3328_832_-1264.vmt,146,146
+materials/maps/bhop_bugga/water/water_caribbean01_608_7456_-2688.vmt,263,263
+materials/maps/bhop_bugga/water/water_caribbean01_-288_7616_-2360.vmt,264,264
+materials/maps/bhop_bugga/concrete/concretefloor039a_-3328_832_-1264.vmt,140,140
+materials/maps/bhop_bugga/cs_assault/pavement001_-3328_832_-1264.vmt,136,136
+materials/maps/bhop_bugga/concrete/concretefloor033k_-3328_832_-1264.vmt,140,140
+materials/maps/bhop_bugga/concrete/concretefloor039a_-2688_6528_-2825.vmt,141,141
+materials/maps/bhop_bugga/concrete/concretefloor039a_-2880_3136_-1280.vmt,141,141
+materials/maps/bhop_bugga/concrete/milflr001_-2880_3136_-1280.vmt,133,133
+materials/maps/bhop_bugga/concrete/concretefloor033o_-3328_832_-1264.vmt,140,140
+materials/maps/bhop_bugga/concrete/milflr001_-3328_832_-1264.vmt,132,132
+materials/maps/bhop_bugga/reacz/portal/dark/thin_framed/textured/large_textured_-2880_3136_-1280.vmt,168,168
+materials/maps/bhop_bugga/reacz/portal/dark/thin_framed/textured/large_textured_-3328_832_-1264.vmt,167,167
+materials/maps/bhop_bugga/reacz/portal/dark/thin_framed/textured/large_textured_-2688_6528_-2825.vmt,168,168
+materials/maps/bhop_bugga/reacz/portal/dark/thin_framed/textured/large_textured_-288_7616_-2360.vmt,167,167
+materials/maps/bhop_bugga/reacz/portal/glass/refractive/glass_refract01_-2880_3136_-1280.vmt,160,160
+materials/maps/bhop_bugga/reacz/portal/glass/refractive/glass_refract01_-2688_6528_-2825.vmt,160,160
+materials/maps/bhop_bugga/reacz/portal/dark/thick_framed/wall_black_medium2_-2880_3136_-1280.vmt,164,164
+materials/maps/bhop_bugga/reacz/portal/dark/thick_framed/wall_black_medium2_-2688_6528_-2825.vmt,164,164
+materials/maps/bhop_bugga/reacz/portal/glass/refractive/glass_refract01_-3328_832_-1264.vmt,159,159
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor9_-2880_3136_-1280.vmt,150,150
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor9_-3328_832_-1264.vmt,149,149
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor9_-2688_6528_-2825.vmt,150,150
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p2_-2880_3136_-1280.vmt,147,147
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p2_-3328_832_-1264.vmt,146,146
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p2_-2688_6528_-2825.vmt,147,147
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p2_2272_2688_-960.vmt,145,145
+materials/maps/bhop_bugga/liquids/water_pretty1_-2880_3136_-1280.vmt,159,159
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor3_-2688_6528_-2825.vmt,150,150
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor3_-2880_3136_-1280.vmt,150,150
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p15_base_-2688_6528_-2825.vmt,153,153
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p15_base_-2880_3136_-1280.vmt,153,153
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor1_-2688_6528_-2825.vmt,150,150
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor1_-2880_3136_-1280.vmt,150,150
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p1a_-2688_6528_-2825.vmt,148,148
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p1a_-2880_3136_-1280.vmt,148,148
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor3_2272_2688_-960.vmt,148,148
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p1a_2272_2688_-960.vmt,146,146
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p9_-2880_3136_-1280.vmt,147,147
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metal_p9_-2688_6528_-2825.vmt,147,147
+materials/maps/bhop_bugga/reacz/portal/glass/refractive/glass_refract01_-288_7616_-2360.vmt,159,159
+materials/maps/bhop_bugga/reacz/portal/dark/thick_framed/wall_black_medium2_-288_7616_-2360.vmt,163,163
+materials/maps/bhop_bugga/de_nuke/nukdoorsa_-2688_6528_-2825.vmt,132,132
+materials/maps/bhop_bugga/reacz/portal/glass/refractive/glass_refract01_2272_2688_-960.vmt,158,158
+materials/maps/bhop_bugga/reacz/portal/glass/refractive/glass_refract01_-2816_1408_-1264.vmt,160,160
+materials/maps/bhop_bugga/concrete/milflr001_-2688_6528_-2825.vmt,133,133
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_wall6_-2880_3136_-1280.vmt,144,144
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_wall6_-2688_6528_-2825.vmt,144,144
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_wall_sup_center2_-2688_6528_-2825.vmt,155,155
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_wall_sup_center2_-2880_3136_-1280.vmt,155,155
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_wall_sup_center2_2272_2688_-960.vmt,153,153
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor1_-3328_832_-1264.vmt,149,149
+materials/maps/bhop_bugga/vbd/pack 2 remnont/remn_metalfloor1_2272_2688_-960.vmt,148,148
+materials/maps/bhop_bugga/maps/bhop_bugga/nature/water_wasteland002a_-2816_1408_-1264_depth_352.vmt,147,147
+materials/maps/bhop_bugga/maps/bhop_bugga/nature/water_wasteland002a_-2880_3136_-1280_depth_320.vmt,147,147
+materials/maps/bhop_bugga/maps/bhop_bugga/liquids/water_pretty1_-2880_3136_-1280_depth_16.vmt,141,141
+materials/maps/bhop_bugga/maps/bhop_bugga/water/water_caribbean01_-2688_6528_-2825_depth_128.vmt,144,144
+materials/maps/bhop_bugga/maps/bhop_bugga/liquids/aztecwater_2272_2688_-960_depth_64.vmt,136,136
+materials/maps/bhop_bugga/maps/bhop_bugga/water/water_caribbean01_-960_6048_-2729_depth_128.vmt,143,143
+materials/maps/bhop_bugga/maps/bhop_bugga/water/water_caribbean01_-288_7616_-2360_depth_128.vmt,143,143
+materials/maps/bhop_bugga/maps/bhop_bugga/water/water_caribbean01_608_7456_-2688_depth_128.vmt,142,142
+materials/maps/bhop_bugga/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_bugga/c-2688_6528_-2825.vtf,28753,28753
+materials/maps/bhop_bugga/c2272_2688_-960.vtf,28753,28753
+materials/maps/bhop_bugga/c-960_6048_-2729.vtf,28753,28753
+materials/maps/bhop_bugga/c-480_5984_-2729.vtf,28753,28753
+materials/maps/bhop_bugga/c288_5344_-2729.vtf,28753,28753
+materials/maps/bhop_bugga/c-480_5344_-2729.vtf,28753,28753
+materials/maps/bhop_bugga/c-2816_1408_-1264.vtf,28753,28753
+materials/maps/bhop_bugga/c-2880_3136_-1280.vtf,28753,28753
+materials/maps/bhop_bugga/c-288_7616_-2360.vtf,28753,28753
+materials/maps/bhop_bugga/c-3328_832_-1264.vtf,28753,28753
+materials/maps/bhop_bugga/c608_7456_-2688.vtf,28753,28753
+materials/maps/bhop_bugga/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c-2688_6528_-2825.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c2272_2688_-960.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c-960_6048_-2729.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c-480_5984_-2729.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c288_5344_-2729.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c-480_5344_-2729.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c-2816_1408_-1264.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c-2880_3136_-1280.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c-288_7616_-2360.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c-3328_832_-1264.hdr.vtf,76528,76528
+materials/maps/bhop_bugga/c608_7456_-2688.hdr.vtf,76528,76528
+materials/water/water_caribbean01.vmt,1447,1447
+materials/RealWorldTextures/glass/Glass_06.vmt,522,522
+materials/RealWorldTextures/glass/glass_06_nrm.vtf,174984,174984
+materials/reacz/portal/dark/thin_framed/textured/large_textured.vmt,1490,1490
+materials/reacz/portal/dark/thin_framed/textured/large_textured.vtf,1398308,1398308
+materials/reacz/portal/dark/thin_framed/normals/textured/large_textured_nmap.vtf,1048783,1048783
+materials/reacz/detail/detail_metal_brushed.vtf,11168,11168
+materials/reacz/portal/Glass/Refractive/Glass_refract01.vmt,495,495
+materials/reacz/portal/Glass/Refractive/Glass_refract01.vtf,1048783,1048783
+materials/reacz/portal/dark/thick_framed/wall_black_medium2.vmt,1446,1446
+materials/reacz/portal/dark/thick_framed/wall_black_medium2.vtf,1398308,1398308
+materials/reacz/portal/dark/thick_framed/wall_black_medium_nmap2.vtf,1048783,1048783
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metal_p2.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_metal_p2.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metal_p2_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor3_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base.vmt,334,334
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_metalfloor1.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor1_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metal_p1_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_metal_p9.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_metal_p9.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p9_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_wall6.vmt,316,316
+materials/VBD/Pack 2 Remnont/remn_wall6.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall6_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2_normal.vtf,1398336,1398336
+materials/zackchange/sonicgenerations/ghz_rock_sk1_wall01.vmt,212,212
+materials/zackchange/sonicgenerations/ghz_rock_sk1_wall01_dif.vtf,349760,349760
+materials/zackchange/sonicgenerations/ghz_rock_sk1_wall01_nrm.vtf,1398336,1398336
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth02.vmt,218,218
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth02_dif.vtf,174944,174944
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth05_nrm.vtf,349760,349760
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth01.vmt,218,218
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth01_dif.vtf,349760,349760
+materials/zackchange/sonicgenerations/ssz_rock_km1_relief01.vmt,216,216
+materials/zackchange/sonicgenerations/ssz_rock_km1_relief01_dif.vtf,349760,349760
+materials/zackchange/sonicgenerations/ssz_rock_km1_relief01_nrm.vtf,349760,349760
+materials/zackchange/sonicgenerations/ssz_rock_km1_wall01.vmt,212,212
+materials/zackchange/sonicgenerations/ssz_rock_km1_wall01_dif.vtf,1398336,1398336
+materials/zackchange/sonicgenerations/ssz_rock_km1_wall01_nrm.vtf,1398336,1398336
+materials/Silkroad/Jupitere/alex_castle_18.vmt,109,109
+materials/Silkroad/Jupitere/alex_castle_18.vtf,87616,87616
+materials/Silkroad/Jupitere/alex_castle_22.vmt,124,124
+materials/Silkroad/Jupitere/alex_castle_22.vtf,87616,87616
+materials/Silkroad/Ground/asiaminor_grass_05.vmt,107,107
+materials/Silkroad/Ground/asiaminor_grass_05.vtf,349760,349760
+materials/Silkroad/Jupitere/alex_castle_6.vmt,108,108
+materials/Silkroad/Jupitere/alex_castle_6.vtf,174944,174944
+materials/Silkroad/Jupitere/piety_35.vmt,102,102
+materials/Silkroad/Jupitere/piety_35.vtf,349760,349760
+materials/Silkroad/Jupitere/piety_8.vmt,105,105
+materials/Silkroad/Jupitere/piety_8.vtf,43872,43872
+materials/Silkroad/Jupitere/alex_castle_8.vmt,123,123
+materials/Silkroad/Jupitere/alex_castle_8.vtf,87616,87616
+materials/Silkroad/Jupitere/alex_castle_3.vmt,107,107
+materials/Silkroad/Jupitere/alex_castle_3.vtf,43872,43872
+materials/Silkroad/Jupitere/piety_18.vmt,121,121
+materials/Silkroad/Jupitere/piety_18.vtf,87616,87616
+materials/Silkroad/Jupitere/piety_22.vmt,121,121
+materials/Silkroad/Jupitere/piety_22.vtf,22080,22080
+materials/Silkroad/Jupitere/piety_10.vmt,106,106
+materials/Silkroad/Jupitere/piety_10.vtf,349760,349760
+materials/Silkroad/Jupitere/piety_3.vmt,116,116
+materials/Silkroad/Jupitere/piety_3.vtf,22080,22080
+materials/Silkroad/Donswhang/stone_room201_bottom02.vmt,93,93
+materials/Silkroad/Donswhang/stone_room201_bottom02.vtf,87616,87616
+materials/Silkroad/Jupitere/jupiter_5.vmt,103,103
+materials/Silkroad/Jupitere/jupiter_5.vtf,349760,349760
+materials/Silkroad/Egypt/wall (77).vmt,76,76
+materials/Silkroad/Egypt/wall (77).vtf,87616,87616
+materials/Silkroad/China/china_wall_tile.vmt,82,82
+materials/Silkroad/China/china_wall_tile.vtf,87616,87616
+materials/Silkroad/FGWorld/ice2.vmt,92,92
+materials/Silkroad/FGWorld/ice2.vtf,349760,349760
+materials/Silkroad/Jupitere/jupiter_7.vmt,104,104
+materials/Silkroad/Jupitere/jupiter_7.vtf,87616,87616
+materials/Silkroad/Jupitere/jupiter_8.vmt,104,104
+materials/Silkroad/Jupitere/jupiter_8.vtf,349760,349760
+materials/Silkroad/China/china_wall_tile01.vmt,84,84
+materials/Silkroad/China/china_wall_tile01.vtf,87616,87616
+materials/Silkroad/China/jinsi_floor1_h_deck02.vmt,88,88
+materials/Silkroad/China/jinsi_floor1_h_deck02.vtf,87616,87616
+materials/Silkroad/China/jinsi_floor1_h_ceiling.vmt,104,104
+materials/Silkroad/China/jinsi_floor1_h_ceiling.vtf,87616,87616
+materials/RealWorldTextures/de_artcenter/concrete01.vmt,117,117
+materials/RealWorldTextures/de_artcenter/concrete01.vtf,174984,174984
+materials/Silkroad/Egypt/ground (17).vmt,78,78
+materials/Silkroad/Egypt/ground (17).vtf,87616,87616
+materials/Silkroad/Egypt/wall (76).vmt,76,76
+materials/Silkroad/Egypt/wall (76).vtf,349760,349760
+materials/Silkroad/China/c_jin_wall_orwall.vmt,84,84
+materials/Silkroad/China/c_jin_wall_orwall.vtf,174944,174944
+materials/Silkroad/China/jinsi_floor1_s_dragon01.vmt,90,90
+materials/Silkroad/China/jinsi_floor1_s_dragon01.vtf,174944,174944
+materials/Silkroad/China/jinsi_floor1_e_dan02_01.vmt,90,90
+materials/Silkroad/China/jinsi_floor1_e_dan02_01.vtf,349760,349760
+materials/Silkroad/China/jinsi_floor1_e_dan03_01.vmt,90,90
+materials/Silkroad/China/jinsi_floor1_e_dan03_01.vtf,87616,87616
+materials/Silkroad/Egypt/ground (2).vmt,77,77
+materials/Silkroad/Egypt/ground (2).vtf,87616,87616
+materials/Silkroad/Ground/mong_sand_01.vmt,100,100
+materials/Silkroad/Ground/mong_sand_01.vtf,349760,349760
+materials/Silkroad/Egypt/wall (100).vmt,92,92
+materials/Silkroad/Egypt/wall (100).vtf,174944,174944
+materials/Silkroad/Jupitere/piety_39.vmt,102,102
+materials/Silkroad/Jupitere/piety_39.vtf,174984,174984
+materials/Silkroad/Jupitere/piety_30.vmt,121,121
+materials/Silkroad/Jupitere/piety_30.vtf,174944,174944
+materials/reacz/portal/light/cthybrid/white/large_textured.vmt,934,934
+materials/reacz/portal/light/textured/white/large_textured.vtf,1398308,1398308
+materials/reacz/portal/light/normals/clean/large_clean_nmap.vtf,1048783,1048783
+materials/reacz/detail/detail_concrete_03.vtf,174984,174984
+materials/reacz/portal/light/textured/white/medium_textured.vmt,948,948
+materials/reacz/portal/light/textured/white/medium_textured.vtf,1398308,1398308
+materials/reacz/portal/light/normals/textured/medium_textured_nmap.vtf,1048783,1048783
+materials/reacz/portal/light/cthybrid/white/thin_textured.vmt,929,929
+materials/reacz/portal/light/textured/white/thin_textured.vtf,1398308,1398308
+materials/reacz/portal/light/normals/clean/thin_clean_nmap.vtf,1048783,1048783
+materials/halo_textures/halo_wall011.vmt,99,99
+materials/halo_textures/halo_wall011.vtf,87544,87544
+materials/halo_textures/halo_roof002.vmt,99,99
+materials/halo_textures/halo_roof002.vtf,174984,174984
+materials/halo_textures/halo_trim001.vmt,99,99
+materials/halo_textures/halo_trim001.vtf,43872,43872
+materials/Silkroad/China/cj_thiefvill_25.vmt,82,82
+materials/Silkroad/China/cj_thiefvill_25.vtf,174944,174944
+materials/Silkroad/Ground/arabia_bagh_grass_01.vmt,109,109
+materials/Silkroad/Ground/arabia_bagh_grass_01.vtf,349760,349760
+materials/Silkroad/China/cj_thiefvill_19.vmt,82,82
+materials/Silkroad/China/cj_thiefvill_19.vtf,174944,174944
+materials/Silkroad/FGWorld/groundwood1.vmt,106,106
+materials/Silkroad/FGWorld/groundwood1.vtf,349760,349760
+materials/Silkroad/China/cj_thiefvill_18.vmt,82,82
+materials/Silkroad/China/cj_thiefvill_18.vtf,87616,87616
+materials/Silkroad/Egypt/ground (10).vmt,78,78
+materials/Silkroad/Egypt/ground (10).vtf,87616,87616
+materials/Silkroad/Egypt/ground (7).vmt,92,92
+materials/Silkroad/Egypt/ground (7).vtf,87616,87616
+materials/Bugga/reverse.vmt,74,74
+materials/Bugga/reverse.vtf,87632,87632
+materials/Silkroad/Egypt/wall (86).vmt,76,76
+materials/Silkroad/Egypt/wall (86).vtf,349760,349760
+materials/Silkroad/Egypt/wall (40).vmt,76,76
+materials/Silkroad/Egypt/wall (40).vtf,87616,87616
+materials/Silkroad/China/china_wall_stair.vmt,83,83
+materials/Silkroad/China/china_wall_stair.vtf,43872,43872
+materials/Silkroad/Jupitere/alex_castle_5.vmt,122,122
+materials/Silkroad/Jupitere/alex_castle_5.vtf,174944,174944
+materials/Silkroad/Jupitere/alex_castle_25.vmt,124,124
+materials/Silkroad/Jupitere/alex_castle_25.vtf,174944,174944
+materials/Bugga/arrow.vmt,72,72
+materials/Bugga/arrow.vtf,87632,87632
+materials/Silkroad/Egypt/wall (5).vmt,75,75
+materials/Silkroad/Egypt/wall (5).vtf,87616,87616
+materials/Silkroad/Jupitere/piety24.vmt,101,101
+materials/Silkroad/Jupitere/piety24.vtf,174984,174984
+materials/Bugga/crouch.vmt,73,73
+materials/Bugga/crouch.vtf,349776,349776
+materials/Silkroad/Donswhang/stone_room201_road01.vmt,91,91
+materials/Silkroad/Donswhang/stone_room201_road01.vtf,87616,87616
+materials/Silkroad/Donswhang/stone_room302_bottom01.vmt,93,93
+materials/Silkroad/Donswhang/stone_room302_bottom01.vtf,87616,87616
+materials/Bugga/themountain.vmt,78,78
+materials/Bugga/themountain.vtf,349712,349712
+materials/halo_textures/halo_metal005.vmt,100,100
+materials/halo_textures/halo_metal005.vtf,43912,43912
+materials/halo_textures/halo_panel003.vmt,100,100
+materials/halo_textures/halo_panel003.vtf,87616,87616
+materials/halo_textures/halo_panel001.vmt,100,100
+materials/halo_textures/halo_panel001.vtf,43872,43872
+materials/halo_textures/halo_metal029.vmt,100,100
+materials/halo_textures/halo_metal029.vtf,43912,43912
+materials/Bugga/day.vmt,70,70
+materials/Bugga/day.vtf,174960,174960
+materials/colours/LightGrey.vmt,65,65
+materials/colours/LightGrey.vtf,174984,174984
+materials/Bugga/intel2.vmt,60,60
+materials/Bugga/intel2.vtf,43888,43888
+materials/Bugga/intel.vmt,72,72
+materials/Bugga/intel.vtf,349776,349776
+materials/Silkroad/Jupitere/air_garden_11.vmt,122,122
+materials/Silkroad/Jupitere/air_garden_11.vtf,87616,87616
+materials/Silkroad/Jupitere/piety_28.vmt,106,106
+materials/Silkroad/Jupitere/piety_28.vtf,43872,43872
+materials/Silkroad/Jupitere/air_garden_3.vmt,106,106
+materials/Silkroad/Jupitere/air_garden_3.vtf,349760,349760
+materials/mspaint/yonkoma/theorb.vmt,163,163
+materials/mspaint/yonkoma/theorb.vtf,349776,349776
+materials/water/water_caribbean01_beneath.vmt,1156,1156
+materials/Bugga/government.vmt,83,83
+materials/Bugga/government.vtf,174960,174960
+materials/Name.vmt,71,71
+materials/Name.vtf,1398336,1398336

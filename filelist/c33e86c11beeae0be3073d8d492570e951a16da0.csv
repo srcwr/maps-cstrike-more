@@ -1,0 +1,93 @@
+filename,size,compressed
+materials/maps/test9/metal/citadel_tilewall005a_0_0_0.vmt,125,125
+materials/maps/test9/glass/combineglass001a_0_0_0.vmt,121,121
+materials/maps/test9/cubemapdefault.vtf,9832,9832
+materials/maps/test9/c0_0_0.vtf,9832,9832
+materials/maps/test9/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/test9/c0_0_0.hdr.vtf,76528,76528
+materials/360/BUILDING3.vmt,61,61
+materials/360/building3.vtf,174968,174968
+materials/360/BUILDING2.vmt,61,61
+materials/360/building2.vtf,43896,43896
+materials/360/WHITEFLOOR.vmt,62,62
+materials/360/whitefloor.vtf,43896,43896
+materials/360/FULLBLACK.vmt,61,61
+materials/360/fullblack.vtf,43896,43896
+materials/360/RED.vmt,55,55
+materials/360/red.vtf,43896,43896
+materials/360/MIRROSEDGE1.vmt,63,63
+materials/360/mirrosedge1.vtf,699256,699256
+materials/360/ROAD.vmt,56,56
+materials/360/road.vtf,43896,43896
+materials/360/WALL1.vmt,57,57
+materials/360/wall1.vtf,43896,43896
+materials/360/GRAYHEAVY.vmt,61,61
+materials/360/grayheavy.vtf,43896,43896
+materials/360/YELLOW.vmt,58,58
+materials/360/Yellow.vtf,43896,43896
+materials/DE_TRAIN/TRAIN_METALCEILING_02.vmt,108,108
+materials/de_train/train_metalceiling_02.vtf,174968,174968
+materials/DE_TRAIN/TRAIN_METALCEILING_01.vmt,108,108
+materials/de_train/train_metalceiling_01.vtf,174968,174968
+materials/DE_NUKE/NUKE_METALFLOOR_01.vmt,99,99
+materials/de_nuke/nuke_metalfloor_01.vtf,174968,174968
+materials/DE_NUKE/NUKE_METALVENT.vmt,116,116
+materials/de_nuke/nuke_metalvent.vtf,87600,87600
+materials/360/METALIC1.vmt,60,60
+materials/360/metalic1.vtf,43896,43896
+materials/TROLLTEXTURES/ADMIN BUTTON.vmt,74,74
+materials/360/SOLARPLACA.vmt,62,62
+materials/360/solarplaca.vtf,43896,43896
+materials/360/ORANGE.vmt,58,58
+materials/360/orange.vtf,43896,43896
+materials/DE_TRAIN/TRAIN_GLASSWINDOW_01.vmt,102,102
+materials/de_train/train_glasswindow_01.vtf,174968,174968
+materials/TROLLTEXTURES/EXTREME MODE.vmt,74,74
+materials/TROLLTEXTURES/HARD MODE.vmt,71,71
+materials/TROLLTEXTURES/NORMAL MODE.vmt,73,73
+materials/TROLLTEXTURES/EASY MODE.vmt,71,71
+materials/TROLLTEXTURES/MAPEDITOR.vmt,71,71
+materials/trolltextures/mapeditor.vtf,174984,174984
+materials/TROLLTEXTURES/GOD OR IMPOSSIBLE MODE.vmt,84,84
+materials/360/CLOSE SINAL.vmt,63,63
+materials/360/OPEN SINAL.vmt,62,62
+materials/DE_NUKE/NUKE_METALGRATE_01.vmt,145,145
+materials/de_nuke/nuke_metalgrate_01.vtf,87600,87600
+models/props/de_nuke/wall_light_off.mdl,1476,1476
+models/props/de_nuke/wall_light_off.dx80.vtx,1557,1557
+models/props/de_nuke/wall_light_off.dx90.vtx,1557,1557
+models/props/de_nuke/wall_light_off.sw.vtx,1557,1557
+models/props/de_nuke/wall_light_off.phy,789,789
+models/props/de_nuke/wall_light_off.vvd,5952,5952
+materials/models/props/de_nuke/light_wall.vmt,176,176
+materials/models/props/de_nuke/light_wall.vtf,87600,87600
+materials/models/props/de_nuke/light_wall_ref.vtf,11128,11128
+models/props/cs_assault/camera.mdl,1472,1472
+models/props/cs_assault/camera.dx80.vtx,5199,5199
+models/props/cs_assault/camera.dx90.vtx,5199,5199
+models/props/cs_assault/camera.sw.vtx,5199,5199
+models/props/cs_assault/camera.phy,1432,1432
+models/props/cs_assault/camera.vvd,25920,25920
+materials/models/props/cs_assault/camera.vmt,155,155
+materials/models/props/cs_assault/camera.vtf,43896,43896
+materials/models/props/cs_assault/camera_ref.vtf,11128,11128
+models/props/cs_office/exit_ceiling.mdl,1480,1480
+models/props/cs_office/exit_ceiling.dx80.vtx,7353,7353
+models/props/cs_office/exit_ceiling.dx90.vtx,7353,7353
+models/props/cs_office/exit_ceiling.sw.vtx,7353,7353
+models/props/cs_office/exit_ceiling.phy,1435,1435
+models/props/cs_office/exit_ceiling.vvd,35904,35904
+materials/models/props/cs_office/Exit_ceiling.vmt,100,100
+materials/models/props/cs_office/exit_ceiling.vtf,22064,22064
+sound/trollmirrors/nuke2.mp3,222067,222067
+cfg/mirrorsconfig.cfg,421,421
+materials/360/Close Sinal.vtf,22008,22008
+materials/360/Open Sinal.vtf,22008,22008
+materials/trolltextures/Admin Button.vtf,11144,11144
+materials/trolltextures/Easy Mode.vtf,22080,22080
+materials/trolltextures/Extreme Mode.vtf,11144,11144
+materials/trolltextures/God or Impossible Mode.vtf,22008,22008
+materials/trolltextures/Hard Mode.vtf,22080,22080
+materials/trolltextures/Normal Mode.vtf,43872,43872
+sound/my sounds/MirrorsEdgeMusic.mp3,6227011,6227011
+sound/my sounds/bennyhill.mp3,389060,389060

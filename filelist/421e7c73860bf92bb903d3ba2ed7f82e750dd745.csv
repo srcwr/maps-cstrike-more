@@ -1,0 +1,282 @@
+filename,size,compressed
+materials/maps/ze_slender_escape_b4/de_train/blendgrassdirt001a_wvt_patch.vmt,129,129
+materials/maps/ze_slender_escape_b4/de_chateau/floor03_-456_14857_88.vmt,140,140
+materials/maps/ze_slender_escape_b4/plaster/plasterwall043c_-456_14857_88.vmt,145,145
+materials/maps/ze_slender_escape_b4/plaster/plasterwall005c_-456_14857_88.vmt,145,145
+materials/maps/ze_slender_escape_b4/tile/tilefloor021a_-456_14857_88.vmt,140,140
+materials/maps/ze_slender_escape_b4/brick/brickwall014f_-456_14857_88.vmt,141,141
+materials/maps/ze_slender_escape_b4/tile/tileroof004a_-456_14857_88.vmt,139,139
+materials/maps/ze_slender_escape_b4/brick/brickwall014b_-456_14857_88.vmt,141,141
+materials/maps/ze_slender_escape_b4/concrete/concretefloor028c_-456_14857_88.vmt,148,148
+materials/maps/ze_slender_escape_b4/concrete/concretefloor033a_-456_14857_88.vmt,148,148
+materials/maps/ze_slender_escape_b4/tile/tilefloor018a_-456_14857_88.vmt,140,140
+materials/maps/ze_slender_escape_b4/tile/tilewall007e_-456_14857_88.vmt,139,139
+materials/maps/ze_slender_escape_b4/metal/prodventa_-456_14857_88.vmt,137,137
+materials/maps/ze_slender_escape_b4/de_piranesi/castle02_-456_14857_88.vmt,142,142
+materials/maps/ze_slender_escape_b4/de_piranesi/castle02d_-456_14857_88.vmt,143,143
+materials/maps/ze_slender_escape_b4/metal/metalfloor001b_-456_14857_88.vmt,142,142
+materials/maps/ze_slender_escape_b4/concrete/concretefloor010b_-456_14857_88.vmt,148,148
+materials/maps/ze_slender_escape_b4/concrete/concretefloor011a_c17_-456_14857_88.vmt,191,191
+materials/maps/ze_slender_escape_b4/wood/offdesktop_-456_14857_88.vmt,137,137
+materials/maps/ze_slender_escape_b4/vehicle/metaltrain001c_-456_14857_88.vmt,144,144
+materials/maps/ze_slender_escape_b4/vehicle/metaltrain001d_-456_14857_88.vmt,144,144
+materials/maps/ze_slender_escape_b4/nature/mudfloor002a_-456_14857_88.vmt,141,141
+materials/maps/ze_slender_escape_b4/de_piranesi/wooddoor01_-456_14857_88.vmt,144,144
+materials/maps/ze_slender_escape_b4/de_chateau/cxwndblu_-456_14857_88.vmt,141,141
+materials/maps/ze_slender_escape_b4/metal/citadel_tilefloor016a_-456_14857_88.vmt,149,149
+materials/maps/ze_slender_escape_b4/de_nuke/nukwater_movingplane_dx70_depth_96.vmt,120,120
+materials/maps/ze_slender_escape_b4/de_nuke/nukwater_movingplane_dx70_depth_112.vmt,121,121
+materials/maps/ze_slender_escape_b4/cubemapdefault.vtf,4960,4960
+materials/maps/ze_slender_escape_b4/c-456_14857_88.vtf,4960,4960
+materials/maps/ze_slender_escape_b4/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_slender_escape_b4/c-456_14857_88.hdr.vtf,76528,76528
+cfg/slender.cfg,878,878
+maps/ze_slender_escape_b4_particles.txt,57,57
+materials/3D/monkeybomb/monkey_bomb_c.vmt,330,330
+materials/3D/monkeybomb/monkey_bomb_c.vtf,349760,349760
+materials/3D/monkeybomb/monkey_bomb_c_normal.vtf,174984,174984
+materials/3D/monkeybomb/monkey_fur_c.vmt,293,293
+materials/3D/monkeybomb/monkey_fur_c.vtf,5632,5632
+materials/3D/monkeybomb/usa_monkey_bomb_explosive_c.vmt,358,358
+materials/3D/monkeybomb/usa_monkey_bomb_explosive_c.vtf,349760,349760
+materials/3D/monkeybomb/usa_monkey_bomb_explosive_c_normal.vtf,174984,174984
+materials/3D/slender/Body.vmt,74,74
+materials/3D/slender/Body.vtf,174864,174864
+materials/3D/slender/head.vmt,91,91
+materials/3D/slender/head.vtf,174864,174864
+materials/3D/slender/Trousers.vmt,78,78
+materials/3D/slender/Trousers.vtf,87472,87472
+materials/custom_nature/animatedlava.vmt,252,252
+materials/custom_nature/animatedlava.vtf,5593040,5593040
+materials/custom_nature/animatedlava2.vmt,253,253
+materials/custom_nature/animatedlava2.vtf,5593040,5593040
+materials/models/hybridphysx/helicopter_movingblades.vmt,113,113
+materials/models/hybridphysx/helicopter_news2.vmt,172,172
+materials/models/hybridphysx/helicopter_news_adj.vmt,157,157
+materials/models/hybridphysx/helicopter_news_adj.vtf,699296,699296
+materials/models/Jason278/Slender/Sheets/Sheet_1.vmt,84,84
+materials/models/Jason278/Slender/Sheets/Sheet_1.vtf,699232,699232
+materials/models/Jason278/Slender/Sheets/Sheet_2.vmt,84,84
+materials/models/Jason278/Slender/Sheets/Sheet_2.vtf,699232,699232
+materials/models/Jason278/Slender/Sheets/Sheet_3.vmt,84,84
+materials/models/Jason278/Slender/Sheets/Sheet_3.vtf,699232,699232
+materials/models/Jason278/Slender/Sheets/Sheet_4.vmt,84,84
+materials/models/Jason278/Slender/Sheets/Sheet_4.vtf,349688,349688
+materials/models/Jason278/Slender/Sheets/Sheet_5.vmt,84,84
+materials/models/Jason278/Slender/Sheets/Sheet_5.vtf,349688,349688
+materials/models/Jason278/Slender/Sheets/Sheet_6.vmt,84,84
+materials/models/Jason278/Slender/Sheets/Sheet_6.vtf,349688,349688
+materials/models/Jason278/Slender/Sheets/Sheet_7.vmt,84,84
+materials/models/Jason278/Slender/Sheets/Sheet_7.vtf,349688,349688
+materials/models/Jason278/Slender/Sheets/Sheet_8.vmt,84,84
+materials/models/Jason278/Slender/Sheets/Sheet_8.vtf,349688,349688
+materials/models/player/slow/monster_spider/slow_body.vmt,255,255
+materials/models/player/slow/monster_spider/slow_body.vtf,5592640,5592640
+materials/models/player/slow/monster_spider/slow_body_2.vmt,255,255
+materials/models/player/slow/monster_spider/slow_body_bump.vtf,5592640,5592640
+materials/models/player/slow/monster_spider/slow_eyes.vmt,299,299
+materials/models/player/slow/monster_spider/slow_teeth.vmt,186,186
+materials/models/props_junk/flare.vmt,84,84
+materials/models/props_junk/flare.vtf,87616,87616
+materials/models/props_junk/flare_burnt.vmt,73,73
+materials/models/props_junk/flare_burnt.vtf,43912,43912
+materials/models/props_vehicles/helicopter_movingblades.vtf,174968,174968
+materials/models/props_vehicles/helicopter_news2.vtf,349784,349784
+materials/models/props_vehicles/helicopter_news2_ref.vtf,43936,43936
+materials/models/props_vehicles/helicopter_news_ref.vtf,175008,175008
+materials/models/Slender/Prison_Arch/stonewall029c.vmt,123,123
+materials/models/Slender/Sheets/Sheet_1.vmt,84,84
+materials/models/Slender/Sheets/Sheet_1.vtf,699232,699232
+materials/models/Slender/Sheets/Sheet_2.vmt,84,84
+materials/models/Slender/Sheets/Sheet_2.vtf,699232,699232
+materials/models/Slender/Sheets/Sheet_3.vmt,84,84
+materials/models/Slender/Sheets/Sheet_3.vtf,699232,699232
+materials/models/Slender/Sheets/Sheet_4.vmt,84,84
+materials/models/Slender/Sheets/Sheet_4.vtf,349688,349688
+materials/models/Slender/Sheets/Sheet_5.vmt,84,84
+materials/models/Slender/Sheets/Sheet_5.vtf,349688,349688
+materials/models/Slender/Sheets/Sheet_6.vmt,84,84
+materials/models/Slender/Sheets/Sheet_6.vtf,349688,349688
+materials/models/Slender/Sheets/Sheet_7.vmt,84,84
+materials/models/Slender/Sheets/Sheet_7.vtf,349688,349688
+materials/models/Slender/Sheets/Sheet_8.vmt,84,84
+materials/models/Slender/Sheets/Sheet_8.vtf,349688,349688
+materials/models/slenderman/face.vtf,5592640,5592640
+materials/models/slenderman/hands_n.vtf,5592612,5592612
+materials/models/slenderman/hands_w.vtf,1048784,1048784
+materials/models/slenderman/lightwarp.vtf,16549,16549
+materials/models/slenderman/mini_iridescence.vtf,11144,11144
+materials/models/slenderman/skin_bump.vtf,87460,87460
+materials/models/slenderman/slenderman_suit_n.vtf,1398336,1398336
+materials/models/slenderman/slender_hands.vmt,457,457
+materials/models/slenderman/slender_hands.vtf,1398336,1398336
+materials/models/slenderman/slender_lightwarp.vtf,5760,5760
+materials/models/slenderman/slender_mask_detail.vtf,22369828,22369828
+materials/models/slenderman/slender_mask_left.vmt,457,457
+materials/models/slenderman/slender_mask_left.vtf,5592640,5592640
+materials/models/slenderman/slender_mask_normal.vtf,5592640,5592640
+materials/models/slenderman/slender_mask_right.vmt,457,457
+materials/models/slenderman/slender_mask_right.vtf,5592640,5592640
+materials/models/slenderman/slender_suit.vmt,624,624
+materials/models/slenderman/slender_suit.vtf,5592640,5592640
+materials/models/toybox/zombie_treasure_box_c.vmt,146,146
+materials/models/toybox/zombie_treasure_box_c.vtf,349760,349760
+materials/models/toybox/zombie_treasure_fill_c.vmt,82,82
+materials/models/toybox/zombie_treasure_fill_c.vtf,87616,87616
+materials/nature/cliff03b.vmt,272,272
+materials/nature/cliff03b.vtf,699296,699296
+materials/nature/clifftrees_cardboard01a.vmt,140,140
+materials/nature/clifftrees_cardboard01a.vtf,699232,699232
+materials/nature/clifftrees_cardboard02a.vmt,142,142
+materials/nature/clifftrees_cardboard02a.vtf,699232,699232
+materials/skybox/space_01bk.vmt,119,119
+materials/skybox/space_01bk.vtf,699256,699256
+materials/skybox/space_01dn.vmt,119,119
+materials/skybox/space_01dn.vtf,699256,699256
+materials/skybox/space_01ft.vmt,119,119
+materials/skybox/space_01ft.vtf,699256,699256
+materials/skybox/space_01lf.vmt,119,119
+materials/skybox/space_01lf.vtf,699256,699256
+materials/skybox/space_01rt.vmt,119,119
+materials/skybox/space_01rt.vtf,699256,699256
+materials/skybox/space_01up.vmt,119,119
+materials/skybox/space_01up.vtf,699256,699256
+materials/slender/slender - final.vmt,84,84
+materials/slender/slender final.vtf,43872,43872
+materials/slender/slender fun1.vmt,83,83
+materials/slender/slender fun1.vtf,43872,43872
+materials/slender/slender fun2.vmt,83,83
+materials/slender/slender fun2.vtf,43872,43872
+materials/slender/slender fun3.vmt,83,83
+materials/slender/slender fun3.vtf,43872,43872
+materials/slender/slender hardcore.vtf,43872,43872
+materials/slender/slender man.vmt,82,82
+materials/slender/slender man.vtf,43872,43872
+materials/slender/slender normal.vtf,43872,43872
+materials/slender/slender stage1.vmt,85,85
+materials/slender/slender stage1.vtf,87552,87552
+materials/slender/slender stage2.vmt,85,85
+materials/slender/slender stage2.vtf,87552,87552
+materials/slender/slender stage3.vmt,85,85
+materials/slender/slender stage3.vtf,87552,87552
+materials/slender/slender stage4.vmt,85,85
+materials/slender/slender stage4.vtf,87552,87552
+materials/slender/slender survival.vtf,43872,43872
+materials/slender/slender tact.vmt,83,83
+materials/slender/slender tact.vtf,87552,87552
+materials/slender/slender.vmt,78,78
+materials/slender/slender.vtf,43872,43872
+materials/slender/slender0.vmt,79,79
+materials/slender/slender0.vtf,699272,699272
+materials/slender/slender1.vmt,79,79
+materials/slender/slender1.vtf,699272,699272
+materials/slender/slender2.vmt,79,79
+materials/slender/slender2.vtf,699272,699272
+materials/slender/slender3.vmt,79,79
+materials/slender/slender3.vtf,699272,699272
+materials/slender/slender4.vmt,79,79
+materials/slender/slender4.vtf,699272,699272
+models/3D/monkeybomb/monkeybomb.dx80.vtx,64509,64509
+models/3D/monkeybomb/monkeybomb.dx90.vtx,64509,64509
+models/3D/monkeybomb/monkeybomb.mdl,3044,3044
+models/3D/monkeybomb/monkeybomb.phy,3948,3948
+models/3D/monkeybomb/monkeybomb.sw.vtx,64437,64437
+models/3D/monkeybomb/monkeybomb.vvd,258624,258624
+models/3D/slender/slender.dx80.vtx,45963,45963
+models/3D/slender/slender.dx90.vtx,45044,45044
+models/3D/slender/slender.mdl,15072,15072
+models/3D/slender/slender.phy,7022,7022
+models/3D/slender/slender.sw.vtx,44700,44700
+models/3D/slender/slender.vvd,163072,163072
+models/3D/slender/slender.xbox.vtx,45044,45044
+models/hybridphysx/news_helicoptor_hoveranim.dx90.vtx,99048,99048
+models/hybridphysx/news_helicoptor_hoveranim.mdl,87336,87336
+models/hybridphysx/news_helicoptor_hoveranim.vvd,438784,438784
+models/monster_spider/slow.dx80.vtx,141049,141049
+models/monster_spider/slow.dx90.vtx,139031,139031
+models/monster_spider/slow.mdl,603644,603644
+models/monster_spider/slow.phy,24366,24366
+models/monster_spider/slow.sw.vtx,138439,138439
+models/monster_spider/slow.vvd,494080,494080
+models/monster_spider/slow_head.dx80.vtx,40098,40098
+models/monster_spider/slow_head.dx90.vtx,40098,40098
+models/monster_spider/slow_head.mdl,1980,1980
+models/monster_spider/slow_head.phy,3090,3090
+models/monster_spider/slow_head.sw.vtx,40074,40074
+models/monster_spider/slow_head.vvd,146432,146432
+models/monster_spider/slow_hs.dx80.vtx,100008,100008
+models/monster_spider/slow_hs.dx90.vtx,98805,98805
+models/monster_spider/slow_hs.mdl,589436,589436
+models/monster_spider/slow_hs.phy,24318,24318
+models/monster_spider/slow_hs.sw.vtx,98277,98277
+models/monster_spider/slow_hs.vvd,346560,346560
+models/props_junk/flare.dx80.vtx,3282,3282
+models/props_junk/flare.dx90.vtx,3282,3282
+models/props_junk/flare.mdl,1740,1740
+models/props_junk/flare.phy,699,699
+models/props_junk/flare.sw.vtx,3282,3282
+models/props_junk/flare.vvd,13824,13824
+models/Slender/gascan001a.dx80.vtx,9558,9558
+models/Slender/gascan001a.dx90.vtx,9558,9558
+models/Slender/gascan001a.mdl,1752,1752
+models/Slender/gascan001a.sw.vtx,9550,9550
+models/Slender/gascan001a.vvd,42368,42368
+models/Slender/oildrum001boss.dx80.vtx,5126,5126
+models/Slender/oildrum001boss.dx90.vtx,5126,5126
+models/Slender/oildrum001boss.mdl,2212,2212
+models/Slender/oildrum001boss.phy,1861,1861
+models/Slender/oildrum001boss.sw.vtx,5110,5110
+models/Slender/oildrum001boss.vvd,21568,21568
+models/Slender/oildrum001dynamic.dx80.vtx,5126,5126
+models/Slender/oildrum001dynamic.dx90.vtx,5126,5126
+models/Slender/oildrum001dynamic.mdl,2212,2212
+models/Slender/oildrum001dynamic.phy,1858,1858
+models/Slender/oildrum001dynamic.sw.vtx,5110,5110
+models/Slender/oildrum001dynamic.vvd,17344,17344
+models/Slender/Prison_Arch.dx80.vtx,729,729
+models/Slender/Prison_Arch.dx90.vtx,729,729
+models/Slender/prison_arch.mdl,1736,1736
+models/Slender/Prison_Arch.phy,2427,2427
+models/Slender/Prison_Arch.sw.vtx,729,729
+models/Slender/prison_arch.vvd,3136,3136
+models/Slender/Sheetfix.dx80.vtx,429,429
+models/Slender/Sheetfix.dx90.vtx,429,429
+models/Slender/sheetfix.mdl,2400,2400
+models/Slender/Sheetfix.sw.vtx,421,421
+models/Slender/sheetfix.vvd,1600,1600
+models/slenderman/slenderman.dx80.vtx,66524,66524
+models/slenderman/slenderman.dx90.vtx,64409,64409
+models/slenderman/slenderman.mdl,27712,27712
+models/slenderman/slenderman.phy,27184,27184
+models/slenderman/slenderman.sw.vtx,63841,63841
+models/slenderman/slenderman.vvd,218880,218880
+models/toybox.dx80.vtx,11331,11331
+models/toybox.dx90.vtx,11331,11331
+models/toybox.mdl,1932,1932
+models/toybox.phy,1549,1549
+models/toybox.sw.vtx,11331,11331
+models/toybox.vvd,55680,55680
+particles/slender.pcf,13152,13152
+sound/slender/Barrelroll.mp3,20686,20686
+sound/slender/Dark Knight - Main Theme.mp3,6232813,6232813
+sound/slender/Dark Knight - Prison Escape.mp3,1969211,1969211
+sound/slender/FX - Clap Hands.mp3,8877,8877
+sound/slender/Halloween.mp3,2457732,2457732
+sound/slender/Michal Cielecki - Serenity.mp3,662880,662880
+sound/slender/Monkey Bomb.mp3,245892,245892
+sound/slender/Pendulum - Self vs Self.mp3,4447323,4447323
+sound/slender/Prodigy - Invaders Must Die.mp3,3285783,3285783
+sound/slender/Shadow - 1.mp3,1599083,1599083
+sound/slender/Shadow - 2.mp3,1602301,1602301
+sound/slender/Shadow - 3.mp3,1407815,1407815
+sound/slender/Shadow - 4.mp3,869483,869483
+sound/slender/Silent Hill - Promise.mp3,4244163,4244163
+sound/slender/Slender - Boe.mp3,71677,71677
+sound/slender/Slender - Boss Battle.mp3,2727562,2727562
+sound/slender/Slender - Dead.mp3,190691,190691
+sound/slender/Slender - Nightmare.mp3,3846266,3846266
+sound/slender/TSFH - Flameheart.mp3,780953,780953
+sound/slender/TSFH - Hero's return.mp3,818570,818570
+sound/slender/TSFH - Smell of Victory.mp3,803523,803523
+sound/slender/TSFH - Spirit Of Champions.mp3,2825192,2825192
+sound/sound.cache,1458,1458

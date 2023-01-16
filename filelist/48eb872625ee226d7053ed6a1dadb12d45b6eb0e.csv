@@ -1,0 +1,19 @@
+filename,size,compressed
+materials/maps/zm_comitissa_v1/stone/blendstonefloor003asphalt_wvt_patch.vmt,299,299
+materials/maps/zm_comitissa_v1/wood/offdesktop_0_0_0.vmt,124,124
+materials/maps/zm_comitissa_v1/de_piranesi/woodfloor02_0_0_0.vmt,132,132
+materials/maps/zm_comitissa_v1/dev/dev_water2_0_0_0.vmt,146,146
+materials/maps/zm_comitissa_v1/wood/offdra_0_0_0.vmt,120,120
+materials/maps/zm_comitissa_v1/wood/woodstair002b_0_0_0.vmt,127,127
+materials/maps/zm_comitissa_v1/de_chateau/wall04pnl01_0_0_0.vmt,131,131
+materials/maps/zm_comitissa_v1/metal/metalpipe009b_0_0_0.vmt,128,128
+materials/maps/zm_comitissa_v1/de_piranesi/marblefloor10_0_0_0.vmt,134,134
+materials/maps/zm_comitissa_v1/dev/dev_water2_depth_181.vmt,102,102
+materials/maps/zm_comitissa_v1/cubemapdefault.vtf,28753,28753
+materials/maps/zm_comitissa_v1/c0_0_0.vtf,28753,28753
+materials/maps/zm_comitissa_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_comitissa_v1/c0_0_0.hdr.vtf,76528,76528
+sound/SDKsounds/monsterhowl.wav,127290,127290
+sound/SDKsounds/musicalbox.wav,1381412,1381412
+sound/SDKsounds/wind.wav,308788,308788
+sound/SDKsounds/wolf howl.wav,151238,151238

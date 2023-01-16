@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/test/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/test/nature/blendgrassgravel001a_wvt_patch.vmt,283,283
+materials/maps/test/de_nuke/nukwater_movingplane_dx70_depth_2.vmt,119,119
+materials/maps/test/de_nuke/nukwater_movingplane_dx70_depth_8.vmt,119,119
+materials/maps/test/nature/water_dx70_opaq_depth_15988.vmt,112,112
+materials/maps/test/shadertest/watercheap_opaque_nofresnel_depth_155.vmt,126,126
+materials/maps/test/de_nuke/nukwater_movingplane_dx70_depth_157.vmt,121,121
+materials/maps/test/de_nuke/nukwater_movingplane_dx70_depth_1.vmt,119,119
+materials/maps/test/cubemapdefault.vtf,28753,28753
+materials/maps/test/cubemapdefault.hdr.vtf,76528,76528
+materials/custom/partygamer.vmf.txt,97,97
+materials/custom/partygamer.vmt,65,65
+materials/custom/partygamer.vtf,349760,349760
+materials/models/weapons/v_models/knife_t/knife_t.vtf,87544,87544
+materials/models/weapons/w_models/w_knife_t/w_knife_t.vtf,87544,87544

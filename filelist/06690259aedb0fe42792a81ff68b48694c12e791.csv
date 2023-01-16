@@ -1,0 +1,68 @@
+filename,size,compressed
+materials/maps/mg_simple_course_2_v1_fixed_s2/water/water_caribbean01_depth_8.vmt,109,109
+materials/maps/mg_simple_course_2_v1_fixed_s2/cubemapdefault.vtf,9832,9832
+materials/maps/mg_simple_course_2_v1_fixed_s2/cubemapdefault.hdr.vtf,76528,76528
+detail.vbsp,42794,42794
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials//128x64 2seriy1.vmt,80,80
+materials/128x64 2seriy1.vtf,174984,174984
+materials//tp.vmt,68,68
+materials/tp.vtf,174984,174984
+materials//128x64 fiol1.vmt,78,78
+materials/128x64 fiol1.vtf,174984,174984
+materials//2x2 light.vmt,75,75
+materials/2x2 light.vtf,174984,174984
+materials//128x64 golubaia1.vmt,82,82
+materials/128x64 golubaia1.vtf,174984,174984
+materials//128x64 oranj1.vmt,79,79
+materials/128x64 oranj1.vtf,174984,174984
+materials//128x64 raduga1.vmt,80,80
+materials/128x64 raduga1.vtf,174984,174984
+materials//128x64 red1.vmt,77,77
+materials/128x64 red1.vtf,174984,174984
+materials//128x64 grin1.vmt,78,78
+materials/128x64 grin1.vtf,174984,174984
+materials//128x64 red2.vmt,77,77
+materials/128x64 red2.vtf,174984,174984
+materials//128x64 siniy1.vmt,79,79
+materials/128x64 siniy1.vtf,174984,174984
+materials/water/water_caribbean01.vmt,1538,1538
+materials/dev/water_normal.vtf,10136388,10136388
+materials/dev/water_dudv.vtf,5068290,5068290
+materials/water/water_caribbean01_dx70.vmt,1659,1659
+materials/dev/water.vtf,2535024,2535024
+materials/nature/water_dx70_beneath.vmt,1250,1250
+materials/water/water_caribbean01_beneath.vmt,1224,1224
+materials//256x128 laim1.vmt,79,79
+materials/256x128 laim1.vtf,174984,174984
+materials//2x2 grin1.vmt,75,75
+materials/2x2 grin1.vtf,174984,174984
+materials//novichok.vmt,74,74
+materials/novichok.vtf,174984,174984
+materials//zeus.vmt,70,70
+materials/zeus.vtf,174984,174984
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials//256x128 oranj1.vmt,80,80
+materials/256x128 oranj1.vtf,174984,174984
+materials//256x128 grin1.vmt,79,79
+materials/256x128 grin1.vtf,174984,174984
+materials/skybox/sky_dustbk.vmt,117,117
+materials/skybox/sky_dustbk.vtf,349616,349616
+materials/skybox/sky_dustdn.vmt,117,117
+materials/skybox/sky_dustdn.vtf,349616,349616
+materials/skybox/sky_dustft.vmt,117,117
+materials/skybox/sky_dustft.vtf,349616,349616
+materials/skybox/sky_dustlf.vmt,117,117
+materials/skybox/sky_dustlf.vtf,349616,349616
+materials/skybox/sky_dustrt.vmt,117,117
+materials/skybox/sky_dustrt.vtf,349616,349616
+materials/skybox/sky_dustup.vmt,117,117
+materials/skybox/sky_dustup.vtf,349616,349616
+materials/detail/detailsprites.vmt,87,87
+materials/detail/detailsprites.vtf,1398360,1398360
+sound/music_server2/different heaven - nekozilla.mp3,2537643,2537643
+sound/music_server2/k-391 - summertime.mp3,8817521,8817521
+sound/music_server2/k-391-solstice(daily-music.ru).mp3,9059335,9059335

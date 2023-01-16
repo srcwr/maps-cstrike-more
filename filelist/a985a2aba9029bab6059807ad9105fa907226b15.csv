@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/cs_desert_rescue/dev/dev_water2_720_640_73.vmt,152,152
+materials/maps/cs_desert_rescue/concrete/concretefloor033k_720_640_73.vmt,141,141
+materials/maps/cs_desert_rescue/de_piranesi/marblefloor08_720_640_73.vmt,140,140
+materials/maps/cs_desert_rescue/de_piranesi/woodfloor02_720_640_73.vmt,138,138
+materials/maps/cs_desert_rescue/concrete/concretefloor011a_c17_720_640_73.vmt,184,184
+materials/maps/cs_desert_rescue/glass/glasswindowbreak070b_720_640_73.vmt,114,114
+materials/maps/cs_desert_rescue/glass/offwndwb_720_640_73.vmt,212,212
+materials/maps/cs_desert_rescue/maps/cs_desert_rescue/dev/dev_water2_720_640_73_depth_48.vmt,134,134
+materials/maps/cs_desert_rescue/maps/cs_desert_rescue/dev/dev_water2_720_640_73_depth_16448.vmt,137,137
+materials/maps/cs_desert_rescue/cubemapdefault.vtf,9824,9824
+materials/maps/cs_desert_rescue/c720_640_73.vtf,9824,9824
+materials/maps/cs_desert_rescue/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/cs_desert_rescue/c720_640_73.hdr.vtf,76520,76520

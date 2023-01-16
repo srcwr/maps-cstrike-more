@@ -1,0 +1,104 @@
+filename,size,compressed
+maps/surf_spectrum.txt,213,213
+materials/CUSTOM/COMBINEGLAS001AYELLOW.vmt,288,288
+materials/custom/combineglas001aYELLOW.vtf,349760,349760
+materials/CUSTOM/LEMON.vmt,60,60
+materials/custom/lemon.vtf,174984,174984
+materials/CUSTOM/NEEDLEPOINT STEEL.vmt,93,93
+materials/custom/Needlepoint Steel.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/BLUE_CARPET08.vmt,182,182
+materials/CustomText/GC Textures/Carpet/Blue_Carpet08.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/GREEN_CARPET05.vmt,183,183
+materials/CustomText/GC Textures/Carpet/Green_Carpet05.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/ORANGE_CARPET03.vmt,184,184
+materials/CustomText/GC Textures/Carpet/Orange_Carpet03.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/CARPET/RED_CARPET01.vmt,181,181
+materials/CustomText/GC Textures/Carpet/Red_Carpet01.vtf,174984,174984
+materials/CustomText/GC Textures/Carpet/Red_Carpet01_normal.vtf,174984,174984
+materials/GLASS/RED.vmt,83,83
+materials/glass/red.vtf,349760,349760
+materials/ICECREAMLOCK/COLORLBLUE.vmt,99,99
+materials/icecreamlock/colorlblue.vtf,392,392
+materials/ICECREAMLOCK/COLORLDBLUE.vmt,100,100
+materials/icecreamlock/colorldblue.vtf,392,392
+materials/ICECREAMLOCK/COLORLYELLOW.vmt,101,101
+materials/icecreamlock/colorlyellow.vtf,392,392
+materials/ICECREAMLOCK/COLORPGREEN.vmt,100,100
+materials/icecreamlock/colorpgreen.vtf,392,392
+materials/ICECREAMLOCK/COLORRED.vmt,97,97
+materials/icecreamlock/colorred.vtf,392,392
+materials/ICECREAMLOCK/COLORSATSUMA.vmt,101,101
+materials/icecreamlock/colorsatsuma.vtf,392,392
+materials/ICECREAMLOCK/LOLGLASS.vmt,116,116
+materials/icecreamlock/lolglass.vtf,2952,2952
+materials/maps/version100/c11922_13275_15166.vtf,9824,9824
+materials/maps/version100/c12000_8042_15512.vtf,9824,9824
+materials/maps/version100/c14720_14976_14836.vtf,9824,9824
+materials/maps/version100/c15000_11472_15264.vtf,9824,9824
+materials/maps/version100/c3976_5092_14024.vtf,9824,9824
+materials/maps/version100/cubemapdefault.vtf,9824,9824
+materials/maps/version100/custom/combineglas001ayellow_11922_13275_15166.vmt,144,144
+materials/maps/version100/custom/combineglas001ayellow_12000_8042_15512.vmt,143,143
+materials/maps/version100/custom/combineglas001ayellow_14720_14976_14836.vmt,144,144
+materials/maps/version100/custom/combineglas001ayellow_15000_11472_15264.vmt,144,144
+materials/maps/version100/custom/combineglas001ayellow_3976_5092_14024.vmt,142,142
+materials/maps/version100/effects/com_shield003a_14720_14976_14836.vmt,161,161
+materials/maps/version100/effects/combineshield/comshieldwall2faded_11922_13275_15166.vmt,180,180
+materials/maps/version100/effects/combineshield/comshieldwall2faded_12000_8042_15512.vmt,179,179
+materials/maps/version100/effects/combineshield/comshieldwall2faded_14720_14976_14836.vmt,180,180
+materials/maps/version100/effects/combineshield/comshieldwall2faded_15000_11472_15264.vmt,180,180
+materials/maps/version100/effects/combineshield/comshieldwall2faded_3976_5092_14024.vmt,178,178
+materials/maps/version100/effects/combineshield/comshieldwall_11922_13275_15166.vmt,174,174
+materials/maps/version100/effects/combineshield/comshieldwall_12000_8042_15512.vmt,173,173
+materials/maps/version100/effects/combineshield/comshieldwall_14720_14976_14836.vmt,174,174
+materials/maps/version100/effects/combineshield/comshieldwall_15000_11472_15264.vmt,174,174
+materials/maps/version100/effects/combineshield/comshieldwall_3976_5092_14024.vmt,172,172
+materials/maps/version100/glass/combineglass001a_11922_13275_15166.vmt,138,138
+materials/maps/version100/glass/combineglass001a_12000_8042_15512.vmt,137,137
+materials/maps/version100/glass/combineglass001a_14720_14976_14836.vmt,138,138
+materials/maps/version100/glass/combineglass001a_15000_11472_15264.vmt,138,138
+materials/maps/version100/glass/combineglass001a_3976_5092_14024.vmt,136,136
+materials/maps/version100/glass/unbreakable_3976_5092_14024.vmt,131,131
+materials/maps/version100/maps/version100/nature/water_canals03_11922_13275_15166_depth_4.vmt,141,141
+materials/maps/version100/maps/version100/nature/water_canals03_12000_8042_15512_depth_8.vmt,140,140
+materials/maps/version100/maps/version100/nature/water_canals03_15000_11472_15264_depth_8.vmt,141,141
+materials/maps/version100/maps/version100/nature/water_canals03_3976_5092_14024_depth_16.vmt,140,140
+materials/maps/version100/maps/version100/nature/water_canals03_3976_5092_14024_depth_8.vmt,139,139
+materials/maps/version100/metal/citadel_metalwall072c_11922_13275_15166.vmt,143,143
+materials/maps/version100/metal/citadel_metalwall072c_12000_8042_15512.vmt,142,142
+materials/maps/version100/metal/citadel_metalwall072c_14720_14976_14836.vmt,143,143
+materials/maps/version100/metal/citadel_metalwall072c_15000_11472_15264.vmt,143,143
+materials/maps/version100/metal/citadel_metalwall072c_3976_5092_14024.vmt,141,141
+materials/maps/version100/metal/citadel_metalwall090a_14720_14976_14836.vmt,143,143
+materials/maps/version100/nature/water_canals03_11922_13275_15166.vmt,160,160
+materials/maps/version100/nature/water_canals03_12000_8042_15512.vmt,159,159
+materials/maps/version100/nature/water_canals03_14720_14976_14836.vmt,160,160
+materials/maps/version100/nature/water_canals03_15000_11472_15264.vmt,160,160
+materials/maps/version100/nature/water_canals03_3976_5092_14024.vmt,158,158
+materials/models/props_foliage/tree_deciduous_01a_lod-leaves.vmt,182,182
+materials/models/props_foliage/tree_deciduous_01a_lod-leaves.vtf,349744,349744
+materials/models/props_foliage/tree_deciduous_01a_lod.vmt,175,175
+materials/models/props_foliage/tree_deciduous_01a_lod.vtf,349744,349744
+materials/models/props_foliage/tree_deciduous_01a_trunk.vmt,155,155
+materials/models/props_foliage/tree_deciduous_01a_trunk.vtf,174984,174984
+materials/SKAR/BLUE.vmt,49,49
+materials/skar/blue.vtf,7168,7168
+materials/SKAR/COLORS.vmt,254,254
+materials/skar/colors.vtf,5760,5760
+materials/SKAR/CONDUIT_ENERGY.vmt,717,717
+materials/skar/conduit_energy.vtf,349744,349744
+materials/SKAR/CREDITSTEX1.vmt,84,84
+materials/skar/creditstex1.vtf,1398308,1398308
+materials/SKAR/RED.vmt,48,48
+materials/skar/red.vtf,1600,1600
+materials/skar/redgrid.vtf,43912,43912
+materials/SKAR/REDGRIDUHHH.vmt,86,86
+materials/SKAR/SKARWHITELIGHT.vmt,106,106
+materials/skar/skarwhitelight.vtf,5668,5668
+models/props_foliage/tree_deciduous_01a-lod.dx80.vtx,4827,4827
+models/props_foliage/tree_deciduous_01a-lod.dx90.vtx,4827,4827
+models/props_foliage/tree_deciduous_01a-lod.mdl,1784,1784
+models/props_foliage/tree_deciduous_01a-lod.phy,4164,4164
+models/props_foliage/tree_deciduous_01a-lod.sw.vtx,4827,4827
+models/props_foliage/tree_deciduous_01a-lod.vvd,18304,18304
+sound/skarsounds/erinnnn.wav,1832268,1832268

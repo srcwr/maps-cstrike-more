@@ -1,0 +1,630 @@
+filename,size,compressed
+materials/maps/mg_mario_party_v1_0/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/mg_mario_party_v1_0/realworldtextures2/ground/ice_03_nonice_0_0_0.vmt,152,152
+materials/maps/mg_mario_party_v1_0/nature/water_coast02_depth_32.vmt,107,107
+materials/maps/mg_mario_party_v1_0/nature/water_coast02_depth_160.vmt,108,108
+materials/maps/mg_mario_party_v1_0/nature/water_coast02_depth_80.vmt,107,107
+materials/maps/mg_mario_party_v1_0/nature/water_coast03_depth_80.vmt,107,107
+materials/maps/mg_mario_party_v1_0/nature/water_coast02_depth_64.vmt,107,107
+materials/maps/mg_mario_party_v1_0/cubemapdefault.vtf,9832,9832
+materials/maps/mg_mario_party_v1_0/c0_0_0.vtf,9832,9832
+materials/maps/mg_mario_party_v1_0/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_mario_party_v1_0/c0_0_0.hdr.vtf,76528,76528
+materials/RealWorldTextures2/Ground/ice_03_nonice.vmt,276,276
+materials/RealWorldTextures2/Ground/ice_03.vtf,174984,174984
+materials/tools/TOOLSNODRAW.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/RealWorldTextures2/Tile/Tile_32.vmt,274,274
+materials/RealWorldTextures2/Tile/Tile_32.vtf,174984,174984
+materials/ba_mario_map/ceiling_test.vmt,98,98
+materials/ba_mario_map/ceiling_test.vtf,11144,11144
+materials/ba_mario_map/stone_mario_ground.vmt,103,103
+materials/ba_mario_map/stone_mario_ground.vtf,11144,11144
+materials/ba_mario_map/mario_brick.vmt,97,97
+materials/ba_mario_map/mario_brick.vtf,11144,11144
+materials/ba_mario_map/mario_red_carpet.vmt,101,101
+materials/ba_mario_map/mario_red_carpet.vtf,11144,11144
+materials/THW_Mario/Brick2.vmt,89,89
+materials/THW_Mario/Brick2.vtf,5696,5696
+materials/ba_mario_map/mario_grass_rock_blend.vmt,176,176
+materials/ba_mario_map/mario_grass_hd.vtf,174984,174984
+materials/ba_mario_map/mario_rock_ground.vtf,174984,174984
+materials/tools/TOOLSSKYBOX.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/ba_mario_map/mario_brick_2.vmt,99,99
+materials/ba_mario_map/mario_brick_2.vtf,22008,22008
+materials/THW_Mario/GrayBrick.vmt,92,92
+materials/THW_Mario/GrayBrick.vtf,5696,5696
+materials/rock_tex_hk.vmt,71,71
+materials/rock_tex_hk.vtf,174984,174984
+materials/ba_mario_map/mario_floor_1.vmt,102,102
+materials/ba_mario_map/mario_floor_1.vtf,43912,43912
+materials/ba_mario_map/mario_coloured_tile.vmt,104,104
+materials/ba_mario_map/mario_coloured_tile.vtf,43912,43912
+materials/ba_mario_map/mario_purple_brick.vmt,104,104
+materials/ba_mario_map/mario_purple_brick.vtf,22080,22080
+materials/neon/red.vmt,93,93
+materials/neon/red.vtf,174968,174968
+materials/ba_mario_map/mario_rock_ground.vmt,102,102
+materials/ba_mario_map/mario_grass_hd.vmt,100,100
+materials/mario_64/brick_silvergray.vmt,98,98
+materials/mario_64/brick_silvergray.vtf,22008,22008
+materials/ryan_dev/pure_blue1.vmt,67,67
+materials/ryan_dev/pure_blue1.vtf,11144,11144
+materials/mario_64/brick_cloudwall.vmt,97,97
+materials/mario_64/brick_cloudwall.vtf,43912,43912
+materials/RealWorldTextures2/Ground/sand_12.vmt,374,374
+materials/RealWorldTextures2/Ground/sand_12.vtf,174984,174984
+materials/RealWorldTextures2/Ground/sand_12_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_smooth1.vtf,16807,16807
+materials/Silkroad/Egypt/wall (3).vmt,71,71
+materials/Silkroad/Egypt/wall (3).vtf,87616,87616
+materials/Silkroad/Egypt/ground (15).vmt,93,93
+materials/Silkroad/Egypt/ground (15).vtf,87616,87616
+materials/Silkroad/Ground/mong_sand_01.vmt,100,100
+materials/Silkroad/Ground/mong_sand_01.vtf,349760,349760
+materials/Silkroad/Egypt/wall (60).vmt,91,91
+materials/Silkroad/Egypt/wall (60).vtf,174944,174944
+materials/mario_64/tile_floor_3lobe_gray.vmt,102,102
+materials/mario_64/tile_floor_3lobe_gray.vtf,11144,11144
+materials/mario_64/brick_brown.vmt,93,93
+materials/mario_64/brick_brown.vtf,11144,11144
+materials/Silkroad/Ground/oakk_snow_sn_tile00.vmt,107,107
+materials/Silkroad/Ground/oakk_snow_sn_tile00.vtf,349760,349760
+materials/Silkroad/FGWorld/ice4.vmt,92,92
+materials/Silkroad/FGWorld/ice4.vtf,87616,87616
+materials/maps/mario_party_mg/mario_ice_snow_wall.vmt,110,110
+materials/maps/mario_party_mg/mario_ice_snow_wall.vtf,43912,43912
+materials/RealWorldTextures2/Ground/ice_01.vmt,274,274
+materials/RealWorldTextures2/Ground/ice_01.vtf,174984,174984
+materials/Silkroad/FGWorld/ice7.vmt,92,92
+materials/Silkroad/FGWorld/ice7.vtf,349760,349760
+materials/maps/mario_party_mg/mario_party_mg_banner.vmt,89,89
+materials/maps/mario_party_mg/mario_party_mg_banner.vtf,699272,699272
+materials/maps/mario_party_mg/mg_mario_party_banner2.vmt,109,109
+materials/maps/mario_party_mg/mg_mario_party_banner2.vtf,1398336,1398336
+materials/maps/mario_party_mg/mg_mario_party_banner3.vmt,109,109
+materials/maps/mario_party_mg/mg_mario_party_banner3.vtf,174944,174944
+materials/tools/TOOLSINVISIBLE.vmt,304,304
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/photorealistic_road/road02_02.vmt,77,77
+materials/photorealistic_road/road02_02.vtf,349744,349744
+materials/THW_Mario/Floor1.vmt,89,89
+materials/THW_Mario/Floor1.vtf,11144,11144
+materials/photorealistic_road/road02_01.vmt,77,77
+materials/photorealistic_road/road02_01.vtf,349744,349744
+materials/THW_Mario/cloudguy.vmt,109,109
+materials/THW_Mario/cloudguy.vtf,43872,43872
+materials/ba_mario_map/mario_dtk_banner.vmt,77,77
+materials/ba_mario_map/mario_dtk_banner.vtf,2796424,2796424
+materials/THW_Mario/Block1.vmt,88,88
+materials/THW_Mario/Block1.vtf,5696,5696
+materials/THW_Mario/Brick1.vmt,89,89
+materials/THW_Mario/Brick1.vtf,5696,5696
+materials/photorealistic_door/door001r.vmt,76,76
+materials/photorealistic_door/door001r.vtf,349744,349744
+materials/photorealistic_door/door001b.vmt,76,76
+materials/photorealistic_door/door001b.vtf,349744,349744
+materials/THW_Mario/Block2.vmt,88,88
+materials/THW_Mario/Block2.vtf,5696,5696
+materials/ba_mario_map/question_mark_box.vmt,122,122
+materials/ba_mario_map/question_mark_box.vtf,349760,349760
+materials/tools/TOOLSTRIGGER.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/komaokc/lava2.vmt,85,85
+materials/komaokc/lava2.vtf,174984,174984
+materials/maps/newguy_banner.vmt,91,91
+materials/maps/newguy_banner.vtf,1398264,1398264
+materials/banner.vmt,54,54
+materials/banner.vtf,349688,349688
+materials/ryan_dev/brown10.vmt,64,64
+materials/ryan_dev/brown10.vtf,11144,11144
+materials/ba_mario_map/thwomp_face.vmt,116,116
+materials/ba_mario_map/thwomp_face.vtf,87616,87616
+materials/ba_mario_map/thwomp_texture_hd.vmt,122,122
+materials/ba_mario_map/thwomp_texture_hd.vtf,11144,11144
+materials/ryan_dev/darker_cyan2.vmt,69,69
+materials/ryan_dev/darker_cyan2.vtf,11144,11144
+materials/ryan_dev/85.vmt,59,59
+materials/ryan_dev/85.vtf,11144,11144
+materials/ba_mario_map/birdo_pic.vmt,89,89
+materials/ba_mario_map/birdo_pic.vtf,1398336,1398336
+materials/ba_mario_map/kooper_pic.vmt,90,90
+materials/ba_mario_map/kooper_pic.vtf,1398336,1398336
+materials/ba_mario_map/wario_pic.vmt,89,89
+materials/ba_mario_map/wario_pic.vtf,1398336,1398336
+materials/ba_mario_map/shy_guy_pic.vmt,91,91
+materials/ba_mario_map/shy_guy_pic.vtf,1398336,1398336
+materials/ba_mario_map/kamek_pic.vmt,89,89
+materials/ba_mario_map/kamek_pic.vtf,11184992,11184992
+materials/ba_mario_map/Daisy_pic.vmt,89,89
+materials/ba_mario_map/Daisy_pic.vtf,1398336,1398336
+materials/mario kart/chain_chomp_mario.vmt,95,95
+materials/mario kart/chain_chomp_mario.vtf,699232,699232
+materials/ryan_dev/brown9.vmt,63,63
+materials/ryan_dev/brown9.vtf,11144,11144
+materials/ba_mario_map/white_neon.vmt,108,108
+materials/ba_mario_map/white_neon.vtf,2952,2952
+materials/neon/green.vmt,95,95
+materials/neon/green.vtf,174968,174968
+materials/neon/yellow.vmt,96,96
+materials/neon/yellow.vtf,174968,174968
+materials/neon/blue.vmt,94,94
+materials/neon/blue.vtf,174968,174968
+materials/ba_mario_map/blue_neon.vmt,107,107
+materials/ba_mario_map/blue_neon.vtf,904,904
+materials/neon/orange.vmt,96,96
+materials/neon/orange.vtf,174968,174968
+materials/RealWorldTextures2/Ground/lava_magma_05.vmt,326,326
+materials/RealWorldTextures2/Ground/lava_magma_05.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_stone1.vtf,16807,16807
+materials/ryan_dev/25.vmt,59,59
+materials/ryan_dev/25.vtf,11144,11144
+materials/maps/mario_party_mg/mario_says_portrait_final.vmt,112,112
+materials/maps/mario_party_mg/mario_says_portrait_final.vtf,1398336,1398336
+materials/maps/mario_party_mg/hg_portrait_final.vmt,104,104
+materials/maps/mario_party_mg/hg_portrait_final.vtf,1398336,1398336
+materials/maps/mario_party_mg/mario_kart_portrait_final.vmt,112,112
+materials/maps/mario_party_mg/mario_kart_portrait_final.vtf,1398336,1398336
+materials/maps/mario_party_mg/pirate_climb_portrait_final.vmt,114,114
+materials/maps/mario_party_mg/pirate_climb_portrait_final.vtf,1398336,1398336
+materials/maps/mario_party_mg/platform_peril_portrait_final.vmt,116,116
+materials/maps/mario_party_mg/platform_peril_portrait_final.vtf,1398336,1398336
+materials/maps/mario_party_mg/hexagon_heat_portrait_final.vmt,114,114
+materials/maps/mario_party_mg/hexagon_heat_portrait_final.vtf,1398336,1398336
+materials/maps/mario_party_mg/obstacle_portrait_final.vmt,110,110
+materials/maps/mario_party_mg/obstacle_portrait_final.vtf,1398336,1398336
+materials/ryan_dev/black.vmt,62,62
+materials/ryan_dev/black.vtf,11144,11144
+materials/Silkroad/Egypt/wall (10).vmt,72,72
+materials/Silkroad/Egypt/wall (10).vtf,22080,22080
+materials/custom_nature/animatedlava.vmt,252,252
+materials/custom_nature/animatedlava.vtf,5593040,5593040
+materials/customdev/dev_measuregeneric01red.vmt,168,168
+materials/customdev/dev_measuregeneric01red.vtf,11144,11144
+materials/maps/mario_party_mg/skipping_portrait_final.vmt,110,110
+materials/maps/mario_party_mg/skipping_portrait_final.vtf,1398336,1398336
+materials/ryan_dev/90.vmt,59,59
+materials/ryan_dev/90.vtf,11144,11144
+materials/ryan_dev/65.vmt,59,59
+materials/ryan_dev/65.vtf,11144,11144
+materials/ba_mario_map/sun_carpet.vmt,114,114
+materials/ba_mario_map/sun_carpet.vtf,349760,349760
+materials/ba_mario_map/luigi_pic.vmt,89,89
+materials/ba_mario_map/luigi_pic.vtf,1398336,1398336
+materials/ryan_dev/dark_green2.vmt,68,68
+materials/ryan_dev/dark_green2.vtf,11144,11144
+materials/ryan_dev/dark_green3.vmt,68,68
+materials/ryan_dev/dark_green3.vtf,11144,11144
+materials/maps/mario_party_mg/mario_pirate_island_portrait.vmt,115,115
+materials/maps/mario_party_mg/mario_pirate_island_portrait.vtf,1398336,1398336
+materials/THW_Mario/boo.vmt,105,105
+materials/THW_Mario/boo.vtf,87616,87616
+materials/zx2_car/1.vmt,121,121
+materials/zx2_car/1.vtf,87616,87616
+materials/zx2_car/2.vmt,121,121
+materials/zx2_car/2.vtf,87616,87616
+materials/zx2_car/3.vmt,121,121
+materials/zx2_car/3.vtf,87616,87616
+materials/zx2_car/go.vmt,122,122
+materials/zx2_car/go.vtf,87616,87616
+materials/CharliTexture/mario_sign_1.vmt,89,89
+materials/CharliTexture/mario_sign_1.vtf,22016,22016
+materials/CharliTexture/mario_finnish_line_1.vmt,97,97
+materials/CharliTexture/mario_finnish_line_1.vtf,1600,1600
+materials/CharliTexture/mario_sign_scroll_1.vmt,234,234
+materials/CharliTexture/mario_sign_scroll_1.vtf,22080,22080
+materials/THW_Mario/pipeShaft.vmt,92,92
+materials/THW_Mario/pipeShaft.vtf,2912,2912
+materials/NATURE/water_coast01_beneath.vmt,783,783
+materials/NATURE/water_coast01_normal.vtf,349756,349756
+materials/NATURE/water_coast01_dudv.vtf,174994,174994
+materials/skybox/sky_pipeplazaup.vmt,140,140
+materials/skybox/sky_pipeplazaup.vtf,1398208,1398208
+materials/skybox/sky_pipeplazadn.vmt,140,140
+materials/skybox/sky_pipeplazadn.vtf,1398208,1398208
+materials/skybox/sky_pipeplazalf.vmt,140,140
+materials/skybox/sky_pipeplazalf.vtf,1398208,1398208
+materials/skybox/sky_pipeplazart.vmt,140,140
+materials/skybox/sky_pipeplazart.vtf,1398208,1398208
+materials/skybox/sky_pipeplazaft.vmt,140,140
+materials/skybox/sky_pipeplazabk.vtf,1398336,1398336
+materials/skybox/sky_pipeplazabk.vmt,140,140
+materials/detail/detailsprites.vmt,155,155
+materials/detail/detailsprites.vtf,1398336,1398336
+models/korori/bobomb/bobomb.mdl,1464,1464
+models/korori/bobomb/bobomb.vvd,58944,58944
+models/korori/bobomb/bobomb.dx90.vtx,14877,14877
+models/korori/bobomb/bobomb.dx80.vtx,14877,14877
+models/korori/bobomb/bobomb.sw.vtx,14869,14869
+materials/models/korori/bobomb/bobombuv.vmt,117,117
+materials/models/korori/bobomb/bobombuv.vtf,1398336,1398336
+models/korori/pirate_hat/pirate_hat.mdl,1496,1496
+models/korori/pirate_hat/pirate_hat.vvd,10112,10112
+models/korori/pirate_hat/pirate_hat.dx90.vtx,2448,2448
+models/korori/pirate_hat/pirate_hat.dx80.vtx,2448,2448
+models/korori/pirate_hat/pirate_hat.sw.vtx,2440,2440
+materials/models/korori/pirate_hat/pirate_hat.vmt,123,123
+materials/models/korori/pirate_hat/pirate_hat.vtf,174984,174984
+models/mariohat/mariohat.mdl,1460,1460
+models/mariohat/mariohat.vvd,105344,105344
+models/mariohat/mariohat.dx90.vtx,31290,31290
+models/mariohat/mariohat.dx80.vtx,31290,31290
+models/mariohat/mariohat.sw.vtx,31290,31290
+models/mariohat/mariohat.phy,26703,26703
+materials/models/mariohat/mariohat.vmt,103,103
+materials/models/mariohat/mariohat.vtf,174984,174984
+models/korori/mario_mushroom/mario_mushroom.mdl,1496,1496
+models/korori/mario_mushroom/mario_mushroom.vvd,57728,57728
+models/korori/mario_mushroom/mario_mushroom.dx90.vtx,18618,18618
+models/korori/mario_mushroom/mario_mushroom.dx80.vtx,18618,18618
+models/korori/mario_mushroom/mario_mushroom.sw.vtx,18610,18610
+materials/models/korori/mario_mushroom/mushd.vmt,122,122
+materials/models/korori/mario_mushroom/mushd.vtf,1398264,1398264
+sound/Mariosounds/Pole_race_song.mp3,1184746,1184746
+sound/Charli_sound/Coin.wav,36710,36710
+sound/Charli_sound/Fireball.wav,3746,3746
+sound/Charli_sound/Defeat Bowser.wav,267972,267972
+sound/vehicles/v8/v8_firstgear_rev_loop1.wav,654708,654708
+models/Charli_Propper/mario_car_7.mdl,5440,5440
+models/Charli_Propper/mario_car_7.vvd,90752,90752
+models/Charli_Propper/mario_car_7.dx90.vtx,18672,18672
+models/Charli_Propper/mario_car_7.dx80.vtx,18672,18672
+models/Charli_Propper/mario_car_7.sw.vtx,18672,18672
+models/Charli_Propper/mario_car_7.phy,27662,27662
+materials/models/Charli_Propper/mario_car_7/colorred.vmt,95,95
+materials/ICECREAMLOCK/colorred.vtf,392,392
+materials/models/Charli_Propper/mario_car_7/train_metalceiling_02.vmt,106,106
+materials/models/Charli_Propper/mario_car_7/rubbertrainfloor001a.vmt,308,308
+materials/models/Charli_Propper/mario_car_7/hazzardred001a.vmt,158,158
+materials/models/Charli_Propper/mario_car_7/mario_finnish_line_1.vmt,95,95
+materials/models/Charli_Propper/mario_car_7/dev_interiorlight02b.vmt,138,138
+materials/models/Charli_Propper/mario_car_7/metalvent005a.vmt,172,172
+materials/models/Charli_Propper/mario_car_7/mario_wheel_1.vmt,88,88
+materials/CharliTexture/mario_wheel_1.vtf,22080,22080
+materials/models/Charli_Propper/mario_car_7/mario_steer_1.vmt,90,90
+materials/CharliTexture/mario_steer_1.vtf,87616,87616
+materials/models/Charli_Propper/mario_car_7/elevatorbutton003b.vmt,196,196
+materials/models/Charli_Propper/mario_car_7/mario_color_l_1.vmt,90,90
+materials/CharliTexture/mario_color_l_1.vtf,22080,22080
+materials/models/Charli_Propper/mario_car_7/mario_color_w_1.vmt,90,90
+materials/CharliTexture/mario_color_w_1.vtf,22080,22080
+materials/models/Charli_Propper/mario_car_7/white.vmt,57,57
+materials/models/Charli_Propper/mario_car_7/shroomsolid.vmt,92,92
+materials/THW_Mario/ShroomSolid.vtf,576,576
+materials/models/Charli_Propper/mario_car_7/mario_k_1.vmt,84,84
+materials/CharliTexture/mario_k_1.vtf,11144,11144
+materials/models/Charli_Propper/mario_car_7/plaster_wall3d.vmt,128,128
+materials/cncr04s/plaster/plaster_wall3d.vtf,43896,43896
+materials/models/Charli_Propper/mario_car_7/black.vmt,60,60
+materials/models/Charli_Propper/mario_car_7/colorldblue.vmt,98,98
+materials/ICECREAMLOCK/colorldblue.vtf,392,392
+materials/models/Charli_Propper/mario_car_7/metal2.vmt,163,163
+materials/RealWorldTextures/de_artcenter/Metal2.vtf,174984,174984
+materials/models/Charli_Propper/mario_car_7/c3a2b_reac.vmt,130,130
+sound/Charli_sound/i m warior.wav,481264,481264
+models/Charli_Propper/mario_car_6.mdl,5732,5732
+models/Charli_Propper/mario_car_6.vvd,91520,91520
+models/Charli_Propper/mario_car_6.dx90.vtx,18927,18927
+models/Charli_Propper/mario_car_6.dx80.vtx,18927,18927
+models/Charli_Propper/mario_car_6.sw.vtx,18927,18927
+models/Charli_Propper/mario_car_6.phy,28598,28598
+materials/models/Charli_Propper/mario_car_6/mario_color_l_1.vmt,90,90
+materials/models/Charli_Propper/mario_car_6/train_metalceiling_02.vmt,106,106
+materials/models/Charli_Propper/mario_car_6/rubbertrainfloor001a.vmt,308,308
+materials/models/Charli_Propper/mario_car_6/hazzardred001a.vmt,158,158
+materials/models/Charli_Propper/mario_car_6/mario_finnish_line_1.vmt,95,95
+materials/models/Charli_Propper/mario_car_6/dev_interiorlight02b.vmt,138,138
+materials/models/Charli_Propper/mario_car_6/metalvent005a.vmt,172,172
+materials/models/Charli_Propper/mario_car_6/mario_wheel_1.vmt,88,88
+materials/models/Charli_Propper/mario_car_6/mario_steer_1.vmt,90,90
+materials/models/Charli_Propper/mario_car_6/elevatorbutton003b.vmt,196,196
+materials/models/Charli_Propper/mario_car_6/mario_color_w_2.vmt,90,90
+materials/CharliTexture/mario_color_w_2.vtf,22080,22080
+materials/models/Charli_Propper/mario_car_6/plaster_wall3d.vmt,128,128
+materials/models/Charli_Propper/mario_car_6/mario_color_w_1.vmt,90,90
+materials/models/Charli_Propper/mario_car_6/concrete050.vmt,106,106
+materials/photorealistic_concrete/concrete050.vtf,349744,349744
+materials/models/Charli_Propper/mario_car_6/white.vmt,57,57
+materials/models/Charli_Propper/mario_car_6/shroomsolid.vmt,92,92
+materials/models/Charli_Propper/mario_car_6/mario_w_1.vmt,84,84
+materials/CharliTexture/mario_w_1.vtf,22080,22080
+materials/models/Charli_Propper/mario_car_6/black.vmt,60,60
+materials/models/Charli_Propper/mario_car_6/colorldblue.vmt,98,98
+materials/models/Charli_Propper/mario_car_6/colorred.vmt,95,95
+materials/models/Charli_Propper/mario_car_6/metal2.vmt,163,163
+materials/models/Charli_Propper/mario_car_6/c3a2b_reac.vmt,130,130
+sound/Charli_sound/moveout.wav,244888,244888
+models/Charli_Propper/mario_car_4.mdl,4936,4936
+models/Charli_Propper/mario_car_4.vvd,103424,103424
+models/Charli_Propper/mario_car_4.dx90.vtx,21042,21042
+models/Charli_Propper/mario_car_4.dx80.vtx,21042,21042
+models/Charli_Propper/mario_car_4.sw.vtx,21042,21042
+models/Charli_Propper/mario_car_4.phy,32534,32534
+materials/models/Charli_Propper/mario_car_4/mario_color_l_1.vmt,90,90
+materials/models/Charli_Propper/mario_car_4/train_metalceiling_02.vmt,106,106
+materials/models/Charli_Propper/mario_car_4/rubbertrainfloor001a.vmt,308,308
+materials/models/Charli_Propper/mario_car_4/metalpanel016a.vmt,131,131
+materials/models/Charli_Propper/mario_car_4/white.vmt,85,85
+materials/military/white.vtf,174984,174984
+materials/models/Charli_Propper/mario_car_4/mario_finnish_line_1.vmt,95,95
+materials/models/Charli_Propper/mario_car_4/elevatorbutton003b.vmt,196,196
+materials/models/Charli_Propper/mario_car_4/mario_wheel_1.vmt,88,88
+materials/models/Charli_Propper/mario_car_4/mario_steer_1.vmt,90,90
+materials/models/Charli_Propper/mario_car_4/colorldblue.vmt,98,98
+materials/models/Charli_Propper/mario_car_4/plaster_wall3d.vmt,128,128
+materials/models/Charli_Propper/mario_car_4/colorred.vmt,95,95
+materials/models/Charli_Propper/mario_car_4/shroomsolid.vmt,92,92
+materials/models/Charli_Propper/mario_car_4/mario_m_1.vmt,84,84
+materials/CharliTexture/mario_m_1.vtf,22080,22080
+materials/models/Charli_Propper/mario_car_4/black.vmt,60,60
+materials/models/Charli_Propper/mario_car_4/metal2.vmt,163,163
+materials/models/Charli_Propper/mario_car_4/c3a2b_reac.vmt,130,130
+sound/Charli_sound/mama mia.wav,155276,155276
+sound/Charli_sound/i m luigi.wav,473620,473620
+models/Charli_Propper/mario_car_5.mdl,4936,4936
+models/Charli_Propper/mario_car_5.vvd,103296,103296
+models/Charli_Propper/mario_car_5.dx90.vtx,21024,21024
+models/Charli_Propper/mario_car_5.dx80.vtx,21024,21024
+models/Charli_Propper/mario_car_5.sw.vtx,21024,21024
+models/Charli_Propper/mario_car_5.phy,32534,32534
+materials/models/Charli_Propper/mario_car_5/metal2.vmt,163,163
+materials/models/Charli_Propper/mario_car_5/train_metalceiling_02.vmt,106,106
+materials/models/Charli_Propper/mario_car_5/rubbertrainfloor001a.vmt,308,308
+materials/models/Charli_Propper/mario_car_5/metalpanel016a.vmt,131,131
+materials/models/Charli_Propper/mario_car_5/white.vmt,85,85
+materials/models/Charli_Propper/mario_car_5/mario_finnish_line_1.vmt,95,95
+materials/models/Charli_Propper/mario_car_5/elevatorbutton003b.vmt,196,196
+materials/models/Charli_Propper/mario_car_5/mario_wheel_1.vmt,88,88
+materials/models/Charli_Propper/mario_car_5/mario_steer_1.vmt,90,90
+materials/models/Charli_Propper/mario_car_5/colorldblue.vmt,98,98
+materials/models/Charli_Propper/mario_car_5/plaster_wall3d.vmt,128,128
+materials/models/Charli_Propper/mario_car_5/mario_color_l_1.vmt,90,90
+materials/models/Charli_Propper/mario_car_5/shroomsolid.vmt,92,92
+materials/models/Charli_Propper/mario_car_5/mario_l_1.vmt,84,84
+materials/CharliTexture/mario_l_1.vtf,22080,22080
+materials/models/Charli_Propper/mario_car_5/black.vmt,60,60
+materials/models/Charli_Propper/mario_car_5/colorred.vmt,95,95
+materials/models/Charli_Propper/mario_car_5/c3a2b_reac.vmt,130,130
+sound/Mariosounds/coin_block.wav,38632,38632
+sound/Mariosounds/lobby/lobby1.mp3,1367412,1367412
+sound/Mariosounds/lobby/lobby2.mp3,1504919,1504919
+sound/Mariosounds/lobby/lobby3.mp3,911837,911837
+sound/Mariosounds/lobby/lobby4.mp3,2010232,2010232
+sound/Mariosounds/ChooseConfirmed.WAV,172394,172394
+sound/Mariosounds/platform_peril_song.mp3,1356945,1356945
+models/props/mario/spike_yellow.mdl,1728,1728
+models/props/mario/spike_yellow.vvd,1664,1664
+models/props/mario/spike_yellow.dx90.vtx,420,420
+models/props/mario/spike_yellow.dx80.vtx,420,420
+models/props/mario/spike_yellow.sw.vtx,420,420
+models/props/mario/spike_yellow.phy,760,760
+materials/models/props/mario/mario_rock_ground.vmt,100,100
+models/props/mario/spike_green.mdl,1728,1728
+models/props/mario/spike_green.vvd,1856,1856
+models/props/mario/spike_green.dx90.vtx,465,465
+models/props/mario/spike_green.dx80.vtx,465,465
+models/props/mario/spike_green.sw.vtx,465,465
+models/props/mario/spike_green.phy,759,759
+materials/models/props/mario/mario_grass_hd.vmt,98,98
+models/props/mario/spike_blue.mdl,1728,1728
+models/props/mario/spike_blue.vvd,2048,2048
+models/props/mario/spike_blue.dx90.vtx,510,510
+models/props/mario/spike_blue.dx80.vtx,510,510
+models/props/mario/spike_blue.sw.vtx,510,510
+models/props/mario/spike_blue.phy,758,758
+materials/models/props/mario/blue_tile_mario.vmt,98,98
+materials/ba_mario_map/blue_tile_mario.vtf,43912,43912
+models/props/mario/spike_cluster.mdl,1924,1924
+models/props/mario/spike_cluster.vvd,4672,4672
+models/props/mario/spike_cluster.dx90.vtx,1002,1002
+models/props/mario/spike_cluster.dx80.vtx,1002,1002
+models/props/mario/spike_cluster.sw.vtx,1002,1002
+models/props/mario/spike_cluster.phy,2145,2145
+models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.mdl,1892,1892
+models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.vvd,53568,53568
+models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.dx90.vtx,16950,16950
+models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.dx80.vtx,16950,16950
+models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.sw.vtx,16934,16934
+models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.phy,23393,23393
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS03.vmt,270,270
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS03.vtf,22080,22080
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS01.vmt,270,270
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS01.vtf,11104,11104
+models/marioragdoll/Super Mario Galaxy/goomba/bgoomba.mdl,3164,3164
+models/marioragdoll/Super Mario Galaxy/goomba/bgoomba.vvd,114560,114560
+models/marioragdoll/Super Mario Galaxy/goomba/bgoomba.dx90.vtx,32907,32907
+models/marioragdoll/Super Mario Galaxy/goomba/bgoomba.dx80.vtx,32907,32907
+models/marioragdoll/Super Mario Galaxy/goomba/bgoomba.sw.vtx,32867,32867
+models/marioragdoll/Super Mario Galaxy/goomba/bgoomba.phy,32998,32998
+materials/models/marioragdoll/Super Mario Galaxy/Goomba/gianSS00.vmt,132,132
+materials/models/marioragdoll/Super Mario Galaxy/Goomba/gianSS00.vtf,22080,22080
+materials/models/marioragdoll/Super Mario Galaxy/Goomba/gianSS01.vmt,132,132
+materials/models/marioragdoll/Super Mario Galaxy/Goomba/gianSS01.vtf,11104,11104
+models/marioragdoll/Super Mario Galaxy/bj ship/bjship.mdl,2816,2816
+models/marioragdoll/Super Mario Galaxy/bj ship/bjship.vvd,297344,297344
+models/marioragdoll/Super Mario Galaxy/bj ship/bjship.dx90.vtx,73353,73353
+models/marioragdoll/Super Mario Galaxy/bj ship/bjship.dx80.vtx,73353,73353
+models/marioragdoll/Super Mario Galaxy/bj ship/bjship.sw.vtx,73289,73289
+models/marioragdoll/Super Mario Galaxy/bj ship/bjship.phy,8661,8661
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS00.vmt,100,100
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS00.vtf,43912,43912
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS07.vmt,100,100
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS07.vtf,11064,11064
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS06.vmt,100,100
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS06.vtf,11064,11064
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS05.vmt,100,100
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS05.vtf,1104,1104
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS04.vmt,100,100
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS04.vtf,43912,43912
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS03.vmt,100,100
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS03.vtf,1528,1528
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS02.vmt,100,100
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS02.vtf,1528,1528
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS01.vmt,100,100
+materials/models/marioragdoll/Super Mario Galaxy/bjship/bjshSS01.vtf,11144,11144
+sound/Mariosounds/smb_pipe.wav,35538,35538
+sound/Mariosounds/15_Battle_Canyon_converted.mp3,1655383,1655383
+models/player/slow/mario_gxy/slow.mdl,14200,14200
+models/player/slow/mario_gxy/slow.vvd,212352,212352
+models/player/slow/mario_gxy/slow.dx90.vtx,61272,61272
+models/player/slow/mario_gxy/slow.dx80.vtx,61421,61421
+models/player/slow/mario_gxy/slow.sw.vtx,60952,60952
+models/player/slow/mario_gxy/slow.phy,17338,17338
+models/player/cs_player_shared.mdl,2065544,2065544
+materials/models/player/slow/mario_gxy/slow_body.vmt,181,181
+materials/models/player/slow/mario_gxy/slow_body.vtf,43912,43912
+materials/models/player/slow/luigi_gxy/slow_body.vmt,181,181
+materials/models/player/slow/luigi_gxy/slow_body.vtf,22008,22008
+materials/models/player/slow/mario_gxy/slow_shoe.vmt,181,181
+materials/models/player/slow/mario_gxy/slow_shoe.vtf,2952,2952
+materials/models/player/slow/mario_gxy/slow_face.vmt,181,181
+materials/models/player/slow/mario_gxy/slow_face.vtf,131152,131152
+materials/models/player/slow/luigi_gxy/slow_face.vmt,181,181
+materials/models/player/slow/luigi_gxy/slow_face.vtf,11144,11144
+materials/models/player/slow/mario_gxy/slow_hand.vmt,181,181
+materials/models/player/slow/mario_gxy/slow_hand.vtf,5624,5624
+materials/models/player/slow/luigi_gxy/slow_hand.vmt,181,181
+materials/models/player/slow/luigi_gxy/slow_hand.vtf,5624,5624
+materials/models/player/slow/mario_gxy/slow_fake_logo.vmt,75,75
+materials/models/player/slow/luigi_gxy/slow_fake_logo.vmt,75,75
+materials/models/player/slow/mario_gxy/slow_cap.vmt,180,180
+materials/models/player/slow/mario_gxy/slow_cap.vtf,5624,5624
+materials/models/player/slow/luigi_gxy/slow_cap.vmt,180,180
+materials/models/player/slow/luigi_gxy/slow_cap.vtf,5624,5624
+materials/models/player/slow/mario_gxy/slow_hair.vmt,181,181
+materials/models/player/slow/mario_gxy/slow_hair.vtf,2952,2952
+materials/models/player/slow/luigi_gxy/slow_hair.vmt,181,181
+materials/models/player/slow/luigi_gxy/slow_hair.vtf,2952,2952
+models/props/mario/a_flag.mdl,2280,2280
+models/props/mario/a_flag.vvd,4160,4160
+models/props/mario/a_flag.dx90.vtx,1128,1128
+models/props/mario/a_flag.dx80.vtx,1128,1128
+models/props/mario/a_flag.sw.vtx,1128,1128
+materials/models/props/mario/a.vmt,74,74
+materials/letters/A.vtf,5696,5696
+materials/models/props/mario/brown8.vmt,61,61
+materials/ryan_dev/brown8.vtf,11144,11144
+materials/models/props/mario/green.vmt,106,106
+materials/models/props/mario/black.vmt,60,60
+models/props/mario/b_flag.mdl,2280,2280
+models/props/mario/b_flag.vvd,4160,4160
+models/props/mario/b_flag.dx90.vtx,1128,1128
+models/props/mario/b_flag.dx80.vtx,1128,1128
+models/props/mario/b_flag.sw.vtx,1128,1128
+materials/models/props/mario/b.vmt,74,74
+materials/letters/B.vtf,5696,5696
+materials/models/props/mario/red.vmt,104,104
+models/props/mario/a_flag_blank.mdl,2100,2100
+models/props/mario/a_flag_blank.vvd,3904,3904
+models/props/mario/a_flag_blank.dx90.vtx,1011,1011
+models/props/mario/a_flag_blank.dx80.vtx,1011,1011
+models/props/mario/a_flag_blank.sw.vtx,1011,1011
+models/props/mario/b_flag_blank.mdl,2096,2096
+models/props/mario/b_flag_blank.vvd,3904,3904
+models/props/mario/b_flag_blank.dx90.vtx,1011,1011
+models/props/mario/b_flag_blank.dx80.vtx,1011,1011
+models/props/mario/b_flag_blank.sw.vtx,1011,1011
+models/props/mario/thwomp.mdl,1924,1924
+models/props/mario/thwomp.vvd,6208,6208
+models/props/mario/thwomp.dx90.vtx,1446,1446
+models/props/mario/thwomp.dx80.vtx,1446,1446
+models/props/mario/thwomp.sw.vtx,1446,1446
+models/props/mario/thwomp.phy,3361,3361
+materials/models/props/mario/thwomp_face.vmt,114,114
+materials/models/props/mario/thwomp_texture_hd.vmt,120,120
+models/props/egypt/roller.mdl,1724,1724
+models/props/egypt/roller.vvd,6208,6208
+models/props/egypt/roller.dx90.vtx,1365,1365
+models/props/egypt/roller.dx80.vtx,1365,1365
+models/props/egypt/roller.sw.vtx,1365,1365
+models/props/egypt/roller.phy,1868,1868
+materials/models/props/egypt/roof (1).vmt,69,69
+materials/Silkroad/Egypt/roof (1).vtf,87616,87616
+sound/Mariosounds/30_Dodging_Danger_converted.mp3,779342,779342
+sound/Mariosounds/25_Let_s_Go_Lightly_converted.mp3,1493236,1493236
+sound/Mariosounds/vine_effect.wav,55342,55342
+models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzaibill.mdl,2120,2120
+models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzaibill.vvd,77696,77696
+models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzaibill.dx90.vtx,22572,22572
+models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzaibill.dx80.vtx,22572,22572
+models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzaibill.sw.vtx,22548,22548
+models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzaibill.phy,28681,28681
+materials/models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS00.vmt,253,253
+materials/models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS00.vtf,22080,22080
+materials/models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS02.vmt,253,253
+materials/models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS02.vtf,5696,5696
+materials/models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS01.vmt,253,253
+materials/models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS01.vtf,22080,22080
+sound/Mariosounds/coin_game_song.mp3,880927,880927
+sound/Mariosounds/mario_says_song.mp3,2511724,2511724
+sound/Mariosounds/Super_Mario_Bros_converted.mp3,33062,33062
+models/marioragdoll/Super Mario Galaxy/luigi/luigi.mdl,6772,6772
+models/marioragdoll/Super Mario Galaxy/luigi/luigi.vvd,226496,226496
+models/marioragdoll/Super Mario Galaxy/luigi/luigi.dx90.vtx,66621,66621
+models/marioragdoll/Super Mario Galaxy/luigi/luigi.dx80.vtx,66621,66621
+models/marioragdoll/Super Mario Galaxy/luigi/luigi.sw.vtx,66445,66445
+models/marioragdoll/Super Mario Galaxy/luigi/luigi.phy,14518,14518
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiBody.vmt,619,619
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiBody.vtf,22008,22008
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiNoizu.vtf,4176,4176
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiFace.vmt,644,644
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiFace.vtf,11144,11144
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiFace_normal.vtf,22080,22080
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiHand.vmt,631,631
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiHand.vtf,5624,5624
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiHand_normal.vtf,5624,5624
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiCap.vmt,644,644
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiCap.vtf,5624,5624
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiCap_normal.vtf,5624,5624
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiHair.vmt,645,645
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiHair.vtf,2952,2952
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiHair_normal.vtf,2952,2952
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigi_eyelid.vmt,621,621
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigi_eyelid.vtf,4176,4176
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigi_eyelid_normal.vtf,4176,4176
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiEyeBall.vmt,622,622
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiEyeBall.vtf,16464,16464
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiEyeBall_normal.vtf,16464,16464
+sound/Mariosounds/hg_music.mp3,1169608,1169608
+sound/Mariosounds/mario_kart_circuit.mp3,4155527,4155527
+sound/Charli_sound/mk64_welcome.wav,222310,222310
+sound/Charli_sound/c4_explode1.wav,1547672,1547672
+models/Charli_Propper/mario_bomb_1.mdl,2100,2100
+models/Charli_Propper/mario_bomb_1.vvd,22336,22336
+models/Charli_Propper/mario_bomb_1.dx90.vtx,4662,4662
+models/Charli_Propper/mario_bomb_1.dx80.vtx,4662,4662
+models/Charli_Propper/mario_bomb_1.sw.vtx,4662,4662
+models/Charli_Propper/mario_bomb_1.phy,4607,4607
+materials/models/Charli_Propper/mario_bomb_1/toolsblack.vmt,62,62
+materials/models/Charli_Propper/mario_bomb_1/bulletface.vmt,91,91
+materials/THW_Mario/bulletFace.vtf,5696,5696
+models/props/mario/mario_pipe_up.mdl,2116,2116
+models/props/mario/mario_pipe_up.vvd,41280,41280
+models/props/mario/mario_pipe_up.dx90.vtx,8271,8271
+models/props/mario/mario_pipe_up.dx80.vtx,8271,8271
+models/props/mario/mario_pipe_up.sw.vtx,8271,8271
+models/props/mario/mario_pipe_up.phy,14744,14744
+materials/models/props/mario_pipe_up/dark_green2.vmt,66,66
+materials/models/props/mario_pipe_up/dark_green3.vmt,66,66
+materials/models/props/mario_pipe_up/black.vmt,60,60
+models/props/mario/mp_des_spikes.mdl,1720,1720
+models/props/mario/mp_des_spikes.vvd,18496,18496
+models/props/mario/mp_des_spikes.dx90.vtx,3309,3309
+models/props/mario/mp_des_spikes.dx80.vtx,3309,3309
+models/props/mario/mp_des_spikes.sw.vtx,3309,3309
+models/props/mario/mp_des_spikes.phy,6997,6997
+materials/models/props/mario/roof.vmt,65,65
+materials/Silkroad/Egypt/roof.vtf,22080,22080
+materials/ROCK_TEX_HK.vmt,71,71
+materials/BANNER.vmt,54,54
+materials/charlitexture/whatblock_sprite_1.vmt,139,139
+materials/CharliTexture/WhatBlock_sprite_1.vtf,16672,16672
+materials/charlitexture/shell_sprite_1.vmt,137,137
+materials/CharliTexture/shell_sprite_1.vtf,22080,22080
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS05.vtf,1600,1600
+materials/sprites/bluelaser1.vmt,187,187
+materials/sprites/bluelaser1.vtf,1512,1512
+materials/models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS03.vtf,11144,11144
+materials/sprites/zerogxplode.vmt,126,126
+materials/sprites/zerogxplode.vtf,41352,41352

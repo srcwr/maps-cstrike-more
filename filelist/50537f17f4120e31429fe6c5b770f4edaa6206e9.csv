@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/mg_iwishiwastomgreen/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/mg_iwishiwastomgreen/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/mg_iwishiwastomgreen/cubemapdefault.vtf,9832,9832
+materials/maps/mg_iwishiwastomgreen/cubemapdefault.hdr.vtf,76528,76528
+materials/models/Guadalupemodels/Guadalupe3/dev_measuregeneric01.vmt,138,138
+materials/models/Guadalupemodels/Guadalupe2/dev_measuregeneric01.vmt,138,138
+materials/models/Guadalupemodels/Guadalupe/dev_measuregeneric01.vmt,138,138
+sound/Guadalupe/mmm.mp3,2759398,2759398
+sound/Guadalupe/So Kawaii.mp3,3135843,3135843
+sound/Guadalupe/Twilight ch1.mp3,6665227,6665227
+models/Guadalupemodels/Guadalupe.dx80.vtx,9297,9297
+models/Guadalupemodels/Guadalupe.dx90.vtx,9297,9297
+models/Guadalupemodels/guadalupe.mdl,1752,1752
+models/Guadalupemodels/Guadalupe.sw.vtx,9297,9297
+models/Guadalupemodels/guadalupe.vvd,48448,48448
+models/Guadalupemodels/Guadalupe2.dx80.vtx,9297,9297
+models/Guadalupemodels/Guadalupe2.dx90.vtx,9297,9297
+models/Guadalupemodels/guadalupe2.mdl,1752,1752
+models/Guadalupemodels/Guadalupe2.sw.vtx,9297,9297
+models/Guadalupemodels/guadalupe2.vvd,48448,48448
+models/Guadalupemodels/Guadalupe3.dx80.vtx,9297,9297
+models/Guadalupemodels/Guadalupe3.dx90.vtx,9297,9297
+models/Guadalupemodels/guadalupe3.mdl,1752,1752
+models/Guadalupemodels/Guadalupe3.sw.vtx,9297,9297
+models/Guadalupemodels/guadalupe3.vvd,48448,48448

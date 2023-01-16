@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/ka11/metal/citadel_metalwall072c_-544_-512_32.vmt,132,132
+materials/maps/ka11/metal/citadel_metalwall072c_-544_-512_-120.vmt,134,134
+materials/maps/ka11/props/metalduct001a_-544_-512_32.vmt,124,124
+materials/maps/ka11/props/metalduct001a_-544_-512_-120.vmt,126,126
+materials/maps/ka11/cubemapdefault.vtf,9824,9824
+materials/maps/ka11/c-544_-512_32.vtf,9824,9824
+materials/maps/ka11/c-544_-512_-120.vtf,9824,9824
+materials/maps/ka11/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/ka11/c-544_-512_32.hdr.vtf,76520,76520
+materials/maps/ka11/c-544_-512_-120.hdr.vtf,76520,76520

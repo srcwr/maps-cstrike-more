@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/surf_flubba_v6a/tile/tilefloor013a_0_0_0.vmt,127,127
+materials/maps/surf_flubba_v6a/tile/tilefloor011a_0_0_0.vmt,127,127
+materials/maps/surf_flubba_v6a/de_piranesi/marblefloor08_0_0_0.vmt,134,134
+materials/maps/surf_flubba_v6a/concrete/concretefloor005a_0_0_0.vmt,135,135
+materials/maps/surf_flubba_v6a/glass/glasswindow070c_0_0_0.vmt,130,130
+materials/maps/surf_flubba_v6a/dev/dev_water2_depth_1.vmt,100,100
+materials/maps/surf_flubba_v6a/dev/dev_water3_depth_4.vmt,100,100
+materials/maps/surf_flubba_v6a/dev/dev_water2_depth_4.vmt,100,100
+materials/maps/surf_flubba_v6a/dev/dev_water3_depth_6.vmt,100,100
+materials/maps/surf_flubba_v6a/dev/dev_water2_depth_10.vmt,101,101
+materials/maps/surf_flubba_v6a/dev/dev_water4_depth_2.vmt,100,100
+materials/maps/surf_flubba_v6a/dev/dev_water2_depth_8.vmt,100,100
+materials/maps/surf_flubba_v6a/cubemapdefault.vtf,9808,9808
+materials/maps/surf_flubba_v6a/c0_0_0.vtf,9808,9808

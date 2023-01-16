@@ -1,0 +1,67 @@
+filename,size,compressed
+materials/maps/jb_piranesi_beta02/de_piranesi/pi_ground_blend_wvt_patch.vmt,120,120
+materials/maps/jb_piranesi_beta02/de_piranesi/castle01_0_0_0.vmt,132,132
+materials/maps/jb_piranesi_beta02/de_piranesi/walltrim01_0_0_0.vmt,134,134
+materials/maps/jb_piranesi_beta02/de_piranesi/castle02c_0_0_0.vmt,133,133
+materials/maps/jb_piranesi_beta02/de_piranesi/castle01a_0_0_0.vmt,133,133
+materials/maps/jb_piranesi_beta02/de_piranesi/pi_cobbles1_0_0_0.vmt,135,135
+materials/maps/jb_piranesi_beta02/de_piranesi/castle02_0_0_0.vmt,132,132
+materials/maps/jb_piranesi_beta02/de_piranesi/castle02b_0_0_0.vmt,133,133
+materials/maps/jb_piranesi_beta02/de_piranesi/stairmarble01_0_0_0.vmt,137,137
+materials/maps/jb_piranesi_beta02/de_piranesi/wooddoor01_0_0_0.vmt,134,134
+materials/maps/jb_piranesi_beta02/de_piranesi/marblefloor06_0_0_0.vmt,137,137
+materials/maps/jb_piranesi_beta02/liquids/water_pretty1_0_0_0.vmt,156,156
+materials/maps/jb_piranesi_beta02/environment maps/pipemetal001a_0_0_0.vmt,142,142
+materials/maps/jb_piranesi_beta02/de_piranesi/marblefloor01_0_0_0.vmt,137,137
+materials/maps/jb_piranesi_beta02/abyss/black_0_0_0.vmt,123,123
+materials/maps/jb_piranesi_beta02/de_piranesi/castle01d_0_0_0.vmt,133,133
+materials/maps/jb_piranesi_beta02/de_piranesi/castle01e_0_0_0.vmt,133,133
+materials/maps/jb_piranesi_beta02/de_piranesi/castle02d_0_0_0.vmt,133,133
+materials/maps/jb_piranesi_beta02/liquids/water_pretty1_depth_12.vmt,108,108
+materials/maps/jb_piranesi_beta02/liquids/water_pretty1_depth_107.vmt,109,109
+materials/maps/jb_piranesi_beta02/liquids/water_pretty1_depth_140.vmt,109,109
+materials/maps/jb_piranesi_beta02/liquids/water_pretty1_depth_6.vmt,107,107
+materials/maps/jb_piranesi_beta02/liquids/water_pretty1_depth_16.vmt,108,108
+materials/maps/jb_piranesi_beta02/cubemapdefault.vtf,9832,9832
+materials/maps/jb_piranesi_beta02/c0_0_0.vtf,9832,9832
+materials/maps/jb_piranesi_beta02/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jb_piranesi_beta02/c0_0_0.hdr.vtf,76528,76528
+materials/abyss/Black.vmt,229,229
+materials/abyss/Black.vtf,699272,699272
+materials/abyss/Blue.vmt,228,228
+materials/abyss/Blue.vtf,699272,699272
+materials/abyss/Green.vmt,229,229
+materials/abyss/Green.vtf,699272,699272
+materials/abyss/Orange.vmt,230,230
+materials/abyss/Orange.vtf,699272,699272
+materials/abyss/Pink.vmt,228,228
+materials/abyss/Pink.vtf,699272,699272
+materials/abyss/Purple.vmt,230,230
+materials/abyss/Purple.vtf,699272,699272
+materials/abyss/Red.vmt,227,227
+materials/abyss/Red.vtf,699272,699272
+materials/abyss/White.vmt,229,229
+materials/abyss/White.vtf,699272,699272
+materials/abyss/Yellow.vmt,230,230
+materials/abyss/Yellow.vtf,699272,699272
+materials/hell_clan_logos/hell_clan_logo_2014.vmt,102,102
+materials/hell_clan_logos/hell_clan_logo_2014.vtf,349696,349696
+materials/Piranesi_Titles/allin.vmt,88,88
+materials/Piranesi_Titles/allin.vtf,1398336,1398336
+sound/Piranesi_Songs/Alan Walker - Faded.mp3,3401507,3401507
+sound/Piranesi_Songs/Dawin - Dessert (Audio).mp3,3391476,3391476
+sound/Piranesi_Songs/KDrew - Circles (Original Mix).mp3,4245369,4245369
+sound/Piranesi_Songs/Lily Allen - Fuck You.mp3,3471731,3471731
+sound/Piranesi_Songs/Running in the 90's.mp3,4581826,4581826
+sound/Piranesi_Songs/twenty one pilots_ Doubt (Audio).mp3,3066304,3066304
+materials/Piranesi_Titles/WazBlaz Map Watermark.vmt,104,104
+materials/Piranesi_Titles/WazBlaz Map Watermark.vtf,87616,87616
+materials/models/player/slow/madcow_v2/mad cow.vmt,280,280
+materials/models/player/slow/madcow_v2/mad cow.vtf,2097360,2097360
+materials/models/player/slow/madcow_v2/slow_bump.vtf,131280,131280
+models/player/slow/madcow_v2/madcow.dx80.vtx,50279,50279
+models/player/slow/madcow_v2/madcow.dx90.vtx,50068,50068
+models/player/slow/madcow_v2/madcow.mdl,12032,12032
+models/player/slow/madcow_v2/madcow.phy,17332,17332
+models/player/slow/madcow_v2/madcow.sw.vtx,49900,49900
+models/player/slow/madcow_v2/madcow.vvd,206592,206592

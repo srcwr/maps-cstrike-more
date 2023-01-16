@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/de_tanker/liquids/water_pretty1_-2_-257_264.vmt,153,153
+materials/maps/de_tanker/glass/glasswindowbreak070b_-480_261_522.vmt,114,114
+materials/maps/de_tanker/glass/offwndwb_-480_261_522.vmt,202,202
+materials/maps/de_tanker/glass/glasswindowbreak070b_480_260_520.vmt,114,114
+materials/maps/de_tanker/glass/offwndwb_480_260_520.vmt,200,200
+materials/maps/de_tanker/glass/glasswindowbreak070b_-2_-257_264.vmt,114,114
+materials/maps/de_tanker/glass/offwndwb_-2_-257_264.vmt,200,200
+materials/maps/de_tanker/glass/glasswindowbreak070b_-47_390_264.vmt,114,114
+materials/maps/de_tanker/glass/offwndwb_-47_390_264.vmt,200,200
+materials/maps/de_tanker/environment maps/pipemetal001a_-124_-1766_263.vmt,142,142
+materials/maps/de_tanker/environment maps/pipemetal001a_695_-357_263.vmt,140,140
+materials/maps/de_tanker/environment maps/pipemetal001a_3_-1370_1097.vmt,140,140
+materials/maps/de_tanker/environment maps/pipemetal001a_12_-1114_1097.vmt,141,141
+materials/maps/de_tanker/environment maps/pipemetal001a_0_-1280_1671.vmt,140,140
+materials/maps/de_tanker/maps/de_tanker/liquids/water_pretty1_-2_-257_264_depth_377.vmt,136,136
+materials/maps/de_tanker/cubemapdefault.vtf,9808,9808
+materials/maps/de_tanker/c-2_-257_264.vtf,9808,9808
+materials/maps/de_tanker/c-480_261_522.vtf,9808,9808
+materials/maps/de_tanker/c480_260_520.vtf,9808,9808
+materials/maps/de_tanker/c-47_390_264.vtf,9808,9808
+materials/maps/de_tanker/c-124_-1766_263.vtf,9808,9808
+materials/maps/de_tanker/c695_-357_263.vtf,9808,9808
+materials/maps/de_tanker/c3_-1370_1097.vtf,9808,9808
+materials/maps/de_tanker/c12_-1114_1097.vtf,9808,9808
+materials/maps/de_tanker/c0_-1280_1671.vtf,9808,9808

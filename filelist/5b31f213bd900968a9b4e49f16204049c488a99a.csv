@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/bhop_p06_d/other/concrete_bts_wall001a_0_0_0.vmt,131,131
+materials/maps/bhop_p06_d/pk02/pk02_generic01b_0_0_0.vmt,124,124
+materials/maps/bhop_p06_d/pk02/pk02_wall_big01b_0_0_0.vmt,125,125
+materials/maps/bhop_p06_d/pk02/pk02_floor09a_0_0_0.vmt,122,122
+materials/maps/bhop_p06_d/concrete/c3a1_concretewall_trim001_0_0_0.vmt,138,138
+materials/maps/bhop_p06_d/concrete/crete_ceiling_silo2_c2gray_0_0_0.vmt,139,139
+materials/maps/bhop_p06_d/concrete/concrete_poured_01_0_0_0.vmt,131,131
+materials/maps/bhop_p06_d/shadertest/water_refract_only_depth_32.vmt,116,116
+materials/maps/bhop_p06_d/ocean/water_blueocean_depth_32.vmt,108,108
+materials/maps/bhop_p06_d/ocean/water_blueocean_depth_16.vmt,108,108
+materials/maps/bhop_p06_d/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_p06_d/c0_0_0.vtf,4960,4960
+materials/maps/bhop_p06_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_p06_d/c0_0_0.hdr.vtf,76528,76528

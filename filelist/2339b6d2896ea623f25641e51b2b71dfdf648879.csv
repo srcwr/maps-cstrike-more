@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/de_dust2_imitation_v5/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/de_dust2_imitation_v5/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/de_dust2_imitation_v5/de_dust/tilefloor02_176_1088_161.vmt,141,141
+materials/maps/de_dust2_imitation_v5/de_chateau/interiortile02_176_1088_161.vmt,147,147
+materials/maps/de_dust2_imitation_v5/glass/glasswindowbreak070b_176_1088_161.vmt,114,114
+materials/maps/de_dust2_imitation_v5/glass/offwndwb_176_1088_161.vmt,226,226
+materials/maps/de_dust2_imitation_v5/plaster/milwndw001_176_1088_161.vmt,140,140
+materials/maps/de_dust2_imitation_v5/cubemapdefault.vtf,9832,9832
+materials/maps/de_dust2_imitation_v5/c176_1088_161.vtf,9832,9832
+materials/maps/de_dust2_imitation_v5/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_dust2_imitation_v5/c176_1088_161.hdr.vtf,76528,76528
+resource/overviews/de_dust2_imitation_v5.txt,601,601
+materials/overviews/de_dust2_imitation_v5.vmt,151,151
+materials/overviews/de_dust2_imitation_v5.vtf,1398336,1398336

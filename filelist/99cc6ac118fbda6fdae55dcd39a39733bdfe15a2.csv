@@ -1,0 +1,189 @@
+filename,size,compressed
+materials/maps/surf_spaceship_ksf/de_nuke/nukblenddirtgrass_wvt_patch.vmt,303,303
+materials/maps/surf_spaceship_ksf/metal/citadel_metalwall072b_0_0_0.vmt,139,139
+materials/maps/surf_spaceship_ksf/metal/citadel_metalwall072c_0_0_0.vmt,139,139
+materials/maps/surf_spaceship_ksf/sci-fi/trim/hose03b_0_0_0.vmt,131,131
+materials/maps/surf_spaceship_ksf/tile/tilefloor016a_0_0_0.vmt,130,130
+materials/maps/surf_spaceship_ksf/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/surf_spaceship_ksf/glass/offwndwb_0_0_0.vmt,206,206
+materials/maps/surf_spaceship_ksf/vbd/pack 2 remnont/remn_pillar_d_0_0_0.vmt,144,144
+materials/maps/surf_spaceship_ksf/vbd/pack 2 remnont/remn_metal_p1a_0_0_0.vmt,145,145
+materials/maps/surf_spaceship_ksf/glass/glasswindow007a_0_0_0.vmt,133,133
+materials/maps/surf_spaceship_ksf/vbd/pack 2 remnont/remn_metal_p15_f_base_0_0_0.vmt,152,152
+materials/maps/surf_spaceship_ksf/metal/metalwall048a_0_0_0.vmt,131,131
+materials/maps/surf_spaceship_ksf/glass/combineglass001a_0_0_0.vmt,134,134
+materials/maps/surf_spaceship_ksf/phx/phoenix_storms/futuristictrackramp_1-2_0_0_0.vmt,154,154
+materials/maps/surf_spaceship_ksf/sci-fi/metal/ceiling01c_illum_0_0_0.vmt,141,141
+materials/maps/surf_spaceship_ksf/phx/phoenix_storms/future_vents_0_0_0.vmt,143,143
+materials/maps/surf_spaceship_ksf/vbd/pack 2 remnont/remn_window1_a_0_0_0.vmt,145,145
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_314.vmt,102,102
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_4.vmt,100,100
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_16.vmt,101,101
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_2.vmt,100,100
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_123.vmt,102,102
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_172.vmt,102,102
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_8.vmt,100,100
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_9664.vmt,103,103
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_14848.vmt,104,104
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_14992.vmt,104,104
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_21296.vmt,104,104
+materials/maps/surf_spaceship_ksf/dev/dev_water5_depth_23387.vmt,104,104
+materials/maps/surf_spaceship_ksf/cubemapdefault.vtf,4960,4960
+materials/maps/surf_spaceship_ksf/c0_0_0.vtf,4960,4960
+materials/maps/surf_spaceship_ksf/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_spaceship_ksf/c0_0_0.hdr.vtf,76528,76528
+materials/darck/armory.vtf,87544,87544
+materials/darck/jail.vtf,22016,22016
+materials/darck/t.vtf,5696,5696
+materials/darck/top.vtf,11104,11104
+materials/darck/pirate1.vtf,174944,174944
+materials/darck/pirate2.vtf,174984,174984
+materials/darck/pirate3.vtf,174984,174984
+materials/darck/surf_dark.vtf,2796384,2796384
+materials/darck/ct.vtf,11104,11104
+materials/darck/creditos.vtf,349696,349696
+materials/darck/creditos1.vtf,699232,699232
+materials/darck/creditos2.vtf,1398264,1398264
+materials/darck/creditos4.vtf,1398264,1398264
+materials/darck/creditos9.vtf,1398264,1398264
+materials/halo 3 texture pack/lockout/lockout_metal_catwalk.vtf,349760,349760
+materials/halo 3 texture pack/lockout/lockout_metal_catwalk_bump.vtf,174984,174984
+materials/halo/zanzibar/zanzibar_metal_panle.vtf,1398308,1398308
+materials/phx/phoenix_storms/futuristictrackramp_1-2.vtf,1398308,1398308
+materials/phx/phoenix_storms/futuristictrackramp_bump.vtf,1398308,1398308
+materials/phx/phoenix_storms/future_vents.vtf,1398308,1398308
+materials/phx/phoenix_storms/future_vents_bump.vtf,1398308,1398308
+materials/vbd/pack 2 remnont/remn_metal_p15_f_base.vtf,87544,87544
+materials/vbd/pack 2 remnont/remn_metal_p1_normal.vtf,1398336,1398336
+materials/vbd/pack 2 remnont/remn_metal_p1a.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_pillar_d.vtf,22008,22008
+materials/vbd/pack 2 remnont/remn_pillar_d_normal.vtf,43904,43904
+materials/vbd/pack 2 remnont/remn_window1.vtf,174944,174944
+materials/vbd/pack 2 remnont/remn_window1_a.vtf,87544,87544
+materials/vbd/pack 2 remnont/remn_window1_normal.vtf,174944,174944
+materials/cnsc/cnsc_storage1_height.vtf,1398308,1398308
+materials/cnsc/storage1.vmt,215,215
+materials/cnsc/storage1blue.vmt,230,230
+materials/cnsc/storage1green.vmt,230,230
+materials/cnsc/cnsc_storage1.vtf,1398308,1398308
+materials/cnsc/cnsc_storage1_normal.vtf,1398308,1398308
+materials/cnsc/cnsc_storage1blue_height.vtf,1398308,1398308
+materials/cnsc/cnsc_storage1blue_normal.vtf,1398308,1398308
+materials/cnsc/cnsc_storage1bluevtf.vtf,174984,174984
+materials/cnsc/cnsc_storage1green.vtf,174984,174984
+materials/cnsc/cnsc_storage1green_height.vtf,1398308,1398308
+materials/cnsc/cnsc_storage1green_normal.vtf,1398308,1398308
+materials/color/black.vmt,124,124
+materials/color/black.vtf,2952,2952
+materials/color/green.vmt,124,124
+materials/color/green.vtf,2952,2952
+materials/color/orange.vmt,125,125
+materials/color/orange.vtf,2952,2952
+materials/color/red.vmt,122,122
+materials/color/red.vtf,2952,2952
+materials/darck/armory.vmt,62,62
+materials/darck/creditos.vmt,344,344
+materials/darck/creditos1.vmt,189,189
+materials/darck/creditos2.vmt,189,189
+materials/darck/creditos4.vmt,189,189
+materials/darck/creditos9.vmt,189,189
+materials/darck/ct.vmt,158,158
+materials/darck/jail.vmt,160,160
+materials/darck/pirate1.vmt,80,80
+materials/darck/pirate2.vmt,61,61
+materials/darck/pirate3.vmt,61,61
+materials/darck/surf_dark.vmt,82,82
+materials/darck/t.vmt,157,157
+materials/darck/top.vmt,159,159
+materials/eyetex/door_striped.vmt,188,188
+materials/eyetex/door_striped.vtf,699272,699272
+materials/eyetex/door_striped_normal.vtf,699272,699272
+materials/eyetex/metbluelight.vmt,128,128
+materials/eyetex/metbluelight.vtf,131217,131217
+materials/eyetex/metredlight.vmt,127,127
+materials/eyetex/metredlight.vtf,131217,131217
+materials/halo 3 texture pack/lockout/lockout_metal_catwalk.vmt,236,236
+materials/halo/zanzibar/zanzibar_metal_panle.vmt,130,130
+materials/metal/metalfloor003a_black.vmt,74,74
+materials/metal/metalfloor003a_black.vtf,349760,349760
+materials/metal/metalwall013a_white.vmt,73,73
+materials/metal/metalwall013a_white.vtf,349760,349760
+materials/metal/metalwall013d_black.vmt,73,73
+materials/metal/metalwall013d_black.vtf,349760,349760
+materials/metal/prodcaution_black.vmt,71,71
+materials/metal/prodcaution_black.vtf,87616,87616
+materials/panels1/ckblulight1.vmt,84,84
+materials/panels1/ckblulight1.vtf,87616,87616
+materials/panels1/ckredtrim1.vmt,85,85
+materials/panels1/ckredtrim1.vtf,43912,43912
+materials/panels1/hugewal1.vmt,64,64
+materials/panels1/hugewal1.vtf,174984,174984
+materials/panels1/pipe1.vmt,61,61
+materials/panels1/pipe1.vtf,11064,11064
+materials/panels1/ventfloor1.vtf,174944,174944
+materials/panels1/ventfloor1b.vmt,104,104
+materials/phx/phoenix_storms/future_vents.vmt,301,301
+materials/phx/phoenix_storms/futuristictrackramp_1-2.vmt,319,319
+materials/sci-fi/metal/ceiling01c_height-ssbump.vtf,1398308,1398308
+materials/sci-fi/metal/ceiling01c_illum.vmt,469,469
+materials/sci-fi/metal/ceiling01c_illum.vtf,349760,349760
+materials/sci-fi/metal/ceiling04b_height-ssbump.vtf,1398308,1398308
+materials/sci-fi/metal/ceiling04b_illum.vmt,470,470
+materials/sci-fi/metal/ceiling04b_illum.vtf,349760,349760
+materials/sci-fi/metal/wall01c.vmt,382,382
+materials/sci-fi/metal/wall01c.vtf,43912,43912
+materials/sci-fi/metal/wall01c_height-ssbump.vtf,349732,349732
+materials/sci-fi/metal/wall05b_height-ssbump.vtf,1398308,1398308
+materials/sci-fi/metal/wall05c.vmt,398,398
+materials/sci-fi/metal/wall05c.vtf,174984,174984
+materials/sci-fi/trim/hose03a_height-ssbump.vtf,1398308,1398308
+materials/sci-fi/trim/hose03b.vmt,380,380
+materials/sci-fi/trim/hose03b.vtf,174984,174984
+materials/skybox/galaxydn.vtf,699272,699272
+materials/skybox/galaxylf.vtf,699272,699272
+materials/skybox/galaxyup.vtf,699272,699272
+materials/skybox/galaxybk.vtf,699272,699272
+materials/skybox/galaxyft.vtf,699272,699272
+materials/skybox/galaxyrt.vtf,699272,699272
+materials/skybox/galaxybk.vmt,89,89
+materials/skybox/galaxydn.vmt,89,89
+materials/skybox/galaxyft.vmt,89,89
+materials/skybox/galaxylf.vmt,89,89
+materials/skybox/galaxyrt.vmt,89,89
+materials/skybox/galaxyup.vmt,89,89
+materials/spacebuild/body.vtf,349760,349760
+materials/spacebuild/bodybump.vtf,349760,349760
+materials/spacebuild/floor.vtf,174984,174984
+materials/spacebuild/floorbump.vtf,174984,174984
+materials/spacebuild/fusion4.vtf,2622448,2622448
+materials/spacebuild/hazard.vtf,349760,349760
+materials/spacebuild/hazard5.vtf,43912,43912
+materials/spacebuild/hazard5bump.vtf,87616,87616
+materials/spacebuild/hazardbump.vtf,174984,174984
+materials/spacebuild/sblight2.vtf,349760,349760
+materials/spacebuild/sblight2bump.vtf,349760,349760
+materials/spacebuild/sblight2bump_d.vtf,349760,349760
+materials/spacebuild/sblight2bump_r.vtf,349760,349760
+materials/spacebuild/sblight2_d.vtf,349760,349760
+materials/spacebuild/sblight2_r.vtf,349760,349760
+materials/spacebuild/sblight5.vtf,349760,349760
+materials/spacebuild/sblight5bump.vtf,174984,174984
+materials/spacebuild/body.vmt,247,247
+materials/spacebuild/bodyskin.vmt,261,261
+materials/spacebuild/floor.vmt,249,249
+materials/spacebuild/fusion4.vmt,263,263
+materials/spacebuild/hazard.vmt,251,251
+materials/spacebuild/hazard5.vmt,253,253
+materials/spacebuild/sblight2.vmt,272,272
+materials/spacebuild/sblight2_d.vmt,272,272
+materials/spacebuild/sblight2_r.vmt,290,290
+materials/spacebuild/sblight5.vmt,273,273
+materials/textures/panels1/ck-gird2.vmt,92,92
+materials/textures/panels1/ck-gird2.vtf,43912,43912
+materials/textures/panels1/ck-lggird1.vmt,94,94
+materials/textures/panels1/ck-lggird1.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_metal_p15_f_base.vmt,275,275
+materials/vbd/pack 2 remnont/remn_metal_p1a.vmt,323,323
+materials/vbd/pack 2 remnont/remn_pillar_d.vmt,322,322
+materials/vbd/pack 2 remnont/remn_window1.vmt,339,339
+materials/vbd/pack 2 remnont/remn_window1_a.vmt,322,322

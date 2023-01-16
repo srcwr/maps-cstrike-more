@@ -1,0 +1,251 @@
+filename,size,compressed
+materials/maps/trikz_arcadia/cubemapdefault.vtf,28753,28753
+materials/maps/trikz_arcadia/cubemapdefault.hdr.vtf,76528,76528
+maps/trikz_arcadia_particles.txt,56,56
+materials/badges/0.vmt,69,69
+materials/badges/0.vtf,43872,43872
+materials/badges/1.vmt,69,69
+materials/badges/1.vtf,43872,43872
+materials/badges/2.vmt,69,69
+materials/badges/2.vtf,43872,43872
+materials/badges/3.vmt,69,69
+materials/badges/3.vtf,43872,43872
+materials/badges/4.vmt,69,69
+materials/badges/4.vtf,43872,43872
+materials/badges/5.vmt,69,69
+materials/badges/5.vtf,43872,43872
+materials/badges/6.vmt,69,69
+materials/badges/6.vtf,43872,43872
+materials/badges/7.vmt,69,69
+materials/badges/7.vtf,43872,43872
+materials/badges/8.vmt,69,69
+materials/badges/8.vtf,43872,43872
+materials/badges/9.vmt,69,69
+materials/badges/9.vtf,43872,43872
+materials/badges/b3uturnarrow.vmt,80,80
+materials/badges/b3uturnarrow.vtf,349760,349760
+materials/black_pixel.vtf,464,464
+materials/devneons/WHITE_NEON.vmt,107,107
+materials/devneons/white_neon.vtf,43912,43912
+materials/effects/sc_softglow.vmt,211,211
+materials/effects/softglow.vtf,11168,11168
+materials/envmaps/space.vtf,19573496,19573496
+materials/faf4/black.vmt,58,58
+materials/faf4/black.vtf,2952,2952
+materials/faf4/blue.vmt,57,57
+materials/faf4/blue.vtf,2952,2952
+materials/faf4/DarkGoldenrod4.vmt,67,67
+materials/faf4/DarkGoldenrod4.vtf,2952,2952
+materials/faf4/green.vmt,58,58
+materials/faf4/green.vtf,2952,2952
+materials/faf4/MediumAquamarine.vmt,69,69
+materials/faf4/MediumAquamarine.vtf,2952,2952
+materials/faf4/red.vmt,56,56
+materials/faf4/red.vtf,2952,2952
+materials/faf4/Snow4.vmt,58,58
+materials/faf4/Snow4.vtf,2952,2952
+materials/faf4/trikz_arcadia_thanks.vmt,73,73
+materials/faf4/trikz_arcadia_thanks.vtf,1398264,1398264
+materials/faf4/white.vmt,58,58
+materials/faf4/white.vtf,2952,2952
+materials/keef_greengrid.vmt,184,184
+materials/KQ/KEEF_GREENGRID.vmt,186,186
+materials/KQ/keef_greengrid.vtf,5568,5568
+materials/models/env/fakeskybox/fakeskybox.vmt,97,97
+materials/models/QuaterniusDev/trees2/LightBlue.vmt,83,83
+materials/models/QuaterniusDev/trees2/LightBlue.vtf,2952,2952
+materials/models/QuaterniusDev/trees2/LightCyan.vmt,83,83
+materials/models/QuaterniusDev/trees2/LightCyan.vtf,2952,2952
+materials/models/QuaterniusDev/trees2/LightGray.vmt,83,83
+materials/models/QuaterniusDev/trees2/LightGray.vtf,2952,2952
+materials/models/QuaterniusDev/trees2/LightGreen.vmt,83,83
+materials/models/QuaterniusDev/trees2/LightOrange.vmt,85,85
+materials/models/QuaterniusDev/trees2/LightOrange.vtf,2952,2952
+materials/models/QuaterniusDev/trees2/LightPurple.vmt,85,85
+materials/models/QuaterniusDev/trees2/LightPurple.vtf,2952,2952
+materials/models/QuaterniusDev/trees2/LightRed.vmt,82,82
+materials/models/QuaterniusDev/trees2/LightRed.vtf,2952,2952
+materials/models/QuaterniusDev/trees2/LightYellow.vmt,85,85
+materials/models/QuaterniusDev/trees2/LightYellow.vtf,2952,2952
+materials/models/QuaterniusDev/trees2/LimeGreen.vtf,2952,2952
+materials/skybox/sky190bk.vmt,83,83
+materials/skybox/sky190bk.vtf,4194495,4194495
+materials/skybox/sky190dn.vmt,83,83
+materials/skybox/sky190dn.vtf,4194495,4194495
+materials/skybox/sky190ft.vmt,85,85
+materials/skybox/sky190ft.vtf,4194495,4194495
+materials/skybox/sky190lf.vmt,83,83
+materials/skybox/sky190lf.vtf,4194495,4194495
+materials/skybox/sky190rt.vmt,85,85
+materials/skybox/sky190rt.vtf,4194495,4194495
+materials/skybox/sky190up.vmt,85,85
+materials/skybox/sky190up.vtf,4194495,4194495
+models/env/fakeskybox/fakeskybox_back.dx80.vtx,189,189
+models/env/fakeskybox/fakeskybox_back.dx90.vtx,189,189
+models/env/fakeskybox/fakeskybox_back.mdl,1756,1756
+models/env/fakeskybox/fakeskybox_back.sw.vtx,189,189
+models/env/fakeskybox/fakeskybox_back.vvd,320,320
+models/env/fakeskybox/fakeskybox_down.dx80.vtx,189,189
+models/env/fakeskybox/fakeskybox_down.dx90.vtx,189,189
+models/env/fakeskybox/fakeskybox_down.mdl,1756,1756
+models/env/fakeskybox/fakeskybox_down.sw.vtx,189,189
+models/env/fakeskybox/fakeskybox_down.vvd,320,320
+models/env/fakeskybox/fakeskybox_front.dx80.vtx,189,189
+models/env/fakeskybox/fakeskybox_front.dx90.vtx,189,189
+models/env/fakeskybox/fakeskybox_front.mdl,1760,1760
+models/env/fakeskybox/fakeskybox_front.sw.vtx,189,189
+models/env/fakeskybox/fakeskybox_front.vvd,320,320
+models/env/fakeskybox/fakeskybox_left.dx80.vtx,189,189
+models/env/fakeskybox/fakeskybox_left.dx90.vtx,189,189
+models/env/fakeskybox/fakeskybox_left.mdl,1756,1756
+models/env/fakeskybox/fakeskybox_left.sw.vtx,189,189
+models/env/fakeskybox/fakeskybox_left.vvd,320,320
+models/env/fakeskybox/fakeskybox_right.dx80.vtx,189,189
+models/env/fakeskybox/fakeskybox_right.dx90.vtx,189,189
+models/env/fakeskybox/fakeskybox_right.mdl,1760,1760
+models/env/fakeskybox/fakeskybox_right.sw.vtx,189,189
+models/env/fakeskybox/fakeskybox_right.vvd,320,320
+models/env/fakeskybox/fakeskybox_top.dx80.vtx,189,189
+models/env/fakeskybox/fakeskybox_top.dx90.vtx,189,189
+models/env/fakeskybox/fakeskybox_top.mdl,1756,1756
+models/env/fakeskybox/fakeskybox_top.sw.vtx,189,189
+models/env/fakeskybox/fakeskybox_top.vvd,320,320
+models/QuaterniusDev/trees/New trees/LP_Bush2B.dx80.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/LP_Bush2B.dx90.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2b.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_Bush2B.phy,1230,1230
+models/QuaterniusDev/trees/New trees/LP_Bush2B.sw.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2b.vvd,10816,10816
+models/QuaterniusDev/trees/New trees/LP_Bush2C.dx80.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/LP_Bush2C.dx90.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2c.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_Bush2C.phy,1230,1230
+models/QuaterniusDev/trees/New trees/LP_Bush2C.sw.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2c.vvd,10816,10816
+models/QuaterniusDev/trees/New trees/LP_Bush2G.dx80.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/LP_Bush2G.dx90.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2g.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_Bush2G.phy,1230,1230
+models/QuaterniusDev/trees/New trees/LP_Bush2G.sw.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2g.vvd,10816,10816
+models/QuaterniusDev/trees/New trees/LP_Bush2O.dx80.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/LP_Bush2O.dx90.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2o.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_Bush2O.phy,1230,1230
+models/QuaterniusDev/trees/New trees/LP_Bush2O.sw.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2o.vvd,10816,10816
+models/QuaterniusDev/trees/New trees/LP_Bush2P.dx80.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/LP_Bush2P.dx90.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2p.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_Bush2P.phy,1230,1230
+models/QuaterniusDev/trees/New trees/LP_Bush2P.sw.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2p.vvd,10816,10816
+models/QuaterniusDev/trees/New trees/LP_Bush2R.dx80.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/LP_Bush2R.dx90.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2r.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_Bush2R.phy,1230,1230
+models/QuaterniusDev/trees/New trees/LP_Bush2R.sw.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2r.vvd,10816,10816
+models/QuaterniusDev/trees/New trees/LP_Bush2Y.dx80.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/LP_Bush2Y.dx90.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2y.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_Bush2Y.phy,1230,1230
+models/QuaterniusDev/trees/New trees/LP_Bush2Y.sw.vtx,2226,2226
+models/QuaterniusDev/trees/New trees/lp_bush2y.vvd,10816,10816
+models/QuaterniusDev/trees/New trees/LP_BushB.dx80.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushB.dx90.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushb.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_BushB.phy,2157,2157
+models/QuaterniusDev/trees/New trees/LP_BushB.sw.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushb.vvd,34432,34432
+models/QuaterniusDev/trees/New trees/LP_BushC.dx80.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushC.dx90.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushc.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_BushC.phy,2157,2157
+models/QuaterniusDev/trees/New trees/LP_BushC.sw.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushc.vvd,34432,34432
+models/QuaterniusDev/trees/New trees/LP_BushG.dx80.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushG.dx90.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushg.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_BushG.phy,2157,2157
+models/QuaterniusDev/trees/New trees/LP_BushG.sw.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushg.vvd,34432,34432
+models/QuaterniusDev/trees/New trees/LP_BushO.dx80.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushO.dx90.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_busho.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_BushO.phy,2157,2157
+models/QuaterniusDev/trees/New trees/LP_BushO.sw.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_busho.vvd,34432,34432
+models/QuaterniusDev/trees/New trees/LP_BushP.dx80.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushP.dx90.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushp.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_BushP.phy,2157,2157
+models/QuaterniusDev/trees/New trees/LP_BushP.sw.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushp.vvd,34432,34432
+models/QuaterniusDev/trees/New trees/LP_BushR.dx80.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushR.dx90.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushr.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_BushR.phy,2157,2157
+models/QuaterniusDev/trees/New trees/LP_BushR.sw.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushr.vvd,34432,34432
+models/QuaterniusDev/trees/New trees/LP_BushY.dx80.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/LP_BushY.dx90.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushy.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_BushY.phy,2157,2157
+models/QuaterniusDev/trees/New trees/LP_BushY.sw.vtx,6279,6279
+models/QuaterniusDev/trees/New trees/lp_bushy.vvd,34432,34432
+models/QuaterniusDev/trees/New trees/LP_MainTreeR.dx80.vtx,13290,13290
+models/QuaterniusDev/trees/New trees/LP_MainTreeR.dx90.vtx,13290,13290
+models/QuaterniusDev/trees/New trees/lp_maintreer.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_MainTreeR.phy,25051,25051
+models/QuaterniusDev/trees/New trees/LP_MainTreeR.sw.vtx,13290,13290
+models/QuaterniusDev/trees/New trees/lp_maintreer.vvd,71744,71744
+models/QuaterniusDev/trees/New trees/LP_MainTreeY.dx80.vtx,13290,13290
+models/QuaterniusDev/trees/New trees/LP_MainTreeY.dx90.vtx,13290,13290
+models/QuaterniusDev/trees/New trees/lp_maintreey.mdl,1968,1968
+models/QuaterniusDev/trees/New trees/LP_MainTreeY.phy,25051,25051
+models/QuaterniusDev/trees/New trees/LP_MainTreeY.sw.vtx,13290,13290
+models/QuaterniusDev/trees/New trees/lp_maintreey.vvd,71744,71744
+models/QuaterniusDev/trees/New trees/LP_TreeB.dx80.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeB.dx90.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treeb.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_TreeB.phy,7270,7270
+models/QuaterniusDev/trees/New trees/LP_TreeB.sw.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treeb.vvd,53120,53120
+models/QuaterniusDev/trees/New trees/LP_TreeC.dx80.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeC.dx90.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treec.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_TreeC.phy,7270,7270
+models/QuaterniusDev/trees/New trees/LP_TreeC.sw.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treec.vvd,53120,53120
+models/QuaterniusDev/trees/New trees/LP_TreeG.dx80.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeG.dx90.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treeg.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_TreeG.phy,7270,7270
+models/QuaterniusDev/trees/New trees/LP_TreeG.sw.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treeg.vvd,53120,53120
+models/QuaterniusDev/trees/New trees/LP_TreeO.dx80.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeO.dx90.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treeo.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_TreeO.phy,7270,7270
+models/QuaterniusDev/trees/New trees/LP_TreeO.sw.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treeo.vvd,53120,53120
+models/QuaterniusDev/trees/New trees/LP_TreeP.dx80.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeP.dx90.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treep.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_TreeP.phy,7270,7270
+models/QuaterniusDev/trees/New trees/LP_TreeP.sw.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treep.vvd,53120,53120
+models/QuaterniusDev/trees/New trees/LP_TreeR.dx80.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeR.dx90.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treer.mdl,1960,1960
+models/QuaterniusDev/trees/New trees/LP_TreeR.phy,7270,7270
+models/QuaterniusDev/trees/New trees/LP_TreeR.sw.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treer.vvd,53120,53120
+models/QuaterniusDev/trees/New trees/LP_TreeY.dx80.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/LP_TreeY.dx90.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treey.mdl,1964,1964
+models/QuaterniusDev/trees/New trees/LP_TreeY.phy,7270,7270
+models/QuaterniusDev/trees/New trees/LP_TreeY.sw.vtx,10095,10095
+models/QuaterniusDev/trees/New trees/lp_treey.vvd,53120,53120
+particles/badges.pcf,333419,333419

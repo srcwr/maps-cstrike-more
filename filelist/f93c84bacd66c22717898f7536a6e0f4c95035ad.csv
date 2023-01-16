@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/gg_spin/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/gg_spin/cubemapdefault.vtf,4960,4960
+materials/maps/gg_spin/cubemapdefault.hdr.vtf,76528,76528
+materials/skybox/mpa115bk.vmt,92,92
+materials/skybox/mpa115bk.vtf,699272,699272
+materials/skybox/mpa115dn.vmt,92,92
+materials/skybox/mpa115dn.vtf,699272,699272
+materials/skybox/mpa115ft.vmt,92,92
+materials/skybox/mpa115ft.vtf,699272,699272
+materials/skybox/mpa115lf.vmt,92,92
+materials/skybox/mpa115lf.vtf,699272,699272
+materials/skybox/mpa115rt.vmt,92,92
+materials/skybox/mpa115rt.vtf,699272,699272
+materials/skybox/mpa115up.vmt,92,92
+materials/skybox/mpa115up.vtf,699272,699272
+sound/spin/359165_theescape.wav,36988460,36988460

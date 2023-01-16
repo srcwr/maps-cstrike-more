@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/theishus_v2/nature/blendprodasphaltgrass_wvt_patch.vmt,122,122
+materials/maps/theishus_v2/nature/blenddirtmud003a_wvt_patch.vmt,364,364
+materials/maps/theishus_v2/nature/blendrocksgrass005a_wvt_patch.vmt,330,330
+materials/maps/theishus_v2/metal/metaldoor018a_0_0_0.vmt,124,124
+materials/maps/theishus_v2/metal/metalpipe010a_0_0_0.vmt,124,124
+materials/maps/theishus_v2/metal/metalpipe005a_0_0_0.vmt,124,124
+materials/maps/theishus_v2/metal/metalpipe009a_0_0_0.vmt,124,124
+materials/maps/theishus_v2/metal/metalpipe009b_0_0_0.vmt,124,124
+materials/maps/theishus_v2/dev/dev_water2_cheap_depth_8.vmt,106,106
+materials/maps/theishus_v2/dev/dev_water2_cheap_depth_16.vmt,107,107
+materials/maps/theishus_v2/de_nuke/nukwater_movingplane_depth_24.vmt,115,115
+materials/maps/theishus_v2/cubemapdefault.vtf,28753,28753
+materials/maps/theishus_v2/c0_0_0.vtf,28753,28753
+materials/maps/theishus_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/theishus_v2/c0_0_0.hdr.vtf,76528,76528

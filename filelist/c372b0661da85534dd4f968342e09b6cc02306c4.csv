@@ -1,0 +1,444 @@
+filename,size,compressed
+materials/360G/NEXT.vmt,124,124
+materials/360g/next.vtf,87616,87616
+materials/360G/PART_2_BOARD.vmt,132,132
+materials/360g/Part_2_board.vtf,43912,43912
+materials/COLOR/BRIGHT GREEN.vmt,69,69
+materials/color/bright green.vtf,11144,11144
+materials/COLOR/DARK BLUE.vmt,66,66
+materials/color/dark blue.vtf,11144,11144
+materials/COLOR/GOLDEN YELLOW.vmt,70,70
+materials/color/golden yellow.vtf,11144,11144
+materials/CUSTOM/METAL_MODULAR_FLOOR001.vmt,98,98
+materials/custom/metal_modular_floor001.vtf,175008,175008
+materials/CUSTOM/METALWALL_BTS_006E_CABLE.vmt,102,102
+materials/custom/metalwall_bts_006e_cable.vtf,175008,175008
+materials/EYETEX/DOOR_STRIPED.vmt,188,188
+materials/eyetex/door_striped.vtf,699272,699272
+materials/eyetex/door_striped_normal.vtf,699272,699272
+materials/EYETEX/GENERIC_PLATING04.vmt,306,306
+materials/eyetex/generic_plating04.vtf,699272,699272
+materials/eyetex/generic_plating04_normal.vtf,1398336,1398336
+materials/HALO_TEXTURES/HALO_CAUTION.vmt,99,99
+materials/halo_textures/halo_caution.vtf,22080,22080
+materials/maps/final_sci_fi/c0_0_0.hdr.vtf,76528,76528
+materials/maps/final_sci_fi/c0_0_0.vtf,4960,4960
+materials/maps/final_sci_fi/concrete/blendconcretegravel001a_wvt_patch.vmt,563,563
+materials/maps/final_sci_fi/concrete/concretefloor038b_0_0_0.vmt,132,132
+materials/maps/final_sci_fi/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/final_sci_fi/cubemapdefault.vtf,4960,4960
+materials/maps/final_sci_fi/de_nuke/nuke_metaldoor_01_0_0_0.vmt,131,131
+materials/maps/final_sci_fi/de_nuke/nukslidea_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/de_nuke/nukwater_movingplane_depth_14.vmt,115,115
+materials/maps/final_sci_fi/de_piranesi/pi_ground_blend_wvt_patch.vmt,120,120
+materials/maps/final_sci_fi/glass/combineglass001a_0_0_0.vmt,128,128
+materials/maps/final_sci_fi/glass/glasswindow007a_0_0_0.vmt,127,127
+materials/maps/final_sci_fi/metal/citadel_metalwall072c_0_0_0.vmt,133,133
+materials/maps/final_sci_fi/metal/metalwall072b_0_0_0.vmt,125,125
+materials/maps/final_sci_fi/nature/blendrockdirt006b_lowfrict_wvt_patch.vmt,328,328
+materials/maps/final_sci_fi/nature/sandfloor010a_0_0_0.vmt,126,126
+materials/maps/final_sci_fi/nature/water_movingplane_0_0_0.vmt,153,153
+materials/maps/final_sci_fi/nature/water_movingplane_beneath_depth_50.vmt,119,119
+materials/maps/final_sci_fi/nature/water_movingplane_beneath_depth_770.vmt,120,120
+materials/maps/final_sci_fi/nature/water_movingplane_depth_13.vmt,111,111
+materials/maps/final_sci_fi/nature/water_movingplane_depth_16.vmt,111,111
+materials/maps/final_sci_fi/pk01/pk01/pk01_floor01a_0_0_0.vmt,129,129
+materials/maps/final_sci_fi/pk01/pk01/pk01_floor02b_0_0_0.vmt,129,129
+materials/maps/final_sci_fi/pk01/pk01/pk01_gra_floor01_0_0_0.vmt,132,132
+materials/maps/final_sci_fi/pk01/pk01/pk01_gra_floor02_0_0_0.vmt,132,132
+materials/maps/final_sci_fi/pk01/pk01/pk01_pan_floor01a_0_0_0.vmt,133,133
+materials/maps/final_sci_fi/pk01/pk01/pk01_pan_floor02a_0_0_0.vmt,133,133
+materials/maps/final_sci_fi/pk01/pk01/pk01_pan_floor02b_0_0_0.vmt,133,133
+materials/maps/final_sci_fi/pk01/pk01/pk01_roof01_0_0_0.vmt,127,127
+materials/maps/final_sci_fi/pk01/pk01/pk01_thin_wall02b_0_0_0.vmt,133,133
+materials/maps/final_sci_fi/pk01/pk01/pk01_tile_floor01a_0_0_0.vmt,134,134
+materials/maps/final_sci_fi/pk01/pk01/pk01_tile_floor01b_0_0_0.vmt,134,134
+materials/maps/final_sci_fi/pk01/pk01/pk01_trims01b_0_0_0.vmt,129,129
+materials/maps/final_sci_fi/pk01/pk01/pk01_vent_wall01b_0_0_0.vmt,133,133
+materials/maps/final_sci_fi/pk01/pk01/pk01_wall03a_0_0_0.vmt,128,128
+materials/maps/final_sci_fi/pk01/pk01/pk01_wall03b_0_0_0.vmt,128,128
+materials/maps/final_sci_fi/pk01/pk01_floor01a_0_0_0.vmt,124,124
+materials/maps/final_sci_fi/pk01/pk01_floor02a (2)_0_0_0.vmt,128,128
+materials/maps/final_sci_fi/pk01/pk01_gra_floor02_0_0_0.vmt,127,127
+materials/maps/final_sci_fi/pk01/pk01_pan_floor01b_0_0_0.vmt,128,128
+materials/maps/final_sci_fi/pk01/pk01_pan_floor02a_0_0_0.vmt,128,128
+materials/maps/final_sci_fi/pk01/pk01_pan_floor02b_0_0_0.vmt,128,128
+materials/maps/final_sci_fi/pk01/pk01_pan_wall02a2_0_0_0.vmt,128,128
+materials/maps/final_sci_fi/pk01/pk01_trims01b_0_0_0.vmt,124,124
+materials/maps/final_sci_fi/pk01/pk01_wall03b_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_beam01_0_0_0.vmt,122,122
+materials/maps/final_sci_fi/pk02/pk02_ceiling02_0_0_0.vmt,125,125
+materials/maps/final_sci_fi/pk02/pk02_computer01a_0_0_0.vmt,127,127
+materials/maps/final_sci_fi/pk02/pk02_computer01b_0_0_0.vmt,127,127
+materials/maps/final_sci_fi/pk02/pk02_floor01_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_floor04_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_floor05_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_floor06a_0_0_0.vmt,124,124
+materials/maps/final_sci_fi/pk02/pk02_floor09a_0_0_0.vmt,124,124
+materials/maps/final_sci_fi/pk02/pk02_floor09b_0_0_0.vmt,124,124
+materials/maps/final_sci_fi/pk02/pk02_floor10_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_floor12a_0_0_0.vmt,124,124
+materials/maps/final_sci_fi/pk02/pk02_generic01a_0_0_0.vmt,126,126
+materials/maps/final_sci_fi/pk02/pk02_light01a_0_0_0.vmt,124,124
+materials/maps/final_sci_fi/pk02/pk02_light01b_0_0_0.vmt,124,124
+materials/maps/final_sci_fi/pk02/pk02_light02b_0_0_0.vmt,124,124
+materials/maps/final_sci_fi/pk02/pk02_light03_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_panels01b_0_0_0.vmt,125,125
+materials/maps/final_sci_fi/pk02/pk02_pipes01_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_rock01_0_0_0.vmt,122,122
+materials/maps/final_sci_fi/pk02/pk02_switches01a_0_0_0.vmt,127,127
+materials/maps/final_sci_fi/pk02/pk02_trim04b_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_wall03b_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_wall04a_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_wall04b_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_wall05b_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_wall07b_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_wall08a_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_wall08b_0_0_0.vmt,123,123
+materials/maps/final_sci_fi/pk02/pk02_wall_big01a_0_0_0.vmt,127,127
+materials/maps/final_sci_fi/pk02/pk02_wall_big01b_0_0_0.vmt,127,127
+materials/maps/final_sci_fi/sci-fi/trim/hose03b_0_0_0.vmt,125,125
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_confloor1_0_0_0.vmt,139,139
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_inner_window1a_0_0_0.vmt,144,144
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_met_trim3_0_0_0.vmt,139,139
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_metal_p15_base_0_0_0.vmt,144,144
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_metal_p15_e_base_0_0_0.vmt,146,146
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_metal_p15_f_base_0_0_0.vmt,146,146
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_metal_p1a_0_0_0.vmt,139,139
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_metalfloor1_0_0_0.vmt,141,141
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_metalfloor3_0_0_0.vmt,141,141
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_metalfloor9_0_0_0.vmt,141,141
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_pillar_d_0_0_0.vmt,138,138
+materials/maps/final_sci_fi/vbd/pack 2 remnont/remn_window1_0_0_0.vmt,137,137
+materials/maps/final_sci_fi/vehicle/metaltrain001d_0_0_0.vmt,128,128
+materials/maps/final_sci_fi/vehicle/rubbertrainfloor001a_0_0_0.vmt,134,134
+materials/METAL/METALFLOOR003A_BLACK.vmt,74,74
+materials/metal/metalfloor003a_black.vtf,349760,349760
+materials/METAL/METALWALL013A_ORANGE.vmt,179,179
+materials/Metal/metalwall013a_orange.vtf,1398308,1398308
+materials/METAL/METALWALL013A_WHITE.vmt,178,178
+materials/Metal/metalwall013a_white.vtf,1398308,1398308
+materials/METAL/METALWALL013D_BLACK.vmt,178,178
+materials/Metal/metalwall013d_black.vtf,1398308,1398308
+materials/PK01/PK01/PK01_FLOOR01A.vmt,218,218
+materials/PK01/PK01/PK01_FLOOR01B.vmt,218,218
+materials/PK01/PK01/PK01_FLOOR02B.vmt,218,218
+materials/PK01/PK01/PK01_GRA_FLOOR01.vmt,225,225
+materials/PK01/PK01/PK01_GRA_FLOOR02.vmt,225,225
+materials/PK01/PK01/PK01_PAN_FLOOR01A.vmt,226,226
+materials/PK01/PK01/PK01_PAN_FLOOR01B.vmt,226,226
+materials/PK01/PK01/PK01_PAN_FLOOR02A.vmt,226,226
+materials/PK01/PK01/PK01_PAN_FLOOR02B.vmt,226,226
+materials/PK01/PK01/PK01_PAN_WALL02A1.vmt,226,226
+materials/PK01/PK01/PK01_PAN_WALL02A2.vmt,226,226
+materials/PK01/PK01/PK01_PAN_WALL02B2.vmt,226,226
+materials/PK01/PK01/PK01_PANEL_SMALL01.vmt,247,247
+materials/PK01/PK01/PK01_ROOF01.vmt,215,215
+materials/PK01/PK01/PK01_THIN_WALL01A.vmt,226,226
+materials/PK01/PK01/PK01_THIN_WALL02B.vmt,226,226
+materials/PK01/PK01/PK01_TILE_FLOOR01A.vmt,228,228
+materials/PK01/PK01/PK01_TILE_FLOOR01B.vmt,228,228
+materials/PK01/PK01/PK01_TRIMS01B.vmt,236,236
+materials/PK01/PK01/PK01_VENT_WALL01A.vmt,226,226
+materials/PK01/PK01/PK01_VENT_WALL01B.vmt,226,226
+materials/PK01/PK01/PK01_WALL03A.vmt,216,216
+materials/PK01/PK01/PK01_WALL03B.vmt,216,216
+materials/pk01/pk01_floor01_normal.vtf,1398292,1398292
+materials/PK01/PK01_FLOOR01A (2).vmt,218,218
+materials/PK01/PK01_FLOOR01A.vmt,218,218
+materials/pk01/pk01_floor01a.vtf,174968,174968
+materials/PK01/PK01_FLOOR01B.vmt,218,218
+materials/pk01/pk01_floor01b.vtf,174968,174968
+materials/pk01/pk01_floor02_normal.vtf,349716,349716
+materials/PK01/PK01_FLOOR02A (2).vmt,218,218
+materials/pk01/pk01_floor02a.vtf,43896,43896
+materials/pk01/pk01_floor02b.vtf,43896,43896
+materials/PK01/PK01_GRA_FLOOR01.vmt,225,225
+materials/pk01/pk01_gra_floor01.vtf,87528,87528
+materials/pk01/pk01_gra_floor01_normal.vtf,699180,699180
+materials/PK01/PK01_GRA_FLOOR02.vmt,225,225
+materials/pk01/pk01_gra_floor02.vtf,43896,43896
+materials/pk01/pk01_gra_floor02_normal.vtf,349716,349716
+materials/pk01/pk01_pan_floor01_normal.vtf,349716,349716
+materials/pk01/pk01_pan_floor01a.vtf,43896,43896
+materials/PK01/PK01_PAN_FLOOR01B.vmt,226,226
+materials/pk01/pk01_pan_floor01b.vtf,43896,43896
+materials/pk01/pk01_pan_floor02_normal.vtf,349716,349716
+materials/PK01/PK01_PAN_FLOOR02A.vmt,226,226
+materials/pk01/pk01_pan_floor02a.vtf,43896,43896
+materials/PK01/PK01_PAN_FLOOR02B.vmt,226,226
+materials/pk01/pk01_pan_floor02b.vtf,43896,43896
+materials/pk01/pk01_pan_wall02a1.vtf,87528,87528
+materials/PK01/PK01_PAN_WALL02A2.vmt,226,226
+materials/pk01/pk01_pan_wall02a2.vtf,87528,87528
+materials/pk01/pk01_pan_wall02a_normal.vtf,699180,699180
+materials/PK01/PK01_PAN_WALL02B2.vmt,226,226
+materials/pk01/pk01_pan_wall02b2.vtf,87528,87528
+materials/pk01/pk01_pan_wall02b_normal.vtf,699180,699180
+materials/pk01/pk01_panel_small01.vtf,87600,87600
+materials/pk01/pk01_panel_small01_normal.vtf,349716,349716
+materials/PK01/PK01_ROOF01 (2).vmt,215,215
+materials/PK01/PK01_ROOF01.vmt,215,215
+materials/pk01/pk01_roof01.vtf,174968,174968
+materials/pk01/pk01_roof01_normal.vtf,1398292,1398292
+materials/pk01/pk01_thin_wall01_normal.vtf,349628,349628
+materials/pk01/pk01_thin_wall01a.vtf,43816,43816
+materials/pk01/pk01_thin_wall02_normal.vtf,349628,349628
+materials/pk01/pk01_thin_wall02b.vtf,43816,43816
+materials/pk01/pk01_tile_floor01_normal.vtf,699180,699180
+materials/pk01/pk01_tile_floor01a.vtf,87528,87528
+materials/pk01/pk01_tile_floor01b.vtf,87528,87528
+materials/pk01/pk01_trims01_normal.vtf,699180,699180
+materials/PK01/PK01_TRIMS01A (2).vmt,218,218
+materials/PK01/PK01_TRIMS01A.vmt,218,218
+materials/pk01/pk01_trims01a.vtf,87528,87528
+materials/PK01/PK01_TRIMS01B (2).vmt,236,236
+materials/PK01/PK01_TRIMS01B.vmt,236,236
+materials/pk01/pk01_trims01b.vtf,174928,174928
+materials/pk01/pk01_vent_wall01_normal.vtf,699180,699180
+materials/PK01/PK01_VENT_WALL01A.vmt,226,226
+materials/pk01/pk01_vent_wall01a.vtf,87528,87528
+materials/pk01/pk01_vent_wall01b.vtf,87528,87528
+materials/PK01/PK01_WALL01.vmt,215,215
+materials/pk01/pk01_wall01.vtf,87528,87528
+materials/pk01/pk01_wall01_normal.vtf,699180,699180
+materials/pk01/pk01_wall02_normal.vtf,699180,699180
+materials/PK01/PK01_WALL02B (2).vmt,216,216
+materials/pk01/pk01_wall02b.vtf,87528,87528
+materials/pk01/pk01_wall03_normal.vtf,1398292,1398292
+materials/pk01/pk01_wall03a.vtf,174968,174968
+materials/PK01/PK01_WALL03B.vmt,216,216
+materials/pk01/pk01_wall03b.vtf,174968,174968
+materials/PK02/PK02_BEAM01.vmt,244,244
+materials/pk02/pk02_beam01_C.vtf,43816,43816
+materials/pk02/pk02_beam01_N.vtf,87536,87536
+materials/PK02/PK02_CEILING01.vmt,250,250
+materials/pk02/pk02_ceiling01_C.vtf,174968,174968
+materials/pk02/pk02_ceiling01_N.vtf,349744,349744
+materials/PK02/PK02_CEILING02.vmt,271,271
+materials/pk02/pk02_ceiling02_C.vtf,174928,174928
+materials/pk02/pk02_ceiling02_N.vtf,174928,174928
+materials/PK02/PK02_CEILING03.vmt,250,250
+materials/pk02/pk02_ceiling03_C.vtf,174968,174968
+materials/pk02/pk02_ceiling03_N.vtf,349744,349744
+materials/PK02/PK02_COMPUTER01A.vmt,274,274
+materials/pk02/pk02_computer01a_C.vtf,174928,174928
+materials/pk02/pk02_computer01a_N.vtf,174928,174928
+materials/PK02/PK02_COMPUTER01B.vmt,274,274
+materials/pk02/pk02_computer01b_C.vtf,174928,174928
+materials/pk02/pk02_computer01b_N.vtf,174928,174928
+materials/PK02/PK02_DEC_NUM01.vmt,142,142
+materials/pk02/pk02_dec_num01.vtf,174928,174928
+materials/PK02/PK02_DEC_NUM02.vmt,142,142
+materials/pk02/pk02_dec_num02.vtf,174928,174928
+materials/PK02/PK02_DOOR02.vmt,244,244
+materials/pk02/pk02_door02_C.vtf,87528,87528
+materials/pk02/pk02_door02_N.vtf,174928,174928
+materials/PK02/PK02_FLOOR01.vmt,247,247
+materials/pk02/pk02_floor01_C.vtf,174968,174968
+materials/pk02/pk02_floor01_N.vtf,349744,349744
+materials/PK02/PK02_FLOOR02.vmt,246,246
+materials/pk02/pk02_floor02_C.vtf,699256,699256
+materials/pk02/pk02_floor02_N.vtf,1398320,1398320
+materials/PK02/PK02_FLOOR04.vmt,246,246
+materials/pk02/pk02_floor04_C.vtf,174968,174968
+materials/pk02/pk02_floor04_N.vtf,349744,349744
+materials/PK02/PK02_FLOOR05.vmt,251,251
+materials/pk02/pk02_floor05_C.vtf,174968,174968
+materials/pk02/pk02_floor05_N.vtf,349744,349744
+materials/pk02/pk02_floor06_N.vtf,87600,87600
+materials/PK02/PK02_FLOOR06A.vmt,252,252
+materials/pk02/pk02_floor06a_C.vtf,43896,43896
+materials/PK02/PK02_FLOOR06B.vmt,252,252
+materials/pk02/pk02_floor06b_C.vtf,43896,43896
+materials/pk02/pk02_floor09_N.vtf,1398320,1398320
+materials/PK02/PK02_FLOOR09A.vmt,247,247
+materials/pk02/pk02_floor09a_C.vtf,699256,699256
+materials/PK02/PK02_FLOOR09B.vmt,247,247
+materials/pk02/pk02_floor09b_C.vtf,1398320,1398320
+materials/PK02/PK02_FLOOR10.vmt,246,246
+materials/pk02/pk02_floor10_C.vtf,87600,87600
+materials/pk02/pk02_floor10_N.vtf,87600,87600
+materials/pk02/pk02_floor12_N.vtf,87600,87600
+materials/PK02/PK02_FLOOR12A.vmt,252,252
+materials/pk02/pk02_floor12a_C.vtf,43896,43896
+materials/pk02/pk02_generic01_N.vtf,349744,349744
+materials/PK02/PK02_GENERIC01A.vmt,251,251
+materials/pk02/pk02_generic01a_C.vtf,174968,174968
+materials/pk02/pk02_light01_N.vtf,11088,11088
+materials/PK02/PK02_LIGHT01A.vmt,267,267
+materials/pk02/pk02_light01a_C.vtf,11088,11088
+materials/PK02/PK02_LIGHT01B.vmt,267,267
+materials/pk02/pk02_light01b_C.vtf,11088,11088
+materials/pk02/pk02_light02_N.vtf,87600,87600
+materials/PK02/PK02_LIGHT02A.vmt,267,267
+materials/pk02/pk02_light02a_C.vtf,87600,87600
+materials/PK02/PK02_LIGHT02B.vmt,267,267
+materials/pk02/pk02_light02b_C.vtf,87600,87600
+materials/PK02/PK02_LIGHT02C.vmt,267,267
+materials/pk02/pk02_light02c_C.vtf,87600,87600
+materials/PK02/PK02_LIGHT03.vmt,266,266
+materials/pk02/pk02_light03_C.vtf,87536,87536
+materials/pk02/pk02_light03_N.vtf,87536,87536
+materials/PK02/PK02_PANELS01B.vmt,255,255
+materials/pk02/pk02_panels01b_C.vtf,174968,174968
+materials/pk02/pk02_panels01b_N.vtf,349744,349744
+materials/PK02/PK02_PIPES01.vmt,267,267
+materials/pk02/pk02_pipes01_C.vtf,349744,349744
+materials/pk02/pk02_pipes01_N.vtf,349744,349744
+materials/PK02/PK02_PLATES01A.vmt,250,250
+materials/pk02/pk02_plates01a_C.vtf,174968,174968
+materials/pk02/pk02_plates01a_N.vtf,349744,349744
+materials/PK02/PK02_PLATES01B.vmt,250,250
+materials/pk02/pk02_plates01b_C.vtf,174968,174968
+materials/pk02/pk02_plates01b_N.vtf,349744,349744
+materials/PK02/PK02_ROCK01.vmt,243,243
+materials/pk02/pk02_rock01_C.vtf,699256,699256
+materials/pk02/pk02_rock01_N.vtf,1398320,1398320
+materials/PK02/PK02_SWITCHES01A.vmt,254,254
+materials/pk02/pk02_switches01a_C.vtf,21992,21992
+materials/pk02/pk02_switches01a_N.vtf,43856,43856
+materials/PK02/PK02_SWITCHES01B.vmt,274,274
+materials/pk02/pk02_switches01b_C.vtf,43856,43856
+materials/pk02/pk02_switches01b_N.vtf,43856,43856
+materials/PK02/PK02_SWITCHES01C.vmt,274,274
+materials/pk02/pk02_switches01c_C.vtf,43856,43856
+materials/pk02/pk02_switches01c_N.vtf,43856,43856
+materials/PK02/PK02_TRIM02.vmt,244,244
+materials/pk02/pk02_trim02_C.vtf,21992,21992
+materials/pk02/pk02_trim02_N.vtf,43856,43856
+materials/PK02/PK02_TRIM03.vmt,244,244
+materials/pk02/pk02_trim03_C.vtf,174888,174888
+materials/pk02/pk02_trim03_N.vtf,349680,349680
+materials/PK02/PK02_TRIM04A.vmt,246,246
+materials/pk02/pk02_trim04a_C.vtf,5608,5608
+materials/pk02/pk02_trim04a_N.vtf,11120,11120
+materials/PK02/PK02_TRIM04B.vmt,246,246
+materials/pk02/pk02_trim04b_C.vtf,5608,5608
+materials/pk02/pk02_trim04b_N.vtf,11120,11120
+materials/pk02/pk02_trim_set01_N.vtf,349744,349744
+materials/PK02/PK02_TRIM_SET01A.vmt,253,253
+materials/pk02/pk02_trim_set01a_C.vtf,174968,174968
+materials/PK02/PK02_TRIM_SET01B.vmt,253,253
+materials/pk02/pk02_trim_set01b_C.vtf,174968,174968
+materials/pk02/pk02_trim_set02_N.vtf,349744,349744
+materials/PK02/PK02_TRIM_SET02A.vmt,253,253
+materials/pk02/pk02_trim_set02a_C.vtf,174968,174968
+materials/PK02/PK02_WALL03B.vmt,246,246
+materials/pk02/pk02_wall03b_C.vtf,349672,349672
+materials/pk02/pk02_wall03b_N.vtf,699216,699216
+materials/PK02/PK02_WALL04A.vmt,246,246
+materials/pk02/pk02_wall04a_C.vtf,174968,174968
+materials/pk02/pk02_wall04a_N.vtf,349744,349744
+materials/PK02/PK02_WALL04B.vmt,246,246
+materials/pk02/pk02_wall04b_C.vtf,174968,174968
+materials/pk02/pk02_wall04b_N.vtf,349744,349744
+materials/PK02/PK02_WALL05B.vmt,246,246
+materials/pk02/pk02_wall05b_C.vtf,174968,174968
+materials/pk02/pk02_wall05b_N.vtf,349744,349744
+materials/PK02/PK02_WALL07A.vmt,246,246
+materials/pk02/pk02_wall07a_C.vtf,174968,174968
+materials/pk02/pk02_wall07a_N.vtf,349744,349744
+materials/PK02/PK02_WALL07B.vmt,246,246
+materials/pk02/pk02_wall07b_C.vtf,174968,174968
+materials/pk02/pk02_wall07b_N.vtf,349744,349744
+materials/pk02/pk02_wall08_N.vtf,699216,699216
+materials/PK02/PK02_WALL08A.vmt,245,245
+materials/pk02/pk02_wall08a_C.vtf,349672,349672
+materials/PK02/PK02_WALL08B.vmt,245,245
+materials/pk02/pk02_wall08b_C.vtf,349672,349672
+materials/PK02/PK02_WALL_BIG01A.vmt,251,251
+materials/pk02/pk02_wall_big01a_C.vtf,699256,699256
+materials/pk02/pk02_wall_big01a_N.vtf,1398320,1398320
+materials/PK02/PK02_WALL_BIG01B.vmt,251,251
+materials/pk02/pk02_wall_big01b_C.vtf,699256,699256
+materials/pk02/pk02_wall_big01b_N.vtf,1398320,1398320
+materials/SCI-FI/METAL/CEILING01A.vmt,408,408
+materials/sci-fi/metal/ceiling01a.vtf,174984,174984
+materials/sci-fi/metal/ceiling01a_height-ssbump.vtf,1398308,1398308
+materials/SCI-FI/METAL/WALL01A.vmt,382,382
+materials/sci-fi/metal/wall01a.vtf,43912,43912
+materials/sci-fi/metal/wall01a_height-ssbump.vtf,349732,349732
+materials/sci-fi/trim/hose03a_height-ssbump.vtf,1398308,1398308
+materials/SCI-FI/TRIM/HOSE03B.vmt,380,380
+materials/sci-fi/trim/hose03b.vtf,174984,174984
+materials/skybox/space_01bk.vmt,119,119
+materials/skybox/space_01bk.vtf,699256,699256
+materials/skybox/space_01dn.vmt,119,119
+materials/skybox/space_01dn.vtf,699256,699256
+materials/skybox/space_01ft.vmt,119,119
+materials/skybox/space_01ft.vtf,699256,699256
+materials/skybox/space_01lf.vmt,119,119
+materials/skybox/space_01lf.vtf,699256,699256
+materials/skybox/space_01rt.vmt,119,119
+materials/skybox/space_01rt.vtf,699256,699256
+materials/skybox/space_01up.vmt,119,119
+materials/skybox/space_01up.vtf,699256,699256
+materials/VBD/PACK 2 REMNONT/REMN_CONFLOOR1.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_confloor1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_confloor1_normal.vtf,1398308,1398308
+materials/VBD/PACK 2 REMNONT/REMN_INNER_WINDOW1.vmt,351,351
+materials/VBD/Pack 2 Remnont/remn_inner_window1.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_inner_window1_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/REMN_INNER_WINDOW1A.vmt,333,333
+materials/VBD/Pack 2 Remnont/remn_inner_window1a.vtf,87544,87544
+materials/VBD/PACK 2 REMNONT/REMN_INNERP1.vmt,320,320
+materials/VBD/Pack 2 Remnont/remn_innerP1.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_innerP1_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/REMN_LIGHT2.vmt,144,144
+materials/VBD/Pack 2 Remnont/remn_light2.vtf,22144,22144
+materials/VBD/PACK 2 REMNONT/REMN_MET_TRIM3.vmt,324,324
+materials/VBD/Pack 2 Remnont/remn_met_trim3.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_met_trim3_normal.vtf,43904,43904
+materials/VBD/PACK 2 REMNONT/REMN_MET_TRIM7.vmt,324,324
+materials/VBD/Pack 2 Remnont/remn_met_trim7.vtf,11128,11128
+materials/VBD/Pack 2 Remnont/remn_met_trim7_normal.vtf,87680,87680
+materials/VBD/PACK 2 REMNONT/REMN_MET_VENT1.vmt,324,324
+materials/VBD/Pack 2 Remnont/remn_met_vent1.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_met_vent1_normal.vtf,174976,174976
+materials/VBD/PACK 2 REMNONT/REMN_METAL_P15_BASE.vmt,334,334
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_base_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/REMN_METAL_P15_E_BASE.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_metal_p15_e_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p15_e_base_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/REMN_METAL_P15_F_BASE.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_metal_p15_f_base.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p1_normal.vtf,1398336,1398336
+materials/VBD/PACK 2 REMNONT/REMN_METAL_P1A.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/REMN_METAL_P9.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_metal_p9.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p9_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/REMN_METALFLOOR1.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor1_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/REMN_METALFLOOR3.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor3.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor3_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/REMN_METALFLOOR9.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/REMN_PILLAR_D.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_pillar_d.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_pillar_d_normal.vtf,43904,43904
+materials/VBD/PACK 2 REMNONT/REMN_PILLAR_E.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_pillar_e.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_pillar_e_normal.vtf,43904,43904
+materials/VBD/PACK 2 REMNONT/REMN_WALL1.vmt,316,316
+materials/VBD/Pack 2 Remnont/remn_wall1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall1_normal.vtf,1398336,1398336
+materials/VBD/PACK 2 REMNONT/REMN_WALL6.vmt,316,316
+materials/VBD/Pack 2 Remnont/remn_wall6.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall6_normal.vtf,1398336,1398336
+materials/VBD/PACK 2 REMNONT/REMN_WALL7.vmt,316,316
+materials/VBD/Pack 2 Remnont/remn_wall7.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall7_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/REMN_WALL_SUP_CENTER2.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2_normal.vtf,1398336,1398336
+materials/VBD/PACK 2 REMNONT/REMN_WINDOW1.vmt,339,339
+materials/VBD/Pack 2 Remnont/remn_window1.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/REMN_WINDOW1_A.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_window1_a.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_window1_normal.vtf,174944,174944

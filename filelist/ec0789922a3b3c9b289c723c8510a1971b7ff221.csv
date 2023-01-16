@@ -1,0 +1,257 @@
+filename,size,compressed
+materials/maps/jb_paper_alive_v4/glass/unbreakable_0_0_0.vmt,128,128
+materials/maps/jb_paper_alive_v4/dev/dev_water2_depth_9.vmt,100,100
+materials/maps/jb_paper_alive_v4/nature/water_wasteland002b_depth_46.vmt,113,113
+materials/maps/jb_paper_alive_v4/nature/water_wasteland002b_depth_1096.vmt,115,115
+materials/maps/jb_paper_alive_v4/nature/water_wasteland002b_depth_1398.vmt,115,115
+materials/maps/jb_paper_alive_v4/nature/water_wasteland002b_depth_64.vmt,113,113
+materials/maps/jb_paper_alive_v4/nature/water_wasteland002b_depth_168.vmt,114,114
+materials/maps/jb_paper_alive_v4/nature/water_wasteland002b_depth_60.vmt,113,113
+materials/maps/jb_paper_alive_v4/de_nuke/nukwater_movingplane_dx70_depth_7.vmt,119,119
+materials/maps/jb_paper_alive_v4/de_nuke/nukwater_movingplane_depth_2.vmt,114,114
+materials/maps/jb_paper_alive_v4/cubemapdefault.vtf,9832,9832
+materials/maps/jb_paper_alive_v4/c0_0_0.vtf,9832,9832
+materials/maps/jb_paper_alive_v4/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jb_paper_alive_v4/c0_0_0.hdr.vtf,76528,76528
+materials/sketchy2/blank.vmt,89,89
+materials/sketchy2/blank.vtf,87616,87616
+materials/sketchy/sketchbrick.vmt,94,94
+materials/sketchy/sketchbrick.vtf,349760,349760
+materials/sketchy2/tile_2.vmt,90,90
+materials/sketchy2/tile_2.vtf,87616,87616
+materials/sketchy2/brick_small.vmt,95,95
+materials/sketchy2/brick_small.vtf,87616,87616
+materials/sketchy2/wall_slope_1.vmt,96,96
+materials/sketchy2/wall_slope_1.vtf,22080,22080
+materials/sketchy2/wall_3.vmt,90,90
+materials/sketchy2/wall_3.vtf,349760,349760
+materials/sketchy2/wall_1.vmt,90,90
+materials/sketchy2/wall_1.vtf,349760,349760
+materials/sketchy2/conc_noedge.vmt,95,95
+materials/sketchy2/conc_noedge.vtf,22080,22080
+materials/sketchy/edgesmall.vmt,92,92
+materials/sketchy/edgesmall.vtf,5632,5632
+materials/sketchy/sketchincandesent.vmt,100,100
+materials/sketchy/sketchincandesent.vtf,22080,22080
+materials/sketchy2/sketchy.vmt,91,91
+materials/sketchy2/sketchy.vtf,87616,87616
+materials/sketchy2/wall_2.vmt,90,90
+materials/sketchy2/wall_2.vtf,349760,349760
+materials/sketchy2/brick_large.vmt,95,95
+materials/sketchy2/brick_large.vtf,87616,87616
+materials/sketchy/sketchfluorescent.vmt,100,100
+materials/sketchy/sketchfluorescent.vtf,43872,43872
+materials/sketchy/sketchduct.vmt,93,93
+materials/sketchy/sketchduct.vtf,87616,87616
+materials/sketchy/sketchpowerbox.vmt,95,95
+materials/sketchy/sketchpowerbox.vtf,87616,87616
+materials/sketchy2/crate_wood_large.vmt,100,100
+materials/sketchy2/crate_wood_large.vtf,87616,87616
+materials/sketchy2/crate_wood_medium.vmt,101,101
+materials/sketchy2/crate_wood_medium.vtf,43872,43872
+materials/sketchy2/conc_slab.vmt,93,93
+materials/sketchy2/conc_slab.vtf,87616,87616
+materials/sketchy/sketchblank.vmt,92,92
+materials/sketchy/sketchblank.vtf,87616,87616
+materials/Raphi/god.vmt,76,76
+materials/Raphi/god.vtf,699248,699248
+materials/Raphi/OPEN.vmt,77,77
+materials/Raphi/OPEN.vtf,11120,11120
+materials/Raphi/Close.vmt,78,78
+materials/Raphi/Close.vtf,11120,11120
+materials/Raphi/GAMEON.vmt,79,79
+materials/Raphi/GAMEON.vtf,11120,11120
+materials/Raphi/GAMEOFF.vmt,80,80
+materials/Raphi/GAMEOFF.vtf,11120,11120
+materials/sketchy2/roof_2.vmt,90,90
+materials/sketchy2/roof_2.vtf,87616,87616
+materials/sketchy2/window_sect_STR.vmt,99,99
+materials/sketchy2/window_sect_STR.vtf,22016,22016
+materials/sketchy2/tile_1.vmt,90,90
+materials/sketchy2/tile_1.vtf,87616,87616
+materials/Raphi/lasgergame.vmt,83,83
+materials/Raphi/lasgergame.vtf,174960,174960
+materials/sketchy2/rocks_2.vmt,91,91
+materials/sketchy2/rocks_2.vtf,87616,87616
+materials/sketchy2/wall_siding.vmt,95,95
+materials/sketchy2/wall_siding.vtf,87616,87616
+materials/sketchy/sketchgaragedoor.vmt,97,97
+materials/sketchy/sketchgaragedoor.vtf,699232,699232
+materials/sketchy2/metal_beam_128.vmt,98,98
+materials/sketchy2/metal_beam_128.vtf,11104,11104
+materials/sketchy/sketchdoor3.vmt,94,94
+materials/sketchy/sketchdoor3.vtf,349760,349760
+materials/sketchy/edgemedium.vmt,93,93
+materials/sketchy/edgemedium.vtf,11136,11136
+materials/sketchy2/brick_tiny.vmt,94,94
+materials/sketchy2/brick_tiny.vtf,43872,43872
+materials/sketchy2/button_1.vmt,92,92
+materials/sketchy2/button_1.vtf,5696,5696
+materials/sketchy/sketchdoor4.vmt,92,92
+materials/sketchy/sketchdoor4.vtf,174944,174944
+materials/sketchy/sketchtoggle.vmt,95,95
+materials/sketchy/sketchtoggle.vtf,11104,11104
+materials/Raphi/expli01.vmt,61,61
+materials/Raphi/expli01.vtf,87560,87560
+materials/Raphi/expli02.vmt,61,61
+materials/Raphi/expli02.vtf,43928,43928
+materials/Raphi/expli03.vmt,61,61
+materials/Raphi/expli03.vtf,43928,43928
+materials/Raphi/expli04.vmt,61,61
+materials/Raphi/expli04.vtf,43928,43928
+materials/Raphi/expli05.vmt,61,61
+materials/Raphi/expli05.vtf,43928,43928
+materials/decals/on.vmt,76,76
+materials/decals/on.vtf,2952,2952
+materials/sketchy2/button_4.vmt,92,92
+materials/sketchy2/button_4.vtf,11104,11104
+materials/Raphi/trollface.vmt,82,82
+materials/Raphi/trollface.vtf,349776,349776
+materials/sketchy2/bed_foot.vmt,92,92
+materials/sketchy2/bed_foot.vtf,87616,87616
+materials/sketchy2/ladder_side.vmt,95,95
+materials/sketchy2/ladder_side.vtf,11104,11104
+materials/sketchy2/bed_top.vmt,91,91
+materials/sketchy2/bed_top.vtf,174944,174944
+materials/sketchy2/misc_locker_slim.vmt,100,100
+materials/sketchy2/misc_locker_slim.vtf,43904,43904
+materials/sketchy2/misc_clock.vmt,94,94
+materials/sketchy2/misc_clock.vtf,22080,22080
+materials/sketchy2/misc_painting_1.vmt,99,99
+materials/sketchy2/misc_painting_1.vtf,87616,87616
+materials/sketchy/sketchladder.vmt,93,93
+materials/sketchy/sketchladder.vtf,22080,22080
+materials/sketchy/sketchpowerboxside.vmt,99,99
+materials/sketchy/sketchpowerboxside.vtf,22016,22016
+materials/sketchy2/window_wide.vmt,95,95
+materials/sketchy2/window_wide.vtf,87616,87616
+materials/sketchy2/roof_1.vmt,90,90
+materials/sketchy2/roof_1.vtf,43872,43872
+materials/sketchy/sketchvent.vmt,93,93
+materials/sketchy/sketchvent.vtf,43912,43912
+materials/sketchy2/door_1a.vmt,91,91
+materials/sketchy2/door_1a.vtf,174944,174944
+materials/sketchy2/barrel_side.vmt,95,95
+materials/sketchy2/barrel_side.vtf,43872,43872
+materials/sketchy2/barrel_top.vmt,94,94
+materials/sketchy2/barrel_top.vtf,22080,22080
+materials/sketchy2/light_small_3.vmt,97,97
+materials/sketchy2/light_small_3.vtf,22080,22080
+materials/sketchy2/wall_slope_4.vmt,96,96
+materials/sketchy2/wall_slope_4.vtf,22016,22016
+materials/sketchy2/light_small_1.vmt,97,97
+materials/sketchy2/light_small_1.vtf,22080,22080
+materials/NEON/green.vmt,95,95
+materials/NEON/green.vtf,174968,174968
+materials/sprites/trails/mat_nyan.vmt,141,141
+materials/sprites/trails/mat_nyan.vtf,22080,22080
+materials/sketchy/sketchcrate256.vmt,97,97
+materials/sketchy/sketchcrate256.vtf,87616,87616
+materials/sketchy/sketchwall1.vmt,92,92
+materials/sketchy/sketchwall1.vtf,349760,349760
+materials/sketchy/sketchcrate128.vmt,97,97
+materials/sketchy/sketchcrate128.vtf,22080,22080
+materials/sketchy/sketchladderend.vmt,96,96
+materials/sketchy/sketchladderend.vtf,22080,22080
+materials/sketchy/sketchdoor1.vmt,94,94
+materials/sketchy/sketchdoor1.vtf,174944,174944
+materials/sketchy2/door_4a.vmt,91,91
+materials/sketchy2/door_4a.vtf,174944,174944
+materials/n_glass/glass_cua002.vmt,112,112
+materials/n_glass/glass_cua002.vtf,349760,349760
+materials/Raphi/Noel.vmt,77,77
+materials/Raphi/Noel.vtf,22096,22096
+materials/Raphi/dead.vmt,58,58
+materials/Raphi/dead.vtf,43928,43928
+materials/sketchy2/misc_electricbox_side.vmt,105,105
+materials/sketchy2/misc_electricbox_side.vtf,22016,22016
+materials/sketchy2/crate_metal_large.vmt,101,101
+materials/sketchy2/crate_metal_large.vtf,87616,87616
+materials/sketchy/LEMON.vmt,107,107
+materials/sketchy/lemon.vtf,349760,349760
+materials/sketchy/sketchsignentrance.vmt,99,99
+materials/sketchy/sketchsignentrance.vtf,22016,22016
+materials/sketchy/sketchcredit1.vmt,96,96
+materials/sketchy/sketchcredit1.vtf,87552,87552
+materials/sketchy/sketchcredit2.vmt,96,96
+materials/sketchy/sketchcredit2.vtf,22016,22016
+materials/sketchy/sketchpicture.vmt,94,94
+materials/sketchy/sketchpicture.vtf,87616,87616
+materials/sketchy/sketchsignloading.vmt,98,98
+materials/sketchy/sketchsignloading.vtf,43872,43872
+materials/sketchy2/misc_electricbox.vmt,100,100
+materials/sketchy2/misc_electricbox.vtf,87616,87616
+materials/Raphi/HouseRaphi.vmt,83,83
+materials/Raphi/HouseRaphi.vtf,349712,349712
+materials/Raphi/HouseStylez.vmt,84,84
+materials/Raphi/HouseStylez.vtf,349712,349712
+materials/Raphi/HungerGame01.vmt,85,85
+materials/Raphi/HungerGame01.vtf,349712,349712
+materials/Raphi/HouseSEL.vmt,81,81
+materials/Raphi/HouseSEL.vtf,349712,349712
+materials/Raphi/ff.vmt,56,56
+materials/Raphi/ff.vtf,175000,175000
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,1398336,1398336
+sound/Spanish.mp3,2657318,2657318
+sound/ahead.wav,541982,541982
+sound/Gamezic01.mp3,5200331,5200331
+sound/Gamezic02.mp3,2094476,2094476
+sound/lasersong01.mp3,4193467,4193467
+sound/lasersong02.mp3,1765542,1765542
+sound/spacejam.mp3,3366744,3366744
+sound/DiscoGuetta.mp3,2731403,2731403
+sound/DiscoHEY.mp3,3026064,3026064
+sound/DiscoTiesto.mp3,3205787,3205787
+sound/DiscoWolf.mp3,2932533,2932533
+sound/Kohlanta.mp3,975692,975692
+sound/grosse.mp3,78157,78157
+sound/mort.mp3,104906,104906
+sound/hunger.mp3,1882265,1882265
+sound/MEUTMEUT.mp3,30928,30928
+sound/Biblefinal.mp3,283793,283793
+sound/Citron01Bienvenue.mp3,110758,110758
+sound/Citronsix1.mp3,102399,102399
+sound/CITRONENDEND2.mp3,816316,816316
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/Advisor_FX.pcf,177281,177281
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/ball.pcf,6775,6775
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/blood_impact.pcf,143809,143809
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/bonfire.pcf,8327,8327
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/burning_fx.pcf,19068,19068
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/candytot_fx.pcf,39804,39804
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/choreo_extract.pcf,24512,24512
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/custom.pcf,70816,70816
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/effects.pcf,18685,18685
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/electrical_fx.pcf,36114,36114
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/error.pcf,2175,2175
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/fire_01.pcf,302807,302807
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/flag.pcf,2326,2326
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/fusrodah.pcf,115311,115311
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/fusroderp.pcf,131935,131935
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/hunter_flechette.pcf,6438,6438
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/hunter_intro.pcf,3292,3292
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/hunter_projectile.pcf,72121,72121
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/hunter_shield_impact.pcf,14159,14159
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/impact_fx.pcf,86241,86241
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/jb_paper_alive_fix_particles.txt,292,292
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/kaitse.pcf,5281,5281
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/lanzallamas.pcf,48075,48075
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/nuke.pcf,35252,35252
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/paranoid_1.pcf,58023,58023
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/paranoid_2.pcf,83612,83612
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/paranoid_3.pcf,119396,119396
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/paranoid_4.pcf,108836,108836
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/paranoid_5.pcf,73498,73498
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/paranoid_6.pcf,62031,62031
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/paranoid_7.pcf,10270,10270
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/paranoid_8.pcf,29109,29109
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/particles_manifest.txt,429,429
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/rain_with_collision.pcf,19430,19430
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/rocket_fx.pcf,7038,7038
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/torches.pcf,30413,30413
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/Vortigaunt_FX.pcf,81500,81500
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/water_impact.pcf,110520,110520
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/waterfall.pcf,77074,77074
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/download/particles/weapons_fx.pcf,52836,52836
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/particles/custom.pcf,70816,70816
+D:/Steam/SteamApps/common/Counter-Strike Source/cstrike/particles/jb_paper_alive_fix_particles.txt,292,292

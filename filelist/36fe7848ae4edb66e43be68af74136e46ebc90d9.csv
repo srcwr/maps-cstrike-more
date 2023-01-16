@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/ba_jail_escape/perftest/blendrockdirt001a_wvt_patch.vmt,168,168
+materials/maps/ba_jail_escape/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/ba_jail_escape/props/metalduct001a_0_0_0.vmt,127,127
+materials/maps/ba_jail_escape/dev/dev_water2_depth_180.vmt,102,102
+materials/maps/ba_jail_escape/dev/dev_water2_depth_10.vmt,101,101
+materials/maps/ba_jail_escape/dev/dev_water2_depth_16670.vmt,104,104
+materials/maps/ba_jail_escape/cubemapdefault.vtf,4960,4960
+materials/maps/ba_jail_escape/c0_0_0.vtf,4960,4960
+materials/maps/ba_jail_escape/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ba_jail_escape/c0_0_0.hdr.vtf,76528,76528

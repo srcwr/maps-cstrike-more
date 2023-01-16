@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/aim_cumshot/nature/water_canals_water2_depth_184.vmt,114,114
+materials/maps/aim_cumshot/cubemapdefault.vtf,9824,9824
+materials/maps/aim_cumshot/cubemapdefault.hdr.vtf,76520,76520
+materials/BREAKOUT/GREEN.vmt,181,181
+materials/breakout/green.vtf,174968,174968
+materials/BREAKOUT/YELLOW.vmt,182,182
+materials/breakout/yellow.vtf,174968,174968
+models/models_kit/doll_turtle.mdl,22564,22564
+models/models_kit/doll_turtle.dx80.vtx,5676,5676
+models/models_kit/doll_turtle.dx90.vtx,5676,5676
+models/models_kit/doll_turtle.sw.vtx,5548,5548
+models/models_kit/doll_turtle.vvd,19200,19200
+materials/models/models_kit/doll_turtle.vmt,75,75
+materials/models/models_kit/doll_turtle.vtf,43912,43912
+maps/soundcache/aim_cumshot.cache,16,16

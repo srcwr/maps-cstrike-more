@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/surf_o_tower_f/glass/combineglass001a_0_0_0.vmt,130,130
+materials/maps/surf_o_tower_f/tile/tilefloor001b_0_0_0.vmt,126,126
+materials/maps/surf_o_tower_f/metal/citadel_tilewall005a_0_0_0.vmt,134,134
+materials/maps/surf_o_tower_f/dev/dev_water2_cheap_depth_4.vmt,106,106
+materials/maps/surf_o_tower_f/dev/dev_water2_cheap_depth_96.vmt,107,107
+materials/maps/surf_o_tower_f/dev/dev_water2_cheap_depth_10.vmt,107,107
+materials/maps/surf_o_tower_f/cubemapdefault.vtf,9824,9824
+materials/maps/surf_o_tower_f/c0_0_0.vtf,9824,9824
+materials/maps/surf_o_tower_f/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/surf_o_tower_f/c0_0_0.hdr.vtf,76520,76520

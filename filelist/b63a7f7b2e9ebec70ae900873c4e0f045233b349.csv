@@ -1,0 +1,18 @@
+filename,size,compressed
+materials/maps/prop_drop/metal/metalpipe007a_0_0_0.vmt,122,122
+materials/maps/prop_drop/cubemapdefault.vtf,4952,4952
+materials/maps/prop_drop/c0_0_0.vtf,4952,4952
+materials/skybox/flm02_up.vmt,85,85
+materials/skybox/flm02_up.vtf,699272,699272
+materials/skybox/flm02_dn.vmt,85,85
+materials/skybox/flm02_dn.vtf,699272,699272
+materials/skybox/flm02_ft.vmt,85,85
+materials/skybox/flm02_ft.vtf,699272,699272
+materials/skybox/flm02_bk.vmt,85,85
+materials/skybox/flm02_bk.vtf,699272,699272
+materials/skybox/flm02_lf.vmt,85,85
+materials/skybox/flm02_lf.vtf,699272,699272
+materials/skybox/flm02_rt.vmt,85,85
+materials/skybox/flm02_rt.vtf,699272,699272
+sound/alpha wolf/youtu.mp3,1294341,1294341
+maps/soundcache/prop_drop.cache,16,16

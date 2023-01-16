@@ -1,0 +1,83 @@
+filename,size,compressed
+materials/360G/GLAS/MILCHGLAS GLASTEXTUR.vmt,260,260
+materials/360g/Glas/Milchglas Glastextur.vtf,349744,349744
+materials/360g/Glas/Milchglas Glastextur_Specular.vtf,349744,349744
+materials/360G/MOSAIK/MOSAIK_BLAU.vmt,278,278
+materials/360g/Mosaik/mosaik_blau.vtf,87600,87600
+materials/360g/Mosaik/mosaik_blau_normal.vtf,87600,87600
+materials/360g/Mosaik/mosaik_blau_specular.vtf,87600,87600
+materials/360G/SONSTIGES/IS_JUMP_SPEC.vmt,293,293
+materials/360g/Sonstiges/is_jump_spec.vtf,349672,349672
+materials/360G/SONSTIGES/PFEIL_WEISS.vmt,129,129
+materials/360g/Sonstiges/pfeil_weiss.vtf,349744,349744
+materials/360G/SPRAYLOGO.vmt,161,161
+materials/360g/Spraylogo.vtf,87600,87600
+materials/maps/is_jump/360g/glas/milchglas glastextur_-256_-1536_480.vmt,140,140
+materials/maps/is_jump/360g/glas/milchglas glastextur_-272_0_480.vmt,136,136
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_-1311_480.vmt,137,137
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_-1536_136.vmt,137,137
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_-1536_437.vmt,137,137
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_-1839_480.vmt,137,137
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_-2103_192.vmt,137,137
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_-225_480.vmt,136,136
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_-3175_85.vmt,136,136
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_-550_136.vmt,136,136
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_-986_136.vmt,136,136
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_0_136.vmt,133,133
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_0_432.vmt,133,133
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_1639_85.vmt,135,135
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_303_480.vmt,135,135
+materials/maps/is_jump/360g/glas/milchglas glastextur_0_567_192.vmt,135,135
+materials/maps/is_jump/360g/glas/milchglas glastextur_256_0_480.vmt,135,135
+materials/maps/is_jump/360g/glas/milchglas glastextur_272_-1536_480.vmt,139,139
+materials/maps/is_jump/360g/mosaik/mosaik_blau_0_-1536_136.vmt,130,130
+materials/maps/is_jump/360g/mosaik/mosaik_blau_0_-2103_192.vmt,130,130
+materials/maps/is_jump/360g/mosaik/mosaik_blau_0_-550_136.vmt,129,129
+materials/maps/is_jump/360g/mosaik/mosaik_blau_0_-986_136.vmt,129,129
+materials/maps/is_jump/360g/mosaik/mosaik_blau_0_0_136.vmt,126,126
+materials/maps/is_jump/360g/mosaik/mosaik_blau_0_567_192.vmt,128,128
+materials/maps/is_jump/c-256_-1536_480.vtf,4952,4952
+materials/maps/is_jump/c-272_0_480.vtf,4952,4952
+materials/maps/is_jump/c0_-1311_480.vtf,4952,4952
+materials/maps/is_jump/c0_-1536_136.vtf,4952,4952
+materials/maps/is_jump/c0_-1536_437.vtf,4952,4952
+materials/maps/is_jump/c0_-1839_480.vtf,4952,4952
+materials/maps/is_jump/c0_-2103_192.vtf,4952,4952
+materials/maps/is_jump/c0_-225_480.vtf,4952,4952
+materials/maps/is_jump/c0_-3175_85.vtf,4952,4952
+materials/maps/is_jump/c0_-550_136.vtf,4952,4952
+materials/maps/is_jump/c0_-986_136.vtf,4952,4952
+materials/maps/is_jump/c0_0_136.vtf,4952,4952
+materials/maps/is_jump/c0_0_432.vtf,4952,4952
+materials/maps/is_jump/c0_1639_85.vtf,4952,4952
+materials/maps/is_jump/c0_303_480.vtf,4952,4952
+materials/maps/is_jump/c0_567_192.vtf,4952,4952
+materials/maps/is_jump/c256_0_480.vtf,4952,4952
+materials/maps/is_jump/c272_-1536_480.vtf,4952,4952
+materials/maps/is_jump/cubemapdefault.vtf,9824,9824
+materials/maps/is_jump/glass/glasswindow007a_-256_-1536_480.vmt,131,131
+materials/maps/is_jump/glass/glasswindow007a_-272_0_480.vmt,127,127
+materials/maps/is_jump/glass/glasswindow007a_0_-1311_480.vmt,128,128
+materials/maps/is_jump/glass/glasswindow007a_0_-1536_136.vmt,128,128
+materials/maps/is_jump/glass/glasswindow007a_0_-1536_437.vmt,128,128
+materials/maps/is_jump/glass/glasswindow007a_0_-1839_480.vmt,128,128
+materials/maps/is_jump/glass/glasswindow007a_0_-225_480.vmt,127,127
+materials/maps/is_jump/glass/glasswindow007a_0_0_136.vmt,124,124
+materials/maps/is_jump/glass/glasswindow007a_0_0_432.vmt,124,124
+materials/maps/is_jump/glass/glasswindow007a_0_303_480.vmt,126,126
+materials/maps/is_jump/glass/glasswindow007a_256_0_480.vmt,126,126
+materials/maps/is_jump/glass/glasswindow007a_272_-1536_480.vmt,130,130
+materials/maps/is_jump/maps/stenesforest/nature/water_canals03_-786_692_-191_depth_14.vmt,140,140
+materials/MAPS/STENESFOREST/NATURE/WATER_CANALS03_-786_692_-191.vmt,158,158
+materials/skybox/gflow/flowsky09_bk.vmt,95,95
+materials/skybox/gflow/flowsky09_bk.vtf,699272,699272
+materials/skybox/gflow/flowsky09_dn.vmt,95,95
+materials/skybox/gflow/flowsky09_dn.vtf,699272,699272
+materials/skybox/gflow/flowsky09_ft.vmt,95,95
+materials/skybox/gflow/flowsky09_ft.vtf,699272,699272
+materials/skybox/gflow/flowsky09_lf.vmt,95,95
+materials/skybox/gflow/flowsky09_lf.vtf,699272,699272
+materials/skybox/gflow/flowsky09_rt.vmt,95,95
+materials/skybox/gflow/flowsky09_rt.vtf,699272,699272
+materials/skybox/gflow/flowsky09_up.vmt,95,95
+materials/skybox/gflow/flowsky09_up.vtf,699272,699272

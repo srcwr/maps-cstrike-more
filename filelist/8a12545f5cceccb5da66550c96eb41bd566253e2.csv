@@ -1,0 +1,42 @@
+filename,size,compressed
+materials/maps/mg_rw-frogs_course/nature/blendgrassgravel002a_wvt_patch.vmt,196,196
+materials/maps/mg_rw-frogs_course/dev/dev_blendmeasure2_wvt_patch.vmt,135,135
+materials/maps/mg_rw-frogs_course/dev/dev_water2_cheap_depth_112.vmt,108,108
+materials/maps/mg_rw-frogs_course/nature/sewer_waterdarkfog_dx70_depth_75.vmt,117,117
+materials/maps/mg_rw-frogs_course/dev/dev_water2_cheap_depth_48.vmt,107,107
+materials/maps/mg_rw-frogs_course/dev/dev_water2_cheap_depth_192.vmt,108,108
+materials/maps/mg_rw-frogs_course/dev/dev_water2_cheap_depth_256.vmt,108,108
+materials/maps/mg_rw-frogs_course/dev/dev_water2_cheap_depth_144.vmt,108,108
+materials/maps/mg_rw-frogs_course/dev/dev_water2_cheap_depth_376.vmt,108,108
+materials/maps/mg_rw-frogs_course/dev/dev_water2_cheap_depth_40.vmt,107,107
+materials/maps/mg_rw-frogs_course/dev/dev_water2_cheap_depth_7.vmt,106,106
+materials/maps/mg_rw-frogs_course/cubemapdefault.vtf,9832,9832
+materials/maps/mg_rw-frogs_course/cubemapdefault.hdr.vtf,76528,76528
+materials/REALWORLDTEXTURES2/GROUND/GRASS_10.vmt,322,322
+materials/RealWorldTextures2/Ground/grass_10.vtf,174984,174984
+materials/RealWorldTextures2/detail/dt_grass1.vtf,16807,16807
+materials/REALWORLDTEXTURES2/GROUND/DIRT_01.vmt,398,398
+materials/RealWorldTextures2/Ground/dirt_01.vtf,174984,174984
+materials/RealWorldTextures2/ground/dirt_02_nrm.vtf,174984,174984
+materials/RealWorldTextures2/detail/detaildirt001a.vtf,262567,262567
+materials/DEV/DEV_MEASUREGENERIC12.vmt,93,93
+materials/dev/dev_measuregeneric12.vtf,11144,11144
+materials/REALWORLDTEXTURES2/GROUND/GRASS_16.vmt,322,322
+materials/RealWorldTextures2/Ground/grass_16.vtf,174984,174984
+materials/REALWORLDTEXTURES2/CONCRETE/CONCRETE_28.vmt,290,290
+materials/RealWorldTextures2/Concrete/concrete_28.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_28_nrm.vtf,174984,174984
+materials/DEV/DEV_MEASUREGENERIC27.vmt,93,93
+materials/dev/dev_measuregeneric27.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC16.vmt,93,93
+materials/dev/dev_measuregeneric16.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC46.vmt,93,93
+materials/dev/dev_measuregeneric46.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC40.vmt,93,93
+materials/dev/dev_measuregeneric40.vtf,11144,11144
+materials/DEV/DEV_MEASUREGENERIC44.vmt,93,93
+materials/dev/dev_measuregeneric44.vtf,11144,11144
+sound/myobstaclemap/david guetta feat rihanna - whos that chick  - lyrics video.mp3,3287699,3287699
+sound/myobstaclemap/rio - like i love you.mp3,3360006,3360006
+sound/myobstaclemap/sexion dassaut - dΘsolΘ.mp3,3280176,3280176
+maps/mg_rw-frogs_course.nav,28311,28311

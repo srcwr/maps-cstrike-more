@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/mg_saw2/environment maps/pipemetal004a_0_0_0.vmt,131,131
+materials/maps/mg_saw2/environment maps/pipemetal001a_0_0_0.vmt,131,131
+materials/maps/mg_saw2/nature/water_movingplane_dx70_depth_188.vmt,117,117
+materials/maps/mg_saw2/shadertest/water_refract_only_nofresnel_depth_93.vmt,126,126
+materials/maps/mg_saw2/shadertest/water_refract_only_nofresnel_depth_81.vmt,126,126
+materials/maps/mg_saw2/de_nuke/nukwater_movingplane_dx70_depth_185.vmt,121,121
+materials/maps/mg_saw2/shadertest/watercheap_opaque_nofresnel_depth_315.vmt,126,126
+materials/maps/mg_saw2/cubemapdefault.vtf,9824,9824
+materials/maps/mg_saw2/c0_0_0.vtf,9824,9824

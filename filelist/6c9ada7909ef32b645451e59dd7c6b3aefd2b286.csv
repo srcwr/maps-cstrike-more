@@ -1,0 +1,162 @@
+filename,size,compressed
+materials/maps/scout_bowser_mario/nature/water_canals_water_murky_depth_52.vmt,118,118
+materials/maps/scout_bowser_mario/cubemapdefault.vtf,9824,9824
+materials/maps/scout_bowser_mario/cubemapdefault.hdr.vtf,76520,76520
+materials/MARIO_64/BRICK_CLOUDWALL.vmt,97,97
+materials/Mario_64/brick_cloudwall.vtf,43912,43912
+materials/MARIO_64/BOWSER_PAINTING.vmt,96,96
+materials/Mario_64/bowser_painting.vtf,43912,43912
+materials/MARIO_64/BRICK_SILVERGRAY.vmt,98,98
+materials/Mario_64/brick_silvergray.vtf,22008,22008
+materials/MODELS/MARIORAGDOLL/SUPER MARIO GALAXY/BJSHIP/BJSHSS01.vmt,100,100
+materials/MARIO_64/TILE_FLOOR_3LOBE_GRAY.vmt,102,102
+materials/Mario_64/tile_floor_3lobe_gray.vtf,11144,11144
+materials/MARIO_64/BRICK_BROWN.vmt,93,93
+materials/Mario_64/brick_brown.vtf,11144,11144
+materials/MARIO_64/WOOD4.vmt,86,86
+materials/Mario_64/wood4.vtf,11144,11144
+materials/MARIO_64/BRICK_TERRACOTTA_GRAY_MORTER.vmt,110,110
+materials/Mario_64/brick_terracotta_gray_morter.vtf,22008,22008
+models/marioragdoll/super mario galaxy/chain chomp/chainchomp.mdl,1892,1892
+models/marioragdoll/super mario galaxy/chain chomp/chainchomp.dx80.vtx,16950,16950
+models/marioragdoll/super mario galaxy/chain chomp/chainchomp.dx90.vtx,16950,16950
+models/marioragdoll/super mario galaxy/chain chomp/chainchomp.sw.vtx,16934,16934
+models/marioragdoll/super mario galaxy/chain chomp/chainchomp.phy,23393,23393
+models/marioragdoll/super mario galaxy/chain chomp/chainchomp.vvd,53568,53568
+materials/Models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS03.vmt,270,270
+materials/Models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS01.vmt,270,270
+models/marioragdoll/super mario galaxy/goomba/bgoomba.mdl,3164,3164
+models/marioragdoll/super mario galaxy/goomba/bgoomba.dx80.vtx,32907,32907
+models/marioragdoll/super mario galaxy/goomba/bgoomba.dx90.vtx,32907,32907
+models/marioragdoll/super mario galaxy/goomba/bgoomba.sw.vtx,32867,32867
+models/marioragdoll/super mario galaxy/goomba/bgoomba.phy,32998,32998
+models/marioragdoll/super mario galaxy/goomba/bgoomba.vvd,114560,114560
+materials/models/marioragdoll/Super Mario Galaxy/goomba/gianSS00.vmt,132,132
+materials/models/marioragdoll/Super Mario Galaxy/goomba/gianSS01.vmt,132,132
+models/marioragdoll/super mario galaxy/bullet bill/bulletbill.mdl,2604,2604
+models/marioragdoll/super mario galaxy/bullet bill/bulletbill.dx80.vtx,8827,8827
+models/marioragdoll/super mario galaxy/bullet bill/bulletbill.dx90.vtx,8827,8827
+models/marioragdoll/super mario galaxy/bullet bill/bulletbill.sw.vtx,8795,8795
+models/marioragdoll/super mario galaxy/bullet bill/bulletbill.phy,12287,12287
+models/marioragdoll/super mario galaxy/bullet bill/bulletbill.vvd,30592,30592
+materials/Models/marioragdoll/Super Mario Galaxy/bullet bill/bullSS01.vmt,250,250
+materials/Models/marioragdoll/Super Mario Galaxy/bullet bill/bullSS00.vmt,252,252
+models/marioragdoll/super mario galaxy/bonzai bill/bonzaibill.mdl,2120,2120
+models/marioragdoll/super mario galaxy/bonzai bill/bonzaibill.dx80.vtx,22572,22572
+models/marioragdoll/super mario galaxy/bonzai bill/bonzaibill.dx90.vtx,22572,22572
+models/marioragdoll/super mario galaxy/bonzai bill/bonzaibill.sw.vtx,22548,22548
+models/marioragdoll/super mario galaxy/bonzai bill/bonzaibill.phy,28681,28681
+models/marioragdoll/super mario galaxy/bonzai bill/bonzaibill.vvd,77696,77696
+materials/Models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS00.vmt,253,253
+materials/Models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS02.vmt,253,253
+materials/Models/marioragdoll/Super Mario Galaxy/bonzai bill/bonzSS01.vmt,253,253
+models/marioragdoll/super mario galaxy/luma/luma2.mdl,3684,3684
+models/marioragdoll/super mario galaxy/luma/luma2.dx80.vtx,9271,9271
+models/marioragdoll/super mario galaxy/luma/luma2.dx90.vtx,9271,9271
+models/marioragdoll/super mario galaxy/luma/luma2.sw.vtx,9215,9215
+models/marioragdoll/super mario galaxy/luma/luma2.phy,15969,15969
+models/marioragdoll/super mario galaxy/luma/luma2.vvd,28288,28288
+materials/models/marioragdoll/Super Mario Galaxy/luma/lumaSS03.vmt,253,253
+materials/models/marioragdoll/Super Mario Galaxy/luma/lumaSS00.vmt,257,257
+models/marioragdoll/super mario galaxy/luma/luma3.mdl,3684,3684
+models/marioragdoll/super mario galaxy/luma/luma3.dx80.vtx,9271,9271
+models/marioragdoll/super mario galaxy/luma/luma3.dx90.vtx,9271,9271
+models/marioragdoll/super mario galaxy/luma/luma3.sw.vtx,9215,9215
+models/marioragdoll/super mario galaxy/luma/luma3.phy,15969,15969
+models/marioragdoll/super mario galaxy/luma/luma3.vvd,28288,28288
+materials/models/marioragdoll/Super Mario Galaxy/luma/lumaSS04.vmt,256,256
+models/marioragdoll/super mario galaxy/luma/luma6.mdl,3684,3684
+models/marioragdoll/super mario galaxy/luma/luma6.dx80.vtx,9271,9271
+models/marioragdoll/super mario galaxy/luma/luma6.dx90.vtx,9271,9271
+models/marioragdoll/super mario galaxy/luma/luma6.sw.vtx,9215,9215
+models/marioragdoll/super mario galaxy/luma/luma6.phy,15969,15969
+models/marioragdoll/super mario galaxy/luma/luma6.vvd,28288,28288
+materials/models/marioragdoll/Super Mario Galaxy/luma/lumaSS07.vmt,253,253
+models/marioragdoll/super mario galaxy/luma/luma.mdl,3684,3684
+models/marioragdoll/super mario galaxy/luma/luma.dx80.vtx,9271,9271
+models/marioragdoll/super mario galaxy/luma/luma.dx90.vtx,9271,9271
+models/marioragdoll/super mario galaxy/luma/luma.sw.vtx,9215,9215
+models/marioragdoll/super mario galaxy/luma/luma.phy,15969,15969
+models/marioragdoll/super mario galaxy/luma/luma.vvd,28288,28288
+materials/models/marioragdoll/Super Mario Galaxy/luma/lumaSS02.vmt,254,254
+sound/mario/mario_classic.wav,1612854,1612854
+sound/mario/bowser.wav,41900,41900
+models/marioragdoll/super mario galaxy/luigi/luigi.mdl,6772,6772
+models/marioragdoll/super mario galaxy/luigi/luigi.dx80.vtx,66621,66621
+models/marioragdoll/super mario galaxy/luigi/luigi.dx90.vtx,66621,66621
+models/marioragdoll/super mario galaxy/luigi/luigi.sw.vtx,66445,66445
+models/marioragdoll/super mario galaxy/luigi/luigi.phy,14518,14518
+models/marioragdoll/super mario galaxy/luigi/luigi.vvd,226496,226496
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiBody.vmt,619,619
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiFace.vmt,644,644
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiHand.vmt,631,631
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiCap.vmt,644,644
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiHair.vmt,645,645
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigi_eyeLid.vmt,621,621
+materials/models/marioragdoll/Super Mario Galaxy/luigi/luigiLuigiEyeBall.vmt,622,622
+models/marioragdoll/super_mario_64/mario/mario.mdl,7260,7260
+models/marioragdoll/super_mario_64/mario/mario.dx80.vtx,12488,12488
+models/marioragdoll/super_mario_64/mario/mario.dx90.vtx,12488,12488
+models/marioragdoll/super_mario_64/mario/mario.sw.vtx,12304,12304
+models/marioragdoll/super_mario_64/mario/mario.phy,19325,19325
+models/marioragdoll/super_mario_64/mario/mario.vvd,40640,40640
+materials/models/marioragdoll/Super_Mario_64/mario/blue.vmt,123,123
+materials/models/marioragdoll/Super_Mario_64/Mario/blue.vtf,87616,87616
+materials/models/marioragdoll/Super_Mario_64/mario/red.vmt,122,122
+materials/models/marioragdoll/Super_Mario_64/Mario/red.vtf,87616,87616
+materials/models/marioragdoll/Super_Mario_64/mario/skin.vmt,123,123
+materials/models/marioragdoll/Super_Mario_64/Mario/skin.vtf,87616,87616
+materials/models/marioragdoll/Super_Mario_64/mario/brown.vmt,124,124
+materials/models/marioragdoll/Super_Mario_64/Mario/brown.vtf,87616,87616
+materials/models/marioragdoll/Super_Mario_64/mario/white.vmt,124,124
+materials/models/marioragdoll/Super_Mario_64/Mario/white.vtf,87616,87616
+materials/models/marioragdoll/Super_Mario_64/mario/eye.vmt,138,138
+materials/models/marioragdoll/Super_Mario_64/Mario/eye.vtf,4176,4176
+materials/models/marioragdoll/Super_Mario_64/mario/sideburn.vmt,143,143
+materials/models/marioragdoll/Super_Mario_64/Mario/sideburn.vtf,4176,4176
+materials/models/marioragdoll/Super_Mario_64/mario/button.vmt,141,141
+materials/models/marioragdoll/Super_Mario_64/Mario/button.vtf,4176,4176
+materials/models/marioragdoll/Super_Mario_64/mario/mustache.vmt,143,143
+materials/models/marioragdoll/Super_Mario_64/Mario/mustache.vtf,5668,5668
+materials/models/marioragdoll/Super_Mario_64/mario/m.vmt,136,136
+materials/models/marioragdoll/Super_Mario_64/Mario/m.vtf,4176,4176
+sound/mario/misc/falling1.wav,46178,46178
+models/marioragdoll/super mario galaxy/fire flower/fire.mdl,1480,1480
+models/marioragdoll/super mario galaxy/fire flower/fire.dx80.vtx,10467,10467
+models/marioragdoll/super mario galaxy/fire flower/fire.dx90.vtx,10467,10467
+models/marioragdoll/super mario galaxy/fire flower/fire.sw.vtx,10459,10459
+models/marioragdoll/super mario galaxy/fire flower/fire.phy,4383,4383
+models/marioragdoll/super mario galaxy/fire flower/fire.vvd,37056,37056
+materials/Models/marioragdoll/Super Mario Galaxy/fire flower/fireSS00.vmt,566,566
+sound/mario/falling1.wav,33132,33132
+models/marioragdoll/super mario galaxy/bowser/bowser.mdl,8300,8300
+models/marioragdoll/super mario galaxy/bowser/bowser.dx80.vtx,101308,101308
+models/marioragdoll/super mario galaxy/bowser/bowser.dx90.vtx,101165,101165
+models/marioragdoll/super mario galaxy/bowser/bowser.sw.vtx,100853,100853
+models/marioragdoll/super mario galaxy/bowser/bowser.phy,63650,63650
+models/marioragdoll/super mario galaxy/bowser/bowser.vvd,370304,370304
+materials/models/marioragdoll/Super Mario Galaxy/bowser/bowserKoopaBody.vmt,260,260
+materials/models/marioragdoll/Super Mario Galaxy/bowser/bowserKoopaEyeBall.vmt,159,159
+materials/models/marioragdoll/Super Mario Galaxy/bowser/bowserKoopaEyeLid.vmt,158,158
+materials/models/marioragdoll/Super Mario Galaxy/bowser/bowserKoopaHair.vmt,260,260
+materials/models/marioragdoll/Super Mario Galaxy/bowser/bowserKoopaLip.vmt,290,290
+materials/models/marioragdoll/Super Mario Galaxy/bowser/bowserKoopaMouth.vmt,142,142
+materials/models/marioragdoll/Super Mario Galaxy/bowser/bowserKoopaRing.vmt,275,275
+materials/models/marioragdoll/Super Mario Galaxy/bowser/bowserKoopaShell.vmt,163,163
+models/marioragdoll/super mario galaxy/bj ship/bjship.mdl,2816,2816
+models/marioragdoll/super mario galaxy/bj ship/bjship.dx80.vtx,73353,73353
+models/marioragdoll/super mario galaxy/bj ship/bjship.dx90.vtx,73353,73353
+models/marioragdoll/super mario galaxy/bj ship/bjship.sw.vtx,73289,73289
+models/marioragdoll/super mario galaxy/bj ship/bjship.phy,8661,8661
+models/marioragdoll/super mario galaxy/bj ship/bjship.vvd,297344,297344
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS00.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS07.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS06.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS05.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS04.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS03.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS02.vmt,100,100
+materials/Models/marioragdoll/Super Mario Galaxy/bjship/bjshSS01.vmt,100,100
+materials/vgui/logos/muttley.vmt,101,101
+materials/VGUI/logos/Muttley.vtf,87600,87600
+maps/soundcache/scout_bowser_mario.cache,16,16

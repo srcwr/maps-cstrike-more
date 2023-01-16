@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/KC_MAIN/STARTTIMERSIGN.vmt,103,103
+materials/kc_main/starttimersign.vtf,22080,22080
+materials/maps/xc_dtt_nasty_d/c0_0_0.hdr.vtf,76520,76520
+materials/maps/xc_dtt_nasty_d/c0_0_0.vtf,9824,9824
+materials/maps/xc_dtt_nasty_d/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/xc_dtt_nasty_d/cubemapdefault.vtf,9824,9824
+materials/maps/xc_dtt_nasty_d/dev/dev_water3_exp_depth_16.vmt,105,105
+materials/maps/xc_dtt_nasty_d/metal/citadel_metalwall078a_0_0_0.vmt,135,135
+materials/maps/xc_dtt_nasty_d/metal/citadel_tilewall005a_0_0_0.vmt,134,134
+materials/TIMER_SWT/DIGITS.vmt,236,236
+materials/timer_swt/digits.vtf,55088,55088
+materials/TIMER_SWT/INVALID_TIME.vmt,83,83
+materials/timer_swt/invalid_time.vtf,43904,43904

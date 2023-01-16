@@ -1,0 +1,55 @@
+filename,size,compressed
+materials/maps/bhop_non/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_non/cubemapdefault.hdr.vtf,76528,76528
+detail.vbsp,16826,16826
+materials/download/customdarkgrey.vmt,96,96
+materials/download/customdarkgrey.vtf,174984,174984
+materials/dev/dev_measuregeneric01b.vmt,141,141
+materials/dev/dev_measuregeneric01b.vtf,11128,11128
+materials/tommybluetext.vmt,62,62
+materials/custom/tommybluetext.vtf,11160,11160
+materials/tools/toolsnodraw.vmt,247,247
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/tools/toolsskybox.vmt,277,277
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/toolstrigger.vmt,383,383
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/mytexture/softred.vmt,62,62
+materials/mytexture/softred.vtf,174984,174984
+materials/mytexture/pink.vmt,59,59
+materials/mytexture/pink.vtf,174984,174984
+materials/crash bandicoot/black.vmt,94,94
+materials/crash bandicoot/black.vtf,174984,174984
+materials/crash bandicoot/arrow.vmt,126,126
+materials/crash bandicoot/arrow.vtf,5592612,5592612
+materials/mytexture/blue.vmt,85,85
+materials/mytexture/neon.vtf,175000,175000
+materials/mytexture/blue2.vmt,86,86
+materials/mytexture/blue2.vtf,349760,349760
+materials/download/customblue2.vmt,91,91
+materials/download/customblue2.vtf,920,920
+materials/crash bandicoot/non.vmt,124,124
+materials/crash bandicoot/non.vtf,5592612,5592612
+materials/neon/white_neon.vmt,100,100
+materials/neon/white_neon.vtf,43912,43912
+materials/download/customwhite.vmt,93,93
+materials/download/customwhite.vtf,174984,174984
+materials/crash bandicoot/blue.vmt,96,96
+materials/crash bandicoot/blue.vtf,2952,2952
+materials/crash bandicoot/aikonation.vmt,131,131
+materials/crash bandicoot/aikonation.vtf,5592612,5592612
+materials/crash bandicoot/ported.vmt,127,127
+materials/crash bandicoot/ported.vtf,5592612,5592612
+materials/skybox/flowsky15_hdrbk.vmt,139,139
+materials/skybox/flowsky15_hdrbk.vtf,1398336,1398336
+materials/skybox/flowsky15_hdrdn.vmt,139,139
+materials/skybox/flowsky15_hdrdn.vtf,1398336,1398336
+materials/skybox/flowsky15_hdrft.vmt,139,139
+materials/skybox/flowsky15_hdrft.vtf,1398336,1398336
+materials/skybox/flowsky15_hdrlf.vmt,139,139
+materials/skybox/flowsky15_hdrlf.vtf,1398336,1398336
+materials/skybox/flowsky15_hdrrt.vmt,139,139
+materials/skybox/flowsky15_hdrrt.vtf,1398336,1398336
+materials/skybox/flowsky15_hdrup.vmt,139,139
+materials/skybox/flowsky15_hdrup.vtf,1398336,1398336

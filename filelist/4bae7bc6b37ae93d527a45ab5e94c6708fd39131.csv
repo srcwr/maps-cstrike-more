@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/bhop_grayscale/nature/blenddirtgrass001a_wvt_patch.vmt,331,331
+materials/maps/bhop_grayscale/nature/blendgroundtogravel006_wvt_patch.vmt,184,184
+materials/maps/bhop_grayscale/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/bhop_grayscale/glass/glasswindow002a_0_0_0.vmt,129,129
+materials/maps/bhop_grayscale/metal/metalroof006a_0_0_0.vmt,127,127
+materials/maps/bhop_grayscale/metal/citadel_metalwall072c_0_0_0.vmt,135,135
+materials/maps/bhop_grayscale/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_grayscale/c0_0_0.vtf,28753,28753
+materials/maps/bhop_grayscale/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_grayscale/c0_0_0.hdr.vtf,76528,76528
+materials/realmsmapby.vmt,59,59
+materials/realmsmapby.vtf,131280,131280

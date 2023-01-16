@@ -1,0 +1,24 @@
+filename,size,compressed
+materials/maps/ze_sc_dooms_day_b1/nature/blendmilground004_12_wvt_patch.vmt,93,93
+materials/maps/ze_sc_dooms_day_b1/de_tides/blend_concrete_dirt_wvt_patch.vmt,316,316
+materials/maps/ze_sc_dooms_day_b1/nature/blendcliffgrass001a_wvt_patch.vmt,307,307
+materials/maps/ze_sc_dooms_day_b1/glass/glasswindow070c_0_0_0.vmt,133,133
+materials/maps/ze_sc_dooms_day_b1/tile/tileroof003a_0_0_0.vmt,129,129
+materials/maps/ze_sc_dooms_day_b1/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/ze_sc_dooms_day_b1/glass/offwndwb_0_0_0.vmt,206,206
+materials/maps/ze_sc_dooms_day_b1/metal/citadel_metalwall076a_0_0_0.vmt,139,139
+materials/maps/ze_sc_dooms_day_b1/metal/citadel_tilefloor016a_cheap_0_0_0.vmt,145,145
+materials/maps/ze_sc_dooms_day_b1/metal/metalroof004a_0_0_0.vmt,131,131
+materials/maps/ze_sc_dooms_day_b1/glass/combineglass001a_0_0_0.vmt,134,134
+materials/maps/ze_sc_dooms_day_b1/metal/metalpipe005a_0_0_0.vmt,131,131
+materials/maps/ze_sc_dooms_day_b1/dev/dev_water2_depth_6.vmt,100,100
+materials/maps/ze_sc_dooms_day_b1/dev/dev_water2_depth_3.vmt,100,100
+materials/maps/ze_sc_dooms_day_b1/dev/dev_water2_cheap_depth_10.vmt,107,107
+materials/maps/ze_sc_dooms_day_b1/dev/dev_water5_depth_113.vmt,102,102
+materials/maps/ze_sc_dooms_day_b1/cubemapdefault.vtf,28753,28753
+materials/maps/ze_sc_dooms_day_b1/c0_0_0.vtf,28753,28753
+materials/maps/ze_sc_dooms_day_b1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_sc_dooms_day_b1/c0_0_0.hdr.vtf,76528,76528
+sound/map_music/12 Session.wav,25549636,25549636
+sound/map_music/Sound.mp3,1680226,1680226
+models/player/slow/aliendrone/slow_alien.mdl,49572,49572

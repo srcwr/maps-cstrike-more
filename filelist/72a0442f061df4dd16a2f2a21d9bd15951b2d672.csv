@@ -1,0 +1,19 @@
+filename,size,compressed
+materials/maps/small_island v2/dev/dev_water2_0_0_80.vmt,147,147
+materials/maps/small_island v2/dev/dev_water2_832_832_64.vmt,151,151
+materials/maps/small_island v2/dev/dev_water2_-832_832_64.vmt,152,152
+materials/maps/small_island v2/dev/dev_water2_-832_-832_64.vmt,153,153
+materials/maps/small_island v2/maps/small_island v2/dev/dev_water2_0_0_80_depth_256.vmt,130,130
+materials/maps/small_island v2/maps/small_island v2/dev/dev_water2_832_832_64_depth_8.vmt,132,132
+materials/maps/small_island v2/cubemapdefault.vtf,9824,9824
+materials/maps/small_island v2/c0_0_80.vtf,9824,9824
+materials/maps/small_island v2/c832_832_64.vtf,9824,9824
+materials/maps/small_island v2/c-832_832_64.vtf,9824,9824
+materials/maps/small_island v2/c-832_-832_64.vtf,9824,9824
+materials/maps/small_island v2/c832_-832_64.vtf,9824,9824
+materials/maps/small_island v2/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/small_island v2/c0_0_80.hdr.vtf,76520,76520
+materials/maps/small_island v2/c832_832_64.hdr.vtf,76520,76520
+materials/maps/small_island v2/c-832_832_64.hdr.vtf,76520,76520
+materials/maps/small_island v2/c-832_-832_64.hdr.vtf,76520,76520
+materials/maps/small_island v2/c832_-832_64.hdr.vtf,76520,76520

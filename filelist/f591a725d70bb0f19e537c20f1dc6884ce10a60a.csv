@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/maps/ze_ghostship/glass/combineglass001a_4026_-2468_-3525.vmt,139,139
+materials/maps/ze_ghostship/metal/citadel_metalwall072b_4026_-2468_-3525.vmt,144,144
+materials/maps/ze_ghostship/metal/citadel_metalwall078a_4026_-2468_-3525.vmt,144,144
+materials/maps/ze_ghostship/metal/citadel_metalwall078a_9401_-53_-1663.vmt,142,142
+materials/maps/ze_ghostship/glass/unbreakable_4026_-2468_-3525.vmt,134,134
+materials/maps/ze_ghostship/glass/unbreakable_9401_-53_-1663.vmt,132,132
+materials/maps/ze_ghostship/models/props/cs_office/screen_4026_-2468_-3525.vmt,169,169
+materials/maps/ze_ghostship/de_chateau/floor02_9401_-53_-1663.vmt,133,133
+materials/maps/ze_ghostship/glass/combineglass001a_9401_-53_-1663.vmt,137,137
+materials/maps/ze_ghostship/de_chateau/floor05_9401_-53_-1663.vmt,133,133
+materials/maps/ze_ghostship/metal/citadel_tilefloor016a_cheap_4026_-2468_-3525.vmt,150,150
+materials/maps/ze_ghostship/liquids/infernowater_4026_-2468_-3525.vmt,160,160
+materials/maps/ze_ghostship/maps/ze_ghostship/liquids/infernowater_4026_-2468_-3525_depth_1022.vmt,144,144
+materials/maps/ze_ghostship/cubemapdefault.vtf,9824,9824
+materials/maps/ze_ghostship/c4026_-2468_-3525.vtf,4952,4952
+materials/maps/ze_ghostship/c9401_-53_-1663.vtf,4952,4952
+materials/dreamcatcher.vmt,60,60
+materials/dreamcatcher.vtf,174984,174984
+materials/models/player/slow/mario/black.vmt,252,252
+materials/models/player/slow/mario/black.vtf,8400,8400
+materials/models/player/slow/mario/black_normal.vtf,8400,8400
+materials/models/louis royo(lady).vmt,71,71
+materials/lady nature.vmt,59,59
+materials/ik.vmt,50,50
+materials/ik.vtf,174984,174984
+materials/auto.vmt,52,52
+materials/auto.vtf,174984,174984
+materials/models/6_color_desert_camo.vmt,74,74
+materials/models/6_color_desert_camo.vtf,174984,174984
+sound/extras/sound 1.wav,3668820,3668820
+maps/soundcache/ze_ghostship.cache,16,16

@@ -1,0 +1,2616 @@
+filename,size,compressed
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_864_64.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_0_864_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_0_1488_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_0_1488_64.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/glass01_0_1488_64.vmt,211,211
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_0_864_64.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/glass01_0_864_64.vmt,209,209
+materials/maps/ze_nostromo_v1_0f/metal/metal_corrugated01b_-896_2400_-512.vmt,145,145
+materials/maps/ze_nostromo_v1_0f/metal/metal_corrugated01b_-896_3776_-512.vmt,145,145
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-936_5472_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-936_5472_-512.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-1360_912_-560.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_0_6272_-816.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_192_5632_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03a_192_5632_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_936_6320_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03a_0_6272_-816.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_-936_6320_-1120.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_192_5632_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_-736_2784_-1024.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03a_-192_2128_-56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03a_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_0_-240_80.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_6320_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-936_6320_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-936_6320_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_-936_6320_-1120.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-936_6320_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_-936_6320_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_6320_-1120.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-936_6320_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-936_6320_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_0_6320_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-936_6320_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_936_6320_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_936_6320_-1120.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_936_6320_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_936_6320_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_936_6320_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_936_6320_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_936_6320_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_936_6320_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02b_0_6320_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_512_2816_-512.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall06b_864_2688_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_864_2688_56.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_864_2688_56.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_0_2464_-176.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_0_2464_-176.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-192_2128_-56.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02b_0_5920_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_5920_-1120.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-1360_912_-560.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_5920_-1120.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_160_2400_-512.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_0_2528_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_160_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_192_5632_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-936_5656_-1120.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_6320_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_448_4832_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-1360_912_-560.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_0_5112_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-936_5472_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-224_5408_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-448_4832_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-448_4832_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-1360_912_-560.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_888_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_960_3264_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_512_2816_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_888_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-512_2816_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-896_2400_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-896_2400_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-512_2816_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_1888_-56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_160_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-160_1376_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_0_2528_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall06b_864_3040_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_1456_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall06b_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_864_2688_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_864_3040_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor09b_0_5920_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_0_5920_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_-936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_-936_5472_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_936_6320_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_0_6320_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-936_6320_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_-1360_912_-560.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-936_5656_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-936_5656_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_-936_5656_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-1216_7040_-816.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_0_8000_-816.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_-1216_7040_-816.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02b_-320_7104_-816.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_0_8000_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_-320_7104_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-320_7104_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02a_-320_7104_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_1280_7040_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_1280_7040_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02b_1280_7040_-816.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_0_6272_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_0_6272_-816.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_320_7040_-816.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_320_7040_-816.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_-1360_912_-560.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_beam01_864_2688_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling02_864_2688_56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_936_5656_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_936_5656_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_936_5656_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_864_3040_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_512_2816_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_864_3040_56.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_960_3264_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_0_3744_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_-1360_912_-560.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_960_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_864_2688_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor09b_864_2688_56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_864_2688_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_864_2688_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_1456_1584_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_864_2688_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_864_2688_56.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_864_3040_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor09b_864_3040_56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_864_3040_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_864_3040_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_864_3040_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_2876_56.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall06b_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_3744_-512.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_2876_56.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_864_3040_56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_864_2688_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_window1_0_-240_80.vmt,146,146
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_computer01a_-1024_320_64.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02a_-1024_320_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_computer01a_-1360_912_-560.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02a_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_-40_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-256_256_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02b_256_256_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_256_256_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02b_0_-40_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_-256_256_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02b_-256_256_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_-256_256_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-256_256_64.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_-240_80.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_256_256_64.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_0_2288_-1024.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_0_2288_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_0_-240_80.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_256_256_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02b_0_-40_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_0_-40_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_-256_256_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor09a_0_-40_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_-240_80.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02b_0_-240_80.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-256_256_64.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_0_3744_-512.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_960_3776_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_960_3264_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_512_2816_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_960_3264_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_960_3264_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_960_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_960_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_960_3264_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_512_2816_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_960_3776_-512.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_160_2400_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_960_3264_-512.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_960_3264_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-1360_912_-560.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_1456_1584_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-1024_320_64.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor09b_0_6320_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_936_5656_-1120.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_936_5656_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_936_5656_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_936_5656_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_936_5656_-1120.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_936_5656_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_-936_5656_-1120.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-936_5656_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_-936_5656_-1120.vmt,156,156
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_-936_5656_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_-936_5656_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_-936_5472_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_-1360_912_-560.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_-936_5656_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_-936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_-936_5656_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_936_5472_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-1360_400_48.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-512_2816_-512.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_0_2464_-176.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_-896_2400_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-512_2816_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-896_3776_-512.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-736_3040_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-896_3776_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-896_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-512_2816_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02a_-896_3776_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-896_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-936_5472_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_-936_5472_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_-936_5472_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-936_5472_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-448_4832_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_-936_5472_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02b_1456_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02b_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_888_2400_-512.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_448_4832_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_936_5472_-512.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_936_5472_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_448_4832_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_936_5472_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_936_5472_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_936_5656_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_936_5472_-512.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_-1360_912_-560.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_-936_5472_-512.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_1456_1584_-512.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_848_1080_-512.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_736_2368_-1024.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_736_1584_-512.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-928_1424_-752.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-160_1376_-512.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-384_1424_-752.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-928_1424_-960.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-896_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02b_-896_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor09b_0_2876_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_480_64.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_-256_256_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_736_1584_-512.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_-1360_912_-560.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_-160_1376_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_736_1584_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_848_1080_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_848_1080_-512.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_1456_1584_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_1456_1584_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_848_1080_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-160_1376_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-384_1424_-752.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_888_2400_-512.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_736_1584_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_888_2400_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_888_2400_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-384_1424_-960.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_736_1584_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-928_1424_-752.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_0_2288_-1024.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_-736_1424_-752.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_-384_1424_-752.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-736_1424_-752.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-896_2400_-512.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_-384_1424_-960.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-384_1424_-752.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-736_1424_-752.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-384_1424_-960.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-928_1424_-960.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-736_1424_-960.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-1360_912_-560.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p9b_-928_1424_-960.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-736_1424_-960.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_-736_1424_-960.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p9b_-384_1424_-960.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_736_2368_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-736_1424_-752.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_736_2368_-1024.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_-896_2400_-512.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_0_2288_-1024.vmt,156,156
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_736_2368_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_960_3776_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_960_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03a_0_2464_-176.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_0_1888_-56.vmt,156,156
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_-736_1424_-752.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_-896_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_0_1488_64.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-192_2128_-56.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_4288_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor1_448_4832_-512.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_5112_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor1_-320_4672_-1024.vmt,156,156
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-320_4672_-1024.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02a_-320_4672_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_0_1488_64.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_0_864_64.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_0_1488_64.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-1360_912_-560.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_0_864_64.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_736_1584_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_2464_-176.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_0_1888_-56.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-896_3776_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_4288_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_2288_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_0_2288_-1024.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_160_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_0_2528_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_160_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_0_2528_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_f_base_0_4288_-1024.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_448_4832_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_0_4288_-304.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-448_4832_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-896_3776_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/liquids/militiawater_0_4288_-1024.vmt,161,161
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p2_-512_2816_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p2_0_3040_-1024.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_0_3040_-1024.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p2_512_2816_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-736_3040_-1024.vmt,161,161
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_736_3040_-1024.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-736_2784_-1024.vmt,161,161
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p2_-896_2400_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p2_0_2528_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p2_0_3744_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p2_960_3264_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p2_888_2400_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_736_2784_-1024.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-736_2784_-1024.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-736_3040_-1024.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_736_3040_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_0_3040_-1024.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor1_0_4288_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02b_736_3040_-1024.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor3_320_3776_-1024.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor3_736_3040_-1024.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor3_736_2784_-1024.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor3_-736_3040_-1024.vmt,156,156
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02b_-736_2784_-1024.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02b_-736_3040_-1024.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor3_-736_2784_-1024.vmt,156,156
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor3_-1360_912_-560.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02b_736_2784_-1024.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_320_3776_-1024.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor1_320_3776_-1024.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_320_3776_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_0_3040_-1024.vmt,156,156
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_320_3776_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_1456_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_160_2400_-512.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_160_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-512_2816_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall7_0_2528_-512.vmt,146,146
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_2528_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_2464_-176.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_320_3776_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_1456_1584_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_-576_192_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-576_192_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor09b_1456_1584_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_1456_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_1456_1584_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_1456_1584_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03a_-224_5408_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-224_5408_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_0_5112_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_848_1080_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_736_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_736_1584_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_736_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_736_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_736_1584_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_736_1584_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_736_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_736_1584_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_848_1080_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_5112_-512.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_5112_-512.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_0_5112_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_5112_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02a_0_5112_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_448_4832_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-448_4832_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_-448_4832_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_448_4832_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-224_5408_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-224_5408_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_448_4832_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_448_4832_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_448_4832_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_448_4832_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_5112_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_192_5632_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02b_0_5112_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_848_1080_-512.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_848_1080_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_848_1080_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_736_1584_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_848_1080_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_848_1080_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_-576_192_64.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_-1360_400_48.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall01_848_1080_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_848_1080_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_848_1080_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall06b_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall06b_848_1080_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_256_256_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_864_64.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_1488_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_736_1584_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_0_-240_80.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-224_5408_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_-448_4832_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-448_4832_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-448_4832_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-448_4832_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-736_2784_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_0_2288_-1024.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_512_2816_-512.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_0_2288_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_0_2288_-1024.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_0_2288_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_2288_-1024.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_0_2288_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_0_2288_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_2288_-1024.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_3744_-512.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_736_3040_-1024.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_3040_-1024.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_-1216_7040_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_1280_7040_-816.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_0_8000_-816.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_960_3264_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_888_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_888_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_960_3264_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_512_2816_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_888_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_888_2400_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_888_2400_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_512_2816_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_888_2400_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_-512_2816_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-896_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-512_2816_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-512_2816_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-512_2816_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-896_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-896_2400_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-896_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-896_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_0_1888_-56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_-192_2128_-56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_960_3776_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p2_-896_3776_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_320_3776_-1024.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_736_2784_-1024.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_-736_3040_-1024.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_-512_2816_-512.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_864_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_-160_1376_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-160_1376_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-160_1376_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-160_1376_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_0_1888_-56.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-384_1424_-960.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_160_2400_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-160_1376_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_160_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_0_1888_-56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_160_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_160_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_160_2400_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_0_2528_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_160_2400_-512.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_736_2784_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02b_0_4288_-304.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-320_4672_-1024.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor3_0_3040_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_736_2368_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_-160_1376_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_-160_1376_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_0_1488_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_0_2528_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_2528_-512.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01b_0_2528_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03a_-576_192_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor09b_-1024_320_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-1024_320_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_1488_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_-512_2816_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_-192_2128_-56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_vent1_0_2876_56.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03a_-896_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03a_-512_2816_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-512_2816_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03a_-896_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-896_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_-896_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling03_-896_2400_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling03_-896_3776_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02b_-512_2816_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02b_-896_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02b_-736_2784_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall02b_-928_1424_-752.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_0_2464_-176.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-928_1424_-752.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-736_2784_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-896_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02a_-576_192_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-576_192_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-576_192_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling02_-896_2400_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-896_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling02_-512_2816_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_-192_2128_-56.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling02_-192_2128_-56.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_2464_-176.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_1888_-56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-192_2128_-56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_0_1888_-56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall06a_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_0_2876_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_-512_2816_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall06b_0_3744_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03a_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling02_0_2876_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03a_864_3040_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-192_2128_-56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_-160_1376_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_-160_1376_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_0_1488_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_0_2876_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall03_-320_7104_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_-576_192_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_1888_-56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_0_1888_-56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_0_480_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_-256_256_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_256_256_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_848_1080_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_-256_256_64.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_256_256_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_256_256_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall01_0_1488_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall03b_-384_1424_-752.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall06b_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-160_1376_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_-160_1376_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor9_-160_1376_-512.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_0_480_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_0_864_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_480_64.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_0_-40_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_0_-40_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_0_480_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_0_-240_80.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_0_480_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor02_0_480_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-384_1424_-752.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-1360_912_-560.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-736_1424_-752.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_-1360_912_-560.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/glass01_-1360_912_-560.vmt,221,221
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_5112_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_0_5112_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_snow_0_5112_-512.vmt,355,355
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_192_5632_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_snow_192_5632_-512.vmt,361,361
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-320_4672_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_4288_-304.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-224_5408_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_-224_5408_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_snow_-224_5408_-512.vmt,364,364
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-192_2128_-56.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_736_1584_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/nostromo/ladderway_0_1888_-56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_1488_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-928_1424_-752.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_888_2400_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_736_1584_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_1456_1584_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_-936_5472_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_-936_5472_-512.vmt,354,354
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_-448_4832_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_-448_4832_-512.vmt,354,354
+materials/maps/ze_nostromo_v1_0f/glass/railing01_-224_5408_-512.vmt,354,354
+materials/maps/ze_nostromo_v1_0f/glass/railing01_0_5112_-512.vmt,345,345
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_448_4832_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_448_4832_-512.vmt,351,351
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_936_5472_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_936_5472_-512.vmt,351,351
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_0_6320_-1120.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_0_6320_-1120.vmt,348,348
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_320_7040_-816.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_320_7040_-816.vmt,351,351
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_-936_6320_-1120.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_-936_6320_-1120.vmt,357,357
+materials/maps/ze_nostromo_v1_0f/glass/unbreakable_glass_a_01_-448_4832_-512.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/glass/unbreakable_glass_a_01_448_4832_-512.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_1456_1584_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_1456_1584_-512.vmt,354,354
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_888_2400_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_888_2400_-512.vmt,351,351
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_-1216_7040_-816.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_-1216_7040_-816.vmt,357,357
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_936_6320_-1120.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_936_6320_-1120.vmt,354,354
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_1280_7040_-816.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/railing01_1280_7040_-816.vmt,354,354
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_door01a_192_5632_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_door01a_0_6272_-816.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_door01b_1456_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_1456_1584_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_0_5920_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small01_0_6272_-816.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-224_5408_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_192_5632_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_5920_-1120.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small02_-224_5408_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_0_5920_-1120.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_0_5920_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-320_4672_-1024.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_0_5920_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_936_5656_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_192_5632_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_0_5112_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_192_5632_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-936_5656_-1120.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_0_6272_-816.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-224_5408_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b2_-224_5408_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_192_5632_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_0_5920_-1120.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_0_5920_-1120.vmt,353,353
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-224_5408_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_448_4832_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small02_-320_4672_-1024.vmt,144,144
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_5920_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small02_0_5112_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-320_4672_-1024.vmt,144,144
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small02_0_5920_-1120.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel03a_0_5112_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-224_5408_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_192_5632_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_0_5920_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-224_5408_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-224_5408_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_192_5632_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_5920_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_0_5920_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_-224_5408_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04a_0_5920_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_0_5920_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_0_5920_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_-224_5408_-512.vmt,359,359
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_0_5112_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_5920_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04a_-224_5408_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_192_5632_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_192_5632_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04a_192_5632_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_192_5632_-512.vmt,356,356
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_5920_-1120.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_512_2816_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_888_2400_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01b_864_2688_56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_-240_80.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_2464_-176.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_1456_1584_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_1456_1584_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_960_3264_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_736_3040_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_864_3040_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02b_960_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02b_1456_1584_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02b_736_3040_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_1456_1584_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_864_3040_56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_864_2688_56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_1456_1584_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_960_3264_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/glass/glass01_1456_1584_-512.vmt,221,221
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-736_3040_-1024.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_-896_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-736_3040_-1024.vmt,144,144
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-896_3776_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-896_3776_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-896_3776_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-1360_912_-560.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_-736_3040_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling01_-896_3776_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_192_5632_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_door01_0_5920_-1120.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_door01_0_6320_-1120.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_936_5656_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_6272_-816.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_5920_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-224_5408_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-936_5656_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_936_5472_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_0_5920_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01b_192_5632_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_960_3264_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/glass01_960_3264_-512.vmt,219,219
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_e_base_-896_2400_-512.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_2288_-1024.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-736_2784_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_e_base_736_2368_-1024.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_736_2368_-1024.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_736_2368_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01b_736_2784_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_936_5656_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_-40_64.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_-240_80.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small01_-256_256_64.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_-256_256_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_320_3776_-1024.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_960_3776_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_4288_-304.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_960_3776_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_960_3776_-512.vmt,356,356
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-896_3776_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_0_3744_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_-896_3776_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_-896_3776_-512.vmt,359,359
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_4288_-304.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small01_960_3776_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-736_3040_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small01_-896_3776_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_0_2288_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_0_3040_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_2288_-1024.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_0_3040_-1024.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_0_3040_-1024.vmt,353,353
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_0_2288_-1024.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_1488_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_736_1584_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small01_736_1584_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_736_1584_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_1456_1584_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_1456_1584_-512.vmt,359,359
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_-1024_320_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_0_5112_-512.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-320_4672_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel_small01_448_4832_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_4288_-304.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_-320_4672_-1024.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_0_5112_-512.vmt,146,146
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_448_4832_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-448_4832_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall02_0_5112_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall02_448_4832_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall02_-320_4672_-1024.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall02_-448_4832_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_f_base_-320_4672_-1024.vmt,161,161
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_f_base_0_5112_-512.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_0_5112_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/glass/glass01_-224_5408_-512.vmt,221,221
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_door01_1456_1584_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_1456_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_848_1080_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-576_192_64.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_480_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_-256_256_64.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_-256_256_64.vmt,350,350
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_-240_80.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_-384_1424_-752.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_-512_2816_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-896_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_-1360_912_-560.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_-512_2816_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-512_2816_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_-896_3776_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_-896_2400_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_-896_2400_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-896_2400_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-160_1376_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_864_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01b_0_1488_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_0_1488_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_736_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_1888_-56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor08a_0_1888_-56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_0_1888_-56.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_0_1888_-56.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/glass01_0_1888_-56.vmt,213,213
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_0_480_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_480_64.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_0_480_64.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/glass01_0_480_64.vmt,209,209
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_-1360_912_-560.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_-928_1424_-960.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_-736_2784_-1024.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_-896_2400_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_0_2288_-1024.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-256_256_64.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_256_256_64.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_0_480_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_480_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_864_2688_56.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_864_2688_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-1360_912_-560.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_848_1080_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-1360_912_-560.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_0_4288_-1024.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-1360_400_48.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-896_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-896_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-928_1424_-960.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-936_6320_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-736_2784_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-384_1424_-960.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_736_2368_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-936_5656_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_rock01_-1024_320_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-576_192_64.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_0_-40_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-1024_320_64.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_-224_5408_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_0_6272_-816.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_0_6272_-816.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_192_5632_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_0_-40_64.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-928_1424_-960.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-896_2400_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p1a_-1360_400_48.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_1280_7040_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-1216_7040_-816.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-936_5656_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_0_6320_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-320_7104_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_320_7040_-816.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_936_5656_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall04a_-936_6320_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall04a_0_6272_-816.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_-224_5408_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/nostromo/suitlocker_-224_5408_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_192_5632_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_-1360_912_-560.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02b_192_5632_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/nostromo/suitlocker_0_1888_-56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-1360_912_-560.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-936_6320_-1120.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_6272_-816.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-1216_7040_-816.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-320_7104_-816.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_8000_-816.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_320_7040_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_1280_7040_-816.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_936_6320_-1120.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall04a_-320_7104_-816.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall04a_320_7040_-816.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall04b_0_6272_-816.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall04b_0_8000_-816.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_0_2876_56.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_864_3040_56.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_0_3744_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_0_1488_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_960_3264_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_960_3776_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_1456_1584_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_848_1080_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/nostromo/pressurisedgravity_848_1080_-512.vmt,146,146
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-1360_912_-560.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_0_864_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_-40_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-1360_912_-560.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_-160_1376_-512.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-160_1376_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_864_64.vmt,146,146
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_1488_64.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-384_1424_-752.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_1888_-56.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_736_1584_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_0_6320_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_320_7040_-816.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_6320_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_0_6272_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_936_6320_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_-320_7104_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_320_7040_-816.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-936_6320_-1120.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_-224_5408_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_192_5632_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_-936_6320_-1120.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_0_5920_-1120.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_5112_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-224_5408_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_6320_-1120.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_6320_-1120.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_936_6320_-1120.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-936_6320_-1120.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-384_1424_-960.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-384_1424_-752.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-1360_912_-560.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_0_2288_-1024.vmt,156,156
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-384_1424_-960.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_2528_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel03b_-576_192_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-576_192_64.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel03a_-576_192_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel02_-576_192_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel01b_-576_192_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel01a_-576_192_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_864_3040_56.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01a_-1360_912_-560.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01a_864_3040_56.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_512_2816_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_beam01_864_3040_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01a_864_2688_56.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01a_512_2816_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_ceiling02_864_3040_56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_864_3040_56.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_864_3040_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_512_2816_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_0_2876_56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-160_1376_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-1360_912_-560.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_848_1080_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_3744_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-512_2816_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_848_1080_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_512_2816_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_736_2368_-1024.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_736_2784_-1024.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_0_2288_-1024.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_160_2400_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-448_4832_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_0_4288_-304.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-896_3776_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-1360_912_-560.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-736_3040_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_0_2528_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_512_2816_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_736_2368_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_0_1888_-56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set02a_864_3040_56.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_960_3264_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim_set01a_0_2876_56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_-384_1424_-960.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_0_2288_-1024.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_2288_-1024.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_0_2288_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-384_1424_-960.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_736_2368_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_6320_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/nostromo/pressurisedgravity_0_6320_-1120.vmt,145,145
+materials/maps/ze_nostromo_v1_0f/nostromo/airlock_0_6320_-1120.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_-40_64.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03a_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_base_-1360_912_-560.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_320_3776_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_4288_-304.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-736_3040_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_160_2400_-512.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_160_2400_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-192_2128_-56.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_0_2528_-512.vmt,155,155
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-512_2816_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-384_1424_-752.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-736_1424_-752.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-160_1376_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_1888_-56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-192_2128_-56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_2464_-176.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-896_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_960_3264_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_960_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_888_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_192_5632_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02a_-224_5408_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_0_6272_-816.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_-224_5408_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02a_192_5632_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_-224_5408_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel03a_-224_5408_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl01_192_5632_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_-224_5408_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_192_5632_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall01b_192_5632_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall01b_-224_5408_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall01b_0_5920_-1120.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_-224_5408_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel03a_0_6272_-816.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_-936_5472_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel03a_192_5632_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_0_4288_-304.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel03a_-1360_912_-560.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_-1360_912_-560.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_936_5472_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_936_5472_-512.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_936_5472_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_192_5632_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_-1360_912_-560.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_-936_5472_-512.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-936_5472_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_848_1080_-512.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_848_1080_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_-936_5656_-1120.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-936_5656_-1120.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-320_4672_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_inner_window1a_936_5656_-1120.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_4288_-1024.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_936_5656_-1120.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_boxes01_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_boxes01_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_1456_1584_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_1456_1584_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_848_1080_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_888_2400_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_736_2368_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_736_1584_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_1456_1584_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_888_2400_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_736_1584_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_848_1080_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_256_256_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_864_2688_56.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_-896_3776_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_3744_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_-1360_912_-560.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/nostromo/pressurisedgravity_0_2528_-512.vmt,144,144
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_160_2400_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_2528_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_-256_256_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-256_256_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-576_192_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-1360_400_48.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_-1360_400_48.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-1024_320_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor01a_-1216_7040_-816.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor01a_-936_5656_-1120.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall02_-1216_7040_-816.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-936_6320_-1120.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-1216_7040_-816.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-936_5472_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_0_8000_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor01a_0_8000_-816.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall02_0_8000_-816.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor01a_-1360_912_-560.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor01a_-320_7104_-816.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-320_7104_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_320_7040_-816.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor01a_320_7040_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_1280_7040_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor01a_1280_7040_-816.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall02_1280_7040_-816.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall02_-1360_912_-560.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_936_6320_-1120.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_936_5472_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_936_5472_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor01a_936_5656_-1120.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_192_5632_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_936_5656_-1120.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_0_4288_-304.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_0_6272_-816.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_888_2400_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_512_2816_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_4288_-304.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_boxes01_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_boxes01_0_3744_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel01b_-256_256_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01c_-256_256_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01b_-256_256_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel01b_0_480_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01c_0_480_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_0_480_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-256_256_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-256_256_64.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_0_480_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-576_192_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01b_0_480_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel01b_-1360_912_-560.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel01b_256_256_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01c_-1360_912_-560.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01c_256_256_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01b_256_256_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_0_-40_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_256_256_64.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_256_256_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01c_0_-40_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel01b_0_-240_80.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel01b_0_-40_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_0_-240_80.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_0_-240_80.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01b_0_-40_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_switches01b_0_-240_80.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_1456_1584_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_-240_80.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_848_1080_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_0_-240_80.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_848_1080_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_0_-240_80.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_1456_1584_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_256_256_64.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_0_-40_64.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-576_192_64.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-1024_320_64.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-1024_320_64.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-256_256_64.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01a_-1024_320_64.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall02_0_-240_80.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_0_-240_80.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_-40_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor10_0_-240_80.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-1360_400_48.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_-576_192_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_-40_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_-1024_320_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_-240_80.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-1360_400_48.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-1024_320_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-1024_320_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-576_192_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_-1360_400_48.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_0_-40_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_-1024_320_64.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_-576_192_64.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_-1360_400_48.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light03_-1024_320_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02a_-1360_400_48.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_256_256_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_0_480_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_-936_5472_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-936_5656_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_936_5656_-1120.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_936_5472_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_160_2400_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_0_2528_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_0_2528_-512.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_0_2528_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_160_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_160_2400_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_-160_1376_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-384_1424_-752.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_floor02a_960_3776_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_960_3264_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_960_3776_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_936_5472_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_1456_1584_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_448_4832_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_960_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall01b_888_2400_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall01b_960_3264_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall01b_936_5472_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall01b_960_3776_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_736_3040_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl01_960_3776_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_960_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_936_5472_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_448_4832_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_1456_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04b_960_3264_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor05_960_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_960_3264_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_888_2400_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_960_3776_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_960_3264_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_960_3264_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_960_3776_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel03a_960_3264_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_736_3040_-1024.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_320_3776_-1024.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_960_3776_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_panel03a_960_3776_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall_big01b_864_3040_56.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_960_3264_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_960_3776_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_1456_1584_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_864_2688_56.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_936_5472_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_736_3040_-1024.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_trim01_960_3776_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_trim01_-1360_912_-560.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_trim01_960_3264_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-1360_912_-560.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-736_2784_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_0_3040_-1024.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_-736_3040_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_0_3040_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_-1360_912_-560.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_736_2784_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_736_3040_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl01_0_2464_-176.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl01_0_2876_56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_2876_56.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_864_2688_56.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01a_0_2464_-176.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_0_2464_-176.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_-192_2128_-56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor04_0_1888_-56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_160_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_-192_2128_-56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor11_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_160_2400_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall08a_0_2464_-176.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_736_1584_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_736_2368_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_736_2368_-1024.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_736_2368_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_1456_1584_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_888_2400_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-736_1424_-960.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-384_1424_-960.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_-736_1424_-960.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-384_1424_-960.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_-384_1424_-960.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-736_1424_-960.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_-736_1424_-752.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-928_1424_-960.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim03_-928_1424_-960.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light01a_-928_1424_-960.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_936_5656_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_-936_5656_-1120.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl02_0_480_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_0_480_64.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl02_256_256_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl02_-256_256_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl01_0_480_64.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_480_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_256_256_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_256_256_64.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl01_256_256_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl01_-256_256_64.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_480_64.vmt,146,146
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-256_256_64.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_-40_64.vmt,146,146
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl01_-896_3776_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-896_3776_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-936_5472_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-736_3040_-1024.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-896_2400_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_-736_3040_-1024.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor_cyl02_-896_3776_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-736_3040_-1024.vmt,154,154
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-896_3776_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_0_3744_-512.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-896_2400_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-448_4832_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-936_5472_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_-736_2784_-1024.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-448_4832_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-896_2400_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-736_3040_-1024.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_3744_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_-896_3776_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_2876_56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-736_3040_-1024.vmt,144,144
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-896_2400_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-512_2816_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_-936_5472_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_1456_1584_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_848_1080_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_1280_7040_-816.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_192_5632_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-1216_7040_-816.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_-224_5408_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-736_1424_-960.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-160_1376_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-384_1424_-960.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_848_1080_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-928_1424_-752.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-928_1424_-960.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-896_2400_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_-936_5656_-1120.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_736_2368_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall1_1456_1584_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall1_736_2368_-1024.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall1_-1360_912_-560.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall1_888_2400_-512.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall1_0_2288_-1024.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall1_-896_2400_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall1_-736_1424_-960.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall1_-384_1424_-960.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-928_1424_-960.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-736_1424_-960.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall1_-928_1424_-960.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_512_2816_-512.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_960_3264_-512.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_736_2368_-1024.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_736_3040_-1024.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/metal/metal_treadplate-ssbump_736_2784_-1024.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_0_5112_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01a_448_4832_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_320_3776_-1024.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_0_3744_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_0_3744_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_-1360_912_-560.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02a_448_4832_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metalfloor3_0_4288_-304.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_0_4288_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_gra_floor01_-320_4672_-1024.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor01a_0_5112_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02a_-448_4832_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_floor02a_0_3744_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/environment maps/pipemetal004b_0_3744_-512.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/environment maps/pipemetal004b_320_3776_-1024.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/environment maps/pipemetal004b_0_4288_-304.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/environment maps/pipemetal004b_960_3776_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/environment maps/pipemetal004b_-1360_912_-560.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/environment maps/pipemetal004b_448_4832_-512.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/environment maps/pipemetal004b_0_5112_-512.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/environment maps/pipemetal004b_-448_4832_-512.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/environment maps/pipemetal004b_-896_3776_-512.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/nostromo/pressurisedgravity_1456_1584_-512.vmt,147,147
+materials/maps/ze_nostromo_v1_0f/nostromo/airlock_1456_1584_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/nostromo/airlock_-1360_912_-560.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_960_3776_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_960_3776_-512.vmt,151,151
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_4288_-304.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_320_3776_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_3040_-1024.vmt,150,150
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_-1360_912_-560.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_0_4288_-304.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall02b_448_4832_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_0_4288_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_0_5112_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall02b_0_4288_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_320_3776_-1024.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall02b_320_3776_-1024.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_0_3744_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_320_3776_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall02b_0_3744_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_-896_3776_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_thin_wall02b_-320_4672_-1024.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_-320_4672_-1024.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall01_-320_4672_-1024.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02b1_-448_4832_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_-448_4832_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_0_5112_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_0_2876_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_0_4288_-304.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_-896_3776_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_-1360_912_-560.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_448_4832_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_-1360_400_48.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_-936_5472_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_936_5472_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_864_3040_56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_-256_256_64.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_960_3776_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/metalpipe003a_0_3744_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-896_2400_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-192_2128_-56.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-736_1424_-752.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_0_1888_-56.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_160_2400_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_tile_floor01b_-160_1376_-512.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_-1360_912_-560.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_-448_4832_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_0_4288_-304.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_448_4832_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_0_3744_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_320_3776_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_vent_wall01b_320_3776_-1024.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_e_base_-320_4672_-1024.vmt,161,161
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_e_base_320_3776_-1024.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_e_base_0_3744_-512.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_e_base_0_4288_-304.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_0_4288_-1024.vmt,158,158
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_e_base_448_4832_-512.vmt,159,159
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_metal_p15_e_base_-448_4832_-512.vmt,160,160
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_wall_sup_center2_0_4288_-304.vmt,157,157
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-320_4672_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_512_2816_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_roof01_-512_2816_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/metal/metal_corrugated01b_936_5656_-1120.vmt,145,145
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_960_3264_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_888_2400_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_960_3776_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_736_3040_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_736_2784_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_736_2368_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_736_1584_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_0_3040_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_160_2400_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_0_2288_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_512_2816_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_0_2528_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/metal/metal_corrugated01b_-936_5656_-1120.vmt,146,146
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_-736_3040_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_-896_3776_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_-896_2400_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_-936_5472_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_-512_2816_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/metal_corrugated01b_-1360_912_-560.vmt,145,145
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_-928_1424_-960.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/metal/freezerwall01_-736_2784_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_-736_2784_-1024.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_736_2784_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_736_3040_-1024.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01b_0_3744_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_door01b_0_3040_-1024.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_door01b_320_3776_-1024.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_door01b_0_3744_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_192_5632_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_wall03b_192_5632_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_wall04b_736_1584_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light02a_848_1080_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_trims01a_-192_2128_-56.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_light02a_0_1488_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_0_2464_-176.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_0_2464_-176.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim04a_-192_2128_-56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_boxes01_-512_2816_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_boxes01_864_3040_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_d_864_3040_56.vmt,149,149
+materials/maps/ze_nostromo_v1_0f/nostromo/pressurisedgravity_0_2464_-176.vmt,144,144
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_0_1888_-56.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/nostromo/suitlocker_0_2464_-176.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_-512_2816_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_-896_2400_-512.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/nostromo/pressurisedgravity_0_1488_64.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/nostromo/suitlocker_0_2876_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/nostromo/pressurisedgravity_0_2876_56.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/nostromo/hazard_0_2876_56.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_0_2876_56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_0_2876_56.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_trim02_864_3040_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_panels01a_0_3744_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/nostromo/pressurisedgravity_0_864_64.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/nostromo/pressurisedgravity_0_1888_-56.vmt,143,143
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_floor01_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/nostromo/bulkheaddoor_960_3776_-512.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_960_3776_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_320_3776_-1024.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/nostromo/maint_960_3776_-512.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/pk02/pk02_generic01b_960_3264_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/nostromo/optics_960_3776_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/nostromo/optics_-1360_912_-560.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/nostromo/lifesupport_960_3776_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/nostromo/highradiation_-224_5408_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/pk01/pk01_pan_wall02a1_-224_5408_-512.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/nostromo/ladderway_-224_5408_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/nostromo/nopressure_0_6320_-1120.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-160_1376_-512.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_848_1080_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/glass01_848_1080_-512.vmt,219,219
+materials/maps/ze_nostromo_v1_0f/nostromo/bridge_848_1080_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/nostromo/computer_848_1080_-512.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_848_1080_-512.vmt,356,356
+materials/maps/ze_nostromo_v1_0f/nostromo/nopressure_1456_1584_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/nostromo/nopressure_-1360_912_-560.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_888_2400_-512.vmt,152,152
+materials/maps/ze_nostromo_v1_0f/nostromo/maint_-1360_400_48.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/nostromo/highradiation_-1360_400_48.vmt,140,140
+materials/maps/ze_nostromo_v1_0f/nostromo/cryogenic_-512_2816_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/nostromo/food_0_3744_-512.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/nostromo/galley_0_3744_-512.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/nostromo/coffee_0_3744_-512.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/nostromo/lifesupport_0_2876_56.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/nostromo/autodoc_0_2876_56.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/nostromo/autodoc_-1360_912_-560.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/nostromo/medical_0_2876_56.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/nostromo/medical_-1360_912_-560.vmt,136,136
+materials/maps/ze_nostromo_v1_0f/nostromo/cryogenic_0_2876_56.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/nostromo/electronics_-256_256_64.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/nostromo/computer_-256_256_64.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/nostromo/cryogenic_-896_2400_-512.vmt,138,138
+materials/maps/ze_nostromo_v1_0f/nostromo/food_0_2464_-176.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/nostromo/galley_0_2464_-176.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/nostromo/coffee_-192_2128_-56.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/nostromo/ladderway_0_2464_-176.vmt,135,135
+materials/maps/ze_nostromo_v1_0f/nostromo/maint_864_2688_56.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_864_2688_56.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/glass01_864_2688_56.vmt,215,215
+materials/maps/ze_nostromo_v1_0f/nostromo/maint_0_2528_-512.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/nostromo/electronics_0_2528_-512.vmt,137,137
+materials/maps/ze_nostromo_v1_0f/nostromo/maint_160_2400_-512.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/nostromo/optics_160_2400_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/nostromo/lifesupport_160_2400_-512.vmt,139,139
+materials/maps/ze_nostromo_v1_0f/glass/glasswindowbreak070b_-160_1376_-512.vmt,114,114
+materials/maps/ze_nostromo_v1_0f/glass/urban_glass_03_-160_1376_-512.vmt,359,359
+materials/maps/ze_nostromo_v1_0f/nostromo/bridge_0_1488_64.vmt,130,130
+materials/maps/ze_nostromo_v1_0f/nostromo/computer_0_1488_64.vmt,132,132
+materials/maps/ze_nostromo_v1_0f/nostromo/ladderway_0_1488_64.vmt,133,133
+materials/maps/ze_nostromo_v1_0f/nostromo/computer_0_864_64.vmt,131,131
+materials/maps/ze_nostromo_v1_0f/nostromo/bridge_0_864_64.vmt,129,129
+materials/maps/ze_nostromo_v1_0f/nostromo/maint_-896_3776_-512.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/nostromo/maint_-1360_912_-560.vmt,134,134
+materials/maps/ze_nostromo_v1_0f/nostromo/bulkheaddoor_-896_3776_-512.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/nostromo/bulkheaddoor_-1360_912_-560.vmt,141,141
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-384_1424_-752.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_met_trim7_-736_1424_-752.vmt,153,153
+materials/maps/ze_nostromo_v1_0f/vbd/pack 2 remnont/remn_pillar_e_256_256_64.vmt,148,148
+materials/maps/ze_nostromo_v1_0f/liquids/boathouse_water_depth_24.vmt,110,110
+materials/maps/ze_nostromo_v1_0f/maps/ze_nostromo_v1_0f/liquids/militiawater_0_4288_-1024_depth_8.vmt,142,142
+materials/maps/ze_nostromo_v1_0f/c-1360_912_-560.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_-40_64.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_2528_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-224_5408_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c1456_1584_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c736_1584_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c848_1080_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_6320_-1120.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c936_6320_-1120.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-936_6320_-1120.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-936_5656_-1120.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c936_5656_-1120.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-936_5472_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c936_5472_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c864_3040_56.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c864_2688_56.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c512_2816_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_2288_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_2464_-176.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-576_192_64.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-1024_320_64.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-1360_400_48.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-1216_7040_-816.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c1280_7040_-816.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_8000_-816.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_6272_-816.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-320_7104_-816.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c320_7040_-816.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_5920_-1120.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c160_2400_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-160_1376_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_3744_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c448_4832_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-448_4832_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_5112_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c192_5632_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c888_2400_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_864_64.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-256_256_64.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c256_256_64.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_480_64.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_-240_80.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c960_3776_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c960_3264_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-896_3776_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-512_2816_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-896_2400_-512.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-736_1424_-752.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-736_1424_-960.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-928_1424_-960.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-928_1424_-752.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-384_1424_-752.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-384_1424_-960.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_1888_-56.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-192_2128_-56.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c320_3776_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-320_4672_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_4288_-304.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_4288_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_3040_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-736_3040_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c-736_2784_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c736_3040_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c736_2784_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c736_2368_-1024.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_1488_64.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/c0_2876_56.vtf,4968,4968
+materials/maps/ze_nostromo_v1_0f/cubemapdefault.vtf,9832,9832
+materials/pk02/pk02_trim03.vmt,244,244
+materials/pk02/pk02_trim03_c.vtf,174888,174888
+materials/pk02/pk02_trim03_n.vtf,349680,349680
+materials/pk02/pk02_trim_set01a.vmt,253,253
+materials/pk02/pk02_trim_set01a_c.vtf,174968,174968
+materials/pk02/pk02_trim_set01_n.vtf,349744,349744
+materials/glass/glasswindowbreak070b.vmt,672,672
+materials/glass/glasswindowbreak070b.vtf,349744,349744
+materials/glass/glasswindowbreak070b_mask.vtf,174968,174968
+materials/glass/glass01.vmt,297,297
+materials/models/props_windows/window_uban_apt_glass.vtf,87640,87640
+materials/models/props_windows/window_uban_apt_glass_ref.vtf,2976,2976
+materials/metal/metal_corrugated01b.vmt,314,314
+materials/metal/metal_corrugated01b.vtf,175008,175008
+materials/metal/corrugated-ssbump.vtf,349784,349784
+materials/detail/dt_metalgalv.vtf,43936,43936
+materials/vbd/pack 2 remnont/remn_met_vent1.vmt,324,324
+materials/vbd/pack 2 remnont/remn_met_vent1.vtf,22008,22008
+materials/vbd/pack 2 remnont/remn_met_vent1_normal.vtf,174976,174976
+materials/vbd/pack 2 remnont/remn_wall_sup_center2.vmt,338,338
+materials/vbd/pack 2 remnont/remn_wall_sup_center2.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_wall_sup_center2_normal.vtf,1398336,1398336
+materials/pk01/pk01_pan_wall01.vmt,223,223
+materials/pk01/pk01_pan_wall01.vtf,174968,174968
+materials/pk01/pk01_pan_wall01_normal.vtf,1398292,1398292
+materials/pk01/pk01_roof01.vmt,215,215
+materials/pk01/pk01_roof01.vtf,174968,174968
+materials/pk01/pk01_roof01_normal.vtf,1398292,1398292
+materials/pk01/pk01_wall03a.vmt,216,216
+materials/pk01/pk01_wall03a.vtf,174968,174968
+materials/pk01/pk01_wall03_normal.vtf,1398292,1398292
+materials/pk01/pk01_floor01a.vmt,218,218
+materials/pk01/pk01_floor01a.vtf,174968,174968
+materials/pk01/pk01_floor01_normal.vtf,1398292,1398292
+materials/vbd/pack 2 remnont/remn_metal_p15_base.vmt,334,334
+materials/vbd/pack 2 remnont/remn_metal_p15_base.vtf,87544,87544
+materials/vbd/pack 2 remnont/remn_metal_p15_base_normal.vtf,174944,174944
+materials/pk02/pk02_wall03a.vmt,246,246
+materials/pk02/pk02_wall03a_c.vtf,349672,349672
+materials/pk02/pk02_wall03a_n.vtf,699216,699216
+materials/vbd/pack 2 remnont/remn_metal_p1a.vmt,323,323
+materials/vbd/pack 2 remnont/remn_metal_p1a.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_metal_p1_normal.vtf,1398336,1398336
+materials/pk01/pk01_trims01b.vmt,236,236
+materials/pk01/pk01_trims01b.vtf,174928,174928
+materials/pk01/pk01_trims01_normal.vtf,699180,699180
+materials/pk01/pk01_wall03b.vmt,216,216
+materials/pk01/pk01_wall03b.vtf,174968,174968
+materials/pk01/pk01_trims01a.vmt,218,218
+materials/pk01/pk01_trims01a.vtf,87528,87528
+materials/pk01/pk01_pan_wall02b2.vmt,226,226
+materials/pk01/pk01_pan_wall02b2.vtf,87528,87528
+materials/pk01/pk01_pan_wall02b_normal.vtf,699180,699180
+materials/pk01/pk01_floor01b.vmt,218,218
+materials/pk01/pk01_floor01b.vtf,174968,174968
+materials/pk02/pk02_trim04a.vmt,246,246
+materials/pk02/pk02_trim04a_c.vtf,5608,5608
+materials/pk02/pk02_trim04a_n.vtf,11120,11120
+materials/pk02/pk02_wall02b.vmt,266,266
+materials/pk02/pk02_wall02b_c.vtf,349744,349744
+materials/pk02/pk02_wall02b_n.vtf,349744,349744
+materials/pk02/pk02_wall06b.vmt,246,246
+materials/pk02/pk02_wall06b_c.vtf,174968,174968
+materials/pk02/pk02_wall06b_n.vtf,349744,349744
+materials/pk02/pk02_trim02.vmt,244,244
+materials/pk02/pk02_trim02_c.vtf,21992,21992
+materials/pk02/pk02_trim02_n.vtf,43856,43856
+materials/pk02/pk02_floor02.vmt,246,246
+materials/pk02/pk02_floor02_c.vtf,699256,699256
+materials/pk02/pk02_floor02_n.vtf,1398320,1398320
+materials/pk02/pk02_wall04b.vmt,246,246
+materials/pk02/pk02_wall04b_c.vtf,174968,174968
+materials/pk02/pk02_wall04b_n.vtf,349744,349744
+materials/pk02/pk02_floor08a.vmt,248,248
+materials/pk02/pk02_floor08a_c.vtf,174968,174968
+materials/pk02/pk02_floor08a_n.vtf,349744,349744
+materials/pk02/pk02_wall03b.vmt,246,246
+materials/pk02/pk02_wall03b_c.vtf,349672,349672
+materials/pk02/pk02_wall03b_n.vtf,699216,699216
+materials/pk02/pk02_floor09b.vmt,247,247
+materials/pk02/pk02_floor09b_c.vtf,1398320,1398320
+materials/pk02/pk02_floor09_n.vtf,1398320,1398320
+materials/pk02/pk02_generic01a.vmt,251,251
+materials/pk02/pk02_generic01a_c.vtf,174968,174968
+materials/pk02/pk02_generic01_n.vtf,349744,349744
+materials/pk01/pk01_gra_floor01.vmt,225,225
+materials/pk01/pk01_gra_floor01.vtf,87528,87528
+materials/pk01/pk01_gra_floor01_normal.vtf,699180,699180
+materials/pk01/pk01_pan_floor02b.vmt,226,226
+materials/pk01/pk01_pan_floor02b.vtf,43896,43896
+materials/pk01/pk01_pan_floor02_normal.vtf,349716,349716
+materials/pk01/pk01_floor02a.vmt,218,218
+materials/pk01/pk01_floor02a.vtf,43896,43896
+materials/pk01/pk01_floor02_normal.vtf,349716,349716
+materials/pk02/pk02_beam01.vmt,244,244
+materials/pk02/pk02_beam01_c.vtf,43816,43816
+materials/pk02/pk02_beam01_n.vtf,87536,87536
+materials/pk02/pk02_ceiling02.vmt,271,271
+materials/pk02/pk02_ceiling02_c.vtf,174928,174928
+materials/pk02/pk02_ceiling02_n.vtf,174928,174928
+materials/pk02/pk02_floor10.vmt,246,246
+materials/pk02/pk02_floor10_c.vtf,87600,87600
+materials/pk02/pk02_floor10_n.vtf,87600,87600
+materials/pk02/pk02_floor05.vmt,251,251
+materials/pk02/pk02_floor05_c.vtf,174968,174968
+materials/pk02/pk02_floor05_n.vtf,349744,349744
+materials/pk02/pk02_ceiling01.vmt,250,250
+materials/pk02/pk02_ceiling01_c.vtf,174968,174968
+materials/pk02/pk02_ceiling01_n.vtf,349744,349744
+materials/vbd/pack 2 remnont/remn_window1.vmt,339,339
+materials/vbd/pack 2 remnont/remn_window1.vtf,174944,174944
+materials/pk02/pk02_computer01a.vmt,274,274
+materials/pk02/pk02_computer01a_c.vtf,174928,174928
+materials/pk02/pk02_computer01a_n.vtf,174928,174928
+materials/pk02/pk02_wall02a.vmt,266,266
+materials/pk02/pk02_wall02a_c.vtf,349744,349744
+materials/pk02/pk02_wall02a_n.vtf,349744,349744
+materials/pk01/pk01_floor02b.vmt,218,218
+materials/pk01/pk01_floor02b.vtf,43896,43896
+materials/pk02/pk02_floor04.vmt,246,246
+materials/pk02/pk02_floor04_c.vtf,174968,174968
+materials/pk02/pk02_floor04_n.vtf,349744,349744
+materials/pk02/pk02_wall08a.vmt,245,245
+materials/pk02/pk02_wall08a_c.vtf,349672,349672
+materials/pk02/pk02_wall08_n.vtf,699216,699216
+materials/pk01/pk01_vent_wall01b.vmt,226,226
+materials/pk01/pk01_vent_wall01b.vtf,87528,87528
+materials/pk01/pk01_vent_wall01_normal.vtf,699180,699180
+materials/pk02/pk02_trim04b.vmt,246,246
+materials/pk02/pk02_trim04b_c.vtf,5608,5608
+materials/pk02/pk02_trim04b_n.vtf,11120,11120
+materials/pk02/pk02_floor09a.vmt,247,247
+materials/pk02/pk02_floor09a_c.vtf,699256,699256
+materials/vbd/pack 2 remnont/remn_pillar_e.vmt,322,322
+materials/vbd/pack 2 remnont/remn_pillar_e.vtf,22008,22008
+materials/vbd/pack 2 remnont/remn_pillar_e_normal.vtf,43904,43904
+materials/vbd/pack 2 remnont/remn_wall7.vmt,316,316
+materials/vbd/pack 2 remnont/remn_wall7.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_wall7_normal.vtf,349760,349760
+materials/vbd/pack 2 remnont/remn_metalfloor9.vmt,328,328
+materials/vbd/pack 2 remnont/remn_metalfloor9.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/pk02/pk02_panels01a.vmt,255,255
+materials/pk02/pk02_panels01a_c.vtf,174968,174968
+materials/pk02/pk02_panels01a_n.vtf,349744,349744
+materials/vbd/pack 2 remnont/remn_metal_p9b.vmt,324,324
+materials/vbd/pack 2 remnont/remn_metal_p9b.vtf,87544,87544
+materials/vbd/pack 2 remnont/remn_metal_p9b_normal.vtf,174944,174944
+materials/vbd/pack 2 remnont/remn_metalfloor1.vmt,328,328
+materials/vbd/pack 2 remnont/remn_metalfloor1.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_metalfloor1_normal.vtf,349760,349760
+materials/vbd/pack 2 remnont/remn_met_trim7.vmt,324,324
+materials/vbd/pack 2 remnont/remn_met_trim7.vtf,11128,11128
+materials/vbd/pack 2 remnont/remn_met_trim7_normal.vtf,87680,87680
+materials/vbd/pack 2 remnont/remn_metal_p15_f_base.vmt,338,338
+materials/vbd/pack 2 remnont/remn_metal_p15_f_base.vtf,87544,87544
+materials/vbd/pack 2 remnont/remn_metal_p15_e_base_normal.vtf,174944,174944
+materials/vbd/pack 2 remnont/remn_metal_p2.vmt,322,322
+materials/vbd/pack 2 remnont/remn_metal_p2.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_metal_p2_normal.vtf,349760,349760
+materials/vbd/pack 2 remnont/remn_metalfloor3.vmt,328,328
+materials/vbd/pack 2 remnont/remn_metalfloor3.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_metalfloor3_normal.vtf,349760,349760
+materials/vbd/pack 2 remnont/remn_pillar_d.vmt,322,322
+materials/vbd/pack 2 remnont/remn_pillar_d.vtf,22008,22008
+materials/vbd/pack 2 remnont/remn_pillar_d_normal.vtf,43904,43904
+materials/metal/metal_treadplate-ssbump.vmt,389,389
+materials/metal/metal_tread_plate.vtf,175008,175008
+materials/metal/metal_tread_plate-ssbump.vtf,349784,349784
+materials/pk02/pk02_wall01.vmt,244,244
+materials/pk02/pk02_wall01_c.vtf,174968,174968
+materials/pk02/pk02_wall01_n.vtf,349744,349744
+materials/pk02/pk02_ceiling03.vmt,250,250
+materials/pk02/pk02_ceiling03_c.vtf,174968,174968
+materials/pk02/pk02_ceiling03_n.vtf,349744,349744
+materials/pk02/pk02_wall06a.vmt,246,246
+materials/pk02/pk02_wall06a_c.vtf,174968,174968
+materials/pk02/pk02_wall06a_n.vtf,349744,349744
+materials/pk01/pk01_vent_wall03.vmt,225,225
+materials/pk01/pk01_vent_wall03.vtf,174968,174968
+materials/pk01/pk01_vent_wall03_normal.vtf,1398292,1398292
+materials/pk02/pk02_generic01b.vmt,251,251
+materials/pk02/pk02_generic01b_c.vtf,174968,174968
+materials/glass/urban_glass_03_snow.vmt,341,341
+materials/glass/urban_glass_03_snow.vtf,349784,349784
+materials/glass/urban_glass_03_snow_ref.vtf,43912,43912
+materials/nostromo/ladderway.vmt,136,136
+materials/nostromo/ladderway.vtf,87616,87616
+materials/glass/railing01.vmt,336,336
+materials/glass/railing01.vtf,43896,43896
+materials/glass/unbreakable_glass_a_01.vmt,173,173
+materials/glass/unbreakable_glass_a_01.vtf,349784,349784
+materials/pk01/pk01_door01a.vmt,234,234
+materials/pk01/pk01_door01a.vtf,174928,174928
+materials/pk01/pk01_door01_normal.vtf,699180,699180
+materials/pk01/pk01_door01b.vmt,234,234
+materials/pk01/pk01_door01b.vtf,174928,174928
+materials/pk01/pk01_panel_small01.vmt,247,247
+materials/pk01/pk01_panel_small01.vtf,87600,87600
+materials/pk01/pk01_panel_small01_normal.vtf,349716,349716
+materials/pk01/pk01_tile_floor01a.vmt,228,228
+materials/pk01/pk01_tile_floor01a.vtf,87528,87528
+materials/pk01/pk01_tile_floor01_normal.vtf,699180,699180
+materials/pk01/pk01_panel_small02.vmt,247,247
+materials/pk01/pk01_panel_small02.vtf,87600,87600
+materials/pk01/pk01_panel_small02_normal.vtf,349716,349716
+materials/glass/urban_glass_03.vmt,317,317
+materials/glass/urban_glass_03.vtf,349784,349784
+materials/glass/urban_glass_03_ref.vtf,43936,43936
+materials/pk01/pk01_panel03a.vmt,236,236
+materials/pk01/pk01_panel03a.vtf,174928,174928
+materials/pk01/pk01_panel03_normal.vtf,699180,699180
+materials/pk02/pk02_wall_big01a.vmt,251,251
+materials/pk02/pk02_wall_big01a_c.vtf,699256,699256
+materials/pk02/pk02_wall_big01a_n.vtf,1398320,1398320
+materials/pk02/pk02_floor01.vmt,247,247
+materials/pk02/pk02_floor01_c.vtf,174968,174968
+materials/pk02/pk02_floor01_n.vtf,349744,349744
+materials/pk02/pk02_wall04a.vmt,246,246
+materials/pk02/pk02_wall04a_c.vtf,174968,174968
+materials/pk02/pk02_wall04a_n.vtf,349744,349744
+materials/pk02/pk02_light01b.vmt,267,267
+materials/pk02/pk02_light01b_c.vtf,11088,11088
+materials/pk02/pk02_light01_n.vtf,11088,11088
+materials/pk01/pk01_tile_floor01b.vmt,228,228
+materials/pk01/pk01_tile_floor01b.vtf,87528,87528
+materials/pk02/pk02_door01.vmt,244,244
+materials/pk02/pk02_door01_c.vtf,174968,174968
+materials/pk02/pk02_door01_n.vtf,349744,349744
+materials/pk01/pk01_pan_wall02a1.vmt,226,226
+materials/pk01/pk01_pan_wall02a1.vtf,87528,87528
+materials/pk01/pk01_pan_wall02a_normal.vtf,699180,699180
+materials/pk02/pk02_switches01b.vmt,274,274
+materials/pk02/pk02_switches01b_c.vtf,43856,43856
+materials/pk02/pk02_switches01b_n.vtf,43856,43856
+materials/vbd/pack 2 remnont/remn_metal_p15_e_base.vmt,338,338
+materials/vbd/pack 2 remnont/remn_metal_p15_e_base.vtf,87544,87544
+materials/pk01/pk01_vent_wall02.vmt,225,225
+materials/pk01/pk01_vent_wall02.vtf,87528,87528
+materials/pk01/pk01_vent_wall02_normal.vtf,699180,699180
+materials/pk02/pk02_wall_big01b.vmt,251,251
+materials/pk02/pk02_wall_big01b_c.vtf,699256,699256
+materials/pk02/pk02_wall_big01b_n.vtf,1398320,1398320
+materials/nostromo/hazard.vmt,97,97
+materials/nostromo/hazard.vtf,43912,43912
+materials/pk02/pk02_rock01.vmt,243,243
+materials/pk02/pk02_rock01_c.vtf,699256,699256
+materials/pk02/pk02_rock01_n.vtf,1398320,1398320
+materials/pk01/pk01_wall04a.vmt,217,217
+materials/pk01/pk01_wall04a.vtf,87528,87528
+materials/pk01/pk01_wall04a_normal.vtf,699180,699180
+materials/nostromo/suitlocker.vmt,101,101
+materials/nostromo/suitlocker.vtf,43912,43912
+materials/pk01/pk01_wall04b.vmt,217,217
+materials/pk01/pk01_wall04b.vtf,87528,87528
+materials/pk01/pk01_wall04b_normal.vtf,699180,699180
+materials/nostromo/pressurisedgravity.vmt,110,110
+materials/nostromo/pressurisedgravity.vtf,43912,43912
+materials/vbd/pack 2 remnont/remn_inner_window1a.vmt,333,333
+materials/vbd/pack 2 remnont/remn_inner_window1a.vtf,87544,87544
+materials/pk01/pk01_panel03b.vmt,236,236
+materials/pk01/pk01_panel03b.vtf,174928,174928
+materials/pk01/pk01_panel02.vmt,235,235
+materials/pk01/pk01_panel02.vtf,174928,174928
+materials/pk01/pk01_panel02_normal.vtf,699180,699180
+materials/pk01/pk01_panel01b.vmt,236,236
+materials/pk01/pk01_panel01b.vtf,174928,174928
+materials/pk01/pk01_panel01_normal.vtf,699180,699180
+materials/pk01/pk01_panel01a.vmt,236,236
+materials/pk01/pk01_panel01a.vtf,174928,174928
+materials/pk01/pk01_vent_wall01a.vmt,226,226
+materials/pk01/pk01_vent_wall01a.vtf,87528,87528
+materials/pk02/pk02_trim_set02a.vmt,253,253
+materials/pk02/pk02_trim_set02a_c.vtf,174968,174968
+materials/pk02/pk02_trim_set02_n.vtf,349744,349744
+materials/nostromo/airlock.vmt,98,98
+materials/nostromo/airlock.vtf,43912,43912
+materials/pk01/pk01_pan_wall02b1.vmt,226,226
+materials/pk01/pk01_pan_wall02b1.vtf,87528,87528
+materials/pk01/pk01_pan_floor02a.vmt,226,226
+materials/pk01/pk01_pan_floor02a.vtf,43896,43896
+materials/pk02/pk02_floor_cyl01.vmt,259,259
+materials/pk02/pk02_floor_cyl01_c.vtf,699256,699256
+materials/pk02/pk02_floor_cyl01_n.vtf,1398320,1398320
+materials/pk01/pk01_thin_wall01b.vmt,226,226
+materials/pk01/pk01_thin_wall01b.vtf,43816,43816
+materials/pk01/pk01_thin_wall01_normal.vtf,349628,349628
+materials/pk02/pk02_boxes01.vmt,246,246
+materials/pk02/pk02_boxes01_c.vtf,43896,43896
+materials/pk02/pk02_boxes01_n.vtf,87600,87600
+materials/pk01/pk01_pan_floor01a.vmt,226,226
+materials/pk01/pk01_pan_floor01a.vtf,43896,43896
+materials/pk01/pk01_pan_floor01_normal.vtf,349716,349716
+materials/pk02/pk02_switches01c.vmt,274,274
+materials/pk02/pk02_switches01c_c.vtf,43856,43856
+materials/pk02/pk02_switches01c_n.vtf,43856,43856
+materials/pk02/pk02_light03.vmt,266,266
+materials/pk02/pk02_light03_c.vtf,87536,87536
+materials/pk02/pk02_light03_n.vtf,87536,87536
+materials/pk01/pk01_pan_trim01.vmt,223,223
+materials/pk01/pk01_pan_trim01.vtf,43816,43816
+materials/pk01/pk01_pan_trim01_normal.vtf,349628,349628
+materials/pk02/pk02_light01a.vmt,267,267
+materials/pk02/pk02_light01a_c.vtf,11088,11088
+materials/pk02/pk02_floor11.vmt,248,248
+materials/pk02/pk02_floor11_c.vtf,43896,43896
+materials/pk02/pk02_floor11_n.vtf,87600,87600
+materials/pk02/pk02_floor_cyl02.vmt,259,259
+materials/pk02/pk02_floor_cyl02_c.vtf,699256,699256
+materials/pk02/pk02_floor_cyl02_n.vtf,1398320,1398320
+materials/vbd/pack 2 remnont/remn_wall1.vmt,316,316
+materials/vbd/pack 2 remnont/remn_wall1.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_wall1_normal.vtf,1398336,1398336
+materials/environment maps/pipemetal004b.vmt,196,196
+materials/models/props_pipes/pipemetal004b.vtf,43888,43888
+materials/pk01/pk01_thin_wall02b.vmt,226,226
+materials/pk01/pk01_thin_wall02b.vtf,43816,43816
+materials/pk01/pk01_thin_wall02_normal.vtf,349628,349628
+materials/metal/metalpipe003a.vmt,586,586
+materials/metal/metalpipe003a.vtf,175008,175008
+materials/metal/metalpipe003a_normal.vtf,174968,174968
+materials/detail/metal_detail_01.vtf,175008,175008
+materials/metal/freezerwall01.vmt,257,257
+materials/metal/freezerwall01.vtf,175008,175008
+materials/metal/freezerwall01-ssbump.vtf,349784,349784
+materials/pk02/pk02_light02a.vmt,267,267
+materials/pk02/pk02_light02a_c.vtf,87600,87600
+materials/pk02/pk02_light02_n.vtf,87600,87600
+materials/nostromo/bulkheaddoor.vmt,139,139
+materials/nostromo/bulkheaddoor.vtf,87616,87616
+materials/nostromo/maint.vmt,132,132
+materials/nostromo/maint.vtf,87616,87616
+materials/nostromo/optics.vmt,133,133
+materials/nostromo/optics.vtf,87616,87616
+materials/nostromo/lifesupport.vmt,138,138
+materials/nostromo/lifesupport.vtf,87616,87616
+materials/nostromo/highradiation.vmt,140,140
+materials/nostromo/highradiation.vtf,87616,87616
+materials/nostromo/nopressure.vmt,137,137
+materials/nostromo/nopressure.vtf,87616,87616
+materials/nostromo/bridge.vmt,133,133
+materials/nostromo/bridge.vtf,87616,87616
+materials/nostromo/computer.vmt,135,135
+materials/nostromo/computer.vtf,87616,87616
+materials/nostromo/cryogenic.vmt,136,136
+materials/nostromo/cryogenic.vtf,87616,87616
+materials/nostromo/food.vmt,131,131
+materials/nostromo/food.vtf,87616,87616
+materials/nostromo/galley.vmt,133,133
+materials/nostromo/galley.vtf,87616,87616
+materials/nostromo/coffee.vmt,133,133
+materials/nostromo/coffee.vtf,87616,87616
+materials/nostromo/autodoc.vmt,134,134
+materials/nostromo/autodoc.vtf,87616,87616
+materials/nostromo/medical.vmt,134,134
+materials/nostromo/medical.vtf,87616,87616
+materials/nostromo/electronics.vmt,138,138
+materials/nostromo/electronics.vtf,87616,87616
+materials/liquids/boathouse_water.vmt,1692,1692
+materials/dev/water_normal.vtf,10136388,10136388
+materials/tools/toolsplayerclip.vmt,374,374
+materials/tools/toolsplayerclip.vtf,5680,5680
+materials/tools/toolsplayerclip-dx10.vtf,5720,5720
+materials/tools/toolsskip.vmt,326,326
+materials/tools/toolsskip.vtf,5680,5680
+materials/tools/toolsskip-dx10.vtf,5720,5720
+materials/tools/toolshint.vmt,324,324
+materials/tools/toolshint.vtf,5680,5680
+materials/tools/toolshint-dx10.vtf,5720,5720
+materials/halflife/black.vmt,129,129
+materials/halflife/black.vtf,888,888
+materials/nostromo/nostromologo.vmt,88,88
+materials/nostromo/nostromologo.vtf,174944,174944
+materials/tools/toolsblockbullets.vmt,201,201
+materials/tools/toolsblockbullets.vtf,5680,5680
+materials/tools/toolsblockbullets-dx10.vtf,5720,5720
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/metal/metaltruss017a.vmt,124,124
+materials/metal/metaltruss017a.vtf,22032,22032
+materials/props/hazardstrip001a.vmt,139,139
+materials/props/hazardstrip001a.vtf,2936,2936
+materials/metal/metalgrate013b.vmt,186,186
+materials/metal/metalgrate013b.vtf,87640,87640
+materials/buildings/tarp_ext_01.vmt,103,103
+materials/buildings/tarp_ext_01.vtf,175008,175008
+materials/lights/white002.vmt,144,144
+materials/lights/white002.vtf,2936,2936
+materials/de_nuke/nuke_metalgrate_01_translucent.vmt,121,121
+materials/de_nuke/nuke_metalgrate_01.vtf,87600,87600
+materials/de_train/train_metalceiling_01.vmt,108,108
+materials/de_train/train_metalceiling_01.vtf,174968,174968
+materials/metal/citadel_metalwall060a.vmt,168,168
+materials/metal/metalwall060a.vtf,174968,174968
+materials/metal/metalvent005a.vmt,288,288
+materials/metal/metalvent005a.vtf,11128,11128
+materials/effects/black.vmt,61,61
+materials/effects/black.vtf,2936,2936
+materials/vbd/pack 2 remnont/remn_light2.vmt,144,144
+materials/vbd/pack 2 remnont/remn_light2.vtf,22144,22144
+materials/metal/prodgratea.vmt,108,108
+materials/metal/prodgratea.vtf,87600,87600
+materials/nostromo/auszmlogo.vmt,85,85
+materials/nostromo/auszmlogo.vtf,1398296,1398296
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/cs_havana/white.vmt,57,57
+materials/cs_havana/white.vtf,888,888
+materials/decals/zutritt_verboten_02.vmt,135,135
+materials/decals/zutritt_verboten_02.vtf,349784,349784
+materials/metal/metalhull003a.vmt,173,173
+materials/metal/metalhull003a.vtf,175008,175008
+materials/detail/dt_metal2.vtf,11168,11168
+materials/metal/metalhull010b.vmt,274,274
+materials/metal/metalhull010b.vtf,174968,174968
+materials/cs_assault/assault_metalcrate001c_red.vmt,110,110
+materials/cs_assault/assault_metalcrate001c_red.vtf,174968,174968
+materials/plaster/ceiling_white01off.vmt,101,101
+materials/plaster/ceiling_white01off.vtf,175008,175008
+materials/de_nuke/nuke_metalgrate_01.vmt,145,145
+materials/de_dust/rockwall01.vmt,119,119
+materials/de_dust/rockwall01.vtf,174968,174968
+materials/nostromo/scuttlewarning.vmt,71,71
+materials/nostromo/scuttlewarning.vtf,174904,174904
+materials/cs_italy/ironmetal01.vmt,117,117
+materials/cs_italy/ironmetal01.vtf,43856,43856
+materials/metal/metalwall061f.vmt,119,119
+materials/metal/metalwall061f.vtf,22032,22032
+materials/metal/metalgrate008a.vmt,138,138
+materials/metal/metalgrate008a.vtf,174968,174968
+materials/metal/2x4_metal.vmt,165,165
+materials/models/props/de_vertigo/2x4_metal.vtf,174928,174928
+materials/de_nuke/nuke_metaltrims_01.vmt,99,99
+materials/de_nuke/nuke_metaltrims_01.vtf,11048,11048
+materials/metal/metalrail003a.vmt,170,170
+materials/metal/metalrail003a.vtf,87536,87536
+materials/dev/dev_waterbeneath2.vmt,1312,1312
+materials/nature/water_frame01_normal.vtf,262375,262375
+materials/decals/prodflrlghta.vmt,294,294
+materials/decals/prodflrlghta.vtf,22064,22064
+materials/decals/checkpointarrow01_orange.vmt,150,150
+materials/decals/checkpointarrow01_orange.vtf,43896,43896
+materials/decals/decalsigndanger001c.vmt,172,172
+materials/decals/decalsigndanger001c.vtf,22104,22104
+materials/decals/drainage_stain_05.vmt,153,153
+materials/decals/drainage_stain_05.vtf,349784,349784
+materials/decals/decalsigndanger001e.vmt,252,252
+materials/decals/decalsigndanger001e.vtf,22064,22064
+materials/decals/sign05.vmt,134,134
+materials/decals/sign05.vtf,22104,22104
+materials/decals/cs_caution_sign.vmt,89,89
+materials/decals/cs_caution_sign.vtf,87488,87488
+materials/decals/decalpapers02.vmt,142,142
+materials/decals/decalpapers02.vtf,349744,349744
+materials/decals/paper01.vmt,162,162
+materials/decals/paper01.vtf,349784,349784
+materials/decals/decalpapers01.vmt,142,142
+materials/decals/decalpapers01.vtf,349744,349744
+materials/decals/stain01.vmt,135,135
+materials/decals/stain01.vtf,349784,349784
+materials/decals/decalstain011a.vmt,189,189
+materials/decals/decalstain011a.vtf,349784,349784
+materials/decals/mill_stain01.vmt,164,164
+materials/decals/mill_stain01.vtf,175008,175008
+materials/decals/bloodstain_003.vmt,121,121
+materials/decals/bloodstain_003.vtf,174928,174928
+materials/decals/blood_splatter.vmt,119,119
+materials/decals/blood_splatter.vtf,349720,349720
+materials/decals/bloodstain_002.vmt,121,121
+materials/decals/bloodstain_002.vtf,43936,43936
+materials/decals/checkpointarrow01_black.vmt,149,149
+materials/decals/checkpointarrow01_black.vtf,22032,22032
+materials/skybox/sky06up.vmt,97,97
+materials/skybox/sky06up.vtf,699272,699272
+materials/skybox/sky06dn.vmt,97,97
+materials/skybox/sky06dn.vtf,699272,699272
+materials/skybox/sky06lf.vmt,97,97
+materials/skybox/sky06lf.vtf,699272,699272
+materials/skybox/sky06rt.vmt,97,97
+materials/skybox/sky06rt.vtf,699272,699272
+materials/skybox/sky06ft.vmt,97,97
+materials/skybox/sky06ft.vtf,699272,699272
+materials/skybox/sky06bk.vmt,97,97
+materials/skybox/sky06bk.vtf,699272,699272
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+sound/ambient/tones/fan1.wav,171348,171348
+sound/ambient/machines/steam_loop_01.wav,229184,229184
+sound/nostromo/nostromo_self_setup_8bit.mp3,341498,341498
+sound/nostromo/nostromo_door_close.wav,18567,18567
+sound/nostromo/nostromo_door_open.wav,24570,24570
+models/props_interiors/tv.mdl,2144,2144
+models/props_interiors/tv.vvd,48704,48704
+models/props_interiors/tv.dx90.vtx,11742,11742
+models/props_interiors/tv.dx80.vtx,11742,11742
+models/props_interiors/tv.sw.vtx,11742,11742
+models/props_interiors/tv.vtx,11742,11742
+models/props_interiors/tv.phy,875,875
+materials/models/props_interiors/tvstatic.vmt,245,245
+materials/models/props_interiors/tvstatic.vtf,43936,43936
+materials/models/props_interiors/tvstatic_ref.vtf,11168,11168
+materials/models/props_interiors/tv.vmt,89,89
+materials/models/props_interiors/tv.vtf,43936,43936
+materials/models/props_interiors/tvebstest.vmt,186,186
+materials/models/props_interiors/tvebstest.vtf,43936,43936
+materials/models/props_interiors/tvanimstatic.vmt,353,353
+materials/models/props_interiors/tvanimstatic.vtf,175048,175048
+models/props/de_inferno/tv_monitor01_static.mdl,1776,1776
+models/props/de_inferno/tv_monitor01_static.vvd,25536,25536
+models/props/de_inferno/tv_monitor01_static.dx90.vtx,6715,6715
+models/props/de_inferno/tv_monitor01_static.phy,1565,1565
+materials/models/props/de_inferno/tv_monitor01.vmt,280,280
+materials/models/props_c17/tv_monitor01.vtf,43936,43936
+materials/models/props_c17/tv_monitor01_mask.vtf,11168,11168
+models/props/cs_office/computer_keyboard.mdl,1728,1728
+models/props/cs_office/computer_keyboard.vvd,20096,20096
+models/props/cs_office/computer_keyboard.dx90.vtx,4524,4524
+models/props/cs_office/computer_keyboard.phy,891,891
+materials/models/props/cs_office/computer.vmt,157,157
+materials/models/props/cs_office/computer.vtf,174968,174968
+materials/models/props/cs_office/computer_ref.vtf,11128,11128
+sound/nostromo/nostromo_beepseq.mp3,300120,300120
+sound/nostromo/nostromo_final_explosion.mp3,192287,192287
+sound/ambient/machines/air_conditioner_loop_1.wav,205318,205318
+sound/ambient/energy/force_field_loop1.wav,222582,222582
+sound/nostromo/nostromo_selfdest_klaxarm.mp3,642010,642010
+sound/nostromo/nostromo_muthur_selfdest.mp3,54360,54360
+sound/nostromo/nostromo_muther_access02.mp3,194377,194377
+sound/nostromo/nostromo_ash_icantlie.mp3,97828,97828
+sound/nostromo/nostromo_muther_access01.mp3,201482,201482
+sound/ambient/wind/lightwind_02.wav,1485364,1485364
+sound/nostromo/nostromo_ventdoor_open.mp3,48509,48509
+models/props/de_prodigy/fanoff.mdl,1760,1760
+models/props/de_prodigy/fanoff.vvd,20608,20608
+models/props/de_prodigy/fanoff.dx90.vtx,5062,5062
+models/props/de_prodigy/fanoff.phy,6649,6649
+materials/models/props/de_prodigy/fan.vmt,149,149
+materials/models/props/de_prodigy/fan.vtf,174968,174968
+materials/models/props/de_prodigy/fan_ref.vtf,174968,174968
+sound/ambient/machines/floodgate_stop1.wav,148112,148112
+sound/ambient/machines/floodgate_move_short1.wav,209954,209954
+sound/nostromo/nostromo_music_deckb_02.mp3,2056385,2056385
+sound/nostromo/nostromo_kane_death.mp3,102426,102426
+models/props_industrial/vehicle_lift01.mdl,1768,1768
+models/props_industrial/vehicle_lift01.vvd,272192,272192
+models/props_industrial/vehicle_lift01.dx90.vtx,94093,94093
+models/props_industrial/vehicle_lift01.phy,12608,12608
+materials/models/props_industrial/vehiclelift01.vmt,173,173
+materials/models/props_industrial/vehiclelift01.vtf,699296,699296
+sound/ambient/weather/aztec_int_rain_lp_01.wav,394390,394390
+sound/doors/heavy_metal_stop1.wav,90234,90234
+sound/buttons/bell1.wav,15406,15406
+sound/ambient/tones/tunnel_wind_loop.wav,278384,278384
+models/props/de_nuke/crate_extrasmall.mdl,1776,1776
+models/props/de_nuke/crate_extrasmall.vvd,29504,29504
+models/props/de_nuke/crate_extrasmall.dx90.vtx,5677,5677
+models/props/de_nuke/crate_extrasmall.phy,1705,1705
+materials/models/props/de_nuke/crate_extrasmall.vmt,83,83
+materials/models/props/de_nuke/crate_extrasmall.vtf,699256,699256
+models/props/de_nuke/crate_extralarge.mdl,1776,1776
+models/props/de_nuke/crate_extralarge.vvd,23616,23616
+models/props/de_nuke/crate_extralarge.dx90.vtx,4573,4573
+models/props/de_nuke/crate_extralarge.phy,892,892
+materials/models/props/de_nuke/crate_extralarge.vmt,83,83
+materials/models/props/de_nuke/crate_extralarge.vtf,699256,699256
+models/props/de_nuke/light_red1.mdl,2340,2340
+models/props/de_nuke/light_red1.vvd,70624,70624
+models/props/de_nuke/light_red1.dx90.vtx,31955,31955
+models/props/de_nuke/light_red1.phy,4653,4653
+materials/models/props/de_nuke/light_red1.vmt,77,77
+materials/models/props/de_nuke/light_red1.vtf,87600,87600
+materials/models/props/de_nuke/light_red1_glass.vmt,235,235
+materials/models/props/de_nuke/light_red1_glass.vtf,2896,2896
+materials/models/props/de_nuke/light_red1_glass_ref.vtf,1512,1512
+materials/models/props/de_nuke/light_red1_on.vmt,94,94
+materials/models/props/de_nuke/light_red1_glass_on.vmt,246,246
+materials/models/props/de_nuke/light_yellow1_glass.vmt,223,223
+materials/models/props/de_nuke/light_yellow1_glass.vtf,2896,2896
+materials/models/props/de_nuke/light_yellow1_glass_on.vmt,234,234
+models/props/de_nuke/crate_large.mdl,1776,1776
+models/props/de_nuke/crate_large.vvd,23616,23616
+models/props/de_nuke/crate_large.dx90.vtx,4573,4573
+models/props/de_nuke/crate_large.phy,700,700
+models/props_c17/metalladder001.mdl,1756,1756
+models/props_c17/metalladder001.vvd,42048,42048
+models/props_c17/metalladder001.dx90.vtx,8365,8365
+models/props_c17/metalladder001.vtx,8349,8349
+models/props_c17/metalladder001.phy,4448,4448
+materials/models/props_c17/metalladder001.vmt,102,102
+materials/models/props_c17/metalladder001.vtf,174968,174968
+models/props/cs_assault/ladder_tall.mdl,1772,1772
+models/props/cs_assault/ladder_tall.vvd,116224,116224
+models/props/cs_assault/ladder_tall.dx90.vtx,39760,39760
+models/props/cs_assault/ladder_tall.vtx,39712,39712
+materials/models/props/cs_assault/ladder_tall.vmt,81,81
+materials/models/props/cs_assault/ladder_tall.vtf,21992,21992
+models/props/de_inferno/bomb_shells_1_metal.mdl,1976,1976
+models/props/de_inferno/bomb_shells_1_metal.vvd,405696,405696
+models/props/de_inferno/bomb_shells_1_metal.dx90.vtx,103460,103460
+models/props/de_inferno/bomb_shells_1_metal.phy,1450,1450
+materials/models/props/de_inferno/bomb_tanks.vmt,80,80
+materials/models/props/de_inferno/bomb_tanks.vtf,699272,699272
+materials/models/props/de_inferno/artillery02.vmt,81,81
+materials/models/props/de_inferno/artillery02.vtf,699296,699296
+models/props/de_inferno/bomb_shells_1_wood.mdl,1784,1784
+models/props/de_inferno/bomb_shells_1_wood.vvd,195264,195264
+models/props/de_inferno/bomb_shells_1_wood.dx90.vtx,45463,45463
+models/props/de_inferno/bomb_shells_1_wood.phy,1969,1969
+materials/models/props/de_inferno/ammo_pallet01.vmt,83,83
+materials/models/props/de_inferno/ammo_pallet01.vtf,699296,699296
+models/props/de_vertigo/cementmixer.mdl,1772,1772
+models/props/de_vertigo/cementmixer.vvd,295616,295616
+models/props/de_vertigo/cementmixer.dx90.vtx,79060,79060
+models/props/de_vertigo/cementmixer.phy,11381,11381
+materials/models/props/de_vertigo/cementmixer.vmt,81,81
+materials/models/props/de_vertigo/cementmixer.vtf,1398360,1398360
+models/props_bank/construction_lift_cs.mdl,1768,1768
+models/props_bank/construction_lift_cs.vvd,315008,315008
+models/props_bank/construction_lift_cs.dx90.vtx,82633,82633
+models/props_bank/construction_lift_cs.phy,5362,5362
+materials/models/props/de_bank/construction_lift_cs.vmt,87,87
+materials/models/props/de_bank/construction_lift_cs.vtf,699296,699296
+models/props/de_dust/dust_food_crates_74.mdl,1772,1772
+models/props/de_dust/dust_food_crates_74.vvd,139072,139072
+models/props/de_dust/dust_food_crates_74.dx90.vtx,26305,26305
+models/props/de_dust/dust_food_crates_74.dx80.vtx,26053,26053
+models/props/de_dust/dust_food_crates_74.sw.vtx,26053,26053
+models/props/de_dust/dust_food_crates_74.phy,10217,10217
+materials/models/props/de_dust/dust_food_crates.vmt,100,100
+materials/models/props/de_dust/dust_food_crates.vtf,174984,174984
+models/props/de_nuke/electricalbox02.mdl,1772,1772
+models/props/de_nuke/electricalbox02.vvd,201856,201856
+models/props/de_nuke/electricalbox02.dx90.vtx,61816,61816
+models/props/de_nuke/electricalbox02.vtx,61768,61768
+models/props/de_nuke/electricalbox02.phy,1034,1034
+materials/models/props/de_nuke/electricalbox02.vmt,167,167
+materials/models/props/de_nuke/electricalbox02.vtf,174984,174984
+materials/models/props/de_nuke/electricalbox02_ref.vtf,43912,43912
+models/props/de_vertigo/pallet_barrels_water01.mdl,2212,2212
+models/props/de_vertigo/pallet_barrels_water01.vvd,169664,169664
+models/props/de_vertigo/pallet_barrels_water01.dx90.vtx,73440,73440
+models/props/de_vertigo/pallet_barrels_water01.phy,7840,7840
+materials/models/props/de_vertigo/blackleather.vmt,80,80
+materials/models/props/de_train/blackleather.vtf,87528,87528
+materials/models/props/de_train/blackleather.vmt,80,80
+materials/models/props/de_vertigo/wood_pallet_01.vmt,82,82
+materials/models/props/de_train/wood_pallet_01.vtf,174968,174968
+materials/models/props/de_train/wood_pallet_01.vmt,82,82
+materials/models/props/de_vertigo/pallet_barrel_water01.vmt,475,475
+materials/models/props/de_vertigo/pallet_barrel_water01.vtf,175008,175008
+models/props/de_train/pallet_barrels.mdl,2740,2740
+models/props/de_train/pallet_barrels.vvd,181648,181648
+models/props/de_train/pallet_barrels.dx90.vtx,101050,101050
+models/props/de_train/pallet_barrels.phy,3832,3832
+materials/models/props/de_train/barrel0004.vmt,455,455
+materials/models/props/de_train/barrel0004.vtf,349784,349784
+materials/models/props/de_train/barrel0006.vmt,453,453
+materials/models/props/de_train/barrel0006.vtf,349784,349784
+materials/models/props/de_train/barrel0005.vmt,453,453
+materials/models/props/de_train/barrel0005.vtf,349784,349784
+materials/models/props/de_train/barrel0003.vmt,453,453
+materials/models/props/de_train/barrel0003.vtf,349784,349784
+models/props/de_nuke/electricalbox01.mdl,1772,1772
+models/props/de_nuke/electricalbox01.vvd,174592,174592
+models/props/de_nuke/electricalbox01.dx90.vtx,61831,61831
+models/props/de_nuke/electricalbox01.vtx,61783,61783
+models/props/de_nuke/electricalbox01.phy,1297,1297
+materials/models/props/de_nuke/electricalbox01.vmt,167,167
+materials/models/props/de_nuke/electricalbox01.vtf,699256,699256
+materials/models/props/de_nuke/electricalbox01_ref.vtf,174968,174968
+models/props/cs_office/light_inset.mdl,1768,1768
+models/props/cs_office/light_inset.vvd,19328,19328
+models/props/cs_office/light_inset.dx90.vtx,4666,4666
+models/props/cs_office/light_inset.vtx,4650,4650
+models/props/cs_office/light_inset.phy,1072,1072
+materials/models/props/cs_office/light_inset.vmt,182,182
+materials/models/props/cs_office/light_inset.vtf,22064,22064
+materials/models/props/cs_office/light_inset_ref.vtf,11128,11128
+models/props/de_nuke/industriallight01.mdl,1868,1868
+models/props/de_nuke/industriallight01.vvd,56192,56192
+models/props/de_nuke/industriallight01.dx90.vtx,16204,16204
+models/props/de_nuke/industriallight01.vtx,16172,16172
+models/props/de_nuke/industriallight01.phy,1559,1559
+materials/models/props/de_nuke/industriallight01.vmt,190,190
+materials/models/props/de_nuke/industriallight01.vtf,87600,87600
+materials/models/props/de_nuke/industriallight01_ref.vtf,43896,43896
+materials/models/props/de_nuke/industriallight01_off.vmt,175,175
+materials/models/props/de_nuke/industriallight01_off.vtf,43896,43896
+models/props/de_vertigo/insulationroll_pallet01.mdl,2204,2204
+models/props/de_vertigo/insulationroll_pallet01.vvd,153024,153024
+models/props/de_vertigo/insulationroll_pallet01.dx90.vtx,34371,34371
+models/props/de_vertigo/insulationroll_pallet01.phy,5366,5366
+materials/models/props/de_vertigo/insulationroll_pallet_plastic01.vmt,247,247
+materials/models/props/de_vertigo/insulationroll_pallet_plastic01.vtf,87568,87568
+materials/models/props/de_vertigo/insulationroll_pallet_plastic01_ref.vtf,22032,22032
+materials/models/props/de_vertigo/insulationroll01.vmt,115,115
+materials/models/props/de_vertigo/insulationroll01.vtf,175008,175008
+models/props_equipment/metalladder002.mdl,1768,1768
+models/props_equipment/metalladder002.vvd,23232,23232
+models/props_equipment/metalladder002.dx90.vtx,5227,5227
+models/props_equipment/metalladder002.phy,1563,1563
+materials/models/props_equipment/metalladder003.vmt,83,83
+materials/models/props_equipment/metalladder003.vtf,43936,43936
+models/props/cs_office/light_ceiling.mdl,1828,1828
+models/props/cs_office/light_ceiling.vvd,29120,29120
+models/props/cs_office/light_ceiling.dx90.vtx,5787,5787
+models/props/cs_office/light_ceiling.phy,695,695
+materials/models/props/cs_office/light_ceiling.vmt,186,186
+materials/models/props/cs_office/light_ceiling.vtf,87600,87600
+materials/models/props/cs_office/light_ceiling_ref.vtf,11128,11128
+materials/models/props/cs_office/light_ceiling_off.vmt,167,167
+models/props/de_vertigo/hvac_fan_01.mdl,2456,2456
+models/props/de_vertigo/hvac_fan_01.vvd,177472,177472
+models/props/de_vertigo/hvac_fan_01.dx90.vtx,40624,40624
+models/props/de_vertigo/hvac_fan_01.phy,7016,7016
+materials/models/props/de_vertigo/hvac_fanunit.vmt,715,715
+materials/models/props/de_vertigo/hvac_fanunit.vtf,349784,349784
+materials/models/props/de_vertigo/hvac_fanunit_n.vtf,699296,699296
+materials/models/props/de_vertigo/meshgrill.vmt,364,364
+materials/models/props/de_vertigo/meshgrill.vtf,5720,5720
+materials/models/props/de_vertigo/meshgrill_n.vtf,5720,5720
+materials/models/props/de_vertigo/hvac_controlunit.vmt,727,727
+materials/models/props/de_vertigo/hvac_controlunit.vtf,349784,349784
+materials/models/props/de_vertigo/hvac_controlunit_n.vtf,175008,175008
+materials/models/props/de_vertigo/fanblade.vmt,652,652
+materials/models/props/de_vertigo/fanblade.vtf,11128,11128
+materials/models/props/de_vertigo/fanblade_n.vtf,174968,174968
+models/props/de_vertigo/hvac_controllerwithfan_01.mdl,2256,2256
+models/props/de_vertigo/hvac_controllerwithfan_01.vvd,227008,227008
+models/props/de_vertigo/hvac_controllerwithfan_01.dx90.vtx,50145,50145
+models/props/de_vertigo/hvac_controllerwithfan_01.phy,8664,8664
+models/props/de_vertigo/hvac_controller_01.mdl,1816,1816
+models/props/de_vertigo/hvac_controller_01.vvd,171456,171456
+models/props/de_vertigo/hvac_controller_01.dx90.vtx,39931,39931
+models/props/de_vertigo/hvac_controller_01.phy,8720,8720
+models/props/de_nuke/nuclearfuelcontainer.mdl,1784,1784
+models/props/de_nuke/nuclearfuelcontainer.vvd,380096,380096
+models/props/de_nuke/nuclearfuelcontainer.dx90.vtx,99076,99076
+models/props/de_nuke/nuclearfuelcontainer.phy,1807,1807
+materials/models/props/de_nuke/nuclearfuelcontainerb.vmt,88,88
+materials/models/props/de_nuke/nuclearfuelcontainerb.vtf,174968,174968
+models/props_mill/elevator01_framework.mdl,1768,1768
+models/props_mill/elevator01_framework.vvd,174784,174784
+models/props_mill/elevator01_framework.dx90.vtx,32971,32971
+models/props_mill/elevator01_framework.phy,13246,13246
+materials/models/props_mill/elevator_framework.vmt,166,166
+materials/models/props_mill/elevator_framework.vtf,1398360,1398360
+models/props/de_nuke/craneb.mdl,4128,4128
+models/props/de_nuke/craneb.vvd,732080,732080
+models/props/de_nuke/craneb.dx90.vtx,357975,357975
+models/props/de_nuke/craneb.phy,2346,2346
+materials/models/props/de_nuke/crane_claw.vmt,77,77
+materials/models/props/de_nuke/crane_claw.vtf,699256,699256
+materials/models/props/de_nuke/crane_winch.vmt,78,78
+materials/models/props/de_nuke/crane_winch.vtf,174968,174968
+materials/models/props/de_nuke/crane_ends.vmt,77,77
+materials/models/props/de_nuke/crane_ends.vtf,699256,699256
+materials/models/props/de_nuke/nukibeamadirty.vmt,81,81
+materials/models/props/de_nuke/nukibeamadirty.vtf,43832,43832
+materials/models/props/de_nuke/crane_walkway.vmt,120,120
+materials/models/props/de_nuke/crane_walkway.vtf,87600,87600
+materials/models/props/de_nuke/nucleartestcabinetdirty.vmt,90,90
+materials/models/props/de_nuke/nucleartestcabinetdirty.vtf,174968,174968
+materials/models/props/de_nuke/lockersdark.vmt,78,78
+materials/models/props/de_nuke/lockersdark.vtf,174968,174968
+materials/models/props/de_nuke/crane_wires.vmt,78,78
+materials/models/props/de_nuke/crane_wires.vtf,11064,11064
+materials/models/props/de_nuke/catwalksupports.vmt,82,82
+materials/models/props/de_nuke/catwalksupports.vtf,43896,43896
+materials/models/props/de_nuke/containmentbuildingrailing01.vmt,95,95
+materials/models/props/de_nuke/containmentbuildingrailing01.vtf,43896,43896
+materials/models/props/de_nuke/floodlighton.vmt,98,98
+materials/models/props/de_nuke/floodlighton.vtf,5696,5696
+materials/models/props/de_nuke/trplaque.vmt,75,75
+materials/models/props/de_nuke/trplaque.vtf,87600,87600
+models/props/de_nuke/turbinegenerator.mdl,2340,2340
+models/props/de_nuke/turbinegenerator.vvd,399104,399104
+models/props/de_nuke/turbinegenerator.dx90.vtx,192988,192988
+models/props/de_nuke/turbinegenerator.phy,8481,8481
+materials/models/props/de_nuke/maintank.vmt,151,151
+materials/models/props/de_nuke/maintank.vtf,174984,174984
+materials/models/props/de_nuke/reflection.vtf,174968,174968
+materials/models/props/de_nuke/largepipes.vmt,153,153
+materials/models/props/de_nuke/largepipes.vtf,174984,174984
+materials/models/props/de_nuke/secondtank.vmt,153,153
+materials/models/props/de_nuke/secondtank.vtf,699256,699256
+materials/models/props/de_nuke/support.vmt,74,74
+materials/models/props/de_nuke/support.vtf,699256,699256
+models/props/de_nuke/fuel_cask.mdl,1768,1768
+models/props/de_nuke/fuel_cask.vvd,135552,135552
+models/props/de_nuke/fuel_cask.dx90.vtx,53644,53644
+models/props/de_nuke/fuel_cask.phy,22561,22561
+materials/models/props/de_nuke/fuel_cask.vmt,155,155
+materials/models/props/de_nuke/fuel_cask.vtf,699256,699256
+materials/models/props/de_nuke/fuel_cask_ref.vtf,174984,174984
+models/props/gg_handling/bh_warning_light.mdl,1744,1744
+models/props/gg_handling/bh_warning_light.vvd,56640,56640
+models/props/gg_handling/bh_warning_light.dx90.vtx,12405,12405
+models/props/gg_handling/bh_warning_light.phy,889,889
+materials/models/props/gg_handling/bh_warning_light.vmt,123,123
+materials/models/props/gg_handling/bh_warning_light.vtf,87616,87616
+models/props/de_vertigo/railingstraight_128.mdl,1820,1820
+models/props/de_vertigo/railingstraight_128.vvd,51648,51648
+models/props/de_vertigo/railingstraight_128.dx90.vtx,13243,13243
+models/props/de_vertigo/railingstraight_128.phy,6337,6337
+materials/models/props/de_vertigo/constructionsite_stairs.vmt,521,521
+materials/models/props/de_vertigo/constructionsite_stairs.vtf,174968,174968
+materials/models/props/de_vertigo/constructionsite_stairs_n.vtf,87568,87568
+models/props/de_vertigo/railingstraight_96.mdl,1820,1820
+models/props/de_vertigo/railingstraight_96.vvd,48640,48640
+models/props/de_vertigo/railingstraight_96.dx90.vtx,12472,12472
+models/props/de_vertigo/railingstraight_96.phy,5536,5536
+models/props_rooftop/acvent05.mdl,1760,1760
+models/props_rooftop/acvent05.vvd,81408,81408
+models/props_rooftop/acvent05.dx90.vtx,21838,21838
+models/props_rooftop/acvent05.vtx,21806,21806
+models/props_rooftop/acvent05.phy,4204,4204
+materials/models/props_rooftop/acvent05.vmt,70,70
+materials/models/props_rooftop/acvent05.vtf,175008,175008
+models/props_mill/pipeset32d_corner128da.mdl,1760,1760
+models/props_mill/pipeset32d_corner128da.vvd,92544,92544
+models/props_mill/pipeset32d_corner128da.dx90.vtx,22813,22813
+models/props_mill/pipeset32d_corner128da.phy,9240,9240
+materials/models/props_mill/pipeset32d.vmt,189,189
+materials/models/props_mill/pipeset32d.vtf,175008,175008
+models/props_mill/pipeset08d_corner128d_001a.mdl,1772,1772
+models/props_mill/pipeset08d_corner128d_001a.vvd,120064,120064
+models/props_mill/pipeset08d_corner128d_001a.dx90.vtx,28000,28000
+models/props_mill/pipeset08d_corner128d_001a.phy,1551,1551
+materials/models/props_mill/pipeset08d_128_001a.vmt,199,199
+materials/models/props_mill/pipeset08d_128_001a.vtf,43936,43936
+materials/models/props_mill/pipeset08d_128_001a_ref.vtf,43936,43936
+models/props_mill/pipeset08d_128_001a.mdl,1772,1772
+models/props_mill/pipeset08d_128_001a.vvd,41216,41216
+models/props_mill/pipeset08d_128_001a.dx90.vtx,9688,9688
+models/props_mill/pipeset08d_128_001a.phy,1060,1060
+models/props/de_inferno/bomb_tanks.mdl,1776,1776
+models/props/de_inferno/bomb_tanks.vvd,959616,959616
+models/props/de_inferno/bomb_tanks.dx90.vtx,220462,220462
+models/props/de_inferno/bomb_tanks.phy,19513,19513
+models/props_industrial/warehouse_shelf001.mdl,1780,1780
+models/props_industrial/warehouse_shelf001.vvd,121536,121536
+models/props_industrial/warehouse_shelf001.dx90.vtx,23119,23119
+models/props_industrial/warehouse_shelf001.vtx,23103,23103
+models/props_industrial/warehouse_shelf001.phy,7980,7980
+materials/models/props_industrial/warehouse_shelves.vmt,125,125
+materials/models/props_industrial/warehouse_shelves.vtf,699232,699232
+models/props/de_prodigy/fanhousing.mdl,1764,1764
+models/props/de_prodigy/fanhousing.vvd,17600,17600
+models/props/de_prodigy/fanhousing.dx90.vtx,4243,4243
+models/props/de_prodigy/fanhousing.vtx,4227,4227
+models/props/de_prodigy/fanhousing.phy,6281,6281
+models/props/de_vertigo/hvac_controller_02.mdl,1816,1816
+models/props/de_vertigo/hvac_controller_02.vvd,94848,94848
+models/props/de_vertigo/hvac_controller_02.dx90.vtx,22498,22498
+models/props/de_vertigo/hvac_controller_02.phy,4616,4616
+models/props/de_inferno/bomb_shells_2_wood.mdl,1784,1784
+models/props/de_inferno/bomb_shells_2_wood.vvd,406592,406592
+models/props/de_inferno/bomb_shells_2_wood.dx90.vtx,81865,81865
+models/props/de_inferno/bomb_shells_2_wood.phy,3145,3145
+models/props/de_inferno/bomb_drums_02.mdl,1776,1776
+models/props/de_inferno/bomb_drums_02.vvd,540736,540736
+models/props/de_inferno/bomb_drums_02.dx90.vtx,147469,147469
+models/props/de_inferno/bomb_drums_02.phy,2304,2304
+materials/models/props/de_inferno/chem_drum01.vmt,81,81
+materials/models/props/de_inferno/chem_drum01.vtf,174984,174984
+models/props/de_inferno/bomb_shells_2_metal.mdl,1976,1976
+models/props/de_inferno/bomb_shells_2_metal.vvd,928576,928576
+models/props/de_inferno/bomb_shells_2_metal.dx90.vtx,223454,223454
+models/props/de_inferno/bomb_shells_2_metal.phy,2362,2362
+models/props_rooftop/acvent04.mdl,1760,1760
+models/props_rooftop/acvent04.vvd,51648,51648
+models/props_rooftop/acvent04.dx90.vtx,10339,10339
+models/props_rooftop/acvent04.vtx,10323,10323
+models/props_rooftop/acvent04.phy,3916,3916
+materials/models/props_rooftop/acvent04.vmt,70,70
+materials/models/props_rooftop/acvent04.vtf,175008,175008
+models/props_mall/cage_light_fixture.mdl,1852,1852
+models/props_mall/cage_light_fixture.vvd,130240,130240
+models/props_mall/cage_light_fixture.dx90.vtx,29779,29779
+models/props_mall/cage_light_fixture.phy,3209,3209
+materials/models/props_mall/cage_light_fixture.vmt,84,84
+materials/models/props_mall/cage_light_fixture.vtf,349792,349792
+materials/models/props_mall/cage_light_fixture_on.vmt,103,103
+models/props_c17/metalladder002.mdl,1808,1808
+models/props_c17/metalladder002.vvd,34432,34432
+models/props_c17/metalladder002.dx90.vtx,10324,10324
+models/props_c17/metalladder002.phy,4720,4720
+materials/models/props_c17/metalladder002.vmt,102,102
+materials/models/props_c17/metalladder002.vtf,174968,174968
+materials/models/props_c17/metalladder003.vmt,102,102
+materials/models/props_c17/metalladder003.vtf,174968,174968
+models/effects/urban_puddle_model03a.mdl,1760,1760
+models/effects/urban_puddle_model03a.vvd,3136,3136
+models/effects/urban_puddle_model03a.dx90.vtx,805,805
+models/effects/urban_puddle_model03a.vtx,789,789
+models/effects/urban_puddle_model03a.phy,624,624
+materials/models/effects/urban_puddle01a.vmt,320,320
+materials/models/effects/urban_puddle01a.vtf,349784,349784
+materials/models/effects/urban_puddle01a_normal.vtf,349784,349784
+models/effects/urban_puddle_model02a.mdl,1760,1760
+models/effects/urban_puddle_model02a.vvd,3136,3136
+models/effects/urban_puddle_model02a.dx90.vtx,805,805
+models/effects/urban_puddle_model02a.vtx,789,789
+models/effects/urban_puddle_model02a.phy,624,624
+models/effects/urban_puddle_model01a.mdl,1760,1760
+models/effects/urban_puddle_model01a.vvd,3136,3136
+models/effects/urban_puddle_model01a.dx90.vtx,805,805
+models/effects/urban_puddle_model01a.vtx,789,789
+models/effects/urban_puddle_model01a.phy,816,816
+models/props/cs_office/crate_office_indoor_64.mdl,1736,1736
+models/props/cs_office/crate_office_indoor_64.vvd,185856,185856
+models/props/cs_office/crate_office_indoor_64.dx90.vtx,39276,39276
+models/props/cs_office/crate_office_indoor_64.phy,722,722
+materials/models/props/cs_office/crate_office_indoor_64.vmt,172,172
+materials/models/props/cs_office/crate_office_indoor_64.vtf,174984,174984
+materials/models/props/cs_office/crate_office_indoor_64_ref.vtf,11144,11144
+models/props/de_vertigo/ibeam_stack.mdl,2252,2252
+models/props/de_vertigo/ibeam_stack.vvd,104896,104896
+models/props/de_vertigo/ibeam_stack.dx90.vtx,21405,21405
+models/props/de_vertigo/ibeam_stack.phy,3253,3253
+materials/models/props/de_vertigo/ibeams.vmt,274,274
+materials/metal/ibeam.vtf,349720,349720
+materials/models/props/de_vertigo/fencepost_constructionmetal_01.vmt,569,569
+materials/models/props/de_vertigo/fencepost_constructionmetal_01.vtf,174968,174968
+materials/models/props/de_vertigo/fencepost_constructionmetal_01_ref.vtf,87568,87568
+materials/models/props/de_vertigo/rebar_bundle.vmt,368,368
+materials/models/props/de_vertigo/rebar_bundle.vtf,87640,87640
+materials/models/props/de_vertigo/rebar_bundle_n.vtf,43936,43936
+models/props_industrial/warehouse_shelf004.mdl,1780,1780
+models/props_industrial/warehouse_shelf004.vvd,68160,68160
+models/props_industrial/warehouse_shelf004.dx90.vtx,12925,12925
+models/props_industrial/warehouse_shelf004.vtx,12909,12909
+models/props_industrial/warehouse_shelf004.phy,6148,6148
+models/props_industrial/warehouse_shelf002.mdl,1780,1780
+models/props_industrial/warehouse_shelf002.vvd,82752,82752
+models/props_industrial/warehouse_shelf002.dx90.vtx,15661,15661
+models/props_industrial/warehouse_shelf002.vtx,15645,15645
+models/props_industrial/warehouse_shelf002.phy,6212,6212
+models/props_industrial/warehouse_shelf003.mdl,1780,1780
+models/props_industrial/warehouse_shelf003.vvd,68160,68160
+models/props_industrial/warehouse_shelf003.dx90.vtx,12925,12925
+models/props_industrial/warehouse_shelf003.vtx,12909,12909
+models/props_industrial/warehouse_shelf003.phy,6212,6212
+models/props/de_nuke/truck_nuke.mdl,1768,1768
+models/props/de_nuke/truck_nuke.vvd,1131712,1131712
+models/props/de_nuke/truck_nuke.dx90.vtx,368572,368572
+models/props/de_nuke/truck_nuke.vtx,115450,115450
+models/props/de_nuke/truck_nuke.phy,19473,19473
+materials/models/props/de_nuke/truck_nuke.vmt,157,157
+materials/models/props/de_nuke/truck_nuke.vtf,699256,699256
+materials/models/props/de_nuke/truck_nuke_ref.vtf,174968,174968
+models/props/de_nuke/truck_nuke_glass.mdl,1768,1768
+models/props/de_nuke/truck_nuke_glass.vvd,7232,7232
+models/props/de_nuke/truck_nuke_glass.dx90.vtx,1933,1933
+models/props/de_nuke/truck_nuke_glass.vtx,1917,1917
+models/props/de_nuke/truck_nuke_glass.phy,4300,4300
+models/props/de_vertigo/ibeam_horizontal_large_02.mdl,1808,1808
+models/props/de_vertigo/ibeam_horizontal_large_02.vvd,15936,15936
+models/props/de_vertigo/ibeam_horizontal_large_02.dx90.vtx,3445,3445
+models/props/de_vertigo/ibeam_horizontal_large_02.phy,705,705
+models/props/de_vertigo/ibeam_horizontal_large.mdl,1804,1804
+models/props/de_vertigo/ibeam_horizontal_large.vvd,6208,6208
+models/props/de_vertigo/ibeam_horizontal_large.dx90.vtx,1381,1381
+models/props/de_vertigo/ibeam_horizontal_large.phy,702,702
+models/props/de_vertigo/ibeam_horizontal_large_03.mdl,1808,1808
+models/props/de_vertigo/ibeam_horizontal_large_03.vvd,27712,27712
+models/props/de_vertigo/ibeam_horizontal_large_03.dx90.vtx,5989,5989
+models/props/de_vertigo/ibeam_horizontal_large_03.phy,705,705
+materials/liquids/boathouse_water_cheap.vmt,1305,1305
+materials/glass/offwndwb_break_snow.vmt,499,499
+materials/glass/offwndwb_break_snow.vtf,349784,349784
+materials/Glass/offwndwb_break_snow.vtf,349784,349784
+materials/glass/offwndwb_ref.vtf,174968,174968
+materials/glass/offwndwb_break_hdr.vmt,338,338
+materials/glass/offwndwb_break_hdr.vtf,349784,349784
+materials/Glass/offwndwb_break_hdr.vtf,349784,349784
+materials/sprites/glow.vmt,119,119
+materials/sprites/glow.vtf,11128,11128
+materials/sprites/light_glow02.vmt,127,127
+materials/sprites/light_glow02.vtf,65767,65767
+materials/sprites/radio.vmt,152,152
+materials/sprites/radio.vtf,1584,1584
+materials/sprites/glow01.vmt,121,121
+materials/sprites/glow01.vtf,2936,2936
+materials/sprites/blueflare1.vmt,143,143
+materials/sprites/blueflare1.vtf,2936,2936
+materials/particle/fire_explosion_1/fire_explosion_1_bright.vmt,477,477
+materials/particle/fire_explosion_1/fire_explosion_1.vtf,5599516,5599516
+materials/decals/decalsigncaution001c.vmt,173,173
+materials/Decals/decalsigncaution001c.vtf,22104,22104
+maps/ze_nostromo_v1_0f_particles.txt,56,56
+particles/burning_fx.pcf,20349,20349

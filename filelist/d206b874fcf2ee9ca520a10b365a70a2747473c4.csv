@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/fy_simulator/cubemapdefault.vtf,28753,28753
+materials/maps/fy_simulator/cubemapdefault.hdr.vtf,76528,76528
+materials/sq_textures/sq_grid_black.vmt,119,119
+materials/sq_textures/sq_grid_black.vtf,65744,65744
+materials/sq_textures/sq_grid_bombspot.vmt,122,122
+materials/sq_textures/sq_grid_bombspot.vtf,65744,65744
+materials/sq_textures/sq_grid_land.vmt,118,118
+materials/sq_textures/sq_grid_land.vtf,65744,65744
+materials/sq_textures/sq_grid_spawn.vmt,119,119
+materials/sq_textures/sq_grid_spawn.vtf,65744,65744
+materials/sq_textures/sq_grid_wall.vmt,118,118
+materials/sq_textures/sq_grid_wall.vtf,65744,65744

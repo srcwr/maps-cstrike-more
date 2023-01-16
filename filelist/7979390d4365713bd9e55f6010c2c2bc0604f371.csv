@@ -1,0 +1,40 @@
+filename,size,compressed
+materials/maps/mg_bankrobbery_beta4/nature/water_canals_city_murky_0_0_0.vmt,167,167
+materials/maps/mg_bankrobbery_beta4/metal/metalwall056a_0_0_0.vmt,133,133
+materials/maps/mg_bankrobbery_beta4/wood/wooddoor045b_0_0_0.vmt,131,131
+materials/maps/mg_bankrobbery_beta4/nature/water_canals_city_murky_depth_32.vmt,117,117
+materials/maps/mg_bankrobbery_beta4/nature/water_canals_city_murky_depth_16.vmt,117,117
+materials/maps/mg_bankrobbery_beta4/nature/water_canals_city_murky_depth_4.vmt,116,116
+materials/maps/mg_bankrobbery_beta4/nature/water_wasteland002a_depth_9.vmt,112,112
+materials/maps/mg_bankrobbery_beta4/nature/sewer_waterdarkfog2_depth_66.vmt,113,113
+materials/maps/mg_bankrobbery_beta4/cubemapdefault.vtf,28753,28753
+materials/maps/mg_bankrobbery_beta4/c0_0_0.vtf,28753,28753
+materials/maps/mg_bankrobbery_beta4/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_bankrobbery_beta4/c0_0_0.hdr.vtf,76528,76528
+sound/intro/A New Beginning.mp3,3713186,3713186
+sound/intro/caught.wav,976940,976940
+sound/intro/In Too Deep.mp3,3315712,3315712
+sound/intro/Stir It Up.mp3,7968015,7968015
+materials/sprites/trails/awesome.vmt,119,119
+materials/sprites/trails/awesome.vtf,22080,22080
+materials/sprites/trails/hellokitty.vmt,122,122
+materials/sprites/trails/hellokitty.vtf,16592,16592
+materials/sprites/trails/uparrow.vmt,119,119
+materials/sprites/trails/uparrow.vtf,22080,22080
+models/shiroko/ot_ammocan.dx80.vtx,429,429
+models/shiroko/ot_ammocan.dx90.vtx,429,429
+models/shiroko/ot_ammocan.mdl,1456,1456
+models/shiroko/ot_ammocan.phy,685,685
+models/shiroko/ot_ammocan.sw.vtx,429,429
+models/shiroko/ot_ammocan.vvd,1600,1600
+models/shiroko/ot_ammocrate01.dx80.vtx,1005,1005
+models/shiroko/ot_ammocrate01.dx90.vtx,1005,1005
+models/shiroko/ot_ammocrate01.mdl,1452,1452
+models/shiroko/ot_ammocrate01.phy,882,882
+models/shiroko/ot_ammocrate01.sw.vtx,1005,1005
+models/shiroko/ot_ammocrate01.vvd,4672,4672
+models/gmod_tower/seusshat.dx80.vtx,4362,4362
+models/gmod_tower/seusshat.dx90.vtx,4362,4362
+models/gmod_tower/seusshat.mdl,1724,1724
+models/gmod_tower/seusshat.sw.vtx,4362,4362
+models/gmod_tower/seusshat.vvd,16256,16256

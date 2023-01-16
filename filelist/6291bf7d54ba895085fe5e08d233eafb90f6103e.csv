@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/surf_fake_map1/glass/combineglass001a_0_0_0.vmt,130,130
+materials/maps/surf_fake_map1/dev/dev_water5_depth_14.vmt,101,101
+materials/maps/surf_fake_map1/dev/dev_water5_depth_9.vmt,100,100
+materials/maps/surf_fake_map1/dev/dev_water5_depth_7.vmt,100,100
+materials/maps/surf_fake_map1/dev/dev_water5_depth_12.vmt,101,101
+materials/maps/surf_fake_map1/dev/dev_water5_depth_13.vmt,101,101
+materials/maps/surf_fake_map1/dev/dev_water5_depth_8.vmt,100,100
+materials/maps/surf_fake_map1/dev/dev_water5_depth_20.vmt,101,101
+materials/maps/surf_fake_map1/liquids/water_dx70_depth_16732.vmt,108,108
+materials/maps/surf_fake_map1/de_train/train_metalceiling_02_depth_177.vmt,118,118
+materials/maps/surf_fake_map1/cubemapdefault.vtf,9832,9832
+materials/maps/surf_fake_map1/c0_0_0.vtf,9832,9832
+materials/maps/surf_fake_map1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_fake_map1/c0_0_0.hdr.vtf,76528,76528

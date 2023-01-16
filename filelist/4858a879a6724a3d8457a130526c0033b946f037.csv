@@ -1,0 +1,19 @@
+filename,size,compressed
+materials/maps/deathrun_lol_v1/tile/tilefloor016a_-1370_658_-2083.vmt,137,137
+materials/maps/deathrun_lol_v1/glass/combineglass001a_-1370_658_-2083.vmt,141,141
+materials/maps/deathrun_lol_v1/glass/glasswindow070c_-1370_658_-2083.vmt,140,140
+materials/maps/deathrun_lol_v1/tile/tilefloor020a_-1370_658_-2083.vmt,137,137
+materials/maps/deathrun_lol_v1/metal/metalwall048a_-1370_658_-2083.vmt,138,138
+materials/maps/deathrun_lol_v1/metal/citadel_tilefloor016a_cheap_-1370_658_-2083.vmt,152,152
+materials/maps/deathrun_lol_v1/tile/tilefloor021a_-1370_658_-2083.vmt,137,137
+materials/maps/deathrun_lol_v1/cubemapdefault.vtf,9824,9824
+materials/maps/deathrun_lol_v1/c-1370_658_-2083.vtf,9824,9824
+materials/maps/deathrun_lol_v1/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/deathrun_lol_v1/c-1370_658_-2083.hdr.vtf,76520,76520
+materials/DEATHRUN/SHOOP-DA-WHOOP COPY.vmt,136,136
+materials/vgui/logos/Shoop-Da-Whoop copy.vtf,87616,87616
+materials/DEATHRUN/RICK5_ANI.vmt,103,103
+materials/VGUI/logos/rick5_ani.vtf,109552,109552
+materials/DEATHRUN/PEDOBEEAR.vmt,126,126
+materials/vgui/logos/pedobeear.vtf,87616,87616
+sound/admin_plugin/rickroll.wav,753806,753806

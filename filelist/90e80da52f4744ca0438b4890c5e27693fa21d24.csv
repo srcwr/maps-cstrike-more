@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/aim_td_measure/dev/dev_water3_exp_depth_80.vmt,105,105
+materials/maps/aim_td_measure/cubemapdefault.vtf,9824,9824
+materials/maps/aim_td_measure/c192_288_72.vtf,9824,9824
+materials/maps/aim_td_measure/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/aim_td_measure/c192_288_72.hdr.vtf,76520,76520
+materials/AIM_TD/RIGHT.vmt,60,60
+materials/aim_TD/right.vtf,1398308,1398308
+materials/AIM_TD/LEFT.vmt,59,59
+materials/aim_TD/left.vtf,1398308,1398308
+maps/soundcache/aim_td_measure.cache,119628,119628
+maps/aim_TD_measure.txt,126,126
+maps/aim_TD_measure.nav,203295,203295

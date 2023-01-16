@@ -1,0 +1,25 @@
+filename,size,compressed
+materials/maps/ba_stays_prison_v3/de_dust/tilefloor02_1638_6_61.vmt,135,135
+materials/maps/ba_stays_prison_v3/de_dust/tilefloor02_3301_1883_65.vmt,138,138
+materials/maps/ba_stays_prison_v3/glass/combineglass001a_1638_6_61.vmt,138,138
+materials/maps/ba_stays_prison_v3/glass/combineglass001a_3301_1883_65.vmt,141,141
+materials/maps/ba_stays_prison_v3/glass/unbreakable_1638_6_61.vmt,133,133
+materials/maps/ba_stays_prison_v3/glass/unbreakable_3301_1883_65.vmt,136,136
+materials/maps/ba_stays_prison_v3/wood/offdesktop_1638_6_61.vmt,131,131
+materials/maps/ba_stays_prison_v3/wood/offdesktop_3301_1883_65.vmt,134,134
+materials/maps/ba_stays_prison_v3/metal/metalpipe009a_1638_6_61.vmt,135,135
+materials/maps/ba_stays_prison_v3/metal/metalpipe009a_3301_1883_65.vmt,138,138
+materials/maps/ba_stays_prison_v3/metal/metalpipeendcap001a_1638_6_61.vmt,141,141
+materials/maps/ba_stays_prison_v3/de_piranesi/marblefloor01_1638_6_61.vmt,141,141
+materials/maps/ba_stays_prison_v3/tile/tilefloor018a_c17_1638_6_61.vmt,177,177
+materials/maps/ba_stays_prison_v3/tile/tilefloor018a_c17_3301_1883_65.vmt,180,180
+materials/maps/ba_stays_prison_v3/models/weapons/v_grenade/blackseal_1638_6_61.vmt,150,150
+materials/maps/ba_stays_prison_v3/models/weapons/v_grenade/blackseal_3301_1883_65.vmt,153,153
+materials/maps/ba_stays_prison_v3/nature/sewer_waterdarkfog_dx70_depth_174.vmt,118,118
+materials/maps/ba_stays_prison_v3/nature/sewer_waterdarkfog_dx70_depth_133.vmt,118,118
+materials/maps/ba_stays_prison_v3/cubemapdefault.vtf,9824,9824
+materials/maps/ba_stays_prison_v3/c1638_6_61.vtf,9824,9824
+materials/maps/ba_stays_prison_v3/c3301_1883_65.vtf,9824,9824
+sound/staysons/laurent wolf - no stress.mp3,4059663,4059663
+sound/staysons/dj antoine - work.mp3,2138310,2138310
+maps/soundcache/ba_stays_prison_v3.cache,16,16

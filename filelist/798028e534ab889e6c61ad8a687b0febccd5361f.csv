@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/gm_build_kingdom/nature/blendsandsand008a_wvt_patch.vmt,373,373
+materials/maps/gm_build_kingdom/concrete/blendconcretegravel001a_wvt_patch.vmt,563,563
+materials/maps/gm_build_kingdom/metal/metalwall048a_0_0_0.vmt,129,129
+materials/maps/gm_build_kingdom/de_nuke/nukfloorb_0_0_0.vmt,127,127
+materials/maps/gm_build_kingdom/de_nuke/nukfloora_0_0_0.vmt,127,127
+materials/maps/gm_build_kingdom/de_nuke/nukdoorsb_0_0_0.vmt,127,127
+materials/maps/gm_build_kingdom/nature/water_riverbed04_depth_237.vmt,111,111
+materials/maps/gm_build_kingdom/cubemapdefault.vtf,9832,9832
+materials/maps/gm_build_kingdom/c0_0_0.vtf,9832,9832
+materials/maps/gm_build_kingdom/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gm_build_kingdom/c0_0_0.hdr.vtf,76528,76528

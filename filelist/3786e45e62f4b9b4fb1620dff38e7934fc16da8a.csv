@@ -1,0 +1,47 @@
+filename,size,compressed
+materials/maps/ze_surf_sky_v1_3/cs_havana/flrc01_0_0_0.vmt,126,126
+materials/maps/ze_surf_sky_v1_3/de_piranesi/marblefloor04_0_0_0.vmt,135,135
+materials/maps/ze_surf_sky_v1_3/additional_textures/tilefloor012a_cubemaps_0_0_0.vmt,152,152
+materials/maps/ze_surf_sky_v1_3/nature/sewer_water001_depth_14.vmt,108,108
+materials/maps/ze_surf_sky_v1_3/cubemapdefault.vtf,4960,4960
+materials/maps/ze_surf_sky_v1_3/c0_0_0.vtf,4960,4960
+materials/maps/ze_surf_sky_v1_3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_surf_sky_v1_3/c0_0_0.hdr.vtf,76528,76528
+materials/CONCRETE/OFFFLRASNOW.vmt,96,96
+materials/concrete/offflrasnow.vtf,174968,174968
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/Tools/toolsskybox.vtf,11128,11128
+materials/ADDITIONAL_TEXTURES/TILEFLOOR012A_CUBEMAPS.vmt,524,524
+materials/Tile/tilefloor012a.vtf,174968,174968
+materials/de_dust/tilefloor02_normal.vtf,1398292,1398292
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/Tools/toolstrigger.vtf,5680,5680
+materials/SPRITES/BLUELASER1.vmt,187,187
+materials/sprites/bluelaser1.vtf,1512,1512
+materials/TOOLS/TOOLSNPCCLIP.vmt,327,327
+materials/Tools/toolsnpcclip.vtf,5680,5680
+materials/TOOLS/TOOLSINVISIBLE.vmt,304,304
+materials/Tools/toolsinvisible.vtf,5680,5680
+materials/CS_ITALY/BLACK.vmt,62,62
+materials/cs_italy/black.vtf,1584,1584
+materials/TITLEZE.vmt,55,55
+materials/titleZE.vtf,1398264,1398264
+materials/skybox/hybridup.vmt,85,85
+materials/skybox/hybridup.vtf,524496,524496
+materials/skybox/hybriddn.vmt,85,85
+materials/skybox/hybriddn.vtf,524496,524496
+materials/skybox/hybridft.vmt,85,85
+materials/skybox/hybridft.vtf,524496,524496
+materials/skybox/hybridbk.vmt,85,85
+materials/skybox/hybridbk.vtf,524496,524496
+materials/skybox/hybridlf.vmt,85,85
+materials/skybox/hybridlf.vtf,524496,524496
+materials/skybox/hybridrt.vmt,85,85
+materials/skybox/hybridrt.vtf,524496,524496
+sound/music_sky_surf/a_hisa - synesthesia (192  kbps).mp3,3933457,3933457
+sound/music_sky_surf/a hisa amnesia.mp3,4449219,4449219
+sound/music_sky_surf/a hisa - star prism (192  kbps).mp3,4776899,4776899
+sound/music_sky_surf/luuuserr_.mp3,36406,36406
+sound/music_sky_surf/a_hisa_-_logical_stimulus.mp3,4540965,4540965
+maps/ze_surf_sky_v1_3_particles.txt,62,62
+particles/uverincustom.pcf,27265,27265

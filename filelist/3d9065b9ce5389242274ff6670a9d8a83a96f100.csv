@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/xc_m4x_b1_fix/nature/blendproddirtgrass_wvt_patch.vmt,90,90
+materials/maps/xc_m4x_b1_fix/nature/blendprodconcgrass_wvt_patch.vmt,92,92
+materials/maps/xc_m4x_b1_fix/liquids/militiawater_128_-608_152.vmt,157,157
+materials/maps/xc_m4x_b1_fix/maps/xc_m4x_b1_fix/liquids/militiawater_128_-608_152_depth_24.vmt,139,139
+materials/maps/xc_m4x_b1_fix/cubemapdefault.vtf,9832,9832
+materials/maps/xc_m4x_b1_fix/c128_-608_152.vtf,9832,9832
+materials/maps/xc_m4x_b1_fix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/xc_m4x_b1_fix/c128_-608_152.hdr.vtf,76528,76528
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/nekoclimb/neko2.vmt,63,63
+materials/nekoclimb/neko2.vtf,262352,262352
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128

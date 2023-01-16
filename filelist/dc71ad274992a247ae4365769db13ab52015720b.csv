@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/aim_una/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/aim_una/shadertest/watercheap_opaque_481_885_153.vmt,158,158
+materials/maps/aim_una/shadertest/watercheap_opaque_479_-1433_156.vmt,160,160
+materials/maps/aim_una/maps/aim_una/shadertest/watercheap_opaque_479_-1433_156_depth_8.vmt,141,141
+materials/maps/aim_una/maps/aim_una/shadertest/watercheap_opaque_481_885_153_depth_8.vmt,139,139
+materials/maps/aim_una/cubemapdefault.vtf,28753,28753
+materials/maps/aim_una/c481_885_153.vtf,28753,28753
+materials/maps/aim_una/c479_-1433_156.vtf,28753,28753
+materials/maps/aim_una/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_una/c481_885_153.hdr.vtf,76528,76528
+materials/maps/aim_una/c479_-1433_156.hdr.vtf,76528,76528

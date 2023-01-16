@@ -1,0 +1,167 @@
+filename,size,compressed
+materials/maps/ze_hellz_rescuebase_v5_b1/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/ze_hellz_rescuebase_v5_b1/de_piranesi/pi_ground_blend_wvt_patch.vmt,120,120
+materials/maps/ze_hellz_rescuebase_v5_b1/glass/unbreakable_13320_1064_2056.vmt,146,146
+materials/maps/ze_hellz_rescuebase_v5_b1/glass/combineglass001a_13320_1064_2056.vmt,151,151
+materials/maps/ze_hellz_rescuebase_v5_b1/metal/metalpipe005a_13320_1064_2056.vmt,148,148
+materials/maps/ze_hellz_rescuebase_v5_b1/de_chateau/extdoor01_13320_1064_2056.vmt,149,149
+materials/maps/ze_hellz_rescuebase_v5_b1/watersource/water/water_invis_depth_132.vmt,117,117
+materials/maps/ze_hellz_rescuebase_v5_b1/watersource/water/water_invis_depth_156.vmt,117,117
+materials/maps/ze_hellz_rescuebase_v5_b1/watersource/water/water_invis_depth_660.vmt,117,117
+materials/maps/ze_hellz_rescuebase_v5_b1/watersource/water/water_invis_depth_196.vmt,117,117
+materials/maps/ze_hellz_rescuebase_v5_b1/cubemapdefault.vtf,4960,4960
+materials/maps/ze_hellz_rescuebase_v5_b1/c13320_1064_2056.vtf,4960,4960
+materials/maps/ze_hellz_rescuebase_v5_b1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_hellz_rescuebase_v5_b1/c13320_1064_2056.hdr.vtf,76528,76528
+maps/ze_hellz_rescuebase_v5_b1.txt,228,228
+maps/ze_hellz_rescuebase_v5_b1_level_sounds.txt,6673,6673
+maps/ze_hellz_rescuebase_v5_b1_particles.txt,61,61
+materials/effects/citadel_sky_card_01.vmt,139,139
+materials/effects/citadel_sky_card_01.vtf,1398308,1398308
+materials/fix/decalsigndanger001e_fix.vmt,90,90
+materials/fix/decalsigndanger001e_fix.vtf,5624,5624
+materials/fix/{cxarrow01_fix.vmt,81,81
+materials/fix/{cxarrow01_fix.vtf,11144,11144
+materials/KAEMON/KAEMON_ALASBLANCAS_001.vmt,96,96
+materials/KAEMON/Kaemon_AlasBlancas_001.vtf,1398336,1398336
+materials/metal/metalfence001a_nocull.vmt,245,245
+materials/metal/metalladder001a_nocull.vmt,172,172
+materials/models/dog_gondor/dog_sheet.vmt,538,538
+materials/models/dog_gondor/dog_sheet.vtf,349760,349760
+materials/models/dog_gondor/dog_sheet_phong.vtf,175016,175016
+materials/models/dog_gondor/eyeglass.vmt,140,140
+materials/models/dog_gondor/eyeglass.vtf,5680,5680
+materials/models/dog_gondor/weapon107_000_001.vmt,327,327
+materials/models/dog_gondor/weapon107_000_001.vtf,349760,349760
+materials/models/dog_gondor/weapon107_000_002.vtf,349760,349760
+materials/models/furniture/orc/orc_torch.vmt,362,362
+materials/models/furniture/orc/orc_torch.vtf,87616,87616
+materials/models/furniture/orc/orc_torch_01.vmt,367,367
+materials/models/furniture/orc/orc_torch_01.vtf,43912,43912
+materials/models/furniture/orc/orc_torch_normal.vtf,87616,87616
+materials/models/player/slow/amberlyn/lotr/balrog/slow_body.vmt,116,116
+materials/models/player/slow/amberlyn/lotr/balrog/slow_body.vtf,349760,349760
+materials/models/player/slow/amberlyn/lotr/balrog/slow_body_2.vmt,120,120
+materials/models/player/slow/amberlyn/lotr/balrog/slow_eyes.vmt,317,317
+materials/models/player/slow/amberlyn/lotr/balrog/slow_weapon.vmt,266,266
+materials/models/player/slow/amberlyn/lotr/balrog/slow_weapon.vtf,22008,22008
+materials/models/player/slow/amberlyn/lotr/balrog/slow_weapon_blade.vmt,260,260
+materials/models/player/slow/amberlyn/lotr/balrog/slow_weapon_bump.vtf,22008,22008
+materials/models/player/slow/amberlyn/lotr/balrog/slow_wings.vmt,242,242
+materials/models/props_foliage/tree_deciduous_01a_leaves2.vmt,207,207
+materials/models/torch/Torch_UVW3.vmt,140,140
+materials/models/torch/Torch_UVW3.vtf,349760,349760
+materials/models/torch/Torch_UVW3_Bump.vtf,349760,349760
+materials/models/weapons/MiniGun/bighandle.vmt,186,186
+materials/models/weapons/MiniGun/bighandle.vtf,5624,5624
+materials/models/weapons/MiniGun/bighandle_ref.vtf,5608,5608
+materials/models/weapons/MiniGun/w_minigun.vmt,295,295
+materials/models/weapons/MiniGun/w_minigun.vtf,349760,349760
+materials/models/weapons/MiniGun/w_minigun_glow.vtf,175008,175008
+materials/particle/particle_cloud2.vmt,147,147
+materials/skybox/GalaxyBk.vmt,96,96
+materials/skybox/GalaxyBk.vtf,699272,699272
+materials/skybox/GalaxyDn.vmt,96,96
+materials/skybox/GalaxyDn.vtf,699272,699272
+materials/skybox/GalaxyFt.vmt,96,96
+materials/skybox/GalaxyFt.vtf,699272,699272
+materials/skybox/GalaxyLf.vmt,96,96
+materials/skybox/GalaxyLf.vtf,699272,699272
+materials/skybox/GalaxyRt.vmt,96,96
+materials/skybox/GalaxyRt.vtf,699272,699272
+materials/skybox/GalaxyUp.vmt,96,96
+materials/skybox/GalaxyUp.vtf,699272,699272
+materials/stone/bridge_pillar_fix.vmt,99,99
+materials/stone/bridge_pillar_fix.vtf,5624,5624
+materials/watersource/particles/splashbottom.vmt,130,130
+materials/watersource/particles/splashbottom.vtf,87616,87616
+materials/watersource/particles/water_splash_01.vmt,122,122
+materials/watersource/particles/water_splash_01.vtf,22080,22080
+materials/watersource/particles/water_splash_02.vmt,122,122
+materials/watersource/particles/water_splash_02.vtf,22080,22080
+materials/watersource/water/water_invis.vmt,348,348
+materials/watersource/water/water_invis_beneath.vmt,307,307
+materials/watersource/waterglow/waterglow256x16.vmt,270,270
+materials/watersource/waterglow/waterglow256x16.vtf,1048784,1048784
+materials/watersource/waterglow/waterglow256x16_unlit.vmt,264,264
+materials/watersource/waterglow/waterglow256x16_unlit_less.vmt,264,264
+materials/watersource/waterglow/waterglow256x16_unlit_normal.vmt,264,264
+materials/yoloswag/galaxy.vmt,87,87
+materials/yoloswag/galaxy.vtf,349688,349688
+materials/yoloswag/jessica.vmt,350,350
+materials/yoloswag/jessica.vtf,6991248,6991248
+materials/yoloswag/rescuebase_hpbar_2.vmt,159,159
+materials/yoloswag/rescuebase_hpbar_2.vtf,699232,699232
+materials/yoloswag/sparta.vmt,349,349
+materials/yoloswag/sparta.vtf,678240,678240
+materials/yoloswag/yoloswag_new.vmt,94,94
+materials/yoloswag/yoloswag_new.vtf,349688,349688
+models/dog_jugger.dx80.vtx,100942,100942
+models/dog_jugger.dx90.vtx,99827,99827
+models/dog_jugger.mdl,72148,72148
+models/dog_jugger.sw.vtx,99312,99312
+models/dog_jugger.vvd,413184,413184
+models/player/slow/amberlyn/lotr/balrog/balrog_rafuron_hannibal.dx80.vtx,208451,208451
+models/player/slow/amberlyn/lotr/balrog/balrog_rafuron_hannibal.dx90.vtx,207555,207555
+models/player/slow/amberlyn/lotr/balrog/balrog_rafuron_hannibal.mdl,252388,252388
+models/player/slow/amberlyn/lotr/balrog/balrog_rafuron_hannibal.sw.vtx,207075,207075
+models/player/slow/amberlyn/lotr/balrog/balrog_rafuron_hannibal.vvd,792064,792064
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.dx80.vtx,7379,7379
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.dx90.vtx,7379,7379
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.mdl,1596,1596
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.sw.vtx,7379,7379
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.vvd,18112,18112
+models/props/tools/orc/lightsrc/orc_torch/orc_torch_chunk01.dx80.vtx,717,717
+models/props/tools/orc/lightsrc/orc_torch/orc_torch_chunk01.dx90.vtx,717,717
+models/props/tools/orc/lightsrc/orc_torch/orc_torch_chunk01.mdl,1536,1536
+models/props/tools/orc/lightsrc/orc_torch/orc_torch_chunk01.sw.vtx,709,709
+models/props/tools/orc/lightsrc/orc_torch/orc_torch_chunk01.vvd,3136,3136
+models/weapons/minigun.dx80.vtx,101279,101279
+models/weapons/minigun.dx90.vtx,101279,101279
+models/weapons/minigun.mdl,4124,4124
+models/weapons/minigun.phy,1738,1738
+models/weapons/minigun.sw.vtx,101255,101255
+models/weapons/minigun.vvd,473728,473728
+models/weapons/w_torch.dx80.vtx,5157,5157
+models/weapons/w_torch.dx90.vtx,5157,5157
+models/weapons/w_torch.mdl,1456,1456
+models/weapons/w_torch.phy,3864,3864
+models/weapons/w_torch.sw.vtx,5157,5157
+models/weapons/w_torch.vvd,17472,17472
+models/weapons/w_torch.xbox.vtx,5157,5157
+particles/rescuebase.pcf,150843,150843
+sound/admin_plugin/whores.wav,102190,102190
+sound/helms_deep/explosion.mp3,55816,55816
+sound/minas_tirith/balrog_scream.mp3,44388,44388
+sound/rafuron/dukenukemforever/hail to the king baby.mp3,14768,14768
+sound/rescuebase/Cage The Elephant - Ain't No Rest For The Wicked.mp3,1425634,1425634
+sound/rescuebase/Daft Punk - Harder Better Faster Stronger.mp3,1782370,1782370
+sound/rescuebase/Darude - Sandstorm.mp3,1815799,1815799
+sound/rescuebase/DragonForce - Cry Thunder.mp3,2513559,2513559
+sound/rescuebase/Duke Nukem Forever - Damn it's good to be the king.mp3,22731,22731
+sound/rescuebase/Halo 2 - Mjolnir Mix.mp3,2012457,2012457
+sound/rescuebase/Linkin Park - Breaking The Habit.mp3,1587385,1587385
+sound/rescuebase/Linkin Park - Burn It Down.mp3,1866798,1866798
+sound/rescuebase/Megaman 3 - Intro Cover (Songe).mp3,711768,711768
+sound/rescuebase/Nightwish - Wishmaster.mp3,2119238,2119238
+sound/rescuebase/NOMA - Brain Power.mp3,2944924,2944924
+sound/rescuebase/Pokemon Theme.mp3,1617269,1617269
+sound/rescuebase/Quake - Headshot.mp3,10193,10193
+sound/rescuebase/Quake - Monster Kill.mp3,39241,39241
+sound/rescuebase/Rammstein - Amerika.mp3,2066374,2066374
+sound/rescuebase/Rammstein - Du Hast.mp3,1882263,1882263
+sound/rescuebase/Skillet - Awake And Alive.mp3,1680589,1680589
+sound/rescuebase/Skillet - Monster.mp3,1494397,1494397
+sound/rescuebase/Stereo Sayan 3D.mp3,1604738,1604738
+sound/rescuebase/The Heavy - Short Change Hero.mp3,1906295,1906295
+sound/rescuebase/Touhou Project - Bad Apple Cover - BGO.mp3,1720064,1720064
+sound/rescuebase/Two Steps From Hell - Fast & Famous (Ending).mp3,308119,308119
+sound/rescuebase/Two Steps From Hell - Invincible.mp3,1372716,1372716
+sound/rescuebase/Two Steps From Hell - Loud Enough For Me (Ending).mp3,251700,251700
+sound/rescuebase/Two Steps From Hell - None Shall Live.mp3,1168379,1168379
+sound/rescuebase/Two Steps From Hell - Sons Of War.mp3,959918,959918
+sound/rescuebase/Two Steps From Hell - Stormkeeper.mp3,1452375,1452375
+sound/rescuebase/Yu-Gi-Oh - Its Time To Duel.mp3,38227,38227
+sound/rescuebase/Zmix - Zelda Dubstep Remix.mp3,373399,373399
+sound/westersand/d_c4_explode1.wav,653468,653468
+sound/ze_random_labyrinth/minigun.mp3,134962,134962

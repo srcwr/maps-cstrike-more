@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/ka_underwater_discovery/dev/dev_water2_depth_1081.vmt,103,103
+materials/maps/ka_underwater_discovery/cubemapdefault.vtf,28753,28753
+materials/maps/ka_underwater_discovery/cubemapdefault.hdr.vtf,76528,76528
+materials/models/MasogsModels/Fishes/fish1b.vmt,82,82
+materials/models/MasogsModels/Fishes/fish2.vmt,83,83
+materials/models/MasogsModels/Fishes/fish2b.vmt,84,84
+materials/models/MasogsModels/Fishes/masog_fish.vmt,145,145
+materials/kirby-Masog_fish/masog_Fish.vmt,147,147
+materials/kirby-Masog_fish/masog_Fish.vtf,262368,262368
+models/MasogsModels/MasogsFish2.dx80.vtx,2091,2091
+models/MasogsModels/MasogsFish2.dx90.vtx,2091,2091
+models/MasogsModels/masogsfish2.mdl,1736,1736
+models/MasogsModels/MasogsFish2.sw.vtx,2091,2091
+models/MasogsModels/masogsfish2.vvd,9408,9408
+sound/admin_plugin/0001.Meditation from Underwater.mp3,2816840,2816840

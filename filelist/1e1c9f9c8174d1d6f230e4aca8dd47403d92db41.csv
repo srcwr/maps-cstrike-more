@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/gg_outpost/liquids/water_pretty1_1413_160_-128.vmt,156,156
+materials/maps/gg_outpost/maps/gg_outpost/liquids/water_pretty1_1413_160_-128_depth_16.vmt,138,138
+materials/maps/gg_outpost/cubemapdefault.vtf,9824,9824
+materials/maps/gg_outpost/c1413_160_-128.vtf,4952,4952
+materials/maps/gg_outpost/c1413_160_-128.hdr.vtf,76520,76520
+maps/gg_outpost.nav,1888199,1888199
+maps/soundcache/gg_outpost.cache,16,16
+resource/overviews/gg_outpost.txt,342,342
+materials/overviews/gg_outpost.vmt,137,137
+materials/overviews/gg_outpost.vtf,5592612,5592612
+materials/overviews/gg_outpost_radar.vmt,143,143
+materials/overviews/gg_outpost_radar.vtf,5592612,5592612

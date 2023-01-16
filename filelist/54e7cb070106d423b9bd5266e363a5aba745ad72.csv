@@ -1,0 +1,237 @@
+filename,size,compressed
+materials/maps/trikz_myinstyle2/minecraft/junglewater_depth_32.vmt,108,108
+materials/maps/trikz_myinstyle2/minecraft/junglewater_depth_48.vmt,108,108
+materials/maps/trikz_myinstyle2/minecraft/junglewater_depth_80.vmt,108,108
+materials/maps/trikz_myinstyle2/minecraft/water_depth_16.vmt,102,102
+materials/maps/trikz_myinstyle2/minecraft/water_depth_64.vmt,102,102
+materials/maps/trikz_myinstyle2/minecraft/water_depth_48.vmt,102,102
+materials/maps/trikz_myinstyle2/minecraft/water_depth_23.vmt,102,102
+materials/maps/trikz_myinstyle2/minecraft/water_depth_96.vmt,102,102
+materials/maps/trikz_myinstyle2/cubemapdefault.vtf,4960,4960
+materials/maps/trikz_myinstyle2/cubemapdefault.hdr.vtf,76528,76528
+materials/LVL_OVERLAYS/LVL_UP.vmt,78,78
+materials/lvl_overlays/lvl_up.vtf,5592640,5592640
+materials/LVL_OVERLAYS/LVL_DOWN.vmt,80,80
+materials/lvl_overlays/lvl_down.vtf,5592640,5592640
+sound/misc/victorytimer4.wav,86043,86043
+materials/VTF/19.vmt,54,54
+materials/vtf/19.vtf,87544,87544
+materials/VTF/15.vmt,54,54
+materials/vtf/15.vtf,87544,87544
+materials/VTF/11.vmt,54,54
+materials/vtf/11.vtf,349688,349688
+materials/VTF/13.vmt,54,54
+materials/vtf/13.vtf,174984,174984
+materials/VTF/12.vmt,54,54
+materials/vtf/12.vtf,174984,174984
+materials/VTF/7.vmt,53,53
+materials/vtf/7.vtf,174984,174984
+sound/ruined sleep.mp3,9542023,9542023
+sound/victormusic/endmusic/replay/dropzone - break away (antent  unvion remix).mp3,10831241,10831241
+materials/skybox/sky05up.vmt,88,88
+materials/skybox/sky05up.vtf,699272,699272
+materials/skybox/sky05dn.vmt,88,88
+materials/skybox/sky05dn.vtf,699272,699272
+materials/skybox/sky05ft.vmt,88,88
+materials/skybox/sky05ft.vtf,699272,699272
+materials/skybox/sky05bk.vmt,88,88
+materials/skybox/sky05bk.vtf,699272,699272
+materials/skybox/sky05lf.vmt,88,88
+materials/skybox/sky05lf.vtf,699272,699272
+materials/skybox/sky05rt.vmt,88,88
+materials/skybox/sky05rt.vtf,699272,699272
+sound/myinstyle.mp3,2239323,2239323
+sound/chestclosed.mp3,8905,8905
+sound/chestopen.mp3,8803,8803
+materials/minecraft/bedrock.vmt,65,65
+materials/minecraft/bedrock.vtf,43912,43912
+materials/minecraft/brick.vmt,88,88
+materials/minecraft/brick.vtf,43912,43912
+materials/minecraft/brick_3.vmt,90,90
+materials/minecraft/brick_3.vtf,43912,43912
+materials/minecraft/clay.vmt,88,88
+materials/minecraft/clay.vtf,43912,43912
+materials/minecraft/cloth_black.vmt,93,93
+materials/minecraft/cloth_black.vtf,43912,43912
+materials/minecraft/cloth_purple.vmt,94,94
+materials/minecraft/cloth_purple.vtf,43912,43912
+materials/minecraft/cloth_red.vmt,91,91
+materials/minecraft/cloth_red.vtf,43912,43912
+materials/minecraft/cloth_silver.vmt,94,94
+materials/minecraft/cloth_silver.vtf,43912,43912
+materials/minecraft/cloth_white.vmt,93,93
+materials/minecraft/cloth_white.vtf,43912,43912
+materials/minecraft/cloth_yellow.vmt,94,94
+materials/minecraft/cloth_yellow.vtf,43912,43912
+materials/minecraft/cobblestone.vmt,93,93
+materials/minecraft/cobblestone.vtf,43912,43912
+materials/minecraft/dirt_1.vmt,89,89
+materials/minecraft/dirt_1.vtf,43912,43912
+materials/minecraft/grass up.vmt,91,91
+materials/minecraft/grass up.vtf,43912,43912
+materials/minecraft/grass.vmt,63,63
+materials/minecraft/grass.vtf,43912,43912
+materials/minecraft/gravel.vmt,90,90
+materials/minecraft/gravel.vtf,43912,43912
+materials/minecraft/gravel_new.vmt,94,94
+materials/minecraft/gravel_new.vtf,43912,43912
+materials/minecraft/hellrock.vmt,90,90
+materials/minecraft/hellrock.vtf,43912,43912
+materials/minecraft/ice.vmt,123,123
+materials/minecraft/ice.vtf,87616,87616
+materials/minecraft/jukebox_top.vmt,97,97
+materials/minecraft/jukebox_top.vtf,43912,43912
+materials/minecraft/junglewater.vmt,581,581
+materials/minecraft/junglewater.vtf,87616,87616
+materials/minecraft/log_oak.vmt,65,65
+materials/minecraft/log_oak.vtf,43912,43912
+materials/minecraft/log_oak_top.vmt,99,99
+materials/minecraft/log_oak_top.vtf,43912,43912
+materials/minecraft/log_spruce.vmt,68,68
+materials/minecraft/log_spruce.vtf,43912,43912
+materials/minecraft/log_spruce_top.vmt,102,102
+materials/minecraft/log_spruce_top.vtf,87616,87616
+materials/minecraft/musicBlock.vmt,96,96
+materials/minecraft/musicBlock.vtf,43912,43912
+materials/minecraft/netherhack brick.vmt,99,99
+materials/minecraft/netherhack brick.vtf,43912,43912
+materials/minecraft/obsidian.vmt,90,90
+materials/minecraft/obsidian.vtf,43912,43912
+materials/minecraft/oreDiamond.vmt,92,92
+materials/minecraft/oreDiamond.vtf,43912,43912
+materials/minecraft/oreGold.vmt,89,89
+materials/minecraft/oreGold.vtf,43912,43912
+materials/minecraft/oreLapis.vmt,90,90
+materials/minecraft/oreLapis.vtf,43912,43912
+materials/minecraft/oreRedstone.vmt,93,93
+materials/minecraft/oreRedstone.vtf,43912,43912
+materials/minecraft/planks_acacia.vmt,101,101
+materials/minecraft/planks_acacia.vtf,87616,87616
+materials/minecraft/planks_big_oak.vmt,102,102
+materials/minecraft/planks_big_oak.vtf,43912,43912
+materials/minecraft/planks_birch.vmt,100,100
+materials/minecraft/planks_birch.vtf,43912,43912
+materials/minecraft/planks_jungle.vmt,101,101
+materials/minecraft/planks_jungle.vtf,43912,43912
+materials/minecraft/planks_oak.vmt,98,98
+materials/minecraft/planks_oak.vtf,43912,43912
+materials/minecraft/red_sand.vmt,92,92
+materials/minecraft/red_sand.vtf,87616,87616
+materials/minecraft/redstone_lamp_on.vmt,99,99
+materials/minecraft/redstone_lamp_on.vtf,43912,43912
+materials/minecraft/sand.vmt,88,88
+materials/minecraft/sand.vtf,43912,43912
+materials/minecraft/sandstone_bottom.vmt,98,98
+materials/minecraft/sandstone_bottom.vtf,43912,43912
+materials/minecraft/sandstone_carved.vmt,98,98
+materials/minecraft/sandstone_carved.vtf,43912,43912
+materials/minecraft/sandstone_smooth.vmt,98,98
+materials/minecraft/sandstone_smooth.vtf,43912,43912
+materials/minecraft/sandstone_top.vmt,95,95
+materials/minecraft/sandstone_top.vtf,43912,43912
+materials/minecraft/snowgrass.vmt,92,92
+materials/minecraft/snowgrass.vtf,43912,43912
+materials/minecraft/stone.vmt,87,87
+materials/minecraft/stone.vtf,43912,43912
+materials/minecraft/stonebrick.vmt,93,93
+materials/minecraft/stonebrick.vtf,43912,43912
+materials/minecraft/torch.vmt,93,93
+materials/minecraft/torch.vtf,43912,43912
+materials/minecraft/torch_up.vmt,96,96
+materials/minecraft/torch_up.vtf,43912,43912
+materials/minecraft/workbenchL.vmt,68,68
+materials/minecraft/workbenchL.vtf,43912,43912
+materials/minecraft/workbenchU.vmt,98,98
+materials/minecraft/workbenchU.vtf,43912,43912
+materials/minecraft/blockIron.vmt,91,91
+materials/minecraft/blockIron.vtf,43912,43912
+materials/minecraft/chest LF.vmt,96,96
+materials/minecraft/chest LF.vtf,43912,43912
+materials/minecraft/chest1F.vmt,95,95
+materials/minecraft/chest1F.vtf,43912,43912
+materials/minecraft/chest1U.vmt,95,95
+materials/minecraft/chest1U.vtf,43912,43912
+materials/minecraft/glass.vmt,107,107
+materials/minecraft/glass.vtf,87616,87616
+materials/minecraft/hardened_clay_brown.vmt,101,101
+materials/minecraft/hardened_clay_brown.vtf,87616,87616
+materials/minecraft/hardened_clay_cyan.vmt,100,100
+materials/minecraft/hardened_clay_cyan.vtf,87616,87616
+materials/minecraft/hardened_clay_light_blue.vmt,106,106
+materials/minecraft/hardened_clay_light_blue.vtf,87616,87616
+materials/minecraft/hardened_clay_white.vmt,101,101
+materials/minecraft/hardened_clay_white.vtf,87616,87616
+materials/minecraft/torch_redstone_base.vmt,107,107
+materials/minecraft/torch_redstone_base.vtf,43912,43912
+materials/minecraft/torch_redstone_powered.vmt,80,80
+materials/minecraft/torch_redstone_powered.vtf,43912,43912
+materials/minecraft/water.vmt,536,536
+materials/minecraft/water.vtf,87616,87616
+materials/minecraft/mobs/creeper back.vmt,75,75
+materials/minecraft/mobs/creeper back.vtf,11144,11144
+materials/minecraft/mobs/creeper body left.vmt,80,80
+materials/minecraft/mobs/creeper body left.vtf,11064,11064
+materials/minecraft/mobs/creeper fathe.vmt,76,76
+materials/minecraft/mobs/creeper fathe.vtf,11144,11144
+materials/minecraft/cake_bottom.vmt,115,115
+materials/minecraft/cake_bottom.vtf,87616,87616
+materials/minecraft/cake_top.vmt,112,112
+materials/minecraft/cake_top.vtf,87616,87616
+materials/minecraft/cloth_blue.vmt,92,92
+materials/minecraft/cloth_blue.vtf,43912,43912
+materials/minecraft/cloth_cyan.vmt,92,92
+materials/minecraft/cloth_cyan.vtf,43912,43912
+materials/minecraft/daylightDetector_side.vmt,104,104
+materials/minecraft/daylightDetector_side.vtf,43912,43912
+materials/minecraft/daylightDetector_top.vmt,103,103
+materials/minecraft/daylightDetector_top.vtf,43912,43912
+materials/minecraft/doublePlant_sunflower.vmt,98,98
+materials/minecraft/doublePlant_sunflower.vtf,174944,174944
+materials/minecraft/doublePlant_sunflower_back.vmt,103,103
+materials/minecraft/doublePlant_sunflower_back.vtf,87616,87616
+materials/minecraft/doublePlant_sunflower_front.vmt,104,104
+materials/minecraft/doublePlant_sunflower_front.vtf,87616,87616
+materials/minecraft/flower_dandelion.vmt,108,108
+materials/minecraft/flower_dandelion.vtf,87616,87616
+materials/minecraft/flower_rose.vmt,103,103
+materials/minecraft/flower_rose.vtf,87616,87616
+materials/minecraft/ladder.vmt,113,113
+materials/minecraft/ladder.vtf,87616,87616
+materials/minecraft/mushroom_brown.vmt,106,106
+materials/minecraft/mushroom_brown.vtf,87616,87616
+materials/minecraft/mushroom_red.vmt,104,104
+materials/minecraft/mushroom_red.vtf,87616,87616
+materials/minecraft/rail.vmt,96,96
+materials/minecraft/rail.vtf,87616,87616
+materials/minecraft/redstoneDust_line.vmt,109,109
+materials/minecraft/redstoneDust_line.vtf,87616,87616
+materials/minecraft/stone slabs.vmt,93,93
+materials/minecraft/stone slabs.vtf,43912,43912
+materials/minecraft/stone slabsLR.vmt,95,95
+materials/minecraft/stone slabsLR.vtf,43912,43912
+materials/minecraft/stone_andesite_smooth.vmt,103,103
+materials/minecraft/stone_andesite_smooth.vtf,87616,87616
+materials/minecraft/tallgrass.vmt,101,101
+materials/minecraft/tallgrass.vtf,87616,87616
+materials/minecraft/glowstone.vmt,116,116
+materials/minecraft/glowstone.vtf,43912,43912
+materials/minecraft/piston LR.vmt,91,91
+materials/minecraft/piston LR.vtf,43912,43912
+materials/minecraft/piston up on.vmt,94,94
+materials/minecraft/piston up on.vtf,43912,43912
+materials/minecraft/piston up.vmt,97,97
+materials/minecraft/piston up.vtf,43912,43912
+materials/minecraft/portal.vmt,98,98
+materials/minecraft/portal.vtf,87616,87616
+materials/minecraft/pumpkin_face.vmt,95,95
+materials/minecraft/pumpkin_face.vtf,43912,43912
+materials/minecraft/pumpkin_jack.vmt,95,95
+materials/minecraft/pumpkin_jack.vtf,43912,43912
+materials/minecraft/rail_right.vmt,102,102
+materials/minecraft/rail_right.vtf,87616,87616
+materials/minecraft/waterlily.vmt,111,111
+materials/minecraft/waterlily.vtf,87616,87616
+materials/minecraft/items/brown color.vmt,102,102
+materials/minecraft/items/brown color.vtf,87616,87616
+materials/minecraft/items/pickaxe.vmt,95,95
+materials/minecraft/items/pickaxe.vtf,87616,87616

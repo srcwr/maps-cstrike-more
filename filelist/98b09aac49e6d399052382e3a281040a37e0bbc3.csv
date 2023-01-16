@@ -1,0 +1,116 @@
+filename,size,compressed
+materials/maps/zm_flower_flag_c1/nature/water_coast04_depth_16.vmt,107,107
+materials/maps/zm_flower_flag_c1/nature/water_coast03_depth_64.vmt,107,107
+materials/maps/zm_flower_flag_c1/cubemapdefault.vtf,4960,4960
+materials/maps/zm_flower_flag_c1/cubemapdefault.hdr.vtf,76528,76528
+maps/zm_flower_flag_c1_particles.txt,100,100
+particles/sakura_partic.pcf,8796,8796
+materials/env_sakura1.vmt,86,86
+materials/env_sakura1.vtf,45428,45428
+materials/env_leaf1.vmt,145,145
+materials/env_leaf1.vtf,87616,87616
+particles/aesshide2.pcf,10481,10481
+models/hoffa/netheousradio.mdl,1764,1764
+models/hoffa/netheousradio.dx80.vtx,8266,8266
+models/hoffa/netheousradio.dx90.vtx,8266,8266
+models/hoffa/netheousradio.phy,969,969
+models/hoffa/netheousradio.sw.vtx,8258,8258
+models/hoffa/netheousradio.vvd,42880,42880
+materials/models/hoffa1337/radio/radio_d.vmt,88,88
+materials/models/hoffa1337/radio/radio_d.vtf,174984,174984
+models/oldbill/classic_guitar.mdl,1748,1748
+models/oldbill/classic_guitar.dx80.vtx,169617,169617
+models/oldbill/classic_guitar.dx90.vtx,169617,169617
+models/oldbill/classic_guitar.phy,9239,9239
+models/oldbill/classic_guitar.sw.vtx,169609,169609
+models/oldbill/classic_guitar.vvd,651840,651840
+materials/models/oldbill/guitar.vmt,67,67
+materials/models/oldbill/guitar.vtf,1398264,1398264
+models/props_japan/andon_post_lantern01.mdl,1860,1860
+models/props_japan/andon_post_lantern01.dx80.vtx,13328,13328
+models/props_japan/andon_post_lantern01.dx90.vtx,13328,13328
+models/props_japan/andon_post_lantern01.phy,3650,3650
+models/props_japan/andon_post_lantern01.sw.vtx,13328,13328
+models/props_japan/andon_post_lantern01.vvd,38848,38848
+materials/models/props_japan/andon_post_lantern01.vmt,104,104
+materials/models/props_japan/andon_post_lantern01.vtf,1048784,1048784
+models/props_japan/sakura_tree01b.mdl,2512,2512
+models/props_japan/sakura_tree01b.dx80.vtx,15894,15894
+models/props_japan/sakura_tree01b.dx90.vtx,15894,15894
+models/props_japan/sakura_tree01b.phy,7268,7268
+models/props_japan/sakura_tree01b.sw.vtx,15894,15894
+models/props_japan/sakura_tree01b.vvd,61440,61440
+materials/models/props_japan/sakura_trunk01.vmt,79,79
+materials/models/props_japan/sakura_trunk01.vtf,699272,699272
+materials/models/props_japan/sakura_branch01.vmt,115,115
+materials/models/props_japan/sakura_branch01.vtf,1398336,1398336
+materials/models/props_japan/sakura_branch02.vmt,622,622
+materials/models/props_japan/sakura_branch02.vtf,1398336,1398336
+models/props_japan/sakura_tree_tall02.mdl,2516,2516
+models/props_japan/sakura_tree_tall02.dx80.vtx,16200,16200
+models/props_japan/sakura_tree_tall02.dx90.vtx,16200,16200
+models/props_japan/sakura_tree_tall02.phy,6625,6625
+models/props_japan/sakura_tree_tall02.sw.vtx,16200,16200
+models/props_japan/sakura_tree_tall02.vvd,63616,63616
+materials/texture/white1.vmt,86,86
+materials/texture/white1.vtf,524496,524496
+materials/texture/white.vmt,85,85
+materials/texture/white.vtf,262352,262352
+materials/piano/b.vmt,74,74
+materials/piano/b.vtf,262352,262352
+materials/piano/a.vmt,74,74
+materials/piano/a.vtf,262352,262352
+materials/texture/rand.vmt,103,103
+materials/texture/rand.vtf,262352,262352
+materials/piano/g.vmt,74,74
+materials/piano/g.vtf,262352,262352
+materials/piano/c.vmt,74,74
+materials/piano/c.vtf,262352,262352
+materials/piano/d.vmt,74,74
+materials/piano/d.vtf,262352,262352
+materials/piano/e.vmt,74,74
+materials/piano/e.vtf,262352,262352
+materials/piano/f.vmt,74,74
+materials/piano/f.vtf,262352,262352
+materials/texture/updatelistflowerflag.vmt,95,95
+materials/texture/updatelistflowerflag.vtf,262352,262352
+materials/texture/red.vmt,59,59
+materials/texture/red.vtf,32976,32976
+materials/texture/zmflowerflag.vmt,87,87
+materials/texture/zmflowerflag.vtf,1048784,1048784
+materials/texture/contest_banner.vmt,68,68
+materials/texture/contest_banner.vtf,174944,174944
+materials/texture/pianotext.vmt,84,84
+materials/texture/pianotext.vtf,1048784,1048784
+materials/skybox/galaxybk.vmt,89,89
+materials/skybox/galaxybk.vtf,699272,699272
+materials/skybox/galaxydn.vmt,89,89
+materials/skybox/galaxydn.vtf,699272,699272
+materials/skybox/galaxyft.vmt,89,89
+materials/skybox/galaxyft.vtf,699272,699272
+materials/skybox/galaxylf.vmt,89,89
+materials/skybox/galaxylf.vtf,699272,699272
+materials/skybox/galaxyrt.vmt,89,89
+materials/skybox/galaxyrt.vtf,699272,699272
+materials/skybox/galaxyup.vmt,89,89
+materials/skybox/galaxyup.vtf,699272,699272
+sound/theme 11_karut 03_connected sky (-1db).mp3,1950005,1950005
+sound/theme 12_karut 04_shooting stars (-1db).mp3,1868921,1868921
+sound/theme 15_mitsukiyo 09_honey jam (-1db).mp3,2207886,2207886
+sound/theme 22_nor 02_daily routine 247 (-1db).mp3,1855170,1855170
+sound/theme 53_nor_13_future lab_-1db.mp3,1921166,1921166
+sound/theme_63_mitsukiyo_23_blooming moon_(-1db).mp3,2065404,2065404
+sound/[blue archive] theme_57_nor_17 - han-nari.mp3,1637372,1637372
+sound/f5h.wav,347928,347928
+sound/e5h.wav,344044,344044
+sound/d5h.wav,339624,339624
+sound/c5h.wav,361616,361616
+sound/b5h.wav,324596,324596
+sound/c6h.wav,331672,331672
+sound/g5h.wav,329252,329252
+sound/a5h.wav,334968,334968
+sound/theme 109 the clumsy sister and the magician.mp3,2390573,2390573
+sound/ninja dropout's heart.mp3,1951821,1951821
+sound/theme 113 rabbit of caerbannog.mp3,2034472,2034472
+sound/theme 43_nor 07_kirisame (-1db).mp3,1815840,1815840
+sound/theme 01_mitsukiyo 01_constant moderato (-1db).mp3,2195347,2195347

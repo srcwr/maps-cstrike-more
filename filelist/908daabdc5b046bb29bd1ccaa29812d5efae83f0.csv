@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/aim_sm_city/buildings/gen01_0_0_0.vmt,120,120
+materials/maps/aim_sm_city/cubemapdefault.vtf,4960,4960
+materials/maps/aim_sm_city/c0_0_0.vtf,4960,4960
+materials/maps/aim_sm_city/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_sm_city/c0_0_0.hdr.vtf,76528,76528
+materials/sdk/bysmocer4fgcl_256x256.vmt,99,99
+materials/sdk/nyawka.vmt,84,84
+materials/vgui/logos/bysmocer4fgcl_256x256.vtf,87640,87640
+materials/vgui/logos/nyawka.vtf,87640,87640
+maps/aim_sm_city.nav,26750,26750
+maps/aim_sm_city.txt,130,130

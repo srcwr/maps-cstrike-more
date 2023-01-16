@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/fy_comeouttathecloset/cubemapdefault.vtf,4952,4952
+materials/skybox/mpa37up.vmt,84,84
+materials/skybox/mpa37up.vtf,699272,699272
+materials/skybox/mpa37dn.vmt,84,84
+materials/skybox/mpa37dn.vtf,699272,699272
+materials/skybox/mpa37ft.vmt,84,84
+materials/skybox/mpa37ft.vtf,699272,699272
+materials/skybox/mpa37bk.vmt,84,84
+materials/skybox/mpa37bk.vtf,699272,699272
+materials/skybox/mpa37lf.vmt,84,84
+materials/skybox/mpa37lf.vtf,699272,699272
+materials/skybox/mpa37rt.vmt,84,84
+materials/skybox/mpa37rt.vtf,699272,699272
+maps/fy_comeouttathecloset.nav,117,117
+maps/soundcache/fy_comeouttathecloset.cache,16,16

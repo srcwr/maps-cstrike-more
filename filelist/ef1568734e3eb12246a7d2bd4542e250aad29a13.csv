@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/he_spaceshippers_yxl/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/he_spaceshippers_yxl/cubemapdefault.vtf,4952,4952
+materials/skybox/down-under512_bk.vmt,143,143
+materials/skybox/down-under512_bk.vtf,131280,131280
+materials/skybox/down-under512_dn.vmt,143,143
+materials/skybox/down-under512_dn.vtf,131280,131280
+materials/skybox/down-under512_ft.vmt,143,143
+materials/skybox/down-under512_ft.vtf,131280,131280
+materials/skybox/down-under512_lf.vmt,143,143
+materials/skybox/down-under512_lf.vtf,131280,131280
+materials/skybox/down-under512_rt.vmt,143,143
+materials/skybox/down-under512_rt.vtf,131280,131280
+materials/skybox/down-under512_up.vmt,143,143
+materials/skybox/down-under512_up.vtf,131280,131280
+materials/TOOLS/LOCKED.vmt,61,61
+materials/tools/locked.vtf,5696,5696

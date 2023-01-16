@@ -1,0 +1,61 @@
+filename,size,compressed
+materials/maps/race_supermega_mariokart_lv/metal/citadel_tilewall005a_0_0_0.vmt,147,147
+materials/maps/race_supermega_mariokart_lv/cubemapdefault.vtf,9824,9824
+materials/maps/race_supermega_mariokart_lv/c0_0_0.vtf,9824,9824
+materials/zx2_car/1.vmt,121,121
+materials/zx2_car/1.vtf,87616,87616
+materials/zx2_car/2.vmt,121,121
+materials/zx2_car/2.vtf,87616,87616
+materials/zx2_car/3.vmt,121,121
+materials/zx2_car/3.vtf,87616,87616
+materials/zx2_car/go.vmt,122,122
+materials/zx2_car/go.vtf,87616,87616
+materials/mariokart/CHAO2.vmt,87,87
+materials/mariokart/chao2.vtf,11144,11144
+materials/mariokart/CRATE2.vmt,64,64
+materials/mariokart/crate2.vtf,43912,43912
+materials/mariokart/decal_gonba.vmt,116,116
+materials/mariokart/decal_gonba.vtf,87616,87616
+materials/mariokart/decal_mu1.vmt,114,114
+materials/mariokart/decal_mu1.vtf,22080,22080
+materials/mariokart/gh.vmt,85,85
+materials/mariokart/gh.vtf,22008,22008
+materials/mariokart/greenstreifen.vmt,98,98
+materials/mariokart/greenstreifen.vtf,87600,87600
+materials/mariokart/lado da pista.vmt,71,71
+materials/mariokart/lado da pista.vtf,5696,5696
+materials/mariokart/MARIO PAREDE.vmt,95,95
+materials/mariokart/mario parede.vtf,43912,43912
+materials/mariokart/mario pista do race.vmt,77,77
+materials/mariokart/mario pista do race.vtf,349760,349760
+materials/mariokart/MARIO_FENCE.vmt,116,116
+materials/mariokart/mario_fence.vtf,174944,174944
+materials/mariokart/MARIO_FLOWER.vmt,117,117
+materials/mariokart/mario_flower.vtf,87616,87616
+materials/mariokart/MARIO_GRASS.vmt,96,96
+materials/mariokart/mario_grass.vtf,174984,174984
+materials/mariokart/Mario_pista.vmt,69,69
+materials/mariokart/Mario_pista.vtf,11144,11144
+materials/mariokart/mario_tree.vmt,95,95
+materials/mariokart/mario_tree.vtf,43912,43912
+materials/mariokart/pista inicio.vmt,70,70
+materials/mariokart/pista inicio.vtf,349760,349760
+materials/mariokart/til4.vmt,86,86
+materials/mariokart/til4.vtf,11144,11144
+materials/mariokart/{arbre3.vmt,84,84
+materials/mariokart/{arbre3.vtf,5696,5696
+materials/skybox/sky_pipeplazabk.vmt,140,140
+materials/skybox/sky_pipeplazaBK.vtf,1398336,1398336
+materials/skybox/sky_pipeplazadn.vmt,140,140
+materials/skybox/sky_pipeplazaDN.vtf,1398208,1398208
+materials/skybox/sky_pipeplazaft.vmt,140,140
+materials/skybox/sky_pipeplazalf.vmt,140,140
+materials/skybox/sky_pipeplazaLF.vtf,1398208,1398208
+materials/skybox/sky_pipeplazart.vmt,140,140
+materials/skybox/sky_pipeplazaRT.vtf,1398208,1398208
+materials/skybox/sky_pipeplazaup.vmt,140,140
+materials/skybox/sky_pipeplazaUP.vtf,1398208,1398208
+sound/admin_plugin/actions/Mario Kart 64 on Club Circuit - Interlude[Final lap].wav,119268,119268
+sound/admin_plugin/actions/Mario Kart Wii Music - SNES Mario Circuit 3 Final Lap.wav,1467108,1467108
+sound/admin_plugin/actions/Super Mario Kart Music - Mario Circuit.wav,1753956,1753956
+sound/admin_plugin/actions/Super Mario Kart Music - You WIn.wav,100260,100260

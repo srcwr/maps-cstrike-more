@@ -1,0 +1,34 @@
+filename,size,compressed
+materials/maps/ba_party_b2/glass/glasswindow070c_-32_-423_184.vmt,133,133
+materials/maps/ba_party_b2/tile/tilewall009d_-32_-423_184.vmt,129,129
+materials/maps/ba_party_b2/tile/tilefloor009b_-32_-423_184.vmt,130,130
+materials/maps/ba_party_b2/de_piranesi/marblefloor13_-32_-423_184.vmt,137,137
+materials/maps/ba_party_b2/tile/milflr002_-32_-423_184.vmt,126,126
+materials/maps/ba_party_b2/de_piranesi/marblefloor04_-32_-423_184.vmt,137,137
+materials/maps/ba_party_b2/de_piranesi/marblefloor08_-32_-423_184.vmt,137,137
+materials/maps/ba_party_b2/tile/tilefloor020a_-32_-423_184.vmt,130,130
+materials/maps/ba_party_b2/tile/tilewall007e_-32_-423_184.vmt,129,129
+materials/maps/ba_party_b2/tile/tilewall009b_-32_-423_184.vmt,129,129
+materials/maps/ba_party_b2/vehicle/rubbertrainfloor001a_-32_-423_184.vmt,140,140
+materials/maps/ba_party_b2/tile/tilewall006a_-32_-423_184.vmt,129,129
+materials/maps/ba_party_b2/metal/citadel_tilefloor016a_-32_-423_184.vmt,139,139
+materials/maps/ba_party_b2/skybox/stonefloor008a_-32_-423_184.vmt,133,133
+materials/maps/ba_party_b2/de_piranesi/marblefloor10_-32_-423_184.vmt,137,137
+materials/maps/ba_party_b2/liquids/water_dx70_depth_12.vmt,105,105
+materials/maps/ba_party_b2/liquids/water_dx70_depth_104.vmt,106,106
+materials/maps/ba_party_b2/liquids/water_dx70_depth_1.vmt,104,104
+materials/maps/ba_party_b2/liquids/water_dx70_depth_2.vmt,104,104
+materials/maps/ba_party_b2/liquids/water_dx70_depth_3.vmt,104,104
+materials/maps/ba_party_b2/liquids/water_dx70_depth_4.vmt,104,104
+materials/maps/ba_party_b2/liquids/water_dx70_depth_5.vmt,104,104
+materials/maps/ba_party_b2/liquids/water_dx70_depth_6.vmt,104,104
+materials/maps/ba_party_b2/liquids/water_dx70_depth_7.vmt,104,104
+materials/maps/ba_party_b2/liquids/water_dx70_depth_8.vmt,104,104
+materials/maps/ba_party_b2/liquids/water_dx70_depth_9.vmt,104,104
+materials/maps/ba_party_b2/liquids/water_dx70_depth_10.vmt,105,105
+materials/maps/ba_party_b2/liquids/water_dx70_depth_11.vmt,105,105
+materials/maps/ba_party_b2/cubemapdefault.vtf,9824,9824
+materials/maps/ba_party_b2/c-32_-423_184.vtf,9824,9824
+sound/his sounds/Informer.mp3,6318046,6318046
+sound/his sounds/Low.mp3,3735627,3735627
+sound/his sounds/taliban.mp3,96226,96226

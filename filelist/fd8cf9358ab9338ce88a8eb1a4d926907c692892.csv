@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/measure_v2a_green_blue_test/cubemapdefault.vtf,9824,9824
+materials/maps/measure_v2a_green_blue_test/cubemapdefault.hdr.vtf,76520,76520
+materials/CUSTOM/DEV_MEASUREGENERIC03B.vmt,126,126
+materials/custom/dev_measuregeneric03b.vtf,11144,11144
+materials/CUSTOM/DEV_MEASUREGENERIC03.vmt,125,125
+materials/custom/dev_measuregeneric03.vtf,11144,11144
+materials/CUSTOM/DEV_MEASURERAILS03A.vmt,143,143
+materials/custom/dev_measurerails03a.vtf,87552,87552
+materials/CUSTOM/DEV_MEASURECRATE04.vmt,123,123
+materials/custom/dev_measurecrate04.vtf,11144,11144
+maps/soundcache/measure_v2a_green_blue_test.cache,16,16

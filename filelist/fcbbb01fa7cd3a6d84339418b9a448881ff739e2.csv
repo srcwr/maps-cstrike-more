@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/fy_pool_n_pyramid_v1/dev/dev_water2_-256_0_128.vmt,156,156
+materials/maps/fy_pool_n_pyramid_v1/maps/fy_pool_n_pyramid_v1/dev/dev_water2_-256_0_128_depth_64.vmt,138,138
+materials/maps/fy_pool_n_pyramid_v1/cubemapdefault.vtf,9824,9824
+materials/maps/fy_pool_n_pyramid_v1/c-256_0_128.vtf,9824,9824
+materials/maps/fy_pool_n_pyramid_v1/c704_0_128.vtf,9824,9824
+materials/maps/fy_pool_n_pyramid_v1/c-1216_0_128.vtf,9824,9824
+materials/maps/fy_pool_n_pyramid_v1/c-256_-896_128.vtf,9824,9824
+materials/maps/fy_pool_n_pyramid_v1/c-256_896_128.vtf,9824,9824
+materials/maps/fy_pool_n_pyramid_v1/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/fy_pool_n_pyramid_v1/c-256_0_128.hdr.vtf,76520,76520
+materials/maps/fy_pool_n_pyramid_v1/c704_0_128.hdr.vtf,76520,76520
+materials/maps/fy_pool_n_pyramid_v1/c-1216_0_128.hdr.vtf,76520,76520
+materials/maps/fy_pool_n_pyramid_v1/c-256_-896_128.hdr.vtf,76520,76520
+materials/maps/fy_pool_n_pyramid_v1/c-256_896_128.hdr.vtf,76520,76520

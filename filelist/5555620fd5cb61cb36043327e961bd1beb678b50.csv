@@ -1,0 +1,49 @@
+filename,size,compressed
+materials/maps/zm_cliffside_horror_v1/liquids/water_pretty1_64_-1016_-264.vmt,168,168
+materials/maps/zm_cliffside_horror_v1/liquids/water_pretty1_416_-240_-848.vmt,168,168
+materials/maps/zm_cliffside_horror_v1/cs_assault/pavement001_-408_-224_-744.vmt,147,147
+materials/maps/zm_cliffside_horror_v1/cs_assault/pavement001_416_-240_-848.vmt,146,146
+materials/maps/zm_cliffside_horror_v1/cs_assault/pavement001_64_-1016_-264.vmt,146,146
+materials/maps/zm_cliffside_horror_v1/environment maps/pipemetal001a_416_-240_-848.vmt,154,154
+materials/maps/zm_cliffside_horror_v1/nature/mudfloor002a_416_-240_-848.vmt,143,143
+materials/maps/zm_cliffside_horror_v1/nature/mudfloor002a_-408_-224_-744.vmt,144,144
+materials/maps/zm_cliffside_horror_v1/de_piranesi/marblefloor08_-408_-224_-744.vmt,150,150
+materials/maps/zm_cliffside_horror_v1/de_piranesi/marblefloor08_416_-240_-848.vmt,149,149
+materials/maps/zm_cliffside_horror_v1/de_piranesi/marblefloor08_64_-1016_-264.vmt,149,149
+materials/maps/zm_cliffside_horror_v1/de_piranesi/marblefloor14_416_-240_-848.vmt,149,149
+materials/maps/zm_cliffside_horror_v1/de_piranesi/marblefloor14_64_-1016_-264.vmt,149,149
+materials/maps/zm_cliffside_horror_v1/de_piranesi/marblefloor14_-408_-224_-744.vmt,150,150
+materials/maps/zm_cliffside_horror_v1/metal/prodventa_-408_-224_-744.vmt,140,140
+materials/maps/zm_cliffside_horror_v1/metal/prodventa_64_-1016_-264.vmt,139,139
+materials/maps/zm_cliffside_horror_v1/tile/tilefloor009a_64_-1016_-264.vmt,142,142
+materials/maps/zm_cliffside_horror_v1/tile/tilefloor009a_-408_-224_-744.vmt,143,143
+materials/maps/zm_cliffside_horror_v1/de_chateau/interiortile03_64_-1016_-264.vmt,149,149
+materials/maps/zm_cliffside_horror_v1/de_chateau/interiortile03_-408_-224_-744.vmt,150,150
+materials/maps/zm_cliffside_horror_v1/glass/glasswindowbreak070a_-408_-224_-744.vmt,151,151
+materials/maps/zm_cliffside_horror_v1/glass/glasswindowbreak070a_416_-240_-848.vmt,150,150
+materials/maps/zm_cliffside_horror_v1/glass/glasswindowbreak070a_64_-1016_-264.vmt,150,150
+materials/maps/zm_cliffside_horror_v1/environment maps/pipemetal004a_64_-1016_-264.vmt,154,154
+materials/maps/zm_cliffside_horror_v1/environment maps/pipemetal004a_-408_-224_-744.vmt,155,155
+materials/maps/zm_cliffside_horror_v1/metal/citadel_tilewall005a_64_-1016_-264.vmt,150,150
+materials/maps/zm_cliffside_horror_v1/glass/unbreakable_64_-1016_-264.vmt,141,141
+materials/maps/zm_cliffside_horror_v1/cs_havana/door03_-408_-224_-744.vmt,141,141
+materials/maps/zm_cliffside_horror_v1/cs_havana/door03_64_-1016_-264.vmt,140,140
+materials/maps/zm_cliffside_horror_v1/glass/unbreakable_416_-240_-848.vmt,141,141
+materials/maps/zm_cliffside_horror_v1/environment maps/pipemetal004a_416_-240_-848.vmt,154,154
+materials/maps/zm_cliffside_horror_v1/models/weapons/v_grenade/blackseal_416_-240_-848.vmt,158,158
+materials/maps/zm_cliffside_horror_v1/models/weapons/v_grenade/blackseal_64_-1016_-264.vmt,158,158
+materials/maps/zm_cliffside_horror_v1/models/weapons/v_grenade/blackseal_-408_-224_-744.vmt,159,159
+materials/maps/zm_cliffside_horror_v1/de_piranesi/marblefloor06_-408_-224_-744.vmt,150,150
+materials/maps/zm_cliffside_horror_v1/de_piranesi/marblefloor06_416_-240_-848.vmt,149,149
+materials/maps/zm_cliffside_horror_v1/de_piranesi/marblefloor06_64_-1016_-264.vmt,149,149
+materials/maps/zm_cliffside_horror_v1/glass/unbreakable_-408_-224_-744.vmt,142,142
+materials/maps/zm_cliffside_horror_v1/metal/citadel_tilewall005a_416_-240_-848.vmt,150,150
+materials/maps/zm_cliffside_horror_v1/metal/citadel_tilewall005a_-408_-224_-744.vmt,151,151
+materials/maps/zm_cliffside_horror_v1/metal/prodventa_416_-240_-848.vmt,139,139
+materials/maps/zm_cliffside_horror_v1/maps/zm_cliffside_horror_v1/liquids/water_pretty1_64_-1016_-264_depth_256.vmt,151,151
+materials/maps/zm_cliffside_horror_v1/dev/dev_waterbeneath2_depth_120.vmt,109,109
+materials/maps/zm_cliffside_horror_v1/maps/zm_cliffside_horror_v1/liquids/water_pretty1_416_-240_-848_depth_16.vmt,150,150
+materials/maps/zm_cliffside_horror_v1/cubemapdefault.vtf,9824,9824
+materials/maps/zm_cliffside_horror_v1/c64_-1016_-264.vtf,9824,9824
+materials/maps/zm_cliffside_horror_v1/c416_-240_-848.vtf,9824,9824
+materials/maps/zm_cliffside_horror_v1/c-408_-224_-744.vtf,9824,9824

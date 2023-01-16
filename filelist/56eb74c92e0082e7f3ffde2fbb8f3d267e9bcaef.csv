@@ -1,0 +1,28 @@
+filename,size,compressed
+materials/maps/aim_shootingrange/metal/citadel_tilefloor016a_-685_97_82.vmt,143,143
+materials/maps/aim_shootingrange/glass/glasswindow017a_-685_97_82.vmt,137,137
+materials/maps/aim_shootingrange/models/weapons/v_models/sopmod.m4a1/cable_-685_97_82.vmt,157,157
+materials/maps/aim_shootingrange/cubemapdefault.vtf,9824,9824
+materials/maps/aim_shootingrange/c-685_97_82.vtf,9824,9824
+materials/maps/aim_shootingrange/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/aim_shootingrange/c-685_97_82.hdr.vtf,76520,76520
+materials/TESCO/STARVINGHOBO.vmt,66,66
+materials/Tesco/StarvingHobo.vtf,43896,43896
+materials/MY TEXTURES/HOBO.vmt,64,64
+materials/MY TEXTURES/THATCHED0015_1_S.vmt,76,76
+materials/MY TEXTURES/TARGET1.vmt,67,67
+materials/MY TEXTURES/TARGET2.vmt,67,67
+materials/CARTOON/CARTOONWHITE.vmt,68,68
+materials/Cartoon/CartoonWhite.vtf,699256,699256
+materials/MY TEXTURES/SAFETY.vmt,66,66
+materials/MY TEXTURES/NRAPOSTER.vmt,69,69
+materials/MODELS/WEAPONS/V_MODELS/SOPMOD.M4A1/CABLE.vmt,177,177
+materials/models/weapons/v_models/sopmod.M4a1/cable.vtf,174984,174984
+materials/models/weapons/v_models/sopmod.M4a1/cable_ref.vtf,174984,174984
+maps/soundcache/aim_shootingrange.cache,16,16
+materials/My Textures/Hobo.vtf,43896,43896
+materials/My Textures/Safety.vtf,699256,699256
+materials/My Textures/target1.vtf,699256,699256
+materials/My Textures/target2.vtf,699256,699256
+materials/My Textures/Thatched0015_1_S.vtf,699256,699256
+materials/My Textures/NRAPoster.vtf,699256,699256

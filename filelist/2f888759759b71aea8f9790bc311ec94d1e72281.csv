@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/gg_01/cubemapdefault.vtf,4960,4960
+materials/maps/gg_01/cubemapdefault.hdr.vtf,76528,76528
+maps/gg_01.nav,112127,112127
+materials/decals/enginseer01.vmt,570,570
+materials/decals/enginseer01.vtf,2796348,2796348
+materials/simple/base_blue04.vmt,87,87
+materials/simple/base_blue04.vtf,174984,174984
+materials/simple/base_brown04.vmt,91,91
+materials/simple/base_brown04.vtf,174984,174984
+materials/simple/base_gray04.vmt,87,87
+materials/simple/base_gray04.vtf,174984,174984
+materials/simple/brick_blue01.vmt,113,113
+materials/simple/brick_blue01.vtf,174984,174984
+materials/simple/brick_blue03.vtf,174984,174984
+materials/simple/brick_blue03_hd.vmt,243,243
+materials/simple/brick_blue03_height-ssbump.vtf,1398308,1398308

@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/ba_jail_mara_v3/metal/citadel_metalwall072c_0_0_0.vmt,136,136
+materials/maps/ba_jail_mara_v3/glass/glasswindow070c_0_0_0.vmt,130,130
+materials/maps/ba_jail_mara_v3/de_nuke/nukwater_movingplane_beneath_depth_113.vmt,124,124
+materials/maps/ba_jail_mara_v3/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_mara_v3/c0_0_0.vtf,9824,9824
+models/forlix/soccer/soccerball.mdl,1540,1540
+models/forlix/soccer/soccerball.dx80.vtx,2655,2655
+models/forlix/soccer/soccerball.dx90.vtx,2655,2655
+models/forlix/soccer/soccerball.sw.vtx,2655,2655
+models/forlix/soccer/soccerball.phy,5205,5205
+models/forlix/soccer/soccerball.vvd,9408,9408
+materials/models/forlix/soccer/soccerball.vmt,100,100
+materials/models/forlix/soccer/soccerball.vtf,174984,174984
+maps/soundcache/ba_jail_mara_v3.cache,16,16

@@ -1,0 +1,648 @@
+filename,size,compressed
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-3284_-630_-24.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_-369_-48_40.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_240_-48_40.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_240_-654_40.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_240_-1334_40.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-1830_-368_105.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2150_-368_105.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2554_260_-24.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2150_-48_105.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2076_601_-24.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-2554_663_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-2554_-199_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-2554_260_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2554_663_-24.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-3176_243_-829.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-3176_243_-829.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-3612_663_-24.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-3612_663_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-3612_260_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-3612_-199_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-3284_-630_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/metal/citadel_metalwall078a_-3612_260_-24.vmt,150,150
+materials/maps/ze_escape_stroggos_b4/metal/citadel_metalwall078a_-2554_260_-24.vmt,150,150
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-3676_-630_-24.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-3612_260_-24.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-4020_-645_-85.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_-2150_-368_105.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-2888_-630_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2554_-199_-24.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2491_-623_-24.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-4504_-777_-197.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-4504_-777_-197.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-4504_-373_-197.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-4802_-633_-149.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-2554_-199_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_-2888_-630_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_-2491_-623_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_-3676_-630_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_-3284_-630_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-5054_296_-184.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-5054_296_-184.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-4426_511_-24.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-4070_601_-24.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-5003_870_-440.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-5016_-350_-197.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-5038_-28_-280.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-5054_296_-373.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-4652_296_-184.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-4652_574_-373.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-4652_678_-184.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-4426_511_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2968_2358_-829.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-4652_828_-373.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-4652_574_-373.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-4652_574_-373.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-4652_296_-184.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-4070_601_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-1574_-703_-24.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2491_-1152_-24.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_240_-1729_40.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-3284_-1112_-24.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-3284_-1112_-24.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-2888_-1112_-24.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_-3284_-1957_-24.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-3177_-1534_-24.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2078_-703_-24.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2541_-1534_-24.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/metal/citadel_metalwall078a_-2076_601_-24.vmt,150,150
+materials/maps/ze_escape_stroggos_b4/metal/citadel_metalwall078a_-4070_601_-24.vmt,150,150
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_663_-1537_57.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_663_-1537_57.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_240_-1729_40.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_1504_896_-42.vmt,150,150
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4b_d_1452_1708_11.vmt,150,150
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2491_-2319_-25.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-4060_-1368_-152.vmt,145,145
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-4435_-1367_-197.vmt,145,145
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-4435_-1089_-197.vmt,145,145
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_wall_outside_04_d_1452_1480_11.vmt,157,157
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_wall_outside_04_d_1452_2252_11.vmt,157,157
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_1457_2430_0.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_1456_2430_-608.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_1456_2792_-600.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_1452_2252_11.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_-2888_-1112_-24.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4b_d_1456_2430_-608.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4b_d_1456_3112_-609.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4b_d_1456_2792_-600.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_336_2800_-848.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_995_2801_-600.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_-680_2800_-848.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_-1184_2800_-848.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_-1848_2801_-600.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-2968_2358_-829.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2576_2246_-818.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2384_1942_-797.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2149_2792_-600.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2491_-1915_-25.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-369_-48_40.vmt,140,140
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_663_-1537_57.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_240_-1729_40.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_240_-1334_40.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/quake4 textures/stroy_floor_03_rusty2sided_d_-2888_-1957_-24.vmt,169,169
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor059a_240_-1334_40.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_-1440_-368_105.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor059a_-1574_-703_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_-1574_-703_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_240_-1729_40.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/glass/offlightcover_-1574_-703_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-1067_-152_40.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-1440_-368_105.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-369_-48_40.vmt,149,149
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-1487_-136_-72.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-1830_-368_105.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/metal/citadel_metalwall078a_-4426_511_-24.vmt,150,150
+materials/maps/ze_escape_stroggos_b4/metal/citadel_metalwall078a_-4652_678_-184.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/metal/citadel_metalwall078a_-4652_296_-184.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2149_2312_-600.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/props/metalduct001a_-2541_-1534_-24.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/citadel_metalwall078a_-3612_663_-24.vmt,150,150
+materials/maps/ze_escape_stroggos_b4/metal/citadel_metalwall078a_-2554_663_-24.vmt,150,150
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-1067_-152_40.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2888_-1112_-24.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2076_601_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-1487_-136_-72.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-369_-48_40.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-1440_-368_105.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2150_-48_105.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_240_-1334_40.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_240_-973_40.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_663_-1537_57.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2554_663_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-2888_-1112_-24.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2276_1579_-797.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2554_260_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-3176_243_-829.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-3612_663_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-4652_678_-184.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-3612_260_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-3676_-630_-24.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-3612_-199_-24.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-3284_-630_-24.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-4504_-373_-197.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2150_-368_105.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-2888_-1112_-24.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-2554_663_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-3612_663_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-2576_2246_-818.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/environment maps/pipemetal004a_-3284_-630_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/environment maps/pipemetal004a_-3284_-1112_-24.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/environment maps/pipemetal004b_-3284_-630_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-2888_-630_-24.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-2554_-199_-24.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-2554_260_-24.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-2150_-48_105.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2491_-623_-24.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2554_-199_-24.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2888_-630_-24.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/stroy_floor_03_rusty2sided_d_-2888_-1112_-24.vmt,169,169
+materials/maps/ze_escape_stroggos_b4/quake4 textures/stroy_floor_03_rusty2sided_d_-2888_-630_-24.vmt,168,168
+materials/maps/ze_escape_stroggos_b4/glass/combineglass001a_-3284_-1112_-24.vmt,147,147
+materials/maps/ze_escape_stroggos_b4/glass/combineglass001a_-2888_-1112_-24.vmt,147,147
+materials/maps/ze_escape_stroggos_b4/glass/combineglass001a_-2491_-1152_-24.vmt,147,147
+materials/maps/ze_escape_stroggos_b4/glass/combineglass001a_-2865_-1534_-24.vmt,147,147
+materials/maps/ze_escape_stroggos_b4/glass/combineglass001a_-3177_-1534_-24.vmt,147,147
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-2888_-1112_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-5016_-350_-197.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-5038_-28_-280.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-5054_296_-184.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4802_-633_-149.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4435_-1367_-197.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4652_678_-184.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4426_511_-24.vmt,140,140
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4070_601_-24.vmt,140,140
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4652_828_-373.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-3612_663_-24.vmt,140,140
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4652_296_-373.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-5054_296_-373.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4652_296_-184.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4504_-373_-197.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-3612_260_-24.vmt,140,140
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4020_-645_-85.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-5003_870_-440.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-5003_501_-440.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-5003_702_-440.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4652_574_-373.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/quake4 textures/c_floor_4a_d_-4652_296_-373.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2046_-2474_-32.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-3612_-199_-24.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2491_-2319_-25.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-3284_-1957_-24.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2888_-1957_-24.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-4060_-1368_-152.vmt,157,157
+materials/maps/ze_escape_stroggos_b4/glass/combineglass001a_-3284_-1957_-24.vmt,147,147
+materials/maps/ze_escape_stroggos_b4/glass/combineglass001a_-2888_-1957_-24.vmt,147,147
+materials/maps/ze_escape_stroggos_b4/glass/combineglass001a_-2491_-1915_-25.vmt,147,147
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_663_-1537_57.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_1229_890_-35.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4435_-1089_-197.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/metal/offelevdrsa_-4504_-777_-197.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_1452_1281_11.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor059a_1504_896_-42.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor059a_1452_1281_11.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_240_-48_40.vmt,139,139
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_995_2801_-600.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_1504_896_-42.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_1452_2252_11.vmt,141,141
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_1457_2430_0.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_1456_2430_-608.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/quake4 textures/mpbase_edge_1456_2430_-608.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/mpbase_edge_1457_2430_0.vmt,148,148
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_1456_2430_-608.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_1456_2792_-600.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_832_2800_-800.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_1457_2430_0.vmt,140,140
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_1456_3112_-609.vmt,143,143
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_-2149_2792_-600.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_-1848_2801_-600.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_-2149_2312_-600.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_-1695_2800_-800.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor046a_-2076_601_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-2384_1942_-797.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metalwall091a_-2149_2792_-600.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor059a_-2968_2358_-829.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor059a_-2576_2246_-818.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor059a_-2384_1942_-797.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_-3612_663_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_-2576_2246_-818.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_-2968_2358_-829.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_-2968_2358_-829.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_outerwalltrim_2_s_-2968_2358_-829.vmt,161,161
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_outerwalltrim_2_s_-2149_2312_-600.vmt,161,161
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_-3612_260_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_-2554_260_-24.vmt,154,154
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc2_floorrun1_s_-3176_243_-829.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_bigtube_00_s_-3176_243_-829.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_outerwalltrim_2_s_-3176_243_-829.vmt,160,160
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_outerwalltrim_2_s_-3612_260_-24.vmt,159,159
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_outerwalltrim_2_s_-2888_-1957_-24.vmt,161,161
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_outerwalltrim_2_s_-2149_2792_-600.vmt,161,161
+materials/maps/ze_escape_stroggos_b4/quake4 textures/sc_outerwalltrim_2_s_-3284_-1957_-24.vmt,161,161
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2384_1942_-797.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_-2968_2358_-829.vmt,156,156
+materials/maps/ze_escape_stroggos_b4/quake4 textures/mpbase_edge_-2046_-2474_-32.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/mpbase_edge_1456_3112_-609.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/quake4 textures/t1_metal1dark_d_1456_3112_-609.vmt,155,155
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-3284_-630_-24.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-2888_-1112_-24.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-3176_243_-829.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/blast_door1_d_1504_896_-42.vmt,151,151
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-2276_1579_-797.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/metal/metalwall072b_-4070_601_-24.vmt,142,142
+materials/maps/ze_escape_stroggos_b4/quake4 textures/stroy_floor_03_rusty2sided_d_-1574_-703_-24.vmt,168,168
+materials/maps/ze_escape_stroggos_b4/quake4 textures/stroy_floor_03_rusty2sided_d_240_-1334_40.vmt,166,166
+materials/maps/ze_escape_stroggos_b4/quake4 textures/stroy_floor_03_rusty2sided_d_240_-1729_40.vmt,166,166
+materials/maps/ze_escape_stroggos_b4/quake4 textures/stroy_floor_03_rusty2sided_d_-1440_-368_105.vmt,168,168
+materials/maps/ze_escape_stroggos_b4/quake4 textures/stroy_floor_03_rusty2sided_d_-2541_-1534_-24.vmt,169,169
+materials/maps/ze_escape_stroggos_b4/metal/metaldoor059a_-2491_-1152_-24.vmt,144,144
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-1574_-703_-24.vmt,152,152
+materials/maps/ze_escape_stroggos_b4/quake4 textures/floor2_new_d_-2384_1942_-797.vmt,153,153
+materials/maps/ze_escape_stroggos_b4/cubemapdefault.vtf,9832,9832
+materials/maps/ze_escape_stroggos_b4/c-3284_-630_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-369_-48_40.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c240_-48_40.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c240_-654_40.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c240_-1334_40.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-1830_-368_105.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2150_-368_105.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2554_260_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2150_-48_105.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2076_601_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2554_663_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2554_-199_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-3176_243_-829.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-3612_663_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-3612_260_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-3612_-199_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-3676_-630_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4020_-645_-85.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2888_-630_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2491_-623_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4504_-777_-197.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4504_-373_-197.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4802_-633_-149.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-5054_296_-184.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4426_511_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4070_601_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-5003_870_-440.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-5016_-350_-197.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-5038_-28_-280.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-5054_296_-373.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4652_296_-184.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4652_574_-373.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4652_678_-184.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2968_2358_-829.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4652_828_-373.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-1574_-703_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2491_-1152_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c240_-1729_40.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-3284_-1112_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2888_-1112_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-3284_-1957_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-3177_-1534_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2078_-703_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2541_-1534_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c663_-1537_57.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1504_896_-42.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1452_1708_11.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2491_-2319_-25.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4060_-1368_-152.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4435_-1367_-197.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4435_-1089_-197.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1452_1480_11.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1452_2252_11.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1457_2430_0.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1456_2430_-608.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1456_2792_-600.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1456_3112_-609.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c336_2800_-848.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c995_2801_-600.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-680_2800_-848.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-1184_2800_-848.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-1848_2801_-600.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2576_2246_-818.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2384_1942_-797.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2149_2792_-600.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2491_-1915_-25.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2888_-1957_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-1440_-368_105.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-1067_-152_40.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-1487_-136_-72.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2149_2312_-600.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c240_-973_40.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2276_1579_-797.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2865_-1534_-24.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-4652_296_-373.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-5003_501_-440.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-5003_702_-440.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2046_-2474_-32.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1229_890_-35.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1452_1281_11.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c832_2800_-800.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-1695_2800_-800.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c1452_1926_11.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-168_2800_-848.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/c-2147_1946_-797.vtf,4968,4968
+materials/maps/ze_escape_stroggos_b4/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_escape_stroggos_b4/c-3284_-630_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-369_-48_40.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c240_-48_40.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c240_-654_40.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c240_-1334_40.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-1830_-368_105.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2150_-368_105.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2554_260_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2150_-48_105.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2076_601_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2554_663_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2554_-199_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-3176_243_-829.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-3612_663_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-3612_260_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-3612_-199_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-3676_-630_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4020_-645_-85.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2888_-630_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2491_-623_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4504_-777_-197.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4504_-373_-197.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4802_-633_-149.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-5054_296_-184.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4426_511_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4070_601_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-5003_870_-440.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-5016_-350_-197.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-5038_-28_-280.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-5054_296_-373.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4652_296_-184.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4652_574_-373.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4652_678_-184.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2968_2358_-829.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4652_828_-373.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-1574_-703_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2491_-1152_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c240_-1729_40.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-3284_-1112_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2888_-1112_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-3284_-1957_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-3177_-1534_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2078_-703_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2541_-1534_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c663_-1537_57.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1504_896_-42.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1452_1708_11.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2491_-2319_-25.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4060_-1368_-152.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4435_-1367_-197.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4435_-1089_-197.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1452_1480_11.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1452_2252_11.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1457_2430_0.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1456_2430_-608.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1456_2792_-600.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1456_3112_-609.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c336_2800_-848.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c995_2801_-600.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-680_2800_-848.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-1184_2800_-848.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-1848_2801_-600.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2576_2246_-818.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2384_1942_-797.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2149_2792_-600.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2491_-1915_-25.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2888_-1957_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-1440_-368_105.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-1067_-152_40.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-1487_-136_-72.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2149_2312_-600.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c240_-973_40.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2276_1579_-797.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2865_-1534_-24.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-4652_296_-373.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-5003_501_-440.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-5003_702_-440.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2046_-2474_-32.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1229_890_-35.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1452_1281_11.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c832_2800_-800.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-1695_2800_-800.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c1452_1926_11.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-168_2800_-848.hdr.vtf,76536,76536
+materials/maps/ze_escape_stroggos_b4/c-2147_1946_-797.hdr.vtf,76536,76536
+sound/MYSOUND/stroggos/Fanfase.mp3,2879616,2879616
+sound/MYSOUND/stroggos/Spawn.mp3,2272894,2272894
+sound/admin_plugin/evillaugh.wav,155262,155262
+materials/CATA/credit_stroggos.vtf,174984,174984
+materials/CATA/CREDIT_STROGGOS.vmt,68,68
+materials/HZ/zm_rmzn_jigsaw.vtf,65680,65680
+materials/HZ/zm_rmzn_jiwsawrulezz.vtf,131280,131280
+materials/HZ/ZM_RMZN_JIGSAW.vmt,65,65
+materials/HZ/ZM_RMZN_JIWSAWRULEZZ.vmt,71,71
+materials/TOOLS/locked.vmt,60,60
+materials/TOOLS/locked.vtf,2952,2952
+materials/TOOLS/TOOLSBLACK.vmt,64,64
+materials/TOOLS/toolsblack.vtf,2936,2936
+materials/QUAKE4 TEXTURES/1_short.vmt,95,95
+materials/QUAKE4 TEXTURES/1_short.vtf,174908,174908
+materials/QUAKE4 TEXTURES/ba_smalltrim1_2_d.vmt,130,130
+materials/QUAKE4 TEXTURES/ba_smalltrim1_2_d.vtf,43836,43836
+materials/QUAKE4 TEXTURES/ba_techtrim1_1_d.vmt,129,129
+materials/QUAKE4 TEXTURES/ba_techtrim1_1_d.vtf,174908,174908
+materials/QUAKE4 TEXTURES/ba_wall1_3_d.vmt,100,100
+materials/QUAKE4 TEXTURES/ba_wall1_3_d.vtf,87500,87500
+materials/QUAKE4 TEXTURES/ba_wall1_3_d_normal.vtf,65653,65653
+materials/QUAKE4 TEXTURES/ba_wall1_4_d.vmt,125,125
+materials/QUAKE4 TEXTURES/ba_wall1_4_d.vtf,43820,43820
+materials/QUAKE4 TEXTURES/ba_wall1_4_d_normal.vtf,32893,32893
+materials/QUAKE4 TEXTURES/ba_wall1_5_d.vmt,125,125
+materials/QUAKE4 TEXTURES/ba_wall1_5_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/blast_door1_d.vmt,272,272
+materials/QUAKE4 TEXTURES/blast_door1_d.vtf,174908,174908
+materials/QUAKE4 TEXTURES/blast_door1_d_normal.vtf,131217,131217
+materials/QUAKE4 TEXTURES/c_4floor_1_d.vmt,125,125
+materials/QUAKE4 TEXTURES/c_4floor_1_d.vtf,87588,87588
+materials/QUAKE4 TEXTURES/c_ceiling_2_d.vmt,178,178
+materials/QUAKE4 TEXTURES/c_ceiling_2_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/c_ceiling_2_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/c_floor_1_d.vmt,124,124
+materials/QUAKE4 TEXTURES/c_floor_1_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/c_floor_4a_d.vmt,268,268
+materials/QUAKE4 TEXTURES/c_floor_4a_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/c_floor_4a_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/c_floor_4b_d.vmt,268,268
+materials/QUAKE4 TEXTURES/c_floor_4b_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/c_p4_beam_2_d.vmt,178,178
+materials/QUAKE4 TEXTURES/c_p4_beam_2_d.vtf,87500,87500
+materials/QUAKE4 TEXTURES/c_p4_beam_2_d_normal.vtf,65653,65653
+materials/QUAKE4 TEXTURES/c_pipe_outside_05_d.vmt,132,132
+materials/QUAKE4 TEXTURES/c_pipe_outside_05_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/c_pipecap01_d.vmt,126,126
+materials/QUAKE4 TEXTURES/c_pipecap01_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/c_ribwall_d.vmt,124,124
+materials/QUAKE4 TEXTURES/c_ribwall_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/c_ribwall_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/c_wall_7_d.vmt,123,123
+materials/QUAKE4 TEXTURES/c_wall_7_d.vtf,174908,174908
+materials/QUAKE4 TEXTURES/c_wall_7_d_normal.vtf,131217,131217
+materials/QUAKE4 TEXTURES/c_wall_9_d.vmt,123,123
+materials/QUAKE4 TEXTURES/c_wall_9_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/c_wall_outside_04_d.vmt,284,284
+materials/QUAKE4 TEXTURES/c_wall_outside_04_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/c_wall_outside_04_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/can_ledge_lower_01brown_d.vmt,138,138
+materials/QUAKE4 TEXTURES/can_ledge_lower_01brown_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/can_ledge_upper_01_d.vmt,133,133
+materials/QUAKE4 TEXTURES/can_ledge_upper_01_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_cieling1a_med_d.vmt,132,132
+materials/QUAKE4 TEXTURES/csa_cieling1a_med_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_cieling1b_d.vmt,128,128
+materials/QUAKE4 TEXTURES/csa_cieling1b_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_cieling2_d.vmt,182,182
+materials/QUAKE4 TEXTURES/csa_cieling2_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_cieling2_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/csa_cieling3_d.vmt,182,182
+materials/QUAKE4 TEXTURES/csa_cieling3_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_cieling3_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/csa_floor1_d.vmt,178,178
+materials/QUAKE4 TEXTURES/csa_floor1_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_floor1_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/csa_flrtrim_04b_d.vmt,130,130
+materials/QUAKE4 TEXTURES/csa_flrtrim_04b_d.vtf,87500,87500
+materials/QUAKE4 TEXTURES/csa_trim3f_d.vmt,178,178
+materials/QUAKE4 TEXTURES/csa_trim3f_d.vtf,43836,43836
+materials/QUAKE4 TEXTURES/csa_trim3f_d_normal.vtf,32913,32913
+materials/QUAKE4 TEXTURES/csa_trim5_d.vmt,176,176
+materials/QUAKE4 TEXTURES/csa_trim5_d.vtf,174908,174908
+materials/QUAKE4 TEXTURES/csa_trim5_d_normal.vtf,131217,131217
+materials/QUAKE4 TEXTURES/csa_trim6_d.vmt,176,176
+materials/QUAKE4 TEXTURES/csa_trim6_d.vtf,174908,174908
+materials/QUAKE4 TEXTURES/csa_trim6_d_normal.vtf,131217,131217
+materials/QUAKE4 TEXTURES/csa_wall15_d.vmt,178,178
+materials/QUAKE4 TEXTURES/csa_wall15_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_wall15_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/csa_wall16_d.vmt,125,125
+materials/QUAKE4 TEXTURES/csa_wall16_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_wall16b_d.vmt,180,180
+materials/QUAKE4 TEXTURES/csa_wall16b_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_wall16b_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/csa_wall17_d.vmt,178,178
+materials/QUAKE4 TEXTURES/csa_wall17_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_wall17_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/csa_wall18_d.vmt,178,178
+materials/QUAKE4 TEXTURES/csa_wall18_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/csa_wall18_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/ctech_wall1_1_d.vmt,128,128
+materials/QUAKE4 TEXTURES/ctech_wall1_1_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/floor1_1_s.vmt,174,174
+materials/QUAKE4 TEXTURES/floor1_1_s.vtf,87588,87588
+materials/QUAKE4 TEXTURES/floor1_1_s_normal.vtf,65743,65743
+materials/QUAKE4 TEXTURES/floor1_2_s.vmt,174,174
+materials/QUAKE4 TEXTURES/floor1_2_s.vtf,43836,43836
+materials/QUAKE4 TEXTURES/floor1_2_s_normal.vtf,32913,32913
+materials/QUAKE4 TEXTURES/floor2_new_d.vmt,217,217
+materials/QUAKE4 TEXTURES/floor2_new_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/floor4_2_d.vmt,174,174
+materials/QUAKE4 TEXTURES/floor4_2_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/floor4_2_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/floor_06a_d.vmt,124,124
+materials/QUAKE4 TEXTURES/floor_06a_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/light_red2_on.vmt,195,195
+materials/QUAKE4 TEXTURES/light_red2_on.vtf,22052,22052
+materials/QUAKE4 TEXTURES/light_yllw_on.vmt,195,195
+materials/QUAKE4 TEXTURES/light_yllw_on.vtf,22052,22052
+materials/QUAKE4 TEXTURES/mpbase_edge.vmt,261,261
+materials/QUAKE4 TEXTURES/mpbase_edge.vtf,349732,349732
+materials/QUAKE4 TEXTURES/mpbase_edge_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/mptexture_k2_d.vmt,127,127
+materials/QUAKE4 TEXTURES/mptexture_k2_d.vtf,174908,174908
+materials/QUAKE4 TEXTURES/prison_4floor_2_d.vmt,188,188
+materials/QUAKE4 TEXTURES/prison_4floor_2_d.vtf,87588,87588
+materials/QUAKE4 TEXTURES/prison_4floor_2_d_normal.vtf,65743,65743
+materials/QUAKE4 TEXTURES/sc2_floorrun1_s.vmt,274,274
+materials/QUAKE4 TEXTURES/sc2_floorrun1_s.vtf,174908,174908
+materials/QUAKE4 TEXTURES/sc2_floorrun1_s_normal.vtf,131217,131217
+materials/QUAKE4 TEXTURES/sc_basepanel2c_s.vmt,129,129
+materials/QUAKE4 TEXTURES/sc_basepanel2c_s.vtf,43836,43836
+materials/QUAKE4 TEXTURES/sc_bigtube_00_s.vmt,274,274
+materials/QUAKE4 TEXTURES/sc_bigtube_00_s.vtf,349732,349732
+materials/QUAKE4 TEXTURES/sc_bigtube_00_s_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/sc_light3_on.vmt,118,118
+materials/QUAKE4 TEXTURES/sc_light3_on.vtf,22052,22052
+materials/QUAKE4 TEXTURES/sc_outerwalltrim_2_s.vmt,286,286
+materials/QUAKE4 TEXTURES/sc_outerwalltrim_2_s.vtf,349644,349644
+materials/QUAKE4 TEXTURES/sc_outerwallverticalstack_1_d.vmt,142,142
+materials/QUAKE4 TEXTURES/sc_outerwallverticalstack_1_d.vtf,699196,699196
+materials/QUAKE4 TEXTURES/sh_vertpanel10_d.vmt,129,129
+materials/QUAKE4 TEXTURES/sh_vertpanel10_d.vtf,174908,174908
+materials/QUAKE4 TEXTURES/skysand1_d.vmt,149,149
+materials/QUAKE4 TEXTURES/skysand1_d.vtf,1398308,1398308
+materials/QUAKE4 TEXTURES/skysand1_d_normal.vtf,1048783,1048783
+materials/QUAKE4 TEXTURES/str_0.vmt,93,93
+materials/QUAKE4 TEXTURES/str_0.vtf,22052,22052
+materials/QUAKE4 TEXTURES/str_1.vmt,93,93
+materials/QUAKE4 TEXTURES/str_1.vtf,22052,22052
+materials/QUAKE4 TEXTURES/str_2.vmt,93,93
+materials/QUAKE4 TEXTURES/str_2.vtf,22052,22052
+materials/QUAKE4 TEXTURES/str_3.vmt,93,93
+materials/QUAKE4 TEXTURES/str_3.vtf,22052,22052
+materials/QUAKE4 TEXTURES/str_4.vmt,93,93
+materials/QUAKE4 TEXTURES/str_4.vtf,22052,22052
+materials/QUAKE4 TEXTURES/str_5.vmt,93,93
+materials/QUAKE4 TEXTURES/str_5.vtf,22052,22052
+materials/QUAKE4 TEXTURES/str_6.vmt,93,93
+materials/QUAKE4 TEXTURES/str_6.vtf,22052,22052
+materials/QUAKE4 TEXTURES/str_7.vmt,93,93
+materials/QUAKE4 TEXTURES/str_7.vtf,22052,22052
+materials/QUAKE4 TEXTURES/str_8.vmt,93,93
+materials/QUAKE4 TEXTURES/str_8.vtf,22052,22052
+materials/QUAKE4 TEXTURES/str_9.vmt,93,93
+materials/QUAKE4 TEXTURES/str_9.vtf,22052,22052
+materials/QUAKE4 TEXTURES/stroy_conveyor_d.vmt,186,186
+materials/QUAKE4 TEXTURES/stroy_conveyor_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/stroy_conveyor_d_normal.vtf,262351,262351
+materials/QUAKE4 TEXTURES/stroy_floor_03_rusty2sided_d.vmt,233,233
+materials/QUAKE4 TEXTURES/stroy_floor_03_rusty2sided_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/t1_metal1dark_d.vmt,220,220
+materials/QUAKE4 TEXTURES/t1_metal1dark_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/t4_floor_1_d.vmt,125,125
+materials/QUAKE4 TEXTURES/t4_floor_1_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/t7_wall_1_d.vmt,124,124
+materials/QUAKE4 TEXTURES/t7_wall_1_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/trim1_2_s.vmt,122,122
+materials/QUAKE4 TEXTURES/trim1_2_s.vtf,21964,21964
+materials/QUAKE4 TEXTURES/tunceiltop_d.vmt,125,125
+materials/QUAKE4 TEXTURES/tunceiltop_d.vtf,349732,349732
+materials/QUAKE4 TEXTURES/vertical_5_char_d.vmt,130,130
+materials/QUAKE4 TEXTURES/vertical_5_char_d.vtf,699196,699196
+materials/QUAKE4 TEXTURES/wall4_d.vmt,120,120
+materials/QUAKE4 TEXTURES/wall4_d.vtf,349732,349732
+materials/skybox/mpa79bk.vmt,84,84
+materials/skybox/mpa79bk.vtf,699272,699272
+materials/skybox/mpa79dn.vmt,84,84
+materials/skybox/mpa79dn.vtf,699272,699272
+materials/skybox/mpa79ft.vmt,84,84
+materials/skybox/mpa79ft.vtf,699272,699272
+materials/skybox/mpa79lf.vmt,84,84
+materials/skybox/mpa79lf.vtf,699272,699272
+materials/skybox/mpa79rt.vmt,84,84
+materials/skybox/mpa79rt.vtf,699272,699272
+materials/skybox/mpa79up.vmt,84,84
+materials/skybox/mpa79up.vtf,699272,699272
+materials/models/de_dust/crates/crate_128x128b.vmt,168,168
+materials/models/de_dust/crates/crate_128x128b.vtf,87544,87544
+materials/models/de_dust/crates/crate_64x64j.vmt,164,164
+materials/models/de_dust/crates/crate_64x64j.vtf,87544,87544
+materials/models/props/de_prodigy/wall_console1.vmt,169,169
+materials/models/props/de_prodigy/wall_console1.vtf,1398308,1398308
+materials/models/props/de_prodigy/wall_console1a.vmt,171,171
+materials/models/props/de_prodigy/wall_console1a.vtf,1398308,1398308
+materials/models/props/de_prodigy/wall_console2.vmt,169,169
+materials/models/props/de_prodigy/wall_console2.vtf,1398308,1398308
+maps/soundcache/ze_escape_stroggos_b4.cache,228304,228304
+materials/overviews/ze_escape_stroggos_b4.vmt,148,148
+materials/overviews/ze_escape_stroggos_b4.vtf,5592612,5592612
+materials/overviews/ze_escape_stroggos_b4_radar.vmt,154,154
+materials/overviews/ze_escape_stroggos_b4_radar.vtf,5592612,5592612
+F:/Program Files/Steam/steamapps/psychosocialquad/counter-strike source/cstrike/resource/overviews/ze_escape_stroggos_b4.txt,359,359

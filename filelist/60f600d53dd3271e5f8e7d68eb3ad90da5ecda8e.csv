@@ -1,0 +1,250 @@
+filename,size,compressed
+materials/maps/aim_wintermaze_2016_v3/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/aim_wintermaze_2016_v3/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/aim_wintermaze_2016_v3/ground/blendsnow_conc_wvt_patch.vmt,91,91
+materials/maps/aim_wintermaze_2016_v3/ground/blendsnow_tracks_wvt_patch.vmt,87,87
+materials/maps/aim_wintermaze_2016_v3/metal/citadel_metalwall076a_0_0_0.vmt,143,143
+materials/maps/aim_wintermaze_2016_v3/dev/dev_water2_cheap_0_0_0.vmt,159,159
+materials/maps/aim_wintermaze_2016_v3/metal/citadel_tilefloor016a_0_0_0.vmt,143,143
+materials/maps/aim_wintermaze_2016_v3/metal/citadel_tilewall005a_0_0_0.vmt,142,142
+materials/maps/aim_wintermaze_2016_v3/dev/dev_water2_cheap_depth_1528.vmt,109,109
+materials/maps/aim_wintermaze_2016_v3/dev/dev_water2_cheap_depth_147.vmt,108,108
+materials/maps/aim_wintermaze_2016_v3/cubemapdefault.vtf,9832,9832
+materials/maps/aim_wintermaze_2016_v3/c0_0_0.vtf,9832,9832
+materials/maps/aim_wintermaze_2016_v3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/aim_wintermaze_2016_v3/c0_0_0.hdr.vtf,76528,76528
+detail.vbsp,1013,1013
+maps/aim_wintermaze_2016_v3.txt,898,898
+resource/overviews/aim_wintermaze_2016_v3.txt,245,245
+models/fusebox/fusebox_redux.mdl,5916,5916
+models/fusebox/fusebox_redux.dx80.vtx,48613,48613
+models/fusebox/fusebox_redux.dx90.vtx,48613,48613
+models/fusebox/fusebox_redux.phy,16655,16655
+models/fusebox/fusebox_redux.sw.vtx,48589,48589
+models/fusebox/fusebox_redux.vvd,224576,224576
+materials/models/fusebox/fusebox_redux_skin_1.vmt,165,165
+materials/models/fusebox/fusebox_redux_skin_1.vtf,5592664,5592664
+materials/models/fusebox/fusebox_redux_skin_1_ref.vtf,87640,87640
+materials/models/fusebox/fusebox_redux_skin_2.vmt,165,165
+materials/models/fusebox/fusebox_redux_skin_2.vtf,5592664,5592664
+materials/models/fusebox/fusebox_redux_skin_2_ref.vtf,87640,87640
+materials/models/fusebox/fusebox_redux_skin_3.vmt,165,165
+materials/models/fusebox/fusebox_redux_skin_3.vtf,5592664,5592664
+materials/models/fusebox/fusebox_redux_skin_3_ref.vtf,87640,87640
+materials/models/fusebox/fusebox_redux_skin_4.vmt,165,165
+materials/models/fusebox/fusebox_redux_skin_4.vtf,5592664,5592664
+materials/models/fusebox/fusebox_redux_skin_4_ref.vtf,87640,87640
+models/player/vad36gordon_hd/gordon.mdl,21404,21404
+models/player/vad36gordon_hd/gordon.dx80.vtx,98727,98727
+models/player/vad36gordon_hd/gordon.dx90.vtx,97162,97162
+models/player/vad36gordon_hd/gordon.phy,17336,17336
+models/player/vad36gordon_hd/gordon.sw.vtx,96722,96722
+models/player/vad36gordon_hd/gordon.vvd,363008,363008
+models/pipe_short_short.mdl,1760,1760
+models/pipe_short_short.dx80.vtx,2205,2205
+models/pipe_short_short.dx90.vtx,2205,2205
+models/pipe_short_short.phy,7305,7305
+models/pipe_short_short.sw.vtx,2205,2205
+models/pipe_short_short.vvd,9280,9280
+materials/models/props/pipe_basic/concretefloor008a.vmt,184,184
+models/pipe_short.mdl,1752,1752
+models/pipe_short.dx80.vtx,2205,2205
+models/pipe_short.dx90.vtx,2205,2205
+models/pipe_short.phy,7780,7780
+models/pipe_short.sw.vtx,2205,2205
+models/pipe_short.vvd,9280,9280
+models/props/x 1.mdl,2128,2128
+models/props/x 1.dx80.vtx,2142,2142
+models/props/x 1.dx90.vtx,2142,2142
+models/props/x 1.phy,3366,3366
+models/props/x 1.sw.vtx,2142,2142
+models/props/x 1.vvd,9728,9728
+materials/models/props/x 1/metalcombine002.vmt,97,97
+materials/models/props/x 1/woodm.vmt,115,115
+materials/models/props/x 1/metalstainless01.vmt,239,239
+models/pipe_medium.mdl,1756,1756
+models/pipe_medium.dx80.vtx,2205,2205
+models/pipe_medium.dx90.vtx,2205,2205
+models/pipe_medium.phy,7654,7654
+models/pipe_medium.sw.vtx,2205,2205
+models/pipe_medium.vvd,9280,9280
+models/pipe_elbow.mdl,1752,1752
+models/pipe_elbow.dx80.vtx,4536,4536
+models/pipe_elbow.dx90.vtx,4536,4536
+models/pipe_elbow.phy,23124,23124
+models/pipe_elbow.sw.vtx,4536,4536
+models/pipe_elbow.vvd,17664,17664
+materials/models/props/pipe_elbow/concretefloor008a.vmt,184,184
+models/pipe_medium_short.mdl,1760,1760
+models/pipe_medium_short.dx80.vtx,2205,2205
+models/pipe_medium_short.dx90.vtx,2205,2205
+models/pipe_medium_short.phy,7579,7579
+models/pipe_medium_short.sw.vtx,2205,2205
+models/pipe_medium_short.vvd,9280,9280
+models/pipe_cross.mdl,1752,1752
+models/pipe_cross.dx80.vtx,7914,7914
+models/pipe_cross.dx90.vtx,7914,7914
+models/pipe_cross.phy,26132,26132
+models/pipe_cross.sw.vtx,7914,7914
+models/pipe_cross.vvd,32128,32128
+materials/models/props/pipe_cross/concretefloor008a.vmt,184,184
+models/props/helipad symbol.mdl,1876,1876
+models/props/helipad symbol.dx80.vtx,2358,2358
+models/props/helipad symbol.dx90.vtx,2358,2358
+models/props/helipad symbol.sw.vtx,2358,2358
+models/props/helipad symbol.vvd,11456,11456
+materials/models/props/generated_prop/white.vmt,61,61
+materials/models/props/generated_prop/woodm.vmt,115,115
+models/props/helipad rail 4.mdl,2156,2156
+models/props/helipad rail 4.dx80.vtx,8823,8823
+models/props/helipad rail 4.dx90.vtx,8823,8823
+models/props/helipad rail 4.phy,43120,43120
+models/props/helipad rail 4.sw.vtx,8823,8823
+models/props/helipad rail 4.vvd,44864,44864
+materials/models/props/helipad rail 4/steel.vmt,131,131
+materials/models/props/helipad rail 4/metalcombine002.vmt,97,97
+materials/models/props/helipad rail 4/train_metalceiling_02.vmt,112,112
+models/props/helipad_rail 3.mdl,2156,2156
+models/props/helipad_rail 3.dx80.vtx,6654,6654
+models/props/helipad_rail 3.dx90.vtx,6654,6654
+models/props/helipad_rail 3.phy,39080,39080
+models/props/helipad_rail 3.sw.vtx,6654,6654
+models/props/helipad_rail 3.vvd,32768,32768
+materials/models/props/helipad_rail 3/metalcombine002.vmt,97,97
+materials/models/props/helipad_rail 3/steel.vmt,131,131
+materials/models/props/helipad_rail 3/train_metalceiling_02.vmt,112,112
+models/props/helipad stairs_stairs-rail2.mdl,2180,2180
+models/props/helipad stairs_stairs-rail2.dx80.vtx,8475,8475
+models/props/helipad stairs_stairs-rail2.dx90.vtx,8475,8475
+models/props/helipad stairs_stairs-rail2.phy,5365,5365
+models/props/helipad stairs_stairs-rail2.sw.vtx,8475,8475
+models/props/helipad stairs_stairs-rail2.vvd,42048,42048
+materials/models/props/helipad stairs_stairs-rail2/steel.vmt,131,131
+materials/models/props/helipad stairs_stairs-rail2/metalcombine002.vmt,97,97
+materials/models/props/helipad stairs_stairs-rail2/train_metalceiling_02.vmt,112,112
+models/props/stair_rail2.mdl,2148,2148
+models/props/stair_rail2.dx80.vtx,9714,9714
+models/props/stair_rail2.dx90.vtx,9714,9714
+models/props/stair_rail2.phy,45373,45373
+models/props/stair_rail2.sw.vtx,9714,9714
+models/props/stair_rail2.vvd,49664,49664
+materials/models/props/stair_rail2/metalcombine002.vmt,97,97
+materials/models/props/stair_rail2/steel.vmt,131,131
+materials/models/props/stair_rail2/train_metalceiling_02.vmt,112,112
+models/props/helipad stairs_stairs.mdl,2756,2756
+models/props/helipad stairs_stairs.dx80.vtx,14169,14169
+models/props/helipad stairs_stairs.dx90.vtx,14169,14169
+models/props/helipad stairs_stairs.phy,30731,30731
+models/props/helipad stairs_stairs.sw.vtx,14169,14169
+models/props/helipad stairs_stairs.vvd,72448,72448
+materials/models/props/helipad stairs_stairs/metalstainless01.vmt,239,239
+materials/models/props/helipad stairs_stairs/dev_hazzardstripe01a.vmt,144,144
+materials/models/props/helipad stairs_stairs/metalcombine002.vmt,97,97
+materials/models/props/helipad stairs_stairs/stripes2.vmt,108,108
+materials/models/props/helipad stairs_stairs/metalceiling005a.vmt,407,407
+materials/models/props/helipad stairs_stairs/steel.vmt,131,131
+models/props/base.mdl,1936,1936
+models/props/base.dx80.vtx,74820,74820
+models/props/base.dx90.vtx,74820,74820
+models/props/base.phy,96338,96338
+models/props/base.sw.vtx,74820,74820
+models/props/base.vvd,395968,395968
+materials/models/props/base/metalstainless01.vmt,239,239
+materials/models/props/base/groundsand03.vmt,121,121
+models/console/control_panel_2.mdl,2444,2444
+models/console/control_panel_2.dx80.vtx,6840,6840
+models/console/control_panel_2.dx90.vtx,6840,6840
+models/console/control_panel_2.phy,11127,11127
+models/console/control_panel_2.sw.vtx,6840,6840
+models/console/control_panel_2.vvd,33600,33600
+materials/models/console/control_panel_1/control_panel_4.vmt,169,169
+materials/models/console/control_panel_1/control_panel_4.vtf,349784,349784
+materials/models/console/control_panel_1/control_panel_2.vmt,169,169
+materials/models/console/control_panel_1/control_panel_2.vtf,349784,349784
+materials/models/console/control_panel_1/metalcombine002.vmt,92,92
+materials/models/console/control_panel_1/control_panel_1.vmt,152,152
+materials/models/console/control_panel_1/control_panel_1.vtf,175008,175008
+models/props/stairs.mdl,2148,2148
+models/props/stairs.dx80.vtx,10263,10263
+models/props/stairs.dx90.vtx,10263,10263
+models/props/stairs.phy,16649,16649
+models/props/stairs.sw.vtx,10263,10263
+models/props/stairs.vvd,53312,53312
+materials/models/props/stairs/metalcombine002.vmt,97,97
+materials/models/props/stairs/metalstainless01.vmt,239,239
+materials/models/props/stairs/train_metalceiling_02.vmt,112,112
+models/console/control_panel_1.mdl,2636,2636
+models/console/control_panel_1.dx80.vtx,7341,7341
+models/console/control_panel_1.dx90.vtx,7341,7341
+models/console/control_panel_1.phy,11799,11799
+models/console/control_panel_1.sw.vtx,7341,7341
+models/console/control_panel_1.vvd,35904,35904
+materials/models/console/control_panel_1/keybord.vmt,144,144
+materials/models/console/control_panel_1/keybord.vtf,175008,175008
+models/zm_2337/kran_base.mdl,2028,2028
+models/zm_2337/kran_base.dx80.vtx,183000,183000
+models/zm_2337/kran_base.dx90.vtx,183000,183000
+models/zm_2337/kran_base.phy,246828,246828
+models/zm_2337/kran_base.sw.vtx,183000,183000
+models/zm_2337/kran_base.vvd,931648,931648
+materials/rge_s/concretewall001a.vmt,112,112
+materials/rge_s/rost_kran.vmt,271,271
+materials/rge_s/rost_kran.vtf,699272,699272
+materials/rge_s/rost_kran_normal.vtf,699272,699272
+materials/rge_s/metalgrate011a.vmt,189,189
+materials/rge_s/metalgrate011a.vtf,349744,349744
+materials/rge_s/zink_cv.vmt,188,188
+materials/rge_s/zink_cv.vtf,699272,699272
+models/props/bridge_roof.mdl,2736,2736
+models/props/bridge_roof.dx80.vtx,6492,6492
+models/props/bridge_roof.dx90.vtx,6492,6492
+models/props/bridge_roof.phy,16025,16025
+models/props/bridge_roof.sw.vtx,6492,6492
+models/props/bridge_roof.vvd,31424,31424
+materials/models/props/generated_prop/steel.vmt,131,131
+materials/models/props/generated_prop/acousticceiling002a.vmt,168,168
+materials/models/props/generated_prop/train_metalceiling_02.vmt,112,112
+materials/models/props/generated_prop/metalcombine002.vmt,97,97
+materials/models/props/generated_prop/metalhull010b.vmt,284,284
+models/props/bridge.mdl,2532,2532
+models/props/bridge.dx80.vtx,83697,83697
+models/props/bridge.dx90.vtx,83697,83697
+models/props/bridge.sw.vtx,83697,83697
+models/props/bridge.vvd,440384,440384
+materials/models/props/bridge/metal02.vmt,120,120
+materials/models/props/bridge/pipemetal001a.vmt,204,204
+materials/models/props/bridge/steel.vmt,131,131
+materials/models/props/bridge/citadel_metalwall078a.vmt,976,976
+materials/models/props/bridge/citadel_tilefloor016a.vmt,905,905
+models/zm_2337/kran.mdl,2220,2220
+models/zm_2337/kran.dx80.vtx,193641,193641
+models/zm_2337/kran.dx90.vtx,193641,193641
+models/zm_2337/kran.phy,232791,232791
+models/zm_2337/kran.sw.vtx,193641,193641
+models/zm_2337/kran.vvd,915008,915008
+materials/rge_s/schwarz.vmt,232,232
+materials/rge_s/schwarz.vtf,11144,11144
+models/console/control_panel_3.mdl,2636,2636
+models/console/control_panel_3.dx80.vtx,7479,7479
+models/console/control_panel_3.dx90.vtx,7479,7479
+models/console/control_panel_3.phy,12255,12255
+models/console/control_panel_3.sw.vtx,7479,7479
+models/console/control_panel_3.vvd,36544,36544
+materials/rip hl/rip hl.vmt,125,125
+materials/rip hl/rip hl.vtf,349760,349760
+materials/map by/map by aim v3.vmt,119,119
+materials/map by/map by aim v3.vtf,1398336,1398336
+materials/skybox/snowyhillsbk.vmt,96,96
+materials/skybox/snowyhillsbk.vtf,1398208,1398208
+materials/skybox/snowyhillsdn.vmt,96,96
+materials/skybox/snowyhillsdn.vtf,1398208,1398208
+materials/skybox/snowyhillsft.vmt,96,96
+materials/skybox/snowyhillsft.vtf,1398208,1398208
+materials/skybox/snowyhillslf.vmt,96,96
+materials/skybox/snowyhillslf.vtf,1398208,1398208
+materials/skybox/snowyhillsrt.vmt,96,96
+materials/skybox/snowyhillsrt.vtf,1398208,1398208
+materials/skybox/snowyhillsup.vmt,96,96
+materials/skybox/snowyhillsup.vtf,1398208,1398208
+materials/overviews/aim_wintermaze_2016_v3.vmt,296,296
+materials/overviews/aim_wintermaze_2016_v3.vtf,1398336,1398336

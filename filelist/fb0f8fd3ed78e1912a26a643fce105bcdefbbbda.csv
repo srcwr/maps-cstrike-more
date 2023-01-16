@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/gg_spacestation_09/cubemapdefault.vtf,4952,4952
+materials/maps/gg_spacestation_09/cubemapdefault.hdr.vtf,76520,76520
+materials/LESS/DARKGRAY.vmt,88,88
+materials/less/Darkgray.vtf,174984,174984
+materials/LESS/GRAY2COLOR.vmt,65,65
+materials/less/gray2color.vtf,174984,174984
+materials/skybox/down-under512_up.vmt,143,143
+materials/skybox/down-under512_up.vtf,131280,131280
+materials/skybox/down-under512_dn.vmt,143,143
+materials/skybox/down-under512_dn.vtf,131280,131280
+materials/skybox/down-under512_ft.vmt,143,143
+materials/skybox/down-under512_ft.vtf,131280,131280
+materials/skybox/down-under512_bk.vmt,143,143
+materials/skybox/down-under512_bk.vtf,131280,131280
+materials/skybox/down-under512_lf.vmt,143,143
+materials/skybox/down-under512_lf.vtf,131280,131280
+materials/skybox/down-under512_rt.vmt,143,143
+materials/skybox/down-under512_rt.vtf,131280,131280
+maps/soundcache/gg_spacestation_09.cache,16,16
+materials/Color/alice blue.vmt,67,67
+materials/Color/alice blue.vtf,11144,11144
+materials/Color/blaze orange.vmt,69,69
+materials/Color/blaze orange.vtf,11144,11144
+materials/Color/burnt orange.vmt,69,69
+materials/Color/burnt orange.vtf,11144,11144

@@ -1,0 +1,1805 @@
+filename,size,compressed
+materials/maps/ze_super_mario_64_v2_b9/glass/glasswindowbreak070a_-959_98_-11783.vmt,152,152
+materials/maps/ze_super_mario_64_v2_b9/vehicle/metaltrain001d_-959_98_-11783.vmt,148,148
+materials/maps/ze_super_mario_64_v2_b9/nature/sewer_water001_-959_98_-11783.vmt,170,170
+materials/maps/ze_super_mario_64_v2_b9/vehicle/metaltrain001a_-959_98_-11783.vmt,148,148
+materials/maps/ze_super_mario_64_v2_b9/cs_havana/glass2_-959_98_-11783.vmt,142,142
+materials/maps/ze_super_mario_64_v2_b9/wood/offdesktop_-959_98_-11783.vmt,141,141
+materials/maps/ze_super_mario_64_v2_b9/maps/ze_super_mario_64_v2_b9/nature/sewer_water001_-959_98_-11783_depth_16.vmt,152,152
+materials/maps/ze_super_mario_64_v2_b9/liquids/water_chateau_dx70_depth_16.vmt,113,113
+materials/maps/ze_super_mario_64_v2_b9/maps/ze_super_mario_64_v2_b9/nature/sewer_water001_-959_98_-11783_depth_19.vmt,152,152
+materials/maps/ze_super_mario_64_v2_b9/maps/ze_super_mario_64_v2_b9/nature/sewer_water001_-959_98_-11783_depth_337.vmt,153,153
+materials/maps/ze_super_mario_64_v2_b9/maps/ze_super_mario_64_v2_b9/nature/sewer_water001_-959_98_-11783_depth_166.vmt,153,153
+materials/maps/ze_super_mario_64_v2_b9/maps/ze_super_mario_64_v2_b9/nature/sewer_water001_-959_98_-11783_depth_202.vmt,153,153
+materials/maps/ze_super_mario_64_v2_b9/maps/ze_super_mario_64_v2_b9/nature/sewer_water001_-959_98_-11783_depth_136.vmt,153,153
+materials/maps/ze_super_mario_64_v2_b9/liquids/militiawater_dx70_depth_192.vmt,113,113
+materials/maps/ze_super_mario_64_v2_b9/maps/ze_super_mario_64_v2_b9/nature/sewer_water001_-959_98_-11783_depth_75.vmt,152,152
+materials/maps/ze_super_mario_64_v2_b9/cubemapdefault.vtf,4960,4960
+materials/maps/ze_super_mario_64_v2_b9/c-959_98_-11783.vtf,4960,4960
+materials/maps/ze_super_mario_64_v2_b9/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_super_mario_64_v2_b9/c-959_98_-11783.hdr.vtf,76528,76528
+cfg/sourcemod/entwatch/maps/ze_super_mario_64_v2_b9.cfg,3212,3212
+particles/ze_sm64.pcf,83513,83513
+maps/ze_super_mario_64_v2_b9_particles.txt,60,60
+materials/PEACHS CASTLE/10A14A29_c.vmt,72,72
+materials/PEACHS CASTLE/10A14A29_c.vtf,888,888
+materials/PEACHS CASTLE/113885F1_c.vmt,72,72
+materials/PEACHS CASTLE/113885F1_c.vtf,1512,1512
+materials/PEACHS CASTLE/148EB7B9_c.vmt,91,91
+materials/PEACHS CASTLE/148EB7B9_c.vtf,2896,2896
+materials/PEACHS CASTLE/154B175A_c.vmt,72,72
+materials/PEACHS CASTLE/154B175A_c.vtf,888,888
+materials/PEACHS CASTLE/15A46A01_c.vmt,72,72
+materials/PEACHS CASTLE/15A46A01_c.vtf,888,888
+materials/PEACHS CASTLE/164AD175_a.vmt,91,91
+materials/PEACHS CASTLE/164AD175_a.vtf,1584,1584
+materials/PEACHS CASTLE/1663C256_c.vmt,72,72
+materials/PEACHS CASTLE/1663C256_c.vtf,888,888
+materials/PEACHS CASTLE/16CBEF1C_c.vmt,72,72
+materials/PEACHS CASTLE/16CBEF1C_c.vtf,1512,1512
+materials/PEACHS CASTLE/18179BF3_c.vmt,72,72
+materials/PEACHS CASTLE/18179BF3_c.vtf,888,888
+materials/PEACHS CASTLE/1916F8C5_c.vmt,72,72
+materials/PEACHS CASTLE/1916F8C5_c.vtf,1512,1512
+materials/PEACHS CASTLE/192BCC90_c.vmt,72,72
+materials/PEACHS CASTLE/192BCC90_c.vtf,1512,1512
+materials/PEACHS CASTLE/19D5421D_c.vmt,72,72
+materials/PEACHS CASTLE/19D5421D_c.vtf,888,888
+materials/PEACHS CASTLE/1B824EDD_c.vmt,72,72
+materials/PEACHS CASTLE/1B824EDD_c.vtf,888,888
+materials/PEACHS CASTLE/1D0CA178_c.vmt,72,72
+materials/PEACHS CASTLE/1D0CA178_c.vtf,1512,1512
+materials/PEACHS CASTLE/1E114049_c.vmt,103,103
+materials/PEACHS CASTLE/1E114049_c.vtf,2896,2896
+materials/PEACHS CASTLE/1FEE462_c.vmt,90,90
+materials/PEACHS CASTLE/1FEE462_c.vtf,1584,1584
+materials/PEACHS CASTLE/1FFBC780_c.vmt,72,72
+materials/PEACHS CASTLE/1FFBC780_c.vtf,888,888
+materials/PEACHS CASTLE/20EF7F7C_c.vmt,72,72
+materials/PEACHS CASTLE/20EF7F7C_c.vtf,1512,1512
+materials/PEACHS CASTLE/22FAD611_c.vmt,72,72
+materials/PEACHS CASTLE/22FAD611_c.vtf,1512,1512
+materials/PEACHS CASTLE/24B12B6D_c.vmt,72,72
+materials/PEACHS CASTLE/24B12B6D_c.vtf,1512,1512
+materials/PEACHS CASTLE/275192E7_c.vmt,72,72
+materials/PEACHS CASTLE/275192E7_c.vtf,1512,1512
+materials/PEACHS CASTLE/2AAB9979_c.vmt,91,91
+materials/PEACHS CASTLE/2AAB9979_c.vtf,1584,1584
+materials/PEACHS CASTLE/2BC808F1_c.vmt,72,72
+materials/PEACHS CASTLE/2BC808F1_c.vtf,888,888
+materials/PEACHS CASTLE/2BF33E2A_c.vmt,72,72
+materials/PEACHS CASTLE/2BF33E2A_c.vtf,888,888
+materials/PEACHS CASTLE/2CE113A2_c.vmt,72,72
+materials/PEACHS CASTLE/2CE113A2_c.vtf,488,488
+materials/PEACHS CASTLE/2D68CDBD_c.vmt,72,72
+materials/PEACHS CASTLE/2D68CDBD_c.vtf,888,888
+materials/PEACHS CASTLE/2D88F022_c.vmt,72,72
+materials/PEACHS CASTLE/2D88F022_c.vtf,888,888
+materials/PEACHS CASTLE/2DB147B5_c.vmt,72,72
+materials/PEACHS CASTLE/2DB147B5_c.vtf,1512,1512
+materials/PEACHS CASTLE/2DB93308_c.vmt,72,72
+materials/PEACHS CASTLE/2DB93308_c.vtf,1512,1512
+materials/PEACHS CASTLE/2F318157_c.vmt,72,72
+materials/PEACHS CASTLE/2F318157_c.vtf,888,888
+materials/PEACHS CASTLE/31BEEA74_c.vmt,72,72
+materials/PEACHS CASTLE/31BEEA74_c.vtf,888,888
+materials/PEACHS CASTLE/32A2DCAF_c.vmt,91,91
+materials/PEACHS CASTLE/32A2DCAF_c.vtf,1584,1584
+materials/PEACHS CASTLE/32B9C907_c.vmt,72,72
+materials/PEACHS CASTLE/32B9C907_c.vtf,1512,1512
+materials/PEACHS CASTLE/34BA9661_c.vmt,72,72
+materials/PEACHS CASTLE/34BA9661_c.vtf,1512,1512
+materials/PEACHS CASTLE/35FA7315_c.vmt,72,72
+materials/PEACHS CASTLE/35FA7315_c.vtf,1512,1512
+materials/PEACHS CASTLE/36B9F48_c.vmt,71,71
+materials/PEACHS CASTLE/36B9F48_c.vtf,488,488
+materials/PEACHS CASTLE/38B6ACDB_c.vmt,72,72
+materials/PEACHS CASTLE/38B6ACDB_c.vtf,1512,1512
+materials/PEACHS CASTLE/395E361C_c.vmt,105,105
+materials/PEACHS CASTLE/395E361C_c.vtf,2896,2896
+materials/PEACHS CASTLE/39BE5945_c.vmt,105,105
+materials/PEACHS CASTLE/39BE5945_c.vtf,2896,2896
+materials/PEACHS CASTLE/3AB7B2BC_c.vmt,72,72
+materials/PEACHS CASTLE/3AB7B2BC_c.vtf,888,888
+materials/PEACHS CASTLE/3BFACD0B_c.vmt,72,72
+materials/PEACHS CASTLE/3BFACD0B_c.vtf,888,888
+materials/PEACHS CASTLE/3C675FEE_c.vmt,72,72
+materials/PEACHS CASTLE/3C675FEE_c.vtf,1512,1512
+materials/PEACHS CASTLE/3C6851DA_c.vmt,91,91
+materials/PEACHS CASTLE/3C6851DA_c.vtf,2896,2896
+materials/PEACHS CASTLE/3C96C6A_c.vmt,71,71
+materials/PEACHS CASTLE/3C96C6A_c.vtf,888,888
+materials/PEACHS CASTLE/3EDBA5C3_c.vmt,72,72
+materials/PEACHS CASTLE/3EDBA5C3_c.vtf,1512,1512
+materials/PEACHS CASTLE/3EE6347B_c.vmt,72,72
+materials/PEACHS CASTLE/3EE6347B_c.vtf,888,888
+materials/PEACHS CASTLE/3F1B67A3_c.vmt,72,72
+materials/PEACHS CASTLE/3F1B67A3_c.vtf,888,888
+materials/PEACHS CASTLE/3FBAB8A0_c.vmt,72,72
+materials/PEACHS CASTLE/3FBAB8A0_c.vtf,888,888
+materials/PEACHS CASTLE/41EDCCB_c.vmt,71,71
+materials/PEACHS CASTLE/41EDCCB_c.vtf,888,888
+materials/PEACHS CASTLE/430A12DC_c.vmt,72,72
+materials/PEACHS CASTLE/430A12DC_c.vtf,888,888
+materials/PEACHS CASTLE/445A137C_c.vmt,72,72
+materials/PEACHS CASTLE/445A137C_c.vtf,1512,1512
+materials/PEACHS CASTLE/4800FA99_c.vmt,72,72
+materials/PEACHS CASTLE/4800FA99_c.vtf,888,888
+materials/PEACHS CASTLE/480F337C_c.vmt,72,72
+materials/PEACHS CASTLE/480F337C_c.vtf,1512,1512
+materials/PEACHS CASTLE/48ED827D_c.vmt,72,72
+materials/PEACHS CASTLE/48ED827D_c.vtf,1512,1512
+materials/PEACHS CASTLE/48F5B267_c.vmt,72,72
+materials/PEACHS CASTLE/48F5B267_c.vtf,888,888
+materials/PEACHS CASTLE/49254A53_c.vmt,72,72
+materials/PEACHS CASTLE/49254A53_c.vtf,1512,1512
+materials/PEACHS CASTLE/49345F82_c.vmt,72,72
+materials/PEACHS CASTLE/49345F82_c.vtf,888,888
+materials/PEACHS CASTLE/4A57B164_c.vmt,72,72
+materials/PEACHS CASTLE/4A57B164_c.vtf,1512,1512
+materials/PEACHS CASTLE/4D23D68_c.vmt,71,71
+materials/PEACHS CASTLE/4D23D68_c.vtf,1512,1512
+materials/PEACHS CASTLE/4FA6BD20_c.vmt,72,72
+materials/PEACHS CASTLE/4FA6BD20_c.vtf,888,888
+materials/PEACHS CASTLE/4FD1C00C_c.vmt,72,72
+materials/PEACHS CASTLE/4FD1C00C_c.vtf,1512,1512
+materials/PEACHS CASTLE/5162C92E_c.vmt,91,91
+materials/PEACHS CASTLE/5162C92E_c.vtf,376,376
+materials/PEACHS CASTLE/581DD20A_c.vmt,72,72
+materials/PEACHS CASTLE/581DD20A_c.vtf,888,888
+materials/PEACHS CASTLE/59FF6061_c.vmt,72,72
+materials/PEACHS CASTLE/59FF6061_c.vtf,1512,1512
+materials/PEACHS CASTLE/5C3492AB_c.vmt,91,91
+materials/PEACHS CASTLE/5C3492AB_c.vtf,1584,1584
+materials/PEACHS CASTLE/5DAF9D88_c.vmt,72,72
+materials/PEACHS CASTLE/5DAF9D88_c.vtf,1512,1512
+materials/PEACHS CASTLE/5EDC83BD_c.vmt,105,105
+materials/PEACHS CASTLE/5EDC83BD_c.vtf,2896,2896
+materials/PEACHS CASTLE/5EF26168_c.vmt,72,72
+materials/PEACHS CASTLE/5EF26168_c.vtf,888,888
+materials/PEACHS CASTLE/60A64656_c.vmt,72,72
+materials/PEACHS CASTLE/60A64656_c.vtf,888,888
+materials/PEACHS CASTLE/60B5D4F9_c.vmt,72,72
+materials/PEACHS CASTLE/60B5D4F9_c.vtf,1512,1512
+materials/PEACHS CASTLE/61BE951F_c.vmt,72,72
+materials/PEACHS CASTLE/61BE951F_c.vtf,888,888
+materials/PEACHS CASTLE/630B0E26_c.vmt,91,91
+materials/PEACHS CASTLE/630B0E26_c.vtf,1584,1584
+materials/PEACHS CASTLE/63D921C2_c.vmt,72,72
+materials/PEACHS CASTLE/63D921C2_c.vtf,1512,1512
+materials/PEACHS CASTLE/65EAEADC_c.vmt,72,72
+materials/PEACHS CASTLE/65EAEADC_c.vtf,1512,1512
+materials/PEACHS CASTLE/67534962_c.vmt,91,91
+materials/PEACHS CASTLE/67534962_c.vtf,1584,1584
+materials/PEACHS CASTLE/6894B209_c.vmt,72,72
+materials/PEACHS CASTLE/6894B209_c.vtf,1512,1512
+materials/PEACHS CASTLE/6AE21407_c.vmt,72,72
+materials/PEACHS CASTLE/6AE21407_c.vtf,888,888
+materials/PEACHS CASTLE/6B88A261_c.vmt,72,72
+materials/PEACHS CASTLE/6B88A261_c.vtf,888,888
+materials/PEACHS CASTLE/6BA98DAC_c.vmt,72,72
+materials/PEACHS CASTLE/6BA98DAC_c.vtf,1512,1512
+materials/PEACHS CASTLE/6C59D684_c.vmt,72,72
+materials/PEACHS CASTLE/6C59D684_c.vtf,888,888
+materials/PEACHS CASTLE/6D9A5F4C_c.vmt,72,72
+materials/PEACHS CASTLE/6D9A5F4C_c.vtf,888,888
+materials/PEACHS CASTLE/6E3E7EFA_c.vmt,72,72
+materials/PEACHS CASTLE/6E3E7EFA_c.vtf,1512,1512
+materials/PEACHS CASTLE/7121A741_c.vmt,72,72
+materials/PEACHS CASTLE/7121A741_c.vtf,888,888
+materials/PEACHS CASTLE/71495D75_c.vmt,72,72
+materials/PEACHS CASTLE/71495D75_c.vtf,1512,1512
+materials/PEACHS CASTLE/71C9470_c.vmt,71,71
+materials/PEACHS CASTLE/71C9470_c.vtf,1512,1512
+materials/PEACHS CASTLE/762BFC9A_c.vmt,91,91
+materials/PEACHS CASTLE/762BFC9A_c.vtf,1584,1584
+materials/PEACHS CASTLE/777F0E0B_c.vmt,105,105
+materials/PEACHS CASTLE/777F0E0B_c.vtf,1584,1584
+materials/PEACHS CASTLE/77928504_c.vmt,91,91
+materials/PEACHS CASTLE/77928504_c.vtf,2896,2896
+materials/PEACHS CASTLE/78C61E55_c.vmt,72,72
+materials/PEACHS CASTLE/78C61E55_c.vtf,1512,1512
+materials/PEACHS CASTLE/791E946B_c.vmt,72,72
+materials/PEACHS CASTLE/791E946B_c.vtf,888,888
+materials/PEACHS CASTLE/7A7501A5_c.vmt,72,72
+materials/PEACHS CASTLE/7A7501A5_c.vtf,888,888
+materials/PEACHS CASTLE/7EB1C6A1_c.vmt,91,91
+materials/PEACHS CASTLE/7EB1C6A1_c.vtf,1584,1584
+materials/PEACHS CASTLE/7EF5C8A8_c.vmt,72,72
+materials/PEACHS CASTLE/7EF5C8A8_c.vtf,1512,1512
+materials/PEACHS CASTLE/7F0DBBD7_c.vmt,72,72
+materials/PEACHS CASTLE/7F0DBBD7_c.vtf,1512,1512
+materials/PEACHS CASTLE/7F337DE6_c.vmt,72,72
+materials/PEACHS CASTLE/7F337DE6_c.vtf,1512,1512
+materials/PEACHS CASTLE/B6AC8BD_c.vmt,71,71
+materials/PEACHS CASTLE/B6AC8BD_c.vtf,1512,1512
+materials/PEACHS CASTLE/E2D72D_c.vmt,70,70
+materials/PEACHS CASTLE/E2D72D_c.vtf,1512,1512
+materials/SUPER MARIO/betonreling.vmt,71,71
+materials/SUPER MARIO/betonreling.vtf,1512,1512
+materials/SUPER MARIO/Binnencirkel.vmt,91,91
+materials/SUPER MARIO/Binnencirkel.vtf,1584,1584
+materials/SUPER MARIO/Binnenmuurhout.vmt,74,74
+materials/SUPER MARIO/Binnenmuurhout.vtf,888,888
+materials/SUPER MARIO/Binnentegels.vmt,72,72
+materials/SUPER MARIO/Binnentegels.vtf,888,888
+materials/SUPER MARIO/binnenwandboven.vmt,75,75
+materials/SUPER MARIO/binnenwandboven.vtf,1512,1512
+materials/SUPER MARIO/binnenwandonder.vmt,75,75
+materials/SUPER MARIO/binnenwandonder.vtf,1512,1512
+materials/SUPER MARIO/Boomlinks.vmt,102,102
+materials/SUPER MARIO/Boomlinks.vtf,2896,2896
+materials/SUPER MARIO/Boomrechts.vmt,103,103
+materials/SUPER MARIO/Boomrechts.vtf,2896,2896
+materials/SUPER MARIO/Bord.vmt,64,64
+materials/SUPER MARIO/Bord.vtf,888,888
+materials/SUPER MARIO/Brugzijkant.vmt,71,71
+materials/SUPER MARIO/Brugzijkant.vtf,488,488
+materials/SUPER MARIO/Brugzijkant2.vmt,72,72
+materials/SUPER MARIO/Brugzijkant2.vtf,888,888
+materials/SUPER MARIO/Dak.vmt,63,63
+materials/SUPER MARIO/Dak.vtf,888,888
+materials/SUPER MARIO/Darkwood.vmt,68,68
+materials/SUPER MARIO/Darkwood.vtf,888,888
+materials/SUPER MARIO/deur.vmt,64,64
+materials/SUPER MARIO/deur.vtf,1512,1512
+materials/SUPER MARIO/deurzijkant.vmt,71,71
+materials/SUPER MARIO/deurzijkant.vtf,1512,1512
+materials/SUPER MARIO/gras.vmt,64,64
+materials/SUPER MARIO/gras.vtf,888,888
+materials/SUPER MARIO/gras2.vmt,65,65
+materials/SUPER MARIO/gras2.vtf,888,888
+materials/SUPER MARIO/Graywall.vmt,68,68
+materials/SUPER MARIO/Graywall.vtf,1512,1512
+materials/SUPER MARIO/grid.vmt,83,83
+materials/SUPER MARIO/grid.vtf,1584,1584
+materials/SUPER MARIO/grijs.vmt,65,65
+materials/SUPER MARIO/grijs.vtf,888,888
+materials/SUPER MARIO/groenhout.vmt,69,69
+materials/SUPER MARIO/groenhout.vtf,888,888
+materials/SUPER MARIO/hekje.vmt,82,82
+materials/SUPER MARIO/hekje.vtf,2896,2896
+materials/SUPER MARIO/houtplank.vmt,69,69
+materials/SUPER MARIO/houtplank.vtf,888,888
+materials/SUPER MARIO/houtplank2.vmt,70,70
+materials/SUPER MARIO/houtplank2.vtf,888,888
+materials/SUPER MARIO/keien.vmt,65,65
+materials/SUPER MARIO/keien.vtf,888,888
+materials/SUPER MARIO/Mario.vmt,65,65
+materials/SUPER MARIO/Mario.vtf,1512,1512
+materials/SUPER MARIO/Mariosteen.vmt,70,70
+materials/SUPER MARIO/Mariosteen.vtf,1512,1512
+materials/SUPER MARIO/marmer.vmt,66,66
+materials/SUPER MARIO/marmer.vtf,888,888
+materials/SUPER MARIO/Metaaldeur.vmt,70,70
+materials/SUPER MARIO/Metaaldeur.vtf,1512,1512
+materials/SUPER MARIO/modder.vmt,66,66
+materials/SUPER MARIO/modder.vtf,1512,1512
+materials/SUPER MARIO/mooireling.vmt,89,89
+materials/SUPER MARIO/mooireling.vtf,1584,1584
+materials/SUPER MARIO/Peachrond.vmt,88,88
+materials/SUPER MARIO/Peachrond.vtf,2896,2896
+materials/SUPER MARIO/Princesboven.vmt,91,91
+materials/SUPER MARIO/Princesboven.vtf,2896,2896
+materials/SUPER MARIO/Princessonder.vmt,92,92
+materials/SUPER MARIO/Princessonder.vtf,2896,2896
+materials/SUPER MARIO/Raampje.vmt,86,86
+materials/SUPER MARIO/Raampje.vtf,1584,1584
+materials/SUPER MARIO/Redwood.vmt,67,67
+materials/SUPER MARIO/Redwood.vtf,888,888
+materials/SUPER MARIO/Sand.vmt,64,64
+materials/SUPER MARIO/Sand.vtf,888,888
+materials/SUPER MARIO/steenmuur.vmt,69,69
+materials/SUPER MARIO/steenmuur.vtf,1512,1512
+materials/SUPER MARIO/tsteen.vmt,66,66
+materials/SUPER MARIO/tsteen.vtf,888,888
+materials/SUPER MARIO/vloerbedekking.vmt,74,74
+materials/SUPER MARIO/vloerbedekking.vtf,888,888
+materials/SUPER MARIO/vloerbedekking1.vmt,75,75
+materials/SUPER MARIO/vloerbedekking1.vtf,888,888
+materials/SUPER MARIO/water.vmt,84,84
+materials/SUPER MARIO/water.vtf,1584,1584
+materials/SUPER MARIO/Yellowwood.vmt,70,70
+materials/SUPER MARIO/Yellowwood.vtf,888,888
+materials/SUPER MARIO/Zand.vmt,64,64
+materials/SUPER MARIO/Zand.vtf,888,888
+materials/boomb/boomb_arrow.vmt,65,65
+materials/boomb/boomb_arrow.vtf,904,904
+materials/boomb/boomb_bluerock.vmt,68,68
+materials/boomb/boomb_bluerock.vtf,904,904
+materials/boomb/boomb_box.vmt,63,63
+materials/boomb/boomb_box.vtf,904,904
+materials/boomb/boomb_bridge.vmt,66,66
+materials/boomb/boomb_bridge.vtf,1528,1528
+materials/boomb/boomb_btn_side.vmt,68,68
+materials/boomb/boomb_btn_side.vtf,184,184
+materials/boomb/boomb_button.vmt,66,66
+materials/boomb/boomb_button.vtf,504,504
+materials/boomb/boomb_fence.vmt,84,84
+materials/boomb/boomb_fence.vtf,1600,1600
+materials/boomb/boomb_greenrock.vmt,69,69
+materials/boomb/boomb_greenrock.vtf,904,904
+materials/boomb/boomb_lift_circle.vmt,71,71
+materials/boomb/boomb_lift_circle.vtf,904,904
+materials/boomb/boomb_lift_side.vmt,69,69
+materials/boomb/boomb_lift_side.vtf,504,504
+materials/boomb/boomb_lift_top.vmt,68,68
+materials/boomb/boomb_lift_top.vtf,904,904
+materials/boomb/boomb_meadow_side.vmt,71,71
+materials/boomb/boomb_meadow_side.vtf,904,904
+materials/boomb/boomb_meadow_top.vmt,70,70
+materials/boomb/boomb_meadow_top.vtf,904,904
+materials/boomb/boomb_mud.vmt,63,63
+materials/boomb/boomb_mud.vtf,904,904
+materials/boomb/boomb_muddygrass.vmt,70,70
+materials/boomb/boomb_muddygrass.vtf,904,904
+materials/boomb/boomb_redrock.vmt,67,67
+materials/boomb/boomb_redrock.vtf,904,904
+materials/boomb/boomb_rock.vmt,64,64
+materials/boomb/boomb_rock.vtf,904,904
+materials/boomb/boomb_whiterock.vmt,69,69
+materials/boomb/boomb_whiterock.vtf,904,904
+materials/boomb/cannon.vmt,60,60
+materials/boomb/cannon.vtf,904,904
+materials/boomb/cannon_strut.vmt,66,66
+materials/boomb/cannon_strut.vtf,904,904
+materials/boomb/cannon_strut1.vmt,67,67
+materials/boomb/cannon_strut1.vtf,904,904
+materials/boomb/orangebox1.vmt,64,64
+materials/boomb/orangebox1.vtf,904,904
+materials/boomb/orangebox2.vmt,64,64
+materials/boomb/orangebox2.vtf,1528,1528
+materials/boomb/redbox1.vmt,61,61
+materials/boomb/redbox1.vtf,904,904
+materials/boomb/redbox2.vmt,61,61
+materials/boomb/redbox2.vtf,1528,1528
+materials/booshaunt/bh_book_hammer.vmt,85,85
+materials/booshaunt/bh_book_hammer.vtf,504,504
+materials/booshaunt/bh_book_particle.vmt,87,87
+materials/booshaunt/bh_book_particle.vtf,1528,1528
+materials/booshaunt/bh_box.vmt,64,64
+materials/booshaunt/bh_box.vtf,904,904
+materials/booshaunt/bh_coffin.vmt,67,67
+materials/booshaunt/bh_coffin.vtf,1528,1528
+materials/booshaunt/bh_coffin_side.vmt,72,72
+materials/booshaunt/bh_coffin_side.vtf,504,504
+materials/booshaunt/bh_water.vmt,336,336
+materials/booshaunt/bh_water.vtf,1600,1600
+materials/booshaunt/blueeye.vmt,65,65
+materials/booshaunt/blueeye.vtf,904,904
+materials/booshaunt/bookshelf.vmt,67,67
+materials/booshaunt/bookshelf.vtf,1528,1528
+materials/booshaunt/boo_blue_decal.vmt,105,105
+materials/booshaunt/boo_blue_decal.vtf,1528,1528
+materials/booshaunt/boo_decal2.vmt,101,101
+materials/booshaunt/boo_decal2.vtf,904,904
+materials/booshaunt/boo_yellow_decal.vmt,107,107
+materials/booshaunt/boo_yellow_decal.vtf,904,904
+materials/booshaunt/finallevelsurface.vtf,904,904
+materials/booshaunt/foyer/door.vmt,68,68
+materials/booshaunt/foyer/door.vtf,1528,1528
+materials/booshaunt/foyer/finallevelsurface.vtf,904,904
+materials/booshaunt/foyer/foyerrailing.vmt,95,95
+materials/booshaunt/foyer/foyerrailing.vtf,1600,1600
+materials/booshaunt/foyer/wall.vmt,68,68
+materials/booshaunt/foyer/wall.vtf,1528,1528
+materials/booshaunt/greenbook.vmt,67,67
+materials/booshaunt/greenbook.vtf,904,904
+materials/booshaunt/hauntoutside/boolight.vmt,79,79
+materials/booshaunt/hauntoutside/boolight.vtf,904,904
+materials/booshaunt/hauntoutside/insiderailing.vmt,103,103
+materials/booshaunt/hauntoutside/outsidefence.vmt,102,102
+materials/booshaunt/hauntoutside/outsidefence.vtf,1600,1600
+materials/booshaunt/hauntoutside/outsidepanel.vmt,83,83
+materials/booshaunt/hauntoutside/outsidepanel.vtf,904,904
+materials/booshaunt/hauntoutside/panel1.vmt,77,77
+materials/booshaunt/hauntoutside/panel1.vtf,904,904
+materials/booshaunt/hauntoutside/panel2.vmt,77,77
+materials/booshaunt/hauntoutside/panel2.vtf,904,904
+materials/booshaunt/hauntoutside/paneltest.vmt,80,80
+materials/booshaunt/hauntoutside/paneltest.vtf,904,904
+materials/booshaunt/hauntoutside/platform.vmt,79,79
+materials/booshaunt/hauntoutside/platform.vtf,904,904
+materials/booshaunt/hauntoutside/rooftest.vmt,79,79
+materials/booshaunt/hauntoutside/rooftest.vtf,1528,1528
+materials/booshaunt/outerbrick.vmt,68,68
+materials/booshaunt/outerbrick.vtf,1528,1528
+materials/booshaunt/outerplatform.vmt,71,71
+materials/booshaunt/outerplatform.vtf,1528,1528
+materials/booshaunt/outsidefloor.vmt,70,70
+materials/booshaunt/outsidefloor.vtf,904,904
+materials/booshaunt/outsidewall.vmt,69,69
+materials/booshaunt/outsidewall.vtf,1528,1528
+materials/booshaunt/redgrid.vmt,82,82
+materials/booshaunt/redgrid.vtf,1600,1600
+materials/booshaunt/toproom/boodecal.vmt,107,107
+materials/booshaunt/toproom/boodecal.vtf,1528,1528
+materials/booshaunt/toproom/boosign.vmt,73,73
+materials/booshaunt/toproom/boosign.vtf,904,904
+materials/booshaunt/toproom/greenwall.vmt,75,75
+materials/booshaunt/toproom/greenwall.vtf,1528,1528
+materials/booshaunt/toproom/metalpanel.vmt,76,76
+materials/booshaunt/toproom/metalpanel.vtf,904,904
+materials/booshaunt/toproom/outerbrick.vtf,1528,1528
+materials/booshaunt/toproom/outsidewindow.vmt,113,113
+materials/booshaunt/toproom/outsidewindow.vtf,904,904
+materials/booshaunt/toproom/signwood.vmt,74,74
+materials/booshaunt/toproom/signwood.vtf,904,904
+materials/booshaunt/toproom/woodenfloor.vmt,77,77
+materials/booshaunt/toproom/woodenfloor.vtf,1528,1528
+materials/bowserboss/finallevelside.vmt,73,73
+materials/bowserboss/finallevelside.vtf,1528,1528
+materials/bowserboss/finallevelsurface.vmt,76,76
+materials/bowserboss/finallevelsurface.vtf,904,904
+materials/bowserboss/SkyOne.vmt,59,59
+materials/bowserboss/SkyOne.vtf,904,904
+materials/grey_texture.vmt,60,60
+materials/grey_texture.vtf,720,720
+materials/i3d.vmt,51,51
+materials/i3d.vtf,2952,2952
+materials/map_image.vmt,57,57
+materials/map_image.vtf,65680,65680
+materials/models/bh_box/bh_box.vmt,62,62
+materials/models/bh_cage/bh_cage.vmt,85,85
+materials/models/bh_cage/bh_cage.vtf,1600,1600
+materials/models/bh_cage/bh_cage_bottom.vmt,75,75
+materials/models/bh_cage/bh_cage_bottom.vtf,504,504
+materials/models/bh_cage/bh_cage_brick.vmt,74,74
+materials/models/bh_cage/bh_cage_brick.vtf,504,504
+materials/models/bh_cage/bh_cage_metal.vmt,74,74
+materials/models/bh_cage/bh_cage_metal.vtf,904,904
+materials/models/bh_cage/bh_cage_side.vmt,73,73
+materials/models/bh_cage/bh_cage_side.vtf,904,904
+materials/models/bh_cage/bh_cage_top.vmt,72,72
+materials/models/bh_cage/bh_cage_top.vtf,400,400
+materials/models/bh_door/6ae21407_c.vmt,70,70
+materials/models/bh_door/door.vmt,66,66
+materials/models/bh_door/metaltrain001a.vmt,432,432
+materials/models/bh_light/boolight.vmt,77,77
+materials/models/bh_wood/woodenfloor.vmt,75,75
+materials/models/bomb/bomb_blink.vmt,87,87
+materials/models/bomb/bomb_blink.vtf,1600,1600
+materials/models/bomb/bomb_eyes.vmt,86,86
+materials/models/bomb/bomb_eyes.vtf,1600,1600
+materials/models/bomb/bomb_hat.vmt,66,66
+materials/models/bomb/bomb_hat.vtf,904,904
+materials/models/bomb/bomb_pink_torso.vmt,73,73
+materials/models/bomb/bomb_pink_torso.vtf,904,904
+materials/models/bomb/bomb_shoes.vmt,68,68
+materials/models/bomb/bomb_shoes.vtf,904,904
+materials/models/bomb/bomb_torso.vmt,68,68
+materials/models/bomb/bomb_torso.vtf,904,904
+materials/models/boo/24F8FC1C_a.bmp,6198,6198
+materials/models/boo/24F8FC1C_c.bmp,6198,6198
+materials/models/boo/54E8E932_a.bmp,3126,3126
+materials/models/boo/54E8E932_c.bmp,3126,3126
+materials/models/boo/boo1.vmt,61,61
+materials/models/boo/boo1.vtf,2952,2952
+materials/models/boo/boo2.vmt,61,61
+materials/models/boo/boo2.vtf,2952,2952
+materials/models/boo/boo_white.bmp,3126,3126
+materials/models/boo/Material.vmt,74,74
+materials/models/boo/white.vmt,62,62
+materials/models/boo/white.vtf,904,904
+materials/models/boomb_ball/boomb_ball.vmt,74,74
+materials/models/boomb_ball/boomb_ball.vtf,904,904
+materials/models/boomb_boss/22FB18AC_a.bmp,3126,3126
+materials/models/boomb_boss/22FB18AC_c.bmp,3126,3126
+materials/models/boomb_boss/24643B1C_a.bmp,6198,6198
+materials/models/boomb_boss/24643B1C_c.bmp,6198,6198
+materials/models/boomb_boss/25390F3E_a.bmp,6198,6198
+materials/models/boomb_boss/25390F3E_c.bmp,6198,6198
+materials/models/boomb_boss/2E1173FF_a.bmp,3126,3126
+materials/models/boomb_boss/2E1173FF_c.bmp,3126,3126
+materials/models/boomb_boss/56A21AE5_a.bmp,3126,3126
+materials/models/boomb_boss/56A21AE5_c.bmp,3126,3126
+materials/models/boomb_boss/642FEA34_c.bmp,1590,1590
+materials/models/boomb_boss/boomb_body.vmt,74,74
+materials/models/boomb_boss/boomb_body.vtf,904,904
+materials/models/boomb_boss/boomb_crown.vmt,75,75
+materials/models/boomb_boss/boomb_crown.vtf,504,504
+materials/models/boomb_boss/boomb_eyes.vmt,93,93
+materials/models/boomb_boss/boomb_eyes.vtf,1600,1600
+materials/models/boomb_boss/boomb_hands.vmt,94,94
+materials/models/boomb_boss/boomb_hands.vtf,904,904
+materials/models/boomb_boss/boomb_joints.vmt,96,96
+materials/models/boomb_boss/boomb_joints.vtf,904,904
+materials/models/boomb_boss/boomb_moustache.vmt,98,98
+materials/models/boomb_boss/boomb_moustache.vtf,904,904
+materials/models/boomb_boss/boomb_shoes.vmt,94,94
+materials/models/boomb_boss/boomb_shoes.vtf,904,904
+materials/models/boomb_boss/Bowser.vmt,91,91
+materials/models/boomb_island/49254a53_c.vmt,70,70
+materials/models/boomb_island/boomb_redrock.vmt,65,65
+materials/models/boomb_island/gras.vmt,62,62
+materials/models/boomb_painting/38b6acdb_c.vmt,70,70
+materials/models/boomb_painting/480f337c_c.vmt,70,70
+materials/models/Bowser/Bowser - Copy (2).vtf,262352,262352
+materials/models/Bowser/Bowser - Copy (3).vtf,262352,262352
+materials/models/Bowser/Bowser - Copy (4).vtf,262352,262352
+materials/models/Bowser/Bowser - Copy.vtf,262352,262352
+materials/models/Bowser/Bowser.vmt,91,91
+materials/models/Bowser/Bowser.vtf,262352,262352
+materials/models/Bowser/Material.vmt,76,76
+materials/models/Bowser/Material.vtf,262352,262352
+materials/models/Bowser2/Bowser - Copy (2).vtf,262352,262352
+materials/models/Bowser2/Bowser - Copy (3).vtf,262352,262352
+materials/models/Bowser2/Bowser - Copy (4).vtf,262352,262352
+materials/models/Bowser2/Bowser - Copy.vtf,262352,262352
+materials/models/Bowser2/Bowser.vmt,91,91
+materials/models/Bowser2/Bowser.vtf,262352,262352
+materials/models/Bowser2/Material.vmt,74,74
+materials/models/Bowser2/Material.vtf,262352,262352
+materials/models/BowserStadium/edge.vmt,66,66
+materials/models/BowserStadium/edge.vtf,1168,1168
+materials/models/BowserStadium/ground.vmt,68,68
+materials/models/BowserStadium/ground.vtf,720,720
+materials/models/BowserStadium/tiles.vmt,67,67
+materials/models/BowserStadium/tiles.vtf,720,720
+materials/models/bowser_massive_painting/15a46a01_c.vmt,70,70
+materials/models/bowser_massive_painting/1b824edd_c.vmt,70,70
+materials/models/bowser_massive_painting/581dd20a_c.vmt,70,70
+materials/models/bowser_massive_painting/7121a741_c.vmt,70,70
+materials/models/bowser_painting_large/15a46a01_c.vmt,70,70
+materials/models/bowser_painting_large/1b824edd_c.vmt,70,70
+materials/models/bowser_painting_large/581dd20a_c.vmt,70,70
+materials/models/bowser_painting_large/7121a741_c.vmt,70,70
+materials/models/bowser_painting_small/15a46a01_c.vmt,70,70
+materials/models/bowser_painting_small/1b824edd_c.vmt,70,70
+materials/models/bowser_painting_small/581dd20a_c.vmt,70,70
+materials/models/bowser_painting_small/7121a741_c.vmt,70,70
+materials/models/bubble_ball/boomb_ball.vmt,94,94
+materials/models/bubble_ball/boomb_ball.vtf,1232,1232
+materials/models/cannon/cannon.vmt,58,58
+materials/models/cannon_strut/boomb_bluerock.vmt,66,66
+materials/models/cannon_strut/cannon_strut.vmt,64,64
+materials/models/cannon_strut/cannon_strut1.vmt,65,65
+materials/models/castle_decoration/raampje.vmt,84,84
+materials/models/castle_door/24b12b6d_c.vmt,70,70
+materials/models/castle_door/6ae21407_c.vmt,70,70
+materials/models/castle_door/deur.vmt,62,62
+materials/models/castle_door2/24b12b6d_c.vmt,70,70
+materials/models/castle_door2/49254a53_c.vmt,70,70
+materials/models/castle_door2/6ae21407_c.vmt,70,70
+materials/models/castle_door2/6ba98dac_c.vmt,70,70
+materials/models/castle_notice/762bfc9a_c.vmt,89,89
+materials/models/castle_pillar/4d23d68_c.vmt,69,69
+materials/models/castle_pillar2/4d23d68_c.vmt,69,69
+materials/models/castle_tree1/1e114049_c.vmt,101,101
+materials/models/castle_tree1/395e361c_c.vmt,101,101
+materials/models/castle_tree2/39be5945_c.vmt,103,103
+materials/models/chair/19B69EAE_a.bmp,3126,3126
+materials/models/chair/19B69EAE_c.bmp,3126,3126
+materials/models/chair/49A1270A_a.bmp,3126,3126
+materials/models/chair/49A1270A_c.bmp,3126,3126
+materials/models/chair/70C6C16_a.bmp,1590,1590
+materials/models/chair/70C6C16_c.bmp,1590,1590
+materials/models/chair/chairback.vmt,68,68
+materials/models/chair/chairback.vtf,904,904
+materials/models/chair/chairleg.vmt,67,67
+materials/models/chair/chairleg.vtf,504,504
+materials/models/chair/chairseat.vmt,68,68
+materials/models/chair/chairseat.vtf,904,904
+materials/models/chomp/168D75D2_a.bmp,3126,3126
+materials/models/chomp/168D75D2_c.bmp,3126,3126
+materials/models/chomp/50119FC2_c.bmp,3126,3126
+materials/models/chomp/5EA58127_c.bmp,3126,3126
+materials/models/chomp/6F2A597C_a.bmp,3126,3126
+materials/models/chomp/6F2A597C_c.bmp,2102,2102
+materials/models/chomp/751467DA_c.bmp,3126,3126
+materials/models/chomp/7A8E8F41_c.bmp,3126,3126
+materials/models/chomp/chomp_ball.vmt,88,88
+materials/models/chomp/chomp_ball.vtf,1600,1600
+materials/models/chomp/chomp_bottom.vmt,90,90
+materials/models/chomp/chomp_bottom.vtf,904,904
+materials/models/chomp/chomp_eye.vmt,87,87
+materials/models/chomp/chomp_eye.vtf,1600,1600
+materials/models/chomp/chomp_head.vmt,88,88
+materials/models/chomp/chomp_head.vtf,904,904
+materials/models/chomp/chomp_teeth.vmt,89,89
+materials/models/chomp/chomp_teeth.vtf,904,904
+materials/models/chomp/Pluto.vmt,75,75
+materials/models/chomp/tongue.vmt,84,84
+materials/models/chomp/tongue.vtf,904,904
+materials/models/chopper/blackhawk.vmt,221,221
+materials/models/chopper/blackhawk.vtf,699256,699256
+materials/models/chopper/blackhawk_ref.vtf,699256,699256
+materials/models/clock/smallclock_arm.vmt,73,73
+materials/models/clock/smallclock_arm.vtf,904,904
+materials/models/clock/smallclock_hand.vmt,74,74
+materials/models/clock/smallclock_hand.vtf,904,904
+materials/models/column_1/default.vmt,69,69
+materials/models/column_1/default.vtf,699272,699272
+materials/models/courtyard_star/1916F8C5_c.vmt,78,78
+materials/models/courtyard_star/1916F8C5_c.vtf,1512,1512
+materials/models/courtyard_star/3EE6347B_c.bmp,2102,2102
+materials/models/courtyard_star/3EE6347B_c.vmt,78,78
+materials/models/courtyard_star/3EE6347B_c.vtf,904,904
+materials/models/courtyard_star/Material01.vmt,69,69
+materials/models/eyerok/2417D395_c.bmp,3126,3126
+materials/models/eyerok/39D0C2A3_c.bmp,3126,3126
+materials/models/eyerok/7003F461_a.bmp,3126,3126
+materials/models/eyerok/7003F461_c.bmp,3126,3126
+materials/models/eyerok/eye.vmt,82,82
+materials/models/eyerok/eye.vtf,1600,1600
+materials/models/eyerok/fulleye.vmt,86,86
+materials/models/eyerok/fulleye.vtf,1600,1600
+materials/models/eyerok/halfeye.vmt,86,86
+materials/models/eyerok/halfeye.vtf,1600,1600
+materials/models/eyerok/Shape.vmt,65,65
+materials/models/eyerok/Shape.vtf,904,904
+materials/models/eyerok_rock/pyramid.vmt,67,67
+materials/models/eyerok_rock/pyramidslope.vmt,72,72
+materials/models/eyerok_rock1/pyramid.vmt,67,67
+materials/models/eyerok_rock1/pyramidslope.vmt,72,72
+materials/models/eyerok_rock2/pyramid.vmt,67,67
+materials/models/eyerok_rock2/pyramidslope.vmt,72,72
+materials/models/Eyes.vtf,1168,1168
+materials/models/flyboy/15A44785_c.bmp,6198,6198
+materials/models/flyboy/2172593D_c.bmp,3126,3126
+materials/models/flyboy/664E6992_c.bmp,3126,3126
+materials/models/flyboy/flyboy.pdn,7305,7305
+materials/models/flyboy/flyboy.vmt,66,66
+materials/models/flyboy/flyboy.vtf,1168,1168
+materials/models/flyboy/flyboy_bottom.vmt,73,73
+materials/models/flyboy/flyboy_bottom.vtf,720,720
+materials/models/flyboy/flyboy_face.vmt,71,71
+materials/models/flyboy/flyboy_face.vtf,720,720
+materials/models/flyboy/flyboy_rotor.vmt,89,89
+materials/models/flyboy/flyboy_rotor.vtf,1232,1232
+materials/models/flyboy/flyboy_shoe.vmt,71,71
+materials/models/flyboy/flyboy_shoe.vtf,720,720
+materials/models/geomagic/Geomagic.vmt,70,70
+materials/models/geomagic/Geomagic.vtf,699272,699272
+materials/models/goomba/2AFA6910_a.bmp,3126,3126
+materials/models/goomba/2AFA6910_c.bmp,3126,3126
+materials/models/goomba/2D00FC0F_c.bmp,3126,3126
+materials/models/goomba/4302F8D6_c.bmp,3126,3126
+materials/models/goomba/7FE238AE_a.bmp,3126,3126
+materials/models/goomba/7FE238AE_c.bmp,3126,3126
+materials/models/goomba/Bowser - Copy.vtf,262352,262352
+materials/models/goomba/goomba_body.vmt,71,71
+materials/models/goomba/goomba_body.vtf,904,904
+materials/models/goomba/goomba_face.vmt,71,71
+materials/models/goomba/goomba_face.vtf,2952,2952
+materials/models/goomba/goomba_face2.vmt,72,72
+materials/models/goomba/goomba_face2.vtf,2952,2952
+materials/models/goomba/goomba_shoes.vmt,72,72
+materials/models/goomba/goomba_shoes.vtf,904,904
+materials/models/goomba/goomba_torso.vmt,72,72
+materials/models/goomba/goomba_torso.vtf,904,904
+materials/models/grandpiano/129FEDB1_c.bmp,1590,1590
+materials/models/grandpiano/19B69EAE_c.001.bmp,3126,3126
+materials/models/grandpiano/19B69EAE_c.bmp,3126,3126
+materials/models/grandpiano/2E2B7088_c.bmp,1590,1590
+materials/models/grandpiano/4106173_c.001.bmp,1590,1590
+materials/models/grandpiano/4106173_c.002.bmp,1590,1590
+materials/models/grandpiano/4106173_c.bmp,1590,1590
+materials/models/grandpiano/49A1270A_c.bmp,3126,3126
+materials/models/grandpiano/50071BE4_c.bmp,1590,1590
+materials/models/grandpiano/70C6C16_c.bmp,1590,1590
+materials/models/grandpiano/7511B23A_c.bmp,3126,3126
+materials/models/grandpiano/9757637_c.bmp,1590,1590
+materials/models/grandpiano/material_1.vmt,74,74
+materials/models/grandpiano/material_1.vtf,504,504
+materials/models/grandpiano/material_2.vmt,74,74
+materials/models/grandpiano/material_2.vtf,504,504
+materials/models/grandpiano/Shape.054.vmt,73,73
+materials/models/grandpiano/Shape.054.vtf,904,904
+materials/models/grandpiano/Shape.055.vmt,73,73
+materials/models/grandpiano/Shape.055.vtf,904,904
+materials/models/grandpiano/Shape.056.vmt,73,73
+materials/models/grandpiano/Shape.056.vtf,904,904
+materials/models/grandpiano/Shape.058.vmt,73,73
+materials/models/grandpiano/Shape.058.vtf,504,504
+materials/models/grandpiano/Shape.059.vmt,73,73
+materials/models/grandpiano/Shape.059.vtf,504,504
+materials/models/grandpiano/Shape.060.vmt,73,73
+materials/models/grandpiano/Shape.060.vtf,504,504
+materials/models/grandpiano/Shape.061.vmt,73,73
+materials/models/grandpiano/Shape.061.vtf,504,504
+materials/models/grandpiano/Shape.062.vmt,73,73
+materials/models/grandpiano/Shape.062.vtf,504,504
+materials/models/grandpiano/Shape.064.vmt,73,73
+materials/models/grandpiano/Shape.064.vtf,504,504
+materials/models/grandpiano/Shape.065.vmt,73,73
+materials/models/grandpiano/Shape.065.vtf,904,904
+materials/models/grandpiano/Shape.vmt,69,69
+materials/models/grandpiano/Shape.vtf,504,504
+materials/models/jolly_roger_painting/2db147b5_c.vmt,70,70
+materials/models/jolly_roger_painting/b6ac8bd_c.vmt,69,69
+materials/models/keydoor_prop/24b12b6d_c.vmt,70,70
+materials/models/keydoor_prop/2ce113a2_c.vmt,70,70
+materials/models/keydoor_prop/6ae21407_c.vmt,70,70
+materials/models/keydoor_prop/betonreling.vmt,69,69
+materials/models/keydoor_prop/deur.vmt,62,62
+materials/models/koopa_troopa/Material01.vmt,76,76
+materials/models/koopa_troopa/Material01.vtf,349760,349760
+materials/models/lakitu/lakitu_arm.vmt,70,70
+materials/models/lakitu/lakitu_arm.vtf,43912,43912
+materials/models/lakitu/lakitu_camera1.vmt,74,74
+materials/models/lakitu/lakitu_camera1.vtf,43912,43912
+materials/models/lakitu/lakitu_camera2.vmt,74,74
+materials/models/lakitu/lakitu_camera2.vtf,43912,43912
+materials/models/lakitu/lakitu_camera3.vmt,74,74
+materials/models/lakitu/lakitu_camera3.vtf,43912,43912
+materials/models/lakitu/lakitu_camera4.vmt,74,74
+materials/models/lakitu/lakitu_camera4.vtf,43912,43912
+materials/models/lakitu/lakitu_camera5.bmp,822,822
+materials/models/lakitu/lakitu_camera5.vmt,74,74
+materials/models/lakitu/lakitu_camera5.vtf,392,392
+materials/models/lakitu/lakitu_camera6.vmt,74,74
+materials/models/lakitu/lakitu_camera6.vtf,43912,43912
+materials/models/lakitu/lakitu_cloud - Copy.bmp,3126,3126
+materials/models/lakitu/lakitu_cloud.bmp,3126,3126
+materials/models/lakitu/lakitu_cloud.vmt,91,91
+materials/models/lakitu/lakitu_cloud.vtf,1232,1232
+materials/models/lakitu/lakitu_eyes.vmt,88,88
+materials/models/lakitu/lakitu_eyes.vtf,2912,2912
+materials/models/lakitu/lakitu_head.vmt,71,71
+materials/models/lakitu/lakitu_head.vtf,43912,43912
+materials/models/lakitu/lakitu_head_small.bmp,3126,3126
+materials/models/lakitu/lakitu_rod.vmt,70,70
+materials/models/lakitu/lakitu_rod.vtf,43912,43912
+materials/models/lakitu/lakitu_shell.vmt,72,72
+materials/models/lakitu/lakitu_shell.vtf,904,904
+materials/models/lakitu/lakitu_shelll.bmp,3126,3126
+materials/models/lakitu/lakitu_underside.vmt,76,76
+materials/models/lakitu/lakitu_underside.vtf,43912,43912
+materials/models/Mario2015/Buttons.vmt,71,71
+materials/models/Mario2015/Buttons.vtf,720,720
+materials/models/Mario2015/Eyes.vmt,67,67
+materials/models/Mario2015/Eyes.vtf,720,720
+materials/models/Mario2015/Gloves.vmt,69,69
+materials/models/Mario2015/Gloves.vtf,720,720
+materials/models/Mario2015/Hair.vmt,67,67
+materials/models/Mario2015/Hair.vtf,720,720
+materials/models/Mario2015/Hair_Piece.vmt,73,73
+materials/models/Mario2015/Hair_Piece.vtf,720,720
+materials/models/Mario2015/Information.txt,332,332
+materials/models/Mario2015/Logo.vmt,67,67
+materials/models/Mario2015/Logo.vtf,720,720
+materials/models/Mario2015/Moustache.vmt,72,72
+materials/models/Mario2015/Moustache.vtf,720,720
+materials/models/Mario2015/Overalls.vmt,71,71
+materials/models/Mario2015/Overalls.vtf,720,720
+materials/models/Mario2015/Shirt_Cap.vmt,72,72
+materials/models/Mario2015/Shirt_Cap.vtf,720,720
+materials/models/Mario2015/Shoes.vmt,68,68
+materials/models/Mario2015/Shoes.vtf,720,720
+materials/models/Mario2015/Skin.vmt,67,67
+materials/models/Mario2015/Skin.vtf,720,720
+materials/models/Mario2015/Textures/Chart Reference.txt,330,330
+materials/models/Mario2015/Textures/Eyes.vtf,1168,1168
+materials/models/Mario2015/Textures/Eyes4.vtf,2256,2256
+materials/models/MarioDoor/Frame.vmt,85,85
+materials/models/MarioDoor/Frame.vtf,349760,349760
+materials/models/MarioDoor/Indent1.vmt,87,87
+materials/models/MarioDoor/Indent1.vtf,11144,11144
+materials/models/MarioDoor/Indent2.vmt,87,87
+materials/models/MarioDoor/Indent2.vtf,11144,11144
+materials/models/mario_boo/boo1.vmt,67,67
+materials/models/mario_boo/boo1.vtf,2952,2952
+materials/models/mario_boo/boo2.vmt,67,67
+materials/models/mario_boo/boo2.vtf,2952,2952
+materials/models/mario_boo/boo_mouthface.vmt,76,76
+materials/models/mario_boo/boo_mouthface.vtf,43912,43912
+materials/models/mario_boo/boo_white.bmp,3126,3126
+materials/models/mario_boo/logo.vmt,70,70
+materials/models/mario_boo/logo.vtf,22080,22080
+materials/models/mario_boo/Material.vmt,74,74
+materials/models/mario_boo/Moustache.vmt,74,74
+materials/models/mario_boo/Moustache.vtf,2952,2952
+materials/models/mario_boo/Shirt_Cap.vmt,72,72
+materials/models/mario_boo/Shirt_Cap.vtf,720,720
+materials/models/mario_boo/white.vmt,68,68
+materials/models/mario_boo/white.vtf,904,904
+materials/models/mario_textsign/boosign.vmt,71,71
+materials/models/mario_textsign/signwood.vmt,72,72
+materials/models/parasol/parasol.vmt,68,68
+materials/models/parasol/parasol.vtf,22080,22080
+materials/models/peach/1094FD3E_c.bmp,3126,3126
+materials/models/peach/319A8452_c.bmp,3126,3126
+materials/models/peach/3E1D682D_a.bmp,822,822
+materials/models/peach/3E1D682D_c.bmp,822,822
+materials/models/peach/4539FE73_c.bmp,3126,3126
+materials/models/peach/4B89729C_c.bmp,3126,3126
+materials/models/peach/5F49004F_c.bmp,822,822
+materials/models/peach/6DE40157_a.bmp,822,822
+materials/models/peach/6DE40157_c.bmp,822,822
+materials/models/peach/7321139D_c.bmp,3126,3126
+materials/models/peach/7B7E597C_c.bmp,3126,3126
+materials/models/peach/peach_arm.vmt,68,68
+materials/models/peach/peach_arm.vtf,904,904
+materials/models/peach/peach_crown.vmt,70,70
+materials/models/peach/peach_crown.vtf,904,904
+materials/models/peach/peach_earring.vmt,72,72
+materials/models/peach/peach_earring.vtf,904,904
+materials/models/peach/peach_eye2.vmt,69,69
+materials/models/peach/peach_eye2.vtf,11144,11144
+materials/models/peach/peach_eye3.vmt,69,69
+materials/models/peach/peach_eye3.vtf,11144,11144
+materials/models/peach/peach_eyes.vmt,69,69
+materials/models/peach/peach_eyes.vtf,11144,11144
+materials/models/peach/peach_glove.vmt,70,70
+materials/models/peach/peach_glove.vtf,904,904
+materials/models/peach/peach_hair.vmt,69,69
+materials/models/peach/peach_hair.vtf,904,904
+materials/models/peach/peach_mouth.vmt,70,70
+materials/models/peach/peach_mouth.vtf,11144,11144
+materials/models/peach/peach_neck.vmt,69,69
+materials/models/peach/peach_neck.vtf,904,904
+materials/models/peach/peach_nose.vmt,69,69
+materials/models/peach/peach_nose.vtf,392,392
+materials/models/peach/peach_pearl.vmt,70,70
+materials/models/peach/peach_pearl.vtf,2952,2952
+materials/models/peach/pink_dress.vmt,69,69
+materials/models/peach/pink_dress.vtf,904,904
+materials/models/peach/pyramidslope.vmt,72,72
+materials/models/peach_giant_painting/3f1b67a3_c.vmt,70,70
+materials/models/peach_giant_painting/4800fa99_c.vmt,70,70
+materials/models/peach_giant_painting/49345f82_c.vmt,70,70
+materials/models/peach_giant_painting/4fa6bd20_c.vmt,70,70
+materials/models/peach_giant_window/princesboven.vmt,89,89
+materials/models/peach_giant_window/princessonder.vmt,90,90
+materials/models/peach_painting/3f1b67a3_c.vmt,70,70
+materials/models/peach_painting/4800fa99_c.vmt,70,70
+materials/models/peach_painting/49345f82_c.vmt,70,70
+materials/models/peach_painting/4fa6bd20_c.vmt,70,70
+materials/models/peach_window/77928504_c.vmt,89,89
+materials/models/piano/129FEDB1_a.bmp,1590,1590
+materials/models/piano/129FEDB1_c.bmp,1590,1590
+materials/models/piano/2E2B7088_a.bmp,1590,1590
+materials/models/piano/2E2B7088_c.bmp,1590,1590
+materials/models/piano/4106173_a.bmp,1590,1590
+materials/models/piano/4106173_c.bmp,1590,1590
+materials/models/piano/50071BE4_a.bmp,1590,1590
+materials/models/piano/50071BE4_c.bmp,1590,1590
+materials/models/piano/7511B23A_a.bmp,3126,3126
+materials/models/piano/7511B23A_c.bmp,3126,3126
+materials/models/piano/9757637_a.bmp,1590,1590
+materials/models/piano/9757637_c.bmp,1590,1590
+materials/models/piano/pianokey.vmt,67,67
+materials/models/piano/pianokey.vtf,504,504
+materials/models/piano/pianokeyfront.vmt,72,72
+materials/models/piano/pianokeyfront.vtf,504,504
+materials/models/piano/pianokeyside.vmt,71,71
+materials/models/piano/pianokeyside.vtf,504,504
+materials/models/piano/pianomat1.vmt,68,68
+materials/models/piano/pianomat1.vtf,904,904
+materials/models/piano/pianoshiny.vmt,69,69
+materials/models/piano/pianoshiny.vtf,504,504
+materials/models/piano/pianotongue.vmt,70,70
+materials/models/piano/pianotongue.vtf,504,504
+materials/models/piano/pianounderside.vmt,73,73
+materials/models/piano/pianounderside.vtf,504,504
+materials/models/piano/Pluto.vmt,75,75
+materials/models/pink_skirt/default.vtf,699272,699272
+materials/models/pink_skirt/pink_skirt.vmt,74,74
+materials/models/pink_skirt/pink_skirt.vtf,16592,16592
+materials/models/PLAYER/BULMA/GLASS.vmt,215,215
+materials/models/PLAYER/BULMA/glass_C.vtf,43856,43856
+materials/models/PLAYER/BULMA/glass_S.vtf,808,808
+materials/models/Pluto.vmt,75,75
+materials/models/Pluto.vtf,87544,87544
+materials/models/props/generated_prop/6ae21407_c.vmt,70,70
+materials/models/props/generated_prop/bh_box.vmt,62,62
+materials/models/props/generated_prop/door.vmt,66,66
+materials/models/props/generated_prop/metaltrain001a.vmt,432,432
+materials/models/props/generated_prop/pyramid.vmt,67,67
+materials/models/props/generated_prop/pyramidslope.vmt,72,72
+materials/models/props/generated_prop/redbox1.vmt,59,59
+materials/models/props/generated_prop/redbox2.vmt,59,59
+materials/models/props/orangebox_prop/orangebox1.vmt,62,62
+materials/models/props/orangebox_prop/orangebox2.vmt,62,62
+materials/models/rainbow_ride/11745A3C_c.bmp,3126,3126
+materials/models/rainbow_ride/2AD3483F_c.bmp,3126,3126
+materials/models/rainbow_ride/2E10FD6_c.bmp,3126,3126
+materials/models/rainbow_ride/2E79FCED_c.bmp,3126,3126
+materials/models/rainbow_ride/3B3AF287_c.bmp,3126,3126
+materials/models/rainbow_ride/4AF58EDD_c.bmp,3126,3126
+materials/models/rainbow_ride/4B56A313_c.bmp,3126,3126
+materials/models/rainbow_ride/55AEB80_c.bmp,3126,3126
+materials/models/rainbow_ride/5885DD15_c.bmp,3126,3126
+materials/models/rainbow_ride/62F30CA6_c.bmp,3126,3126
+materials/models/rainbow_ride/6F9BC4D8_c.bmp,6198,6198
+materials/models/rainbow_ride/7E3D9464_c.bmp,3126,3126
+materials/models/rainbow_ride/7F15CDE6_c.bmp,3126,3126
+materials/models/rainbow_ride/brown_floor.vmt,77,77
+materials/models/rainbow_ride/brown_floor.vtf,720,720
+materials/models/rainbow_ride/carpet.vmt,72,72
+materials/models/rainbow_ride/carpet.vtf,720,720
+materials/models/rainbow_ride/checkered_floor.vmt,81,81
+materials/models/rainbow_ride/checkered_floor.vtf,720,720
+materials/models/rainbow_ride/D722F09_c.bmp,3126,3126
+materials/models/rainbow_ride/glass_C.vtf,43856,43856
+materials/models/rainbow_ride/grating.vmt,73,73
+materials/models/rainbow_ride/grating.vtf,1168,1168
+materials/models/rainbow_ride/grey_brick.vmt,76,76
+materials/models/rainbow_ride/grey_brick.vtf,720,720
+materials/models/rainbow_ride/multicolour.vmt,77,77
+materials/models/rainbow_ride/multicolour.vtf,720,720
+materials/models/rainbow_ride/pebble_path.vmt,77,77
+materials/models/rainbow_ride/pebble_path.vtf,720,720
+materials/models/rainbow_ride/rocky_white.vmt,77,77
+materials/models/rainbow_ride/rocky_white.vtf,720,720
+materials/models/rainbow_ride/ship_wood.vmt,75,75
+materials/models/rainbow_ride/ship_wood.vtf,720,720
+materials/models/rainbow_ride/trans_green.vmt,77,77
+materials/models/rainbow_ride/trans_green.vtf,720,720
+materials/models/rainbow_ride/trans_rainbow.vmt,79,79
+materials/models/rainbow_ride/trans_rainbow.vtf,720,720
+materials/models/rainbow_ride/weird_texture.vmt,79,79
+materials/models/rainbow_ride/weird_texture.vtf,720,720
+materials/models/rainbow_ship/Boat1.vmt,71,71
+materials/models/rainbow_ship/Boat1.vtf,904,904
+materials/models/rainbow_ship/Boat2.vmt,71,71
+materials/models/rainbow_ship/Boat2.vtf,904,904
+materials/models/rainbow_ship/Box1.vmt,70,70
+materials/models/rainbow_ship/Box1.vtf,904,904
+materials/models/rainbow_ship/Eyes.vtf,1168,1168
+materials/models/rainbow_ship/Pole1.vmt,71,71
+materials/models/rainbow_ship/Pole1.vtf,904,904
+materials/models/rainbow_ship/rainbow_top.vmt,77,77
+materials/models/rainbow_ship/rainbow_top.vtf,904,904
+materials/models/rainbow_ship/Red1.vmt,70,70
+materials/models/rainbow_ship/Red1.vtf,392,392
+materials/models/rainbow_ship/Rings1.vmt,91,91
+materials/models/rainbow_ship/Rings1.vtf,1600,1600
+materials/models/rainbow_ship/Wings1.vmt,91,91
+materials/models/rainbow_ship/Wings1.vtf,2912,2912
+materials/models/rainbow_ship/Wings2.vmt,91,91
+materials/models/rainbow_ship/Wings2.vtf,2912,2912
+materials/models/rainbow_ship/Wings3.vmt,91,91
+materials/models/rainbow_ship/Wings3.vtf,2912,2912
+materials/models/rainbow_ship/Wings4.vmt,91,91
+materials/models/rainbow_ship/Wings4.vtf,2912,2912
+materials/models/rainbow_ship/Wings5.vmt,91,91
+materials/models/rainbow_ship/Wings5.vtf,2912,2912
+materials/models/rainbow_ship/Wings6.vmt,92,92
+materials/models/rainbow_ship/Wings6.vtf,2912,2912
+materials/models/redbox/redbox1.vmt,59,59
+materials/models/redbox/redbox2.vmt,59,59
+materials/models/sandbox1/boomb_box.vmt,61,61
+materials/models/sandbox2/boomb_box.vmt,61,61
+materials/models/shadertest/envball_1.vmt,187,187
+materials/models/shadertest/envball_1.vtf,174968,174968
+materials/models/shadertest/envball_2.vmt,191,191
+materials/models/shadertest/envball_2.vtf,174968,174968
+materials/models/shadertest/envball_3.vmt,467,467
+materials/models/shadertest/envball_3.vtf,174968,174968
+materials/models/shadertest/envball_4.vmt,185,185
+materials/models/shadertest/envball_4.vtf,174968,174968
+materials/models/shadertest/envball_5.vmt,188,188
+materials/models/shadertest/envball_5.vtf,174968,174968
+materials/models/shadertest/envball_6.vmt,267,267
+materials/models/shadertest/envball_6.vtf,174968,174968
+materials/models/shadertest/envball_6_normal.vmt,80,80
+materials/models/shadertest/envball_6_normal.vtf,1398292,1398292
+materials/models/shadertest/shieldnoise0_normal.vtf,2534212,2534212
+materials/models/shifting_box_l/boomb_box.vmt,61,61
+materials/models/shifting_box_s/boomb_box.vmt,61,61
+materials/models/shifting_cylinder/77928504_c.vmt,89,89
+materials/models/shifting_cylinder/cylinder_face.vmt,103,103
+materials/models/shifting_cylinder/cylinder_face.vtf,1232,1232
+materials/models/shifting_cylinder/cylinder_side.vmt,84,84
+materials/models/shifting_cylinder/cylinder_side.vtf,720,720
+materials/models/shifting_cylinder/cylinder_surface.vmt,87,87
+materials/models/shifting_cylinder/cylinder_surface.vtf,1168,1168
+materials/models/shifting_rollbox/angry_box.vmt,69,69
+materials/models/shifting_rollbox/inside_box.vmt,70,70
+materials/models/shifting_rollbox/sad_box.vmt,67,67
+materials/models/shifting_rollbox/shifting_hexagon.vmt,76,76
+materials/models/shifting_rollbox/top_box.vmt,67,67
+materials/models/shifting_tree/palm_tree.vmt,102,102
+materials/models/sh_block/angry_box.vmt,69,69
+materials/models/sh_block/inside_box.vmt,70,70
+materials/models/sh_block/sad_box.vmt,67,67
+materials/models/sh_block/shifting_hexagon.vmt,76,76
+materials/models/sh_block/top_box.vmt,67,67
+materials/models/small_cloud/white.vmt,61,61
+materials/models/small_cloud/white_texture.vmt,59,59
+materials/models/star/3ED452ED_a.bmp,6198,6198
+materials/models/star/3ED452ED_c.bmp,6198,6198
+materials/models/star/713E77D_a.bmp,3126,3126
+materials/models/star/713E77D_c.bmp,3126,3126
+materials/models/star/Eyes.vtf,1168,1168
+materials/models/star/star1.vmt,99,99
+materials/models/star/star1.vtf,2912,2912
+materials/models/star/star2.vmt,99,99
+materials/models/star/star2.vtf,1600,1600
+materials/models/super_mario/1F4DD25_a.bmp,3126,3126
+materials/models/super_mario/1F4DD25_c.bmp,3126,3126
+materials/models/super_mario/2A2B1A4B_a.bmp,3126,3126
+materials/models/super_mario/2A2B1A4B_c.bmp,3126,3126
+materials/models/super_mario/2DDFD287_a.bmp,3126,3126
+materials/models/super_mario/2DDFD287_c.bmp,3126,3126
+materials/models/super_mario/34168B2E_a.bmp,3126,3126
+materials/models/super_mario/34168B2E_c.bmp,3126,3126
+materials/models/super_mario/74475AEC_a.bmp,3126,3126
+materials/models/super_mario/74475AEC_c.bmp,3126,3126
+materials/models/super_mario/button.vmt,90,90
+materials/models/super_mario/button.vtf,904,904
+materials/models/super_mario/Gloves.vmt,71,71
+materials/models/super_mario/Gloves.vtf,720,720
+materials/models/super_mario/Hair.vmt,69,69
+materials/models/super_mario/Hair.vtf,720,720
+materials/models/super_mario/logo.vmt,72,72
+materials/models/super_mario/logo.vtf,22080,22080
+materials/models/super_mario/mario_eyes.vmt,75,75
+materials/models/super_mario/mario_eyes.vtf,2952,2952
+materials/models/super_mario/Moustache.vmt,74,74
+materials/models/super_mario/Moustache.vtf,2952,2952
+materials/models/super_mario/Overalls.vmt,71,71
+materials/models/super_mario/Overalls.vtf,720,720
+materials/models/super_mario/Shirt_Cap.vmt,74,74
+materials/models/super_mario/Shirt_Cap.vtf,720,720
+materials/models/super_mario/Shoes.vmt,70,70
+materials/models/super_mario/Shoes.vtf,720,720
+materials/models/super_mario/sideburns.vmt,93,93
+materials/models/super_mario/sideburns.vtf,2952,2952
+materials/models/super_mario/Skin.vmt,69,69
+materials/models/super_mario/Skin.vtf,720,720
+materials/models/super_mario/star2.vmt,99,99
+materials/models/ticktock_box/ticktock_box_side.vmt,72,72
+materials/models/ticktock_box/ticktock_pendulum.vmt,72,72
+materials/models/ticktock_box/tt_hexagon.vmt,65,65
+materials/models/ticktock_painting/34ba9661_c.vmt,70,70
+materials/models/ticktock_painting/78c61e55_c.vmt,70,70
+materials/models/ticktock_pend/49254a53_c.vmt,70,70
+materials/models/ticktock_pend/pendulum_yellow.vmt,70,70
+materials/models/ticktock_pend/ticktock_pen_bar.vmt,71,71
+materials/models/ticktock_pend/tt_woodwall.vmt,66,66
+materials/models/ticktock_triangle/screw.vmt,79,79
+materials/models/ticktock_triangle/ticktock_pendulum.vmt,72,72
+materials/models/ticktock_triangle/ticktock_pen_bar.vmt,71,71
+materials/models/ticktock_triangle/tt_hexagon.vmt,65,65
+materials/models/tiny_huge_island/35fa7315_c.vmt,70,70
+materials/models/tiny_huge_island/7ef5c8a8_c.vmt,70,70
+materials/models/toadstool/1C72995D_c.bmp,3126,3126
+materials/models/toadstool/26E73DFA_c.bmp,3126,3126
+materials/models/toadstool/blackhawk.vmt,221,221
+materials/models/toadstool/toadstool_arms.vmt,77,77
+materials/models/toadstool/toadstool_arms.vtf,904,904
+materials/models/toadstool/toadstool_bottom.vmt,79,79
+materials/models/toadstool/toadstool_bottom.vtf,904,904
+materials/models/toadstool/toadstool_chest.vmt,78,78
+materials/models/toadstool/toadstool_chest.vtf,904,904
+materials/models/toadstool/toadstool_coat.vmt,77,77
+materials/models/toadstool/toadstool_coat.vtf,904,904
+materials/models/toadstool/toadstool_face.vmt,77,77
+materials/models/toadstool/toadstool_face.vtf,2952,2952
+materials/models/toadstool/toadstool_hat.vmt,76,76
+materials/models/toadstool/toadstool_hat.vtf,2952,2952
+materials/models/toadstool/toadstool_shoes.vmt,78,78
+materials/models/toadstool/toadstool_shoes.vtf,904,904
+materials/models/whomps_painting/192bcc90_c.vmt,70,70
+materials/models/whomps_painting/60b5d4f9_c.vmt,70,70
+materials/models/Wings1.vmt,72,72
+materials/models/Wings1.vtf,1528,1528
+materials/models/yoshi/arms/arms.vmt,164,164
+materials/models/yoshi/arms/arms.vtf,699272,699272
+materials/models/yoshi/arms/arms_normal.vtf,699272,699272
+materials/models/yoshi/arms.vmt,164,164
+materials/models/yoshi/arms.vtf,699272,699272
+materials/models/yoshi/ct_sas.vmt,291,291
+materials/models/yoshi/ct_sas.vtf,699272,699272
+materials/models/yoshi/ct_sas_glass.vmt,254,254
+materials/models/yoshi/ct_sas_glass.vtf,22080,22080
+materials/models/yoshi/eggshell.vmt,86,86
+materials/models/yoshi/eggshell.vtf,22080,22080
+materials/models/yoshi/material.vmt,67,67
+materials/models/yoshi/material.vtf,349760,349760
+materials/moltard/boss_hp.vmt,360,360
+materials/moltard/boss_hp.vtf,219072,219072
+materials/rainbow_road.vmt,81,81
+materials/rainbow_road.vtf,720,720
+materials/shiftingsands/acknowledgement.vmt,90,90
+materials/shiftingsands/acknowledgement.vtf,349688,349688
+materials/shiftingsands/angry_box.vmt,71,71
+materials/shiftingsands/angry_box.vtf,1528,1528
+materials/shiftingsands/bluetexture.vmt,269,269
+materials/shiftingsands/bluetexture.vtf,904,904
+materials/shiftingsands/coin.vmt,97,97
+materials/shiftingsands/coin.vtf,904,904
+materials/shiftingsands/fence.vmt,84,84
+materials/shiftingsands/fence.vtf,1600,1600
+materials/shiftingsands/hl_decal1.vmt,84,84
+materials/shiftingsands/hl_decal1.vtf,22008,22008
+materials/shiftingsands/hl_decal2.vmt,103,103
+materials/shiftingsands/hl_decal2.vtf,1398272,1398272
+materials/shiftingsands/inside_box.vmt,72,72
+materials/shiftingsands/inside_box.vtf,904,904
+materials/shiftingsands/metalplatform.vmt,75,75
+materials/shiftingsands/metalplatform.vtf,904,904
+materials/shiftingsands/music.vmt,67,67
+materials/shiftingsands/music.vtf,43832,43832
+materials/shiftingsands/nintendo.vmt,70,70
+materials/shiftingsands/nintendo.vtf,87544,87544
+materials/shiftingsands/palm_tree.vmt,104,104
+materials/shiftingsands/palm_tree.vtf,2912,2912
+materials/shiftingsands/platformside.vmt,74,74
+materials/shiftingsands/platformside.vtf,904,904
+materials/shiftingsands/Pluto.vmt,75,75
+materials/shiftingsands/pyramid.vmt,69,69
+materials/shiftingsands/pyramid.vtf,904,904
+materials/shiftingsands/pyramiddecal.vmt,106,106
+materials/shiftingsands/pyramiddecal.vtf,904,904
+materials/shiftingsands/pyramidfence.vmt,106,106
+materials/shiftingsands/pyramidfence.vtf,1600,1600
+materials/shiftingsands/pyramidrailing.vmt,93,93
+materials/shiftingsands/pyramidrailing.vtf,1600,1600
+materials/shiftingsands/pyramidsand.vmt,73,73
+materials/shiftingsands/pyramidsand.vtf,904,904
+materials/shiftingsands/pyramidsandmove.vmt,285,285
+materials/shiftingsands/pyramidsandmove.vtf,904,904
+materials/shiftingsands/pyramidslope.vmt,74,74
+materials/shiftingsands/pyramidslope.vtf,904,904
+materials/shiftingsands/pyramidtexture.vmt,76,76
+materials/shiftingsands/pyramidtexture.vtf,904,904
+materials/shiftingsands/pyramidtiling.vmt,75,75
+materials/shiftingsands/pyramidtiling.vtf,904,904
+materials/shiftingsands/quicksand.vmt,248,248
+materials/shiftingsands/quicksand.vtf,904,904
+materials/shiftingsands/quotes.vmt,68,68
+materials/shiftingsands/quotes.vtf,174904,174904
+materials/shiftingsands/redcolour.vmt,108,108
+materials/shiftingsands/redcolour.vtf,699232,699232
+materials/shiftingsands/report.vmt,68,68
+materials/shiftingsands/report.vtf,8304,8304
+materials/shiftingsands/report1.vmt,82,82
+materials/shiftingsands/report1.vtf,8304,8304
+materials/shiftingsands/rock.vmt,66,66
+materials/shiftingsands/rock.vtf,904,904
+materials/shiftingsands/sad_box.vmt,69,69
+materials/shiftingsands/sad_box.vtf,1528,1528
+materials/shiftingsands/sand123.vmt,69,69
+materials/shiftingsands/sand123.vtf,904,904
+materials/shiftingsands/sandbox.vmt,69,69
+materials/shiftingsands/sandbox.vtf,904,904
+materials/shiftingsands/sandfloor.vmt,71,71
+materials/shiftingsands/sandfloor.vtf,904,904
+materials/shiftingsands/Shape.vmt,67,67
+materials/shiftingsands/Shape.vtf,904,904
+materials/shiftingsands/shifting_hexagon.vmt,78,78
+materials/shiftingsands/shifting_hexagon.vtf,904,904
+materials/shiftingsands/TextureTest2.vmt,268,268
+materials/shiftingsands/TextureTest2.vtf,1600,1600
+materials/shiftingsands/top_box.vmt,69,69
+materials/shiftingsands/top_box.vtf,1528,1528
+materials/shiftingsands/tower.vmt,67,67
+materials/shiftingsands/tower.vtf,904,904
+materials/shiftingsands/towermarked.vmt,73,73
+materials/shiftingsands/towermarked.vtf,904,904
+materials/skybox/bh_sky1.vmt,56,56
+materials/skybox/bh_sky1.vtf,11064,11064
+materials/skybox/bh_sky2.vmt,56,56
+materials/skybox/bh_sky2.vtf,11064,11064
+materials/skybox/bh_sky3.vmt,56,56
+materials/skybox/bh_sky3.vtf,11064,11064
+materials/skybox/bh_sky4.vmt,56,56
+materials/skybox/bh_sky4.vtf,11064,11064
+materials/skybox/BowserFive.vmt,61,61
+materials/skybox/BowserFive.vtf,904,904
+materials/skybox/BowserFour.vmt,60,60
+materials/skybox/BowserFour.vtf,904,904
+materials/skybox/BowserOne.vmt,56,56
+materials/skybox/BowserOne.vtf,904,904
+materials/skybox/BowserSix.vmt,60,60
+materials/skybox/BowserSix.vtf,904,904
+materials/skybox/BowserThree.vmt,62,62
+materials/skybox/BowserThree.vtf,904,904
+materials/skybox/BowserTwo.vmt,60,60
+materials/skybox/BowserTwo.vtf,904,904
+materials/skybox/bowser_in_sky1.vmt,63,63
+materials/skybox/bowser_in_sky1.vtf,5624,5624
+materials/skybox/bowser_in_sky2.vmt,63,63
+materials/skybox/bowser_in_sky2.vtf,5624,5624
+materials/skybox/bowser_in_sky3.vmt,63,63
+materials/skybox/bowser_in_sky3.vtf,5624,5624
+materials/skybox/bowser_in_sky4.vmt,63,63
+materials/skybox/bowser_in_sky4.vtf,5624,5624
+materials/skybox/bowser_in_sky5.vmt,63,63
+materials/skybox/bowser_in_sky5.vtf,5624,5624
+materials/skybox/bowser_in_sky6.vmt,63,63
+materials/skybox/bowser_in_sky6.vtf,5624,5624
+materials/skybox/bowser_in_sky7.vmt,63,63
+materials/skybox/bowser_in_sky7.vtf,5624,5624
+materials/skybox/bowser_in_sky8.vmt,63,63
+materials/skybox/bowser_in_sky8.vtf,5624,5624
+materials/skybox/desert_sky1.vmt,60,60
+materials/skybox/desert_sky1.vtf,11064,11064
+materials/skybox/desert_sky2.vmt,60,60
+materials/skybox/desert_sky2.vtf,11064,11064
+materials/skybox/desert_sky3.vmt,60,60
+materials/skybox/desert_sky3.vtf,11064,11064
+materials/skybox/desert_sky4.vmt,60,60
+materials/skybox/desert_sky4.vtf,11064,11064
+materials/skybox/mariobk.vmt,87,87
+materials/skybox/MarioBK.vtf,11128,11128
+materials/skybox/mariobk_2.vmt,58,58
+materials/skybox/MarioBK_2.vtf,11128,11128
+materials/skybox/mariodn.vmt,89,89
+materials/skybox/MarioDN.vtf,11128,11128
+materials/skybox/mariodn_2.vmt,60,60
+materials/skybox/MarioDN_2.vtf,11128,11128
+materials/skybox/marioft.vmt,89,89
+materials/skybox/MarioFT.vtf,11128,11128
+materials/skybox/marioft_2.vmt,60,60
+materials/skybox/MarioFT_2.vtf,11128,11128
+materials/skybox/mariolf.vmt,87,87
+materials/skybox/MarioLF.vtf,11128,11128
+materials/skybox/mariolf_2.vmt,58,58
+materials/skybox/MarioLF_2.vtf,11128,11128
+materials/skybox/mariort.vmt,89,89
+materials/skybox/MarioRT.vtf,11128,11128
+materials/skybox/mariort_2.vmt,60,60
+materials/skybox/MarioRT_2.vtf,11128,11128
+materials/skybox/marioup.vmt,89,89
+materials/skybox/MarioUP.vtf,11128,11128
+materials/skybox/marioup_2.vmt,60,60
+materials/skybox/MarioUP_2.vtf,11128,11128
+materials/ticktock/1FEE462_c.vmt,90,90
+materials/ticktock/clock_arm.vmt,66,66
+materials/ticktock/clock_arm.vtf,904,904
+materials/ticktock/clock_glass.vmt,84,84
+materials/ticktock/clock_glass.vtf,904,904
+materials/ticktock/clock_hand.vmt,67,67
+materials/ticktock/clock_hand.vtf,904,904
+materials/ticktock/clock_mech.vmt,86,86
+materials/ticktock/clock_mech.vtf,1600,1600
+materials/ticktock/pendulum_yellow.vmt,72,72
+materials/ticktock/pendulum_yellow.vtf,504,504
+materials/ticktock/screw.vmt,81,81
+materials/ticktock/screw.vtf,2912,2912
+materials/ticktock/ticktock_bar.vmt,69,69
+materials/ticktock/ticktock_bar.vtf,1528,1528
+materials/ticktock/ticktock_blueblock.vmt,75,75
+materials/ticktock/ticktock_blueblock.vtf,1528,1528
+materials/ticktock/ticktock_blueblock_side.vmt,80,80
+materials/ticktock/ticktock_blueblock_side.vtf,904,904
+materials/ticktock/ticktock_box_side.vmt,74,74
+materials/ticktock/ticktock_box_side.vtf,1528,1528
+materials/ticktock/ticktock_clock.vmt,71,71
+materials/ticktock/ticktock_clock.vtf,904,904
+materials/ticktock/ticktock_conveyor_side.vmt,79,79
+materials/ticktock/ticktock_conveyor_side.vtf,904,904
+materials/ticktock/ticktock_conveyor_top.vmt,243,243
+materials/ticktock/ticktock_conveyor_top.vtf,904,904
+materials/ticktock/ticktock_green.vmt,71,71
+materials/ticktock/ticktock_green.vtf,824,824
+materials/ticktock/ticktock_pendulum.vmt,74,74
+materials/ticktock/ticktock_pendulum.vtf,904,904
+materials/ticktock/ticktock_pen_bar.vmt,73,73
+materials/ticktock/ticktock_pen_bar.vtf,904,904
+materials/ticktock/tt_black_gold_bars.vmt,75,75
+materials/ticktock/tt_black_gold_bars.vtf,904,904
+materials/ticktock/tt_grid.vmt,81,81
+materials/ticktock/tt_grid.vtf,1600,1600
+materials/ticktock/tt_hexagon.vmt,67,67
+materials/ticktock/tt_hexagon.vtf,904,904
+materials/ticktock/tt_shiny_brown_panel.vmt,77,77
+materials/ticktock/tt_shiny_brown_panel.vtf,904,904
+materials/ticktock/tt_shiny_white_panel.vmt,77,77
+materials/ticktock/tt_shiny_white_panel.vtf,904,904
+materials/ticktock/tt_whitepanel.vmt,70,70
+materials/ticktock/tt_whitepanel.vtf,904,904
+materials/ticktock/tt_white_brown_panel.vmt,77,77
+materials/ticktock/tt_white_brown_panel.vtf,504,504
+materials/ticktock/tt_woodwall.vmt,68,68
+materials/ticktock/tt_woodwall.vtf,904,904
+materials/white_texture.vmt,61,61
+materials/white_texture.vtf,720,720
+materials/william.vmt,55,55
+materials/william.vtf,2952,2952
+models/Bowser2/Bowser2.dx80.vtx,22340,22340
+models/Bowser2/Bowser2.dx90.vtx,22340,22340
+models/Bowser2/bowser2.mdl,15232,15232
+models/Bowser2/Bowser2.phy,23004,23004
+models/Bowser2/Bowser2.sw.vtx,22020,22020
+models/Bowser2/bowser2.vvd,106880,106880
+models/Bowser3/Bowser3.dx80.vtx,22340,22340
+models/Bowser3/Bowser3.dx90.vtx,22340,22340
+models/Bowser3/bowser3.mdl,38372,38372
+models/Bowser3/Bowser3.phy,22939,22939
+models/Bowser3/Bowser3.sw.vtx,22020,22020
+models/Bowser3/bowser3.vvd,106880,106880
+models/bh_box/bh_box.dx80.vtx,429,429
+models/bh_box/bh_box.dx90.vtx,429,429
+models/bh_box/bh_box.mdl,1736,1736
+models/bh_box/bh_box.phy,709,709
+models/bh_box/bh_box.sw.vtx,429,429
+models/bh_box/bh_box.vvd,1600,1600
+models/bh_cage/bh_cage.dx80.vtx,3402,3402
+models/bh_cage/bh_cage.dx90.vtx,3402,3402
+models/bh_cage/bh_cage.mdl,2712,2712
+models/bh_cage/bh_cage.sw.vtx,3498,3498
+models/bh_cage/bh_cage.vvd,15936,15936
+models/bh_door/bh_door.dx80.vtx,1383,1383
+models/bh_door/bh_door.dx90.vtx,1383,1383
+models/bh_door/bh_door.mdl,2124,2124
+models/bh_door/bh_door.phy,2672,2672
+models/bh_door/bh_door.sw.vtx,1383,1383
+models/bh_door/bh_door.vvd,5952,5952
+models/bh_light/bh_light.dx80.vtx,333,333
+models/bh_light/bh_light.dx90.vtx,333,333
+models/bh_light/bh_light.mdl,1744,1744
+models/bh_light/bh_light.sw.vtx,333,333
+models/bh_light/bh_light.vvd,1088,1088
+models/bh_wood/bh_wood.dx80.vtx,474,474
+models/bh_wood/bh_wood.dx90.vtx,474,474
+models/bh_wood/bh_wood.mdl,1740,1740
+models/bh_wood/bh_wood.phy,803,803
+models/bh_wood/bh_wood.sw.vtx,474,474
+models/bh_wood/bh_wood.vvd,1792,1792
+models/big_boo/boo_big.dx80.vtx,2325,2325
+models/big_boo/boo_big.dx90.vtx,2325,2325
+models/big_boo/boo_big.mdl,2096,2096
+models/big_boo/boo_big.sw.vtx,2301,2301
+models/big_boo/boo_big.vvd,11968,11968
+models/bomb_black/bomb_black.dx80.vtx,25472,25472
+models/bomb_black/bomb_black.dx90.vtx,25472,25472
+models/bomb_black/bomb_black.mdl,4672,4672
+models/bomb_black/bomb_black.sw.vtx,25432,25432
+models/bomb_black/bomb_black.vvd,134464,134464
+models/bomb_pink/bomb_pink.dx80.vtx,25472,25472
+models/bomb_pink/bomb_pink.dx90.vtx,25472,25472
+models/bomb_pink/bomb_pink.mdl,4672,4672
+models/bomb_pink/bomb_pink.sw.vtx,25432,25432
+models/bomb_pink/bomb_pink.vvd,134464,134464
+models/boo/boo.dx80.vtx,2373,2373
+models/boo/boo.dx90.vtx,2373,2373
+models/boo/boo.mdl,2092,2092
+models/boo/boo.sw.vtx,2349,2349
+models/boo/boo.vvd,12224,12224
+models/boo_boss/boo_boss.dx80.vtx,2373,2373
+models/boo_boss/boo_boss.dx90.vtx,2373,2373
+models/boo_boss/boo_boss.mdl,2100,2100
+models/boo_boss/boo_boss.sw.vtx,2349,2349
+models/boo_boss/boo_boss.vvd,12224,12224
+models/boomb_ball/boomb_ball.dx80.vtx,22911,22911
+models/boomb_ball/boomb_ball.dx90.vtx,22911,22911
+models/boomb_ball/boomb_ball.mdl,1748,1748
+models/boomb_ball/boomb_ball.phy,23453,23453
+models/boomb_ball/boomb_ball.sw.vtx,22903,22903
+models/boomb_ball/boomb_ball.vvd,121024,121024
+models/boomb_ball1/boomb_ball.dx80.vtx,22911,22911
+models/boomb_ball1/boomb_ball.dx90.vtx,22911,22911
+models/boomb_ball1/boomb_ball.mdl,1748,1748
+models/boomb_ball1/boomb_ball.phy,23453,23453
+models/boomb_ball1/boomb_ball.sw.vtx,22903,22903
+models/boomb_ball1/boomb_ball.vvd,121024,121024
+models/boomb_boss/boomb_boss.dx80.vtx,163879,163879
+models/boomb_boss/boomb_boss.dx90.vtx,163879,163879
+models/boomb_boss/boomb_boss.mdl,12928,12928
+models/boomb_boss/boomb_boss.sw.vtx,163783,163783
+models/boomb_boss/boomb_boss.vvd,870208,870208
+models/boomb_btn/boomb_btn.dx80.vtx,450,450
+models/boomb_btn/boomb_btn.dx90.vtx,450,450
+models/boomb_btn/boomb_btn.mdl,1944,1944
+models/boomb_btn/boomb_btn.phy,713,713
+models/boomb_btn/boomb_btn.sw.vtx,450,450
+models/boomb_btn/boomb_btn.vvd,1344,1344
+models/boomb_island/boomb_island.dx80.vtx,969,969
+models/boomb_island/boomb_island.dx90.vtx,969,969
+models/boomb_island/boomb_island.mdl,2140,2140
+models/boomb_island/boomb_island.phy,1725,1725
+models/boomb_island/boomb_island.sw.vtx,969,969
+models/boomb_island/boomb_island.vvd,3776,3776
+models/boomb_painting/boomb_painting.dx80.vtx,1044,1044
+models/boomb_painting/boomb_painting.dx90.vtx,1044,1044
+models/boomb_painting/boomb_painting.mdl,1892,1892
+models/boomb_painting/boomb_painting.sw.vtx,1044,1044
+models/boomb_painting/boomb_painting.vvd,3264,3264
+models/boomb_rolling/boomb_rolling.dx80.vtx,22911,22911
+models/boomb_rolling/boomb_rolling.dx90.vtx,22911,22911
+models/boomb_rolling/boomb_rolling.mdl,1756,1756
+models/boomb_rolling/boomb_rolling.sw.vtx,22903,22903
+models/boomb_rolling/boomb_rolling.vvd,121024,121024
+models/bowser4/Bowser4.dx80.vtx,22340,22340
+models/bowser4/Bowser4.dx90.vtx,22340,22340
+models/bowser4/bowser4.mdl,46124,46124
+models/bowser4/Bowser4.sw.vtx,22020,22020
+models/bowser4/bowser4.vvd,106880,106880
+models/bowser_massive_painting/bowser_massive_painting.dx80.vtx,2016,2016
+models/bowser_massive_painting/bowser_massive_painting.dx90.vtx,2016,2016
+models/bowser_massive_painting/bowser_massive_painting.mdl,2304,2304
+models/bowser_massive_painting/bowser_massive_painting.sw.vtx,2016,2016
+models/bowser_massive_painting/bowser_massive_painting.vvd,6464,6464
+models/bowser_painting_large/bowser_painting_large.dx80.vtx,540,540
+models/bowser_painting_large/bowser_painting_large.dx90.vtx,540,540
+models/bowser_painting_large/bowser_painting_large.mdl,2296,2296
+models/bowser_painting_large/bowser_painting_large.sw.vtx,540,540
+models/bowser_painting_large/bowser_painting_large.vvd,1088,1088
+models/bowser_painting_small/bowser_painting_small.dx80.vtx,540,540
+models/bowser_painting_small/bowser_painting_small.dx90.vtx,540,540
+models/bowser_painting_small/bowser_painting_small.mdl,2296,2296
+models/bowser_painting_small/bowser_painting_small.sw.vtx,540,540
+models/bowser_painting_small/bowser_painting_small.vvd,1088,1088
+models/bubble_ball/bubble_ball.dx80.vtx,22911,22911
+models/bubble_ball/bubble_ball.dx90.vtx,22911,22911
+models/bubble_ball/bubble_ball.mdl,1752,1752
+models/bubble_ball/bubble_ball.sw.vtx,22903,22903
+models/bubble_ball/bubble_ball.vvd,121024,121024
+models/cannon/cannon.dx80.vtx,1743,1743
+models/cannon/cannon.dx90.vtx,1743,1743
+models/cannon/cannon.mdl,1732,1732
+models/cannon/cannon.phy,4688,4688
+models/cannon/cannon.sw.vtx,1743,1743
+models/cannon/cannon.vvd,8384,8384
+models/cannon_strut/cannon_strut.dx80.vtx,1218,1218
+models/cannon_strut/cannon_strut.dx90.vtx,1218,1218
+models/cannon_strut/cannon_strut.mdl,1952,1952
+models/cannon_strut/cannon_strut.phy,2212,2212
+models/cannon_strut/cannon_strut.sw.vtx,1218,1218
+models/cannon_strut/cannon_strut.vvd,5184,5184
+models/castle_decoration/castle_decoration.dx80.vtx,558,558
+models/castle_decoration/castle_decoration.dx90.vtx,558,558
+models/castle_decoration/castle_decoration.mdl,1704,1704
+models/castle_decoration/castle_decoration.sw.vtx,558,558
+models/castle_decoration/castle_decoration.vvd,1664,1664
+models/castle_door/castle_door.dx80.vtx,1719,1719
+models/castle_door/castle_door.dx90.vtx,1719,1719
+models/castle_door/castle_door.mdl,2132,2132
+models/castle_door/castle_door.phy,2676,2676
+models/castle_door/castle_door.sw.vtx,1719,1719
+models/castle_door/castle_door.vvd,7744,7744
+models/castle_door2/castle_door2.dx80.vtx,1821,1821
+models/castle_door2/castle_door2.dx90.vtx,1821,1821
+models/castle_door2/castle_door2.mdl,2336,2336
+models/castle_door2/castle_door2.sw.vtx,1821,1821
+models/castle_door2/castle_door2.vvd,7936,7936
+models/castle_notice/castle_notice.dx80.vtx,558,558
+models/castle_notice/castle_notice.dx90.vtx,558,558
+models/castle_notice/castle_notice.mdl,1696,1696
+models/castle_notice/castle_notice.sw.vtx,558,558
+models/castle_notice/castle_notice.vvd,1664,1664
+models/castle_pillar/castle_pillar.dx80.vtx,528,528
+models/castle_pillar/castle_pillar.dx90.vtx,528,528
+models/castle_pillar/castle_pillar.mdl,1760,1760
+models/castle_pillar/castle_pillar.phy,1266,1266
+models/castle_pillar/castle_pillar.sw.vtx,528,528
+models/castle_pillar/castle_pillar.vvd,2048,2048
+models/castle_pillar2/castle_pillar2.dx80.vtx,2253,2253
+models/castle_pillar2/castle_pillar2.dx90.vtx,2253,2253
+models/castle_pillar2/castle_pillar2.mdl,1764,1764
+models/castle_pillar2/castle_pillar2.phy,8011,8011
+models/castle_pillar2/castle_pillar2.sw.vtx,2253,2253
+models/castle_pillar2/castle_pillar2.vvd,11328,11328
+models/castle_tree1/castle_tree1.dx80.vtx,1878,1878
+models/castle_tree1/castle_tree1.dx90.vtx,1878,1878
+models/castle_tree1/castle_tree1.mdl,1948,1948
+models/castle_tree1/castle_tree1.sw.vtx,1878,1878
+models/castle_tree1/castle_tree1.vvd,6464,6464
+models/castle_tree2/castle_tree2.dx80.vtx,975,975
+models/castle_tree2/castle_tree2.dx90.vtx,975,975
+models/castle_tree2/castle_tree2.mdl,1756,1756
+models/castle_tree2/castle_tree2.sw.vtx,975,975
+models/castle_tree2/castle_tree2.vvd,3264,3264
+models/chair/chair.dx80.vtx,1365,1365
+models/chair/chair.dx90.vtx,1365,1365
+models/chair/chair.mdl,2104,2104
+models/chair/chair.phy,1080,1080
+models/chair/chair.sw.vtx,1365,1365
+models/chair/chair.vvd,5824,5824
+models/chomp/chomp.dx80.vtx,4159,4159
+models/chomp/chomp.dx90.vtx,4159,4159
+models/chomp/chomp.mdl,3632,3632
+models/chomp/chomp.sw.vtx,4103,4103
+models/chomp/chomp.vvd,20672,20672
+models/chomp_ball/chomp_ball.dx80.vtx,23010,23010
+models/chomp_ball/chomp_ball.dx90.vtx,23010,23010
+models/chomp_ball/chomp_ball.mdl,1868,1868
+models/chomp_ball/chomp_ball.sw.vtx,22994,22994
+models/chomp_ball/chomp_ball.vvd,121152,121152
+models/courtyard_star/courtyard_star.dx80.vtx,918,918
+models/courtyard_star/courtyard_star.dx90.vtx,918,918
+models/courtyard_star/courtyard_star.mdl,1952,1952
+models/courtyard_star/courtyard_star.phy,754,754
+models/courtyard_star/courtyard_star.sw.vtx,902,902
+models/courtyard_star/courtyard_star.vvd,4160,4160
+models/eyerok_rock/eyerok_rock.dx80.vtx,450,450
+models/eyerok_rock/eyerok_rock.dx90.vtx,450,450
+models/eyerok_rock/eyerok_rock.mdl,1944,1944
+models/eyerok_rock/eyerok_rock.phy,717,717
+models/eyerok_rock/eyerok_rock.sw.vtx,450,450
+models/eyerok_rock/eyerok_rock.vvd,1344,1344
+models/eyerok_rock1/eyerok_rock1.dx80.vtx,450,450
+models/eyerok_rock1/eyerok_rock1.dx90.vtx,450,450
+models/eyerok_rock1/eyerok_rock1.mdl,1948,1948
+models/eyerok_rock1/eyerok_rock1.phy,716,716
+models/eyerok_rock1/eyerok_rock1.sw.vtx,450,450
+models/eyerok_rock1/eyerok_rock1.vvd,1344,1344
+models/eyerok_rock2/eyerok_rock2.dx80.vtx,450,450
+models/eyerok_rock2/eyerok_rock2.dx90.vtx,450,450
+models/eyerok_rock2/eyerok_rock2.mdl,1948,1948
+models/eyerok_rock2/eyerok_rock2.phy,716,716
+models/eyerok_rock2/eyerok_rock2.sw.vtx,450,450
+models/eyerok_rock2/eyerok_rock2.vvd,1344,1344
+models/eyerokl/eyerokL.dx80.vtx,4535,4535
+models/eyerokl/eyerokL.dx90.vtx,4508,4508
+models/eyerokl/eyerokl.mdl,119988,119988
+models/eyerokl/eyerokL.phy,1615,1615
+models/eyerokl/eyerokL.sw.vtx,4364,4364
+models/eyerokl/eyerokl.vvd,22464,22464
+models/eyerokr/eyerokR.dx80.vtx,4445,4445
+models/eyerokr/eyerokR.dx90.vtx,4418,4418
+models/eyerokr/eyerokr.mdl,116496,116496
+models/eyerokr/eyerokR.phy,1808,1808
+models/eyerokr/eyerokR.sw.vtx,4274,4274
+models/eyerokr/eyerokr.vvd,21824,21824
+models/flyboy/flyboy.dx80.vtx,5079,5079
+models/flyboy/flyboy.dx90.vtx,5079,5079
+models/flyboy/flyboy.mdl,3684,3684
+models/flyboy/flyboy.sw.vtx,5039,5039
+models/flyboy/flyboy.vvd,27072,27072
+models/flyboy/flyboy_new.dx80.vtx,5127,5127
+models/flyboy/flyboy_new.dx90.vtx,5127,5127
+models/flyboy/flyboy_new.mdl,3832,3832
+models/flyboy/flyboy_new.sw.vtx,5087,5087
+models/flyboy/flyboy_new.vvd,27328,27328
+models/goomba/goomba.dx80.vtx,27650,27650
+models/goomba/goomba.dx90.vtx,27650,27650
+models/goomba/goomba.mdl,4076,4076
+models/goomba/goomba.sw.vtx,27610,27610
+models/goomba/goomba.vvd,147136,147136
+models/jolly_roger_painting/jolly_roger_painting.dx80.vtx,1044,1044
+models/jolly_roger_painting/jolly_roger_painting.dx90.vtx,1044,1044
+models/jolly_roger_painting/jolly_roger_painting.mdl,1908,1908
+models/jolly_roger_painting/jolly_roger_painting.sw.vtx,1044,1044
+models/jolly_roger_painting/jolly_roger_painting.vvd,3264,3264
+models/keydoor_prop/keydoor_prop.dx80.vtx,2613,2613
+models/keydoor_prop/keydoor_prop.dx90.vtx,2613,2613
+models/keydoor_prop/keydoor_prop.mdl,2524,2524
+models/keydoor_prop/keydoor_prop.sw.vtx,2613,2613
+models/keydoor_prop/keydoor_prop.vvd,11584,11584
+models/koopa_troopa/koopa_troopa.dx80.vtx,6641,6641
+models/koopa_troopa/koopa_troopa.dx90.vtx,6641,6641
+models/koopa_troopa/koopa_troopa.mdl,6448,6448
+models/koopa_troopa/koopa_troopa.sw.vtx,6577,6577
+models/koopa_troopa/koopa_troopa.vvd,30528,30528
+models/lakitu/lakitu.dx80.vtx,7479,7479
+models/lakitu/lakitu.dx90.vtx,7479,7479
+models/lakitu/lakitu.mdl,4088,4088
+models/lakitu/lakitu.sw.vtx,7375,7375
+models/lakitu/lakitu.vvd,37312,37312
+models/large_hand/large_hand.dx80.vtx,1413,1413
+models/large_hand/large_hand.dx90.vtx,1413,1413
+models/large_hand/large_hand.mdl,1944,1944
+models/large_hand/large_hand.sw.vtx,1397,1397
+models/large_hand/large_hand.vvd,6272,6272
+models/mario_boo/mario_boo.dx80.vtx,4095,4095
+models/mario_boo/mario_boo.dx90.vtx,4095,4095
+models/mario_boo/mario_boo.mdl,2504,2504
+models/mario_boo/mario_boo.sw.vtx,4055,4055
+models/mario_boo/mario_boo.vvd,21440,21440
+models/mario_textsign/mario_textsign.dx80.vtx,690,690
+models/mario_textsign/mario_textsign.dx90.vtx,690,690
+models/mario_textsign/mario_textsign.mdl,1944,1944
+models/mario_textsign/mario_textsign.phy,1564,1564
+models/mario_textsign/mario_textsign.sw.vtx,690,690
+models/mario_textsign/mario_textsign.vvd,2624,2624
+models/parasol/parasol.dx80.vtx,18876,18876
+models/parasol/parasol.dx90.vtx,18876,18876
+models/parasol/parasol.mdl,1736,1736
+models/parasol/parasol.sw.vtx,18868,18868
+models/parasol/parasol.vvd,71936,71936
+models/peach2/peach2.dx80.vtx,23939,23939
+models/peach2/peach2.dx90.vtx,23939,23939
+models/peach2/peach2.mdl,20624,20624
+models/peach2/peach2.sw.vtx,23795,23795
+models/peach2/peach2.vvd,130880,130880
+models/peach_crown/peach_crown.dx80.vtx,933,933
+models/peach_crown/peach_crown.dx90.vtx,933,933
+models/peach_crown/peach_crown.mdl,1748,1748
+models/peach_crown/peach_crown.sw.vtx,925,925
+models/peach_crown/peach_crown.vvd,4672,4672
+models/peach_giant_painting/peach_giant_painting.dx80.vtx,2016,2016
+models/peach_giant_painting/peach_giant_painting.dx90.vtx,2016,2016
+models/peach_giant_painting/peach_giant_painting.mdl,2296,2296
+models/peach_giant_painting/peach_giant_painting.sw.vtx,2016,2016
+models/peach_giant_painting/peach_giant_painting.vvd,6464,6464
+models/peach_giant_window/peach_giant_window.dx80.vtx,1044,1044
+models/peach_giant_window/peach_giant_window.dx90.vtx,1044,1044
+models/peach_giant_window/peach_giant_window.mdl,1908,1908
+models/peach_giant_window/peach_giant_window.sw.vtx,1044,1044
+models/peach_giant_window/peach_giant_window.vvd,3264,3264
+models/peach_painting_small/peach_painting_small.dx80.vtx,2016,2016
+models/peach_painting_small/peach_painting_small.dx90.vtx,2016,2016
+models/peach_painting_small/peach_painting_small.mdl,2288,2288
+models/peach_painting_small/peach_painting_small.sw.vtx,2016,2016
+models/peach_painting_small/peach_painting_small.vvd,6464,6464
+models/peach_window/peach_window.dx80.vtx,237,237
+models/peach_window/peach_window.dx90.vtx,237,237
+models/peach_window/peach_window.mdl,1756,1756
+models/peach_window/peach_window.sw.vtx,237,237
+models/peach_window/peach_window.vvd,576,576
+models/piano/piano.dx80.vtx,3009,3009
+models/piano/piano.dx90.vtx,3009,3009
+models/piano/piano.mdl,2888,2888
+models/piano/piano.phy,2529,2529
+models/piano/piano.sw.vtx,3009,3009
+models/piano/piano.vvd,13632,13632
+models/pink_skirt/pink_skirt.dx80.vtx,5445,5445
+models/pink_skirt/pink_skirt.dx90.vtx,5445,5445
+models/pink_skirt/pink_skirt.mdl,1744,1744
+models/pink_skirt/pink_skirt.sw.vtx,5445,5445
+models/pink_skirt/pink_skirt.vvd,21824,21824
+models/props/generated_prop.dx80.vtx,450,450
+models/props/generated_prop.dx90.vtx,450,450
+models/props/generated_prop.mdl,1952,1952
+models/props/generated_prop.phy,2679,2679
+models/props/generated_prop.sw.vtx,450,450
+models/props/generated_prop.vvd,1344,1344
+models/props/orangebox/orangebox_prop.dx80.vtx,498,498
+models/props/orangebox/orangebox_prop.dx90.vtx,498,498
+models/props/orangebox/orangebox_prop.mdl,1960,1960
+models/props/orangebox/orangebox_prop.sw.vtx,498,498
+models/props/orangebox/orangebox_prop.vvd,1600,1600
+models/props/redbox_prop/generated_prop.dx80.vtx,498,498
+models/props/redbox_prop/generated_prop.dx90.vtx,498,498
+models/props/redbox_prop/generated_prop.mdl,1944,1944
+models/props/redbox_prop/generated_prop.sw.vtx,498,498
+models/props/redbox_prop/generated_prop.vvd,1600,1600
+models/rainbow_ride/rainbow_castle.dx80.vtx,9165,9165
+models/rainbow_ride/rainbow_castle.dx90.vtx,9165,9165
+models/rainbow_ride/rainbow_castle.mdl,2728,2728
+models/rainbow_ride/rainbow_castle.sw.vtx,9117,9117
+models/rainbow_ride/rainbow_castle.vvd,45312,45312
+models/rainbow_ride/rainbow_ride.dx80.vtx,130233,130233
+models/rainbow_ride/rainbow_ride.dx90.vtx,130233,130233
+models/rainbow_ride/rainbow_ride.mdl,4076,4076
+models/rainbow_ride/rainbow_ride.sw.vtx,130165,130165
+models/rainbow_ride/rainbow_ride.vvd,725312,725312
+models/rainbow_ship_second/rainbow_ship_second.dx80.vtx,5652,5652
+models/rainbow_ship_second/rainbow_ship_second.dx90.vtx,5652,5652
+models/rainbow_ship_second/rainbow_ship_second.mdl,3644,3644
+models/rainbow_ship_second/rainbow_ship_second.sw.vtx,5652,5652
+models/rainbow_ship_second/rainbow_ship_second.vvd,26112,26112
+models/redbox/redbox.dx80.vtx,498,498
+models/redbox/redbox.dx90.vtx,498,498
+models/redbox/redbox.mdl,1924,1924
+models/redbox/redbox.sw.vtx,498,498
+models/redbox/redbox.vvd,1600,1600
+models/sandbox1/sandbox1.dx80.vtx,429,429
+models/sandbox1/sandbox1.dx90.vtx,429,429
+models/sandbox1/sandbox1.mdl,1744,1744
+models/sandbox1/sandbox1.sw.vtx,429,429
+models/sandbox1/sandbox1.vvd,1600,1600
+models/sandbox2/sandbox2.dx80.vtx,429,429
+models/sandbox2/sandbox2.dx90.vtx,429,429
+models/sandbox2/sandbox2.mdl,1744,1744
+models/sandbox2/sandbox2.sw.vtx,429,429
+models/sandbox2/sandbox2.vvd,1600,1600
+models/sh_block/sh_block.dx80.vtx,2613,2613
+models/sh_block/sh_block.dx90.vtx,2613,2613
+models/sh_block/sh_block.mdl,2512,2512
+models/sh_block/sh_block.phy,3926,3926
+models/sh_block/sh_block.sw.vtx,2613,2613
+models/sh_block/sh_block.vvd,11072,11072
+models/shifting_box/shifting_box.dx80.vtx,429,429
+models/shifting_box/shifting_box.dx90.vtx,429,429
+models/shifting_box/shifting_box.mdl,1752,1752
+models/shifting_box/shifting_box.sw.vtx,429,429
+models/shifting_box/shifting_box.vvd,1600,1600
+models/shifting_box_l/shifting_box_l.dx80.vtx,429,429
+models/shifting_box_l/shifting_box_l.dx90.vtx,429,429
+models/shifting_box_l/shifting_box_l.mdl,1764,1764
+models/shifting_box_l/shifting_box_l.phy,718,718
+models/shifting_box_l/shifting_box_l.sw.vtx,429,429
+models/shifting_box_l/shifting_box_l.vvd,1600,1600
+models/shifting_box_s/shifting_box_s.dx80.vtx,429,429
+models/shifting_box_s/shifting_box_s.dx90.vtx,429,429
+models/shifting_box_s/shifting_box_s.mdl,1760,1760
+models/shifting_box_s/shifting_box_s.phy,717,717
+models/shifting_box_s/shifting_box_s.sw.vtx,429,429
+models/shifting_box_s/shifting_box_s.vvd,1600,1600
+models/shifting_cylinder/shifting_cylinder.dx80.vtx,1113,1113
+models/shifting_cylinder/shifting_cylinder.dx90.vtx,1113,1113
+models/shifting_cylinder/shifting_cylinder.mdl,2168,2168
+models/shifting_cylinder/shifting_cylinder.sw.vtx,1089,1089
+models/shifting_cylinder/shifting_cylinder.vvd,4544,4544
+models/shifting_rollbox/shifting_rollbox.dx80.vtx,2613,2613
+models/shifting_rollbox/shifting_rollbox.dx90.vtx,2613,2613
+models/shifting_rollbox/shifting_rollbox.mdl,2536,2536
+models/shifting_rollbox/shifting_rollbox.phy,711,711
+models/shifting_rollbox/shifting_rollbox.sw.vtx,2613,2613
+models/shifting_rollbox/shifting_rollbox.vvd,11072,11072
+models/shifting_tree/shifting_tree.dx80.vtx,975,975
+models/shifting_tree/shifting_tree.dx90.vtx,975,975
+models/shifting_tree/shifting_tree.mdl,1760,1760
+models/shifting_tree/shifting_tree.sw.vtx,975,975
+models/shifting_tree/shifting_tree.vvd,3264,3264
+models/small_cloud/small_cloud.dx80.vtx,9123,9123
+models/small_cloud/small_cloud.dx90.vtx,9123,9123
+models/small_cloud/small_cloud.mdl,1756,1756
+models/small_cloud/small_cloud.phy,720,720
+models/small_cloud/small_cloud.sw.vtx,9123,9123
+models/small_cloud/small_cloud.vvd,31168,31168
+models/small_hand/small_hand.dx80.vtx,1161,1161
+models/small_hand/small_hand.dx90.vtx,1161,1161
+models/small_hand/small_hand.mdl,1944,1944
+models/small_hand/small_hand.sw.vtx,1145,1145
+models/small_hand/small_hand.vvd,4992,4992
+models/star/star.dx80.vtx,966,966
+models/star/star.dx90.vtx,966,966
+models/star/star.mdl,2620,2620
+models/star/star.phy,886,886
+models/star/star.sw.vtx,950,950
+models/star/star.vvd,4416,4416
+models/super_mario/super_mario.dx80.vtx,25573,25573
+models/super_mario/super_mario.dx90.vtx,25573,25573
+models/super_mario/super_mario.mdl,19596,19596
+models/super_mario/super_mario.sw.vtx,25397,25397
+models/super_mario/super_mario.vvd,143296,143296
+models/ticktock_box/ticktock_box.dx80.vtx,1929,1929
+models/ticktock_box/ticktock_box.dx90.vtx,1929,1929
+models/ticktock_box/ticktock_box.mdl,2156,2156
+models/ticktock_box/ticktock_box.phy,6738,6738
+models/ticktock_box/ticktock_box.sw.vtx,1929,1929
+models/ticktock_box/ticktock_box.vvd,8640,8640
+models/ticktock_painting/ticktock_painting.dx80.vtx,1044,1044
+models/ticktock_painting/ticktock_painting.dx90.vtx,1044,1044
+models/ticktock_painting/ticktock_painting.mdl,1900,1900
+models/ticktock_painting/ticktock_painting.sw.vtx,1044,1044
+models/ticktock_painting/ticktock_painting.vvd,3264,3264
+models/ticktock_pend/ticktock_pend.dx80.vtx,2991,2991
+models/ticktock_pend/ticktock_pend.dx90.vtx,2991,2991
+models/ticktock_pend/ticktock_pend.mdl,2552,2552
+models/ticktock_pend/ticktock_pend.phy,5415,5415
+models/ticktock_pend/ticktock_pend.sw.vtx,2991,2991
+models/ticktock_pend/ticktock_pend.vvd,13632,13632
+models/ticktock_triangle/ticktock_triangle.dx80.vtx,2154,2154
+models/ticktock_triangle/ticktock_triangle.dx90.vtx,2154,2154
+models/ticktock_triangle/ticktock_triangle.mdl,2356,2356
+models/ticktock_triangle/ticktock_triangle.phy,4781,4781
+models/ticktock_triangle/ticktock_triangle.sw.vtx,2154,2154
+models/ticktock_triangle/ticktock_triangle.vvd,9536,9536
+models/tiny_huge_island/tiny_huge_island.dx80.vtx,1044,1044
+models/tiny_huge_island/tiny_huge_island.dx90.vtx,1044,1044
+models/tiny_huge_island/tiny_huge_island.mdl,1896,1896
+models/tiny_huge_island/tiny_huge_island.sw.vtx,1044,1044
+models/tiny_huge_island/tiny_huge_island.vvd,3264,3264
+models/toadstool/toadstool.dx80.vtx,10591,10591
+models/toadstool/toadstool.dx90.vtx,10591,10591
+models/toadstool/toadstool.mdl,6796,6796
+models/toadstool/toadstool.sw.vtx,10495,10495
+models/toadstool/toadstool.vvd,57664,57664
+models/whomps_painting/whomps_painting.dx80.vtx,1044,1044
+models/whomps_painting/whomps_painting.dx90.vtx,1044,1044
+models/whomps_painting/whomps_painting.mdl,1956,1956
+models/whomps_painting/whomps_painting.sw.vtx,1044,1044
+models/whomps_painting/whomps_painting.vvd,3264,3264
+models/yoshi_2018/yoshi_2018.dx80.vtx,76662,76662
+models/yoshi_2018/yoshi_2018.dx90.vtx,76662,76662
+models/yoshi_2018/yoshi_2018.mdl,26524,26524
+models/yoshi_2018/yoshi_2018.sw.vtx,76190,76190
+models/yoshi_2018/yoshi_2018.vvd,289664,289664
+sound/SM_sevenstars.mp3,3345097,3345097
+sound/comp_sounds/#Ultimate Bowser (Final Bowser Fight).mp3,1861210,1861210
+sound/comp_sounds/cave_dungeon.mp3,2515717,2515717
+sound/comp_sounds/explode3.wav,509932,509932
+sound/comp_sounds/Opening Theme.mp3,370955,370955
+sound/comp_sounds/smbros_theme.mp3,1441258,1441258
+sound/comp_sounds/sm_b.mp3,1538241,1538241
+sound/comp_sounds/sm_boomb.mp3,1584143,1584143
+sound/comp_sounds/sm_c.mp3,893139,893139
+sound/comp_sounds/sm_castlewalls.mp3,1337986,1337986
+sound/comp_sounds/sm_desert_lava.mp3,1965020,1965020
+sound/comp_sounds/sm_hauntedhouse.mp3,2039837,2039837
+sound/comp_sounds/sm_merrygoround.mp3,678746,678746
+sound/comp_sounds/sm_stageboss.mp3,884389,884389
+sound/comp_sounds/sm_stageboss_short.mp3,593886,593886
+sound/comp_sounds/sm_ticktockclock.mp3,1872179,1872179
+sound/course_clear.mp3,52984,52984
+sound/explode3.wav,509932,509932
+sound/explode4.wav,528116,528116
+sound/explode5.wav,498488,498488
+sound/good_solution.mp3,51817,51817
+sound/hxh_music.mp3,1907285,1907285
+sound/magnus_grapple.mp3,1375474,1375474
+sound/sm_end3.mp3,1081391,1081391
+sound/sm_star.mp3,72812,72812
+sound/sm_thank_you.mp3,35481,35481
+sound/tokyoghoul_music.mp3,2598122,2598122
+sound/world_nothing.mp3,1260761,1260761

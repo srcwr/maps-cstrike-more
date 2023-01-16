@@ -1,0 +1,250 @@
+filename,size,compressed
+materials/maps/trikz_mycraft_vfinale2/minecraft/water_depth_56.vmt,102,102
+materials/maps/trikz_mycraft_vfinale2/minecraft/water_depth_43.vmt,102,102
+materials/maps/trikz_mycraft_vfinale2/minecraft/water_depth_120.vmt,103,103
+materials/maps/trikz_mycraft_vfinale2/minecraft/junglewater_depth_32_depth_56.vmt,117,117
+materials/maps/trikz_mycraft_vfinale2/minecraft/lava_depth_56.vmt,101,101
+materials/maps/trikz_mycraft_vfinale2/cubemapdefault.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c192_-3904_224.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c192_-2016_64.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c3904_32_64.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c4512_32_64.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c1024_-2944_280.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c192_32_-32.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c5568_-736_-8.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c2144_-3296_-32.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c4960_-1696_-40.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c6112_-1824_480.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/c2720_-1248_-32.vtf,9832,9832
+materials/maps/trikz_mycraft_vfinale2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c192_-3904_224.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c192_-2016_64.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c3904_32_64.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c4512_32_64.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c1024_-2944_280.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c192_32_-32.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c5568_-736_-8.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c2144_-3296_-32.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c4960_-1696_-40.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c6112_-1824_480.hdr.vtf,76528,76528
+materials/maps/trikz_mycraft_vfinale2/c2720_-1248_-32.hdr.vtf,76528,76528
+materials/minecraft/cake_bottom.vmt,115,115
+materials/minecraft/cake_bottom.vtf,87616,87616
+materials/minecraft/cake_inner.vmt,114,114
+materials/minecraft/cake_inner.vtf,87616,87616
+materials/minecraft/cake_top.vmt,112,112
+materials/minecraft/cake_top.vtf,87616,87616
+materials/minecraft/carrots.vmt,99,99
+materials/minecraft/carrots.vtf,87616,87616
+materials/minecraft/cauldron_bottom.vmt,102,102
+materials/minecraft/cauldron_bottom.vtf,87616,87616
+materials/minecraft/cauldron_inner.vmt,97,97
+materials/minecraft/cauldron_inner.vtf,43912,43912
+materials/minecraft/cauldron_side.vmt,100,100
+materials/minecraft/cauldron_side.vtf,87616,87616
+materials/minecraft/cauldron_top.vmt,99,99
+materials/minecraft/cauldron_top.vtf,87616,87616
+materials/minecraft/chest LF.vmt,96,96
+materials/minecraft/chest LF.vtf,43912,43912
+materials/minecraft/chest2B.vmt,95,95
+materials/minecraft/chest2B.vtf,87544,87544
+materials/minecraft/chest2F.vmt,95,95
+materials/minecraft/chest2F.vtf,87544,87544
+materials/minecraft/chest2U.vmt,95,95
+materials/minecraft/chest2U.vtf,87544,87544
+materials/minecraft/cobble_1.vmt,90,90
+materials/minecraft/cobble_1.vtf,43912,43912
+materials/minecraft/commandBlock.vmt,70,70
+materials/minecraft/commandBlock.vtf,43912,43912
+materials/minecraft/corps_07.vmt,100,100
+materials/minecraft/corps_07.vtf,87616,87616
+materials/minecraft/dirt_1.vmt,89,89
+materials/minecraft/dirt_1.vtf,43912,43912
+materials/minecraft/dirt_2.vmt,89,89
+materials/minecraft/dirt_2.vtf,43912,43912
+materials/minecraft/dispenser_front.vmt,97,97
+materials/minecraft/dispenser_front.vtf,43912,43912
+materials/minecraft/dispenser_front_vertical.vmt,106,106
+materials/minecraft/dispenser_front_vertical.vtf,43912,43912
+materials/minecraft/doorWood.vmt,115,115
+materials/minecraft/doorWood.vtf,174944,174944
+materials/minecraft/dropper_front.vmt,95,95
+materials/minecraft/dropper_front.vtf,43912,43912
+materials/minecraft/dropper_front_vertical.vmt,104,104
+materials/minecraft/dropper_front_vertical.vtf,43912,43912
+materials/minecraft/flower.vmt,98,98
+materials/minecraft/flower.vtf,87616,87616
+materials/minecraft/furnace_front.vmt,95,95
+materials/minecraft/furnace_front.vtf,43912,43912
+materials/minecraft/furnace_front_lit.vmt,99,99
+materials/minecraft/furnace_front_lit.vtf,43912,43912
+materials/minecraft/furnaceB.vmt,90,90
+materials/minecraft/furnaceB.vtf,43912,43912
+materials/minecraft/furnaceU.vmt,90,90
+materials/minecraft/furnaceU.vtf,43912,43912
+materials/minecraft/glass.vmt,107,107
+materials/minecraft/glass.vtf,87616,87616
+materials/minecraft/glowstone on.vmt,95,95
+materials/minecraft/glowstone on.vtf,43912,43912
+materials/minecraft/grass up.vmt,91,91
+materials/minecraft/grass up.vtf,43912,43912
+materials/minecraft/grass.vmt,63,63
+materials/minecraft/grass.vtf,43912,43912
+materials/minecraft/gravel2.vmt,91,91
+materials/minecraft/gravel2.vtf,43912,43912
+materials/minecraft/hellrock.vmt,90,90
+materials/minecraft/hellrock.vtf,43912,43912
+materials/minecraft/hellsand.vmt,95,95
+materials/minecraft/hellsand.vtf,43912,43912
+materials/minecraft/ice.vmt,123,123
+materials/minecraft/ice.vtf,87616,87616
+materials/minecraft/junglegrassLR.vmt,96,96
+materials/minecraft/junglegrassLR.vtf,43912,43912
+materials/minecraft/junglegrassU.vmt,95,95
+materials/minecraft/junglegrassU.vtf,43912,43912
+materials/minecraft/junglewater.vmt,581,581
+materials/minecraft/junglewater.vtf,87616,87616
+materials/minecraft/junglewater_depth_32.vmt,108,108
+materials/minecraft/ladder.vmt,113,113
+materials/minecraft/ladder.vtf,87616,87616
+materials/minecraft/lava.vmt,494,494
+materials/minecraft/lava.vtf,87616,87616
+materials/minecraft/lava_depth_8.vmt,100,100
+materials/minecraft/lava_depth_16.vmt,101,101
+materials/minecraft/lava_depth_32.vmt,101,101
+materials/minecraft/lava_depth_105.vmt,102,102
+materials/minecraft/leaves_1.vmt,124,124
+materials/minecraft/leaves_1.vtf,87616,87616
+materials/minecraft/lightgem.vmt,91,91
+materials/minecraft/lightgem.vtf,43912,43912
+materials/minecraft/mapby.vmt,97,97
+materials/minecraft/mapby.vtf,2796384,2796384
+materials/minecraft/mushroom_brown.vmt,106,106
+materials/minecraft/mushroom_brown.vtf,87616,87616
+materials/minecraft/mushroom_inside.vmt,98,98
+materials/minecraft/mushroom_inside.vtf,43912,43912
+materials/minecraft/mushroom_red.vmt,104,104
+materials/minecraft/mushroom_red.vtf,87616,87616
+materials/minecraft/mushroom_skin_brown.vmt,102,102
+materials/minecraft/mushroom_skin_brown.vtf,43912,43912
+materials/minecraft/mushroom_skin_red.vmt,100,100
+materials/minecraft/mushroom_skin_red.vtf,43912,43912
+materials/minecraft/mushroom_skin_stem.vmt,101,101
+materials/minecraft/mushroom_skin_stem.vtf,43912,43912
+materials/minecraft/netherhack brick.vmt,99,99
+materials/minecraft/netherhack brick.vtf,43912,43912
+materials/minecraft/netherquartz.vmt,94,94
+materials/minecraft/netherquartz.vtf,43912,43912
+materials/minecraft/obsidian.vmt,90,90
+materials/minecraft/obsidian.vtf,43912,43912
+materials/minecraft/piston up on.vmt,94,94
+materials/minecraft/piston up on.vtf,43912,43912
+materials/minecraft/piston up.vmt,97,97
+materials/minecraft/piston up.vtf,43912,43912
+materials/minecraft/plank 2.vmt,95,95
+materials/minecraft/plank 2.vtf,43912,43912
+materials/minecraft/plank 3.vmt,95,95
+materials/minecraft/plank 3.vtf,43912,43912
+materials/minecraft/plank 4.vmt,95,95
+materials/minecraft/plank 4.vtf,43912,43912
+materials/minecraft/plank.vmt,93,93
+materials/minecraft/plank.vtf,43912,43912
+materials/minecraft/portal.vmt,98,98
+materials/minecraft/portal.vtf,87616,87616
+materials/minecraft/pumpkin_face.vmt,95,95
+materials/minecraft/pumpkin_face.vtf,43912,43912
+materials/minecraft/pumpkin_jack.vmt,95,95
+materials/minecraft/pumpkin_jack.vtf,43912,43912
+materials/minecraft/pumpkin_side.vmt,95,95
+materials/minecraft/pumpkin_side.vtf,43912,43912
+materials/minecraft/pumpkin_top.vmt,94,94
+materials/minecraft/pumpkin_top.vtf,43912,43912
+materials/minecraft/quartzblock_lines.vmt,99,99
+materials/minecraft/quartzblock_lines.vtf,43912,43912
+materials/minecraft/quartzblock_lines_top.vmt,103,103
+materials/minecraft/quartzblock_lines_top.vtf,43912,43912
+materials/minecraft/rail.vmt,96,96
+materials/minecraft/rail.vtf,87616,87616
+materials/minecraft/reeds.vmt,97,97
+materials/minecraft/reeds.vtf,87616,87616
+materials/minecraft/rose.vmt,96,96
+materials/minecraft/rose.vtf,87616,87616
+materials/minecraft/snowblock.vmt,91,91
+materials/minecraft/snowblock.vtf,43912,43912
+materials/minecraft/snowgrass up.vmt,95,95
+materials/minecraft/snowgrass up.vtf,43912,43912
+materials/minecraft/snowgrass.vmt,92,92
+materials/minecraft/snowgrass.vtf,43912,43912
+materials/minecraft/stone slabs.vmt,93,93
+materials/minecraft/stone slabs.vtf,43912,43912
+materials/minecraft/stone slabsLR.vmt,95,95
+materials/minecraft/stone slabsLR.vtf,43912,43912
+materials/minecraft/stone.vmt,87,87
+materials/minecraft/stone.vtf,43912,43912
+materials/minecraft/stonebrick.vmt,93,93
+materials/minecraft/stonebrick.vtf,43912,43912
+materials/minecraft/tallgrass.vmt,101,101
+materials/minecraft/tallgrass.vtf,87616,87616
+materials/minecraft/thinglass_top.vmt,96,96
+materials/minecraft/thinglass_top.vtf,87616,87616
+materials/minecraft/torch.vmt,93,93
+materials/minecraft/torch.vtf,87616,87616
+materials/minecraft/torch_up.vmt,96,96
+materials/minecraft/torch_up.vtf,87616,87616
+materials/minecraft/trapdoor.vmt,115,115
+materials/minecraft/trapdoor.vtf,87616,87616
+materials/minecraft/vine.vmt,106,106
+materials/minecraft/vine.vtf,87616,87616
+materials/minecraft/water.vmt,536,536
+materials/minecraft/water.vtf,87616,87616
+materials/minecraft/water_depth_32.vmt,102,102
+materials/minecraft/wood.vmt,62,62
+materials/minecraft/wood.vtf,43912,43912
+materials/minecraft/workbenchL.vmt,68,68
+materials/minecraft/workbenchL.vtf,43912,43912
+materials/minecraft/workbenchR.vmt,68,68
+materials/minecraft/workbenchR.vtf,43912,43912
+materials/minecraft/workbenchU.vmt,98,98
+materials/minecraft/workbenchU.vtf,43912,43912
+materials/minecraft/mad/CAKE.vmt,96,96
+materials/minecraft/mad/CAKE.vtf,43912,43912
+materials/minecraft/mad/END.vmt,99,99
+materials/minecraft/mad/END.vtf,174944,174944
+materials/minecraft/mad/PORN.vmt,96,96
+materials/minecraft/mad/PORN.vtf,43912,43912
+materials/minecraft/mad/RESTART.vmt,99,99
+materials/minecraft/mad/RESTART.vtf,43912,43912
+materials/minecraft/mad/TOP.vmt,95,95
+materials/minecraft/mad/TOP.vtf,43912,43912
+materials/minecraft/porn/girl_01.vmt,70,70
+materials/minecraft/porn/girl_01.vtf,174984,174984
+materials/minecraft/porn/girl_02.vmt,70,70
+materials/minecraft/porn/girl_02.vtf,174984,174984
+materials/minecraft/porn/girl_03.vmt,70,70
+materials/minecraft/porn/girl_03.vtf,174984,174984
+materials/minecraft/porn/girl_04.vmt,70,70
+materials/minecraft/porn/girl_04.vtf,174984,174984
+materials/minecraft/porn/girl_05.vmt,70,70
+materials/minecraft/porn/girl_05.vtf,174984,174984
+materials/minecraft/porn/girl_06.vmt,70,70
+materials/minecraft/porn/girl_06.vtf,174984,174984
+materials/minecraft/porn/girl_07.vmt,70,70
+materials/minecraft/porn/girl_07.vtf,174984,174984
+materials/minecraft/items/pickaxe.vmt,95,95
+materials/minecraft/items/pickaxe.vtf,87616,87616
+materials/skybox/minecraft_clearskyDN.vtf,349776,349776
+materials/skybox/minecraft_clearskyFT.vmt,95,95
+materials/skybox/minecraft_clearskyLF.vmt,95,95
+materials/skybox/minecraft_clearskyRT.vmt,95,95
+materials/skybox/minecraft_clearskySD.vtf,349776,349776
+materials/skybox/minecraft_clearskyUP.vmt,95,95
+materials/skybox/minecraft_clearskyUP.vtf,349776,349776
+materials/skybox/minecraft_clearskyBK.vmt,95,95
+materials/skybox/minecraft_clearskyDN.vmt,95,95
+sound/mycraft/travel.wav,85210,85210
+sound/mycraft/calm1.wav,2334015,2334015
+sound/mycraft/portal.wav,44650,44650
+materials/minecraft/items/brown color.vmt,102,102
+materials/minecraft/items/brown color.vtf,87616,87616
+materials/minecraft/cloth_15.vmt,90,90
+materials/minecraft/cloth_15.vtf,43912,43912

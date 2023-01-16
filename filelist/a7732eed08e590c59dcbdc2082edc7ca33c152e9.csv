@@ -1,0 +1,52 @@
+filename,size,compressed
+materials/maps/bhop_mta4n_b2/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/bhop_mta4n_b2/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_mta4n_b2/cubemapdefault.hdr.vtf,76528,76528
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/devneons/2.5xl neons/green_neon.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/devneons/2.5xl neons/orange_neon.vmt,105,105
+materials/devneons/orange_neon.vtf,43912,43912
+materials/devneons/2.5xl neons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/devneons/lightlight_blue_neon.vmt,114,114
+materials/devneons/lightlight_blue_neon.vtf,349760,349760
+materials/devneons/2.5xl neons/yellow_neon.vmt,105,105
+materials/devneons/yellow_neon.vtf,43912,43912
+materials/VEJADU/custom_vejadu_Gray.vmt,96,96
+materials/VEJADU/custom_vejadu_Gray.vtf,349760,349760
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/neon/orange.vmt,96,96
+materials/neon/orange.vtf,174968,174968
+materials/TOOLS/TOOLSINVISIBLE.vmt,304,304
+materials/TOOLS/toolsinvisible.vtf,5680,5680
+materials/devneons/orange_neon.vmt,105,105
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/devneons/2.5xl neons/blue_neon.vmt,103,103
+materials/devneons/blue_neon.vtf,43912,43912
+materials/devneons/2.5xl neons/green_dev_neon.vmt,108,108
+materials/devneons/green_dev_neon.vtf,11144,11144
+materials/VEJADU/custom_vejadu_urnge.vmt,97,97
+materials/VEJADU/custom_vejadu_urnge.vtf,349760,349760
+materials/VEJADU/custom_vejadu_Green.vmt,97,97
+materials/VEJADU/custom_vejadu_Green.vtf,349760,349760
+materials/devneons/2.5xl neons/purple_neon.vmt,105,105
+materials/devneons/purple_neon.vtf,43912,43912
+materials/VEJADU/nic.vmt,81,81
+materials/VEJADU/nic.vtf,349760,349760
+materials/skybox/GalaxyUp.vmt,89,89
+materials/skybox/GalaxyUp.vtf,699272,699272
+materials/skybox/GalaxyDn.vmt,89,89
+materials/skybox/GalaxyDn.vtf,699272,699272
+materials/skybox/GalaxyLf.vmt,89,89
+materials/skybox/GalaxyLf.vtf,699272,699272
+materials/skybox/GalaxyRt.vmt,89,89
+materials/skybox/GalaxyRt.vtf,699272,699272
+materials/skybox/GalaxyFt.vmt,89,89
+materials/skybox/GalaxyFt.vtf,699272,699272
+materials/skybox/GalaxyBk.vmt,89,89
+materials/skybox/GalaxyBk.vtf,699272,699272
+sound/mta4n/CMA - Small Losses.wav,50520040,50520040

@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/dr_aztec/liquids/infernowater_0_0_0.vmt,145,145
+materials/maps/dr_aztec/liquids/infernowater_depth_39.vmt,107,107
+materials/maps/dr_aztec/liquids/infernowater_depth_32.vmt,107,107
+materials/maps/dr_aztec/cubemapdefault.vtf,9824,9824
+materials/maps/dr_aztec/c0_0_0.vtf,9824,9824
+materials/maps/dr_aztec/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/dr_aztec/c0_0_0.hdr.vtf,76520,76520
+materials/VGUI/LOGOS/CREDIT2.vmt,124,124
+materials/vgui/logos/Credit2.vtf,87616,87616
+materials/VGUI/LOGOS/MAPCREDIT1.vmt,127,127
+materials/vgui/logos/MapCredit1.vtf,87616,87616
+maps/soundcache/dr_aztec.cache,16,16

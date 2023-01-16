@@ -1,0 +1,243 @@
+filename,size,compressed
+materials/maps/deathrun_abovetheclouds_v3/realworldtextures/grass/grass_cracks_blend_wvt_patch.vmt,195,195
+materials/maps/deathrun_abovetheclouds_v3/realworldtextures/new/tiles_white_0_0_0.vmt,153,153
+materials/maps/deathrun_abovetheclouds_v3/metal/citadel_metalwall063a_0_0_0.vmt,147,147
+materials/maps/deathrun_abovetheclouds_v3/cubemapdefault.vtf,4960,4960
+materials/maps/deathrun_abovetheclouds_v3/c0_0_0.vtf,4960,4960
+materials/maps/deathrun_abovetheclouds_v3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/deathrun_abovetheclouds_v3/c0_0_0.hdr.vtf,76528,76528
+materials/SILKROAD/EGYPT/GROUND (22).vmt,93,93
+materials/SIMPLE_COLORS_BLOCKS/10_ORANGE.vmt,78,78
+materials/simple_colors_blocks/10_orange.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/05_BLACK.vmt,77,77
+materials/simple_colors_blocks/05_black.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/06_BLUE.vmt,76,76
+materials/simple_colors_blocks/06_blue.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/14_RED.vmt,75,75
+materials/simple_colors_blocks/14_red.vtf,8416,8416
+materials/SILKROAD/FGWORLD/WALL001.vmt,97,97
+materials/Silkroad/FGWorld/wall001.vtf,87616,87616
+materials/SILKROAD/GROUND/ESTEU_SADFLD_GRASS_01_2.vmt,112,112
+materials/Silkroad/Ground/esteu_sadfld_grass_01_2.vtf,349760,349760
+materials/REALWORLDTEXTURES/NEWER/3/METAL_3_01.vmt,191,191
+materials/RealWorldTextures/newer/3/Metal_3_01.vtf,174984,174984
+materials/RealWorldTextures/newer/3/Metal_3_01_nrm.vtf,174984,174984
+materials/SIMPLE_COLORS_BLOCKS/04_DARK_GREY.vmt,81,81
+materials/simple_colors_blocks/04_dark_grey.vtf,8416,8416
+materials/SILKROAD/FGWORLD/GROUND1.vmt,96,96
+materials/Silkroad/FGWorld/ground1.vtf,349760,349760
+materials/REALWORLDTEXTURES/FLOOR/FLOOR_12.vmt,281,281
+materials/RealWorldTextures/Floor/floor_12.vtf,43912,43912
+materials/RealWorldTextures/Floor/floor_12_nrm.vtf,43912,43912
+materials/REALWORLDTEXTURES/NEW/TILES_WHITE.vmt,231,231
+materials/RealWorldTextures/new/Tiles_white.vtf,174984,174984
+materials/RealWorldTextures/new/Tiles_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_RED01.vmt,233,233
+materials/RealWorldTextures/new/Tiles_red01.vtf,174984,174984
+materials/RealWorldTextures/new/Tiles_nrm01.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_RED.vmt,229,229
+materials/RealWorldTextures/new/Tiles_red.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_BLUE.vmt,230,230
+materials/RealWorldTextures/new/Tiles_Blue.vtf,174984,174984
+materials/REALWORLDTEXTURES/WALLS/MYSTICBLACK.vmt,244,244
+materials/RealWorldTextures/Walls/MysticBlack.vtf,174984,174984
+materials/SIMPLE_COLORS_BLOCKS/B5_BLACK.vmt,77,77
+materials/simple_colors_blocks/B5_black.vtf,8416,8416
+materials/CUSTOM/SERVER1.vmt,80,80
+materials/REALWORLDTEXTURES/NEW/TILES_B2.vmt,231,231
+materials/RealWorldTextures/new/Tiles_b2.vtf,174984,174984
+materials/RealWorldTextures/new/Tiles_b2_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEWER/3/METAL_3_05.vmt,187,187
+materials/RealWorldTextures/newer/3/Metal_3_05.vtf,174984,174984
+materials/RealWorldTextures/grass/crackedearth.vtf,4194511,4194511
+materials/RealWorldTextures/grass/crackedearth_normal.vtf,4194511,4194511
+materials/skybox/sky56up.vmt,88,88
+materials/skybox/sky56up.vtf,699272,699272
+materials/skybox/sky56dn.vmt,88,88
+materials/skybox/sky56dn.vtf,699272,699272
+materials/skybox/sky56ft.vmt,88,88
+materials/skybox/sky56ft.vtf,699272,699272
+materials/skybox/sky56bk.vmt,88,88
+materials/skybox/sky56bk.vtf,699272,699272
+materials/skybox/sky56lf.vmt,88,88
+materials/skybox/sky56lf.vtf,699272,699272
+materials/skybox/sky56rt.vmt,88,88
+materials/skybox/sky56rt.vtf,699272,699272
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/AreaPortals.lmp,12,12
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Areas.lmp,80,80
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Brushes.lmp,4296,4296
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Brushsides.lmp,23200,23200
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/ClipPortalVerts.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Cubemaps.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Dispinfo.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/DispLightmapAlphas.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/DispLightmapSamplePos.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/DispTris.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/DispVerts.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Edges.lmp,47004,47004
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Entities.lmp,96564,96564
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/FaceIDs.lmp,6102,6102
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/FaceMacroTextureInfo.lmp,6102,6102
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Faces.lmp,170856,170856
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/FacesHDR.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/GameLump.lmp,60,60
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LeafAmbientIndex.lmp,9424,9424
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LeafAmbientIndexHDR.lmp,9424,9424
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LeafAmbientLighting.lmp,271740,271740
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LeafAmbientLightingHDR.lmp,65968,65968
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LeafBrushes.lmp,1686,1686
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LeafFaces.lmp,7552,7552
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LeafMinDistToWater.lmp,4712,4712
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LeafWaterData.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Leaves.lmp,75392,75392
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Lighting.lmp,2111168,2111168
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LightingHDR.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LUMP_22.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LUMP_23.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LUMP_24.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LUMP_25.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LUMP_49.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LUMP_62.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/LUMP_63.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/MapFlags.lmp,4,4
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Models.lmp,7680,7680
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Nodes.lmp,70240,70240
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Occlusion.lmp,12,12
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/OriginalFaces.lmp,93016,93016
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/OverlayFades.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Overlays.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/OverlaySystemLevels.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Pakfile.lmp,24673839,24673839
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/PhysCollide.lmp,170535,170535
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/PhysDisp.lmp,2,2
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Planes.lmp,54440,54440
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/PrimIndices.lmp,11322,11322
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Primitives.lmp,3710,3710
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/PrimVerts.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Surfedges.lmp,83488,83488
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Texdata.lmp,1440,1440
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/TexdataStringData.lmp,1224,1224
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/TexdataStringTable.lmp,180,180
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Texinfo.lmp,32472,32472
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Vertexes.lmp,56448,56448
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/VertNormalIndices.lmp,28398,28398
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/VertNormals.lmp,1968,1968
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Visibility.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/WaterOverlays.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/Worldlights.lmp,880,880
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/WorldlightsHDR.lmp,0,0
+E:/Program Files/Steam/steamapps/common/counter-strike source/cstrike/maps/root/lumps/XZipPakFile.lmp,0,0
+materials/CUSTOM/SERVER1.vmt,80,80
+materials/CUSTOM/server1.vtf,699272,699272
+materials/maps/deathrun_abovetheclouds_v1/c0_0_0.hdr.vtf,76528,76528
+materials/maps/deathrun_abovetheclouds_v1/c0_0_0.vtf,4960,4960
+materials/maps/deathrun_abovetheclouds_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/deathrun_abovetheclouds_v1/cubemapdefault.vtf,4960,4960
+materials/maps/deathrun_abovetheclouds_v1/metal/citadel_metalwall063a_0_0_0.vmt,147,147
+materials/maps/deathrun_abovetheclouds_v1/realworldtextures/grass/grass_cracks_blend_wvt_patch.vmt,195,195
+materials/maps/deathrun_abovetheclouds_v1/realworldtextures/new/tiles_white_0_0_0.vmt,153,153
+materials/REALWORLDTEXTURES/FLOOR/FLOOR_12.vmt,281,281
+materials/REALWORLDTEXTURES/FLOOR/floor_12.vtf,43912,43912
+materials/REALWORLDTEXTURES/FLOOR/floor_12_nrm.vtf,43912,43912
+materials/REALWORLDTEXTURES/grass/crackedearth.vtf,4194511,4194511
+materials/REALWORLDTEXTURES/grass/crackedearth_normal.vtf,4194511,4194511
+materials/REALWORLDTEXTURES/NEW/TILES_B2.vmt,231,231
+materials/REALWORLDTEXTURES/NEW/Tiles_b2.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/Tiles_b2_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_BLUE.vmt,230,230
+materials/REALWORLDTEXTURES/NEW/Tiles_Blue.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/Tiles_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/Tiles_nrm01.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_RED.vmt,229,229
+materials/REALWORLDTEXTURES/NEW/Tiles_red.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_RED01.vmt,233,233
+materials/REALWORLDTEXTURES/NEW/Tiles_red01.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/TILES_WHITE.vmt,231,231
+materials/REALWORLDTEXTURES/NEW/Tiles_white.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEWER/3/METAL_3_01.vmt,191,191
+materials/REALWORLDTEXTURES/NEWER/3/Metal_3_01.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEWER/3/Metal_3_01_nrm.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEWER/3/METAL_3_05.vmt,187,187
+materials/REALWORLDTEXTURES/NEWER/3/Metal_3_05.vtf,174984,174984
+materials/REALWORLDTEXTURES/WALLS/MYSTICBLACK.vmt,244,244
+materials/REALWORLDTEXTURES/WALLS/MysticBlack.vtf,174984,174984
+materials/SILKROAD/EGYPT/GROUND (22).vmt,93,93
+materials/SILKROAD/EGYPT/ground (22).vtf,87616,87616
+materials/SILKROAD/FGWORLD/GROUND1.vmt,96,96
+materials/SILKROAD/FGWORLD/ground1.vtf,349760,349760
+materials/SILKROAD/FGWORLD/WALL001.vmt,97,97
+materials/SILKROAD/FGWORLD/wall001.vtf,87616,87616
+materials/SILKROAD/GROUND/ESTEU_SADFLD_GRASS_01_2.vmt,112,112
+materials/SILKROAD/GROUND/esteu_sadfld_grass_01_2.vtf,349760,349760
+materials/SIMPLE_COLORS_BLOCKS/01_white.vmt,77,77
+materials/SIMPLE_COLORS_BLOCKS/01_white.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/02_light_grey.vmt,82,82
+materials/SIMPLE_COLORS_BLOCKS/02_light_grey.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/03_grey.vmt,76,76
+materials/SIMPLE_COLORS_BLOCKS/03_grey.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/04_DARK_GREY.vmt,81,81
+materials/SIMPLE_COLORS_BLOCKS/04_dark_grey.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/05_BLACK.vmt,77,77
+materials/SIMPLE_COLORS_BLOCKS/05_black.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/06_BLUE.vmt,76,76
+materials/SIMPLE_COLORS_BLOCKS/06_blue.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/07_cyan.vmt,76,76
+materials/SIMPLE_COLORS_BLOCKS/07_cyan.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/08_green.vmt,77,77
+materials/SIMPLE_COLORS_BLOCKS/08_green.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/09_yellow.vmt,78,78
+materials/SIMPLE_COLORS_BLOCKS/09_yellow.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/10_ORANGE.vmt,78,78
+materials/SIMPLE_COLORS_BLOCKS/10_orange.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/11_pale_pink.vmt,81,81
+materials/SIMPLE_COLORS_BLOCKS/11_pale_pink.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/12_pink.vmt,76,76
+materials/SIMPLE_COLORS_BLOCKS/12_pink.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/13_purple.vmt,78,78
+materials/SIMPLE_COLORS_BLOCKS/13_purple.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/14_RED.vmt,75,75
+materials/SIMPLE_COLORS_BLOCKS/14_red.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/15_brown.vmt,77,77
+materials/SIMPLE_COLORS_BLOCKS/15_brown.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B10_orange.vmt,79,79
+materials/SIMPLE_COLORS_BLOCKS/B10_orange.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B11_pale_pink.vmt,82,82
+materials/SIMPLE_COLORS_BLOCKS/B11_pale_pink.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B12_pink.vmt,77,77
+materials/SIMPLE_COLORS_BLOCKS/B12_pink.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B13_purple.vmt,79,79
+materials/SIMPLE_COLORS_BLOCKS/B13_purple.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B14_red.vmt,76,76
+materials/SIMPLE_COLORS_BLOCKS/B14_red.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B15_brown.vmt,78,78
+materials/SIMPLE_COLORS_BLOCKS/B15_brown.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B1_white.vmt,77,77
+materials/SIMPLE_COLORS_BLOCKS/B1_white.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B2_light_grey.vmt,82,82
+materials/SIMPLE_COLORS_BLOCKS/B2_light_grey.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B3_grey.vmt,76,76
+materials/SIMPLE_COLORS_BLOCKS/B3_grey.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B4_dark_grey.vmt,81,81
+materials/SIMPLE_COLORS_BLOCKS/B4_dark_grey.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B5_BLACK.vmt,77,77
+materials/SIMPLE_COLORS_BLOCKS/B5_black.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B6_blue.vmt,76,76
+materials/SIMPLE_COLORS_BLOCKS/B6_blue.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B7_cyan.vmt,76,76
+materials/SIMPLE_COLORS_BLOCKS/B7_cyan.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B8_green.vmt,77,77
+materials/SIMPLE_COLORS_BLOCKS/B8_green.vtf,8416,8416
+materials/SIMPLE_COLORS_BLOCKS/B9_yellow.vmt,78,78
+materials/SIMPLE_COLORS_BLOCKS/B9_yellow.vtf,8416,8416
+materials/skybox/sky56bk.vmt,88,88
+materials/skybox/sky56bk.vtf,699272,699272
+materials/skybox/sky56dn.vmt,88,88
+materials/skybox/sky56dn.vtf,699272,699272
+materials/skybox/sky56ft.vmt,88,88
+materials/skybox/sky56ft.vtf,699272,699272
+materials/skybox/sky56lf.vmt,88,88
+materials/skybox/sky56lf.vtf,699272,699272
+materials/skybox/sky56rt.vmt,88,88
+materials/skybox/sky56rt.vtf,699272,699272
+materials/skybox/sky56up.vmt,88,88
+materials/skybox/sky56up.vtf,699272,699272

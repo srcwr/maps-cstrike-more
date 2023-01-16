@@ -1,0 +1,266 @@
+filename,size,compressed
+materials/maps/test_1/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_-288_1088_72.vmt,140,140
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_-572_884_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_-424_1480_72.vmt,140,140
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_-384_544_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_-384_720_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_-572_736_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall_sup_center2_-572_884_72.vmt,146,146
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall_sup_center2_-572_736_72.vmt,146,146
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall_sup_center2_-384_544_72.vmt,146,146
+materials/maps/test_1/metal/metalpipe010a_248_1912_72.vmt,125,125
+materials/maps/test_1/metal/metalpipe010a_168_672_72.vmt,124,124
+materials/maps/test_1/metal/metalpipeendcap001a_168_672_72.vmt,130,130
+materials/maps/test_1/metal/metalpipe010a_312_1000_72.vmt,125,125
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_-384_544_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_-572_736_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_-572_884_72.vmt,141,141
+materials/maps/test_1/plaster/offwllc_392_1912_72.vmt,121,121
+materials/maps/test_1/plaster/offwllc_248_1912_72.vmt,121,121
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_296_1288_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_-288_1088_72.vmt,142,142
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_-424_1480_72.vmt,142,142
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_312_1000_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_-384_720_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_-344_884_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_-168_728_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p9_248_1912_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p9_-344_884_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p9_-288_1088_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p9_-572_884_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_-344_884_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_-168_728_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_168_672_72.vmt,137,137
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_-344_884_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_-572_884_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_-288_1088_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_-424_1480_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_-384_720_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_-572_736_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_-384_544_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall6_-288_1088_72.vmt,136,136
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall6_-168_728_72.vmt,135,135
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall6_-424_1480_72.vmt,136,136
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p9_-424_1480_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p9_-168_728_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall6_-344_884_72.vmt,135,135
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall6_-572_884_72.vmt,135,135
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall7_248_1912_72.vmt,135,135
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall7_-288_1088_72.vmt,136,136
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall7_-344_884_72.vmt,135,135
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall7_-572_884_72.vmt,135,135
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_296_1288_72.vmt,139,139
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_296_1288_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall6_-572_736_72.vmt,135,135
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p9_-572_736_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall6_-384_544_72.vmt,135,135
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall6_-384_720_72.vmt,135,135
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_168_672_72.vmt,140,140
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor1_-168_728_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p1a_168_672_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall_sup_center2_-168_728_72.vmt,146,146
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall_sup_center2_-344_884_72.vmt,146,146
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall_sup_center2_-384_720_72.vmt,146,146
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall_sup_center2_168_672_72.vmt,145,145
+materials/maps/test_1/vbd/pack 2 remnont/remn_wall6_168_672_72.vmt,134,134
+materials/maps/test_1/vbd/pack 2 remnont/remn_metal_p9_168_672_72.vmt,137,137
+materials/maps/test_1/vbd/pack 2 remnont/remn_innerp1_248_1912_72.vmt,137,137
+materials/maps/test_1/vbd/pack 2 remnont/remn_innerp1_-344_884_72.vmt,137,137
+materials/maps/test_1/vbd/pack 2 remnont/remn_innerp1_-168_728_72.vmt,137,137
+materials/maps/test_1/plaster/offwlld_232_2120_72.vmt,121,121
+materials/maps/test_1/plaster/offwlld_531_1832_72.vmt,121,121
+materials/maps/test_1/plaster/offwlld_392_2120_72.vmt,121,121
+materials/maps/test_1/plaster/offwllc_392_2120_72.vmt,121,121
+materials/maps/test_1/plaster/offwllc_531_1832_72.vmt,121,121
+materials/maps/test_1/glass/unbreakable_392_1912_72.vmt,123,123
+materials/maps/test_1/glass/unbreakable_531_1832_72.vmt,123,123
+materials/maps/test_1/glass/unbreakable_296_1288_72.vmt,123,123
+materials/maps/test_1/79/agency/carpet_white01_392_2120_72.vmt,130,130
+materials/maps/test_1/79/agency/carpet_white01_531_1832_72.vmt,130,130
+materials/maps/test_1/79/agency/carpet_white01_392_1912_72.vmt,130,130
+materials/maps/test_1/wood/offdra_248_1912_72.vmt,117,117
+materials/maps/test_1/wood/offdra_392_1912_72.vmt,117,117
+materials/maps/test_1/wood/offdra_531_1832_72.vmt,117,117
+materials/maps/test_1/79/agency/concretewall04_168_672_72.vmt,129,129
+materials/maps/test_1/79/agency/concretetrim01_168_672_72.vmt,129,129
+materials/maps/test_1/79/agency/concretewall05_168_672_72.vmt,129,129
+materials/maps/test_1/plaster/offwllc_-424_1480_72.vmt,122,122
+materials/maps/test_1/plaster/offwllc_296_1288_72.vmt,121,121
+materials/maps/test_1/79/agency/carpet_black01_392_2120_72.vmt,130,130
+materials/maps/test_1/plaster/offwllc_232_2120_72.vmt,121,121
+materials/maps/test_1/metal/citadel_tilewall005a_248_1912_72.vmt,132,132
+materials/maps/test_1/metal/citadel_tilewall005a_296_1288_72.vmt,132,132
+materials/maps/test_1/metal/citadel_tilewall005a_312_1000_72.vmt,132,132
+materials/maps/test_1/metal/citadel_tilewall005a_-288_1088_72.vmt,133,133
+materials/maps/test_1/metal/citadel_tilewall005a_531_1832_72.vmt,132,132
+materials/maps/test_1/props/metalduct001a_-424_1480_72.vmt,126,126
+materials/maps/test_1/props/metalduct001a_248_1912_72.vmt,125,125
+materials/maps/test_1/props/metalduct001a_531_1832_72.vmt,125,125
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_248_1912_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_pillar_e_312_1000_72.vmt,138,138
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_-288_1088_72.vmt,144,144
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_296_1288_72.vmt,143,143
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_-424_1480_72.vmt,144,144
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_248_1912_72.vmt,143,143
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_-572_884_72.vmt,143,143
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_-344_884_72.vmt,143,143
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_-168_728_72.vmt,143,143
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_312_1000_72.vmt,143,143
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_168_672_72.vmt,142,142
+materials/maps/test_1/vbd/pack 2 remnont/remn_inner_window1_-384_720_72.vmt,143,143
+materials/maps/test_1/wood/offdra_232_2120_72.vmt,117,117
+materials/maps/test_1/wood/offdra_392_2120_72.vmt,117,117
+materials/maps/test_1/wood/offdesktop_248_1912_72.vmt,121,121
+materials/maps/test_1/wood/offdesktop_392_1912_72.vmt,121,121
+materials/maps/test_1/wood/offdesktop_531_1832_72.vmt,121,121
+materials/maps/test_1/wood/offdesktop_232_2120_72.vmt,121,121
+materials/maps/test_1/de_nuke/nukdoorsb_531_1832_72.vmt,123,123
+materials/maps/test_1/de_nuke/nukdoorsb_296_1288_72.vmt,123,123
+materials/maps/test_1/de_nuke/nukdoorsb_392_1912_72.vmt,123,123
+materials/maps/test_1/79/agency/metalroof_531_1832_72.vmt,125,125
+materials/maps/test_1/79/agency/metalroof_296_1288_72.vmt,125,125
+materials/maps/test_1/79/agency/carpet_black01_531_1832_72.vmt,130,130
+materials/maps/test_1/79/agency/carpet_black01_392_1912_72.vmt,130,130
+materials/maps/test_1/79/agency/carpet_black01_-168_728_72.vmt,130,130
+materials/maps/test_1/79/agency/carpet_black01_168_672_72.vmt,129,129
+materials/maps/test_1/79/agency/carpet_black01_248_1912_72.vmt,130,130
+materials/maps/test_1/79/agency/carpet_black01_296_1288_72.vmt,130,130
+materials/maps/test_1/79/agency/carpet_black01_312_1000_72.vmt,130,130
+materials/maps/test_1/79/agency/carpet_black01_-384_544_72.vmt,130,130
+materials/maps/test_1/metal/citadel_metalwall063a_-424_1480_72.vmt,134,134
+materials/maps/test_1/metal/citadel_metalwall063a_-288_1088_72.vmt,134,134
+materials/maps/test_1/metal/citadel_metalwall063a_-572_884_72.vmt,133,133
+materials/maps/test_1/metal/citadel_metalwall077a_-424_1480_72.vmt,134,134
+materials/maps/test_1/metal/citadel_metalwall077a_-288_1088_72.vmt,134,134
+materials/maps/test_1/metal/citadel_metalwall077a_-572_884_72.vmt,133,133
+materials/maps/test_1/metal/citadel_metalwall063a_296_1288_72.vmt,133,133
+materials/maps/test_1/metal/citadel_metalwall077a_296_1288_72.vmt,133,133
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor9_248_1912_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor9_-384_720_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor9_-344_884_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor9_-572_736_72.vmt,141,141
+materials/maps/test_1/vbd/pack 2 remnont/remn_metalfloor9_-572_884_72.vmt,141,141
+materials/maps/test_1/cubemapdefault.vtf,9832,9832
+materials/maps/test_1/c-288_1088_72.vtf,4960,4960
+materials/maps/test_1/c-572_884_72.vtf,4960,4960
+materials/maps/test_1/c-424_1480_72.vtf,4960,4960
+materials/maps/test_1/c-384_544_72.vtf,4960,4960
+materials/maps/test_1/c-384_720_72.vtf,4960,4960
+materials/maps/test_1/c-572_736_72.vtf,4960,4960
+materials/maps/test_1/c248_1912_72.vtf,4960,4960
+materials/maps/test_1/c168_672_72.vtf,4960,4960
+materials/maps/test_1/c312_1000_72.vtf,4960,4960
+materials/maps/test_1/c392_1912_72.vtf,4960,4960
+materials/maps/test_1/c296_1288_72.vtf,4960,4960
+materials/maps/test_1/c-344_884_72.vtf,4960,4960
+materials/maps/test_1/c-168_728_72.vtf,4960,4960
+materials/maps/test_1/c232_2120_72.vtf,4960,4960
+materials/maps/test_1/c531_1832_72.vtf,4960,4960
+materials/maps/test_1/c392_2120_72.vtf,4960,4960
+materials/maps/test_1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/test_1/c-288_1088_72.hdr.vtf,76536,76536
+materials/maps/test_1/c-572_884_72.hdr.vtf,76536,76536
+materials/maps/test_1/c-424_1480_72.hdr.vtf,76536,76536
+materials/maps/test_1/c-384_544_72.hdr.vtf,76536,76536
+materials/maps/test_1/c-384_720_72.hdr.vtf,76536,76536
+materials/maps/test_1/c-572_736_72.hdr.vtf,76536,76536
+materials/maps/test_1/c248_1912_72.hdr.vtf,76536,76536
+materials/maps/test_1/c168_672_72.hdr.vtf,76536,76536
+materials/maps/test_1/c312_1000_72.hdr.vtf,76536,76536
+materials/maps/test_1/c392_1912_72.hdr.vtf,76536,76536
+materials/maps/test_1/c296_1288_72.hdr.vtf,76536,76536
+materials/maps/test_1/c-344_884_72.hdr.vtf,76536,76536
+materials/maps/test_1/c-168_728_72.hdr.vtf,76536,76536
+materials/maps/test_1/c232_2120_72.hdr.vtf,76536,76536
+materials/maps/test_1/c531_1832_72.hdr.vtf,76536,76536
+materials/maps/test_1/c392_2120_72.hdr.vtf,76536,76536
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vmt,323,323
+materials/VBD/Pack 2 Remnont/remn_metal_p1a.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metal_p1_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vmt,338,338
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall_sup_center2_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_metalfloor1.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor1.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor1_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_metal_p9.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_metal_p9.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_metal_p9_normal.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_pillar_e.vmt,322,322
+materials/VBD/Pack 2 Remnont/remn_pillar_e.vtf,22008,22008
+materials/VBD/Pack 2 Remnont/remn_pillar_e_normal.vtf,43904,43904
+materials/VBD/Pack 2 Remnont/remn_wall6.vmt,316,316
+materials/VBD/Pack 2 Remnont/remn_wall6.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall6_normal.vtf,1398336,1398336
+materials/VBD/Pack 2 Remnont/remn_wall7.vmt,316,316
+materials/VBD/Pack 2 Remnont/remn_wall7.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_wall7_normal.vtf,349760,349760
+materials/VBD/Pack 2 Remnont/remn_innerP1.vmt,320,320
+materials/VBD/Pack 2 Remnont/remn_innerP1.vtf,87544,87544
+materials/VBD/Pack 2 Remnont/remn_innerP1_normal.vtf,174944,174944
+materials/79/agency/carpet_white01.vmt,269,269
+materials/79/agency/carpet_white01.vtf,174984,174984
+materials/79/agency/carpet_brown01_n.vtf,349760,349760
+materials/79/agency/concretewall04.vmt,273,273
+materials/79/agency/concretewall04.vtf,174984,174984
+materials/79/agency/concretewall03_n.vtf,174984,174984
+materials/79/agency/concretetrim01.vmt,273,273
+materials/79/agency/concretetrim01.vtf,43832,43832
+materials/79/agency/concretewall01_n.vtf,1048783,1048783
+materials/79/agency/concretewall05.vmt,273,273
+materials/79/agency/concretewall05.vtf,174984,174984
+materials/79/agency/carpet_black01.vmt,269,269
+materials/79/agency/carpet_black01.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_inner_window1.vmt,351,351
+materials/VBD/Pack 2 Remnont/remn_inner_window1.vtf,174944,174944
+materials/VBD/Pack 2 Remnont/remn_inner_window1_normal.vtf,174944,174944
+materials/79/agency/metalroof.vmt,267,267
+materials/79/agency/metalroof.vtf,43912,43912
+materials/79/agency/metalroof_n.vtf,43912,43912
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vmt,328,328
+materials/VBD/Pack 2 Remnont/remn_metalfloor9.vtf,174984,174984
+materials/VBD/Pack 2 Remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/ryan_dev/rbg_red.vmt,64,64
+materials/ryan_dev/rbg_red.vtf,11144,11144
+materials/79/plywood_bright.vmt,95,95
+materials/79/plywood_bright.vtf,699272,699272
+materials/79/plywood_slightly_darker.vmt,98,98
+materials/79/plywood_slightly_darker.vtf,699272,699272
+materials/79/agency/plywood_ext_01.vmt,108,108
+materials/79/agency/plywood_ext_01.vtf,175008,175008
+materials/csgo/materials/wood/plywood_ext_02.vmt,118,118
+materials/csgo/materials/wood/plywood_ext_02.vtf,175008,175008
+materials/source_studios/floortile_wood05.vmt,165,165
+materials/source_studios/floortile_wood05.vtf,349760,349760
+materials/source_studios/floortile_wood05_normal.vtf,1048783,1048783
+materials/realisticwallsandfloors/carpet/carpetfloorred.vmt,93,93
+materials/realisticwallsandfloors/carpet/carpetfloorred.vtf,43912,43912
+materials/realisticwallsandfloors/paint/plasterwallblue.vmt,93,93
+materials/realisticwallsandfloors/paint/plasterwallblue.vtf,43912,43912
+materials/icecreamlock/redglass.vmt,116,116
+materials/icecreamlock/redglass.vtf,2952,2952
+materials/79/plywood_more_contrast.vmt,96,96
+materials/79/plywood_more_contrast.vtf,699272,699272
+materials/icecreamlock/greyglass.vmt,117,117
+materials/icecreamlock/greyglass.vtf,2952,2952
+materials/props/cs_militia/crate_extrasmallmil.vmt,89,89
+materials/csgo/materials/wood/vertigo_plywood.vmt,107,107
+materials/csgo/materials/wood/vertigo_plywood.vtf,175008,175008
+materials/icecreamlock/orangeglass.vmt,119,119
+materials/icecreamlock/orangeglass.vtf,2952,2952
+materials/icecreamlock/blueglass.vmt,117,117
+materials/icecreamlock/blueglass.vtf,2952,2952
+materials/icecreamlock/purpleglass.vmt,119,119
+materials/icecreamlock/purpleglass.vtf,2952,2952
+materials/realisticwallsandfloors/wood/woodfloor_01.vmt,119,119
+materials/realisticwallsandfloors/wood/woodfloor_01.vtf,43912,43912
+materials/79/agency/plywood01.vmt,89,89
+materials/79/agency/plywood01.vtf,175008,175008
+materials/csgo/materials/wood/vertigo_plywoodb.vmt,108,108
+materials/csgo/materials/wood/vertigo_plywoodb.vtf,175008,175008
+materials/79/agency/plywood02.vmt,81,81
+materials/79/agency/plywood02.vtf,175008,175008
+materials/detail/detailsprites.vmt,155,155
+materials/detail/detailsprites.vtf,1398336,1398336
+maps/Test_1.nav,51360,51360

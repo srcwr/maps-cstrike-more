@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/de_trainstation_uf/concrete/blendconcretegravel001a_wvt_patch.vmt,563,563
+materials/maps/de_trainstation_uf/de_train/blendgraveldirt001a_wvt_patch.vmt,130,130
+materials/maps/de_trainstation_uf/vehicle/rubbertrainfloor001a_0_0_0.vmt,140,140
+materials/maps/de_trainstation_uf/plaster/offwllb_0_0_0.vmt,127,127
+materials/maps/de_trainstation_uf/metal/offelevdrsa_0_0_0.vmt,129,129
+materials/maps/de_trainstation_uf/metal/citadel_metalwall076a_0_0_0.vmt,139,139
+materials/maps/de_trainstation_uf/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/de_trainstation_uf/glass/offwndwb_0_0_0.vmt,206,206
+materials/maps/de_trainstation_uf/cubemapdefault.vtf,9832,9832
+materials/maps/de_trainstation_uf/c0_0_0.vtf,9832,9832
+materials/maps/de_trainstation_uf/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_trainstation_uf/c0_0_0.hdr.vtf,76528,76528
+materials/CUSTOMS/LOGO.vmt,100,100
+materials/customs/logo.vtf,11144,11144
+maps/soundcache/de_trainstation_uf.cache,16,16

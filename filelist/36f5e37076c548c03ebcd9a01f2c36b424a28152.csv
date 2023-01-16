@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/surf_ssss/metal/metalwall101b_0_0_0.vmt,122,122
+materials/maps/surf_ssss/glass/combineglass001a_0_0_0.vmt,125,125
+materials/maps/surf_ssss/nature/water_dx70_opaq_depth_8.vmt,108,108
+materials/maps/surf_ssss/nature/water_dx70_opaq_depth_16.vmt,109,109
+materials/maps/surf_ssss/nature/water_dx70_opaq_depth_4.vmt,108,108
+materials/maps/surf_ssss/nature/water_dx70_opaq_depth_5.vmt,108,108
+materials/maps/surf_ssss/cubemapdefault.vtf,9824,9824
+materials/maps/surf_ssss/c0_0_0.vtf,9824,9824
+materials/maps/surf_ssss/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/surf_ssss/c0_0_0.hdr.vtf,76520,76520

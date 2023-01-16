@@ -1,0 +1,8 @@
+filename,size,compressed
+materials/maps/bhop_tetrisroute/neon/bluetored_wvt_patch.vmt,125,125
+materials/maps/bhop_tetrisroute/neon/redtogreen_wvt_patch.vmt,123,123
+materials/maps/bhop_tetrisroute/neon/greentoblue_wvt_patch.vmt,127,127
+materials/maps/bhop_tetrisroute/neon/blacktored_wvt_patch.vmt,131,131
+materials/maps/bhop_tetrisroute/shadertest/water_refract_only_depth_16.vmt,116,116
+materials/maps/bhop_tetrisroute/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_tetrisroute/cubemapdefault.hdr.vtf,76528,76528

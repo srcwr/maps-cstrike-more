@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/ba_jail_fanton/liquids/water_pretty1_0_0_0.vmt,152,152
+materials/maps/ba_jail_fanton/metal/citadel_tilefloor016a_0_0_0.vmt,135,135
+materials/maps/ba_jail_fanton/liquids/militiawater_depth_16.vmt,107,107
+materials/maps/ba_jail_fanton/liquids/water_pretty1_depth_24.vmt,108,108
+materials/maps/ba_jail_fanton/liquids/water_pretty1_depth_177.vmt,109,109
+materials/maps/ba_jail_fanton/cubemapdefault.vtf,9824,9824
+materials/maps/ba_jail_fanton/c0_0_0.vtf,9824,9824
+materials/SRP/BRICK/WALL_BRICK_WHITE01.vmt,101,101
+materials/srp/brick/wall_brick_white01.vtf,349760,349760
+materials/DP/FLAG9.vmt,82,82
+materials/DP/flag9.vtf,174984,174984
+materials/DP/FLAG17.vmt,83,83
+materials/DP/flag17.vtf,174984,174984
+materials/DEVNEONS/RED_NEON.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/DEVNEONS/GREEN_NEON.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/DEVNEONS/BLUE_NEON.vmt,103,103
+materials/devneons/blue_neon.vtf,43912,43912
+materials/DEVNEONS/WHITE_NEON.vmt,104,104
+materials/devneons/white_neon.vtf,43912,43912
+materials/DEVNEONS/PURPLE_NEON.vmt,105,105
+materials/devneons/purple_neon.vtf,43912,43912
+materials/DEVNEONS/ORANGE_NEON.vmt,105,105
+materials/devneons/orange_neon.vtf,43912,43912
+materials/DEVNEONS/PINK_NEON.vmt,103,103
+materials/devneons/pink_neon.vtf,43912,43912
+materials/DEVNEONS/GREY_NEON.vmt,103,103
+materials/devneons/grey_neon.vtf,43912,43912
+materials/DEVNEONS/YELLOW_NEON.vmt,105,105
+materials/devneons/yellow_neon.vtf,43912,43912
+sound/billasounds/12 tik tok 1.mp3,5274265,5274265
+sound/billasounds/08 cartas pra vocΩ.mp3,3297772,3297772
+sound/billasounds/hotel room service.mp3,9569269,9569269
+maps/soundcache/ba_jail_fanton.cache,61365,61365

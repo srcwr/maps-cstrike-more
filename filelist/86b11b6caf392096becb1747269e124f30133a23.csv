@@ -1,0 +1,42 @@
+filename,size,compressed
+materials/maps/hg_survival/dev/dev_water5_0_0_0.vmt,142,142
+materials/maps/hg_survival/wood/woodfloor007a_0_0_0.vmt,123,123
+materials/maps/hg_survival/environment maps/pipemetal001a_0_0_0.vmt,135,135
+materials/maps/hg_survival/dev/dev_water5_depth_464.vmt,102,102
+materials/maps/hg_survival/dev/dev_water5_depth_7.vmt,100,100
+materials/maps/hg_survival/cubemapdefault.vtf,9832,9832
+materials/maps/hg_survival/c0_0_0.vtf,9832,9832
+materials/maps/hg_survival/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/hg_survival/c0_0_0.hdr.vtf,76528,76528
+models/moroes/Pine_Tree.dx80.vtx,44891,44891
+models/moroes/Pine_Tree.dx90.vtx,44891,44891
+models/moroes/Pine_Tree.phy,3719,3719
+models/moroes/Pine_Tree.sw.vtx,44891,44891
+models/moroes/Pine_Tree_Little.dx80.vtx,46211,46211
+models/moroes/Pine_Tree_Little.dx90.vtx,46211,46211
+models/moroes/Pine_Tree_Little.phy,3645,3645
+models/moroes/Pine_Tree_Little.sw.vtx,46211,46211
+models/moroes/Pine_Tree_Med.dx80.vtx,46211,46211
+models/moroes/Pine_Tree_Med.dx90.vtx,46211,46211
+models/moroes/Pine_Tree_Med.phy,3722,3722
+models/moroes/Pine_Tree_Med.sw.vtx,46211,46211
+models/moroes/Pine_Tree_MedBreak.dx80.vtx,35969,35969
+models/moroes/Pine_Tree_MedBreak.dx90.vtx,35969,35969
+models/moroes/Pine_Tree_MedBreak.phy,3727,3727
+models/moroes/Pine_Tree_MedBreak.sw.vtx,35969,35969
+models/moroes/pine_tree.mdl,1800,1800
+models/moroes/pine_tree.vvd,126528,126528
+models/moroes/pine_tree_little.mdl,1800,1800
+models/moroes/pine_tree_little.vvd,189824,189824
+models/moroes/pine_tree_med.mdl,1800,1800
+models/moroes/pine_tree_med.vvd,188992,188992
+models/moroes/pine_tree_medbreak.mdl,1800,1800
+models/moroes/pine_tree_medbreak.vvd,146624,146624
+materials/models/moroes/Pine_Tree.vmt,135,135
+materials/models/moroes/Pine_Tree.vtf,1398336,1398336
+materials/nexuz customs/HG.vmt,92,92
+materials/nexuz customs/HG.vtf,349688,349688
+materials/nexuz customs/LOGO.vmt,94,94
+materials/nexuz customs/LOGO.vtf,87544,87544
+materials/Custom Thorius Tex/thorius.vmt,102,102
+materials/Custom Thorius Tex/thorius.vtf,87544,87544

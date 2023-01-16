@@ -1,0 +1,37 @@
+filename,size,compressed
+materials/maps/surf_lost2_css/de_cbble/grass_alt/grass_b_blend_wvt_patch.vmt,262,262
+materials/maps/surf_lost2_css/cubemapdefault.vtf,28753,28753
+materials/maps/surf_lost2_css/cubemapdefault.hdr.vtf,76528,76528
+materials/de_cbble/grass_alt/grass_a.vtf,699272,699272
+materials/concrete/pavement_height-ssbump.vtf,699272,699272
+materials/brick/hr_brick/inferno/flagstone_a.vmt,273,273
+materials/brick/hr_brick/inferno/flagstone_a.vtf,699272,699272
+materials/brick/hr_brick/inferno/flagstone_a_normals.vtf,349760,349760
+materials/detail/noise_detail_01.vtf,43912,43912
+materials/plaster/hr_p/venice/plaster_white_mid.vmt,141,141
+materials/plaster/hr_p/venice/plaster_white_mid.vtf,699272,699272
+materials/plaster/hr_p/venice/plaster_red_normal.vtf,699272,699272
+materials/color/gold metallic.vmt,70,70
+materials/color/gold metallic.vtf,11144,11144
+materials/color/black.vmt,53,53
+materials/color/black.vtf,11144,11144
+materials/concrete/blacktop_ext_01.vmt,108,108
+materials/concrete/blacktop_ext_01.vtf,174984,174984
+materials/brick/brick_ext_02_cheap.vmt,103,103
+materials/brick/brick_ext_02.vtf,174984,174984
+materials/cobblestone/hr_c/inferno/cobblestone_a.vmt,1244,1244
+materials/cobblestone/hr_c/inferno/cobblestone_a.vtf,699272,699272
+materials/cobblestone/hr_c/inferno/cobblestone_a_normals.vtf,174984,174984
+materials/detail/plaster_detail_01.vtf,43912,43912
+materials/skybox/sky303up.vmt,83,83
+materials/skybox/sky303up.vtf,4194495,4194495
+materials/skybox/sky303dn.vmt,83,83
+materials/skybox/sky303dn.vtf,4194495,4194495
+materials/skybox/sky303lf.vmt,83,83
+materials/skybox/sky303lf.vtf,4194495,4194495
+materials/skybox/sky303rt.vmt,83,83
+materials/skybox/sky303rt.vtf,4194495,4194495
+materials/skybox/sky303ft.vmt,83,83
+materials/skybox/sky303ft.vtf,4194495,4194495
+materials/skybox/sky303bk.vmt,83,83
+materials/skybox/sky303bk.vtf,4194495,4194495

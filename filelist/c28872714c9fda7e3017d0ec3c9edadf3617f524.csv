@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/$2010$_night/tile/tilewall006b_-822_773_-17.vmt,130,130
+materials/maps/$2010$_night/tile/tilewall006b_-765_620_44.vmt,129,129
+materials/maps/$2010$_night/tile/tilefloor010a_-765_620_44.vmt,130,130
+materials/maps/$2010$_night/tile/tilefloor001b_-765_620_44.vmt,130,130
+materials/maps/$2010$_night/tile/tilefloor010a_-822_773_-17.vmt,131,131
+materials/maps/$2010$_night/tile/tilefloor001b_-822_773_-17.vmt,131,131
+materials/maps/$2010$_night/tile/milflr002_-822_773_-17.vmt,127,127
+materials/maps/$2010$_night/tile/milflr002_-765_620_44.vmt,126,126
+materials/maps/$2010$_night/cubemapdefault.vtf,9824,9824
+materials/maps/$2010$_night/c-822_773_-17.vtf,9824,9824
+materials/maps/$2010$_night/c-765_620_44.vtf,9824,9824

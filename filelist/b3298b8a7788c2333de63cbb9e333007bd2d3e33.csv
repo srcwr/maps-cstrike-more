@@ -1,0 +1,30 @@
+filename,size,compressed
+materials/maps/gg_violent-caslte_toon/cubemapdefault.vtf,9832,9832
+materials/maps/gg_violent-caslte_toon/cubemapdefault.hdr.vtf,76528,76528
+materials/CASTLE TEXTURES/DIRTGROUND1_TOON.vmt,80,80
+materials/CASTLE TEXTURES/STONEWALL_TOON.vmt,78,78
+materials/EW_ARENA_COLORS/ORANGE3.vmt,71,71
+materials/ew_arena_colors/orange3.vtf,43912,43912
+materials/RYAN_DEV/BROWN10.vmt,64,64
+materials/ryan_dev/brown10.vtf,11144,11144
+materials/CASTLE TEXTURES/TOON_BRIDGE1A.vmt,106,106
+materials/CASTLE TEXTURES/TOON_BOX1A.vmt,122,122
+materials/TEXTURES/EWMAP.vmt,62,62
+materials/Textures/ewmap.vtf,11144,11144
+materials/skybox/violentdaysup.vmt,116,116
+materials/skybox/violentdaysup.vtf,1398336,1398336
+materials/skybox/violentdaysdn.vmt,116,116
+materials/skybox/violentdaysdn.vtf,1398336,1398336
+materials/skybox/violentdaysft.vmt,116,116
+materials/skybox/violentdaysft.vtf,1398336,1398336
+materials/skybox/violentdaysbk.vmt,116,116
+materials/skybox/violentdaysbk.vtf,1398336,1398336
+materials/skybox/violentdayslf.vmt,116,116
+materials/skybox/violentdayslf.vtf,1398336,1398336
+materials/skybox/violentdaysrt.vmt,116,116
+materials/skybox/violentdaysrt.vtf,1398336,1398336
+maps/soundcache/gg_violent-caslte_toon.cache,16,16
+materials/castle textures/dirtground1_toon.vtf,87616,87616
+materials/castle textures/stonewall_toon.vtf,174984,174984
+materials/castle textures/arena_yellow.vmt,76,76
+materials/castle textures/arena_yellow.vtf,43912,43912

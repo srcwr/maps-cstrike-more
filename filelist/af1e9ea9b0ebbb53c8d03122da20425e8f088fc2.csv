@@ -1,0 +1,109 @@
+filename,size,compressed
+materials/maps/gg_kush_33/cubemapdefault.vtf,9832,9832
+materials/maps/gg_kush_33/cubemapdefault.hdr.vtf,76528,76528
+materials/costum/test2.vmt,79,79
+materials/costum/test2.vtf,349760,349760
+materials/custommaterials/tawpb.vmt,69,69
+materials/custommaterials/tawpb.vtf,43872,43872
+materials/models/PG_props/pg_griechisch/pg_column.vmt,298,298
+materials/models/PG_props/pg_griechisch/pg_column.vtf,699272,699272
+materials/models/PG_props/pg_griechisch/pg_column_broken.vmt,312,312
+materials/models/PG_props/pg_griechisch/pg_column_broken.vtf,87616,87616
+materials/models/PG_props/pg_griechisch/pg_column_broken_bump.vtf,87616,87616
+materials/models/PG_props/pg_griechisch/pg_column_bump.vtf,349760,349760
+materials/models/PG_props/pg_griechisch/pg_column_skin2.vmt,310,310
+materials/models/PG_props/pg_griechisch/pg_column_skin2.vtf,1398336,1398336
+materials/models/PG_props/pg_griechisch/pg_column_skin2_bump.vtf,349760,349760
+materials/models/PG_props/pg_griechisch/pg_column_skin3.vmt,310,310
+materials/models/PG_props/pg_griechisch/pg_column_skin3.vtf,1398336,1398336
+materials/models/PG_props/pg_griechisch/pg_column_skin3_bump.vtf,349760,349760
+materials/models/PG_props/pg_griechisch/pg_column_skin4.vmt,310,310
+materials/models/PG_props/pg_griechisch/pg_column_skin4.vtf,1398336,1398336
+materials/models/PG_props/pg_griechisch/pg_column_skin4_bump.vtf,349760,349760
+models/PG_props/pg_griechisch/pg_column.dx80.vtx,12796,12796
+models/PG_props/pg_griechisch/pg_column.dx90.vtx,12796,12796
+models/PG_props/pg_griechisch/pg_column.mdl,2448,2448
+models/PG_props/pg_griechisch/pg_column.phy,6613,6613
+models/PG_props/pg_griechisch/pg_column.sw.vtx,12796,12796
+models/PG_props/pg_griechisch/pg_column.vvd,30272,30272
+models/PG_props/pg_griechisch/pg_column_broken_1.dx80.vtx,6883,6883
+models/PG_props/pg_griechisch/pg_column_broken_1.dx90.vtx,6883,6883
+models/PG_props/pg_griechisch/pg_column_broken_1.mdl,2388,2388
+models/PG_props/pg_griechisch/pg_column_broken_1.phy,4262,4262
+models/PG_props/pg_griechisch/pg_column_broken_1.sw.vtx,6883,6883
+models/PG_props/pg_griechisch/pg_column_broken_1.vvd,11008,11008
+models/PG_props/pg_griechisch/pg_column_broken_1.xbox.vtx,6883,6883
+models/PG_props/pg_griechisch/pg_column_broken_2.dx80.vtx,6436,6436
+models/PG_props/pg_griechisch/pg_column_broken_2.dx90.vtx,6436,6436
+models/PG_props/pg_griechisch/pg_column_broken_2.mdl,2652,2652
+models/PG_props/pg_griechisch/pg_column_broken_2.phy,4262,4262
+models/PG_props/pg_griechisch/pg_column_broken_2.sw.vtx,6436,6436
+models/PG_props/pg_griechisch/pg_column_broken_2.vvd,12400,12400
+models/PG_props/pg_griechisch/pg_column_broken_2.xbox.vtx,6355,6355
+models/PG_props/pg_griechisch/pg_column_broken_3.dx80.vtx,7291,7291
+models/PG_props/pg_griechisch/pg_column_broken_3.dx90.vtx,7291,7291
+models/PG_props/pg_griechisch/pg_column_broken_3.mdl,2652,2652
+models/PG_props/pg_griechisch/pg_column_broken_3.phy,4422,4422
+models/PG_props/pg_griechisch/pg_column_broken_3.sw.vtx,7291,7291
+models/PG_props/pg_griechisch/pg_column_broken_3.vvd,14992,14992
+models/PG_props/pg_griechisch/pg_column_broken_4.dx80.vtx,8797,8797
+models/PG_props/pg_griechisch/pg_column_broken_4.dx90.vtx,8797,8797
+models/PG_props/pg_griechisch/pg_column_broken_4.mdl,2652,2652
+models/PG_props/pg_griechisch/pg_column_broken_4.phy,4566,4566
+models/PG_props/pg_griechisch/pg_column_broken_4.sw.vtx,8797,8797
+models/PG_props/pg_griechisch/pg_column_broken_4.vvd,17840,17840
+models/PG_props/pg_griechisch/pg_column_broken_5.dx80.vtx,888,888
+models/PG_props/pg_griechisch/pg_column_broken_5.dx90.vtx,888,888
+models/PG_props/pg_griechisch/pg_column_broken_5.mdl,2652,2652
+models/PG_props/pg_griechisch/pg_column_broken_5.phy,2530,2530
+models/PG_props/pg_griechisch/pg_column_broken_5.sw.vtx,888,888
+models/PG_props/pg_griechisch/pg_column_broken_5.vvd,3008,3008
+models/PG_props/pg_griechisch/pg_column_broken_6.dx80.vtx,744,744
+models/PG_props/pg_griechisch/pg_column_broken_6.dx90.vtx,744,744
+models/PG_props/pg_griechisch/pg_column_broken_6.mdl,2652,2652
+models/PG_props/pg_griechisch/pg_column_broken_6.phy,2306,2306
+models/PG_props/pg_griechisch/pg_column_broken_6.sw.vtx,744,744
+models/PG_props/pg_griechisch/pg_column_broken_6.vvd,2496,2496
+models/www.gaming-models.de/Feuerschale/Grosse_Feuerschale.dx80.vtx,26358,26358
+models/www.gaming-models.de/Feuerschale/Grosse_Feuerschale.dx90.vtx,26358,26358
+models/www.gaming-models.de/Feuerschale/grosse_feuerschale.mdl,1484,1484
+models/www.gaming-models.de/Feuerschale/Grosse_Feuerschale.phy,2284,2284
+models/www.gaming-models.de/Feuerschale/Grosse_Feuerschale.sw.vtx,26358,26358
+models/www.gaming-models.de/Feuerschale/grosse_feuerschale.vvd,93568,93568
+models/www.gaming-models.de/Feuerschale/Grosse_Feuerschale.xbox.vtx,26358,26358
+materials/models/www.gaming-models.de/Feuerschale/darkmetaldvym.vmt,161,161
+materials/models/www.gaming-models.de/Feuerschale/darkmetaldvym.vtf,699256,699256
+materials/models/gaming-models/nebukadnezar/environment/outdoors/column.vmt,275,275
+materials/models/gaming-models/nebukadnezar/environment/outdoors/column.vtf,1048783,1048783
+materials/models/gaming-models/nebukadnezar/environment/outdoors/column_n.vtf,1398308,1398308
+models/gaming-models/nebukadnezar/environment/outdoors/column.dx80.vtx,3492,3492
+models/gaming-models/nebukadnezar/environment/outdoors/column.dx90.vtx,3492,3492
+models/gaming-models/nebukadnezar/environment/outdoors/column.mdl,1492,1492
+models/gaming-models/nebukadnezar/environment/outdoors/column.phy,4463,4463
+models/gaming-models/nebukadnezar/environment/outdoors/column.sw.vtx,3492,3492
+models/gaming-models/nebukadnezar/environment/outdoors/column.vvd,12288,12288
+models/gaming-models/nebukadnezar/environment/outdoors/column.xbox.vtx,3492,3492
+models/gaming-models/nebukadnezar/baptismal font/bapt_font.dx80.vtx,53244,53244
+models/gaming-models/nebukadnezar/baptismal font/bapt_font.dx90.vtx,53244,53244
+models/gaming-models/nebukadnezar/baptismal font/bapt_font.mdl,1492,1492
+models/gaming-models/nebukadnezar/baptismal font/bapt_font.phy,1088,1088
+models/gaming-models/nebukadnezar/baptismal font/bapt_font.sw.vtx,53244,53244
+models/gaming-models/nebukadnezar/baptismal font/bapt_font.vvd,189312,189312
+models/gaming-models/nebukadnezar/baptismal font/bapt_font.xbox.vtx,53244,53244
+materials/models/gaming-models/nebukadnezar/baptismal font/bapt_font.vmt,361,361
+materials/models/gaming-models/nebukadnezar/baptismal font/bapt_font.vtf,699272,699272
+materials/models/gaming-models/nebukadnezar/baptismal font/bapt_font_n.vtf,5592612,5592612
+materials/nikl/earth/sand_lines.vtf,699272,699272
+materials/nikl/earth/sand_lines.vmt,171,171
+materials/skybox/violentdaysbk.vmt,116,116
+materials/skybox/violentdaysbk.vtf,1398336,1398336
+materials/skybox/violentdaysdn.vmt,116,116
+materials/skybox/violentdaysdn.vtf,1398336,1398336
+materials/skybox/violentdaysft.vmt,116,116
+materials/skybox/violentdaysft.vtf,1398336,1398336
+materials/skybox/violentdayslf.vmt,116,116
+materials/skybox/violentdayslf.vtf,1398336,1398336
+materials/skybox/violentdaysrt.vmt,116,116
+materials/skybox/violentdaysrt.vtf,1398336,1398336
+materials/skybox/violentdaysup.vmt,116,116
+materials/skybox/violentdaysup.vtf,1398336,1398336

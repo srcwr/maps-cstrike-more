@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/mapv2/metal/metalwall077a_0_0_0.vmt,118,118
+materials/maps/mapv2/metal/metalwall058a_0_0_0.vmt,118,118
+materials/maps/mapv2/tile/tilefloor020a_cheap_0_0_0.vmt,123,123
+materials/maps/mapv2/tile/tilefloor021a_0_0_0.vmt,117,117
+materials/maps/mapv2/metal/metalwall048a_0_0_0.vmt,118,118
+materials/maps/mapv2/metal/metalceiling005a_0_0_0.vmt,121,121
+materials/maps/mapv2/metal/citadel_tilefloor016a_cheap_0_0_0.vmt,132,132
+materials/maps/mapv2/metal/metalwall056a_0_0_0.vmt,118,118
+materials/maps/mapv2/metal/citadel_metalwall076a_0_0_0.vmt,126,126
+materials/maps/mapv2/tile/tilefloor020a_0_0_0.vmt,117,117
+materials/maps/mapv2/metal/citadel_metalwall078a_0_0_0.vmt,126,126
+materials/maps/mapv2/cubemapdefault.vtf,9824,9824
+materials/maps/mapv2/c0_0_0.vtf,9824,9824
+maps/mapv2.nav,414753,414753
+maps/soundcache/mapv2.cache,16,16

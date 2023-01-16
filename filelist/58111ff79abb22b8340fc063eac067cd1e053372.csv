@@ -1,0 +1,25 @@
+filename,size,compressed
+maps/mg_ice-rink_final.txt,141,141
+materials/KAMIKAZE/ICE.vmt,123,123
+materials/kamikaze/ice.vtf,16592,16592
+materials/KAMIKAZE/METALSET_1-2.vmt,272,272
+materials/KAMIKAZE/MetalSet_1-2.vtf,1398292,1398292
+materials/KAMIKAZE/MetalSet_bump.vtf,1398292,1398292
+materials/maps/mg_ice-rink_final/c1024_1024_496.vtf,4952,4952
+materials/maps/mg_ice-rink_final/cubemapdefault.vtf,4952,4952
+materials/maps/mg_ice-rink_final/kamikaze/metalset_1-2_1024_1024_496.vmt,140,140
+materials/maps/mg_ice-rink_final/metal/citadel_metalwall078a_1024_1024_496.vmt,146,146
+materials/maps/mg_ice-rink_final/metal/citadel_tilewall005a_1024_1024_496.vmt,145,145
+materials/skybox/spacebk.vmt,82,82
+materials/skybox/spacebk.vtf,699272,699272
+materials/skybox/spacedn.vmt,82,82
+materials/skybox/spacedn.vtf,699272,699272
+materials/skybox/spaceft.vmt,82,82
+materials/skybox/spaceft.vtf,699272,699272
+materials/skybox/spacelf.vmt,82,82
+materials/skybox/spacelf.vtf,699272,699272
+materials/skybox/spacert.vmt,82,82
+materials/skybox/spacert.vtf,699272,699272
+materials/skybox/spaceup.vmt,82,82
+materials/skybox/spaceup.vtf,699272,699272
+sound/misc/zombie nation - kernkraft 400.mp3,2213638,2213638

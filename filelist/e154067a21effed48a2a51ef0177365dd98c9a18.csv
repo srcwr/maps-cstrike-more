@@ -1,0 +1,40 @@
+filename,size,compressed
+materials/maps/bhop_transzaqtion/vbd/pack 2 remnont/remn_metalfloor9_0_0_0.vmt,146,146
+materials/maps/bhop_transzaqtion/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_transzaqtion/c0_0_0.vtf,4960,4960
+materials/maps/bhop_transzaqtion/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_transzaqtion/c0_0_0.hdr.vtf,76528,76528
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/Tools/toolsskybox.vtf,11128,11128
+materials/COMMON/OLDSTONE2.vmt,64,64
+materials/common/oldstone2.vtf,32976,32976
+materials/COMMON/OLDSTONE5OLD.vmt,67,67
+materials/common/oldstone5old.vtf,32976,32976
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/Tools/toolstrigger.vtf,5680,5680
+materials/VBD/PACK 2 REMNONT/REMN_METALFLOOR9.vmt,328,328
+materials/PCPIE/TRAINMETALFIX.vmt,101,101
+materials/PCPIE/SELFILLUMWHITE.vmt,104,104
+materials/pcpie/selfillumwhite.vtf,11144,11144
+materials/PCPIE/PHAROS/ROCK01_LIGHT.vmt,101,101
+materials/pcpie/pharos/rock01_light.vtf,87616,87616
+materials/PCPIE/PHAROS/ROCK01.vmt,95,95
+materials/pcpie/pharos/rock01.vtf,87616,87616
+materials/REALWORLDTEXTURES2/METAL/METAL_188.vmt,223,223
+materials/RealWorldTextures2/Metal/metal_188.vtf,174984,174984
+materials/PCPIE/SELFILLUMRED.vmt,102,102
+materials/pcpie/selfillumred.vtf,11144,11144
+materials/skybox/otherworldup.vmt,96,96
+materials/skybox/otherworldup.vtf,699272,699272
+materials/skybox/otherworlddn.vmt,96,96
+materials/skybox/otherworlddn.vtf,699272,699272
+materials/skybox/otherworldft.vmt,96,96
+materials/skybox/otherworldft.vtf,699272,699272
+materials/skybox/otherworldbk.vmt,96,96
+materials/skybox/otherworldbk.vtf,699272,699272
+materials/skybox/otherworldlf.vmt,96,96
+materials/skybox/otherworldlf.vtf,699272,699272
+materials/skybox/otherworldrt.vmt,96,96
+materials/skybox/otherworldrt.vtf,699272,699272
+materials/VBD/PACK 2 REMNONT/remn_metalfloor9_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/remn_metalfloor9.vtf,174984,174984

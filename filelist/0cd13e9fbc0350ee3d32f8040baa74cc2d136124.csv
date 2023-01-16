@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/gg_honeycomb/cs_italy/cobble02_0_0_0.vmt,123,123
+materials/maps/gg_honeycomb/cubemapdefault.vtf,9824,9824
+materials/maps/gg_honeycomb/c0_0_0.vtf,9824,9824
+materials/maps/gg_honeycomb/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/gg_honeycomb/c0_0_0.hdr.vtf,76520,76520
+materials/overviews/gg_honeycomb.vmt,144,144
+materials/overviews/gg_honeycomb.vtf,699272,699272
+materials/overviews/gg_honeycomb_radar.vmt,171,171
+materials/overviews/gg_honeycomb_radar.vtf,699272,699272
+resource/overviews/gg_honeycomb.txt,345,345

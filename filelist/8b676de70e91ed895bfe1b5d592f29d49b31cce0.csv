@@ -1,0 +1,33 @@
+filename,size,compressed
+materials/maps/ze_surf_sky_b3/glass/combineglass001a_0_0_0.vmt,130,130
+materials/maps/ze_surf_sky_b3/cs_havana/flrc01_0_0_0.vmt,124,124
+materials/maps/ze_surf_sky_b3/de_piranesi/marblefloor04_0_0_0.vmt,133,133
+materials/maps/ze_surf_sky_b3/nature/sewer_water001_depth_14.vmt,108,108
+materials/maps/ze_surf_sky_b3/cubemapdefault.vtf,4960,4960
+materials/maps/ze_surf_sky_b3/c0_0_0.vtf,4960,4960
+materials/maps/ze_surf_sky_b3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_surf_sky_b3/c0_0_0.hdr.vtf,76528,76528
+materials/CONCRETE/OFFFLRASNOW.vmt,96,96
+materials/concrete/offflrasnow.vtf,174968,174968
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/Tools/toolsskybox.vtf,11128,11128
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/Tools/toolstrigger.vtf,5680,5680
+materials/SPRITES/BLUELASER1.vmt,187,187
+materials/sprites/bluelaser1.vtf,1512,1512
+materials/skybox/hybridup.vmt,85,85
+materials/skybox/hybridup.vtf,524496,524496
+materials/skybox/hybriddn.vmt,85,85
+materials/skybox/hybriddn.vtf,524496,524496
+materials/skybox/hybridft.vmt,85,85
+materials/skybox/hybridft.vtf,524496,524496
+materials/skybox/hybridbk.vmt,85,85
+materials/skybox/hybridbk.vtf,524496,524496
+materials/skybox/hybridlf.vmt,85,85
+materials/skybox/hybridlf.vtf,524496,524496
+materials/skybox/hybridrt.vmt,85,85
+materials/skybox/hybridrt.vtf,524496,524496
+sound/music_sky_surf/a_hisa - synesthesia (192  kbps).mp3,3933457,3933457
+sound/music_sky_surf/a hisa amnesia.mp3,4449219,4449219
+sound/music_sky_surf/a hisa - star prism (192  kbps).mp3,4776899,4776899
+sound/music_sky_surf/luuuserr_.mp3,36406,36406

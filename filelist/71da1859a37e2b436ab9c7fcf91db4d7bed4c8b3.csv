@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/gg_digital_soldiers_v2/mytextures/cyberceiling_-64_-192_-768.vmt,147,147
+materials/maps/gg_digital_soldiers_v2/mytextures/cyberwall_-64_-192_-768.vmt,144,144
+materials/maps/gg_digital_soldiers_v2/mytextures/cyberfloor_-64_-192_-768.vmt,145,145
+materials/maps/gg_digital_soldiers_v2/liquids/militiawater_-64_-192_-768.vmt,167,167
+materials/maps/gg_digital_soldiers_v2/mytextures/usefultips2_-64_-192_-768.vmt,146,146
+materials/maps/gg_digital_soldiers_v2/mytextures/cubeface3_-64_-192_-768.vmt,144,144
+materials/maps/gg_digital_soldiers_v2/mytextures/cubeface2_-64_-192_-768.vmt,144,144
+materials/maps/gg_digital_soldiers_v2/glass/glasswindowbreak070b_-64_-192_-768.vmt,114,114
+materials/maps/gg_digital_soldiers_v2/glass/offwndwb_-64_-192_-768.vmt,230,230
+materials/maps/gg_digital_soldiers_v2/maps/gg_digital_soldiers_v2/liquids/militiawater_-64_-192_-768_depth_2.vmt,148,148
+materials/maps/gg_digital_soldiers_v2/cubemapdefault.vtf,9824,9824
+materials/maps/gg_digital_soldiers_v2/c-64_-192_-768.vtf,4952,4952
+materials/mytextures/cubeface2.vmt,102,102
+materials/mytextures/cubeface2.vtf,43912,43912
+materials/mytextures/cubeface3.vmt,102,102
+materials/mytextures/cubeface3.vtf,174984,174984
+materials/mytextures/cyberceiling.vmt,106,106
+materials/mytextures/cyberceiling.vtf,174984,174984
+materials/mytextures/cyberfloor.vmt,104,104
+materials/mytextures/cyberfloor.vtf,174984,174984
+materials/mytextures/cyberwall.vmt,103,103
+materials/mytextures/cyberwall.vtf,174984,174984
+materials/mytextures/usefultips2.vmt,104,104
+materials/mytextures/usefultips2.vtf,174984,174984
+sound/de_digital_soldiers audio/Eine Kleiner Elevatormuzik.mp3,1804655,1804655

@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/nir_lonely_island/metal/metalfloor001a_0_0_0.vmt,131,131
+materials/maps/nir_lonely_island/de_piranesi/wooddoor01_0_0_0.vmt,133,133
+materials/maps/nir_lonely_island/dev/dev_water5_depth_102.vmt,102,102
+materials/maps/nir_lonely_island/dev/dev_water5_depth_44.vmt,101,101
+materials/maps/nir_lonely_island/cubemapdefault.vtf,9832,9832
+materials/maps/nir_lonely_island/c0_0_0.vtf,9832,9832
+materials/maps/nir_lonely_island/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/nir_lonely_island/c0_0_0.hdr.vtf,76528,76528
+maps/soundcache/nir_lonely_island.cache,16,16
+resource/overviews/nir_lonely_island.txt,356,356
+materials/overviews/Nir_Lonely_Island.vmt,144,144
+materials/overviews/Nir_Lonely_Island.vtf,5592612,5592612

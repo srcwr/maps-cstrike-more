@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/gg_bloody-corners/deadblock_tex/bloodwater_expensive_0_0_0.vmt,168,168
+materials/maps/gg_bloody-corners/deadblock_tex/bloodwater_expensive_depth_28.vmt,121,121
+materials/maps/gg_bloody-corners/deadblock_tex/bloodwater_expensive_depth_31.vmt,121,121
+materials/maps/gg_bloody-corners/cubemapdefault.vtf,28753,28753
+materials/maps/gg_bloody-corners/c0_0_0.vtf,28753,28753
+materials/maps/gg_bloody-corners/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_bloody-corners/c0_0_0.hdr.vtf,76528,76528
+materials/EW_ARENA_COLORS/GREY1.vmt,69,69
+materials/ew_arena_colors/grey1.vtf,43912,43912
+materials/CASTLE TEXTURES/ARENA_BABYBLUE.vmt,78,78
+materials/EW_ARENA_COLORS/WHITE1.vmt,70,70
+materials/ew_arena_colors/white1.vtf,43912,43912
+materials/ICECREAMLOCK/BLACKGLASS.vmt,121,121
+materials/icecreamlock/blackglass.vtf,2952,2952
+materials/CASTLE TEXTURES/ARENA_GREY.vmt,74,74
+materials/DEADBLOCK_TEX/BLOODWATER_EXPENSIVE.vmt,3210,3210
+materials/deadblock_tex/bloodwater_dx70.vmt,1632,1632
+materials/WATERSOURCE/WATERFALL/WATERFALLHIGH.vmt,267,267
+materials/Watersource/waterfall/HighFall.vtf,174928,174928
+materials/RYAN_DEV/BLACK.vmt,62,62
+materials/ryan_dev/black.vtf,11144,11144
+maps/soundcache/gg_bloody-corners.cache,16,16
+materials/castle textures/arena_babyblue.vtf,43912,43912
+materials/castle textures/arena_grey.vmt,74,74
+materials/castle textures/arena_grey.vtf,43912,43912

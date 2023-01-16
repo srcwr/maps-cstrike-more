@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/bhop_project2big/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_project2big/cubemapdefault.hdr.vtf,76528,76528
+materials/PLATFORMTEXTURE.vmt,63,63
+materials/platformtexture.vtf,2952,2952
+materials/WALLTEXTURE.vmt,59,59
+materials/walltexture.vtf,2952,2952
+materials/FLOORTEXTURE.vmt,60,60
+materials/floortexture.vtf,2952,2952
+materials/ILLUMINATETEXTURE.vmt,118,118
+materials/illuminatetexture.vtf,2952,2952
+materials/CHECKPOINTTEXTURE.vmt,65,65
+materials/checkpointtexture.vtf,2952,2952
+maps/bhop_project2big.nav,205,205

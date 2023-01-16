@@ -1,0 +1,333 @@
+filename,size,compressed
+materials/maps/bhop_dreamtour2/realworldtextures2/tile/tile_19_0_0_0.vmt,140,140
+materials/maps/bhop_dreamtour2/realworldtextures2/tile/tile_02_0_0_0.vmt,140,140
+materials/maps/bhop_dreamtour2/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_dreamtour2/c0_0_0.vtf,4960,4960
+materials/maps/bhop_dreamtour2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_dreamtour2/c0_0_0.hdr.vtf,76528,76528
+materials/RealWorldTextures2/Tile/Tile_19.vmt,325,325
+materials/RealWorldTextures2/Tile/Tile_19.vtf,174984,174984
+materials/RealWorldTextures2/Tile/Tile_19_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Tile/Tile_02.vmt,351,351
+materials/RealWorldTextures2/Tile/Tile_02.vtf,174984,174984
+materials/RealWorldTextures2/Tile/Tile_02_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Tile/Tile_02_SPEC.vtf,174984,174984
+materials/RealWorldTextures2/Marble/inserts/marble_10.vmt,349,349
+materials/RealWorldTextures2/Marble/inserts/marble_10.vtf,174984,174984
+materials/RealWorldTextures2/Marble/inserts/marble_10_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Marble/inserts/marble_09.vmt,349,349
+materials/RealWorldTextures2/Marble/inserts/marble_09.vtf,174984,174984
+materials/RealWorldTextures2/Marble/inserts/marble_09_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Ground/Carpet_27.vmt,325,325
+materials/RealWorldTextures2/Ground/Carpet_27.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_carpet1.vtf,16807,16807
+materials/RealWorldTextures2/Concrete/ground/concrete_02.vmt,388,388
+materials/RealWorldTextures2/Concrete/ground/concrete_02.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/ground/concrete_02_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/noise_detail_01.vtf,65959,65959
+materials/cyberspace/t_cyspwall1_black.vmt,76,76
+materials/cyberspace/t_cyspwall1_black.vtf,174984,174984
+materials/Tinkys Puzzletexture/puzzle_pink.vmt,155,155
+materials/Tinkys Puzzletexture/puzzle_pink.vtf,174984,174984
+materials/Tinkys Puzzletexture/puzzle_mrm.vtf,174984,174984
+materials/Tinkys Puzzletexture/puzzle_turquoise.vmt,160,160
+materials/Tinkys Puzzletexture/puzzle_turquoise.vtf,174984,174984
+materials/Tinkys Puzzletexture/Puzzle_orange.vmt,157,157
+materials/Tinkys Puzzletexture/Puzzle_orange.vtf,174984,174984
+materials/Tinkys Puzzletexture/Puzzle.vmt,150,150
+materials/Tinkys Puzzletexture/Puzzle.vtf,174984,174984
+materials/Tinkys Puzzletexture/puzzle_yellow.vmt,157,157
+materials/Tinkys Puzzletexture/puzzle_yellow.vtf,174984,174984
+materials/real_Lego/Lego_gra_f.vmt,68,68
+materials/real_Lego/Lego_gra_f.vtf,349760,349760
+materials/real_Lego/Lego_gra_b1.vmt,69,69
+materials/real_Lego/Lego_gra_b1.vtf,349760,349760
+materials/real_Lego/Lego_gre_t1.vmt,94,94
+materials/real_Lego/Lego_gre_t1.vtf,349760,349760
+materials/sketchy/sketchblank.vmt,88,88
+materials/sketchy/sketchblank.vtf,87616,87616
+materials/sketchy/sketchbrick.vmt,90,90
+materials/sketchy/sketchbrick.vtf,349760,349760
+materials/cyberspace/t_cyspwall1_black_a.vmt,106,106
+materials/cyberspace/t_cyspwall1_blue.vmt,75,75
+materials/cyberspace/t_cyspwall1_blue.vtf,174984,174984
+materials/cyberspace/t_cyspwall1_orange.vmt,77,77
+materials/cyberspace/t_cyspwall1_orange.vtf,174984,174984
+materials/real_Lego/Lego_whi_t.vmt,68,68
+materials/real_Lego/Lego_whi_t.vtf,87616,87616
+materials/real_Lego/Lego_whi_f.vmt,68,68
+materials/real_Lego/Lego_whi_f.vtf,349760,349760
+materials/sketchy/sketchincandesent.vmt,96,96
+materials/sketchy/sketchincandesent.vtf,22080,22080
+materials/sketchy2/brick_small.vmt,95,95
+materials/sketchy2/brick_small.vtf,87616,87616
+materials/sketchy2/tile_1.vmt,90,90
+materials/sketchy2/tile_1.vtf,87616,87616
+materials/sketchy2/roof_2.vmt,90,90
+materials/sketchy2/roof_2.vtf,87616,87616
+materials/RealWorldTextures2/Wall/Brick_wall_11.vmt,388,388
+materials/RealWorldTextures2/Wall/Brick_wall_11.vtf,174984,174984
+materials/RealWorldTextures2/Wall/Brick_wall_11_nrm.vtf,174984,174984
+materials/sketchy2/brick_large.vmt,91,91
+materials/sketchy2/brick_large.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_check.vmt,110,110
+materials/Crash Bandicoot/wood_crate_check.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_nitro.vmt,110,110
+materials/Crash Bandicoot/wood_crate_nitro.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt_top.vmt,112,112
+materials/Crash Bandicoot/wood_crate_tnt_top.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt.vmt,108,108
+materials/Crash Bandicoot/wood_crate_tnt.vtf,87616,87616
+materials/Egypt/128-02pc.vmt,62,62
+materials/Egypt/128-02pc.vtf,22008,22008
+materials/Crash Bandicoot/metal_crate_normal.vmt,107,107
+materials/Crash Bandicoot/metal_crate_normal.vtf,87616,87616
+materials/Egypt/block09b.vmt,62,62
+materials/Egypt/block09b.vtf,43912,43912
+materials/Egypt/stone10c.vmt,62,62
+materials/Egypt/stone10c.vtf,43912,43912
+materials/real_Lego/Lego_yel_f.vmt,92,92
+materials/real_Lego/Lego_yel_f.vtf,349760,349760
+materials/real_Lego/Lego_red_f.vmt,68,68
+materials/real_Lego/Lego_red_f.vtf,349760,349760
+materials/real_Lego/Lego_bro_f.vmt,91,91
+materials/real_Lego/Lego_bro_f.vtf,349760,349760
+materials/Crash Bandicoot/wood_crate_normal.vmt,111,111
+materials/Crash Bandicoot/wood_crate_normal.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_mask.vmt,109,109
+materials/Crash Bandicoot/wood_crate_mask.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_jump.vmt,109,109
+materials/Crash Bandicoot/wood_crate_jump.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_life.vmt,109,109
+materials/Crash Bandicoot/wood_crate_life.vtf,87616,87616
+materials/cyberspace/t_cyspwall1_green.vmt,76,76
+materials/cyberspace/t_cyspwall1_green.vtf,174984,174984
+materials/cyberspace/t_cyspwall1_red.vmt,74,74
+materials/cyberspace/t_cyspwall1_red.vtf,174984,174984
+materials/RealWorldTextures2/Ceiling/ceiling_06.vmt,290,290
+materials/RealWorldTextures2/Ceiling/ceiling_06.vtf,174984,174984
+materials/RealWorldTextures2/Ceiling/ceiling_06_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Ground/sand_11.vmt,374,374
+materials/RealWorldTextures2/Ground/sand_11.vtf,174984,174984
+materials/RealWorldTextures2/Ground/sand_11_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_smooth1.vtf,16807,16807
+materials/Tinkys Puzzletexture/puzzle_green.vmt,156,156
+materials/Tinkys Puzzletexture/puzzle_green.vtf,174984,174984
+materials/real_Lego/Lego_gra_t.vmt,68,68
+materials/real_Lego/Lego_gra_t.vtf,87616,87616
+materials/real_Lego/Lego_pur_b1.vmt,102,102
+materials/real_Lego/Lego_pur_b1.vtf,349760,349760
+materials/real_Lego/Lego_pur_f.vmt,101,101
+materials/real_Lego/Lego_pur_f.vtf,349760,349760
+materials/real_Lego/Lego_ora_t.vmt,68,68
+materials/real_Lego/Lego_ora_t.vtf,87616,87616
+materials/real_Lego/Lego_blu_t.vmt,68,68
+materials/real_Lego/Lego_blu_t.vtf,87616,87616
+materials/real_Lego/Lego_ora_f.vmt,68,68
+materials/real_Lego/Lego_ora_f.vtf,349760,349760
+materials/real_Lego/Lego_ora_b1.vmt,69,69
+materials/real_Lego/Lego_ora_b1.vtf,349760,349760
+materials/real_Lego/Lego_blu_f.vmt,68,68
+materials/real_Lego/Lego_blu_f.vtf,349760,349760
+materials/sketchy/sketchwall1.vmt,92,92
+materials/sketchy/sketchwall1.vtf,349760,349760
+materials/RealWorldTextures2/Ground/grass_08.vmt,322,322
+materials/RealWorldTextures2/Ground/grass_08.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_grass1.vtf,16807,16807
+materials/Crash Bandicoot/wood_crate_armored.vmt,112,112
+materials/Crash Bandicoot/wood_crate_armored.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_nitro_top.vmt,114,114
+materials/Crash Bandicoot/wood_crate_nitro_top.vtf,87616,87616
+materials/RealWorldTextures/newer/3/tile_3_02.vmt,188,188
+materials/RealWorldTextures/newer/3/tile_3_02.vtf,174984,174984
+materials/RealWorldTextures/newer/3/tile_3_02_nrm.vtf,174984,174984
+materials/cyberspace/t_cyspwall1_blue_a.vmt,105,105
+materials/real_Lego/Lego_red_b1.vmt,69,69
+materials/real_Lego/Lego_red_b1.vtf,349760,349760
+materials/real_Lego/Lego_bla_f.vmt,68,68
+materials/real_Lego/Lego_bla_f.vtf,349760,349760
+materials/real_Lego/Lego_pin_t.vmt,68,68
+materials/real_Lego/Lego_pin_t.vtf,87616,87616
+materials/cyberspace/t_cyspwall1_orange_a.vmt,107,107
+materials/real_Lego/Lego_yel_t.vmt,93,93
+materials/real_Lego/Lego_yel_t.vtf,87616,87616
+materials/real_Lego/Lego_pin_f.vmt,68,68
+materials/real_Lego/Lego_pin_f.vtf,349760,349760
+materials/real_Lego/Lego_pin_b1.vmt,69,69
+materials/real_Lego/Lego_pin_b1.vtf,349760,349760
+materials/Crash Bandicoot/wood_crate_q.vmt,106,106
+materials/Crash Bandicoot/wood_crate_q.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_!.vmt,102,102
+materials/Crash Bandicoot/metal_crate_!.vtf,87616,87616
+materials/sketchy2/blank.vmt,89,89
+materials/sketchy2/blank.vtf,87616,87616
+materials/Color/black.vmt,62,62
+materials/Color/black.vtf,11144,11144
+materials/Egypt/lig_b064-03d.vmt,66,66
+materials/Egypt/lig_b064-03d.vtf,11064,11064
+materials/Egypt/relief03b.vmt,63,63
+materials/Egypt/relief03b.vtf,43912,43912
+materials/Egypt/064-08d.vmt,61,61
+materials/Egypt/064-08d.vtf,11064,11064
+materials/RealWorldTextures2/Wall/Brick_wall_55.vmt,443,443
+materials/RealWorldTextures2/Wall/Brick_wall_55.vtf,174984,174984
+materials/RealWorldTextures2/Wall/Brick_wall_55_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_69.vmt,368,368
+materials/RealWorldTextures2/Wood/wood_69.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_69_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_wood1.vtf,16807,16807
+materials/RealWorldTextures2/Wood/wood_21.vmt,464,464
+materials/RealWorldTextures2/Wood/wood_21.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_21_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_wood.vtf,16807,16807
+materials/real_Lego/Lego_gre_b1.vmt,94,94
+materials/real_Lego/Lego_gre_b1.vtf,349760,349760
+materials/real_Lego/Lego_gre_f.vmt,93,93
+materials/real_Lego/Lego_gre_f.vtf,349760,349760
+materials/real_Lego/Lego_gre_t.vmt,93,93
+materials/real_Lego/Lego_gre_t.vtf,87616,87616
+materials/real_Lego/Lego_bla_t.vmt,68,68
+materials/real_Lego/Lego_bla_t.vtf,87616,87616
+materials/real_Lego/Lego_bla_b1.vmt,69,69
+materials/real_Lego/Lego_bla_b1.vtf,349760,349760
+materials/real_Lego/Lego_yel_b1.vmt,93,93
+materials/real_Lego/Lego_yel_b1.vtf,349760,349760
+materials/RealWorldTextures/Floor/Floor_1_07.vmt,354,354
+materials/RealWorldTextures/Floor/Floor_1_07.vtf,43912,43912
+materials/RealWorldTextures/Floor/Floor_1_07_nrm.vtf,43912,43912
+materials/RealWorldTextures2/Wall/plaster_wall_12.vmt,396,396
+materials/RealWorldTextures2/Wall/plaster_wall_12.vtf,174984,174984
+materials/RealWorldTextures2/Wall/plaster_wall_12_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/plaster_detail_01.vtf,65959,65959
+materials/RealWorldTextures2/Wood/wood_130.vmt,220,220
+materials/RealWorldTextures2/Wood/wood_130.vtf,174984,174984
+materials/RealWorldTextures2/Ground/ground_07.vmt,397,397
+materials/RealWorldTextures2/Ground/ground_07.vtf,174984,174984
+materials/RealWorldTextures2/Ground/ground_07_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_stone3.vtf,16807,16807
+materials/RealWorldTextures/new/WoodFloor_a01.vmt,237,237
+materials/RealWorldTextures/new/WoodFloor_a01.vtf,174984,174984
+materials/RealWorldTextures/new/WoodFloor_a01_spc.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_01.vmt,371,371
+materials/RealWorldTextures2/Wood/wood_01.vtf,174984,174984
+materials/RealWorldTextures2/Wall/plaster_wall_11.vmt,337,337
+materials/RealWorldTextures2/Wall/plaster_wall_11.vtf,174984,174984
+materials/RealWorldTextures2/Wall/Brick_wall_54.vmt,281,281
+materials/RealWorldTextures2/Wall/Brick_wall_54.vtf,174984,174984
+materials/RealWorldTextures2/Wall/Brick_wall_54_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Wall/Brick_wall_05.vmt,283,283
+materials/RealWorldTextures2/Wall/Brick_wall_05.vtf,174984,174984
+materials/RealWorldTextures2/Wall/Brick_wall_05_nrm.vtf,174984,174984
+materials/cyberspace/t_cyspwall1_red_a.vmt,104,104
+materials/beautiful_glass/aqua.vmt,243,243
+materials/beautiful_glass/normal.vtf,349760,349760
+materials/beautiful_glass/aqua.vtf,349760,349760
+materials/real_Lego/Lego_blu_b1.vmt,69,69
+materials/real_Lego/Lego_blu_b1.vtf,349760,349760
+materials/real_Lego/Lego_tur_b1.vmt,69,69
+materials/real_Lego/Lego_tur_b1.vtf,349760,349760
+materials/real_Lego/Lego_bro_t.vmt,91,91
+materials/real_Lego/Lego_bro_t.vtf,87616,87616
+materials/real_Lego/Lego_red_t.vmt,68,68
+materials/real_Lego/Lego_red_t.vtf,87616,87616
+materials/real_Lego/Lego_whi_b1.vmt,69,69
+materials/real_Lego/Lego_whi_b1.vtf,349760,349760
+materials/real_Lego/Lego_bro_b1.vmt,92,92
+materials/real_Lego/Lego_bro_b1.vtf,349760,349760
+materials/real_Lego/Lego_tur_f.vmt,68,68
+materials/real_Lego/Lego_tur_f.vtf,349760,349760
+materials/sketchy/sketchpowerboxside.vmt,99,99
+materials/sketchy/sketchpowerboxside.vtf,22016,22016
+materials/sketchy2/crate_metal_small.vmt,97,97
+materials/sketchy2/crate_metal_small.vtf,22080,22080
+materials/sketchy2/crate_wood_small.vmt,95,95
+materials/sketchy2/crate_wood_small.vtf,22080,22080
+materials/Egypt/128-05b.vmt,61,61
+materials/Egypt/128-05b.vtf,22008,22008
+materials/Egypt/032-04b.vmt,61,61
+materials/Egypt/032-04b.vtf,5624,5624
+materials/Crash Bandicoot/wood_crate_arrowup.vmt,110,110
+materials/Crash Bandicoot/wood_crate_arrowup.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_q.vmt,102,102
+materials/Crash Bandicoot/metal_crate_q.vtf,87616,87616
+materials/sketchy/sketchpicture.vmt,94,94
+materials/sketchy/sketchpicture.vtf,87616,87616
+materials/sketchy/sketchdoor4.vmt,92,92
+materials/sketchy/sketchdoor4.vtf,174944,174944
+materials/sketchy/sketchduct.vmt,93,93
+materials/sketchy/sketchduct.vtf,87616,87616
+materials/sketchy/sketchpowerbox.vmt,95,95
+materials/sketchy/sketchpowerbox.vtf,87616,87616
+materials/sketchy/sketchcredit1.vmt,96,96
+materials/sketchy/sketchcredit1.vtf,87552,87552
+materials/sketchy/sketchdoor1.vmt,94,94
+materials/sketchy/sketchdoor1.vtf,174944,174944
+materials/real_Lego/Lego_pur_t.vmt,101,101
+materials/real_Lego/Lego_pur_t.vtf,87616,87616
+materials/sketchy/sketchfluorescent.vmt,100,100
+materials/sketchy/sketchfluorescent.vtf,43872,43872
+materials/sketchy/sketchcrate128.vmt,92,92
+materials/sketchy/sketchcrate128.vtf,22080,22080
+materials/sketchy/sketchdoor3.vmt,94,94
+materials/sketchy/sketchdoor3.vtf,349760,349760
+materials/sketchy2/wall_slope_1.vmt,96,96
+materials/sketchy2/wall_slope_1.vtf,22080,22080
+materials/RealWorldTextures2/Concrete/concrete_56.vmt,318,318
+materials/RealWorldTextures2/Concrete/concrete_56.vtf,174984,174984
+materials/RealWorldTextures2/Detail/detailconcrete001a.vtf,262567,262567
+materials/RealWorldTextures/newer/0/bricks_0_35.vmt,170,170
+materials/RealWorldTextures/newer/0/bricks_0_35.vtf,174984,174984
+materials/RealWorldTextures/newer/0/bricks_0_35_nrm.vtf,174984,174984
+materials/RealWorldTextures/newer/1/Brick_1_13.vmt,109,109
+materials/RealWorldTextures/newer/1/Brick_1_13.vtf,174984,174984
+materials/sketchy/sketchcrate256.vmt,92,92
+materials/sketchy/sketchcrate256.vtf,87616,87616
+materials/sketchy/sketchsignloading.vmt,98,98
+materials/sketchy/sketchsignloading.vtf,43872,43872
+materials/RealWorldTextures2/Wood/wood_15.vmt,317,317
+materials/RealWorldTextures2/Wood/wood_15.vtf,174984,174984
+materials/RealWorldTextures2/Detail/dt_wood2.vtf,16807,16807
+materials/sprites/blend/MINTEKST.vmt,81,81
+materials/sprites/blend/mintekst.vtf,22369856,22369856
+materials/sprites/blend/cupid.vmt,84,84
+materials/sprites/blend/cupid.vtf,349760,349760
+materials/fibbs/vol_light.vmt,275,275
+materials/fibbs/vol_light.vtf,349776,349776
+materials/skybox/sky03up.vmt,88,88
+materials/skybox/sky03up.vtf,699272,699272
+materials/skybox/sky03dn.vmt,88,88
+materials/skybox/sky03dn.vtf,699272,699272
+materials/skybox/sky03lf.vmt,88,88
+materials/skybox/sky03lf.vtf,699272,699272
+materials/skybox/sky03rt.vmt,88,88
+materials/skybox/sky03rt.vtf,699272,699272
+materials/skybox/sky03ft.vmt,88,88
+materials/skybox/sky03ft.vtf,699272,699272
+materials/skybox/sky03bk.vmt,88,88
+materials/skybox/sky03bk.vtf,699272,699272
+materials/detail/detailsprites.vmt,162,162
+materials/detail/detailsprites.vtf,699256,699256
+sound/crowsoundeffect.wav,1525292,1525292
+models/brg_foliage/tree_alder.mdl,1856,1856
+models/brg_foliage/tree_alder.vvd,170064,170064
+models/brg_foliage/tree_alder.dx90.vtx,36808,36808
+models/brg_foliage/tree_alder.dx80.vtx,36808,36808
+models/brg_foliage/tree_alder.sw.vtx,36808,36808
+models/brg_foliage/tree_alder.phy,2411,2411
+materials/models/brg_foliage/brg_alder_brk.vmt,102,102
+materials/models/brg_foliage/brg_alder_brk.vtf,1048688,1048688
+materials/models/brg_foliage/brg_alder_brk2.vmt,103,103
+materials/models/brg_foliage/brg_alder_brk2.vtf,65648,65648
+materials/models/brg_foliage/brg_alder_brn.vmt,137,137
+materials/models/brg_foliage/brg_alder_brn.vtf,262352,262352
+maps/bhop_dreamtour2.nav,205,205
+scripts/soundscapes_bhop_dreamtour2.txt,1136,1136
+materials/sprites/blend/STARTTIMER.vmt,83,83
+materials/sprites/blend/starttimer.vtf,349696,349696
+sound/blend/dreamtour1.mp3,3785194,3785194
+sound/blend/dreamtour2.mp3,3163149,3163149
+sound/blend/dreamtour3.mp3,4243277,4243277
+sound/blend/dreamtour4.mp3,5078778,5078778
+sound/blend/dreamtour5.mp3,3539434,3539434
+sound/blend/dreamtour8.mp3,3485099,3485099
+sound/blend/dreamtour9.mp3,3464777,3464777

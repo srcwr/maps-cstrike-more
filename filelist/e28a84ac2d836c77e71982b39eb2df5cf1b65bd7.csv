@@ -1,0 +1,21 @@
+filename,size,compressed
+materials/maps/surf_dread/vehicle/metaltrain001d_0_0_0.vmt,126,126
+materials/maps/surf_dread/vehicle/metaltrain001a_0_0_0.vmt,126,126
+materials/maps/surf_dread/vehicle/rubbertrainfloor001a_0_0_0.vmt,132,132
+materials/maps/surf_dread/glass/offwndwc_0_0_0.vmt,118,118
+materials/maps/surf_dread/metal/citadel_metalwall072a_0_0_0.vmt,131,131
+materials/maps/surf_dread/metal/metalroof004a_0_0_0.vmt,123,123
+materials/maps/surf_dread/glass/glasswindow007a_0_0_0.vmt,125,125
+materials/maps/surf_dread/metal/metalwall082a_0_0_0.vmt,123,123
+materials/maps/surf_dread/metal/metalwall090a_0_0_0.vmt,123,123
+materials/maps/surf_dread/metal/citadel_tilefloor016a_0_0_0.vmt,131,131
+materials/maps/surf_dread/environment maps/pipemetal001a_0_0_0.vmt,134,134
+materials/maps/surf_dread/metal/citadel_metalwall072c_0_0_0.vmt,131,131
+materials/maps/surf_dread/glass/offlightcover_0_0_0.vmt,123,123
+materials/maps/surf_dread/models/props_lab/crystalbulk_glass_0_0_0.vmt,138,138
+materials/maps/surf_dread/dev/dev_water2_cheap_depth_8.vmt,106,106
+materials/maps/surf_dread/nature/water_movingplane_beneath_depth_28.vmt,119,119
+materials/maps/surf_dread/liquids/militiawater_dx70_depth_7.vmt,111,111
+materials/maps/surf_dread/nature/sewer_waterdarkfog_depth_39.vmt,112,112
+materials/maps/surf_dread/cubemapdefault.vtf,9824,9824
+materials/maps/surf_dread/c0_0_0.vtf,9824,9824

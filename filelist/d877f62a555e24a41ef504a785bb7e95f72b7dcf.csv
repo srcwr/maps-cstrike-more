@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/dm_fatal_4ways_pb/nature/sewer_water001_-344_-824_384.vmt,163,163
+materials/maps/dm_fatal_4ways_pb/nature/sewer_water001_856_-824_384.vmt,162,162
+materials/maps/dm_fatal_4ways_pb/nature/sewer_water001_-352_304_-107.vmt,163,163
+materials/maps/dm_fatal_4ways_pb/nature/sewer_water001_864_288_384.vmt,161,161
+materials/maps/dm_fatal_4ways_pb/maps/dm_fatal_4ways_pb/nature/sewer_water001_-352_304_-107_depth_32.vmt,145,145
+materials/maps/dm_fatal_4ways_pb/cubemapdefault.vtf,9824,9824
+materials/maps/dm_fatal_4ways_pb/c-344_-824_384.vtf,4952,4952
+materials/maps/dm_fatal_4ways_pb/c856_-824_384.vtf,4952,4952
+materials/maps/dm_fatal_4ways_pb/c-352_304_-107.vtf,4952,4952
+materials/maps/dm_fatal_4ways_pb/c864_288_384.vtf,4952,4952
+materials/maps/dm_fatal_4ways_pb/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/dm_fatal_4ways_pb/c-344_-824_384.hdr.vtf,76520,76520
+materials/maps/dm_fatal_4ways_pb/c856_-824_384.hdr.vtf,76520,76520
+materials/maps/dm_fatal_4ways_pb/c-352_304_-107.hdr.vtf,76520,76520
+materials/maps/dm_fatal_4ways_pb/c864_288_384.hdr.vtf,76520,76520

@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/trikz_longue/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/trikz_longue/glass/combineglass001a_0_0_0.vmt,128,128
+materials/maps/trikz_longue/nature/water_lowmurkref_depth_258.vmt,111,111
+materials/maps/trikz_longue/nature/toxicslime002a_depth_65.vmt,108,108
+materials/maps/trikz_longue/dev/dev_water2_depth_44.vmt,101,101
+materials/maps/trikz_longue/nature/water_lowmurkref_depth_64.vmt,110,110
+materials/maps/trikz_longue/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/trikz_longue/dev/dev_water2_depth_92.vmt,101,101
+materials/maps/trikz_longue/dev/dev_water2_depth_69.vmt,101,101
+materials/maps/trikz_longue/cubemapdefault.vtf,4960,4960
+materials/maps/trikz_longue/c0_0_0.vtf,4960,4960
+materials/maps/trikz_longue/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/trikz_longue/c0_0_0.hdr.vtf,76528,76528
+materials/vgui/logos/THEEND.vmt,80,80
+materials/vgui/logos/THEEND.vtf,87640,87640
+sound/admin_plugin/theend.mp3,1320959,1320959

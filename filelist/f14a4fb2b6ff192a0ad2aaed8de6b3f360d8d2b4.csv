@@ -1,0 +1,53 @@
+filename,size,compressed
+materials/maps/test9/cubemapdefault.vtf,9832,9832
+materials/maps/test9/cubemapdefault.hdr.vtf,76528,76528
+materials/360G/BUILDING3.vmt,95,95
+materials/360g/building3.vtf,174968,174968
+materials/360G/WHITEFLOOR.vmt,96,96
+materials/360g/whitefloor.vtf,43896,43896
+materials/360G/BUILDING2.vmt,95,95
+materials/360g/building2.vtf,43896,43896
+materials/360G/FULLBLACK.vmt,95,95
+materials/360g/fullblack.vtf,43896,43896
+materials/360G/RED.vmt,89,89
+materials/360g/Red.vtf,43896,43896
+materials/360G/MIRROSEDGE1.vmt,97,97
+materials/360g/mirrosedge1.vtf,699256,699256
+materials/360G/ROAD.vmt,90,90
+materials/360g/road.vtf,43896,43896
+materials/360G/GRAYHEAVY.vmt,95,95
+materials/360g/grayheavy.vtf,43896,43896
+materials/360G/WHITEGRAYFLOOR.vmt,100,100
+materials/360g/whitegrayfloor.vtf,43896,43896
+materials/360G/WALL1.vmt,91,91
+materials/360g/wall1.vtf,43896,43896
+materials/360G/METALIC1.vmt,91,91
+materials/360g/metalic1.vtf,43896,43896
+materials/360G/YELLOW.vmt,92,92
+materials/360g/Yellow.vtf,43896,43896
+materials/TROLLTEXTURES/ADMIN BUTTON.vmt,74,74
+materials/360G/SOLARPLACA.vmt,93,93
+materials/360g/solarplaca.vtf,43896,43896
+materials/360G/ORANGE.vmt,92,92
+materials/360g/orange.vtf,43896,43896
+materials/TROLLTEXTURES/EXTREME MODE.vmt,74,74
+materials/TROLLTEXTURES/HARD MODE.vmt,71,71
+materials/TROLLTEXTURES/NORMAL MODE.vmt,73,73
+materials/TROLLTEXTURES/EASY MODE.vmt,71,71
+materials/TROLLTEXTURES/MAPEDITOR.vmt,71,71
+materials/trolltextures/mapeditor.vtf,174984,174984
+materials/TROLLTEXTURES/GOD OR IMPOSSIBLE MODE.vmt,84,84
+materials/360G/CLOSE SINAL.vmt,64,64
+materials/360G/OPEN SINAL.vmt,63,63
+materials/360G/GRAYSOFT.vmt,94,94
+materials/360g/graysoft.vtf,43896,43896
+materials/RED.vmt,89,89
+sound/trollmirrors/nuke2.mp3,222067,222067
+materials/trolltextures/Admin Button.vtf,11144,11144
+materials/trolltextures/Easy Mode.vtf,22080,22080
+materials/trolltextures/Extreme Mode.vtf,11144,11144
+materials/trolltextures/God or Impossible Mode.vtf,22008,22008
+materials/trolltextures/Normal Mode.vtf,43872,43872
+materials/trolltextures/Hard Mode.vtf,22080,22080
+sound/my sounds/MirrorsEdgeMusic.mp3,6227011,6227011
+sound/my sounds/bennyhill.mp3,389060,389060

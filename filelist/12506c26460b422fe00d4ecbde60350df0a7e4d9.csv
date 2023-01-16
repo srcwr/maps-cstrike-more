@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/aim_ag_trenches/cubemapdefault.vtf,9824,9824
+materials/maps/aim_ag_trenches/c2052_-205_452.vtf,4952,4952
+materials/DEV/DEV_BLUE.vmt,128,128
+materials/dev/dev_blue.vtf,11144,11144
+materials/DEV/DEV_RED.vmt,127,127
+materials/dev/dev_red.vtf,11144,11144
+materials/DEV/DEV_ORANGE.vmt,130,130
+materials/dev/dev_orange.vtf,11144,11144
+materials/DEV/JGC_TEXTURE_BANNER_TRENCH.vmt,96,96
+materials/dev/jgc_texture_banner_trench.vtf,174944,174944
+maps/aim_ag_trenches.nav,300487,300487
+maps/soundcache/aim_ag_trenches.cache,16,16
+maps/aim_ag_trenches.txt,639,639

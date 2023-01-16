@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/mg_knife_multi_50hp_d/cubemapdefault.vtf,9832,9832
+materials/maps/mg_knife_multi_50hp_d/cubemapdefault.hdr.vtf,76528,76528
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,22064,22064
+materials/tools/toolsinvisible.vmt,304,304
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/tools/toolstrigger.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/cs_havana/white.vmt,52,52
+materials/cs_havana/white.vtf,888,888
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,1398336,1398336
+maps/mg_knife_multi_50hp_d.nav,358048,358048

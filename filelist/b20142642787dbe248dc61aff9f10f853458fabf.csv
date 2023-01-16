@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/fy_test1/nature/red_grass_thin_wvt_patch.vmt,348,348
+materials/maps/fy_test1/concrete/concretefloor033k_-2048_1173_170.vmt,137,137
+materials/maps/fy_test1/concrete/concretefloor033k_-768_256_856.vmt,135,135
+materials/maps/fy_test1/de_dust/tilefloor02_-2048_1173_170.vmt,130,130
+materials/maps/fy_test1/cubemapdefault.vtf,9832,9832
+materials/maps/fy_test1/c-2048_1173_170.vtf,9832,9832
+materials/maps/fy_test1/c-768_256_856.vtf,9832,9832
+materials/maps/fy_test1/c-768_252_1060.vtf,9832,9832
+materials/maps/fy_test1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/fy_test1/c-2048_1173_170.hdr.vtf,76536,76536
+materials/maps/fy_test1/c-768_256_856.hdr.vtf,76536,76536
+materials/maps/fy_test1/c-768_252_1060.hdr.vtf,76536,76536

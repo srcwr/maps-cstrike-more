@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/maps/portalv13/reacz/portal/dark/thick_framed/wall_black_small2_-2512_-781_329.vmt,160,160
+materials/maps/portalv13/reacz/portal/glass/refractive/glass_refract02_-2512_-781_329.vmt,157,157
+materials/maps/portalv13/reacz/portal/dark/thin_framed/clean/large_clean_-2512_-781_329.vmt,159,159
+materials/maps/portalv13/reacz/portal/dark/thick_framed/wall_black_small1_-2512_-781_329.vmt,160,160
+materials/maps/portalv13/glass/glasswindowbreak070b_-2512_-781_329.vmt,114,114
+materials/maps/portalv13/glass/offwndwb_-2512_-781_329.vmt,206,206
+materials/maps/portalv13/cubemapdefault.vtf,9832,9832
+materials/maps/portalv13/c-2512_-781_329.vtf,9832,9832
+materials/maps/portalv13/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/portalv13/c-2512_-781_329.hdr.vtf,76528,76528
+materials/PORTAL 2 TEXTURES BY REACZ V1/CSTRIKE/MATERIALS/REACZ/PORTAL/LIGHT/TEXTURED/WHITE/SMALL_TEXTURED.vmt,943,943
+materials/reacz/portal/light/textured/white/small_textured.vtf,1398308,1398308
+materials/reacz/portal/light/normals/textured/small_textured_nmap.vtf,1048783,1048783
+materials/reacz/detail/detail_concrete_03.vtf,174984,174984
+materials/PORTAL 2 TEXTURES BY REACZ V1/CSTRIKE/MATERIALS/REACZ/PORTAL/TRIM/TRIM.vmt,535,535
+materials/reacz/portal/trim/trim.vtf,11052,11052
+materials/reacz/portal/trim/trim_nmap.vtf,8317,8317
+materials/REACZ/PORTAL/LIGHT/CLEAN/WHITE/LARGE_CLEAN.vmt,919,919
+materials/reacz/portal/light/clean/white/large_clean.vtf,1398308,1398308
+materials/reacz/portal/light/normals/clean/large_clean_nmap.vtf,1048783,1048783
+materials/REACZ/PORTAL/LIGHT/CLEAN/WHITE/LARGE_THIN_CLEAN.vmt,944,944
+materials/reacz/portal/light/clean/white/large_thin_clean.vtf,1398308,1398308
+materials/reacz/portal/light/normals/clean/large_thin_clean_nmap.vtf,1048783,1048783
+materials/REACZ/PORTAL/DARK/THICK_FRAMED/WALL_BLACK_SMALL2.vmt,1441,1441
+materials/reacz/portal/dark/thick_framed/wall_black_small2.vtf,1398308,1398308
+materials/reacz/portal/dark/thick_framed/wall_black_small_nmap2.vtf,1048783,1048783
+materials/reacz/detail/detail_metal_brushed.vtf,11168,11168
+materials/REACZ/PORTAL/GLASS/REFRACTIVE/GLASS_REFRACT02.vmt,495,495
+materials/reacz/portal/glass/refractive/Glass_refract02.vtf,1048783,1048783
+materials/REACZ/PORTAL/DARK/THIN_FRAMED/CLEAN/LARGE_CLEAN.vmt,1460,1460
+materials/reacz/portal/dark/thin_framed/clean/large_clean.vtf,1398308,1398308
+materials/reacz/portal/dark/thin_framed/normals/clean/large_clean_nmap.vtf,1048783,1048783
+materials/REACZ/PORTAL/DARK/THICK_FRAMED/WALL_BLACK_SMALL1.vmt,1441,1441
+materials/reacz/portal/dark/thick_framed/wall_black_small1.vtf,1398308,1398308
+materials/reacz/portal/dark/thick_framed/wall_black_small_nmap1.vtf,1048783,1048783

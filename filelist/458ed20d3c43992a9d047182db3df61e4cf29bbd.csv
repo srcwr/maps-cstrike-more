@@ -1,0 +1,47 @@
+filename,size,compressed
+materials/maps/mg_club_disco/tile/tilewall006a_0_0_0.vmt,124,124
+materials/maps/mg_club_disco/metal/citadel_tilefloor016a_0_0_0.vmt,134,134
+materials/maps/mg_club_disco/glass/unbreakable_0_0_0.vmt,124,124
+materials/maps/mg_club_disco/metal/metalfloor001a_0_0_0.vmt,127,127
+materials/maps/mg_club_disco/liquids/water_dx70_depth_248.vmt,106,106
+materials/maps/mg_club_disco/cubemapdefault.vtf,4952,4952
+materials/maps/mg_club_disco/c0_0_0.vtf,4952,4952
+materials/SF/CONCRETE/CONCRETEFLOOR_SF_001A.vmt,118,118
+materials/sf/concrete/concretefloor_sf_001a.vtf,174968,174968
+materials/360/PLASTIK[LOGO]2.vmt,98,98
+materials/360/plastik[logo]2.vtf,87528,87528
+materials/MIXER.vmt,55,55
+materials/Mixer.vtf,22008,22008
+materials/DEVNEONS/RED_NEON.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/DEVNEONS/GREEN_NEON.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/KOMAOKC/BASKETWEAVE.vmt,104,104
+materials/komaokc/basketweave.vtf,349760,349760
+materials/skybox/mpa115up.vmt,92,92
+materials/skybox/mpa115up.vtf,699272,699272
+materials/skybox/mpa115dn.vmt,92,92
+materials/skybox/mpa115dn.vtf,699272,699272
+materials/skybox/mpa115ft.vmt,92,92
+materials/skybox/mpa115ft.vtf,699272,699272
+materials/skybox/mpa115bk.vmt,92,92
+materials/skybox/mpa115bk.vtf,699272,699272
+materials/skybox/mpa115lf.vmt,92,92
+materials/skybox/mpa115lf.vtf,699272,699272
+materials/skybox/mpa115rt.vmt,92,92
+materials/skybox/mpa115rt.vtf,699272,699272
+sound/plastik[dj]/best techno song ever!!!!!! (zombie nation) remix!!!.wav,8994906,8994906
+sound/plastik[dj]/14.culcha candela - monsta (official music video).wav,8798298,8798298
+sound/plastik[dj]/16.david guetta ft. akon - sexy bitch.wav,10817626,10817626
+sound/[dkc]sound/black eyed peas-meet me halfway [best quality][hq].mp3,2295904,2295904
+sound/[dkc]sound/frauenarzt & manny marc - disco pogo (original song).mp3,1656720,1656720
+sound/[dkc]sound/hotelroom service.mp3,1910480,1910480
+models/speaker/speaker.mdl,3132,3132
+models/speaker/speaker.dx80.vtx,4894,4894
+models/speaker/speaker.dx90.vtx,4894,4894
+models/speaker/speaker.sw.vtx,4870,4870
+models/speaker/speaker.phy,1943,1943
+models/speaker/speaker.vvd,19328,19328
+materials/speaker/speaker.vmt,82,82
+materials/speaker/speaker.vtf,174968,174968
+maps/soundcache/mg_club_disco.cache,16,16

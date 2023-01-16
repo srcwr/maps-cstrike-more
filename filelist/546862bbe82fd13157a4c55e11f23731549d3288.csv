@@ -1,0 +1,10 @@
+filename,size,compressed
+materials/maps/gg_gtp_2lvlroom/metal/metalfloor001a_-192_-64_192.vmt,136,136
+materials/maps/gg_gtp_2lvlroom/metal/metalfloor001a_-256_-32_288.vmt,136,136
+materials/maps/gg_gtp_2lvlroom/models/props_building_details/courtyard_template001c_bars_dark_-192_-64_192.vmt,178,178
+materials/maps/gg_gtp_2lvlroom/models/props_building_details/courtyard_template001c_bars_dark_192_-59_64.vmt,176,176
+materials/maps/gg_gtp_2lvlroom/models/props_building_details/courtyard_template001c_bars_dark_-256_-32_288.vmt,178,178
+materials/maps/gg_gtp_2lvlroom/cubemapdefault.vtf,9824,9824
+materials/maps/gg_gtp_2lvlroom/c-192_-64_192.vtf,9824,9824
+materials/maps/gg_gtp_2lvlroom/c-256_-32_288.vtf,9824,9824
+materials/maps/gg_gtp_2lvlroom/c192_-59_64.vtf,9824,9824

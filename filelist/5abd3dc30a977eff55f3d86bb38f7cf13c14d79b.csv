@@ -1,0 +1,134 @@
+filename,size,compressed
+materials/maps/mg_smash_minecraft/c416_32_432.vtf,4952,4952
+materials/skybox/Minecraft_sunsetbk.vmt,105,105
+materials/skybox/Minecraft_sunsetdn.vmt,107,107
+materials/skybox/Minecraft_sunsetft.vmt,107,107
+materials/skybox/Minecraft_sunsetlf.vmt,107,107
+materials/skybox/Minecraft_sunsetrt.vmt,107,107
+materials/skybox/Minecraft_sunsetup.vmt,107,107
+materials/skybox/minecraft_sunsetbk.vtf,32976,32976
+materials/skybox/minecraft_sunsetdn.vtf,43912,43912
+materials/skybox/minecraft_sunsetft.vtf,43912,43912
+materials/skybox/minecraft_sunsetlf.vtf,43912,43912
+materials/skybox/minecraft_sunsetrt.vtf,43912,43912
+materials/skybox/minecraft_sunsetup.vtf,32976,32976
+materials/eNnerGy/Minecraft/bed_back.vmt,137,137
+materials/eNnerGy/Minecraft/bed_back.vtf,22080,22080
+materials/eNnerGy/Minecraft/bed_front.vmt,138,138
+materials/eNnerGy/Minecraft/bed_front.vtf,22080,22080
+materials/eNnerGy/Minecraft/bed_side.vmt,137,137
+materials/eNnerGy/Minecraft/bed_side.vtf,22080,22080
+materials/eNnerGy/Minecraft/bed_top.vmt,115,115
+materials/eNnerGy/Minecraft/bed_top.vtf,11144,11144
+materials/eNnerGy/Minecraft/bookshelf.vmt,117,117
+materials/eNnerGy/Minecraft/bookshelf.vtf,11144,11144
+materials/eNnerGy/Minecraft/chest_back.vmt,118,118
+materials/eNnerGy/Minecraft/chest_back.vtf,11144,11144
+materials/eNnerGy/Minecraft/chest_front.vmt,119,119
+materials/eNnerGy/Minecraft/chest_front.vtf,11144,11144
+materials/eNnerGy/Minecraft/Dirt.vmt,136,136
+materials/eNnerGy/Minecraft/Dirt.vtf,11144,11144
+materials/eNnerGy/Minecraft/enchanting_Table_top.vtf,11144,11144
+materials/eNnerGy/Minecraft/enchanting_table_down.vmt,153,153
+materials/eNnerGy/Minecraft/enchanting_table_down.vtf,11144,11144
+materials/eNnerGy/Minecraft/enchanting_table_side.vmt,153,153
+materials/eNnerGy/Minecraft/enchanting_table_side.vtf,11144,11144
+materials/eNnerGy/Minecraft/enchanting_table_top.vmt,154,154
+materials/eNnerGy/Minecraft/leaves_1solid_C.vtf,11144,11144
+materials/eNnerGy/Minecraft/leaves_1solid_c.vmt,150,150
+materials/eNnerGy/Minecraft/musicbox_side.vmt,145,145
+materials/eNnerGy/Minecraft/musicbox_side.vtf,11144,11144
+materials/eNnerGy/Minecraft/musicbox_top.vmt,144,144
+materials/eNnerGy/Minecraft/musicbox_top.vtf,11144,11144
+materials/eNnerGy/Minecraft/netherbricks.vmt,145,145
+materials/eNnerGy/Minecraft/netherbricks.vtf,11144,11144
+materials/eNnerGy/Minecraft/netherrack.vmt,118,118
+materials/eNnerGy/Minecraft/netherrack.vtf,11144,11144
+materials/eNnerGy/Minecraft/wooden_planks_dark.vmt,150,150
+materials/eNnerGy/Minecraft/wooden_planks_dark.vtf,11144,11144
+materials/minecraft/cake_bottom.vmt,115,115
+materials/minecraft/cake_bottom.vtf,87616,87616
+materials/minecraft/cake_inner.vmt,114,114
+materials/minecraft/cake_inner.vtf,87616,87616
+materials/minecraft/cake_top.vmt,112,112
+materials/minecraft/cake_top.vtf,87616,87616
+materials/minecraft/chest LF.vmt,96,96
+materials/minecraft/chest LF.vtf,43912,43912
+materials/minecraft/chest2B.vmt,95,95
+materials/minecraft/chest2B.vtf,87544,87544
+materials/minecraft/chest2F.vmt,95,95
+materials/minecraft/chest2F.vtf,87544,87544
+materials/minecraft/chest2U.vmt,95,95
+materials/minecraft/chest2U.vtf,87544,87544
+materials/minecraft/dirt_1.vmt,89,89
+materials/minecraft/dirt_1.vtf,43912,43912
+materials/minecraft/doorWood.vmt,115,115
+materials/minecraft/doorWood.vtf,174944,174944
+materials/minecraft/furnaceB.vmt,90,90
+materials/minecraft/furnaceB.vtf,43912,43912
+materials/minecraft/furnaceU.vmt,90,90
+materials/minecraft/furnaceU.vtf,43912,43912
+materials/minecraft/furnace_front.vmt,95,95
+materials/minecraft/furnace_front.vtf,43912,43912
+materials/minecraft/glowstone.vmt,116,116
+materials/minecraft/glowstone.vtf,43912,43912
+materials/minecraft/hellsand.vmt,91,91
+materials/minecraft/hellsand.vtf,43912,43912
+materials/minecraft/lava.vmt,570,570
+materials/minecraft/lava.vtf,87616,87616
+materials/minecraft/log_oak.vmt,65,65
+materials/minecraft/log_oak.vtf,43912,43912
+materials/minecraft/netherhack brick.vmt,99,99
+materials/minecraft/netherhack brick.vtf,43912,43912
+materials/minecraft/netherquartz.vmt,94,94
+materials/minecraft/netherquartz.vtf,43912,43912
+materials/minecraft/obsidian.vmt,90,90
+materials/minecraft/obsidian.vtf,43912,43912
+materials/minecraft/oreCoal.vmt,90,90
+materials/minecraft/oreCoal.vtf,43912,43912
+materials/minecraft/oreIron.vmt,89,89
+materials/minecraft/oreIron.vtf,43912,43912
+materials/minecraft/piston LR.vmt,91,91
+materials/minecraft/piston LR.vtf,43912,43912
+materials/minecraft/piston down.vmt,93,93
+materials/minecraft/piston down.vtf,43912,43912
+materials/minecraft/piston up on.vmt,94,94
+materials/minecraft/piston up on.vtf,43912,43912
+materials/minecraft/piston up.vmt,97,97
+materials/minecraft/piston up.vtf,43912,43912
+materials/minecraft/planks_big_oak.vmt,102,102
+materials/minecraft/planks_big_oak.vtf,43912,43912
+materials/minecraft/planks_oak.vmt,98,98
+materials/minecraft/planks_oak.vtf,43912,43912
+materials/minecraft/planks_spruce.vmt,101,101
+materials/minecraft/planks_spruce.vtf,43912,43912
+materials/minecraft/portal.vmt,257,257
+materials/minecraft/portal.vtf,1246912,1246912
+materials/minecraft/stone.vmt,87,87
+materials/minecraft/stone.vtf,43912,43912
+materials/minecraft/stonebrick 2.vmt,95,95
+materials/minecraft/stonebrick 2.vtf,43912,43912
+materials/minecraft/stonebrick 3.vmt,95,95
+materials/minecraft/stonebrick 3.vtf,43912,43912
+materials/minecraft/stonebrick 4.vmt,95,95
+materials/minecraft/stonebrick 4.vtf,43912,43912
+materials/minecraft/stonebrick.vmt,93,93
+materials/minecraft/stonebrick.vtf,43912,43912
+materials/minecraft/workbenchL.vmt,68,68
+materials/minecraft/workbenchL.vtf,43912,43912
+materials/minecraft/workbenchR.vmt,68,68
+materials/minecraft/workbenchR.vtf,43912,43912
+materials/minecraft/workbenchU.vmt,98,98
+materials/minecraft/workbenchU.vtf,43912,43912
+materials/R997/Mc/Mc-Grass_side.vmt,94,94
+materials/R997/Mc/Mc-Grass_side.vtf,43912,43912
+materials/R997/Mc/Mc-Grass_top.vmt,93,93
+materials/R997/Mc/Mc-Grass_top.vtf,43912,43912
+materials/R997/Mc/Mc-Log_top.vmt,96,96
+materials/R997/Mc/Mc-Log_top.vtf,43912,43912
+materials/R997/Mc/Mc-Water_flowing.vmt,718,718
+materials/R997/Mc/Mc-Water_flowing.vtf,87588,87588
+materials/zeromapping/raccon.vmt,142,142
+materials/zeromapping/raccon.vtf,22080,22080
+sound/ambience/minecraft/Minecraft - Piano3.wav,49623596,49623596
+sound/ambience/minecraft/minecraft - portal.wav,876920,876920

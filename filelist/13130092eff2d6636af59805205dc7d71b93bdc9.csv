@@ -1,0 +1,20 @@
+filename,size,compressed
+materials/maps/mg_spirals_course_v3/nature/blendtoxictoxic004a_wvt_patch.vmt,305,305
+materials/maps/mg_spirals_course_v3/nature/rocks_red_grass_wvt_patch.vmt,323,323
+materials/maps/mg_spirals_course_v3/metal/metalwall076a_0_0_0.vmt,133,133
+materials/maps/mg_spirals_course_v3/concrete/concretefloor005a_0_0_0.vmt,140,140
+materials/maps/mg_spirals_course_v3/liquids/militiawater_depth_304.vmt,108,108
+materials/maps/mg_spirals_course_v3/liquids/militiawater_dx70_depth_296.vmt,113,113
+materials/maps/mg_spirals_course_v3/cubemapdefault.vtf,9832,9832
+materials/maps/mg_spirals_course_v3/c0_0_0.vtf,9832,9832
+materials/maps/mg_spirals_course_v3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_spirals_course_v3/c0_0_0.hdr.vtf,76528,76528
+materials/overviews/mg_spirals_course_v3.vmt,147,147
+materials/overviews/mg_spirals_course_v3.vtf,1048784,1048784
+materials/overviews/mg_spirals_course_v3_radar.vmt,153,153
+materials/overviews/mg_spirals_course_v3_radar.vtf,1048784,1048784
+resource/overviews/mg_spirals_course_v3.txt,362,362
+materials/sgbanner/SGBANNER.vmt,140,140
+materials/komaokc/lava2.vmt,241,241
+materials/komaokc/lava2.vtf,174984,174984
+sound/guile/Guile Theme SNES.mp3,1944378,1944378

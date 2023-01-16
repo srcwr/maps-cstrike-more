@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/gg_querty_dust/de_dust/tilefloor02_0_0_136.vmt,129,129
+materials/maps/gg_querty_dust/cubemapdefault.vtf,9832,9832
+materials/maps/gg_querty_dust/c0_0_136.vtf,9832,9832
+materials/maps/gg_querty_dust/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_querty_dust/c0_0_136.hdr.vtf,76528,76528
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/detail/detailsprites.vmt,135,135
+materials/detail/detailsprites.vtf,1398336,1398336

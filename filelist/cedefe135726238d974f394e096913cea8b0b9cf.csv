@@ -1,0 +1,774 @@
+filename,size,compressed
+materials/maps/de_iraq/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/de_iraq/nature/blenddirtgrass001a_wvt_patch.vmt,306,306
+materials/maps/de_iraq/nature/blenddirtgrass008b_lowfriction_wvt_patch.vmt,393,393
+materials/maps/de_iraq/concrete/concretefloor033a_-1275_124_64.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor028c_c17_-455_347_64.vmt,176,176
+materials/maps/de_iraq/concrete/concretefloor028c_c17_446_-751_120.vmt,177,177
+materials/maps/de_iraq/concrete/concretefloor033y_-455_347_64.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor033a_-455_347_64.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor033k_c17_-1275_124_64.vmt,177,177
+materials/maps/de_iraq/concrete/concretefloor033y_-345_-262_64.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor005a_2856_1380_0.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor013c_1547_-748_120.vmt,135,135
+materials/maps/de_iraq/concrete/concretefloor033a_2856_1380_0.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor033a_2628_-982_-7.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor033a_1976_-703_-7.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor033a_2333_-733_-7.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor033a_3248_1035_0.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor013c_2856_1380_0.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor013c_3248_1035_0.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor013c_3465_1532_0.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor013c_4247_1522_0.vmt,133,133
+materials/maps/de_iraq/concrete/concretewall013h_3465_1532_0.vmt,132,132
+materials/maps/de_iraq/concrete/concretefloor013c_5068_902_0.vmt,132,132
+materials/maps/de_iraq/realworldtextures/newer/2/wood_2_06_5464_802_0.vmt,141,141
+materials/maps/de_iraq/realworldtextures/newer/2/wood_2_06_5456_812_128.vmt,143,143
+materials/maps/de_iraq/concrete/concretefloor028c_c17_-301_-1524_64.vmt,178,178
+materials/maps/de_iraq/concrete/concretefloor028c_c17_-1275_124_64.vmt,177,177
+materials/maps/de_iraq/concrete/concretefloor028c_c17_-469_997_64.vmt,176,176
+materials/maps/de_iraq/glass/unbreakable_-1275_124_64.vmt,125,125
+materials/maps/de_iraq/glass/unbreakable_-345_-262_64.vmt,125,125
+materials/maps/de_iraq/glass/unbreakable_-455_347_64.vmt,124,124
+materials/maps/de_iraq/glass/unbreakable_1976_-703_-7.vmt,125,125
+materials/maps/de_iraq/glass/unbreakable_446_-751_120.vmt,125,125
+materials/maps/de_iraq/glass/unbreakable_-469_997_64.vmt,124,124
+materials/maps/de_iraq/glass/unbreakable_-301_-1524_64.vmt,126,126
+materials/maps/de_iraq/glass/unbreakable_3526_-1330_328.vmt,127,127
+materials/maps/de_iraq/de_dust/tilefloor02_-1275_124_64.vmt,127,127
+materials/maps/de_iraq/plaster/plasterwall030c_c17_1547_-748_120.vmt,175,175
+materials/maps/de_iraq/iraq/plasterwall001a_-345_-262_64.vmt,128,128
+materials/maps/de_iraq/concrete/concretefloor013c_1010_-739_120.vmt,135,135
+materials/maps/de_iraq/plaster/plasterwall030c_c17_1976_-703_-7.vmt,174,174
+materials/maps/de_iraq/plaster/plasterwall030c_c17_1010_-739_120.vmt,175,175
+materials/maps/de_iraq/plaster/plasterwall030c_c17_446_-751_120.vmt,174,174
+materials/maps/de_iraq/plaster/plasterwall030c_c17_-301_-1524_64.vmt,175,175
+materials/maps/de_iraq/concrete/concretefloor028c_c17_-345_-262_64.vmt,177,177
+materials/maps/de_iraq/plaster/plasterwall005c_c17_4527_-698_-7.vmt,174,174
+materials/maps/de_iraq/plaster/plasterwall005c_c17_3741_-1092_200.vmt,176,176
+materials/maps/de_iraq/plaster/plasterwall005c_c17_3639_-886_-7.vmt,174,174
+materials/maps/de_iraq/plaster/plasterwall005c_c17_4079_-1026_256.vmt,176,176
+materials/maps/de_iraq/plaster/plasterwall005c_c17_3554_-870_120.vmt,175,175
+materials/maps/de_iraq/plaster/plasterwall005c_c17_3117_-1047_120.vmt,176,176
+materials/maps/de_iraq/plaster/plasterwall005c_c17_3170_-879_-7.vmt,174,174
+materials/maps/de_iraq/plaster/plasterwall005c_c17_4074_-636_256.vmt,175,175
+materials/maps/de_iraq/plaster/plasterwall005c_c17_4231_-915_-7.vmt,174,174
+materials/maps/de_iraq/concrete/concretefloor033a_3117_-1047_120.vmt,136,136
+materials/maps/de_iraq/concrete/concretefloor013c_4527_-698_-7.vmt,134,134
+materials/maps/de_iraq/plaster/plasterwall030c_c17_-345_-262_64.vmt,174,174
+materials/maps/de_iraq/plaster/plasterwall013g_446_-751_120.vmt,131,131
+materials/maps/de_iraq/plaster/plasterwall013g_1010_-739_120.vmt,132,132
+materials/maps/de_iraq/plaster/plasterwall013g_-469_997_64.vmt,130,130
+materials/maps/de_iraq/concrete/concretefloor013c_-469_997_64.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor013c_5276_337_-7.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor013c_5464_802_0.vmt,132,132
+materials/maps/de_iraq/concrete/concretefloor013c_4872_-189_-6.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor028c_c17_2856_1380_0.vmt,176,176
+materials/maps/de_iraq/concrete/concretefloor033a_2461_-1942_-7.vmt,135,135
+materials/maps/de_iraq/metal/metalwall045a_2856_1380_0.vmt,126,126
+materials/maps/de_iraq/concrete/concretefloor019a_2856_1380_0.vmt,133,133
+materials/maps/de_iraq/metal/metalwall021e_2856_1380_0.vmt,165,165
+materials/maps/de_iraq/metal/metalwall021e_-469_997_64.vmt,165,165
+materials/maps/de_iraq/props/plasticceiling003a_2856_1380_0.vmt,131,131
+materials/maps/de_iraq/concrete/concretefloor019a_-469_997_64.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor033k_c17_446_-751_120.vmt,177,177
+materials/maps/de_iraq/concrete/concretefloor033k_c17_-455_347_64.vmt,176,176
+materials/maps/de_iraq/concrete/concretefloor033k_c17_-345_-262_64.vmt,177,177
+materials/maps/de_iraq/concrete/concretewall001c_2856_1380_0.vmt,132,132
+materials/maps/de_iraq/concrete/concretewall001c_3465_1532_0.vmt,132,132
+materials/maps/de_iraq/concrete/concretefloor028c_c17_1547_-748_120.vmt,178,178
+materials/maps/de_iraq/concrete/concretefloor028c_c17_1976_-703_-7.vmt,177,177
+materials/maps/de_iraq/concrete/concretefloor028c_c17_2333_-733_-7.vmt,177,177
+materials/maps/de_iraq/concrete/concretefloor028c_c17_2461_-1942_-7.vmt,178,178
+materials/maps/de_iraq/concrete/concretefloor028c_c17_3831_160_120.vmt,177,177
+materials/maps/de_iraq/concrete/concretefloor028c_c17_3248_1035_0.vmt,176,176
+materials/maps/de_iraq/concrete/concretefloor013c_1976_-703_-7.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor013c_3842_1058_120.vmt,135,135
+materials/maps/de_iraq/plaster/plasterwall005c_c17_4872_-189_-6.vmt,174,174
+materials/maps/de_iraq/concrete/concretewall001c_2461_-1942_-7.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor028c_c17_-318_-2846_64.vmt,178,178
+materials/maps/de_iraq/concrete/concretefloor028c_c17_3117_-1047_120.vmt,179,179
+materials/maps/de_iraq/concrete/concretefloor028c_c17_3526_-1330_328.vmt,179,179
+materials/maps/de_iraq/concrete/concretefloor028c_c17_2628_-982_-7.vmt,177,177
+materials/maps/de_iraq/concrete/concretefloor028c_c17_3170_-879_-7.vmt,177,177
+materials/maps/de_iraq/concrete/concretewall026b_3248_1035_0.vmt,132,132
+materials/maps/de_iraq/concrete/concretewall026b_3890_641_120.vmt,133,133
+materials/maps/de_iraq/concrete/concretewall013b_3526_-1330_328.vmt,135,135
+materials/maps/de_iraq/concrete/concretewall013b_4079_-1026_256.vmt,135,135
+materials/maps/de_iraq/concrete/concretewall013b_2461_-1942_-7.vmt,134,134
+materials/maps/de_iraq/concrete/concretewall026b_2333_-733_-7.vmt,133,133
+materials/maps/de_iraq/concrete/concretewall026b_2856_1380_0.vmt,132,132
+materials/maps/de_iraq/metal/metalroof006a_3842_1058_120.vmt,128,128
+materials/maps/de_iraq/metal/metalroof006a_4074_-636_256.vmt,128,128
+materials/maps/de_iraq/metal/metalwall021e_2333_-733_-7.vmt,166,166
+materials/maps/de_iraq/metal/metalwall021e_3465_1532_0.vmt,165,165
+materials/maps/de_iraq/concrete/concretewall001c_3248_1035_0.vmt,132,132
+materials/maps/de_iraq/concrete/concretewall001c_4247_1522_0.vmt,132,132
+materials/maps/de_iraq/concrete/concretefloor028d_-1275_124_64.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor028d_-295_-4258_64.vmt,135,135
+materials/maps/de_iraq/concrete/concretefloor028c_c17_3465_1532_0.vmt,176,176
+materials/maps/de_iraq/concrete/concretefloor033y_-1275_124_64.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor028c_c17_-295_-4258_64.vmt,178,178
+materials/maps/de_iraq/concrete/concretefloor028c_c17_-312_-5579_64.vmt,178,178
+materials/maps/de_iraq/concrete/concretefloor028d_-312_-5579_64.vmt,135,135
+materials/maps/de_iraq/concrete/concretefloor033k_c17_-295_-4258_64.vmt,178,178
+materials/maps/de_iraq/concrete/concretefloor033y_-295_-4258_64.vmt,135,135
+materials/maps/de_iraq/concrete/concretewall001c_-312_-5579_64.vmt,134,134
+materials/maps/de_iraq/concrete/concretewall026b_-312_-5579_64.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor033k_c17_2461_-1942_-7.vmt,178,178
+materials/maps/de_iraq/concrete/concretefloor033k_c17_-312_-5579_64.vmt,178,178
+materials/maps/de_iraq/de_nuke/nukmapa_5276_337_-7.vmt,122,122
+materials/maps/de_iraq/de_nuke/nukmapa_5456_812_128.vmt,123,123
+materials/maps/de_iraq/concrete/concretewall046e_2461_-1942_-7.vmt,134,134
+materials/maps/de_iraq/concrete/concretewall046e_4079_-1026_256.vmt,135,135
+materials/maps/de_iraq/metal/metalwall021e_1976_-703_-7.vmt,166,166
+materials/maps/de_iraq/metal/metalwall045a_3465_1532_0.vmt,126,126
+materials/maps/de_iraq/props/plasticceiling003a_3465_1532_0.vmt,131,131
+materials/maps/de_iraq/wood/wooddoor014a_3554_-870_120.vmt,126,126
+materials/maps/de_iraq/concrete/concretefloor005a_-469_997_64.vmt,133,133
+materials/maps/de_iraq/plaster/plasterwall005c_-1275_124_64.vmt,131,131
+materials/maps/de_iraq/plaster/plasterwall005c_-345_-262_64.vmt,131,131
+materials/maps/de_iraq/plaster/plasterwall005c_-455_347_64.vmt,130,130
+materials/maps/de_iraq/concrete/concretefloor033k_c17_-301_-1524_64.vmt,178,178
+materials/maps/de_iraq/concrete/concretefloor033k_c17_-318_-2846_64.vmt,178,178
+materials/maps/de_iraq/wood/wooddoor014a_4231_-915_-7.vmt,125,125
+materials/maps/de_iraq/concrete/concretefloor033k_c17_-469_997_64.vmt,176,176
+materials/maps/de_iraq/de_dust/tilefloor02_-301_-1524_64.vmt,128,128
+materials/maps/de_iraq/de_dust/tilefloor02_1976_-703_-7.vmt,127,127
+materials/maps/de_iraq/wood/wooddoor032a_446_-751_120.vmt,125,125
+materials/maps/de_iraq/wood/wooddoor032a_1010_-739_120.vmt,126,126
+materials/maps/de_iraq/wood/wooddoor032a_1547_-748_120.vmt,126,126
+materials/maps/de_iraq/concrete/concretewall013b_4872_-189_-6.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor028c_c17_1010_-739_120.vmt,178,178
+materials/maps/de_iraq/concrete/concretewall013b_-312_-5579_64.vmt,134,134
+materials/maps/de_iraq/concrete/concretewall013b_-295_-4258_64.vmt,134,134
+materials/maps/de_iraq/concrete/concretewall046d_3741_-1092_200.vmt,135,135
+materials/maps/de_iraq/concrete/concretewall046d_2461_-1942_-7.vmt,134,134
+materials/maps/de_iraq/wood/wooddoor014a_3170_-879_-7.vmt,125,125
+materials/maps/de_iraq/wood/wooddoor014a_-469_997_64.vmt,124,124
+materials/maps/de_iraq/concrete/concretewall026b_3831_160_120.vmt,133,133
+materials/maps/de_iraq/concrete/concretewall026b_3170_-879_-7.vmt,133,133
+materials/maps/de_iraq/wood/wooddoor014a_4527_-698_-7.vmt,125,125
+materials/maps/de_iraq/wood/wooddoor032a_-345_-262_64.vmt,125,125
+materials/maps/de_iraq/wood/wooddoor032a_-469_997_64.vmt,124,124
+materials/maps/de_iraq/concrete/concretefloor013c_3170_-879_-7.vmt,134,134
+materials/maps/de_iraq/metal/metalwall031a_1010_-739_120.vmt,128,128
+materials/maps/de_iraq/metal/metalwall031a_1547_-748_120.vmt,128,128
+materials/maps/de_iraq/metal/metalwall031a_-469_997_64.vmt,126,126
+materials/maps/de_iraq/metal/metalwall031a_1976_-703_-7.vmt,127,127
+materials/maps/de_iraq/metal/metalwall031a_2856_1380_0.vmt,126,126
+materials/maps/de_iraq/metal/metalwall031a_4074_-636_256.vmt,128,128
+materials/maps/de_iraq/concrete/concretefloor033a_-469_997_64.vmt,133,133
+materials/maps/de_iraq/glass/unbreakable_5068_902_0.vmt,123,123
+materials/maps/de_iraq/glass/unbreakable_5456_812_128.vmt,125,125
+materials/maps/de_iraq/metal/metalwall031a_-455_347_64.vmt,126,126
+materials/maps/de_iraq/metal/metalwall031a_446_-751_120.vmt,127,127
+materials/maps/de_iraq/concrete/concretewall026b_3842_1058_120.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor028d_-301_-1524_64.vmt,135,135
+materials/maps/de_iraq/concrete/concretefloor028d_-345_-262_64.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor028d_-469_997_64.vmt,133,133
+materials/maps/de_iraq/concrete/concretefloor033a_3831_160_120.vmt,134,134
+materials/maps/de_iraq/concrete/concretefloor005a_1547_-748_120.vmt,135,135
+materials/maps/de_iraq/cubemapdefault.vtf,9832,9832
+materials/maps/de_iraq/c-1275_124_64.vtf,9832,9832
+materials/maps/de_iraq/c-455_347_64.vtf,9832,9832
+materials/maps/de_iraq/c446_-751_120.vtf,9832,9832
+materials/maps/de_iraq/c-345_-262_64.vtf,9832,9832
+materials/maps/de_iraq/c2856_1380_0.vtf,9832,9832
+materials/maps/de_iraq/c1547_-748_120.vtf,9832,9832
+materials/maps/de_iraq/c2628_-982_-7.vtf,9832,9832
+materials/maps/de_iraq/c1976_-703_-7.vtf,9832,9832
+materials/maps/de_iraq/c2333_-733_-7.vtf,9832,9832
+materials/maps/de_iraq/c3248_1035_0.vtf,9832,9832
+materials/maps/de_iraq/c3465_1532_0.vtf,9832,9832
+materials/maps/de_iraq/c4247_1522_0.vtf,9832,9832
+materials/maps/de_iraq/c5068_902_0.vtf,9832,9832
+materials/maps/de_iraq/c5464_802_0.vtf,9832,9832
+materials/maps/de_iraq/c5456_812_128.vtf,9832,9832
+materials/maps/de_iraq/c-301_-1524_64.vtf,9832,9832
+materials/maps/de_iraq/c-469_997_64.vtf,9832,9832
+materials/maps/de_iraq/c3526_-1330_328.vtf,9832,9832
+materials/maps/de_iraq/c1010_-739_120.vtf,9832,9832
+materials/maps/de_iraq/c4527_-698_-7.vtf,9832,9832
+materials/maps/de_iraq/c3741_-1092_200.vtf,9832,9832
+materials/maps/de_iraq/c3639_-886_-7.vtf,9832,9832
+materials/maps/de_iraq/c4079_-1026_256.vtf,9832,9832
+materials/maps/de_iraq/c3554_-870_120.vtf,9832,9832
+materials/maps/de_iraq/c3117_-1047_120.vtf,9832,9832
+materials/maps/de_iraq/c3170_-879_-7.vtf,9832,9832
+materials/maps/de_iraq/c4074_-636_256.vtf,9832,9832
+materials/maps/de_iraq/c4231_-915_-7.vtf,9832,9832
+materials/maps/de_iraq/c5276_337_-7.vtf,9832,9832
+materials/maps/de_iraq/c4872_-189_-6.vtf,9832,9832
+materials/maps/de_iraq/c2461_-1942_-7.vtf,9832,9832
+materials/maps/de_iraq/c3831_160_120.vtf,9832,9832
+materials/maps/de_iraq/c3842_1058_120.vtf,9832,9832
+materials/maps/de_iraq/c-318_-2846_64.vtf,9832,9832
+materials/maps/de_iraq/c3890_641_120.vtf,9832,9832
+materials/maps/de_iraq/c-295_-4258_64.vtf,9832,9832
+materials/maps/de_iraq/c-312_-5579_64.vtf,9832,9832
+materials/maps/de_iraq/c4295_1014_0.vtf,9832,9832
+materials/maps/de_iraq/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_iraq/c-1275_124_64.hdr.vtf,76528,76528
+materials/maps/de_iraq/c-455_347_64.hdr.vtf,76528,76528
+materials/maps/de_iraq/c446_-751_120.hdr.vtf,76528,76528
+materials/maps/de_iraq/c-345_-262_64.hdr.vtf,76528,76528
+materials/maps/de_iraq/c2856_1380_0.hdr.vtf,76528,76528
+materials/maps/de_iraq/c1547_-748_120.hdr.vtf,76528,76528
+materials/maps/de_iraq/c2628_-982_-7.hdr.vtf,76528,76528
+materials/maps/de_iraq/c1976_-703_-7.hdr.vtf,76528,76528
+materials/maps/de_iraq/c2333_-733_-7.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3248_1035_0.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3465_1532_0.hdr.vtf,76528,76528
+materials/maps/de_iraq/c4247_1522_0.hdr.vtf,76528,76528
+materials/maps/de_iraq/c5068_902_0.hdr.vtf,76528,76528
+materials/maps/de_iraq/c5464_802_0.hdr.vtf,76528,76528
+materials/maps/de_iraq/c5456_812_128.hdr.vtf,76528,76528
+materials/maps/de_iraq/c-301_-1524_64.hdr.vtf,76528,76528
+materials/maps/de_iraq/c-469_997_64.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3526_-1330_328.hdr.vtf,76528,76528
+materials/maps/de_iraq/c1010_-739_120.hdr.vtf,76528,76528
+materials/maps/de_iraq/c4527_-698_-7.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3741_-1092_200.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3639_-886_-7.hdr.vtf,76528,76528
+materials/maps/de_iraq/c4079_-1026_256.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3554_-870_120.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3117_-1047_120.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3170_-879_-7.hdr.vtf,76528,76528
+materials/maps/de_iraq/c4074_-636_256.hdr.vtf,76528,76528
+materials/maps/de_iraq/c4231_-915_-7.hdr.vtf,76528,76528
+materials/maps/de_iraq/c5276_337_-7.hdr.vtf,76528,76528
+materials/maps/de_iraq/c4872_-189_-6.hdr.vtf,76528,76528
+materials/maps/de_iraq/c2461_-1942_-7.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3831_160_120.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3842_1058_120.hdr.vtf,76528,76528
+materials/maps/de_iraq/c-318_-2846_64.hdr.vtf,76528,76528
+materials/maps/de_iraq/c3890_641_120.hdr.vtf,76528,76528
+materials/maps/de_iraq/c-295_-4258_64.hdr.vtf,76528,76528
+materials/maps/de_iraq/c-312_-5579_64.hdr.vtf,76528,76528
+materials/maps/de_iraq/c4295_1014_0.hdr.vtf,76528,76528
+materials/DANIEL/CONCRETEWALLCUSTOM04.vmt,75,75
+materials/daniel/concretewallcustom04.vtf,349760,349760
+materials/DANIEL/CONCRETEWALLCUSTOM02.vmt,94,94
+materials/daniel/concretewallcustom02.vtf,349760,349760
+materials/SILKROAD/GROUND/OAHO_MARBLE_TILE04.vmt,106,106
+materials/Silkroad/Ground/oaho_marble_tile04.vtf,349760,349760
+materials/FISH/GTAIVTEX/MO_CONCWALL.vmt,101,101
+materials/fish/GtaIVTex/mo_concwall.vtf,349760,349760
+materials/REALWORLDTEXTURES/NEWER/1/CARPET_1_01.vmt,111,111
+materials/RealWorldTextures/Newer/1/Carpet_1_01.vtf,174984,174984
+materials/REALWORLDTEXTURES/WALLS/WESTERNWHITE.vmt,245,245
+materials/RealWorldTextures/Walls/WesternWhite.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEW/METAL4.vmt,97,97
+materials/RealWorldTextures/new/metal4.vtf,174984,174984
+materials/REALWORLDTEXTURES/NEWER/2/WOOD_2_06.vmt,192,192
+materials/RealWorldTextures/newer/2/wood_2_06.vtf,174984,174984
+materials/RealWorldTextures/newer/2/wood_2_06_spec.vtf,174984,174984
+materials/IRAQ/PLASTERWALL001A.vmt,254,254
+materials/iraq/plasterwall001a.vtf,1398336,1398336
+materials/iraq/plasterwall001a_bump.vtf,4194511,4194511
+models/fuldoom/policesignlarge.mdl,1724,1724
+models/fuldoom/policesignlarge.dx80.vtx,1896,1896
+models/fuldoom/policesignlarge.dx90.vtx,1896,1896
+models/fuldoom/policesignlarge.sw.vtx,1896,1896
+models/fuldoom/policesignlarge.phy,4926,4926
+models/fuldoom/policesignlarge.vvd,7680,7680
+models/ill_hanger/props/dumpster3.mdl,1464,1464
+models/ill_hanger/props/dumpster3.dx80.vtx,8001,8001
+models/ill_hanger/props/dumpster3.dx90.vtx,8001,8001
+models/ill_hanger/props/dumpster3.sw.vtx,8001,8001
+models/ill_hanger/props/dumpster3.phy,4315,4315
+models/ill_hanger/props/dumpster3.vvd,39232,39232
+materials/models/ill_hanger/props/dmpstr3.vmt,79,79
+materials/models/ill_hanger/props/dmpstr3.vtf,174968,174968
+models/splayn/cars/police_impala_4w.mdl,4932,4932
+models/splayn/cars/police_impala_4w.dx80.vtx,346992,346992
+models/splayn/cars/police_impala_4w.dx90.vtx,346992,346992
+models/splayn/cars/police_impala_4w.sw.vtx,346856,346856
+models/splayn/cars/police_impala_4w.phy,27057,27057
+models/splayn/cars/police_impala_4w.vvd,1482112,1482112
+models/t-80u/t-80u.mdl,3980,3980
+models/t-80u/t-80u.dx80.vtx,238552,238552
+models/t-80u/t-80u.dx90.vtx,238552,238552
+models/t-80u/t-80u.sw.vtx,238504,238504
+models/t-80u/t-80u.phy,5199,5199
+models/t-80u/t-80u.vvd,1070400,1070400
+models/leopard2a4/leopard2a4.mdl,3740,3740
+models/leopard2a4/leopard2a4.dx80.vtx,207865,207865
+models/leopard2a4/leopard2a4.dx90.vtx,207865,207865
+models/leopard2a4/leopard2a4.sw.vtx,207817,207817
+models/leopard2a4/leopard2a4.phy,2821,2821
+models/leopard2a4/leopard2a4.vvd,940160,940160
+models/bmp-2/bmp-2.mdl,3992,3992
+models/bmp-2/bmp-2.dx80.vtx,132775,132775
+models/bmp-2/bmp-2.dx90.vtx,132775,132775
+models/bmp-2/bmp-2.sw.vtx,132733,132733
+models/bmp-2/bmp-2.phy,4139,4139
+models/bmp-2/bmp-2.vvd,600832,600832
+models/francis115/speed.mdl,3360,3360
+models/francis115/speed.dx80.vtx,3039,3039
+models/francis115/speed.dx90.vtx,3039,3039
+models/francis115/speed.sw.vtx,3039,3039
+models/francis115/speed.phy,1530,1530
+models/francis115/speed.vvd,13888,13888
+models/francis115/stop_sign.mdl,1720,1720
+models/francis115/stop_sign.dx80.vtx,927,927
+models/francis115/stop_sign.dx90.vtx,927,927
+models/francis115/stop_sign.sw.vtx,927,927
+models/francis115/stop_sign.phy,1530,1530
+models/francis115/stop_sign.vvd,3776,3776
+models/francis115/traffic_light.mdl,2744,2744
+models/francis115/traffic_light.dx80.vtx,17406,17406
+models/francis115/traffic_light.dx90.vtx,17406,17406
+models/francis115/traffic_light.sw.vtx,17406,17406
+models/francis115/traffic_light.phy,13479,13479
+models/francis115/traffic_light.vvd,79424,79424
+models/ill_hanger/vehicles/hummer.mdl,2416,2416
+models/ill_hanger/vehicles/hummer.dx80.vtx,122721,122721
+models/ill_hanger/vehicles/hummer.dx90.vtx,122721,122721
+models/ill_hanger/vehicles/hummer.sw.vtx,122721,122721
+models/ill_hanger/vehicles/hummer.phy,5465,5465
+models/ill_hanger/vehicles/hummer.vvd,540800,540800
+materials/models/ill_hanger/vehicles/hummerlt.vmt,81,81
+materials/models/ill_hanger/vehicles/hummerlt.vtf,5608,5608
+materials/models/ill_hanger/vehicles/hummerrf.vmt,81,81
+materials/models/ill_hanger/vehicles/hummerrf.vtf,2936,2936
+materials/models/ill_hanger/vehicles/hummersk.vmt,81,81
+materials/models/ill_hanger/vehicles/hummersk.vtf,349672,349672
+materials/models/ill_hanger/vehicles/aa.vmt,77,77
+materials/models/ill_hanger/vehicles/aa.vtf,5608,5608
+materials/models/ill_hanger/vehicles/hummertr.vmt,81,81
+materials/models/ill_hanger/vehicles/hummertr.vtf,87528,87528
+materials/models/ill_hanger/vehicles/hummerwd.vmt,100,100
+materials/models/ill_hanger/vehicles/hummerwd.vtf,87600,87600
+maps/soundcache/de_iraq.cache,16,16
+models/BMP-2/BMP-2.dx80.vtx,132775,132775
+models/BMP-2/BMP-2.dx90.vtx,132775,132775
+models/BMP-2/BMP-2.phy,4139,4139
+models/BMP-2/BMP-2.sw.vtx,132733,132733
+models/BMP-2/bmp-2.mdl,3992,3992
+models/BMP-2/bmp-2.vvd,600832,600832
+models/de_crookcounty/fcv_police.dx80.vtx,38412,38412
+models/de_crookcounty/fcv_police.dx90.vtx,38412,38412
+models/de_crookcounty/fcv_police.mdl,1732,1732
+models/de_crookcounty/fcv_police.phy,12317,12317
+models/de_crookcounty/fcv_police.sw.vtx,38412,38412
+models/de_crookcounty/fcv_police.vvd,165248,165248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg.vmt,492,492
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_desert.vmt,499,499
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_desert.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_normal.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_winter.vmt,499,499
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_winter.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new.vmt,591,591
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_desert.vmt,605,605
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_desert.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_desert_normal.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_normal.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_winter.vmt,598,598
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_winter.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax.vmt,479,479
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax.vtf,43888,43888
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_desert.vmt,486,486
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_desert.vtf,43888,43888
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_normal.vtf,43888,43888
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_winter.vmt,486,486
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_winter.vtf,43888,43888
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside.vmt,502,502
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_desert.vmt,509,509
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_desert.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_normal.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_winter.vmt,509,509
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_winter.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/TU-95.vmt,580,580
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/TU-95.vtf,2796400,2796400
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/TU-95_normal.vtf,2796400,2796400
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/blades.vmt,114,114
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/blades.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4.vmt,603,603
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_finn.vmt,613,613
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_finn.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_finn_normal.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_normal.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_winter.vmt,617,617
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_winter.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_winter_normal.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_tracks.vmt,519,519
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_tracks.vtf,87568,87568
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_tracks_normal.vtf,87568,87568
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels.vmt,518,518
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels.vtf,87632,87632
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels_finn.vmt,528,528
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels_finn.vtf,87632,87632
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels_finn_normal.vtf,87632,87632
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels_normal.vtf,87632,87632
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/back.vmt,307,307
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/back.vtf,1398308,1398308
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/back_n.vtf,1048783,1048783
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/donotenter.vmt,313,313
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/donotenter.vtf,1398308,1398308
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/oneway_a.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/oneway_a.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/oneway_b.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/oneway_b.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_1.vmt,318,318
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_1.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_10.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_10.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_15.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_15.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_25.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_25.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_30.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_30.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_35.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_35.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_45.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_45.vtf,174944,174944
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_60.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_60.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_65.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_65.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_75.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_75.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_80.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_80.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/stop_sign.vmt,317,317
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/stop_sign.vtf,349760,349760
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/stop_sign_n.vtf,1398308,1398308
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/street1.vmt,318,318
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/street1.vtf,43832,43832
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/street2.vmt,318,318
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/street2.vtf,43832,43832
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_base.vmt,340,340
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_base.vtf,87616,87616
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_base_normal.vtf,87616,87616
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_case.vmt,340,340
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_case.vtf,43872,43872
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_case_normal.vtf,43872,43872
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_concrete.vmt,352,352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_concrete.vtf,22080,22080
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_concrete_normal.vtf,22080,22080
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_lights.vmt,335,335
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_lights.vtf,2753560,2753560
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_lights_cc.vmt,338,338
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_lights_cc.vtf,2753560,2753560
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_pole.vmt,340,340
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_pole.vtf,174976,174976
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_pole_normal.vtf,174976,174976
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_walk.vmt,333,333
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_walk.vtf,2753560,2753560
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_walk_cc.vmt,336,336
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_walk_cc.vtf,2753560,2753560
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/water_scroll.vmt,71,71
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/yield.vmt,316,316
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/yield.vtf,174984,174984
+models/copcar.dx80.vtx,57026,57026
+models/copcar.dx90.vtx,57026,57026
+models/copcar.mdl,12448,12448
+models/copcar.phy,8861,8861
+models/copcar.sw.vtx,56890,56890
+models/copcar.vvd,240064,240064
+models/copcar.xbox.vtx,57026,57026
+models/enforcer.dx80.vtx,64868,64868
+models/enforcer.dx90.vtx,64868,64868
+models/enforcer.mdl,12456,12456
+models/enforcer.phy,4208,4208
+models/enforcer.sw.vtx,64732,64732
+models/enforcer.vvd,342592,342592
+models/enforcer.xbox.vtx,64868,64868
+models/BMP-2/BMP-2.dx80.vtx,132775,132775
+models/BMP-2/BMP-2.dx90.vtx,132775,132775
+models/BMP-2/BMP-2.phy,4139,4139
+models/BMP-2/BMP-2.sw.vtx,132733,132733
+models/BMP-2/bmp-2.mdl,3992,3992
+models/BMP-2/bmp-2.vvd,600832,600832
+models/francis115/donotenter.dx80.vtx,3039,3039
+models/francis115/donotenter.dx90.vtx,3039,3039
+models/francis115/donotenter.mdl,2100,2100
+models/francis115/donotenter.phy,1530,1530
+models/francis115/donotenter.sw.vtx,3039,3039
+models/francis115/donotenter.vvd,13888,13888
+models/francis115/speed.dx80.vtx,3039,3039
+models/francis115/speed.dx90.vtx,3039,3039
+models/francis115/speed.mdl,3360,3360
+models/francis115/speed.phy,1530,1530
+models/francis115/speed.sw.vtx,3039,3039
+models/francis115/speed.vvd,13888,13888
+models/francis115/stop_sign.dx80.vtx,927,927
+models/francis115/stop_sign.dx90.vtx,927,927
+models/francis115/stop_sign.mdl,1720,1720
+models/francis115/stop_sign.phy,1530,1530
+models/francis115/stop_sign.sw.vtx,927,927
+models/francis115/stop_sign.vvd,3776,3776
+models/francis115/stop_street.dx80.vtx,11166,11166
+models/francis115/stop_street.dx90.vtx,11166,11166
+models/francis115/stop_street.mdl,2288,2288
+models/francis115/stop_street.phy,1530,1530
+models/francis115/stop_street.sw.vtx,11166,11166
+models/francis115/stop_street.vvd,53952,53952
+models/francis115/traffic_light.dx80.vtx,17406,17406
+models/francis115/traffic_light.dx90.vtx,17406,17406
+models/francis115/traffic_light.mdl,2744,2744
+models/francis115/traffic_light.phy,13479,13479
+models/francis115/traffic_light.sw.vtx,17406,17406
+models/francis115/traffic_light.vvd,79424,79424
+models/francis115/traffic_light_double.dx80.vtx,26442,26442
+models/francis115/traffic_light_double.dx90.vtx,26442,26442
+models/francis115/traffic_light_double.mdl,2744,2744
+models/francis115/traffic_light_double.phy,17862,17862
+models/francis115/traffic_light_double.sw.vtx,26442,26442
+models/francis115/traffic_light_double.vvd,119104,119104
+models/francis115/traffic_light_double_reverse.dx80.vtx,26442,26442
+models/francis115/traffic_light_double_reverse.dx90.vtx,26442,26442
+models/francis115/traffic_light_double_reverse.mdl,2748,2748
+models/francis115/traffic_light_double_reverse.phy,17862,17862
+models/francis115/traffic_light_double_reverse.sw.vtx,26394,26394
+models/francis115/traffic_light_double_reverse.vvd,119104,119104
+models/francis115/traffic_light_reverse.dx80.vtx,17406,17406
+models/francis115/traffic_light_reverse.dx90.vtx,17406,17406
+models/francis115/traffic_light_reverse.mdl,2748,2748
+models/francis115/traffic_light_reverse.phy,13479,13479
+models/francis115/traffic_light_reverse.sw.vtx,17358,17358
+models/francis115/traffic_light_reverse.vvd,79424,79424
+models/francis115/yield.dx80.vtx,2415,2415
+models/francis115/yield.dx90.vtx,2415,2415
+models/francis115/yield.mdl,2096,2096
+models/francis115/yield.phy,1530,1530
+models/francis115/yield.sw.vtx,2415,2415
+models/francis115/yield.vvd,10816,10816
+models/Leopard2A4/Leopard2A4.dx80.vtx,207865,207865
+models/Leopard2A4/Leopard2A4.dx90.vtx,207865,207865
+models/Leopard2A4/Leopard2A4.phy,2821,2821
+models/Leopard2A4/Leopard2A4.sw.vtx,207817,207817
+models/Leopard2A4/leopard2a4.mdl,3740,3740
+models/Leopard2A4/leopard2a4.vvd,940160,940160
+models/TU-95/TU-95.dx80.vtx,32451,32451
+models/TU-95/TU-95.dx90.vtx,32451,32451
+models/TU-95/TU-95.phy,15374,15374
+models/TU-95/TU-95.sw.vtx,32419,32419
+models/TU-95/tu-95.mdl,2460,2460
+models/TU-95/tu-95.vvd,135552,135552
+maps/de_iraq.nav,3432699,3432699
+models/Leopard2A4/Leopard2A4.dx80.vtx,207865,207865
+models/Leopard2A4/Leopard2A4.dx90.vtx,207865,207865
+models/Leopard2A4/Leopard2A4.phy,2821,2821
+models/Leopard2A4/Leopard2A4.sw.vtx,207817,207817
+models/Leopard2A4/leopard2a4.mdl,3740,3740
+models/Leopard2A4/leopard2a4.vvd,940160,940160
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4.vmt,603,603
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_finn.vmt,613,613
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_finn.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_finn_normal.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_normal.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_winter.vmt,617,617
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_winter.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard2a4_winter_normal.vtf,1398352,1398352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_tracks.vmt,519,519
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_tracks.vtf,87568,87568
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_tracks_normal.vtf,87568,87568
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels.vmt,518,518
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels.vtf,87632,87632
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels_finn.vmt,528,528
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels_finn.vtf,87632,87632
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels_finn_normal.vtf,87632,87632
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Leopard2A4/leopard_2a4_wheels_normal.vtf,87632,87632
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Fuldoom/PoliceSign001a.vmt,186,186
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Fuldoom/PoliceSign001a.vtf,349760,349760
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Fuldoom/PoliceSign001a_N.vtf,1048783,1048783
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/Fuldoom/Signs.vmt,56,56
+models/fuldoom/policesignlarge.dx80.vtx,1896,1896
+models/fuldoom/policesignlarge.dx90.vtx,1896,1896
+models/fuldoom/policesignlarge.mdl,1724,1724
+models/fuldoom/policesignlarge.phy,4926,4926
+models/fuldoom/policesignlarge.sw.vtx,1896,1896
+models/fuldoom/policesignlarge.vvd,7680,7680
+models/fuldoom/sign001a.dx80.vtx,903,903
+models/fuldoom/sign001a.dx90.vtx,903,903
+models/fuldoom/sign001a.mdl,1716,1716
+models/fuldoom/sign001a.phy,1647,1647
+models/fuldoom/sign001a.sw.vtx,903,903
+models/fuldoom/sign001a.vvd,3520,3520
+models/de_crookcounty/fcv_police.dx80.vtx,38412,38412
+models/de_crookcounty/fcv_police.dx90.vtx,38412,38412
+models/de_crookcounty/fcv_police.mdl,1732,1732
+models/de_crookcounty/fcv_police.phy,12317,12317
+models/de_crookcounty/fcv_police.sw.vtx,38412,38412
+models/de_crookcounty/fcv_police.vvd,165248,165248
+C:/Users/Daniel/Desktop/Materials - Kopi/de_crookcounty/fcv_police.vmt,71,71
+C:/Users/Daniel/Desktop/Materials - Kopi/de_crookcounty/fcv_police.vtf,1398336,1398336
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/Building_Template013o.vmt,102,102
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/Building_Template013o.vtf,174984,174984
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/Plasterwall001a.vmt,281,281
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/Plasterwall001a.vtf,1398336,1398336
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/Plasterwall001a_bump.vtf,4194511,4194511
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/Signs.vmt,58,58
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/Signs.vtf,349760,349760
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/concretewall007a.vmt,165,165
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/concretewall007a.vtf,174984,174984
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/concretewall007b.vmt,165,165
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/concretewall007b.vtf,174984,174984
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/concretewall010a.vmt,137,137
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/concretewall010a.vtf,174984,174984
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/concretewall065a.vmt,125,125
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/concretewall065a.vtf,174984,174984
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/plasterwall013a.vmt,126,126
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/plasterwall013a.vtf,174984,174984
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/plasterwall013c.vmt,123,123
+C:/Users/Daniel/Desktop/Materials - Kopi/iraq/plasterwall013c.vtf,174984,174984
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/back.vmt,307,307
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/back.vtf,1398308,1398308
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/back_n.vtf,1048783,1048783
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/donotenter.vmt,313,313
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/donotenter.vtf,1398308,1398308
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/oneway_a.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/oneway_a.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/oneway_b.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/oneway_b.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_1.vmt,318,318
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_1.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_10.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_10.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_15.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_15.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_25.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_25.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_30.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_30.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_35.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_35.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_45.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_45.vtf,174944,174944
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_60.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_60.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_65.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_65.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_75.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_75.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_80.vmt,319,319
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/speed_80.vtf,87544,87544
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/stop_sign.vmt,317,317
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/stop_sign.vtf,349760,349760
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/stop_sign_n.vtf,1398308,1398308
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/street1.vmt,318,318
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/street1.vtf,43832,43832
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/street2.vmt,318,318
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/street2.vtf,43832,43832
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_base.vmt,340,340
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_base.vtf,87616,87616
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_base_normal.vtf,87616,87616
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_case.vmt,340,340
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_case.vtf,43872,43872
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_case_normal.vtf,43872,43872
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_concrete.vmt,352,352
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_concrete.vtf,22080,22080
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_concrete_normal.vtf,22080,22080
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_lights.vmt,335,335
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_lights.vtf,2753560,2753560
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_lights_cc.vmt,338,338
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_lights_cc.vtf,2753560,2753560
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_pole.vmt,340,340
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_pole.vtf,174976,174976
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_pole_normal.vtf,174976,174976
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_walk.vmt,333,333
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_walk.vtf,2753560,2753560
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_walk_cc.vmt,336,336
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/traffic_light_walk_cc.vtf,2753560,2753560
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/water_scroll.vmt,71,71
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/yield.vmt,316,316
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/francis115/yield.vtf,174984,174984
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/TU-95.vmt,580,580
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/TU-95.vtf,2796400,2796400
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/TU-95_normal.vtf,2796400,2796400
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/blades.vmt,114,114
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/TU-95/blades.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg.vmt,492,492
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_desert.vmt,499,499
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_desert.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_normal.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_winter.vmt,499,499
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_kugg_winter.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new.vmt,591,591
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_desert.vmt,605,605
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_desert.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_desert_normal.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_normal.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_winter.vmt,598,598
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_new_winter.vtf,699248,699248
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax.vmt,479,479
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax.vtf,43888,43888
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_desert.vmt,486,486
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_desert.vtf,43888,43888
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_normal.vtf,43888,43888
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_winter.vmt,486,486
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_trax_winter.vtf,43888,43888
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside.vmt,502,502
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_desert.vmt,509,509
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_desert.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_normal.vtf,22096,22096
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_winter.vmt,509,509
+C:/Users/Daniel/Desktop/Materials - Kopi/Models/BMP-2/bmp-r_wheelside_winter.vtf,22096,22096
+materials/splayn/cars/police_impala/badge.vmt,175,175
+materials/splayn/cars/police_impala/badge.vtf,349760,349760
+materials/splayn/cars/police_impala/chrome.vmt,105,105
+materials/splayn/cars/police_impala/chrome.vtf,43912,43912
+materials/splayn/cars/police_impala/glass.vmt,175,175
+materials/splayn/cars/police_impala/glass.vtf,5696,5696
+materials/splayn/cars/police_impala/imp01.vmt,169,169
+materials/splayn/cars/police_impala/imp01.vtf,349760,349760
+materials/splayn/cars/police_impala/imp02.vmt,91,91
+materials/splayn/cars/police_impala/imp02.vtf,349760,349760
+materials/splayn/cars/police_impala/imp03.vmt,91,91
+materials/splayn/cars/police_impala/imp03.vtf,87616,87616
+materials/splayn/cars/police_impala/imp_env.vtf,174984,174984
+materials/splayn/cars/police_impala/liner222.vmt,173,173
+materials/splayn/cars/police_impala/liner222.vtf,43912,43912
+materials/splayn/cars/police_impala/liner_2.vmt,172,172
+materials/splayn/cars/police_impala/liner_2.vtf,87616,87616
+materials/splayn/cars/police_impala/liner_env.vtf,43912,43912
+materials/splayn/cars/police_impala/off.vmt,75,75
+materials/splayn/cars/police_impala/off.vtf,174984,174984
+materials/splayn/cars/police_impala/on.vmt,74,74
+materials/splayn/cars/police_impala/on.vtf,174984,174984
+materials/splayn/cars/police_impala/plastik_grau.vmt,84,84
+materials/splayn/cars/police_impala/plastik_grau.vtf,2952,2952
+materials/splayn/cars/police_impala/plexi_blau.vmt,180,180
+materials/splayn/cars/police_impala/plexi_blau.vtf,5696,5696
+materials/splayn/cars/police_impala/plexi_rot.vmt,179,179
+materials/splayn/cars/police_impala/plexi_rot.vtf,5696,5696
+materials/splayn/cars/police_impala/plexi_weiss.vmt,162,162
+materials/splayn/cars/police_impala/plexi_weiss.vtf,2952,2952
+materials/splayn/cars/police_impala/sign.vmt,76,76
+materials/splayn/cars/police_impala/sign.vtf,22016,22016
+materials/splayn/cars/police_impala/silber.vmt,104,104
+materials/splayn/cars/police_impala/silber.vtf,87616,87616
+materials/splayn/cars/police_impala/tireimp.vmt,93,93
+materials/splayn/cars/police_impala/tireimp.vtf,11144,11144
+materials/splayn/cars/police_impala/window.vmt,137,137
+materials/splayn/cars/police_impala/window.vtf,5696,5696
+models/splayn/cars/police_impala_4w.dx80.vtx,346992,346992
+models/splayn/cars/police_impala_4w.dx90.vtx,346992,346992
+models/splayn/cars/police_impala_4w.mdl,4932,4932
+models/splayn/cars/police_impala_4w.phy,27057,27057
+models/splayn/cars/police_impala_4w.sw.vtx,346856,346856
+models/splayn/cars/police_impala_4w.vvd,1482112,1482112
+models/splayn/cars/police_impala_nw.dx80.vtx,262923,262923
+models/splayn/cars/police_impala_nw.dx90.vtx,262923,262923
+models/splayn/cars/police_impala_nw.mdl,4740,4740
+models/splayn/cars/police_impala_nw.phy,5937,5937
+models/splayn/cars/police_impala_nw.sw.vtx,262795,262795
+models/splayn/cars/police_impala_nw.vvd,1112448,1112448
+models/splayn/cars/police_impala_wh.dx80.vtx,21279,21279
+models/splayn/cars/police_impala_wh.dx90.vtx,21279,21279
+models/splayn/cars/police_impala_wh.mdl,2168,2168
+models/splayn/cars/police_impala_wh.phy,5445,5445
+models/splayn/cars/police_impala_wh.sw.vtx,21255,21255
+models/splayn/cars/police_impala_wh.vvd,92480,92480

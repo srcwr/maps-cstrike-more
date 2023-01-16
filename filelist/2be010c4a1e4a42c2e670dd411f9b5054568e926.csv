@@ -1,0 +1,109 @@
+filename,size,compressed
+materials/maps/mg_multisports_b1_3/de_train/blendgrassdirt001a_wvt_patch.vmt,129,129
+materials/maps/mg_multisports_b1_3/nature/sewer_water001_4607_-112_-440.vmt,166,166
+materials/maps/mg_multisports_b1_3/tile/tilewall006d_4607_-112_-440.vmt,139,139
+materials/maps/mg_multisports_b1_3/glass/combineglass001a_4607_-112_-440.vmt,144,144
+materials/maps/mg_multisports_b1_3/glass/glasswindow070c_4607_-112_-440.vmt,143,143
+materials/maps/mg_multisports_b1_3/de_chateau/intbrickk_4607_-112_-440.vmt,142,142
+materials/maps/mg_multisports_b1_3/de_piranesi/castle02c_4607_-112_-440.vmt,143,143
+materials/maps/mg_multisports_b1_3/de_piranesi/castle02a_4607_-112_-440.vmt,143,143
+materials/maps/mg_multisports_b1_3/maps/mg_multisports_b1_3/nature/sewer_water001_4607_-112_-440_depth_120.vmt,149,149
+materials/maps/mg_multisports_b1_3/cubemapdefault.vtf,4960,4960
+materials/maps/mg_multisports_b1_3/c4607_-112_-440.vtf,4960,4960
+materials/maps/mg_multisports_b1_3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_multisports_b1_3/c4607_-112_-440.hdr.vtf,76528,76528
+materials/beachsoccer.vmt,59,59
+materials/beachsoccer.vtf,1398264,1398264
+materials/beachvolley.vmt,59,59
+materials/beachvolley.vtf,1398264,1398264
+materials/foot.vmt,52,52
+materials/foot.vtf,1398264,1398264
+materials/hurdlecourse.vmt,60,60
+materials/hurdlecourse.vtf,1398264,1398264
+materials/icehockey.vmt,57,57
+materials/icehockey.vtf,1398264,1398264
+materials/minigolf.vmt,56,56
+materials/minigolf.vtf,1398264,1398264
+materials/music_list.vmt,58,58
+materials/music_list.vtf,1398264,1398264
+materials/random.vmt,54,54
+materials/random.vtf,2796424,2796424
+materials/waterpolo.vmt,57,57
+materials/waterpolo.vtf,1398264,1398264
+materials/skybox/sky36bk.vmt,88,88
+materials/skybox/sky36bk.vtf,699272,699272
+materials/skybox/sky36dn.vmt,88,88
+materials/skybox/sky36dn.vtf,699272,699272
+materials/skybox/sky36ft.vmt,88,88
+materials/skybox/sky36ft.vtf,699272,699272
+materials/skybox/sky36lf.vmt,88,88
+materials/skybox/sky36lf.vtf,699272,699272
+materials/skybox/sky36rt.vmt,88,88
+materials/skybox/sky36rt.vtf,699272,699272
+materials/skybox/sky36up.vmt,88,88
+materials/skybox/sky36up.vtf,699272,699272
+materials/icecave/snow_ice_01.vmt,88,88
+materials/icecave/snow_ice_01.vtf,174984,174984
+materials/hexagon/hexagon_blue.vmt,386,386
+materials/hexagon/hexagon_blue.vtf,98992,98992
+materials/dev/dev_measuregeneric24.vmt,93,93
+materials/dev/dev_measuregeneric24.vtf,11144,11144
+materials/dev/dev_measuregeneric41.vmt,93,93
+materials/dev/dev_measuregeneric41.vtf,11144,11144
+materials/giga/cimen.vmt,156,156
+materials/giga/cimen.vtf,174984,174984
+materials/XenoXtile/xenox_bhop_tile_darkblue.vmt,107,107
+materials/XenoXtile/xenox_bhop_tile_darkblue.vtf,87616,87616
+materials/XenoXtile/xenox_bhop_tile_midred.vmt,105,105
+materials/XenoXtile/xenox_bhop_tile_midred.vtf,87616,87616
+materials/Pool_tile/Pool_tile.vmt,91,91
+materials/Pool_tile/Pool_tile.vtf,43912,43912
+materials/METAL/METALGRATE018.vmt,227,227
+materials/METAL/metalgrate018.vtf,87616,87616
+materials/ryan_dev/cmyk_cyan.vmt,66,66
+materials/ryan_dev/cmyk_cyan.vtf,11144,11144
+materials/lumpox/blend/blendrock.vmt,136,136
+materials/lumpox/blend/blendrock.vtf,349760,349760
+materials/lumpox/blend/blendrock_NRM.vtf,174984,174984
+materials/realisticwallsandfloors/tile/tilefloor6.vmt,111,111
+materials/realisticwallsandfloors/tile/tilefloor6.vtf,43912,43912
+materials/Color/amber.vmt,62,62
+materials/Color/amber.vtf,11144,11144
+materials/Color/blaze orange.vmt,69,69
+materials/Color/blaze orange.vtf,11144,11144
+materials/Color/blue.vmt,61,61
+materials/Color/blue.vtf,11144,11144
+materials/Color/carrot orange.vmt,70,70
+materials/Color/carrot orange.vtf,11144,11144
+materials/Color/cornflower blue.vmt,72,72
+materials/Color/cornflower blue.vtf,11144,11144
+materials/Color/cyan.vmt,61,61
+materials/Color/cyan.vtf,11144,11144
+materials/Color/dark blue.vmt,66,66
+materials/Color/dark blue.vtf,11144,11144
+materials/Color/electric indigo.vmt,72,72
+materials/Color/electric indigo.vtf,11144,11144
+materials/Color/international klein blue.vmt,81,81
+materials/Color/international klein blue.vtf,11144,11144
+materials/Color/persian red.vmt,68,68
+materials/Color/persian red.vtf,11144,11144
+materials/Color/red.vmt,60,60
+materials/Color/red.vtf,11144,11144
+materials/Color/white.vmt,62,62
+materials/Color/white.vtf,11144,11144
+materials/models/soccer_mod/ball_2011.vmt,98,98
+materials/models/soccer_mod/ball_2011.vtf,699296,699296
+models/soccer_mod/ball_2011.dx80.vtx,23829,23829
+models/soccer_mod/ball_2011.dx90.vtx,23829,23829
+models/soccer_mod/ball_2011.mdl,1784,1784
+models/soccer_mod/ball_2011.phy,46197,46197
+models/soccer_mod/ball_2011.sw.vtx,23821,23821
+models/soccer_mod/ball_2011.vvd,94272,94272
+sound/sodan/goal.mp3,561352,561352
+sound/mg_multisports/Bob Sinclar - Summer Moonlight.mp3,4701876,4701876
+sound/mg_multisports/Chocobobattle.mp3,3842201,3842201
+sound/mg_multisports/Rightround.mp3,4114330,4114330
+sound/mg_multisports/Summer.mp3,8994823,8994823
+sound/mg_multisports/cantholdus.mp3,6439657,6439657
+sound/mg_multisports/levels.mp3,3255561,3255561
+sound/mg_multisports/staythenight.mp3,6900631,6900631

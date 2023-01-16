@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/de_docks/de_nuke/nukwater_movingplane_dx70_depth_24.vmt,120,120
+materials/maps/de_docks/cubemapdefault.vtf,9824,9824
+materials/skybox/mpawaterup.vmt,87,87
+materials/skybox/mpawaterup.vtf,349760,349760
+materials/skybox/mpawaterdn.vmt,87,87
+materials/skybox/mpawaterdn.vtf,349760,349760
+materials/skybox/mpawaterft.vmt,87,87
+materials/skybox/mpawaterft.vtf,349760,349760
+materials/skybox/mpawaterbk.vmt,87,87
+materials/skybox/mpawaterbk.vtf,349760,349760
+materials/skybox/mpawaterlf.vmt,87,87
+materials/skybox/mpawaterlf.vtf,349760,349760
+materials/skybox/mpawaterrt.vmt,87,87
+materials/skybox/mpawaterrt.vtf,349760,349760
+maps/soundcache/de_docks.cache,16,16

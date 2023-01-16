@@ -1,0 +1,63 @@
+filename,size,compressed
+materials/maps/ba_kmz_oasis_jail_v6_5/de_nuke/nukfloora_320_-1168_0.vmt,139,139
+materials/maps/ba_kmz_oasis_jail_v6_5/metal/metalceiling005a_320_-1168_0.vmt,144,144
+materials/maps/ba_kmz_oasis_jail_v6_5/de_dust/tilefloor02_320_-1168_0.vmt,141,141
+materials/maps/ba_kmz_oasis_jail_v6_5/models/props_trainstation/trainstation_clock_glass001_320_-1168_0.vmt,175,175
+materials/maps/ba_kmz_oasis_jail_v6_5/concrete/concretefloor033a_320_-1168_0.vmt,148,148
+materials/maps/ba_kmz_oasis_jail_v6_5/models/props_lab/tank_glass002_320_-1168_0.vmt,152,152
+materials/maps/ba_kmz_oasis_jail_v6_5/nature/water_movingplane_320_-1168_0.vmt,169,169
+materials/maps/ba_kmz_oasis_jail_v6_5/models/props_lab/suitcase_glass_320_-1168_0.vmt,153,153
+materials/maps/ba_kmz_oasis_jail_v6_5/glass/glasswindowbreak070a_320_-1168_0.vmt,148,148
+materials/maps/ba_kmz_oasis_jail_v6_5/glass/unbreakable_320_-1168_0.vmt,139,139
+materials/maps/ba_kmz_oasis_jail_v6_5/glass/combineglass001a_320_-1168_0.vmt,144,144
+materials/maps/ba_kmz_oasis_jail_v6_5/models/props/de_nuke/light_red1_glass_320_-1168_0.vmt,159,159
+materials/maps/ba_kmz_oasis_jail_v6_5/halflife/glassblue2_320_-1168_0.vmt,141,141
+materials/maps/ba_kmz_oasis_jail_v6_5/maps/ba_kmz_oasis_jail_v6_5/nature/water_movingplane_320_-1168_0_depth_94.vmt,151,151
+materials/maps/ba_kmz_oasis_jail_v6_5/cubemapdefault.vtf,9824,9824
+materials/maps/ba_kmz_oasis_jail_v6_5/c320_-1168_0.vtf,9824,9824
+materials/VGUI/KmZ Oasis/cafeteria.vmt,72,72
+materials/VGUI/KmZ Oasis/cafeteria.vtf,87544,87544
+materials/VGUI/KmZ Oasis/Carpark.vmt,70,70
+materials/VGUI/KmZ Oasis/Carpark.vtf,87544,87544
+materials/VGUI/KmZ Oasis/football.vmt,71,71
+materials/VGUI/KmZ Oasis/football.vtf,87544,87544
+materials/VGUI/KmZ Oasis/frozius.vmt,70,70
+materials/VGUI/KmZ Oasis/frozius.vtf,43912,43912
+materials/VGUI/KmZ Oasis/gravity.vmt,70,70
+materials/VGUI/KmZ Oasis/gravity.vtf,87544,87544
+materials/VGUI/KmZ Oasis/kmz.vmt,66,66
+materials/VGUI/KmZ Oasis/kmz.vtf,174984,174984
+materials/VGUI/KmZ Oasis/kmzoasisjail.vmt,75,75
+materials/VGUI/KmZ Oasis/kmzoasisjail.vtf,87544,87544
+materials/VGUI/KmZ Oasis/pool.vmt,67,67
+materials/VGUI/KmZ Oasis/pool.vtf,87544,87544
+materials/VGUI/KmZ Oasis/rules.vmt,68,68
+materials/VGUI/KmZ Oasis/rules.vtf,174984,174984
+materials/VGUI/KmZ Oasis/solitary.vmt,71,71
+materials/VGUI/KmZ Oasis/solitary.vtf,87544,87544
+materials/VGUI/KmZ Oasis/thanks.vmt,69,69
+materials/VGUI/KmZ Oasis/thanks.vtf,174984,174984
+materials/VGUI/kmzoasis/carpark.vmt,69,69
+materials/VGUI/kmzoasis/carpark.vtf,43912,43912
+materials/VGUI/kmzoasis/Chris's Datrium Spray copy.vmt,143,143
+materials/VGUI/kmzoasis/football.vmt,70,70
+materials/VGUI/kmzoasis/football.vtf,43912,43912
+materials/VGUI/kmzoasis/gravity.vmt,69,69
+materials/VGUI/kmzoasis/gravity.vtf,43912,43912
+materials/VGUI/kmzoasis/New Folder/frozius.vtf,43912,43912
+materials/VGUI/kmzoasis/oasis.vmt,67,67
+materials/VGUI/kmzoasis/oasis.vtf,43912,43912
+materials/VGUI/kmzoasis/pool.vmt,66,66
+materials/VGUI/kmzoasis/pool.vtf,43912,43912
+materials/VGUI/kmzoasis/rickyspray1.vmt,128,128
+materials/VGUI/logos/adlernest2.vmt,127,127
+materials/VGUI/logos/adlernest2.vtf,87616,87616
+materials/VGUI/logos/Chris's Datrium Spray copy.vmt,143,143
+materials/VGUI/logos/Chris's Datrium Spray copy.vtf,43912,43912
+materials/VGUI/logos/datrium.vtf,43912,43912
+materials/VGUI/logos/rickyspray1.vmt,128,128
+materials/VGUI/logos/rickyspray1.vtf,43912,43912
+materials/VGUI/logos/UI/adlernest2.vmt,211,211
+materials/VGUI/logos/UI/chris's datrium spray copy.vmt,227,227
+materials/VGUI/logos/UI/rickyspray1.vmt,212,212
+materials/VGUI/logos/UI/spray_bullseye.vmt,215,215

@@ -1,0 +1,67 @@
+filename,size,compressed
+materials/maps/mg_tetris_revolution_b1ot/metal/citadel_metalwall076a_-1448_1112_2132.vmt,156,156
+materials/maps/mg_tetris_revolution_b1ot/metal/citadel_metalwall076a_0_-656_968.vmt,151,151
+materials/maps/mg_tetris_revolution_b1ot/glass/offwndwb_break_0_1192_1992.vmt,168,168
+materials/maps/mg_tetris_revolution_b1ot/glass/offwndwb_break_0_1192_1480.vmt,168,168
+materials/maps/mg_tetris_revolution_b1ot/glass/offwndwb_break_0_-656_968.vmt,167,167
+materials/maps/mg_tetris_revolution_b1ot/glass/offwndwb_break_0_1192_968.vmt,167,167
+materials/maps/mg_tetris_revolution_b1ot/glass/offwndwb_break_0_1192_2504.vmt,168,168
+materials/maps/mg_tetris_revolution_b1ot/cubemapdefault.vtf,9824,9824
+materials/maps/mg_tetris_revolution_b1ot/c-1448_1112_2132.vtf,9824,9824
+materials/maps/mg_tetris_revolution_b1ot/c0_-656_968.vtf,9824,9824
+materials/maps/mg_tetris_revolution_b1ot/c0_1192_1992.vtf,9824,9824
+materials/maps/mg_tetris_revolution_b1ot/c0_1192_1480.vtf,9824,9824
+materials/maps/mg_tetris_revolution_b1ot/c0_1192_968.vtf,9824,9824
+materials/maps/mg_tetris_revolution_b1ot/c0_1192_2504.vtf,9824,9824
+materials/maps/mg_tetris_revolution_b1ot/c-1096_1112_2132.vtf,9824,9824
+materials/maps/mg_tetris_revolution_b1ot/c0_1192_3016.vtf,9824,9824
+materials/STER/STERGREY.vmt,122,122
+materials/ster/sterGrey.vtf,87616,87616
+materials/ster/SterGrey_normal.vtf,87616,87616
+materials/STER/STERGREEN.vmt,124,124
+materials/ster/sterGreen.vtf,87616,87616
+materials/ster/SterGreen_normal.vtf,87616,87616
+materials/STER/STERBLUE.vmt,122,122
+materials/ster/sterblue.vtf,87616,87616
+materials/ster/sterblue_normal.vtf,87616,87616
+materials/COLOR/GREY.vmt,61,61
+materials/color/grey.vtf,11144,11144
+materials/COLOR/BONDI BLUE.vmt,67,67
+materials/COLOR/PURPLE HTML.vmt,68,68
+materials/COLOR/GREEN HTML.vmt,97,97
+materials/COLOR/DARK CERULEAN.vmt,70,70
+materials/COLOR/DARK BLUE.vmt,66,66
+materials/COLOR/DARK GREEN.vmt,97,97
+materials/COLOR/DARK SPRING GREEN.vmt,74,74
+materials/STER/STERWHITE.vmt,124,124
+materials/ster/sterwhite.vtf,87616,87616
+materials/ster/SterWhite_normal.vtf,87616,87616
+materials/STER/STERRED.vmt,120,120
+materials/ster/sterRed.vtf,87616,87616
+materials/ster/SterRed_normal.vtf,87616,87616
+materials/STER/STERBLUEGREY.vmt,130,130
+materials/ster/sterBlueGrey.vtf,87616,87616
+materials/ster/SterBlueGrey_normal.vtf,87616,87616
+materials/COLOR/DARK BROWN.vmt,67,67
+materials/COLOR/PERSIAN RED.vmt,98,98
+materials/COLOR/PRUSSIAN BLUE.vmt,100,100
+materials/COLOR/SLATE GREY.vmt,67,67
+sound/admin_plugin/tetrismusique.wav,2818092,2818092
+soundcache/mg_tetris_revolution_b1ot.cache,16,16
+materials/Color/dark brown.vmt,67,67
+materials/Color/dark brown.vtf,11144,11144
+materials/Color/dark spring green.vtf,11144,11144
+materials/Color/dark green.vtf,11144,11144
+materials/Color/persian red.vtf,11144,11144
+materials/Color/dark blue.vtf,11144,11144
+materials/Color/dark cerulean.vtf,11144,11144
+materials/Color/green html.vmt,97,97
+materials/Color/green html.vtf,11144,11144
+materials/Color/purple html.vmt,68,68
+materials/Color/purple html.vtf,11144,11144
+materials/Color/bondi blue.vmt,67,67
+materials/Color/bondi blue.vtf,11144,11144
+materials/Color/slate grey.vmt,67,67
+materials/Color/slate grey.vtf,11144,11144
+materials/Color/prussian blue.vmt,100,100
+materials/Color/prussian blue.vtf,11144,11144

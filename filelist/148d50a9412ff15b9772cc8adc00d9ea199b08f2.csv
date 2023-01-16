@@ -1,0 +1,26 @@
+filename,size,compressed
+materials/maps/mg_russ-team_death-room_1/de_nuke/nuke_metaldoor_01_5161_-405_73.vmt,151,151
+materials/maps/mg_russ-team_death-room_1/environment maps/pipemetal004b_4720_384_128.vmt,156,156
+materials/maps/mg_russ-team_death-room_1/environment maps/pipemetal004b_5472_1696_128.vmt,157,157
+materials/maps/mg_russ-team_death-room_1/environment maps/pipemetal004b_6228_146_-420.vmt,157,157
+materials/maps/mg_russ-team_death-room_1/de_nuke/nuke_metaldoor_01_5472_1696_128.vmt,152,152
+materials/maps/mg_russ-team_death-room_1/nature/water_canals_city_murky_4720_384_128.vmt,179,179
+materials/maps/mg_russ-team_death-room_1/models/props/de_nuke/pipesa_bombsite_4720_384_128.vmt,162,162
+materials/maps/mg_russ-team_death-room_1/models/props/de_nuke/pipesa_bombsite_5472_1696_128.vmt,163,163
+materials/maps/mg_russ-team_death-room_1/environment maps/pipemetal001a_4720_384_128.vmt,156,156
+materials/maps/mg_russ-team_death-room_1/environment maps/pipemetal001a_5472_1696_128.vmt,157,157
+materials/maps/mg_russ-team_death-room_1/models/props/cs_assault/railingtraintrack_5472_1696_128.vmt,168,168
+materials/maps/mg_russ-team_death-room_1/shadertest/watercheap_opaque_nofresnel_6228_146_-420.vmt,188,188
+materials/maps/mg_russ-team_death-room_1/nature/water_canals_city_5161_-405_73.vmt,173,173
+materials/maps/mg_russ-team_death-room_1/dev/dev_water5_5472_1696_128.vmt,164,164
+materials/maps/mg_russ-team_death-room_1/dev/dev_water2_5472_1696_128.vmt,164,164
+materials/maps/mg_russ-team_death-room_1/maps/mg_russ-team_death-room_1/nature/water_canals_city_murky_4720_384_128_depth_64.vmt,161,161
+materials/maps/mg_russ-team_death-room_1/maps/mg_russ-team_death-room_1/shadertest/watercheap_opaque_nofresnel_6228_146_-420_depth_83.vmt,170,170
+materials/maps/mg_russ-team_death-room_1/maps/mg_russ-team_death-room_1/nature/water_canals_city_5161_-405_73_depth_16.vmt,155,155
+materials/maps/mg_russ-team_death-room_1/maps/mg_russ-team_death-room_1/dev/dev_water5_5472_1696_128_depth_16.vmt,146,146
+materials/maps/mg_russ-team_death-room_1/maps/mg_russ-team_death-room_1/dev/dev_water2_5472_1696_128_depth_22.vmt,146,146
+materials/maps/mg_russ-team_death-room_1/cubemapdefault.vtf,9824,9824
+materials/maps/mg_russ-team_death-room_1/c5161_-405_73.vtf,9824,9824
+materials/maps/mg_russ-team_death-room_1/c4720_384_128.vtf,9824,9824
+materials/maps/mg_russ-team_death-room_1/c5472_1696_128.vtf,9824,9824
+materials/maps/mg_russ-team_death-room_1/c6228_146_-420.vtf,9824,9824

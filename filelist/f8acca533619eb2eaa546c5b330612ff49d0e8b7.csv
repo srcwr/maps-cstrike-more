@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/fy_lift_up_v1b8/cubemapdefault.vtf,9824,9824
+materials/maps/fy_lift_up_v1b8/c0_0_-448.vtf,9824,9824
+materials/maps/fy_lift_up_v1b8/c768_0_-448.vtf,9824,9824
+materials/maps/fy_lift_up_v1b8/c-768_0_-448.vtf,9824,9824
+materials/maps/fy_lift_up_v1b8/c0_0_-448.hdr.vtf,76520,76520
+materials/maps/fy_lift_up_v1b8/c768_0_-448.hdr.vtf,76520,76520
+materials/maps/fy_lift_up_v1b8/c-768_0_-448.hdr.vtf,76520,76520
+materials/XENO/GLOW.vmt,99,99
+materials/xeno/glow.vtf,1572,1572
+maps/soundcache/fy_lift_up_v1b8.cache,546327,546327
+maps/fy_lift_up_v1b8.txt,457,457

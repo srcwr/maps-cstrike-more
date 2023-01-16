@@ -1,0 +1,55 @@
+filename,size,compressed
+materials/maps/de_rogergois_v3/stone/blendstonefloor003asphalt_wvt_patch.vmt,299,299
+materials/maps/de_rogergois_v3/nature/blendprodasphaltgrass_wvt_patch.vmt,122,122
+materials/maps/de_rogergois_v3/brick/offwlld_-1230_-98_-215.vmt,131,131
+materials/maps/de_rogergois_v3/tile/tilefloor010a_-1230_-98_-215.vmt,136,136
+materials/maps/de_rogergois_v3/nature/mudfloor001a_-1230_-98_-215.vmt,176,176
+materials/maps/de_rogergois_v3/brick/offwllb_-1230_-98_-215.vmt,131,131
+materials/maps/de_rogergois_v3/plaster/plasterwall017c_c17_-1230_-98_-215.vmt,184,184
+materials/maps/de_rogergois_v3/de_piranesi/marblefloor04_-1230_-98_-215.vmt,143,143
+materials/maps/de_rogergois_v3/cs_assault/pavement001_-1230_-98_-215.vmt,140,140
+materials/maps/de_rogergois_v3/nature/sewer_water001_-1230_-98_-215.vmt,162,162
+materials/maps/de_rogergois_v3/brick/brickwall014f_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/metal/metalwall048a_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/metal/metalroof004a_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/metal/citadel_metalwall072c_-1230_-98_-215.vmt,145,145
+materials/maps/de_rogergois_v3/de_piranesi/woodfloor01_-1230_-98_-215.vmt,141,141
+materials/maps/de_rogergois_v3/buildings/gen15_-1230_-98_-215.vmt,133,133
+materials/maps/de_rogergois_v3/buildings/gen21_-1230_-98_-215.vmt,133,133
+materials/maps/de_rogergois_v3/buildings/gen24_-1230_-98_-215.vmt,133,133
+materials/maps/de_rogergois_v3/metal/metalroof005a_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/effects/offgaragedr_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/brick/infwndwb_-1230_-98_-215.vmt,132,132
+materials/maps/de_rogergois_v3/brick/brickwall031b_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/metal/metalroof006a_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/de_chateau/intbrickk_-1230_-98_-215.vmt,138,138
+materials/maps/de_rogergois_v3/brick/brickwall045j_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/brick/brickwall045c_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/brick/infwndwa_-1230_-98_-215.vmt,132,132
+materials/maps/de_rogergois_v3/building_template/building_template001b_-1230_-98_-215.vmt,157,157
+materials/maps/de_rogergois_v3/metal/metalwall004d_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/metal/metalwall004e_-1230_-98_-215.vmt,137,137
+materials/maps/de_rogergois_v3/de_chateau/floor02_-1230_-98_-215.vmt,136,136
+materials/maps/de_rogergois_v3/de_piranesi/woodfloor03_-1230_-98_-215.vmt,141,141
+materials/maps/de_rogergois_v3/concrete/concretefloor019a_-1230_-98_-215.vmt,144,144
+materials/maps/de_rogergois_v3/glass/glasswindowbreak070a_-1230_-98_-215.vmt,144,144
+materials/maps/de_rogergois_v3/maps/de_rogergois_v3/nature/sewer_water001_-1230_-98_-215_depth_20.vmt,144,144
+materials/maps/de_rogergois_v3/cubemapdefault.vtf,28753,28753
+materials/maps/de_rogergois_v3/c-1230_-98_-215.vtf,28753,28753
+materials/maps/de_rogergois_v3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_rogergois_v3/c-1230_-98_-215.hdr.vtf,76528,76528
+materials/custom/fizzy fizzy.vmt,66,66
+materials/custom/fizzy fizzy.vtf,43912,43912
+materials/custom/lemon nades.vmt,66,66
+materials/custom/lemon nades.vtf,43912,43912
+materials/custom/brenties.vmt,63,63
+materials/custom/brenties.vtf,174928,174928
+materials/custom/roger gois.vmt,65,65
+materials/custom/roger gois.vtf,174928,174928
+materials/custom/de_rogergois sign.vmt,72,72
+materials/custom/de_rogergois sign.vtf,349744,349744
+materials/custom/toe.vmt,58,58
+materials/custom/toe.vtf,349744,349744
+materials/custom/ride on freedom.vmt,70,70
+materials/custom/ride on freedom.vtf,22064,22064
+maps/de_rogergois_v3.nav,963627,963627

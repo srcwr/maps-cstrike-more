@@ -1,0 +1,34 @@
+filename,size,compressed
+materials/maps/fy_wac_bodega2/metal/metaldoor046a_772_-768_424.vmt,134,134
+materials/maps/fy_wac_bodega2/metal/metaldoor046a_24_-24_-4148.vmt,134,134
+materials/maps/fy_wac_bodega2/buildings/gen07_24_-24_-4148.vmt,130,130
+materials/maps/fy_wac_bodega2/buildings/gen23_24_-24_-4148.vmt,130,130
+materials/maps/fy_wac_bodega2/brick/brickwall045j_24_-24_-4148.vmt,134,134
+materials/maps/fy_wac_bodega2/building_template/building_template005c_24_-24_-4148.vmt,154,154
+materials/maps/fy_wac_bodega2/brick/brickwall045j_772_-768_424.vmt,134,134
+materials/maps/fy_wac_bodega2/brick/brickwall045c_24_-24_-4148.vmt,134,134
+materials/maps/fy_wac_bodega2/de_nuke/nukwindowa_24_-24_-4148.vmt,133,133
+materials/maps/fy_wac_bodega2/building_template/building_trainstation_template002d_24_-24_-4148.vmt,167,167
+materials/maps/fy_wac_bodega2/glass/glasswindowbreak070a_772_-768_424.vmt,141,141
+materials/maps/fy_wac_bodega2/glass/glasswindowbreak070a_24_-24_-4148.vmt,141,141
+materials/maps/fy_wac_bodega2/de_nuke/nuke_metaldoor_01_24_-24_-4148.vmt,140,140
+materials/maps/fy_wac_bodega2/de_nuke/nuke_metaldoor_01_772_-768_424.vmt,140,140
+materials/maps/fy_wac_bodega2/de_nuke/nukfloora_772_-768_424.vmt,132,132
+materials/maps/fy_wac_bodega2/de_nuke/nukfloora_24_-24_-4148.vmt,132,132
+materials/maps/fy_wac_bodega2/environment maps/pipemetal001a_772_-768_424.vmt,145,145
+materials/maps/fy_wac_bodega2/environment maps/pipemetal001a_24_-24_-4148.vmt,145,145
+materials/maps/fy_wac_bodega2/wood/woodwall009a_772_-768_424.vmt,132,132
+materials/maps/fy_wac_bodega2/wood/woodwall009a_24_-24_-4148.vmt,132,132
+materials/maps/fy_wac_bodega2/cubemapdefault.vtf,9824,9824
+materials/maps/fy_wac_bodega2/c772_-768_424.vtf,9824,9824
+materials/maps/fy_wac_bodega2/c24_-24_-4148.vtf,9824,9824
+materials/VGUI/LOGOS/BACKDROPGREY.vmt,129,129
+materials/vgui/logos/backdropgrey.vtf,43912,43912
+materials/vgui/logos/lick_nades.vmt,127,127
+materials/vgui/logos/Lick_nades.vtf,87616,87616
+materials/vgui/logos/stand_here.vmt,127,127
+materials/vgui/logos/Stand_here.vtf,87616,87616
+materials/vgui/logos/newspraywac2.vmt,129,129
+materials/vgui/logos/newsprayWAC2.vtf,87616,87616
+maps/fy_wac_bodega2.nav,223031,223031
+maps/soundcache/fy_wac_bodega2.cache,16,16

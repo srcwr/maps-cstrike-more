@@ -1,0 +1,41 @@
+filename,size,compressed
+materials/maps/jb_lolmad/cs_italy/cobble02_349_-504_2153.vmt,128,128
+materials/maps/jb_lolmad/glass/glasswindowbreak070b_349_-504_2153.vmt,114,114
+materials/maps/jb_lolmad/glass/offwndwb_349_-504_2153.vmt,204,204
+materials/maps/jb_lolmad/glass/unbreakable_349_-504_2153.vmt,128,128
+materials/maps/jb_lolmad/de_chateau/wall04pnl01_349_-504_2153.vmt,133,133
+materials/maps/jb_lolmad/glass/prodwndwa_349_-504_2153.vmt,205,205
+materials/maps/jb_lolmad/metal/citadel_metalwall072c_349_-504_2153.vmt,138,138
+materials/maps/jb_lolmad/metal/prodventa_349_-504_2153.vmt,126,126
+materials/maps/jb_lolmad/glass/glasswindow070a_349_-504_2153.vmt,132,132
+materials/maps/jb_lolmad/brick/offwllb_349_-504_2153.vmt,124,124
+materials/maps/jb_lolmad/de_prodigy/prodmapc_349_-504_2153.vmt,130,130
+materials/maps/jb_lolmad/glass/combineglass001a_349_-504_2153.vmt,133,133
+materials/maps/jb_lolmad/effects/combineshield/comshieldwall_349_-504_2153.vmt,169,169
+materials/maps/jb_lolmad/nature/water_canals03_beneath_depth_15.vmt,116,116
+materials/maps/jb_lolmad/nature/water_canals03_beneath_depth_31.vmt,116,116
+materials/maps/jb_lolmad/dev/dev_waterbeneath2_depth_15.vmt,108,108
+materials/maps/jb_lolmad/cubemapdefault.vtf,28753,28753
+materials/maps/jb_lolmad/c349_-504_2153.vtf,28753,28753
+materials/maps/jb_lolmad/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jb_lolmad/c349_-504_2153.hdr.vtf,76528,76528
+materials/SEAMUS/DISCO.vmt,83,83
+materials/Seamus/disco.vtf,349760,349760
+materials/SEAMUS/LR.vmt,80,80
+materials/Seamus/lr.vtf,349760,349760
+materials/SEAMUS/SPRAY.vmt,83,83
+materials/Seamus/spray.vtf,349760,349760
+materials/SEAMUS/SURF.vmt,82,82
+materials/Seamus/surf.vtf,349760,349760
+materials/SEAMUS/CLIMB.vmt,83,83
+materials/Seamus/climb.vtf,349760,349760
+materials/SEAMUS/ARMORY.vmt,84,84
+materials/Seamus/armory.vtf,349760,349760
+materials/SEAMUS/MADMAN.vmt,84,84
+materials/Seamus/MADMAN.vtf,349760,349760
+sound/y source sdk songs/calling (lose my mind) (cut) 3.mp3,1103982,1103982
+sound/y source sdk songs/further away (cut) 3.wav,12468364,12468364
+sound/y source sdk songs/promises (cut) 3.wav,21353204,21353204
+sound/y source sdk songs/don't stop the party.mp3,1155663,1155663
+sound/y source sdk songs/levels.mp3,1337386,1337386
+maps/soundcache/jb_lolmad.cache,16,16

@@ -1,0 +1,416 @@
+filename,size,compressed
+materials/maps/jb_incarceration_final/de_tides/blendgrassstonepath_wvt_patch.vmt,276,276
+materials/maps/jb_incarceration_final/cs_havana/glass2_0_0_0.vmt,132,132
+materials/maps/jb_incarceration_final/realworldtextures2/wood/wood_01_0_0_0.vmt,147,147
+materials/maps/jb_incarceration_final/realworldtextures2/metal/metal_177_0_0_0.vmt,150,150
+materials/maps/jb_incarceration_final/realworldtextures/ceiling/quattro_0_0_0.vmt,149,149
+materials/maps/jb_incarceration_final/glass/combineglass001a_0_0_0.vmt,138,138
+materials/maps/jb_incarceration_final/realworldtextures/newer/3/tile_3_14_0_0_0.vmt,151,151
+materials/maps/jb_incarceration_final/realworldtextures2/metal/wall/metal_128_reflective_0_0_0.vmt,166,166
+materials/maps/jb_incarceration_final/realworldtextures/newer/3/tile_3_15_0_0_0.vmt,151,151
+materials/maps/jb_incarceration_final/realworldtextures2/wood/wood_02_0_0_0.vmt,147,147
+materials/maps/jb_incarceration_final/realworldtextures2/tile/tile_01_0_0_0.vmt,147,147
+materials/maps/jb_incarceration_final/nature/water_coast03_depth_216.vmt,108,108
+materials/maps/jb_incarceration_final/nature/water_coast04_depth_128.vmt,108,108
+materials/maps/jb_incarceration_final/nature/water_coast04_depth_2.vmt,106,106
+materials/maps/jb_incarceration_final/nature/water_coast04_depth_3.vmt,106,106
+materials/maps/jb_incarceration_final/nature/water_coast04_depth_1.vmt,106,106
+materials/maps/jb_incarceration_final/dev/dev_water5_depth_8.vmt,100,100
+materials/maps/jb_incarceration_final/dev/dev_water5_depth_44.vmt,101,101
+materials/maps/jb_incarceration_final/nature/water_coast04_depth_8.vmt,106,106
+materials/maps/jb_incarceration_final/dev/dev_water3_depth_3.vmt,100,100
+materials/maps/jb_incarceration_final/dev/dev_water3_depth_7.vmt,100,100
+materials/maps/jb_incarceration_final/cubemapdefault.vtf,4960,4960
+materials/maps/jb_incarceration_final/c0_0_0.vtf,4960,4960
+materials/maps/jb_incarceration_final/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/jb_incarceration_final/c0_0_0.hdr.vtf,76528,76528
+maps/jb_incarceration_final.txt,459,459
+materials/elevator/elevator.vtf,43872,43872
+materials/guide/guide.vtf,349760,349760
+materials/maze game/maze game.vtf,43872,43872
+materials/realworldtextures/floor/mixtile/solid/orange.vmt,360,360
+materials/realworldtextures/floor/floor_15_nrm.vtf,43912,43912
+materials/realworldtextures/floor/floor_1_18.vtf,174984,174984
+materials/realworldtextures/floor/floor_1_20.vtf,43912,43912
+materials/realworldtextures/floor/mixtile/bump/512.vtf,174984,174984
+materials/realworldtextures/floor/mixtile/solid/orange.vtf,174984,174984
+materials/realworldtextures/floor/floor_6.vtf,11144,11144
+materials/realworldtextures/floor/floor_7.vtf,43912,43912
+materials/realworldtextures/floor/floor_7_nrm.vtf,43912,43912
+materials/realworldtextures/newer/1/brick_1_08.vtf,174984,174984
+materials/realworldtextures/newer/1/brick_1_16.vtf,174984,174984
+materials/realworldtextures/newer/1/concrete_1_02.vtf,174984,174984
+materials/realworldtextures/newer/1/concrete_1_05.vtf,174984,174984
+materials/realworldtextures/newer/1/concrete_1_12.vtf,174984,174984
+materials/realworldtextures/newer/1/floor_1_01.vtf,174984,174984
+materials/realworldtextures/newer/1/wood_1_01.vtf,174984,174984
+materials/realworldtextures/newer/1/wood_1_02.vtf,174984,174984
+materials/realworldtextures/walls/deepcharcoal.vtf,174984,174984
+materials/realworldtextures/ceiling/ceiling_1_01.vtf,43912,43912
+materials/realworldtextures/ceiling/quattro.vtf,174984,174984
+materials/realworldtextures/ceiling/quattro_nrm.vtf,174984,174984
+materials/realworldtextures/new/boycarpetblue.vtf,174984,174984
+materials/realworldtextures/new/carpetl5.vtf,174984,174984
+materials/realworldtextures/newer/0/bricks_0_20.vtf,174984,174984
+materials/realworldtextures/newer/0/bricks_0_20_nrm.vtf,174984,174984
+materials/realworldtextures/newer/0/grass_0_01.vtf,174984,174984
+materials/realworldtextures/newer/0/grass_0_01_nrm.vtf,174984,174984
+materials/realworldtextures/newer/0/snow_0_01.vtf,174984,174984
+materials/realworldtextures/newer/0/snow_0_01_nrm.vtf,174984,174984
+materials/realworldtextures/newer/2/wood_2_04.vtf,174984,174984
+materials/realworldtextures/newer/2/wood_2_04_spec.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_06.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_06_nrm.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_07.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_07_nrm.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_12.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_12_nrm.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_14.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_14_nrm.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_15.vtf,174984,174984
+materials/realworldtextures/newer/3/tile_3_15_nrm.vtf,174984,174984
+materials/realworldtextures2/ceiling/ceiling_04.vtf,174984,174984
+materials/realworldtextures2/ceiling/ceiling_04_nrm.vtf,174984,174984
+materials/realworldtextures2/ground/brick_path_04.vtf,174984,174984
+materials/realworldtextures2/ground/grass_11.vtf,174984,174984
+materials/realworldtextures2/ground/grass_12.vtf,174984,174984
+materials/realworldtextures2/ground/ice_02.vtf,174984,174984
+materials/realworldtextures2/ground/ice_03.vtf,174984,174984
+materials/realworldtextures2/ground/lava_magma_03.vtf,174984,174984
+materials/realworldtextures2/ground/lava_magma_05.vtf,174984,174984
+materials/realworldtextures2/ground/sand_11.vtf,174984,174984
+materials/realworldtextures2/metal/metal_08.vtf,174984,174984
+materials/realworldtextures2/metal/metal_08_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/cast_iron_07.vtf,174984,174984
+materials/realworldtextures2/metal/cast_iron_07_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/chainmail_01.vtf,174984,174984
+materials/realworldtextures2/metal/chainmail_01_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_05.vtf,349760,349760
+materials/realworldtextures2/metal/floor/metal_05_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_06.vtf,349760,349760
+materials/realworldtextures2/metal/floor/metal_06_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_149.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_149_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_150.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_150_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_81_87_89_93_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_83_84_90_94_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_84.vtf,174984,174984
+materials/realworldtextures2/metal/floor/metal_89.vtf,174984,174984
+materials/realworldtextures2/metal/grate/metal_02.vtf,349760,349760
+materials/realworldtextures2/metal/grate/metal_grate_08.vtf,349760,349760
+materials/realworldtextures2/metal/metal_103.vtf,174984,174984
+materials/realworldtextures2/metal/metal_103_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/metal_103_spec.vtf,174984,174984
+materials/realworldtextures2/metal/metal_177.vtf,349760,349760
+materials/realworldtextures2/metal/metal_177_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/metal_97.vtf,174984,174984
+materials/realworldtextures2/metal/metal_97_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/metal_97_spec.vtf,174984,174984
+materials/realworldtextures2/metal/metal_98.vtf,174984,174984
+materials/realworldtextures2/metal/metal_98_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/metal_98_spec.vtf,174984,174984
+materials/realworldtextures2/metal/wall/metal_128.vtf,174984,174984
+materials/realworldtextures2/metal/wall/metal_128_nrm.vtf,174984,174984
+materials/realworldtextures2/metal/wall/metal_134.vtf,174984,174984
+materials/realworldtextures2/metal/wall/metal_134_nrm.vtf,174984,174984
+materials/realworldtextures2/misc/space_08.vtf,174984,174984
+materials/realworldtextures2/roof/wood_roof_05.vtf,174984,174984
+materials/realworldtextures2/roof/wood_roof_05_nrm.vtf,174984,174984
+materials/realworldtextures2/roof/wood_roof_06.vtf,174984,174984
+materials/realworldtextures2/roof/wood_roof_06_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_01.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_01_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_05.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_05_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_08.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_08_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_38.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_38_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_39.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_39_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_39_spec.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_42.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_42_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_48.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_48_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_54.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_54_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_60.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_60_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/plaster_wall_03.vtf,174984,174984
+materials/realworldtextures2/wall/plaster_wall_04.vtf,174984,174984
+materials/realworldtextures2/wall/plaster_wall_04_nrm.vtf,174984,174984
+materials/realworldtextures2/wall/plaster_wall_05.vtf,174984,174984
+materials/realworldtextures2/wall/wallpaper_35.vtf,174984,174984
+materials/realworldtextures2/wall/wallpaper_53.vtf,174984,174984
+materials/realworldtextures2/wall/wallpaper_53_nrm.vtf,174984,174984
+materials/realworldtextures2/wood/wood_01.vtf,174984,174984
+materials/realworldtextures2/wood/wood_02.vtf,174984,174984
+materials/realworldtextures2/wood/wood_128.vtf,174984,174984
+materials/realworldtextures2/wood/wood_130.vtf,174984,174984
+materials/realworldtextures2/wood/wood_29.vtf,174984,174984
+materials/realworldtextures2/wood/wood_30.vtf,174984,174984
+materials/realworldtextures2/detail/detailconcrete001a.vtf,262567,262567
+materials/realworldtextures2/detail/dt_grass1.vtf,16807,16807
+materials/realworldtextures2/detail/dt_smooth1.vtf,16807,16807
+materials/realworldtextures2/detail/dt_stone1.vtf,16807,16807
+materials/realworldtextures2/detail/dt_stone2.vtf,16807,16807
+materials/realworldtextures2/detail/dt_wood.vtf,16807,16807
+materials/realworldtextures2/detail/metal_detail_01.vtf,262567,262567
+materials/realworldtextures2/detail/noise_detail_01.vtf,65959,65959
+materials/realworldtextures2/detail/plaster_detail_01.vtf,65959,65959
+materials/realworldtextures2/detail/rock_detail_01.vtf,1048999,1048999
+materials/realworldtextures2/ground/brick_path_04_nrm.vtf,174984,174984
+materials/realworldtextures2/ground/lava_magma_03_nrm.vtf,174984,174984
+materials/realworldtextures2/ground/sand_11_nrm.vtf,174984,174984
+materials/realworldtextures2/marble/inserts/marble_07.vtf,174984,174984
+materials/realworldtextures2/marble/inserts/marble_07_nrm.vtf,174984,174984
+materials/realworldtextures2/marble/inserts/marble_08.vtf,174984,174984
+materials/realworldtextures2/marble/inserts/marble_08_nrm.vtf,174984,174984
+materials/realworldtextures2/rock/rock_48.vtf,174984,174984
+materials/realworldtextures2/rock/rock_48_nrm.vtf,174984,174984
+materials/realworldtextures2/stairs/stairs_01.vtf,174984,174984
+materials/realworldtextures2/stairs/stairs_01_nrm.vtf,174984,174984
+materials/realworldtextures2/tile/tile_01.vtf,174984,174984
+materials/realworldtextures2/tile/tile_01_nrm.vtf,174984,174984
+materials/realworldtextures2/tile/tile_01_spec.vtf,174984,174984
+materials/realworldtextures2/tile/tile_02.vtf,174984,174984
+materials/realworldtextures2/tile/tile_02_nrm.vtf,174984,174984
+materials/realworldtextures2/tile/tile_02_spec.vtf,174984,174984
+materials/realworldtextures2/tile/tile_03.vtf,174984,174984
+materials/realworldtextures2/tile/tile_03_nrm.vtf,174984,174984
+materials/realworldtextures2/tile/tile_03_spec.vtf,174984,174984
+materials/realworldtextures2/tile/plastic_tile_01.vtf,174984,174984
+materials/realworldtextures2/tile/plastic_tile_04.vtf,174984,174984
+materials/start maze/start maze.vtf,43872,43872
+materials/watersource/waterfall/waterfallfull_1024_clear.vtf,1398336,1398336
+materials/watersource/waterfall/waterfallfull_1024_nrm_clear.vtf,524496,524496
+materials/wolv textures/anthrax/anthrax.vtf,349760,349760
+materials/wolv textures/bhop/bhop.vtf,87616,87616
+materials/wolv textures/ct/ct.vtf,349732,349732
+materials/wolv textures/climb tower/climb tower.vtf,349760,349760
+materials/wolv textures/coors light/coors light.vtf,349732,349732
+materials/wolv textures/credits/credits.vtf,349760,349760
+materials/wolv textures/dark room explained/dark room explained.vtf,349760,349760
+materials/wolv textures/dark room/dark room.vtf,87616,87616
+materials/wolv textures/dream theater/dream theater.vtf,174944,174944
+materials/wolv textures/enter bhop/enter bhop.vtf,87616,87616
+materials/wolv textures/guinness/guinness.vtf,699196,699196
+materials/wolv textures/hell/hell.vtf,87552,87552
+materials/wolv textures/jack daniels/jack daniels.vtf,174944,174944
+materials/wolv textures/king diamond/king diamond.vtf,349760,349760
+materials/wolv textures/megadeth/megadeth.vtf,349760,349760
+materials/wolv textures/metal bar/metal bar.vtf,349760,349760
+materials/wolv textures/quit/quit.vtf,87616,87616
+materials/wolv textures/reset/reset.vtf,349732,349732
+materials/wolv textures/surf enter/surf enter.vtf,87616,87616
+materials/wolv textures/surf/surf.vtf,87616,87616
+materials/wolv textures/teleport/teleport.vtf,87616,87616
+materials/wolv textures/testament/testament.vtf,174944,174944
+materials/wolv textures/winners/winners.vtf,87616,87616
+materials/wolv textures/metallica/metallica.vtf,349732,349732
+materials/wolv textures/slayer/slayer.vtf,349732,349732
+materials/credits2/credits2.vmt,84,84
+materials/credits2/credits2.vtf,349760,349760
+materials/decals/armourydecal.vmt,108,108
+materials/decals/celldoor.vmt,104,104
+materials/decals/medic.vmt,101,101
+materials/decals/pit1.vmt,100,100
+materials/decals/pit2.vmt,100,100
+materials/decals/armourydecal.vtf,87616,87616
+materials/decals/celldoor.vtf,87616,87616
+materials/decals/medic.vtf,87616,87616
+materials/decals/pit1.vtf,87616,87616
+materials/decals/pit2.vtf,87616,87616
+materials/dev/dev_measuregeneric02.vmt,93,93
+materials/dev/dev_measuregeneric02.vtf,11144,11144
+materials/dev/dev_measuregeneric15.vmt,93,93
+materials/dev/dev_measuregeneric15.vtf,11144,11144
+materials/dev/dev_measuregeneric21.vmt,93,93
+materials/dev/dev_measuregeneric21.vtf,11144,11144
+materials/dev/dev_measuregeneric33.vmt,93,93
+materials/dev/dev_measuregeneric33.vtf,11144,11144
+materials/dev/dev_measuregeneric46.vmt,93,93
+materials/dev/dev_measuregeneric46.vtf,11144,11144
+materials/elevator/elevator.vmt,84,84
+materials/guide/guide.vmt,78,78
+materials/mapping textures/materials/maze game/maze game.vmt,101,101
+materials/mapping textures/materials/minigame/minigame.vmt,84,84
+materials/mapping textures/materials/start maze/start maze.vmt,88,88
+materials/mapping textures/materials/teleport/teleport game.vmt,89,89
+materials/maps/jb_last_encounter/realworldtextures/floor/mixtile/solid/orange_1080_-120_40.vmt,162,162
+materials/mazewarday/mazewarday.vmt,103,103
+materials/mazewarday/mazewarday.vtf,43872,43872
+materials/minigame/minigame.vmt,84,84
+materials/minigame/minigame.vtf,43872,43872
+materials/models/custom/bar_beerpump.vmt,191,191
+materials/models/custom/bar_beerpump.vtf,349760,349760
+materials/models/johny-srka/jack.vmt,102,102
+materials/models/player/techknow/scream/scream.vmt,280,280
+materials/models/johny-srka/jack.vtf,349760,349760
+materials/models/player/techknow/scream/scream.vtf,349760,349760
+materials/models/player/techknow/scream/scream_n.vtf,349760,349760
+materials/realworldtextures/ceiling/ceiling_1_01.vmt,234,234
+materials/realworldtextures/ceiling/quattro.vmt,357,357
+materials/realworldtextures/floor/floor_1_18.vmt,302,302
+materials/realworldtextures/floor/floor_1_20.vmt,332,332
+materials/realworldtextures/floor/floor_6.vmt,299,299
+materials/realworldtextures/floor/floor_7.vmt,350,350
+materials/realworldtextures/new/boycarpetblue.vmt,109,109
+materials/realworldtextures/new/carpetl5.vmt,104,104
+materials/realworldtextures/newer/0/bricks_0_20.vmt,167,167
+materials/realworldtextures/newer/0/grass_0_01.vmt,165,165
+materials/realworldtextures/newer/0/snow_0_01.vmt,162,162
+materials/realworldtextures/newer/1/brick_1_08.vmt,109,109
+materials/realworldtextures/newer/1/brick_1_16.vmt,109,109
+materials/realworldtextures/newer/1/concrete_1_02.vmt,115,115
+materials/realworldtextures/newer/1/concrete_1_05.vmt,115,115
+materials/realworldtextures/newer/1/concrete_1_12.vmt,115,115
+materials/realworldtextures/newer/1/floor_1_01.vmt,112,112
+materials/realworldtextures/newer/1/wood_1_01.vmt,107,107
+materials/realworldtextures/newer/1/wood_1_02.vmt,107,107
+materials/realworldtextures/newer/2/wood_2_04.vmt,192,192
+materials/realworldtextures/newer/3/tile_3_06.vmt,188,188
+materials/realworldtextures/newer/3/tile_3_07.vmt,188,188
+materials/realworldtextures/newer/3/tile_3_12.vmt,188,188
+materials/realworldtextures/newer/3/tile_3_14.vmt,188,188
+materials/realworldtextures/newer/3/tile_3_15.vmt,188,188
+materials/realworldtextures/walls/deepcharcoal.vmt,245,245
+materials/realworldtextures2/ceiling/ceiling_04.vmt,290,290
+materials/realworldtextures2/ground/brick_path_04.vmt,386,386
+materials/realworldtextures2/ground/grass_11.vmt,322,322
+materials/realworldtextures2/ground/grass_12.vmt,322,322
+materials/realworldtextures2/ground/ice_02.vmt,274,274
+materials/realworldtextures2/ground/ice_03.vmt,274,274
+materials/realworldtextures2/ground/lava_magma_03.vmt,385,385
+materials/realworldtextures2/ground/lava_magma_05.vmt,326,326
+materials/realworldtextures2/ground/sand_11.vmt,374,374
+materials/realworldtextures2/marble/inserts/marble_07.vmt,349,349
+materials/realworldtextures2/marble/inserts/marble_08.vmt,349,349
+materials/realworldtextures2/metal/cast_iron_07.vmt,303,303
+materials/realworldtextures2/metal/chainmail_01.vmt,283,283
+materials/realworldtextures2/metal/floor/metal_05.vmt,361,361
+materials/realworldtextures2/metal/floor/metal_06.vmt,361,361
+materials/realworldtextures2/metal/floor/metal_149_reflective.vmt,344,344
+materials/realworldtextures2/metal/floor/metal_150.vmt,289,289
+materials/realworldtextures2/metal/floor/metal_150_reflective.vmt,344,344
+materials/realworldtextures2/metal/floor/metal_84.vmt,296,296
+materials/realworldtextures2/metal/floor/metal_89.vmt,296,296
+materials/realworldtextures2/metal/grate/metal_02.vmt,247,247
+materials/realworldtextures2/metal/grate/metal_grate_08.vmt,253,253
+materials/realworldtextures2/metal/metal_08.vmt,435,435
+materials/realworldtextures2/metal/metal_103.vmt,361,361
+materials/realworldtextures2/metal/metal_177.vmt,354,354
+materials/realworldtextures2/metal/metal_97.vmt,358,358
+materials/realworldtextures2/metal/metal_98.vmt,358,358
+materials/realworldtextures2/metal/wall/metal_128_reflective.vmt,447,447
+materials/realworldtextures2/metal/wall/metal_134.vmt,392,392
+materials/realworldtextures2/misc/space_08.vmt,196,196
+materials/realworldtextures2/rock/rock_48.vmt,374,374
+materials/realworldtextures2/roof/wood_roof_05.vmt,398,398
+materials/realworldtextures2/roof/wood_roof_06.vmt,398,398
+materials/realworldtextures2/stairs/stairs_01.vmt,298,298
+materials/realworldtextures2/tile/plastic_tile_01.vmt,230,230
+materials/realworldtextures2/tile/plastic_tile_04.vmt,230,230
+materials/realworldtextures2/tile/tile_01.vmt,351,351
+materials/realworldtextures2/tile/tile_02.vmt,351,351
+materials/realworldtextures2/tile/tile_03.vmt,351,351
+materials/realworldtextures2/wall/brick_wall_01.vmt,283,283
+materials/realworldtextures2/wall/brick_wall_05.vmt,283,283
+materials/realworldtextures2/wall/brick_wall_08.vmt,391,391
+materials/realworldtextures2/wall/brick_wall_38.vmt,443,443
+materials/realworldtextures2/wall/brick_wall_39.vmt,475,475
+materials/realworldtextures2/wall/brick_wall_42.vmt,447,447
+materials/realworldtextures2/wall/brick_wall_48.vmt,283,283
+materials/realworldtextures2/wall/brick_wall_54.vmt,281,281
+materials/realworldtextures2/wall/brick_wall_60.vmt,443,443
+materials/realworldtextures2/wall/plaster_wall_03.vmt,337,337
+materials/realworldtextures2/wall/plaster_wall_04.vmt,396,396
+materials/realworldtextures2/wall/plaster_wall_05.vmt,337,337
+materials/realworldtextures2/wall/wallpaper_35.vmt,327,327
+materials/realworldtextures2/wall/wallpaper_53.vmt,383,383
+materials/realworldtextures2/wood/wood_01.vmt,371,371
+materials/realworldtextures2/wood/wood_02.vmt,371,371
+materials/realworldtextures2/wood/wood_128.vmt,220,220
+materials/realworldtextures2/wood/wood_130.vmt,220,220
+materials/realworldtextures2/wood/wood_29.vmt,316,316
+materials/realworldtextures2/wood/wood_30.vmt,316,316
+materials/skybox/sky36bk.vmt,88,88
+materials/skybox/sky36bk.vtf,699272,699272
+materials/skybox/sky36dn.vmt,88,88
+materials/skybox/sky36dn.vtf,699272,699272
+materials/skybox/sky36ft.vmt,88,88
+materials/skybox/sky36ft.vtf,699272,699272
+materials/skybox/sky36lf.vmt,88,88
+materials/skybox/sky36lf.vtf,699272,699272
+materials/skybox/sky36rt.vmt,88,88
+materials/skybox/sky36rt.vtf,699272,699272
+materials/skybox/sky36up.vmt,88,88
+materials/skybox/sky36up.vtf,699272,699272
+materials/stairs/stairs.vmt,80,80
+materials/stairs/stairs.vtf,43872,43872
+materials/teleport/teleport game.vtf,43872,43872
+materials/voice/cs_italy/pwood1.vmt,125,125
+materials/voice/effects/offelevdrsa.vmt,189,189
+materials/voice/halflife/{ladder2.vmt,159,159
+materials/voice/metal/metalgate001a.vmt,239,239
+materials/voice/metal/metalladder001a.vmt,158,158
+materials/voice/metal/offelevdrsa.vmt,189,189
+materials/voice/metal/prodventa.vmt,186,186
+materials/voice/particle/smokesprites_0012.vmt,183,183
+materials/voice/tile/ceilingtilea.vmt,95,95
+materials/voice/tile/prodceilingtilea.vmt,101,101
+materials/watersource/waterfall/waterfallfull_1024_clear.vmt,264,264
+materials/watersource/waterfall/waterfallfull_1024_nrm_clear.vmt,376,376
+materials/wolv textures/anthrax/anthrax.vmt,77,77
+materials/wolv textures/bhop/bhop.vmt,71,71
+materials/wolv textures/climb tower/climb tower.vmt,104,104
+materials/wolv textures/coors light/coors light.vmt,85,85
+materials/wolv textures/credits/credits.vmt,96,96
+materials/wolv textures/ct/ct.vmt,67,67
+materials/wolv textures/dark room explained/dark room explained.vmt,120,120
+materials/wolv textures/dark room/dark room.vmt,100,100
+materials/wolv textures/dream theater/dream theater.vmt,89,89
+materials/wolv textures/enter bhop/enter bhop.vmt,83,83
+materials/wolv textures/guinness/guinness.vmt,98,98
+materials/wolv textures/hell/hell.vmt,90,90
+materials/wolv textures/jack daniels/jack daniels.vmt,87,87
+materials/wolv textures/king diamond/king diamond.vmt,87,87
+materials/wolv textures/megadeth/megadeth.vmt,79,79
+materials/wolv textures/metal bar/metal bar.vmt,100,100
+materials/wolv textures/metallica/metallica.vmt,81,81
+materials/wolv textures/quit/quit.vmt,71,71
+materials/wolv textures/reset/reset.vmt,73,73
+materials/wolv textures/slayer/slayer.vmt,75,75
+materials/wolv textures/surf enter/surf enter.vmt,83,83
+materials/wolv textures/surf/surf.vmt,71,71
+materials/wolv textures/teleport/teleport.vmt,98,98
+materials/wolv textures/testament/testament.vmt,81,81
+materials/wolv textures/winners/winners.vmt,77,77
+models/cs_militia/light_outdoor.mdl,1476,1476
+models/custom/bar_beerpump.dx80.vtx,50678,50678
+models/custom/bar_beerpump.dx90.vtx,50678,50678
+models/custom/bar_beerpump.sw.vtx,50678,50678
+models/custom/bar_beerpump.mdl,1728,1728
+models/custom/bar_beerpump.phy,5369,5369
+models/custom/bar_beerpump.vvd,140736,140736
+models/johny-srka/jack.dx80.vtx,12177,12177
+models/johny-srka/jack.dx90.vtx,12177,12177
+models/johny-srka/jack.sw.vtx,12177,12177
+models/johny-srka/jack.mdl,1536,1536
+models/johny-srka/jack.phy,2382,2382
+models/johny-srka/jack.vvd,47424,47424
+models/player/techknow/scream/scream.dx80.vtx,18063,18063
+models/player/techknow/scream/scream.dx90.vtx,17155,17155
+models/player/techknow/scream/scream.sw.vtx,16795,16795
+models/player/techknow/scream/scream.mdl,24732,24732
+models/player/techknow/scream/scream.phy,17095,17095
+models/player/techknow/scream/scream.vvd,66496,66496
+sound/ppengu/Enrique Iglesias - Hero.mp3,3708928,3708928
+sound/HP/avada.mp3,610671,610671
+sound/Metal bar/1- Tie- Sepultura - Inner Self-[www.flv2mp3.com].mp3,3127296,3127296
+sound/Metal bar/02 Silent Scream.mp3,1871872,1871872
+sound/Metal bar/05 Mandatory Suicide.mp3,2457600,2457600
+sound/Metal bar/Four Horsemen.mp3,4337664,4337664
+sound/Metal bar/Testament - Trial By Fire-[www.flv2mp3.com].mp3,2629632,2629632

@@ -1,0 +1,101 @@
+filename,size,compressed
+materials/maps/jb_tellexx_final/liquids/militiawater_depth_20.vmt,107,107
+materials/maps/jb_tellexx_final/wirmaple7321/water/water_blue_depth_28.vmt,116,116
+materials/maps/jb_tellexx_final/wirmaple7321/water/water_blue_depth_102.vmt,117,117
+materials/maps/jb_tellexx_final/nature/sewer_water001_depth_4.vmt,107,107
+materials/maps/jb_tellexx_final/wirmaple7321/water/water_purple_depth_224.vmt,119,119
+materials/maps/jb_tellexx_final/wirmaple7321/water/water_purple_depth_144.vmt,119,119
+materials/maps/jb_tellexx_final/wirmaple7321/water/water_red_depth_213.vmt,116,116
+materials/maps/jb_tellexx_final/wirmaple7321/water/water_red_depth_16.vmt,115,115
+materials/maps/jb_tellexx_final/wirmaple7321/water/water_orange_depth_16.vmt,118,118
+materials/maps/jb_tellexx_final/wirmaple7321/water/water_green_depth_16.vmt,117,117
+materials/maps/jb_tellexx_final/cubemapdefault.vtf,28753,28753
+materials/maps/jb_tellexx_final/cubemapdefault.hdr.vtf,76528,76528
+materials/wirmaple7321/water/water_blue.vmt,1034,1034
+materials/wirmaple7321/water/water_purple.vmt,1032,1032
+materials/wirmaple7321/water/water_red.vmt,1028,1028
+materials/wirmaple7321/water/water_orange.vmt,1032,1032
+materials/wirmaple7321/water/water_green.vmt,1031,1031
+materials/tellexx/TELLEXXCOLOUR_RED_ALT.vmt,100,100
+materials/tellexx/TELLEXXCOLOUR_RED_ALT.vtf,131280,131280
+materials/tellexx/TELLEXXJAILWALLS.vmt,98,98
+materials/tellexx/TELLEXXJAILWALLS.vtf,131280,131280
+materials/tellexx/TELLEXXCOLOUR_BLACK_ALT.vmt,102,102
+materials/tellexx/TELLEXXCOLOUR_BLACK_ALT.vtf,131280,131280
+materials/tellexx/TELLEXXCOLOUR_ORANGE_ALT2.vmt,104,104
+materials/tellexx/TELLEXXCOLOUR_ORANGE_ALT2.vtf,131280,131280
+materials/Solid colour texture's/Grass/limegreen.vmt,128,128
+materials/Solid colour texture's/Normal/limegreen.vtf,116,116
+materials/Solid colour texture's/Metal/black.vmt,126,126
+materials/Solid colour texture's/Normal/black.vtf,116,116
+materials/tellexx/TELLEXX_CREDIT.vmt,93,93
+materials/tellexx/TELLEXX_CREDIT.vtf,131280,131280
+materials/tellexx/TELLEXXCOLOUR_BLURPLE.vmt,100,100
+materials/tellexx/TELLEXXCOLOUR_BLURPLE.vtf,131280,131280
+materials/tellexx/TELLEXX_COMPUTERS_bump.vmt,144,144
+materials/tellexx/TELLEXX_COMPUTERS.vtf,2097360,2097360
+materials/tellexx/TELLEXX_COMPUTERS_NRM.vtf,2097360,2097360
+materials/Solid colour texture's/Brick/black.vmt,124,124
+materials/Solid colour texture's/Brick/pink.vmt,123,123
+materials/Solid colour texture's/Normal/pink.vtf,116,116
+materials/Solid colour texture's/Normal/green.vmt,83,83
+materials/Solid colour texture's/Normal/green.vtf,116,116
+materials/Solid colour texture's/Brick/red.vmt,122,122
+materials/Solid colour texture's/Normal/red.vtf,116,116
+materials/Solid colour texture's/Brick/yellow.vmt,125,125
+materials/Solid colour texture's/Normal/yellow.vtf,116,116
+materials/Solid colour texture's/Brick/orange.vmt,125,125
+materials/Solid colour texture's/Normal/orange.vtf,116,116
+materials/Solid colour texture's/Brick/white.vmt,124,124
+materials/Solid colour texture's/Normal/white.vtf,116,116
+materials/Solid colour texture's/Brick/purple.vmt,125,125
+materials/Solid colour texture's/Normal/purple.vtf,116,116
+materials/Solid colour texture's/Brick/blue.vmt,123,123
+materials/Solid colour texture's/Normal/blue.vtf,116,116
+materials/Solid colour texture's/Brick/green.vmt,124,124
+materials/Solid colour texture's/Metal/green.vmt,124,124
+materials/tellexx/TELLEXX_CONSPIR_ANIM.vmt,273,273
+materials/tellexx/TELLEXX_CONSPIR_ANIM.vtf,8388816,8388816
+materials/tellexx/TELLEXXSIGN.vmt,90,90
+materials/tellexx/TELLEXXSIGN.vtf,8388816,8388816
+materials/Solid colour texture's/Grass/white.vmt,124,124
+materials/tellexx/TELLEXX_4COUCHESSIGN.vmt,99,99
+materials/tellexx/TELLEXX_4COUCHESSIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_COLOURSSIGN.vmt,98,98
+materials/tellexx/TELLEXX_COLOURSSIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_DODGEBALLSIGN.vmt,100,100
+materials/tellexx/TELLEXX_DODGEBALLSIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_SOCCERSIGN.vmt,97,97
+materials/tellexx/TELLEXX_SOCCERSIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_DISCOSIGN.vmt,96,96
+materials/tellexx/TELLEXX_DISCOSIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_JUMPROPESIGN.vmt,99,99
+materials/tellexx/TELLEXX_JUMPROPESIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_MANCANNONSIGN.vmt,100,100
+materials/tellexx/TELLEXX_MANCANNONSIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_SWEEPERSIGN.vmt,98,98
+materials/tellexx/TELLEXX_SWEEPERSIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_POOLSIGN.vmt,95,95
+materials/tellexx/TELLEXX_POOLSIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_IDKHOW.vmt,93,93
+materials/tellexx/TELLEXX_IDKHOW.vtf,131280,131280
+materials/tellexx/TELLEXX_GPSIGN.vmt,93,93
+materials/tellexx/TELLEXX_GPSIGN.vtf,2097360,2097360
+materials/tellexx/SRCHPARTYSIGN.vmt,95,95
+materials/tellexx/SRCHPARTYSIGN.vtf,131280,131280
+materials/tellexx/TELLEXX_OTHERSOUNDS.vmt,98,98
+materials/tellexx/TELLEXX_OTHERSOUNDS.vtf,131280,131280
+materials/Solid colour texture's/Brick/limegreen.vmt,128,128
+sound/tellexxsounds/milkshakee.mp3,4353018,4353018
+sound/tellexxsounds/kaibutsu.mp3,4470810,4470810
+sound/tellexxsounds/sweet_dreams.mp3,4333341,4333341
+sound/tellexxsounds/leave_me_alone.mp3,4766343,4766343
+sound/tellexxsounds/s_criminal.mp3,5444743,5444743
+sound/tellexxsounds/break_my_heart.mp3,4639769,4639769
+sound/tellexxsounds/lights_go_down.mp3,4114932,4114932
+sound/tellexxsounds/bleed_magic.mp3,3326656,3326656
+sound/tellexxsounds/creds_closing_theme.mp3,2298291,2298291
+sound/tellexxsounds/anyone_i_know.mp3,5567928,5567928
+sound/tellexxsounds/tomorrow_people.mp3,771175,771175
+sound/tellexxsounds/indoctrination.mp3,965411,965411
+sound/tellexxsounds/sinister.mp3,3504650,3504650

@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/ba_jail_galaxy_v3/nature/blendgrassgravel001a_wvt_patch.vmt,283,283
+materials/maps/ba_jail_galaxy_v3/metal/metalpipe009a_0_0_0.vmt,130,130
+materials/maps/ba_jail_galaxy_v3/metal/citadel_tilewall005a_0_0_0.vmt,137,137
+materials/maps/ba_jail_galaxy_v3/tile/tilefloor020a_0_0_0.vmt,129,129
+materials/maps/ba_jail_galaxy_v3/metal/citadel_metalwall076a_0_0_0.vmt,138,138
+materials/maps/ba_jail_galaxy_v3/metal/metalcombine001_0_0_0.vmt,132,132
+materials/maps/ba_jail_galaxy_v3/glass/combineglass001a_0_0_0.vmt,133,133
+materials/maps/ba_jail_galaxy_v3/glass/glasswindow070c_0_0_0.vmt,132,132
+materials/maps/ba_jail_galaxy_v3/props/plasticceiling003a_0_0_0.vmt,135,135
+materials/maps/ba_jail_galaxy_v3/dev/dev_water2_cheap_depth_91.vmt,107,107
+materials/maps/ba_jail_galaxy_v3/dev/dev_water2_cheap_depth_249.vmt,108,108
+materials/maps/ba_jail_galaxy_v3/cubemapdefault.vtf,4960,4960
+materials/maps/ba_jail_galaxy_v3/c0_0_0.vtf,4960,4960
+materials/maps/ba_jail_galaxy_v3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ba_jail_galaxy_v3/c0_0_0.hdr.vtf,76528,76528

@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/minimap/liquids/militiawater_539_406_-5.vmt,149,149
+materials/maps/minimap/liquids/militiawater_788_-910_-5.vmt,150,150
+materials/maps/minimap/metal/metalpipe005a_539_406_-5.vmt,125,125
+materials/maps/minimap/metal/metalpipe005a_788_-910_-5.vmt,126,126
+materials/maps/minimap/metal/metalpipe009a_539_406_-5.vmt,125,125
+materials/maps/minimap/metal/metalpipe009a_788_-910_-5.vmt,126,126
+materials/maps/minimap/maps/minimap/liquids/militiawater_788_-910_-5_depth_74.vmt,132,132
+materials/maps/minimap/maps/minimap/liquids/militiawater_539_406_-5_depth_74.vmt,131,131
+materials/maps/minimap/cubemapdefault.vtf,9824,9824
+materials/maps/minimap/c539_406_-5.vtf,9824,9824
+materials/maps/minimap/c788_-910_-5.vtf,9824,9824
+materials/maps/minimap/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/minimap/c539_406_-5.hdr.vtf,76520,76520
+materials/maps/minimap/c788_-910_-5.hdr.vtf,76520,76520

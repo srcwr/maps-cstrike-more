@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/rs_magearena/tools/toolsnodraw_depth_108.vmt,105,105
+materials/maps/rs_magearena/nature/water_lowdirty001_dx70_depth_1.vmt,115,115
+materials/maps/rs_magearena/nature/sewer_waterdarkfog_dx70_depth_5.vmt,116,116
+materials/maps/rs_magearena/nature/sewer_waterdarkfog_dx70_depth_34.vmt,117,117
+materials/maps/rs_magearena/nature/sewer_waterdarkfog_dx70_depth_4.vmt,116,116
+materials/maps/rs_magearena/cubemapdefault.vtf,9824,9824
+materials/KC_MAIN/BLEND_DIRTGRASS.vmt,169,169
+materials/kc_main/pi_groundw.vtf,174968,174968
+materials/kc_main/pi_ground.vtf,174968,174968
+maps/rs_magearena.nav,4554,4554
+maps/soundcache/rs_magearena.cache,16,16

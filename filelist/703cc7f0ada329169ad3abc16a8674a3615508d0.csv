@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/surf_nomom/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/surf_nomom/glass/combineglass001a_0_0_0.vmt,126,126
+materials/maps/surf_nomom/dev/dev_water5_depth_128.vmt,102,102
+materials/maps/surf_nomom/cubemapdefault.vtf,28753,28753
+materials/maps/surf_nomom/c0_0_0.vtf,28753,28753
+materials/maps/surf_nomom/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_nomom/c0_0_0.hdr.vtf,76528,76528
+materials/custom/nomom.vmt,60,60
+materials/custom/nomom.vtf,349760,349760
+materials/custom/palu.vmt,59,59
+materials/custom/palu.vtf,87552,87552
+materials/custom/surf_concrete.vmt,68,68
+materials/custom/surf_concrete.vtf,699272,699272

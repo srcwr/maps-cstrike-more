@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/dev_fragman/cubemapdefault.vtf,9824,9824
+materials/maps/dev_fragman/c-192_-576_48.vtf,9824,9824
+materials/maps/dev_fragman/c-192_64_48.vtf,9824,9824
+materials/FRAGMANTEXTURES/MADEBY.vmt,70,70
+materials/FragmanTextures/Madeby.vtf,11144,11144
+materials/FRAGMANTEXTURES/CTSPAWN.vmt,71,71
+materials/FragmanTextures/CTspawn.vtf,43912,43912
+materials/FRAGMANTEXTURES/TSPAWN.vmt,70,70
+materials/FragmanTextures/Tspawn.vtf,43912,43912
+maps/soundcache/dev_fragman.cache,55433,55433

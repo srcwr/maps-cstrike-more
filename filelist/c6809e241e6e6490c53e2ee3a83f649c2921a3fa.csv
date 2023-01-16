@@ -1,0 +1,606 @@
+filename,size,compressed
+materials/maps/deathrun_simpsons_final/glass/combineglass001a_960_-1000_81.vmt,146,146
+materials/maps/deathrun_simpsons_final/glass/combineglass001a_-464_-2888_81.vmt,147,147
+materials/maps/deathrun_simpsons_final/glass/combineglass001a_928_-2624_81.vmt,146,146
+materials/maps/deathrun_simpsons_final/glass/combineglass001a_896_-3056_81.vmt,146,146
+materials/maps/deathrun_simpsons_final/glass/combineglass001a_1624_-1224_81.vmt,147,147
+materials/maps/deathrun_simpsons_final/glass/combineglass001a_936_-2048_81.vmt,146,146
+materials/maps/deathrun_simpsons_final/glass/combineglass001a_2432_-1376_128.vmt,148,148
+materials/maps/deathrun_simpsons_final/glass/combineglass001a_2128_-1056_81.vmt,147,147
+materials/maps/deathrun_simpsons_final/glass/combineglass001a_2272_-536_81.vmt,146,146
+materials/maps/deathrun_simpsons_final/cubemapdefault.vtf,9824,9824
+materials/maps/deathrun_simpsons_final/c960_-1000_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c-464_-2888_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c928_-2624_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c896_-3056_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c1624_-1224_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c936_-2048_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c2432_-1376_128.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c2128_-1056_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c2272_-536_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c-640_-880_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c-568_-1760_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c-568_-2256_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c1520_-536_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c2880_-536_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c3536_-544_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c4192_-552_81.vtf,4952,4952
+materials/maps/deathrun_simpsons_final/c5040_-552_81.vtf,4952,4952
+sound/simpsons/beer_song.mp3,514925,514925
+sound/simpsons/DOH.mp3,8777,8777
+sound/simpsons/excellent.mp3,20897,20897
+sound/simpsons/krustytheme.mp3,275017,275017
+sound/simpsons/simpsons.mp3,1227128,1227128
+materials/Color/alice blue.vmt,67,67
+materials/Color/alice blue.vtf,11144,11144
+materials/Color/alizarin.vmt,65,65
+materials/Color/alizarin.vtf,11144,11144
+materials/Color/amaranth.vmt,65,65
+materials/Color/amaranth.vtf,11144,11144
+materials/Color/amber.vmt,62,62
+materials/Color/amber.vtf,11144,11144
+materials/Color/amethyst.vmt,65,65
+materials/Color/amethyst.vtf,11144,11144
+materials/Color/apricot.vmt,64,64
+materials/Color/apricot.vtf,11144,11144
+materials/Color/aqua.vmt,61,61
+materials/Color/aqua.vtf,11144,11144
+materials/Color/aquamarine.vmt,67,67
+materials/Color/aquamarine.vtf,11144,11144
+materials/Color/army green.vmt,67,67
+materials/Color/army green.vtf,11144,11144
+materials/Color/asparagus.vmt,66,66
+materials/Color/asparagus.vtf,11144,11144
+materials/Color/auburn.vmt,63,63
+materials/Color/auburn.vtf,11144,11144
+materials/Color/azure color wheel.vmt,74,74
+materials/Color/azure color wheel.vtf,11144,11144
+materials/Color/azure web.vmt,66,66
+materials/Color/azure web.vtf,11144,11144
+materials/Color/baby blue.vmt,66,66
+materials/Color/baby blue.vtf,11144,11144
+materials/Color/beige.vmt,62,62
+materials/Color/beige.vtf,11144,11144
+materials/Color/bistre.vmt,63,63
+materials/Color/bistre.vtf,11144,11144
+materials/Color/black.vmt,62,62
+materials/Color/black.vtf,11144,11144
+materials/Color/blaze orange.vmt,69,69
+materials/Color/blaze orange.vtf,11144,11144
+materials/Color/blue green.vmt,67,67
+materials/Color/blue green.vtf,11144,11144
+materials/Color/blue violet.vmt,68,68
+materials/Color/blue violet.vtf,11144,11144
+materials/Color/blue.vmt,61,61
+materials/Color/blue.vtf,11144,11144
+materials/Color/bondi blue.vmt,67,67
+materials/Color/bondi blue.vtf,11144,11144
+materials/Color/brass.vmt,62,62
+materials/Color/brass.vtf,11144,11144
+materials/Color/bright green.vmt,69,69
+materials/Color/bright green.vtf,11144,11144
+materials/Color/bright turquoise.vmt,73,73
+materials/Color/bright turquoise.vtf,11144,11144
+materials/Color/brilliant rose.vmt,71,71
+materials/Color/brilliant rose.vtf,11144,11144
+materials/Color/bronze.vmt,63,63
+materials/Color/bronze.vtf,11144,11144
+materials/Color/brown.vmt,62,62
+materials/Color/brown.vtf,11144,11144
+materials/Color/buff.vmt,61,61
+materials/Color/buff.vtf,11144,11144
+materials/Color/burgundy.vmt,65,65
+materials/Color/burgundy.vtf,11144,11144
+materials/Color/burnt orange.vmt,69,69
+materials/Color/burnt orange.vtf,11144,11144
+materials/Color/burnt sienna.vmt,69,69
+materials/Color/burnt sienna.vtf,11144,11144
+materials/Color/burnt umber.vmt,68,68
+materials/Color/burnt umber.vtf,11144,11144
+materials/Color/camouflage green.vmt,73,73
+materials/Color/camouflage green.vtf,11144,11144
+materials/Color/caput Mortuum.vmt,70,70
+materials/Color/caput Mortuum.vtf,11144,11144
+materials/Color/cardinal.vmt,65,65
+materials/Color/cardinal.vtf,11144,11144
+materials/Color/carmine.vmt,64,64
+materials/Color/carmine.vtf,11144,11144
+materials/Color/carnation pink.vmt,71,71
+materials/Color/carnation pink.vtf,11144,11144
+materials/Color/carolina blue.vmt,70,70
+materials/Color/carolina blue.vtf,11144,11144
+materials/Color/carrot orange.vmt,70,70
+materials/Color/carrot orange.vtf,11144,11144
+materials/Color/celadon.vmt,64,64
+materials/Color/celadon.vtf,11144,11144
+materials/Color/cerise.vmt,63,63
+materials/Color/cerise.vtf,11144,11144
+materials/Color/cerulean blue.vmt,70,70
+materials/Color/cerulean blue.vtf,11144,11144
+materials/Color/cerulean.vmt,65,65
+materials/Color/cerulean.vtf,11144,11144
+materials/Color/chartreuse traditional.vmt,79,79
+materials/Color/chartreuse traditional.vtf,11144,11144
+materials/Color/chartreuse web color.vmt,77,77
+materials/Color/chartreuse web color.vtf,11144,11144
+materials/Color/chestnut.vmt,65,65
+materials/Color/chestnut.vtf,11144,11144
+materials/Color/chocolate.vmt,66,66
+materials/Color/chocolate.vtf,11144,11144
+materials/Color/cinnabar.vmt,65,65
+materials/Color/cinnabar.vtf,11144,11144
+materials/Color/cinnamon.vmt,65,65
+materials/Color/cinnamon.vtf,11144,11144
+materials/Color/cobalt.vmt,63,63
+materials/Color/cobalt.vtf,11144,11144
+materials/Color/copper rose.vmt,68,68
+materials/Color/copper rose.vtf,11144,11144
+materials/Color/copper.vmt,63,63
+materials/Color/copper.vtf,11144,11144
+materials/Color/coral red.vmt,66,66
+materials/Color/coral red.vtf,11144,11144
+materials/Color/coral.vmt,62,62
+materials/Color/coral.vtf,11144,11144
+materials/Color/corn.vmt,61,61
+materials/Color/corn.vtf,11144,11144
+materials/Color/cornflower blue.vmt,72,72
+materials/Color/cornflower blue.vtf,11144,11144
+materials/Color/cosmic latte.vmt,69,69
+materials/Color/cosmic latte.vtf,11144,11144
+materials/Color/cream.vmt,62,62
+materials/Color/cream.vtf,11144,11144
+materials/Color/crimson.vmt,64,64
+materials/Color/crimson.vtf,11144,11144
+materials/Color/cyan.vmt,61,61
+materials/Color/cyan.vtf,11144,11144
+materials/Color/dark blue.vmt,66,66
+materials/Color/dark blue.vtf,11144,11144
+materials/Color/dark brown.vmt,67,67
+materials/Color/dark brown.vtf,11144,11144
+materials/Color/dark cerulean.vmt,70,70
+materials/Color/dark cerulean.vtf,11144,11144
+materials/Color/dark chestnut.vmt,70,70
+materials/Color/dark chestnut.vtf,11144,11144
+materials/Color/dark coral.vmt,67,67
+materials/Color/dark coral.vtf,11144,11144
+materials/Color/dark goldenrod.vmt,71,71
+materials/Color/dark goldenrod.vtf,11144,11144
+materials/Color/dark green.vmt,67,67
+materials/Color/dark green.vtf,11144,11144
+materials/Color/dark khaki.vmt,67,67
+materials/Color/dark khaki.vtf,11144,11144
+materials/Color/dark pastel green.vmt,74,74
+materials/Color/dark pastel green.vtf,11144,11144
+materials/Color/dark pink.vmt,66,66
+materials/Color/dark pink.vtf,11144,11144
+materials/Color/dark salmon.vmt,68,68
+materials/Color/dark salmon.vtf,11144,11144
+materials/Color/dark slate gray.vmt,72,72
+materials/Color/dark slate gray.vtf,11144,11144
+materials/Color/dark spring green.vmt,74,74
+materials/Color/dark spring green.vtf,11144,11144
+materials/Color/dark tan.vmt,65,65
+materials/Color/dark tan.vtf,11144,11144
+materials/Color/dark tangerine.vmt,71,71
+materials/Color/dark tangerine.vtf,11144,11144
+materials/Color/dark turquoise.vmt,71,71
+materials/Color/dark turquoise.vtf,11144,11144
+materials/Color/dark violet.vmt,68,68
+materials/Color/dark violet.vtf,11144,11144
+materials/Color/deep cerise.vmt,68,68
+materials/Color/deep cerise.vtf,11144,11144
+materials/Color/deep fuchsia.vmt,69,69
+materials/Color/deep fuchsia.vtf,11144,11144
+materials/Color/deep lilac.vmt,67,67
+materials/Color/deep lilac.vtf,11144,11144
+materials/Color/deep magenta.vmt,69,69
+materials/Color/deep magenta.vtf,11144,11144
+materials/Color/deep peach.vmt,67,67
+materials/Color/deep peach.vtf,11144,11144
+materials/Color/deep pink.vmt,67,67
+materials/Color/deep pink.vtf,11144,11144
+materials/Color/denim.vmt,62,62
+materials/Color/denim.vtf,11144,11144
+materials/Color/dodger blue.vmt,68,68
+materials/Color/dodger blue.vtf,11144,11144
+materials/Color/ecru.vmt,61,61
+materials/Color/ecru.vtf,11144,11144
+materials/Color/eggplant.vmt,65,65
+materials/Color/eggplant.vtf,11144,11144
+materials/Color/electric blue.vmt,70,70
+materials/Color/electric blue.vtf,11144,11144
+materials/Color/electric green.vmt,71,71
+materials/Color/electric green.vtf,11144,11144
+materials/Color/electric indigo.vmt,72,72
+materials/Color/electric indigo.vtf,11144,11144
+materials/Color/electric lime.vmt,70,70
+materials/Color/electric lime.vtf,11144,11144
+materials/Color/electric purple.vmt,72,72
+materials/Color/electric purple.vtf,11144,11144
+materials/Color/emerald.vmt,64,64
+materials/Color/emerald.vtf,11144,11144
+materials/Color/falu red.vmt,65,65
+materials/Color/falu red.vtf,11144,11144
+materials/Color/fern green.vmt,67,67
+materials/Color/fern green.vtf,11144,11144
+materials/Color/firebrick.vmt,66,66
+materials/Color/firebrick.vtf,11144,11144
+materials/Color/flax.vmt,61,61
+materials/Color/flax.vtf,11144,11144
+materials/Color/forest green.vmt,69,69
+materials/Color/forest green.vtf,11144,11144
+materials/Color/french rose.vmt,68,68
+materials/Color/french rose.vtf,11144,11144
+materials/Color/fuchsia pink.vmt,69,69
+materials/Color/fuchsia pink.vtf,11144,11144
+materials/Color/fuchsia.vmt,64,64
+materials/Color/fuchsia.vtf,11144,11144
+materials/Color/gamboge.vmt,64,64
+materials/Color/gamboge.vtf,11144,11144
+materials/Color/gold metallic.vmt,70,70
+materials/Color/gold metallic.vtf,11144,11144
+materials/Color/gold web.vmt,65,65
+materials/Color/gold web.vtf,11144,11144
+materials/Color/golden brown.vmt,69,69
+materials/Color/golden brown.vtf,11144,11144
+materials/Color/golden yellow.vmt,70,70
+materials/Color/golden yellow.vtf,11144,11144
+materials/Color/goldenrod.vmt,66,66
+materials/Color/goldenrod.vtf,11144,11144
+materials/Color/green html.vmt,67,67
+materials/Color/green html.vtf,11144,11144
+materials/Color/green yellow.vmt,69,69
+materials/Color/green yellow.vtf,11144,11144
+materials/Color/green.vmt,62,62
+materials/Color/green.vtf,11144,11144
+materials/Color/grey asparagus.vmt,71,71
+materials/Color/grey asparagus.vtf,11144,11144
+materials/Color/grey.vmt,61,61
+materials/Color/grey.vtf,11144,11144
+materials/Color/han Purple.vmt,67,67
+materials/Color/han Purple.vtf,11144,11144
+materials/Color/harlequin.vmt,66,66
+materials/Color/harlequin.vtf,11144,11144
+materials/Color/heliotrope.vmt,67,67
+materials/Color/heliotrope.vtf,11144,11144
+materials/Color/hollywood Cerise.vmt,73,73
+materials/Color/hollywood Cerise.vtf,11144,11144
+materials/Color/hot Magenta.vmt,68,68
+materials/Color/hot Magenta.vtf,11144,11144
+materials/Color/hot pink.vmt,65,65
+materials/Color/hot pink.vtf,11144,11144
+materials/Color/indigo dye.vmt,67,67
+materials/Color/indigo dye.vtf,11144,11144
+materials/Color/indigo web.vmt,67,67
+materials/Color/indigo web.vtf,11144,11144
+materials/Color/international klein blue.vmt,81,81
+materials/Color/international klein blue.vtf,11144,11144
+materials/Color/international orange.vmt,77,77
+materials/Color/international orange.vtf,11144,11144
+materials/Color/islamic green.vmt,70,70
+materials/Color/islamic green.vtf,11144,11144
+materials/Color/ivory.vmt,62,62
+materials/Color/ivory.vtf,11144,11144
+materials/Color/jade.vmt,61,61
+materials/Color/jade.vtf,11144,11144
+materials/Color/kelly green.vmt,68,68
+materials/Color/kelly green.vtf,11144,11144
+materials/Color/khaki light.vmt,68,68
+materials/Color/khaki light.vtf,11144,11144
+materials/Color/khaki.vmt,62,62
+materials/Color/khaki.vtf,11144,11144
+materials/Color/lavender blue.vmt,70,70
+materials/Color/lavender blue.vtf,11144,11144
+materials/Color/lavender blush.vmt,71,71
+materials/Color/lavender blush.vtf,11144,11144
+materials/Color/lavender floral.vmt,72,72
+materials/Color/lavender floral.vtf,11144,11144
+materials/Color/lavender grey.vmt,70,70
+materials/Color/lavender grey.vtf,11144,11144
+materials/Color/lavender magenta.vmt,73,73
+materials/Color/lavender magenta.vtf,11144,11144
+materials/Color/lavender pink.vmt,70,70
+materials/Color/lavender pink.vtf,11144,11144
+materials/Color/lavender purple.vmt,72,72
+materials/Color/lavender purple.vtf,11144,11144
+materials/Color/lavender rose.vmt,70,70
+materials/Color/lavender rose.vtf,11144,11144
+materials/Color/lavender web.vmt,69,69
+materials/Color/lavender web.vtf,11144,11144
+materials/Color/lawn green.vmt,67,67
+materials/Color/lawn green.vtf,11144,11144
+materials/Color/lemon chiffon.vmt,70,70
+materials/Color/lemon chiffon.vtf,11144,11144
+materials/Color/lemon.vmt,62,62
+materials/Color/lemon.vtf,11144,11144
+materials/Color/light blue.vmt,67,67
+materials/Color/light blue.vtf,11144,11144
+materials/Color/light plum.vmt,67,67
+materials/Color/light plum.vtf,11144,11144
+materials/Color/lilac.vmt,62,62
+materials/Color/lilac.vtf,11144,11144
+materials/Color/lime color wheel.vmt,73,73
+materials/Color/lime color wheel.vtf,11144,11144
+materials/Color/lime green.vmt,67,67
+materials/Color/lime green.vtf,11144,11144
+materials/Color/lime x11 green.vmt,71,71
+materials/Color/lime x11 green.vtf,11144,11144
+materials/Color/linen.vmt,62,62
+materials/Color/linen.vtf,11144,11144
+materials/Color/magenta.vmt,64,64
+materials/Color/magenta.vtf,11144,11144
+materials/Color/malachite.vmt,66,66
+materials/Color/malachite.vtf,11144,11144
+materials/Color/maroon.vmt,63,63
+materials/Color/maroon.vtf,11144,11144
+materials/Color/mauve taupe.vmt,68,68
+materials/Color/mauve taupe.vtf,11144,11144
+materials/Color/mauve.vmt,62,62
+materials/Color/mauve.vtf,11144,11144
+materials/Color/maya blue.vmt,66,66
+materials/Color/maya blue.vtf,11144,11144
+materials/Color/medium blue.vmt,68,68
+materials/Color/medium blue.vtf,11144,11144
+materials/Color/medium carmine.vmt,71,71
+materials/Color/medium carmine.vtf,11144,11144
+materials/Color/medium purple.vmt,70,70
+materials/Color/medium purple.vtf,11144,11144
+materials/Color/midnight blue.vmt,70,70
+materials/Color/midnight blue.vtf,11144,11144
+materials/Color/mint green.vmt,67,67
+materials/Color/mint green.vtf,11144,11144
+materials/Color/misty rose.vmt,67,67
+materials/Color/misty rose.vtf,11144,11144
+materials/Color/moss green.vmt,67,67
+materials/Color/moss green.vtf,11144,11144
+materials/Color/mountbatten pink.vmt,73,73
+materials/Color/mountbatten pink.vtf,11144,11144
+materials/Color/mustard.vmt,64,64
+materials/Color/mustard.vtf,11144,11144
+materials/Color/myrtle.vmt,63,63
+materials/Color/myrtle.vtf,11144,11144
+materials/Color/navajo white.vmt,69,69
+materials/Color/navajo white.vtf,11144,11144
+materials/Color/navy blue.vmt,66,66
+materials/Color/navy blue.vtf,11144,11144
+materials/Color/ochre.vmt,62,62
+materials/Color/ochre.vtf,11144,11144
+materials/Color/office green.vmt,69,69
+materials/Color/office green.vtf,11144,11144
+materials/Color/old gold.vmt,65,65
+materials/Color/old gold.vtf,11144,11144
+materials/Color/old lace.vmt,65,65
+materials/Color/old lace.vtf,11144,11144
+materials/Color/old lavender.vmt,69,69
+materials/Color/old lavender.vtf,11144,11144
+materials/Color/old rose.vmt,65,65
+materials/Color/old rose.vtf,11144,11144
+materials/Color/olive drab.vmt,67,67
+materials/Color/olive drab.vtf,11144,11144
+materials/Color/olive.vmt,62,62
+materials/Color/olive.vtf,11144,11144
+materials/Color/olivine.vmt,64,64
+materials/Color/olivine.vtf,11144,11144
+materials/Color/orange color wheel.vmt,75,75
+materials/Color/orange color wheel.vtf,11144,11144
+materials/Color/orange peel.vmt,68,68
+materials/Color/orange peel.vtf,11144,11144
+materials/Color/orange red.vmt,67,67
+materials/Color/orange red.vtf,11144,11144
+materials/Color/orange web.vmt,67,67
+materials/Color/orange web.vtf,11144,11144
+materials/Color/orchid.vmt,63,63
+materials/Color/orchid.vtf,11144,11144
+materials/Color/pale blue.vmt,66,66
+materials/Color/pale blue.vtf,11144,11144
+materials/Color/pale brown.vmt,67,67
+materials/Color/pale brown.vtf,11144,11144
+materials/Color/pale carmine.vmt,69,69
+materials/Color/pale carmine.vtf,11144,11144
+materials/Color/pale chestnut.vmt,70,70
+materials/Color/pale chestnut.vtf,11144,11144
+materials/Color/pale cornflower blue.vmt,77,77
+materials/Color/pale cornflower blue.vtf,11144,11144
+materials/Color/pale magenta.vmt,69,69
+materials/Color/pale magenta.vtf,11144,11144
+materials/Color/pale pink.vmt,66,66
+materials/Color/pale pink.vtf,11144,11144
+materials/Color/pale red violet.vmt,72,72
+materials/Color/pale red violet.vtf,11144,11144
+materials/Color/papaya whip.vmt,68,68
+materials/Color/papaya whip.vtf,11144,11144
+materials/Color/pastel green.vmt,69,69
+materials/Color/pastel green.vtf,11144,11144
+materials/Color/pastel pink.vmt,68,68
+materials/Color/pastel pink.vtf,11144,11144
+materials/Color/peach orange.vmt,69,69
+materials/Color/peach orange.vtf,11144,11144
+materials/Color/peach yellow.vmt,69,69
+materials/Color/peach yellow.vtf,11144,11144
+materials/Color/peach.vmt,62,62
+materials/Color/peach.vtf,11144,11144
+materials/Color/pear.vmt,61,61
+materials/Color/pear.vtf,11144,11144
+materials/Color/periwinkle.vmt,67,67
+materials/Color/periwinkle.vtf,11144,11144
+materials/Color/persian blue.vmt,69,69
+materials/Color/persian blue.vtf,11144,11144
+materials/Color/persian green.vmt,70,70
+materials/Color/persian green.vtf,11144,11144
+materials/Color/persian indigo.vmt,71,71
+materials/Color/persian indigo.vtf,11144,11144
+materials/Color/persian pink.vmt,69,69
+materials/Color/persian pink.vtf,11144,11144
+materials/Color/persian red.vmt,68,68
+materials/Color/persian red.vtf,11144,11144
+materials/Color/persian rose.vmt,69,69
+materials/Color/persian rose.vtf,11144,11144
+materials/Color/persimmon.vmt,66,66
+materials/Color/persimmon.vtf,11144,11144
+materials/Color/pine green.vmt,67,67
+materials/Color/pine green.vtf,11144,11144
+materials/Color/pink orange.vmt,68,68
+materials/Color/pink orange.vtf,11144,11144
+materials/Color/pink.vmt,61,61
+materials/Color/pink.vtf,11144,11144
+materials/Color/platinum.vmt,65,65
+materials/Color/platinum.vtf,11144,11144
+materials/Color/powder blue web.vmt,72,72
+materials/Color/powder blue web.vtf,11144,11144
+materials/Color/prussian blue.vmt,70,70
+materials/Color/prussian blue.vtf,11144,11144
+materials/Color/psychedelic purple.vmt,75,75
+materials/Color/psychedelic purple.vtf,11144,11144
+materials/Color/puce.vmt,61,61
+materials/Color/puce.vtf,11144,11144
+materials/Color/pumpkin.vmt,64,64
+materials/Color/pumpkin.vtf,11144,11144
+materials/Color/purple html.vmt,68,68
+materials/Color/purple html.vtf,11144,11144
+materials/Color/purple taupe.vmt,69,69
+materials/Color/purple taupe.vtf,11144,11144
+materials/Color/Purple x11.vmt,67,67
+materials/Color/Purple x11.vtf,11144,11144
+materials/Color/raw umber.vmt,66,66
+materials/Color/raw umber.vtf,11144,11144
+materials/Color/red violet.vmt,67,67
+materials/Color/red violet.vtf,11144,11144
+materials/Color/red.vmt,60,60
+materials/Color/red.vtf,11144,11144
+materials/Color/rich carmine.vmt,69,69
+materials/Color/rich carmine.vtf,11144,11144
+materials/Color/rich magenta.vmt,69,69
+materials/Color/rich magenta.vtf,11144,11144
+materials/Color/robin egg blue.vmt,71,71
+materials/Color/robin egg blue.vtf,11144,11144
+materials/Color/rose taupe.vmt,67,67
+materials/Color/rose taupe.vtf,11144,11144
+materials/Color/rose.vmt,61,61
+materials/Color/rose.vtf,11144,11144
+materials/Color/royal blue.vmt,67,67
+materials/Color/royal blue.vtf,11144,11144
+materials/Color/royal purple.vmt,69,69
+materials/Color/royal purple.vtf,11144,11144
+materials/Color/ruby.vmt,61,61
+materials/Color/ruby.vtf,11144,11144
+materials/Color/russet.vmt,63,63
+materials/Color/russet.vtf,11144,11144
+materials/Color/rust.vmt,61,61
+materials/Color/rust.vtf,11144,11144
+materials/Color/saffron.vmt,64,64
+materials/Color/saffron.vtf,11144,11144
+materials/Color/salmon.vmt,63,63
+materials/Color/salmon.vtf,11144,11144
+materials/Color/sandy brown.vmt,68,68
+materials/Color/sandy brown.vtf,11144,11144
+materials/Color/sangria.vmt,64,64
+materials/Color/sangria.vtf,11144,11144
+materials/Color/sapphire.vmt,65,65
+materials/Color/sapphire.vtf,11144,11144
+materials/Color/scarlet.vmt,64,64
+materials/Color/scarlet.vtf,11144,11144
+materials/Color/school bus yellow.vmt,74,74
+materials/Color/school bus yellow.vtf,11144,11144
+materials/Color/sea green.vmt,66,66
+materials/Color/sea green.vtf,11144,11144
+materials/Color/seashell.vmt,65,65
+materials/Color/seashell.vtf,11144,11144
+materials/Color/selective yellow.vmt,73,73
+materials/Color/selective yellow.vtf,11144,11144
+materials/Color/sepia.vmt,62,62
+materials/Color/sepia.vtf,11144,11144
+materials/Color/shamrock green.vmt,71,71
+materials/Color/shamrock green.vtf,11144,11144
+materials/Color/shocking pink.vmt,70,70
+materials/Color/shocking pink.vtf,11144,11144
+materials/Color/silver.vmt,63,63
+materials/Color/silver.vtf,11144,11144
+materials/Color/sky blue.vmt,65,65
+materials/Color/sky blue.vtf,11144,11144
+materials/Color/slate grey.vmt,67,67
+materials/Color/slate grey.vtf,11144,11144
+materials/Color/smalt dark powder blue.vmt,79,79
+materials/Color/smalt dark powder blue.vtf,11144,11144
+materials/Color/spring bud.vmt,67,67
+materials/Color/spring bud.vtf,11144,11144
+materials/Color/spring green.vmt,69,69
+materials/Color/spring green.vtf,11144,11144
+materials/Color/steel blue.vmt,67,67
+materials/Color/steel blue.vtf,11144,11144
+materials/Color/tan.vmt,60,60
+materials/Color/tan.vtf,11144,11144
+materials/Color/tangerine yellow.vmt,73,73
+materials/Color/tangerine yellow.vtf,11144,11144
+materials/Color/tangerine.vmt,66,66
+materials/Color/tangerine.vtf,11144,11144
+materials/Color/taupe.vmt,62,62
+materials/Color/taupe.vtf,11144,11144
+materials/Color/tea green.vmt,66,66
+materials/Color/tea green.vtf,11144,11144
+materials/Color/tea rose orange.vmt,72,72
+materials/Color/tea rose orange.vtf,11144,11144
+materials/Color/tea rose rose.vmt,70,70
+materials/Color/tea rose rose.vtf,11144,11144
+materials/Color/teal.vmt,61,61
+materials/Color/teal.vtf,11144,11144
+materials/Color/terra cotta.vmt,68,68
+materials/Color/terra cotta.vtf,11144,11144
+materials/Color/thistle.vmt,64,64
+materials/Color/thistle.vtf,11144,11144
+materials/Color/turquoise.vmt,66,66
+materials/Color/turquoise.vtf,11144,11144
+materials/Color/tyrian purple.vmt,70,70
+materials/Color/tyrian purple.vtf,11144,11144
+materials/Color/ultramarine.vmt,68,68
+materials/Color/ultramarine.vtf,11144,11144
+materials/Color/vermilion.vmt,66,66
+materials/Color/vermilion.vtf,11144,11144
+materials/Color/violet web.vmt,67,67
+materials/Color/violet web.vtf,11144,11144
+materials/Color/violet.vmt,63,63
+materials/Color/violet.vtf,11144,11144
+materials/Color/viridian.vmt,65,65
+materials/Color/viridian.vtf,11144,11144
+materials/Color/wheat.vmt,62,62
+materials/Color/wheat.vtf,11144,11144
+materials/Color/white.vmt,62,62
+materials/Color/white.vtf,11144,11144
+materials/Color/wisteria.vmt,65,65
+materials/Color/wisteria.vtf,11144,11144
+materials/Color/yellow green.vmt,69,69
+materials/Color/yellow green.vtf,11144,11144
+materials/Color/yellow.vmt,63,63
+materials/Color/yellow.vtf,11144,11144
+materials/Color/zinnwaldite.vmt,68,68
+materials/Color/zinnwaldite.vtf,11144,11144
+materials/decals/jaysig.vmt,86,86
+materials/decals/jaysig.vtf,2796348,2796348
+materials/decals/maanos.vmt,108,108
+materials/decals/maanos.vtf,349688,349688
+materials/decals/madeby.vmt,108,108
+materials/decals/madeby.vtf,349688,349688
+materials/decals/mainos.vmt,108,108
+materials/decals/mainos.vtf,349688,349688
+materials/Simpsons Textures/puu.vmt,133,133
+materials/Simpsons Textures/puu.vtf,349760,349760
+materials/Simpsons Textures/ruoho.vmt,89,89
+materials/Simpsons Textures/ruoho.vtf,349760,349760
+materials/simpsons/BURNSPRTRAIT.vmt,88,88
+materials/simpsons/burnsprtrait.vtf,43912,43912
+materials/simpsons/DUFF.vmt,79,79
+materials/simpsons/duff.vtf,22080,22080
+materials/simpsons/DUFFMACHINE.vmt,87,87
+materials/simpsons/duffmachine.vtf,43872,43872
+materials/simpsons/DUFFMACHINESIDE.vmt,90,90
+materials/simpsons/duffmachineside.vtf,22008,22008
+materials/simpsons/FENCE.vmt,85,85
+materials/simpsons/fence.vtf,11144,11144
+materials/simpsons/{KRUSTY.vmt,124,124
+materials/simpsons/{krusty.vtf,87616,87616
+models/player/slow/homer_v2/sheiks_homer.dx80.vtx,69499,69499
+models/player/slow/homer_v2/sheiks_homer.dx90.vtx,68414,68414
+models/player/slow/homer_v2/sheiks_homer.mdl,17792,17792
+models/player/slow/homer_v2/sheiks_homer.phy,17192,17192
+models/player/slow/homer_v2/sheiks_homer.sw.vtx,68086,68086
+models/player/slow/homer_v2/sheiks_homer.vvd,225728,225728
+models/player/slow/homer_v2/sheiks_homer.xbox.vtx,68414,68414

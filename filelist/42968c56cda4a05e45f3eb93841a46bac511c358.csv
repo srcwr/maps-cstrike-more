@@ -1,0 +1,174 @@
+filename,size,compressed
+materials/maps/dr_minecraft/nature/water_canals03_depth_88.vmt,108,108
+materials/maps/dr_minecraft/nature/water_canals03_depth_24.vmt,108,108
+materials/ashman custom/mc_cobble.vtf,22080,22080
+materials/ashman custom/mc_dirt.vtf,22080,22080
+materials/ashman custom/mc_glass.vtf,22080,22080
+materials/ashman custom/mc_grass.vtf,22080,22080
+materials/ashman custom/mc_grassdirt.vtf,22080,22080
+materials/ashman custom/mc_sand.vtf,22080,22080
+materials/ashman custom/mc_stone.vtf,22080,22080
+materials/ashman custom/mc_wood.vtf,22080,22080
+materials/ashman custom/mc_lchestside.vtf,87616,87616
+materials/ashman custom/mc_benchside.vtf,22008,22008
+materials/ashman custom/mc_benchtop.vtf,11144,11144
+materials/ashman custom/mc_chestside.vtf,22008,22008
+materials/ashman custom/mc_chesttop.vtf,11144,11144
+materials/ashman custom/mc_cloud.vtf,22080,22080
+materials/ashman custom/mc_coal.vtf,22080,22080
+materials/ashman custom/mc_diamond.vtf,22080,22080
+materials/ashman custom/mc_dirtladder.vtf,22080,22080
+materials/ashman custom/mc_furnside.vtf,22008,22008
+materials/ashman custom/mc_furntop.vtf,11144,11144
+materials/ashman custom/mc_glow.vtf,11144,11144
+materials/ashman custom/mc_grassladder.vtf,22080,22080
+materials/ashman custom/mc_ice.vtf,22080,22080
+materials/ashman custom/mc_iron.vtf,22080,22080
+materials/ashman custom/mc_lava.vtf,87696,87696
+materials/ashman custom/mc_lavaflow.vtf,87696,87696
+materials/ashman custom/mc_leave.vtf,11144,11144
+materials/ashman custom/mc_moss.vtf,22080,22080
+materials/ashman custom/mc_nether.vtf,11144,11144
+materials/ashman custom/mc_obsidian.vtf,22080,22080
+materials/ashman custom/mc_portal.vtf,8400,8400
+materials/ashman custom/mc_slowsand.vtf,11144,11144
+materials/ashman custom/mc_snow.vtf,11144,11144
+materials/ashman custom/mc_stoneladder.vtf,11144,11144
+materials/ashman custom/mc_tnttop.vtf,22080,22080
+materials/ashman custom/mc_tree.vtf,22080,22080
+materials/ashman custom/mc_benchside.vmt,104,104
+materials/ashman custom/mc_benchtop.vmt,103,103
+materials/ashman custom/mc_chestside.vmt,104,104
+materials/ashman custom/mc_chesttop.vmt,103,103
+materials/ashman custom/mc_cloud.vmt,89,89
+materials/ashman custom/mc_coal.vmt,97,97
+materials/ashman custom/mc_cobble.vmt,95,95
+materials/ashman custom/mc_diamond.vmt,100,100
+materials/ashman custom/mc_dirt.vmt,93,93
+materials/ashman custom/mc_dirtladder.vmt,99,99
+materials/ashman custom/mc_furnside.vmt,97,97
+materials/ashman custom/mc_furntop.vmt,96,96
+materials/ashman custom/mc_glass.vmt,114,114
+materials/ashman custom/mc_glow.vmt,94,94
+materials/ashman custom/mc_grass.vmt,95,95
+materials/ashman custom/mc_grassdirt.vmt,98,98
+materials/ashman custom/mc_grassladder.vmt,100,100
+materials/ashman custom/mc_ice.vmt,110,110
+materials/ashman custom/mc_iron.vmt,97,97
+materials/ashman custom/mc_lava.vmt,97,97
+materials/ashman custom/mc_lavaflow.vmt,234,234
+materials/ashman custom/mc_lchestside.vmt,105,105
+materials/ashman custom/mc_leave.vmt,95,95
+materials/ashman custom/mc_moss.vmt,97,97
+materials/ashman custom/mc_nether.vmt,97,97
+materials/ashman custom/mc_obsidian.vmt,101,101
+materials/ashman custom/mc_portal.vmt,99,99
+materials/ashman custom/mc_sand.vmt,95,95
+materials/ashman custom/mc_slowsand.vmt,99,99
+materials/ashman custom/mc_snow.vmt,93,93
+materials/ashman custom/mc_stone.vmt,98,98
+materials/ashman custom/mc_stoneladder.vmt,104,104
+materials/ashman custom/mc_tnttop.vmt,101,101
+materials/ashman custom/mc_tree.vmt,99,99
+materials/ashman custom/mc_wood.vmt,99,99
+materials/models/mcmodelpack/cake.vmt,164,164
+materials/models/mcmodelpack/mobs/creeper.vmt,109,109
+materials/models/mcmodelpack/mobs/ghast-fire.vmt,131,131
+materials/models/mcmodelpack/mobs/ghast.vmt,106,106
+materials/models/mcmodelpack/mobs/pig.vmt,103,103
+materials/models/mcmodelpack/mobs/pigzombie.vmt,109,109
+materials/models/mcmodelpack/mobs/pigzombie2.vmt,132,132
+materials/models/mcmodelpack/mobs/spider.vmt,126,126
+materials/models/mcmodelpack/mobs/zombie.vmt,106,106
+materials/models/mcmodelpack/transparent_blocks.vmt,107,107
+materials/models/mcmodelpack/cake.vtf,32976,32976
+materials/models/mcmodelpack/mobs/creeper.vtf,65680,65680
+materials/models/mcmodelpack/mobs/ghast-fire.vtf,131216,131216
+materials/models/mcmodelpack/mobs/ghast.vtf,65680,65680
+materials/models/mcmodelpack/mobs/pig.vtf,65680,65680
+materials/models/mcmodelpack/mobs/pigzombie.vtf,65680,65680
+materials/models/mcmodelpack/mobs/pigzombie2.vtf,32912,32912
+materials/models/mcmodelpack/mobs/spider.vtf,131216,131216
+materials/models/mcmodelpack/mobs/zombie.vtf,65680,65680
+materials/models/mcmodelpack/transparent_blocks.vtf,1048784,1048784
+materials/skybox/mcbk.vmt,112,112
+materials/skybox/mcbk.vtf,174984,174984
+materials/skybox/mcdn.vmt,111,111
+materials/skybox/mcdn.vtf,174984,174984
+materials/skybox/mcft.vmt,112,112
+materials/skybox/mcft.vtf,174984,174984
+materials/skybox/mclf.vmt,112,112
+materials/skybox/mclf.vtf,174984,174984
+materials/skybox/mcrt.vmt,112,112
+materials/skybox/mcrt.vtf,174984,174984
+materials/skybox/mcup.vmt,111,111
+materials/skybox/mcup.vtf,174984,174984
+models/mcmodelpack/mobs/creeper.dx80.vtx,1929,1929
+models/mcmodelpack/mobs/creeper.dx90.vtx,1929,1929
+models/mcmodelpack/mobs/creeper.sw.vtx,1921,1921
+models/mcmodelpack/mobs/creeper.phy,880,880
+models/mcmodelpack/mobs/creeper.vvd,9536,9536
+models/mcmodelpack/mobs/ghast.dx80.vtx,3093,3093
+models/mcmodelpack/mobs/ghast.dx90.vtx,3093,3093
+models/mcmodelpack/mobs/ghast.sw.vtx,3013,3013
+models/mcmodelpack/mobs/ghast.phy,1260,1260
+models/mcmodelpack/mobs/ghast.vvd,15424,15424
+models/mcmodelpack/mobs/pig.dx80.vtx,1869,1869
+models/mcmodelpack/mobs/pig.dx90.vtx,1869,1869
+models/mcmodelpack/mobs/pig.sw.vtx,1861,1861
+models/mcmodelpack/mobs/pig.phy,1165,1165
+models/mcmodelpack/mobs/pig.vvd,9280,9280
+models/mcmodelpack/mobs/spider.dx80.vtx,3309,3309
+models/mcmodelpack/mobs/spider.dx90.vtx,3309,3309
+models/mcmodelpack/mobs/spider.sw.vtx,3301,3301
+models/mcmodelpack/mobs/spider.phy,2324,2324
+models/mcmodelpack/mobs/spider.vvd,16960,16960
+models/mcmodelpack/mobs/zombie.dx80.vtx,1635,1635
+models/mcmodelpack/mobs/zombie.dx90.vtx,1635,1635
+models/mcmodelpack/mobs/zombie.sw.vtx,1627,1627
+models/mcmodelpack/mobs/zombie.phy,1173,1173
+models/mcmodelpack/mobs/zombie.vvd,7616,7616
+models/mcmodelpack/mobs/zombiepig.dx80.vtx,1920,1920
+models/mcmodelpack/mobs/zombiepig.dx90.vtx,1920,1920
+models/mcmodelpack/mobs/zombiepig.sw.vtx,1904,1904
+models/mcmodelpack/mobs/zombiepig.phy,1176,1176
+models/mcmodelpack/mobs/zombiepig.vvd,8640,8640
+models/mcmodelpack/other_blocks/cake-sliced.dx80.vtx,585,585
+models/mcmodelpack/other_blocks/cake-sliced.dx90.vtx,585,585
+models/mcmodelpack/other_blocks/cake-sliced.sw.vtx,577,577
+models/mcmodelpack/other_blocks/cake-sliced.phy,803,803
+models/mcmodelpack/other_blocks/cake-sliced.vvd,2368,2368
+models/mcmodelpack/other_blocks/flower-red.dx80.vtx,333,333
+models/mcmodelpack/other_blocks/flower-red.dx90.vtx,333,333
+models/mcmodelpack/other_blocks/flower-red.sw.vtx,325,325
+models/mcmodelpack/other_blocks/flower-red.phy,515,515
+models/mcmodelpack/other_blocks/flower-red.vvd,1088,1088
+models/mcmodelpack/other_blocks/flower-yellow.dx80.vtx,333,333
+models/mcmodelpack/other_blocks/flower-yellow.dx90.vtx,333,333
+models/mcmodelpack/other_blocks/flower-yellow.sw.vtx,325,325
+models/mcmodelpack/other_blocks/flower-yellow.phy,515,515
+models/mcmodelpack/other_blocks/flower-yellow.vvd,1088,1088
+models/mcmodelpack/other_blocks/mushroom-brown.dx80.vtx,333,333
+models/mcmodelpack/other_blocks/mushroom-brown.dx90.vtx,333,333
+models/mcmodelpack/other_blocks/mushroom-brown.sw.vtx,325,325
+models/mcmodelpack/other_blocks/mushroom-brown.phy,515,515
+models/mcmodelpack/other_blocks/mushroom-brown.vvd,1088,1088
+models/mcmodelpack/other_blocks/mushroom-red.dx80.vtx,333,333
+models/mcmodelpack/other_blocks/mushroom-red.dx90.vtx,333,333
+models/mcmodelpack/other_blocks/mushroom-red.sw.vtx,325,325
+models/mcmodelpack/other_blocks/mushroom-red.phy,515,515
+models/mcmodelpack/other_blocks/mushroom-red.vvd,1088,1088
+models/mcmodelpack/mobs/creeper.mdl,1460,1460
+models/mcmodelpack/mobs/ghast.mdl,3676,3676
+models/mcmodelpack/mobs/pig.mdl,1452,1452
+models/mcmodelpack/mobs/spider.mdl,1448,1448
+models/mcmodelpack/mobs/zombie.mdl,1460,1460
+models/mcmodelpack/mobs/zombiepig.mdl,1652,1652
+models/mcmodelpack/other_blocks/cake-sliced.mdl,1456,1456
+models/mcmodelpack/other_blocks/flower-red.mdl,1464,1464
+models/mcmodelpack/other_blocks/flower-yellow.mdl,1464,1464
+models/mcmodelpack/other_blocks/mushroom-brown.mdl,1464,1464
+models/mcmodelpack/other_blocks/mushroom-red.mdl,1464,1464
+sound/dr_minecraft/creeper sfx.mp3,114134,114134
+sound/dr_minecraft/mc music 1.mp3,6270046,6270046
+sound/dr_minecraft/mc music 2.mp3,5532139,5532139

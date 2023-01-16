@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/stargate_sg-2/tile/tilefloor020a_0_0_0.vmt,125,125
+materials/maps/stargate_sg-2/tile/tilefloor021a_0_0_0.vmt,125,125
+materials/maps/stargate_sg-2/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/stargate_sg-2/glass/offwndwb_0_0_0.vmt,196,196
+materials/maps/stargate_sg-2/metal/metalwall063a_0_0_0.vmt,126,126
+materials/maps/stargate_sg-2/metal/citadel_metalwall077a_0_0_0.vmt,134,134
+materials/maps/stargate_sg-2/metal/citadel_metalwall078a_0_0_0.vmt,134,134
+materials/maps/stargate_sg-2/metal/citadel_metalwall076a_0_0_0.vmt,134,134
+materials/maps/stargate_sg-2/metal/citadel_tilewall005a_0_0_0.vmt,133,133
+materials/maps/stargate_sg-2/liquids/water_chateau_dx70_depth_230.vmt,114,114
+materials/maps/stargate_sg-2/cubemapdefault.vtf,9808,9808
+materials/maps/stargate_sg-2/c0_0_0.vtf,9808,9808

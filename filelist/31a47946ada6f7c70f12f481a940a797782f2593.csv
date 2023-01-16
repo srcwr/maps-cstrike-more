@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/$2000$_4d/tile/tilefloor010a_-822_773_-17.vmt,128,128
+materials/maps/$2000$_4d/tile/tilefloor010a_-765_620_44.vmt,127,127
+materials/maps/$2000$_4d/tile/tilefloor013a_c17_-822_773_-17.vmt,171,171
+materials/maps/$2000$_4d/tile/tilefloor013a_c17_-765_620_44.vmt,170,170
+materials/maps/$2000$_4d/cubemapdefault.vtf,9832,9832
+materials/maps/$2000$_4d/c-822_773_-17.vtf,9832,9832
+materials/maps/$2000$_4d/c-765_620_44.vtf,9832,9832
+materials/maps/$2000$_4d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/$2000$_4d/c-822_773_-17.hdr.vtf,76528,76528
+materials/maps/$2000$_4d/c-765_620_44.hdr.vtf,76528,76528

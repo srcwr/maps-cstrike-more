@@ -1,0 +1,134 @@
+filename,size,compressed
+materials/maps/bhop_sanctuary/nature/blendmilground008b_2_wvt_patch.vmt,194,194
+materials/maps/bhop_sanctuary/pk02/pk02_rock01_ground01_blend_wvt_patch.vmt,177,177
+materials/maps/bhop_sanctuary/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/bhop_sanctuary/concrete/milflr001_-128_5824_144.vmt,134,134
+materials/maps/bhop_sanctuary/bma/bm_floor_2c_d_-128_5824_144.vmt,133,133
+materials/maps/bhop_sanctuary/bma/bm_cretebase_b_-128_5824_144.vmt,134,134
+materials/maps/bhop_sanctuary/pk02/pk02_light01b_-128_5824_144.vmt,134,134
+materials/maps/bhop_sanctuary/bma/bm_floor_2c_d_1248_5840_144.vmt,133,133
+materials/maps/bhop_sanctuary/bma/bm_cretebase_b_1248_5840_144.vmt,134,134
+materials/maps/bhop_sanctuary/bma/bm_cretebase_-128_5824_144.vmt,132,132
+materials/maps/bhop_sanctuary/siesta_apocalyptic/wooden floor/woodenfloor_white_-128_5824_144.vmt,165,165
+materials/maps/bhop_sanctuary/concrete/milflr001_1248_5840_144.vmt,134,134
+materials/maps/bhop_sanctuary/siesta_apocalyptic/wooden floor/woodenfloor_black_-128_5824_144.vmt,165,165
+materials/maps/bhop_sanctuary/siesta_apocalyptic/wooden floor/woodenfloor_black_1248_5840_144.vmt,165,165
+materials/maps/bhop_sanctuary/pk02/pk02_light01b_1248_5840_144.vmt,134,134
+materials/maps/bhop_sanctuary/realworldtextures/glass/glass_01_-128_5824_144.vmt,148,148
+materials/maps/bhop_sanctuary/siesta_apocalyptic/wooden floor/woodenfloor_brown_-128_5824_144.vmt,165,165
+materials/maps/bhop_sanctuary/siesta_apocalyptic/wooden floor/woodenfloor_brown_1248_5840_144.vmt,165,165
+materials/maps/bhop_sanctuary/siesta_apocalyptic/wooden floor/woodenfloor_white_1248_5840_144.vmt,165,165
+materials/maps/bhop_sanctuary/realworldtextures/glass/glass_01_1248_5840_144.vmt,148,148
+materials/maps/bhop_sanctuary/glass/unbreakable_-128_5824_144.vmt,133,133
+materials/maps/bhop_sanctuary/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_sanctuary/c-128_5824_144.vtf,9832,9832
+materials/maps/bhop_sanctuary/c1248_5840_144.vtf,9832,9832
+materials/maps/bhop_sanctuary/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_sanctuary/c-128_5824_144.hdr.vtf,76528,76528
+materials/maps/bhop_sanctuary/c1248_5840_144.hdr.vtf,76528,76528
+materials/pk02/pk02_rock01_C.vtf,699256,699256
+materials/pk02/pk02_rock01_N.vtf,1398320,1398320
+materials/pk02/pk02_rock01_sand01_blend.vtf,699256,699256
+materials/concrete/milflr001.vmt,201,201
+materials/bma/bm_floor_2c_d.vmt,304,304
+materials/bma/bm_floor_2c_d.vtf,1048783,1048783
+materials/bma/bm_floor_2c_d_nrm.vtf,786640,786640
+materials/bma/bm_floor_2a_s.vtf,174984,174984
+materials/bma/bm_cretebase_b.vmt,309,309
+materials/bma/bm_cretebase_1b.vtf,4194511,4194511
+materials/bma/bm_concrete_4_n.vtf,4194511,4194511
+materials/bma/bm_cretebase_s.vtf,4194511,4194511
+materials/pk02/pk02_light01b.vmt,267,267
+materials/pk02/pk02_light01b_C.vtf,11088,11088
+materials/pk02/pk02_light01_N.vtf,11088,11088
+materials/bma/bm_cretebase.vmt,309,309
+materials/bma/bm_cretebase_1a.vtf,4194511,4194511
+materials/siesta_apocalyptic/Wooden floor/WoodenFloor_White.vmt,247,247
+materials/siesta_apocalyptic/Wooden floor/White.vtf,4194512,4194512
+materials/siesta_apocalyptic/Wooden floor/Normal.vtf,4194512,4194512
+materials/siesta_apocalyptic/Wooden floor/Spec.vtf,4194512,4194512
+materials/siesta_apocalyptic/Wooden floor/WoodenFloor_Black.vmt,247,247
+materials/siesta_apocalyptic/Wooden floor/Black.vtf,4194512,4194512
+materials/RealWorldTextures/glass/Glass_01.vmt,522,522
+materials/RealWorldTextures/glass/Glass_01_nrm.vtf,349760,349760
+materials/siesta_apocalyptic/Wooden floor/WoodenFloor_Brown.vmt,247,247
+materials/siesta_apocalyptic/Wooden floor/Brown.vtf,4194512,4194512
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/BMTP1/blackmesa_pave1.vmt,141,141
+materials/BMTP1/blackmesa_pave1.vtf,1398308,1398308
+materials/BMTP1/blackmesa_pave1_normal.vtf,1398308,1398308
+materials/cs_italy/black.vmt,76,76
+materials/RealWorldTextures/grass/grassblend.vmt,308,308
+materials/RealWorldTextures/grass/grassblend1.vtf,5592612,5592612
+materials/RealWorldTextures/grass/grassblend2.vtf,5592612,5592612
+materials/RealWorldTextures/grass/Grassblend1_normal.vtf,4194511,4194511
+materials/RealWorldTextures/grass/Grassblend2_normal.vtf,4194511,4194511
+materials/EGYPT/SAND_STONE_BLEND.vmt,151,151
+materials/EGYPT/sand_floor_05.vtf,699272,699272
+materials/EGYPT/flat_wall_03.vtf,699272,699272
+materials/RealWorldTextures/grass/pebblesgrassblend.vmt,300,300
+materials/RealWorldTextures/grass/pebbles.vtf,5592612,5592612
+materials/RealWorldTextures/grass/Pebbles_normal.vtf,4194511,4194511
+materials/concrete/offflra.vmt,132,132
+materials/bma/bm_floor_2b_d.vmt,310,310
+materials/bma/bm_floor_2b_d.vtf,1048783,1048783
+materials/bma/bm_floor_2a_n.vtf,1048783,1048783
+materials/RealWorldTextures/newer/1/Concrete_1_05.vmt,115,115
+materials/RealWorldTextures/newer/1/Concrete_1_05.vtf,174984,174984
+materials/hqtextures/pinkheaven.vmt,612,612
+materials/hqtextures/pinkheaven.vtf,262240,262240
+materials/freetextures/ft_broken03_c.vmt,176,176
+materials/freetextures/ft_broken03_c.vtf,131280,131280
+materials/freetextures/SSBump/ft_broken03_c_SSBump.vtf,131280,131280
+materials/CUSTOM/greenPulse.vmt,292,292
+materials/solidcolors/white.vtf,152,152
+materials/solidcolors/white_unlit.vmt,84,84
+materials/RealWorldTextures/newer/1/Concrete_1_04.vmt,139,139
+materials/RealWorldTextures/newer/1/Concrete_1_04.vtf,174984,174984
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/CUSTOM/redPulse.vmt,296,296
+materials/hqtextures/speedcolortest2.vmt,5984,5984
+materials/solidcolors/white_rad.vmt,82,82
+materials/concrete/prodroofa.vmt,96,96
+materials/concrete/prodroofa.vtf,174968,174968
+materials/detail/detailsprites.vmt,161,161
+materials/detail/detailsprites.vtf,1398336,1398336
+models/Half-Life_2/models/props_wasteland/rockcliff05e.mdl,1548,1548
+models/Half-Life_2/models/props_wasteland/rockcliff05e.vvd,8768,8768
+models/Half-Life_2/models/props_wasteland/rockcliff05e.dx90.vtx,1845,1845
+models/Half-Life_2/models/props_wasteland/rockcliff05e.dx80.vtx,1845,1845
+models/Half-Life_2/models/props_wasteland/rockcliff05e.sw.vtx,1845,1845
+models/Half-Life_2/models/props_wasteland/rockcliff05e.phy,1822,1822
+models/Half-Life_2/models/props_wasteland/rockcliff_cluster02b.mdl,1636,1636
+models/Half-Life_2/models/props_wasteland/rockcliff_cluster02b.vvd,81920,81920
+models/Half-Life_2/models/props_wasteland/rockcliff_cluster02b.dx90.vtx,26507,26507
+models/Half-Life_2/models/props_wasteland/rockcliff_cluster02b.dx80.vtx,26507,26507
+models/Half-Life_2/models/props_wasteland/rockcliff_cluster02b.sw.vtx,26507,26507
+models/Half-Life_2/models/props_wasteland/rockcliff_cluster02b.phy,10884,10884
+models/Half-Life_2/models/props_foliage/tree_deciduous_03a.mdl,1788,1788
+models/Half-Life_2/models/props_foliage/tree_deciduous_03a.vvd,27376,27376
+models/Half-Life_2/models/props_foliage/tree_deciduous_03a.dx90.vtx,10805,10805
+models/Half-Life_2/models/props_foliage/tree_deciduous_03a.dx80.vtx,10805,10805
+models/Half-Life_2/models/props_foliage/tree_deciduous_03a.sw.vtx,10805,10805
+models/Half-Life_2/models/props_foliage/tree_deciduous_03a.phy,4580,4580
+models/Half-Life_2/models/props_canal/rock_riverbed01a.mdl,1468,1468
+models/Half-Life_2/models/props_canal/rock_riverbed01a.vvd,34176,34176
+models/Half-Life_2/models/props_canal/rock_riverbed01a.dx90.vtx,22023,22023
+models/Half-Life_2/models/props_canal/rock_riverbed01a.dx80.vtx,22023,22023
+models/Half-Life_2/models/props_canal/rock_riverbed01a.sw.vtx,22023,22023
+models/Half-Life_2/models/props_canal/rock_riverbed01a.phy,6529,6529
+models/Half-Life_2/models/props_canal/rock_riverbed01c.mdl,1468,1468
+models/Half-Life_2/models/props_canal/rock_riverbed01c.vvd,22720,22720
+models/Half-Life_2/models/props_canal/rock_riverbed01c.dx90.vtx,13353,13353
+models/Half-Life_2/models/props_canal/rock_riverbed01c.dx80.vtx,13353,13353
+models/Half-Life_2/models/props_canal/rock_riverbed01c.sw.vtx,13353,13353
+models/Half-Life_2/models/props_canal/rock_riverbed01c.phy,3921,3921
+models/Half-Life_2/models/props_canal/rock_riverbed01b.mdl,1468,1468
+models/Half-Life_2/models/props_canal/rock_riverbed01b.vvd,18560,18560
+models/Half-Life_2/models/props_canal/rock_riverbed01b.dx90.vtx,11277,11277
+models/Half-Life_2/models/props_canal/rock_riverbed01b.dx80.vtx,11277,11277
+models/Half-Life_2/models/props_canal/rock_riverbed01b.sw.vtx,11277,11277
+models/Half-Life_2/models/props_canal/rock_riverbed01b.phy,5569,5569
+maps/bhop_sanctuary.nav,205,205

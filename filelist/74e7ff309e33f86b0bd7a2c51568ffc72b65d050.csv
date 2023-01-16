@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/treegold/cubemapdefault.vtf,28753,28753
+materials/maps/treegold/c456_308_73.vtf,28753,28753
+materials/maps/treegold/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/treegold/c456_308_73.hdr.vtf,76528,76528
+models/props/tree/treegold.mdl,1768,1768
+models/props/tree/treegold.dx80.vtx,148305,148305
+models/props/tree/treegold.dx90.vtx,148305,148305
+models/props/tree/treegold.sw.vtx,148305,148305
+models/props/tree/treegold.phy,4032,4032
+models/props/tree/treegold.vvd,589632,589632
+maps/treegold.nav,332,332
