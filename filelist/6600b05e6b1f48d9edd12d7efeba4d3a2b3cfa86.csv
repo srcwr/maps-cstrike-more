@@ -1,0 +1,52 @@
+filename,size,compressed
+materials/maps/pt_ballthrowing/cubemapdefault.vtf,4960,91
+materials/maps/pt_ballthrowing/cubemapdefault.hdr.vtf,76528,167
+materials/silkroad/egypt/ground (13).vmt,93,98
+materials/silkroad/egypt/ground (13).vtf,87616,26502
+materials/tools/toolsnodraw.vmt,254,206
+materials/tools/toolsnodraw.vtf,2936,567
+materials/silkroad/egypt/ground (18).vmt,93,98
+materials/silkroad/egypt/ground (18).vtf,87616,27964
+materials/silkroad/egypt/ground (10).vmt,93,98
+materials/silkroad/egypt/ground (10).vtf,87616,26910
+materials/silkroad/egypt/wall (4).vmt,71,82
+materials/silkroad/egypt/wall (4).vtf,87544,52801
+materials/silkroad/ground/alex_stone05.vmt,104,107
+materials/silkroad/ground/alex_stone05.vtf,87616,30800
+materials/silkroad/jupitere/alex_castle_5.vmt,122,116
+materials/silkroad/jupitere/alex_castle_5.vtf,174944,58527
+materials/silkroad/jupitere/piety_39.vmt,102,104
+materials/silkroad/jupitere/piety_39.vtf,174984,114563
+materials/silkroad/jupitere/piety 40.vmt,102,104
+materials/silkroad/jupitere/piety 40.vtf,174984,119903
+materials/silkroad/jupitere/piety_36.vmt,102,104
+materials/silkroad/jupitere/piety_36.vtf,349760,117503
+materials/silkroad/jupitere/piety_37.vmt,102,104
+materials/silkroad/jupitere/piety_37.vtf,349760,117951
+materials/silkroad/china/jinsi_floor1_h_deck02.vmt,103,107
+materials/silkroad/china/jinsi_floor1_h_deck02.vtf,87616,30013
+materials/silkroad/china/c_jin_wall_orwall.vmt,84,91
+materials/silkroad/china/c_jin_wall_orwall.vtf,174944,59634
+materials/tools/toolsskybox.vmt,285,228
+materials/tools/toolsskybox.vtf,11128,957
+materials/black.vmt,53,64
+materials/black.vtf,174984,150
+materials/tools/toolstrigger.vmt,394,268
+materials/tools/toolstrigger.vtf,5680,979
+materials/tools/toolstrigger-dx10.vtf,5720,1012
+materials/skybox/pink_sunsetbk.vmt,92,94
+materials/skybox/pink_sunsetbk.vtf,2796424,636522
+materials/skybox/pink_sunsetdn.vmt,88,91
+materials/skybox/pink_sunsetdn.vtf,2796424,343407
+materials/skybox/pink_sunsetft.vmt,88,91
+materials/skybox/pink_sunsetft.vtf,2796424,723276
+materials/skybox/pink_sunsetlf.vmt,88,91
+materials/skybox/pink_sunsetlf.vtf,2796424,914104
+materials/skybox/pink_sunsetrt.vmt,88,91
+materials/skybox/pink_sunsetrt.vtf,2796424,769614
+materials/skybox/pink_sunsetup.vmt,90,93
+materials/skybox/pink_sunsetup.vtf,2796424,1470680
+materials/detail/detailsprites.vmt,131,105
+materials/detail/detailsprites.vtf,1398336,780914
+materials/jurd9r_logo/map_by_jurd9r_abstractic.vmt,132,111
+materials/jurd9r_logo/map_by_jurd9r_abstractic.vtf,174944,10587
