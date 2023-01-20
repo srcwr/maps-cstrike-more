@@ -1,0 +1,108 @@
+filename,size,compressed
+materials/maps/zm_lila_7af_v1_fix_test4/ground/blendsnow_tracks_wvt_patch.vmt,87,87
+materials/maps/zm_lila_7af_v1_fix_test4/concrete/milflr001_-4_0_680.vmt,139,139
+materials/maps/zm_lila_7af_v1_fix_test4/metal/citadel_tilefloor016a_cheap_-4_0_680.vmt,154,154
+materials/maps/zm_lila_7af_v1_fix_test4/props/metalduct001a_1112_-1112_848.vmt,146,146
+materials/maps/zm_lila_7af_v1_fix_test4/props/metalduct001a_-4_0_680.vmt,140,140
+materials/maps/zm_lila_7af_v1_fix_test4/props/metalduct001a_326_472_680.vmt,143,143
+materials/maps/zm_lila_7af_v1_fix_test4/metal/citadel_tilefloor016a_cheap_0_0_144.vmt,153,153
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow070c_-1080_1112_848.vmt,148,148
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow070c_-4_0_680.vmt,142,142
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow070c_1112_1112_848.vmt,147,147
+materials/maps/zm_lila_7af_v1_fix_test4/metal/metalwall076a_-4_0_680.vmt,140,140
+materials/maps/zm_lila_7af_v1_fix_test4/metal/metalwall031a_0_0_144.vmt,139,139
+materials/maps/zm_lila_7af_v1_fix_test4/glass/unbreakable_-1080_1112_848.vmt,144,144
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindowbreak070a_0_1_1176.vmt,147,147
+materials/maps/zm_lila_7af_v1_fix_test4/glass/unbreakable_1112_-1112_848.vmt,144,144
+materials/maps/zm_lila_7af_v1_fix_test4/glass/unbreakable_326_472_680.vmt,141,141
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow070c_0_1_1176.vmt,142,142
+materials/maps/zm_lila_7af_v1_fix_test4/metal/metaldoor059a_-4_0_680.vmt,140,140
+materials/maps/zm_lila_7af_v1_fix_test4/metal/metaldoor059a_326_472_680.vmt,143,143
+materials/maps/zm_lila_7af_v1_fix_test4/metal/metaldoor059a_1112_-1112_848.vmt,146,146
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow007a_0_0_144.vmt,141,141
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow007a_1112_-1112_848.vmt,148,148
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow007a_-4_0_680.vmt,142,142
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow007a_326_472_680.vmt,145,145
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow007a_1112_1112_848.vmt,147,147
+materials/maps/zm_lila_7af_v1_fix_test4/lila_7aft/floordt_-1080_1112_848.vmt,144,144
+materials/maps/zm_lila_7af_v1_fix_test4/lila_7aft/floordt_326_472_680.vmt,141,141
+materials/maps/zm_lila_7af_v1_fix_test4/lila_7aft/floordt_1112_-1112_848.vmt,144,144
+materials/maps/zm_lila_7af_v1_fix_test4/lila_7aft/floordt_0_0_144.vmt,137,137
+materials/maps/zm_lila_7af_v1_fix_test4/glass/glasswindow007a_-1080_1112_848.vmt,148,148
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal004a_-1080_1112_848.vmt,157,157
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal004a_-4_0_680.vmt,151,151
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal004a_326_472_680.vmt,154,154
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal004a_1112_-1112_848.vmt,157,157
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal001a_-1080_1112_848.vmt,157,157
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal001a_0_0_144.vmt,150,150
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal001a_1112_-1112_848.vmt,157,157
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal001a_326_472_680.vmt,154,154
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal001a_-4_0_680.vmt,151,151
+materials/maps/zm_lila_7af_v1_fix_test4/metal/metalwall090a_-4_0_680.vmt,140,140
+materials/maps/zm_lila_7af_v1_fix_test4/metal/metalwall090a_0_1_1176.vmt,140,140
+materials/maps/zm_lila_7af_v1_fix_test4/props/metalduct001a_0_0_144.vmt,139,139
+materials/maps/zm_lila_7af_v1_fix_test4/glass/combineglass001a_-1080_1112_848.vmt,149,149
+materials/maps/zm_lila_7af_v1_fix_test4/glass/combineglass001a_326_472_680.vmt,146,146
+materials/maps/zm_lila_7af_v1_fix_test4/glass/combineglass001a_-4_0_680.vmt,143,143
+materials/maps/zm_lila_7af_v1_fix_test4/glass/combineglass001a_0_0_144.vmt,142,142
+materials/maps/zm_lila_7af_v1_fix_test4/environment maps/pipemetal004a_0_1_1176.vmt,151,151
+materials/maps/zm_lila_7af_v1_fix_test4/cubemapdefault.vtf,9832,9832
+materials/maps/zm_lila_7af_v1_fix_test4/c-4_0_680.vtf,4968,4968
+materials/maps/zm_lila_7af_v1_fix_test4/c1112_-1112_848.vtf,4968,4968
+materials/maps/zm_lila_7af_v1_fix_test4/c326_472_680.vtf,4968,4968
+materials/maps/zm_lila_7af_v1_fix_test4/c0_0_144.vtf,4968,4968
+materials/maps/zm_lila_7af_v1_fix_test4/c-1080_1112_848.vtf,4968,4968
+materials/maps/zm_lila_7af_v1_fix_test4/c1112_1112_848.vtf,4968,4968
+materials/maps/zm_lila_7af_v1_fix_test4/c0_1_1176.vtf,4968,4968
+materials/maps/zm_lila_7af_v1_fix_test4/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_lila_7af_v1_fix_test4/c-4_0_680.hdr.vtf,76528,76528
+materials/maps/zm_lila_7af_v1_fix_test4/c1112_-1112_848.hdr.vtf,76528,76528
+materials/maps/zm_lila_7af_v1_fix_test4/c326_472_680.hdr.vtf,76528,76528
+materials/maps/zm_lila_7af_v1_fix_test4/c0_0_144.hdr.vtf,76528,76528
+materials/maps/zm_lila_7af_v1_fix_test4/c-1080_1112_848.hdr.vtf,76528,76528
+materials/maps/zm_lila_7af_v1_fix_test4/c1112_1112_848.hdr.vtf,76528,76528
+materials/maps/zm_lila_7af_v1_fix_test4/c0_1_1176.hdr.vtf,76528,76528
+materials/LILA_7AFT/SNOWT1.vmt,88,88
+materials/lila_7afT/snowT1.vtf,699272,699272
+materials/LILA_7AFT/WALL3.vmt,87,87
+materials/lila_7afT/wall3.vtf,174984,174984
+materials/LILA_7AFT/WALLT2.vmt,88,88
+materials/lila_7afT/wallT2.vtf,174984,174984
+materials/LILA_7AFT/FLOORUT.vmt,89,89
+materials/lila_7afT/floorUt.vtf,699272,699272
+materials/LILA_7AFT/IRON_RUBBISHT.vmt,96,96
+materials/lila_7afT/iron_rubbishT.vtf,699272,699272
+materials/LILA_7AFT/COLORT.vmt,271,271
+materials/lila_7afT/colorT.vtf,4893656,4893656
+materials/LILA_7AFT/HHT.vmt,61,61
+materials/lila_7afT/HHt.vtf,174984,174984
+materials/LILA_7AFT/HHT3.vmt,62,62
+materials/lila_7afT/HHt3.vtf,699272,699272
+materials/LILA_7AFT/HT2.vmt,61,61
+materials/lila_7afT/Ht2.vtf,699272,699272
+materials/LILA_7AFT/7AFAT.vmt,270,270
+materials/lila_7afT/7afAt.vtf,4194592,4194592
+materials/LILA_7AFT/BIGDOORT.vmt,91,91
+materials/lila_7afT/bigdoorT.vtf,1398264,1398264
+materials/LILA_7AFT/LMAPT1.vmt,89,89
+materials/lila_7afT/lmapT1.vtf,174904,174904
+materials/LILA_7AFT/YESDRAWT.vmt,85,85
+materials/lila_7afT/yesdrawT.vtf,5696,5696
+materials/LILA_7AFT/WALLT1.vmt,88,88
+materials/lila_7afT/wallT1.vtf,174984,174984
+materials/LILA_7AFT/FLOORDT.vmt,115,115
+materials/lila_7afT/floorDt.vtf,174984,174984
+materials/lila_7afT/memeT.vmt,82,82
+materials/lila_7afT/memeT.vtf,5592640,5592640
+materials/skybox/sky145up.vmt,85,85
+materials/skybox/sky145up.vtf,4194511,4194511
+materials/skybox/sky145dn.vmt,83,83
+materials/skybox/sky145dn.vtf,4194511,4194511
+materials/skybox/sky145ft.vmt,83,83
+materials/skybox/sky145ft.vtf,4194511,4194511
+materials/skybox/sky145bk.vmt,87,87
+materials/skybox/sky145bk.vtf,4194511,4194511
+materials/skybox/sky145lf.vmt,83,83
+materials/skybox/sky145lf.vtf,4194511,4194511
+materials/skybox/sky145rt.vmt,83,83
+materials/skybox/sky145rt.vtf,4194511,4194511

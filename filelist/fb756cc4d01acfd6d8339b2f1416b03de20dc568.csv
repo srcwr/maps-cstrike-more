@@ -1,0 +1,25 @@
+filename,size,compressed
+materials/maps/zm_nide_surf_park_fix/de_piranesi/marblefloor14_-12464_131_10368.vmt,151,151
+materials/maps/zm_nide_surf_park_fix/concrete/concretefloor033o_-12256_1982_10160.vmt,153,153
+materials/maps/zm_nide_surf_park_fix/de_piranesi/marblefloor14_-12256_1982_10160.vmt,152,152
+materials/maps/zm_nide_surf_park_fix/concrete/concretefloor038c_-12256_1982_10160.vmt,153,153
+materials/maps/zm_nide_surf_park_fix/nature/water_coast03_-12256_1982_10160.vmt,170,170
+materials/maps/zm_nide_surf_park_fix/concrete/concretefloor038c_-12464_131_10368.vmt,152,152
+materials/maps/zm_nide_surf_park_fix/concrete/concretefloor033o_-12464_131_10368.vmt,152,152
+materials/maps/zm_nide_surf_park_fix/nature/water_coast03_-12464_131_10368.vmt,169,169
+materials/maps/zm_nide_surf_park_fix/glass/combineglass001a_-12464_131_10368.vmt,148,148
+materials/maps/zm_nide_surf_park_fix/concrete/concretefloor028c_-12464_131_10368.vmt,152,152
+materials/maps/zm_nide_surf_park_fix/maps/zm_nide_surf_park_fix/nature/water_coast03_-12464_131_10368_depth_572.vmt,152,152
+materials/maps/zm_nide_surf_park_fix/maps/zm_nide_surf_park_fix/nature/water_coast03_-12256_1982_10160_depth_264.vmt,153,153
+materials/maps/zm_nide_surf_park_fix/maps/zm_nide_surf_park_fix/nature/water_coast03_-12256_1982_10160_depth_16.vmt,152,152
+materials/maps/zm_nide_surf_park_fix/cubemapdefault.vtf,28753,28753
+materials/maps/zm_nide_surf_park_fix/c-12464_131_10368.vtf,28753,28753
+materials/maps/zm_nide_surf_park_fix/c-12256_1982_10160.vtf,28753,28753
+materials/maps/zm_nide_surf_park_fix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_nide_surf_park_fix/c-12464_131_10368.hdr.vtf,76528,76528
+materials/maps/zm_nide_surf_park_fix/c-12256_1982_10160.hdr.vtf,76528,76528
+maps/zm_nide_surf_park_fix_particles.txt,65,65
+materials/vgui/logos/white_neon.vmt,133,133
+materials/vgui/logos/white_neon.vtf,11144,11144
+particles/teleport_item.pcf,17313,17313
+sound/surf_park/arman cekin - sever the ties (ft. esther sparkes) .mp3,4047953,4047953

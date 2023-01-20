@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/maps/ze_forestbunkers_v1_b3_sgfix/nature/blendgrassgravel003a_wvt_patch.vmt,221,221
+materials/maps/ze_forestbunkers_v1_b3_sgfix/nature/blendgrassgravel001b_wvt_patch.vmt,283,283
+materials/maps/ze_forestbunkers_v1_b3_sgfix/nature/blendrocksgrass006a_wvt_patch.vmt,330,330
+materials/maps/ze_forestbunkers_v1_b3_sgfix/nature/blendmilrock001_2_wvt_patch.vmt,143,143
+materials/maps/ze_forestbunkers_v1_b3_sgfix/nature/blendgrassdirt001a_wvt_patch.vmt,155,155
+materials/maps/ze_forestbunkers_v1_b3_sgfix/liquids/militiawater_3872_-1120_-992.vmt,175,175
+materials/maps/ze_forestbunkers_v1_b3_sgfix/metal/prodventa_3872_-1120_-992.vmt,147,147
+materials/maps/ze_forestbunkers_v1_b3_sgfix/wood/offdesktop_3872_-1120_-992.vmt,147,147
+materials/maps/ze_forestbunkers_v1_b3_sgfix/metal/prodventa_4960_-2208_-992.vmt,147,147
+materials/maps/ze_forestbunkers_v1_b3_sgfix/concrete/concretefloor011a_c17_3872_-1120_-992.vmt,201,201
+materials/maps/ze_forestbunkers_v1_b3_sgfix/wood/offdesktop_4960_-2208_-992.vmt,147,147
+materials/maps/ze_forestbunkers_v1_b3_sgfix/concrete/concretefloor011a_c17_4960_-2208_-992.vmt,201,201
+materials/maps/ze_forestbunkers_v1_b3_sgfix/nature/rockfloor003a_3872_-1120_-992.vmt,152,152
+materials/maps/ze_forestbunkers_v1_b3_sgfix/nature/rockfloor003a_4960_-2208_-992.vmt,152,152
+materials/maps/ze_forestbunkers_v1_b3_sgfix/glass/glasswindow007a_3872_-1120_-992.vmt,153,153
+materials/maps/ze_forestbunkers_v1_b3_sgfix/metal/citadel_metalwall072c_3872_-1120_-992.vmt,159,159
+materials/maps/ze_forestbunkers_v1_b3_sgfix/metal/citadel_metalwall072c_4960_-2208_-992.vmt,159,159
+materials/maps/ze_forestbunkers_v1_b3_sgfix/maps/ze_forestbunkers_v1_b3_sgfix/liquids/militiawater_3872_-1120_-992_depth_72.vmt,157,157
+materials/maps/ze_forestbunkers_v1_b3_sgfix/maps/ze_forestbunkers_v1_b3_sgfix/liquids/militiawater_3872_-1120_-992_depth_32.vmt,157,157
+materials/maps/ze_forestbunkers_v1_b3_sgfix/maps/ze_forestbunkers_v1_b3_sgfix/liquids/militiawater_3872_-1120_-992_depth_96.vmt,157,157
+materials/maps/ze_forestbunkers_v1_b3_sgfix/maps/ze_forestbunkers_v1_b3_sgfix/liquids/militiawater_3872_-1120_-992_depth_256.vmt,158,158
+materials/maps/ze_forestbunkers_v1_b3_sgfix/maps/ze_forestbunkers_v1_b3_sgfix/liquids/militiawater_3872_-1120_-992_depth_128.vmt,158,158
+materials/maps/ze_forestbunkers_v1_b3_sgfix/cubemapdefault.vtf,28753,28753
+materials/maps/ze_forestbunkers_v1_b3_sgfix/c3872_-1120_-992.vtf,28753,28753
+materials/maps/ze_forestbunkers_v1_b3_sgfix/c4960_-2208_-992.vtf,28753,28753
+materials/maps/ze_forestbunkers_v1_b3_sgfix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_forestbunkers_v1_b3_sgfix/c3872_-1120_-992.hdr.vtf,76528,76528
+materials/maps/ze_forestbunkers_v1_b3_sgfix/c4960_-2208_-992.hdr.vtf,76528,76528
+sound/mysounds/suspense music - eerie.mp3,3498632,3498632
+sound/mysounds/future world music - victory [hq].mp3,3927511,3927511
+sound/mysounds/two steps from hell - to glory [hd].mp3,4415004,4415004

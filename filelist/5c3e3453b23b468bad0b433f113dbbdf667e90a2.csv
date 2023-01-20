@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/test/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/test/cubemapdefault.vtf,28753,28753
+materials/maps/test/cubemapdefault.hdr.vtf,76528,76528
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/Tools/toolsnodraw.vtf,2936,2936
+materials/DEV/DEV_MEASUREGENERIC00RED.vmt,103,103
+materials/dev/dev_measuregeneric00red.vtf,11160,11160
+materials/TOOLS/TOOLSTRIGGER.vmt,394,394
+materials/Tools/toolstrigger.vtf,5680,5680
+materials/DEV/DEV_MEASUREGENERIC34.vmt,93,93
+materials/dev/dev_measuregeneric34.vtf,11144,11144
+sound/hatebit/hatebit - chiptune your head.mp3,8109497,8109497
+sound/hatebit/hatebit - against the game.mp3,9673709,9673709
+sound/hatebit/hatebit - bricks.mp3,10491864,10491864
+sound/laser/laser.mp3,24787,24787

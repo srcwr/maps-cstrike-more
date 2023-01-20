@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/zm_nide_backrooms_fixed_br2/tile/tilefloor012a_0_0_0.vmt,139,139
+materials/maps/zm_nide_backrooms_fixed_br2/cubemapdefault.vtf,9832,9832
+materials/maps/zm_nide_backrooms_fixed_br2/c0_0_0.vtf,9832,9832
+materials/maps/zm_nide_backrooms_fixed_br2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_nide_backrooms_fixed_br2/c0_0_0.hdr.vtf,76528,76528
+materials/custom/backroomscarpet.vmt,76,76
+materials/custom/backroomscarpet.vtf,174984,174984
+materials/custom/backroomswall.vmt,74,74
+materials/custom/backroomswall.vtf,43912,43912
+materials/custom/peach.vmt,66,66
+materials/custom/peach.vtf,43912,43912
+materials/custom/grey.vmt,65,65
+materials/custom/grey.vtf,22008,22008
+materials/custom/backrooms.vmt,70,70
+materials/custom/backrooms.vtf,699232,699232
