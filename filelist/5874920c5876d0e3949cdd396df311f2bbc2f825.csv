@@ -1,0 +1,413 @@
+filename,size,compressed
+materials/maps/ze_ff_training_map_pre4_v6/boba_fett/textures/floor_corridors_-24_136_8.vmt,158,158
+materials/maps/ze_ff_training_map_pre4_v6/kaemon/ff7makoreactorv6/makov6_pipeb_-24_136_8.vmt,160,160
+materials/maps/ze_ff_training_map_pre4_v6/vehicle/metaltrain001d_-24_136_8.vmt,146,146
+materials/maps/ze_ff_training_map_pre4_v6/metal/metalroof005a_-24_136_8.vmt,143,143
+materials/maps/ze_ff_training_map_pre4_v6/tile/tilefloor010a_-24_136_8.vmt,142,142
+materials/maps/ze_ff_training_map_pre4_v6/ffvii/pipemetal004b2_-24_136_8.vmt,144,144
+materials/maps/ze_ff_training_map_pre4_v6/boba_fett/textures/floor_corridors_plain_-24_136_8.vmt,164,164
+materials/maps/ze_ff_training_map_pre4_v6/metal/metalwall033a_-24_136_8.vmt,143,143
+materials/maps/ze_ff_training_map_pre4_v6/kaemon/ff7makoreactorv6/makov6_pipea_-24_136_8.vmt,160,160
+materials/maps/ze_ff_training_map_pre4_v6/de_nuke/nukslidea_-24_136_8.vmt,141,141
+materials/maps/ze_ff_training_map_pre4_v6/realworldtextures2/concrete/wall/concrete_wall_08_-24_136_8.vmt,173,173
+materials/maps/ze_ff_training_map_pre4_v6/effects/com_shield003a_-24_136_8.vmt,169,169
+materials/maps/ze_ff_training_map_pre4_v6/tile/tilefloor019a_-24_136_8.vmt,142,142
+materials/maps/ze_ff_training_map_pre4_v6/strafe/floornoise_-24_136_8.vmt,141,141
+materials/maps/ze_ff_training_map_pre4_v6/glass/glasswindow070c_-24_136_8.vmt,145,145
+materials/maps/ze_ff_training_map_pre4_v6/cubemapdefault.vtf,4960,4960
+materials/maps/ze_ff_training_map_pre4_v6/c-24_136_8.vtf,4960,4960
+materials/maps/ze_ff_training_map_pre4_v6/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_ff_training_map_pre4_v6/c-24_136_8.hdr.vtf,76528,76528
+maps/ze_ff_training_map_pre4_v6_level_sounds.txt,225,225
+maps/ze_ff_training_map_pre4_v6_particles.txt,67,67
+materials/3D/alexm/Alex_Body_LostMC.vmt,71,71
+materials/3D/alexm/Alex_Body_LostMC.vtf,349760,349760
+materials/3D/alexm/Alex_Claws_LostMC.vmt,72,72
+materials/3D/alexm/Alex_Claws_LostMC.vtf,87616,87616
+materials/3D/alexm/Alex_Face_LostMC.vmt,71,71
+materials/3D/alexm/Alex_Face_LostMC.vtf,87616,87616
+materials/3D/bossguard/diss_00.vmt,81,81
+materials/3D/bossguard/diss_00.vtf,87472,87472
+materials/3D/bossguard/diss_01.vmt,81,81
+materials/3D/bossguard/diss_01.vtf,43792,43792
+materials/3D/sephiroth/diss_00.vmt,151,151
+materials/3D/sephiroth/diss_00.vtf,87616,87616
+materials/3D/sephiroth/diss_01.vmt,114,114
+materials/3D/sephiroth/diss_01.vtf,43872,43872
+materials/3D/sephiroth/ffccdif_0_sf.vmt,83,83
+materials/3D/sephiroth/ffccdif_0_sf.vtf,43912,43912
+materials/afterdark/metal01.vmt,95,95
+materials/afterdark/metal01.vtf,174968,174968
+materials/BOBA_FETT/TEXTURES/FLOOR_CORRIDORS.vmt,703,703
+materials/BOBA_FETT/TEXTURES/floor_corridors.vtf,1398336,1398336
+materials/BOBA_FETT/TEXTURES/floor_corridors_normal.vtf,1398336,1398336
+materials/BOBA_FETT/TEXTURES/FLOOR_CORRIDORS_PLAIN.vmt,715,715
+materials/BOBA_FETT/TEXTURES/floor_corridors_plain.vtf,699272,699272
+materials/BOBA_FETT/TEXTURES/floor_corridors_plain_normal.vtf,1398336,1398336
+materials/caverns/reset.vmt,80,80
+materials/caverns/reset.vtf,11040,11040
+materials/effects/citadel_sky_card_01.vmt,139,139
+materials/effects/citadel_sky_card_01.vtf,1398308,1398308
+materials/ENVIOLINADOR/PENDULUM.vmt,82,82
+materials/ENVIOLINADOR/pendulum.vtf,32912,32912
+materials/FFVII/PIPEMETAL004B2.vmt,198,198
+materials/fragtex/4gewinnt.vmt,152,152
+materials/fragtex/4gewinnt.vtf,349760,349760
+materials/fragtex/4gewinnt2.vmt,105,105
+materials/fragtex/4gewinnt2.vtf,174984,174984
+materials/fragtex/redfour.vmt,103,103
+materials/fragtex/redfour.vtf,174984,174984
+materials/fragtex/yellowfour.vmt,106,106
+materials/fragtex/yellowfour.vtf,174984,174984
+materials/GENERIC/L06/L06_pavestone_normal.vtf,1398336,1398336
+materials/GENERIC/l10/l10_wood_metal.vmt,167,167
+materials/GENERIC/l10/l10_wood_metal.vtf,174984,174984
+materials/GENERIC/l10/l10_wood_metal_normal.vtf,174984,174984
+materials/kaemon/ff7 junon/Kaemon_Junon_HPBar_A.vmt,260,260
+materials/kaemon/ff7 junon/Kaemon_Junon_HPBar_A.vtf,24944,24944
+materials/kaemon/ff7makoreactorv6/MAKOV6_PIPEA.vmt,187,187
+materials/kaemon/ff7makoreactorv6/MakoV6_PipeA.vtf,43832,43832
+materials/kaemon/ff7makoreactorv6/MAKOV6_PIPEB.vmt,183,183
+materials/kaemon/ff7makoreactorv6/MAKOV6_SECTORNUMBER.vmt,142,142
+materials/kaemon/ff7makoreactorv6/MakoV6_SectorNumber.vtf,43872,43872
+materials/kaemon/ff7makoreactorv6/MAKOV6_SHINRALOGO_METAL_FULL.vmt,100,100
+materials/kaemon/ff7makoreactorv6/MakoV6_ShinraLogo_Metal_Full.vtf,174984,174984
+materials/kaemon/KAEMON_ALASBLANCAS_001.vmt,96,96
+materials/kaemon/Kaemon_AlasBlancas_001.vtf,1398336,1398336
+materials/kaemon/LAVE.vmt,393,393
+materials/kaemon/lave.vtf,174984,174984
+materials/kaemon/lave_bump.vtf,174984,174984
+materials/kaemon/medusa/KAE_REFLEJOS_01.vmt,340,340
+materials/kaemon/medusa/Kae_Reflejos_01.vtf,2796648,2796648
+materials/karnak/sand3.vmt,87,87
+materials/karnak/sand3.vtf,1398292,1398292
+materials/metal/metalfence001a_nocull.vmt,245,245
+materials/models/codwaw/beat the zombie/perk a cola machines/power_on.vmt,176,176
+materials/models/codwaw/beat the zombie/perk a cola machines/power_on.vtf,22080,22080
+materials/models/codwaw/beat the zombie/perk a cola machines/revive.vmt,236,236
+materials/models/codwaw/beat the zombie/perk a cola machines/revive.vtf,1398336,1398336
+materials/models/codwaw/beat the zombie/perk a cola machines/revivesign.vmt,227,227
+materials/models/codwaw/beat the zombie/perk a cola machines/revivesign.vtf,349760,349760
+materials/models/codwaw/beat the zombie/perk a cola machines/revivesign_nrm.vtf,87616,87616
+materials/models/codwaw/beat the zombie/perk a cola machines/revivesign_off.vmt,227,227
+materials/models/codwaw/beat the zombie/perk a cola machines/revivesign_on.vmt,271,271
+materials/models/codwaw/beat the zombie/perk a cola machines/revivesign_phong.vtf,349760,349760
+materials/models/codwaw/beat the zombie/perk a cola machines/revive_nrm.vtf,349760,349760
+materials/models/codwaw/beat the zombie/perk a cola machines/revive_phong.vtf,1398336,1398336
+materials/models/codwaw/beat the zombie/perk a cola machines/revive_price.vmt,242,242
+materials/models/codwaw/beat the zombie/perk a cola machines/revive_price.vtf,1398336,1398336
+materials/models/codwaw/beat the zombie/perk a cola machines/revive_snn.vmt,227,227
+materials/models/codwaw/beat the zombie/perk a cola machines/revive_snn.vtf,1398336,1398336
+materials/models/codwaw/beat the zombie/perk a cola machines/revive_snn_nrm.vtf,1398336,1398336
+materials/models/codwaw/beat the zombie/perk a cola machines/revive_snn_phong.vtf,1398336,1398336
+materials/models/codwaw/beat the zombie/perk a cola machines/white.vtf,699232,699232
+materials/models/dog_gondor/dog_sheet.vmt,538,538
+materials/models/dog_gondor/dog_sheet.vtf,349760,349760
+materials/models/dog_gondor/dog_sheet_phong.vtf,175016,175016
+materials/models/dog_gondor/eyeglass.vmt,140,140
+materials/models/dog_gondor/eyeglass.vtf,5680,5680
+materials/models/dog_gondor/weapon107_000_001.vmt,327,327
+materials/models/dog_gondor/weapon107_000_001.vtf,349760,349760
+materials/models/dog_gondor/weapon107_000_002.vtf,349760,349760
+materials/models/ffxii/earthmodel/rockwall01.vmt,117,117
+materials/models/furniture/orc/orc_torch.vmt,362,362
+materials/models/furniture/orc/orc_torch.vtf,87616,87616
+materials/models/furniture/orc/orc_torch_01.vmt,367,367
+materials/models/furniture/orc/orc_torch_01.vtf,43912,43912
+materials/models/furniture/orc/orc_torch_normal.vtf,87616,87616
+materials/models/Kaemon/MakoV6/dev_hazzardstripe01a.vmt,138,138
+materials/models/Kaemon/MakoV6/makov6_pipeb.vmt,181,181
+materials/models/Kaemon/MakoV6/metal01.vmt,114,114
+materials/models/Kaemon/MakoV6/metaltrack001a.vmt,131,131
+materials/models/Kaemon/MakoV6/metaltrain001c.vmt,415,415
+materials/models/Kaemon/MakoV6/metaltrain001d.vmt,415,415
+materials/models/Kaemon/MakoV6/pi_grnmetalt.vmt,126,126
+materials/models/Kaemon/MakoV6/prodwndwa.vmt,226,226
+materials/models/Kaemon/MakoV6/train_metalceiling_02.vmt,106,106
+materials/models/Kaemon/MakoV6/white.vmt,57,57
+materials/models/Kaemon/medusa/black.vmt,53,53
+materials/models/Kaemon/medusa/body.vmt,315,315
+materials/models/Kaemon/medusa/body.vtf,174904,174904
+materials/models/Kaemon/medusa/body2.vmt,76,76
+materials/models/Kaemon/medusa/body2.vtf,87544,87544
+materials/models/Kaemon/medusa/eyeball_l.vmt,173,173
+materials/models/Kaemon/medusa/eyeball_l.vtf,5624,5624
+materials/models/Kaemon/medusa/eyeball_r.vmt,173,173
+materials/models/Kaemon/medusa/eyeball_r.vtf,5624,5624
+materials/models/Kaemon/medusa/glint.vmt,130,130
+materials/models/Kaemon/medusa/glint.vtf,1215,1215
+materials/models/Kaemon/medusa/head.vmt,528,528
+materials/models/Kaemon/medusa/head.vtf,43912,43912
+materials/models/Kaemon/medusa/head2.vmt,529,529
+materials/models/Kaemon/medusa/head2.vtf,43912,43912
+materials/models/Kaemon/medusa/kuti.vmt,71,71
+materials/models/Kaemon/medusa/kuti.vtf,174908,174908
+materials/models/Kaemon/medusa/pupil_l.vmt,105,105
+materials/models/Kaemon/medusa/pupil_l.vtf,5696,5696
+materials/models/Kaemon/medusa/pupil_r.vmt,106,106
+materials/models/Kaemon/medusa/pupil_r.vtf,5696,5696
+materials/models/Kaemon/medusa/StoneSkin.vmt,348,348
+materials/models/Kaemon/medusa/StoneSkin2.vmt,347,347
+materials/models/Kaemon/medusa/StoneSkinEye.vmt,354,354
+materials/models/Kaemon/medusa/StoneSkinMouth.vmt,347,347
+materials/models/Kaemon/medusa/StoneSkinSnake.vmt,347,347
+materials/models/Kaemon/medusa/s_xana.vmt,561,561
+materials/models/Kaemon/medusa/S_Xana5.vtf,1398336,1398336
+materials/models/Kaemon/medusa/white.vmt,85,85
+materials/models/kain/coinred.vmt,193,193
+materials/models/kain/coinred.vtf,174984,174984
+materials/models/kain/coinyellow.vmt,198,198
+materials/models/kain/coinyellow.vtf,174984,174984
+materials/models/kzmod/buttons/button_diff.vmt,78,78
+materials/models/kzmod/buttons/button_diff.vtf,174968,174968
+materials/models/lotr/minas_lever/l10_wood_metal.vmt,165,165
+materials/models/lotr/minas_lever/nukroofa.vmt,62,62
+materials/models/Staff/staffofmagnus.vmt,107,107
+materials/models/Staff/staffofmagnus.vtf,349616,349616
+materials/MYPROJECT/esper1.vmt,95,95
+materials/MYPROJECT/esper1.vtf,87640,87640
+materials/MYPROJECT/esper2.vmt,95,95
+materials/MYPROJECT/esper2.vtf,43936,43936
+materials/MYPROJECT/esper3.vmt,95,95
+materials/MYPROJECT/esper3.vtf,87640,87640
+materials/MYPROJECT/esper4.vmt,95,95
+materials/MYPROJECT/esper4.vtf,87640,87640
+materials/particle/particle_cloud2.vmt,147,147
+materials/ProfessorOak/buttons/numbers.vmt,275,275
+materials/ProfessorOak/buttons/numbers.vtf,109568,109568
+materials/RAFURON/LMS/mercer_spikes/alex_claws_lostmc.vmt,72,72
+materials/RAFURON/LMS/rafuron_pendulum/reflection.vmt,53,53
+materials/REALWORLDTEXTURES2/CONCRETE/WALL/CONCRETE_WALL_08.vmt,365,365
+materials/REALWORLDTEXTURES2/CONCRETE/WALL/concrete_wall_08.vtf,174984,174984
+materials/REALWORLDTEXTURES2/CONCRETE/WALL/concrete_wall_08_nrm.vtf,174984,174984
+materials/skybox/mpa117bk.vmt,85,85
+materials/skybox/mpa117bk.vtf,699272,699272
+materials/skybox/mpa117dn.vmt,85,85
+materials/skybox/mpa117dn.vtf,699272,699272
+materials/skybox/mpa117ft.vmt,85,85
+materials/skybox/mpa117ft.vtf,699272,699272
+materials/skybox/mpa117lf.vmt,85,85
+materials/skybox/mpa117lf.vtf,699272,699272
+materials/skybox/mpa117rt.vmt,85,85
+materials/skybox/mpa117rt.vtf,699272,699272
+materials/skybox/mpa117up.vmt,85,85
+materials/skybox/mpa117up.vtf,699272,699272
+materials/stone/bridge_pillar_fix.vmt,99,99
+materials/stone/bridge_pillar_fix.vtf,5624,5624
+materials/strafe/floornoise.vmt,158,158
+materials/strafe/floornoise.vtf,22080,22080
+materials/strafe/lj/strafe_lj_0.vmt,120,120
+materials/strafe/lj/strafe_lj_0.vtf,8336,8336
+materials/strafe/lj/strafe_lj_1.vmt,120,120
+materials/strafe/lj/strafe_lj_1.vtf,8336,8336
+materials/strafe/lj/strafe_lj_2.vmt,120,120
+materials/strafe/lj/strafe_lj_2.vtf,8336,8336
+materials/strafe/lj/strafe_lj_3.vmt,120,120
+materials/strafe/lj/strafe_lj_3.vtf,8336,8336
+materials/strafe/lj/strafe_lj_4.vmt,120,120
+materials/strafe/lj/strafe_lj_4.vtf,8336,8336
+materials/strafe/lj/strafe_lj_5.vmt,120,120
+materials/strafe/lj/strafe_lj_5.vtf,8336,8336
+materials/strafe/lj/strafe_lj_6.vmt,120,120
+materials/strafe/lj/strafe_lj_6.vtf,8336,8336
+materials/strafe/lj/strafe_lj_7.vmt,120,120
+materials/strafe/lj/strafe_lj_7.vtf,8336,8336
+materials/strafe/lj/strafe_lj_8.vmt,120,120
+materials/strafe/lj/strafe_lj_8.vtf,8336,8336
+materials/strafe/lj/strafe_lj_9.vmt,120,120
+materials/strafe/lj/strafe_lj_9.vtf,8336,8336
+materials/strafe/transpbox.vtf,87616,87616
+materials/strafe/transpbox_unlit_rad.vmt,129,129
+materials/strafe/transpbox_unlit_rad_less.vmt,129,129
+materials/Talvi/Cliff02a-ssbump.vtf,699304,699304
+materials/Talvi/cliff03b.vmt,270,270
+materials/Talvi/cliff03b.vtf,699272,699272
+materials/Talvi/Snow_blend_02c.vmt,183,183
+materials/Talvi/Snow_floor_01b.vtf,174984,174984
+materials/Talvi/treeline_winter2.vmt,89,89
+materials/Talvi/treeline_winter2.vtf,699232,699232
+materials/Talvi/woodwall.vmt,131,131
+materials/Talvi/woodwall.vtf,174984,174984
+materials/Talvi/woodwall_normal.vtf,174984,174984
+materials/yolo1/actual_score.vmt,128,128
+materials/yolo1/actual_score.vtf,43904,43904
+materials/yolo1/best_score_today.vmt,132,132
+materials/yolo1/best_score_today.vtf,43904,43904
+materials/yolo1/boss_health.vmt,127,127
+materials/yolo1/boss_health.vtf,43872,43872
+materials/yolo1/disable_unlimited_ammo.vmt,138,138
+materials/yolo1/disable_unlimited_ammo.vtf,43904,43904
+materials/yolo1/enable_unlimited_ammo.vmt,137,137
+materials/yolo1/enable_unlimited_ammo.vtf,43904,43904
+materials/yolo1/knight_battle.vmt,129,129
+materials/yolo1/knight_battle.vtf,43872,43872
+materials/yolo1/longjumps.vmt,125,125
+materials/yolo1/longjumps.vtf,22016,22016
+materials/yolo1/no_music.vmt,124,124
+materials/yolo1/no_music.vtf,22016,22016
+materials/yolo1/paramina_guardian.vmt,133,133
+materials/yolo1/paramina_guardian.vtf,22016,22016
+materials/yolo1/player.vmt,122,122
+materials/yolo1/player.vtf,43872,43872
+materials/yolo1/random_music.vmt,128,128
+materials/yolo1/random_music.vtf,22016,22016
+materials/yolo1/sephiroth_mako_v5_3.vmt,135,135
+materials/yolo1/sephiroth_mako_v5_3.vtf,43904,43904
+materials/yolo1/sephiroth_mako_v6.vmt,133,133
+materials/yolo1/sephiroth_mako_v6.vtf,43904,43904
+materials/yolo1/spawn.vmt,121,121
+materials/yolo1/spawn.vtf,22016,22016
+materials/yolo1/unlimited_chaos_laser.vmt,137,137
+materials/yolo1/unlimited_chaos_laser.vtf,43904,43904
+materials/yolo1/unlimited_guardian_laser.vmt,140,140
+materials/yolo1/unlimited_guardian_laser.vtf,43904,43904
+models/3D/alexm/alexm.dx80.vtx,163359,163359
+models/3D/alexm/alexm.dx90.vtx,163359,163359
+models/3D/alexm/alexm.mdl,52380,52380
+models/3D/alexm/alexm.phy,4572,4572
+models/3D/alexm/alexm.sw.vtx,163119,163119
+models/3D/alexm/alexm.vvd,665280,665280
+models/3D/bossguard/bossguard.dx80.vtx,43379,43379
+models/3D/bossguard/bossguard.dx90.vtx,42824,42824
+models/3D/bossguard/bossguard.mdl,198092,198092
+models/3D/bossguard/bossguard.phy,53420,53420
+models/3D/bossguard/bossguard.sw.vtx,42392,42392
+models/3D/bossguard/bossguard.vvd,206144,206144
+models/3D/sephiroth/sephiroth.dx80.vtx,25881,25881
+models/3D/sephiroth/sephiroth.dx90.vtx,25226,25226
+models/3D/sephiroth/sephiroth.mdl,258328,258328
+models/3D/sephiroth/sephiroth.phy,139096,139096
+models/3D/sephiroth/sephiroth.sw.vtx,24794,24794
+models/3D/sephiroth/sephiroth.vvd,105792,105792
+models/codwaw/beat the zombie/perk a cola machines/revive_on.dx80.vtx,27738,27738
+models/codwaw/beat the zombie/perk a cola machines/revive_on.dx90.vtx,27738,27738
+models/codwaw/beat the zombie/perk a cola machines/revive_on.mdl,2696,2696
+models/codwaw/beat the zombie/perk a cola machines/revive_on.phy,680,680
+models/codwaw/beat the zombie/perk a cola machines/revive_on.sw.vtx,27738,27738
+models/codwaw/beat the zombie/perk a cola machines/revive_on.vvd,106304,106304
+models/codwaw/beat the zombie/perk a cola machines/revive_on.xbox.vtx,27738,27738
+models/coinred.dx80.vtx,2337,2337
+models/coinred.dx90.vtx,2337,2337
+models/coinred.mdl,1516,1516
+models/coinred.phy,3582,3582
+models/coinred.sw.vtx,2329,2329
+models/coinred.vvd,9536,9536
+models/dog_jugger.dx80.vtx,100942,100942
+models/dog_jugger.dx90.vtx,99827,99827
+models/dog_jugger.mdl,72148,72148
+models/dog_jugger.sw.vtx,99312,99312
+models/dog_jugger.vvd,413184,413184
+models/ffxii/earthmodel.dx80.vtx,7482,7482
+models/ffxii/earthmodel.dx90.vtx,7482,7482
+models/ffxii/earthmodel.mdl,1732,1732
+models/ffxii/earthmodel.phy,720,720
+models/ffxii/earthmodel.sw.vtx,7482,7482
+models/ffxii/earthmodel.vvd,24960,24960
+models/kaemon/kae_snake_15.dx80.vtx,102440,102440
+models/kaemon/kae_snake_15.dx90.vtx,101554,101554
+models/kaemon/kae_snake_15.mdl,31284,31284
+models/kaemon/kae_snake_15.sw.vtx,101026,101026
+models/kaemon/kae_snake_15.vvd,325632,325632
+models/kaemon/makov6/kae_makov6_big_wall_vent_frame_01.dx80.vtx,1410,1410
+models/kaemon/makov6/kae_makov6_big_wall_vent_frame_01.dx90.vtx,1410,1410
+models/kaemon/makov6/kae_makov6_big_wall_vent_frame_01.mdl,1916,1916
+models/kaemon/makov6/kae_makov6_big_wall_vent_frame_01.phy,2117,2117
+models/kaemon/makov6/kae_makov6_big_wall_vent_frame_01.sw.vtx,1410,1410
+models/kaemon/makov6/kae_makov6_big_wall_vent_frame_01.vvd,6464,6464
+models/kaemon/makov6/kae_makov6_black_door_half_frame_01.dx80.vtx,1989,1989
+models/kaemon/makov6/kae_makov6_black_door_half_frame_01.dx90.vtx,1989,1989
+models/kaemon/makov6/kae_makov6_black_door_half_frame_01.mdl,1728,1728
+models/kaemon/makov6/kae_makov6_black_door_half_frame_01.phy,4278,4278
+models/kaemon/makov6/kae_makov6_black_door_half_frame_01.sw.vtx,1989,1989
+models/kaemon/makov6/kae_makov6_black_door_half_frame_01.vvd,9792,9792
+models/kaemon/makov6/kae_makov6_bridge_handrail_detail_01.dx80.vtx,4749,4749
+models/kaemon/makov6/kae_makov6_bridge_handrail_detail_01.dx90.vtx,4749,4749
+models/kaemon/makov6/kae_makov6_bridge_handrail_detail_01.mdl,1728,1728
+models/kaemon/makov6/kae_makov6_bridge_handrail_detail_01.sw.vtx,4749,4749
+models/kaemon/makov6/kae_makov6_bridge_handrail_detail_01.vvd,24640,24640
+models/kaemon/makov6/kae_makov6_bridge_pipe_detail_01b.dx80.vtx,8487,8487
+models/kaemon/makov6/kae_makov6_bridge_pipe_detail_01b.dx90.vtx,8487,8487
+models/kaemon/makov6/kae_makov6_bridge_pipe_detail_01b.mdl,2908,2908
+models/kaemon/makov6/kae_makov6_bridge_pipe_detail_01b.phy,1882,1882
+models/kaemon/makov6/kae_makov6_bridge_pipe_detail_01b.sw.vtx,8487,8487
+models/kaemon/makov6/kae_makov6_bridge_pipe_detail_01b.vvd,42304,42304
+models/kzmod/buttons/button.dx80.vtx,3504,3504
+models/kzmod/buttons/button.dx90.vtx,3504,3504
+models/kzmod/buttons/button.mdl,1472,1472
+models/kzmod/buttons/button.phy,3002,3002
+models/kzmod/buttons/button.sw.vtx,3504,3504
+models/kzmod/buttons/button.vvd,13312,13312
+models/lotr/minas_lever.dx80.vtx,1446,1446
+models/lotr/minas_lever.dx90.vtx,1446,1446
+models/lotr/minas_lever.mdl,1924,1924
+models/lotr/minas_lever.phy,2386,2386
+models/lotr/minas_lever.sw.vtx,1446,1446
+models/lotr/minas_lever.vvd,6464,6464
+models/myproject/chaosmove.dx80.vtx,155697,155697
+models/myproject/chaosmove.dx90.vtx,155697,155697
+models/myproject/chaosmove.mdl,5804,5804
+models/myproject/chaosmove.sw.vtx,155671,155671
+models/myproject/chaosmove.vvd,884736,884736
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.dx80.vtx,7379,7379
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.dx90.vtx,7379,7379
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.mdl,1596,1596
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.phy,743,743
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.sw.vtx,7379,7379
+models/props/tools/orc/lightsrc/orc_torch/orc_torch.vvd,18112,18112
+models/rafuron/lms/mercer_spikes.dx80.vtx,13506,13506
+models/rafuron/lms/mercer_spikes.dx90.vtx,13506,13506
+models/rafuron/lms/mercer_spikes.mdl,1736,1736
+models/rafuron/lms/mercer_spikes.phy,709,709
+models/rafuron/lms/mercer_spikes.sw.vtx,13506,13506
+models/rafuron/lms/mercer_spikes.vvd,71168,71168
+models/rafuron/lms/rafuron_pendulum.dx80.vtx,146407,146407
+models/rafuron/lms/rafuron_pendulum.dx90.vtx,146407,146407
+models/rafuron/lms/rafuron_pendulum.mdl,7600,7600
+models/rafuron/lms/rafuron_pendulum.sw.vtx,146359,146359
+models/rafuron/lms/rafuron_pendulum.vvd,804032,804032
+models/staff/staff.dx80.vtx,26433,26433
+models/staff/staff.dx90.vtx,26433,26433
+models/staff/staff.mdl,4764,4764
+models/staff/staff.phy,3463,3463
+models/staff/staff.sw.vtx,26425,26425
+models/staff/staff.vvd,107968,107968
+models/yellowcoin.dx80.vtx,2337,2337
+models/yellowcoin.dx90.vtx,2337,2337
+models/yellowcoin.mdl,1520,1520
+models/yellowcoin.phy,3585,3585
+models/yellowcoin.sw.vtx,2329,2329
+models/yellowcoin.vvd,9536,9536
+particles/training_particles.pcf,134592,134592
+sound/combo/combo_breaker10.mp3,28235,28235
+sound/combo/killer_combo10.mp3,34106,34106
+sound/combo/lvl_up10.mp3,63317,63317
+sound/combo/master_combo10.mp3,35777,35777
+sound/combo/popopoguys10.mp3,105689,105689
+sound/combo/super_combo10.mp3,33688,33688
+sound/combo/triple_combo10.mp3,28672,28672
+sound/combo/ultra_combo10.mp3,55421,55421
+sound/combo/wombocombo10.mp3,337123,337123
+sound/ffxiisnow/d_guardianend100.mp3,145345,145345
+sound/kz_thetrip/button1.wav,392780,392780
+sound/kz_thetrip/restart2.wav,622156,622156
+sound/music2/Globus - Preliator.mp3,10731545,10731545
+sound/music2/Immediate Music - Skull And Crossbones.mp3,640937,640937
+sound/music2/Pendulum - Encoder.mp3,1747751,1747751
+sound/music2/Pendulum - Propane Nightmares.mp3,5016710,5016710
+sound/music2/Pendulum - The Tempest Live.mp3,1730319,1730319
+sound/music2/Pokemon Theme - English.mp3,3237776,3237776
+sound/music2/The Prodigy - Voodoo People - Pendulum Remix.mp3,4912120,4912120
+sound/music2/Two Steps From Hell - 1000 Ships.. Underworld.mp3,1297713,1297713
+sound/music2/Two Steps From Hell - After The Fall.mp3,2346979,2346979
+sound/music2/Two Steps From Hell - Flameheart.mp3,1599794,1599794
+sound/music2/Two Steps From Hell - Heart Of Courage.mp3,1879285,1879285
+sound/music2/Two Steps From Hell - Invincible.mp3,2748187,2748187
+sound/music2/Two Steps From Hell - Road To Revelation.mp3,1944708,1944708
+sound/music2/Two Steps From Hell - Sons of War.mp3,1885124,1885124
+sound/music2/Two Steps From Hell - Tyrianis.mp3,2870623,2870623
+sound/training/battlechaos10.mp3,28417,28417
+sound/training/quickrevivem8.mp3,1057804,1057804
+sound/training/quickrevivetheme.mp3,461789,461789
+sound/westersand/d_c4_explode1.wav,653468,653468
+sound/westersand/ff12victory10.mp3,19484,19484
+sound/westersand/z_godend100.mp3,31660,31660
