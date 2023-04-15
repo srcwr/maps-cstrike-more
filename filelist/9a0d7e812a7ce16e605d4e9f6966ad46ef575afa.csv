@@ -1,0 +1,50 @@
+filename,size,compressed
+materials/maps/kz_bhop_666/cubemapdefault.vtf,9832,9832
+materials/maps/kz_bhop_666/c3088_-2065_-46.vtf,4968,4968
+materials/maps/kz_bhop_666/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/kz_bhop_666/c3088_-2065_-46.hdr.vtf,76536,76536
+detail.vbsp,16826,16826
+scripts/soundscapes_kz_bhop_666.txt,147,147
+sound/666/666.wav,12376240,12376240
+materials/666/grouttiles.vmt,62,62
+materials/666/grouttiles.vtf,5696,5696
+materials/colour/neon/pink orange.vmt,76,76
+materials/colour/pink orange.vtf,22080,22080
+materials/666/lab1_flr4c.vmt,62,62
+materials/666/lab1_flr4c.vtf,5696,5696
+materials/colour/neon/pale_magenta.vmt,77,77
+materials/colour/pale magenta.vtf,22080,22080
+materials/colour/neon/blue_green.vmt,75,75
+materials/colour/blue green.vtf,22080,22080
+materials/colour/neon/yellow.vmt,71,71
+materials/colour/yellow.vtf,22080,22080
+materials/colour/neon/green.vmt,70,70
+materials/colour/green.vtf,22080,22080
+materials/colour/neon/burnt sienna.vmt,77,77
+materials/colour/burnt sienna.vtf,22080,22080
+materials/666/maper.vmt,76,76
+materials/666/maper.vtf,87616,87616
+materials/666/stop.vmt,222,222
+materials/666/stop.vtf,699256,699256
+materials/tools/toolswhite.vmt,53,53
+materials/tools/toolswhite.vtf,2976,2976
+materials/666/240.vmt,74,74
+materials/666/240.vtf,43872,43872
+materials/color/white.vmt,62,62
+materials/color/white.vtf,11144,11144
+materials/color/pale magenta.vmt,69,69
+materials/color/pale magenta.vtf,11144,11144
+materials/666/666.vmt,55,55
+materials/666/666.vtf,87616,87616
+materials/666/aaaaa.vmt,57,57
+materials/666/aaaaa.vtf,87616,87616
+materials/666/thx.vmt,74,74
+materials/666/thx.vtf,349760,349760
+materials/colour/rad/yellow.vmt,132,132
+materials/colour/rad/blue_green.vmt,126,126
+materials/colour/rad/pale_magenta.vmt,146,146
+materials/colour/neon/blue_neon.vmt,106,106
+materials/colour/neon/blue_neon.vtf,43912,43912
+materials/colour/neon/salmon.vmt,71,71
+materials/colour/salmon.vtf,22080,22080
+sound/silent/silentmp3.mp3,65471,65471
