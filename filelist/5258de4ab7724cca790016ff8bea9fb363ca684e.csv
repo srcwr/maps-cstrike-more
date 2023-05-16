@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/de_vroom2/tile/tileroof002a_0_0_0.vmt,120,120
+materials/maps/de_vroom2/buildings/gen22_0_0_0.vmt,118,118
+materials/maps/de_vroom2/buildings/gen21_0_0_0.vmt,118,118
+materials/maps/de_vroom2/cubemapdefault.vtf,28753,28753
+materials/maps/de_vroom2/c0_0_0.vtf,28753,28753
+materials/maps/de_vroom2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_vroom2/c0_0_0.hdr.vtf,76528,76528
+materials/DE_VROOM2/TIRESIDEVIEW.vmt,70,70
+materials/de_vroom2/tiresideview.vtf,11144,11144
+materials/DE_VROOM2/TIRE.vmt,62,62
+materials/de_vroom2/tire.vtf,11144,11144
+materials/DE_VROOM2/WHEEL.vmt,82,82
+materials/de_vroom2/wheel.vtf,22080,22080
+maps/de_vroom2.nav,31682,31682
