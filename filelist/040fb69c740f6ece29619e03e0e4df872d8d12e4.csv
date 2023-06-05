@@ -1,0 +1,13 @@
+filename,size,compressed
+materials/maps/zm_asia_countryside_v1/nature/blenddirtgrass001a_wvt_patch.vmt,331,331
+materials/maps/zm_asia_countryside_v1/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/zm_asia_countryside_v1/wood/woodfloor008a_0_0_0.vmt,173,173
+materials/maps/zm_asia_countryside_v1/metal/metalpipe005a_0_0_0.vmt,135,135
+materials/maps/zm_asia_countryside_v1/metal/metalceiling005a_0_0_0.vmt,138,138
+materials/maps/zm_asia_countryside_v1/metal/citadel_metalwall063a_0_0_0.vmt,143,143
+materials/maps/zm_asia_countryside_v1/perftest/water_pretty1_depth_155.vmt,110,110
+materials/maps/zm_asia_countryside_v1/cubemapdefault.vtf,28753,28753
+materials/maps/zm_asia_countryside_v1/c0_0_0.vtf,28753,28753
+materials/maps/zm_asia_countryside_v1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_asia_countryside_v1/c0_0_0.hdr.vtf,76528,76528
+sound/Tesla.mp3,94605,94605
