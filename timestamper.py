@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: WTFPL
+
 import glob
 import csv
 from pathlib import Path
@@ -14,6 +16,13 @@ with open("timestamps.csv", newline="", encoding="utf-8") as f:
         things[line[0]] = (line[1], line[2])
 
 for filename in glob.iglob("../hashed/*.bsp"):
+    """
+    A = os.path.getmtime(filename)
+    B = os.path.getmtime(filename + ".bz2")
+    if A != B:
+        print("updating "+filename+".bz2")
+        os.utime(filename + ".bz2", (A, A))
+    """
     hash = Path(filename).stem
     if not hash in things:
         things[hash] = (datetime.utcfromtimestamp(os.path.getmtime(filename)), datetime.utcfromtimestamp(os.path.getctime(filename)))
