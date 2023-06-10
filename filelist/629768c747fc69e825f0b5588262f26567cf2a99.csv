@@ -1,0 +1,127 @@
+filename,size,compressed
+materials/maps/ts1virtual3i/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/ts1virtual3i/nature/water_coast01_depth_8.vmt,106,106
+materials/maps/ts1virtual3i/cubemapdefault.vtf,9832,9832
+materials/maps/ts1virtual3i/cubemapdefault.hdr.vtf,76528,76528
+sound/tsmusic/Reapersplitterhit2.wav,51625,51625
+sound/tsmusic/TSanaconda.mp3,1188239,1188239
+sound/tsmusic/TSGoteki.mp3,2693016,2693016
+sound/tsmusic/TSStreets.mp3,3712608,3712608
+materials/Custom Textures/LagLogo.vmt,99,99
+materials/Custom Textures/LagLogo.vtf,43912,43912
+materials/Custom Textures/VirtualComingSoon.vmt,105,105
+materials/Custom Textures/VirtualComingSoon.vtf,43912,43912
+materials/Custom Textures/VirtualCredits.vmt,102,102
+materials/Custom Textures/VirtualCredits.vtf,43912,43912
+materials/Custom Textures/VirtualMadeBy.vmt,101,101
+materials/Custom Textures/VirtualMadeBy.vtf,43912,43912
+materials/Custom Textures/VirtualTesters.vmt,102,102
+materials/Custom Textures/VirtualTesters.vtf,43912,43912
+materials/Custom Textures/VirtualThanks.vmt,101,101
+materials/Custom Textures/VirtualThanks.vtf,43912,43912
+materials/Custom Textures/VirtualTile.vmt,97,97
+materials/Custom Textures/VirtualTile.vtf,43912,43912
+materials/Custom Textures/VirtualTile2.vmt,100,100
+materials/Custom Textures/VirtualTile2.vtf,43912,43912
+models/timesplitters/badasscyborg.dx80.vtx,26621,26621
+models/timesplitters/badasscyborg.dx90.vtx,26550,26550
+models/timesplitters/badasscyborg.mdl,15816,15816
+models/timesplitters/badasscyborg.phy,26827,26827
+models/timesplitters/badasscyborg.sw.vtx,25902,25902
+models/timesplitters/badasscyborg.vvd,109312,109312
+models/timesplitters/Cortez.dx80.vtx,51143,51143
+models/timesplitters/Cortez.dx90.vtx,49654,49654
+models/timesplitters/cortez.mdl,21836,21836
+models/timesplitters/Cortez.phy,27243,27243
+models/timesplitters/Cortez.sw.vtx,49014,49014
+models/timesplitters/cortez.vvd,200960,200960
+models/timesplitters/MeezorMox.dx80.vtx,28673,28673
+models/timesplitters/MeezorMox.dx90.vtx,28452,28452
+models/timesplitters/meezormox.mdl,23964,23964
+models/timesplitters/MeezorMox.phy,31637,31637
+models/timesplitters/MeezorMox.sw.vtx,27676,27676
+models/timesplitters/meezormox.vvd,114048,114048
+models/timesplitters/Reapersplitter.dx80.vtx,29200,29200
+models/timesplitters/Reapersplitter.dx90.vtx,29173,29173
+models/timesplitters/reapersplitter.mdl,124896,124896
+models/timesplitters/Reapersplitter.phy,23453,23453
+models/timesplitters/Reapersplitter.sw.vtx,28613,28613
+models/timesplitters/reapersplitter.vvd,115840,115840
+models/timesplitters/Scourgesplitter.dx80.vtx,33205,33205
+models/timesplitters/Scourgesplitter.dx90.vtx,32921,32921
+models/timesplitters/scourgesplitter.mdl,22032,22032
+models/timesplitters/Scourgesplitter.phy,26955,26955
+models/timesplitters/Scourgesplitter.sw.vtx,32081,32081
+models/timesplitters/scourgesplitter.vvd,132736,132736
+materials/models/timesplitters/badasscyborg/05c7644c.vmt,88,88
+materials/models/timesplitters/badasscyborg/05c7644c.vtf,5624,5624
+materials/models/timesplitters/badasscyborg/082ba5ca.vmt,88,88
+materials/models/timesplitters/badasscyborg/082ba5ca.vtf,5624,5624
+materials/models/timesplitters/badasscyborg/0eb9088f.vmt,88,88
+materials/models/timesplitters/badasscyborg/0eb9088f.vtf,5624,5624
+materials/models/timesplitters/badasscyborg/135b8ae8.vmt,88,88
+materials/models/timesplitters/badasscyborg/135b8ae8.vtf,2952,2952
+materials/models/timesplitters/badasscyborg/54e046b7.vmt,88,88
+materials/models/timesplitters/badasscyborg/54e046b7.vtf,5624,5624
+materials/models/timesplitters/badasscyborg/6acc1eb5.vmt,88,88
+materials/models/timesplitters/badasscyborg/6acc1eb5.vtf,5624,5624
+materials/models/timesplitters/badasscyborg/acf2c330.vmt,88,88
+materials/models/timesplitters/badasscyborg/acf2c330.vtf,5624,5624
+materials/models/timesplitters/badasscyborg/fd946571.vmt,88,88
+materials/models/timesplitters/badasscyborg/fd946571.vtf,5624,5624
+materials/models/timesplitters/badasscyborg/fe85ad45.vmt,88,88
+materials/models/timesplitters/badasscyborg/fe85ad45.vtf,5624,5624
+materials/models/timesplitters/cortez/95532879.vmt,82,82
+materials/models/timesplitters/cortez/95532879.vtf,349748,349748
+materials/models/timesplitters/cortez/961d8562.vmt,82,82
+materials/models/timesplitters/cortez/961d8562.vtf,174924,174924
+materials/models/timesplitters/cortez/e2144b81.vmt,82,82
+materials/models/timesplitters/cortez/e2144b81.vtf,349748,349748
+materials/models/timesplitters/MeezorMox/06d5b3a3.vmt,85,85
+materials/models/timesplitters/MeezorMox/06d5b3a3.vtf,5608,5608
+materials/models/timesplitters/MeezorMox/323438c5.vmt,85,85
+materials/models/timesplitters/MeezorMox/323438c5.vtf,5608,5608
+materials/models/timesplitters/MeezorMox/4e55cbd1.vmt,85,85
+materials/models/timesplitters/MeezorMox/4e55cbd1.vtf,5608,5608
+materials/models/timesplitters/MeezorMox/5ff5991d.vmt,85,85
+materials/models/timesplitters/MeezorMox/5ff5991d.vtf,5608,5608
+materials/models/timesplitters/MeezorMox/83d9d1fd.vmt,85,85
+materials/models/timesplitters/MeezorMox/83d9d1fd.vtf,5608,5608
+materials/models/timesplitters/MeezorMox/a3c8fdce.vmt,85,85
+materials/models/timesplitters/MeezorMox/a3c8fdce.vtf,5608,5608
+materials/models/timesplitters/MeezorMox/e3003921.vmt,85,85
+materials/models/timesplitters/MeezorMox/e3003921.vtf,5608,5608
+materials/models/timesplitters/MeezorMox/fe0b314e.vmt,85,85
+materials/models/timesplitters/MeezorMox/fe0b314e.vtf,5608,5608
+materials/models/timesplitters/reapersplitter/2332fd87.vmt,90,90
+materials/models/timesplitters/reapersplitter/2332fd87.vtf,8336,8336
+materials/models/timesplitters/reapersplitter/2b1e42ca.vmt,90,90
+materials/models/timesplitters/reapersplitter/2b1e42ca.vtf,8336,8336
+materials/models/timesplitters/reapersplitter/878f1e72.vmt,90,90
+materials/models/timesplitters/reapersplitter/878f1e72.vtf,8336,8336
+materials/models/timesplitters/reapersplitter/9cffdf60.vmt,90,90
+materials/models/timesplitters/reapersplitter/9cffdf60.vtf,8336,8336
+materials/models/timesplitters/reapersplitter/9fe8c13d.vmt,90,90
+materials/models/timesplitters/reapersplitter/9fe8c13d.vtf,8336,8336
+materials/models/timesplitters/reapersplitter/a70739f1.vmt,90,90
+materials/models/timesplitters/reapersplitter/a70739f1.vtf,8336,8336
+materials/models/timesplitters/reapersplitter/c800517a.vmt,90,90
+materials/models/timesplitters/reapersplitter/c800517a.vtf,8336,8336
+materials/models/timesplitters/reapersplitter/f59c209f.vmt,90,90
+materials/models/timesplitters/reapersplitter/f59c209f.vtf,8336,8336
+materials/models/timesplitters/Scourgesplitter/270f972a.vmt,89,89
+materials/models/timesplitters/Scourgesplitter/270f972a.vtf,11104,11104
+materials/models/timesplitters/Scourgesplitter/45c829e4.vmt,89,89
+materials/models/timesplitters/Scourgesplitter/45c829e4.vtf,11104,11104
+materials/models/timesplitters/Scourgesplitter/5219524e.vmt,89,89
+materials/models/timesplitters/Scourgesplitter/5219524e.vtf,11104,11104
+materials/models/timesplitters/Scourgesplitter/5889984b.vmt,89,89
+materials/models/timesplitters/Scourgesplitter/5889984b.vtf,11104,11104
+materials/models/timesplitters/Scourgesplitter/738681af.vmt,89,89
+materials/models/timesplitters/Scourgesplitter/738681af.vtf,11104,11104
+materials/models/timesplitters/Scourgesplitter/7ed89036.vmt,89,89
+materials/models/timesplitters/Scourgesplitter/7ed89036.vtf,11104,11104
+materials/models/timesplitters/Scourgesplitter/8f61682a.vmt,89,89
+materials/models/timesplitters/Scourgesplitter/8f61682a.vtf,11104,11104
+materials/models/timesplitters/Scourgesplitter/ec471b3d.vmt,89,89
+materials/models/timesplitters/Scourgesplitter/ec471b3d.vtf,11104,11104

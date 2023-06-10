@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/testmap/metal/metalfloor001a_0_0_0.vmt,121,121
+materials/maps/testmap/glass/combineglass001a_0_0_0.vmt,123,123
+materials/maps/testmap/glass/offlightcover_0_0_0.vmt,120,120
+materials/maps/testmap/de_nuke/nukwater_movingplane_dx70_depth_7.vmt,119,119
+materials/maps/testmap/liquids/militiawater_dx70_depth_108.vmt,113,113
+materials/maps/testmap/liquids/militiawater_dx70_depth_16.vmt,112,112
+materials/maps/testmap/nature/water_movingplane_depth_41.vmt,111,111
+materials/maps/testmap/liquids/militiawater_dx70_depth_176.vmt,113,113
+materials/maps/testmap/liquids/militiawater_dx70_depth_240.vmt,113,113
+materials/maps/testmap/liquids/militiawater_dx70_depth_168.vmt,113,113
+materials/maps/testmap/nature/water_movingplane_depth_19.vmt,111,111
+materials/maps/testmap/cubemapdefault.vtf,9824,9824
+materials/maps/testmap/c0_0_0.vtf,9824,9824

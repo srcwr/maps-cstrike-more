@@ -1,0 +1,18 @@
+filename,size,compressed
+materials/maps/zm_arctic_escape_v1/glass/unbreakable_0_0_0.vmt,130,130
+materials/maps/zm_arctic_escape_v1/metal/metalwall033a_0_0_0.vmt,132,132
+materials/maps/zm_arctic_escape_v1/metal/metalpipe009b_0_0_0.vmt,132,132
+materials/maps/zm_arctic_escape_v1/metal/metalwall058a_0_0_0.vmt,132,132
+materials/maps/zm_arctic_escape_v1/models/props/de_prodigy/wall_console1_0_0_0.vmt,150,150
+materials/maps/zm_arctic_escape_v1/de_nuke/nuke_metaldoor_01_0_0_0.vmt,138,138
+materials/maps/zm_arctic_escape_v1/nature/sewer_waterdarkfog_depth_192.vmt,113,113
+materials/maps/zm_arctic_escape_v1/nature/sewer_waterdarkfog_depth_244.vmt,113,113
+materials/maps/zm_arctic_escape_v1/nature/sewer_waterdarkfog_depth_414.vmt,113,113
+materials/maps/zm_arctic_escape_v1/nature/sewer_waterdarkfog_depth_413.vmt,113,113
+materials/maps/zm_arctic_escape_v1/nature/sewer_waterdarkfog_depth_662.vmt,113,113
+materials/maps/zm_arctic_escape_v1/nature/sewer_waterdarkfog_depth_16.vmt,112,112
+materials/maps/zm_arctic_escape_v1/cubemapdefault.vtf,9824,9824
+materials/maps/zm_arctic_escape_v1/c0_0_0.vtf,9824,9824
+sound/escape map sounds/441044_sounddogs_av.mp3,40048,40048
+maps/soundcache/zm_arctic_escape_v1.cache,16,16
+maps/zm_arctic_escape_v1.txt,845,845
