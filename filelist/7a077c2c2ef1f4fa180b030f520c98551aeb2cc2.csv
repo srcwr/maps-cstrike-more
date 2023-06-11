@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/cs_hurst_beta1/nature/sewer_water001_430_258_-987.vmt,159,159
+materials/maps/cs_hurst_beta1/liquids/water_pretty1_-248_-368_-1284.vmt,162,162
+materials/maps/cs_hurst_beta1/environment maps/pipemetal001a_430_258_-987.vmt,145,145
+materials/maps/cs_hurst_beta1/environment maps/pipemetal001a_-248_-368_-1284.vmt,148,148
+materials/maps/cs_hurst_beta1/glass/glasswindowbreak070b_-248_-368_-1284.vmt,114,114
+materials/maps/cs_hurst_beta1/glass/offwndwb_-248_-368_-1284.vmt,218,218
+materials/maps/cs_hurst_beta1/maps/cs_hurst_beta1/liquids/water_pretty1_-248_-368_-1284_depth_115.vmt,145,145
+materials/maps/cs_hurst_beta1/maps/cs_hurst_beta1/nature/sewer_water001_430_258_-987_depth_124.vmt,142,142
+materials/maps/cs_hurst_beta1/cubemapdefault.vtf,9808,9808
+materials/maps/cs_hurst_beta1/c430_258_-987.vtf,4936,4936
+materials/maps/cs_hurst_beta1/c-248_-368_-1284.vtf,4936,4936
