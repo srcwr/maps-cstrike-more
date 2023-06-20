@@ -1,0 +1,27 @@
+filename,size,compressed
+materials/maps/bhop_dust9102/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_dust9102/cubemapdefault.hdr.vtf,76528,76528
+materials/TOOLS/TOOLSNODRAW.vmt,247,247
+materials/Tools/toolsnodraw.vtf,2936,2936
+materials/TOOLS/TOOLSSKYBOX.vmt,325,325
+materials/Tools/toolsskybox.vtf,11128,11128
+materials/GREEN_NEON.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/RED_NEON.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/TOOLS/TOOLSTRIGGER.vmt,388,388
+materials/Tools/toolstrigger.vtf,5680,5680
+materials/skybox/sky147up.vmt,85,85
+materials/skybox/sky147up.vtf,4194511,4194511
+materials/skybox/sky147dn.vmt,83,83
+materials/skybox/sky147dn.vtf,4194511,4194511
+materials/skybox/sky147ft.vmt,83,83
+materials/skybox/sky147ft.vtf,4194511,4194511
+materials/skybox/sky147bk.vmt,87,87
+materials/skybox/sky147bk.vtf,4194511,4194511
+materials/skybox/sky147lf.vmt,83,83
+materials/skybox/sky147lf.vtf,4194511,4194511
+materials/skybox/sky147rt.vmt,83,83
+materials/skybox/sky147rt.vtf,4194511,4194511
+sound/life's a struggle.mp3,3188116,3188116
+maps/bhop_dust9102.nav,205,205

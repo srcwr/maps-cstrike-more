@@ -1,0 +1,65 @@
+filename,size,compressed
+materials/maps/bhop_panda/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_panda/cubemapdefault.hdr.vtf,76528,76528
+materials//black.vmt,53,53
+materials//blue.vmt,52,52
+materials//bright green.vmt,60,60
+materials//orange.vmt,54,54
+materials//purple.vmt,54,54
+materials//white.vmt,53,53
+materials//yellow.vmt,54,54
+materials/black.vtf,174984,174984
+materials/blue.vtf,174984,174984
+materials/bright green.vtf,174984,174984
+materials/custom_texture/answer 2.vtf,43912,43912
+materials/custom_texture/answer 3.vtf,349688,349688
+materials/custom_texture/answer 4.vtf,43912,43912
+materials/custom_texture/bonus block.vtf,349688,349688
+materials/custom_texture/bonus wall txt.vtf,11144,11144
+materials/custom_texture/code 1.vtf,349688,349688
+materials/custom_texture/code 2.vtf,699232,699232
+materials/custom_texture/code bonus.vtf,349688,349688
+materials/custom_texture/end banner.vtf,43912,43912
+materials/custom_texture/number 5.vtf,174984,174984
+materials/custom_texture/number 8.vtf,87544,87544
+materials/custom_texture/number 9.vtf,43912,43912
+materials/custom_texture/wall txt.vtf,174984,174984
+materials/custom_texture/lvl 1.vtf,174984,174984
+materials/custom_texture/lvl 10.vtf,43912,43912
+materials/custom_texture/lvl 2.vtf,174984,174984
+materials/custom_texture/lvl 3.vtf,699232,699232
+materials/custom_texture/lvl 4.vtf,43912,43912
+materials/custom_texture/lvl 5.vtf,87616,87616
+materials/custom_texture/lvl 6.vtf,43912,43912
+materials/custom_texture/lvl 7.vtf,43912,43912
+materials/custom_texture/lvl 8.vtf,43912,43912
+materials/custom_texture/lvl 9.vtf,43912,43912
+materials/orange.vtf,174984,174984
+materials/purple.vtf,174984,174984
+materials/white.vtf,174984,174984
+materials/yellow.vtf,174984,174984
+materials/custom_texture/answer 2.vmt,71,71
+materials/custom_texture/answer 3.vmt,71,71
+materials/custom_texture/answer 4.vmt,71,71
+materials/custom_texture/bonus block.vmt,74,74
+materials/custom_texture/bonus wall txt.vmt,77,77
+materials/custom_texture/code 1.vmt,69,69
+materials/custom_texture/code 2.vmt,69,69
+materials/custom_texture/code bonus.vmt,73,73
+materials/custom_texture/end banner.vmt,73,73
+materials/custom_texture/lvl 1.vmt,68,68
+materials/custom_texture/lvl 10.vmt,69,69
+materials/custom_texture/lvl 2.vmt,68,68
+materials/custom_texture/lvl 3.vmt,68,68
+materials/custom_texture/lvl 4.vmt,68,68
+materials/custom_texture/lvl 5.vmt,68,68
+materials/custom_texture/lvl 6.vmt,68,68
+materials/custom_texture/lvl 7.vmt,68,68
+materials/custom_texture/lvl 8.vmt,68,68
+materials/custom_texture/lvl 9.vmt,68,68
+materials/custom_texture/number 5.vmt,71,71
+materials/custom_texture/number 8.vmt,71,71
+materials/custom_texture/number 9.vmt,71,71
+materials/custom_texture/wall txt.vmt,71,71
+sound/sdk sound/lock sound.wav.wav,390188,390188
+sound/sdk sound/unlock sound.wav.wav,563244,563244

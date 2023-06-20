@@ -1,0 +1,38 @@
+filename,size,compressed
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_metal_p1a_0_-384_134.vmt,145,145
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_metal_p1a_-6_-1098_134.vmt,147,147
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_metal_p1a_-32_352_134.vmt,146,146
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_window1_a_0_-384_134.vmt,145,145
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_window1_a_-6_-1098_134.vmt,147,147
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_window1_a_-32_352_134.vmt,146,146
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_wall7_0_-384_134.vmt,141,141
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_wall7_-6_-1098_134.vmt,143,143
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_wall7_-32_352_134.vmt,142,142
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_wall_sup_center2_0_-384_134.vmt,152,152
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_wall_sup_center2_-32_352_134.vmt,153,153
+materials/maps/gungame_tower/glass/unbreakable_0_-384_134.vmt,129,129
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_wall_sup_center2_-6_-1098_134.vmt,154,154
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_innerp1_-32_352_134.vmt,144,144
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_innerp1_0_-384_134.vmt,143,143
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_innerp1_-6_-1098_134.vmt,145,145
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_inner_window1a_-32_352_134.vmt,151,151
+materials/maps/gungame_tower/vbd/pack 2 remnont/remn_metal_p15_base_-32_352_134.vmt,151,151
+materials/maps/gungame_tower/glass/combineglass001a_0_-384_134.vmt,134,134
+materials/maps/gungame_tower/cubemapdefault.vtf,9832,9832
+materials/maps/gungame_tower/c0_-384_134.vtf,9832,9832
+materials/maps/gungame_tower/c-6_-1098_134.vtf,9832,9832
+materials/maps/gungame_tower/c-32_352_134.vtf,9832,9832
+materials/maps/gungame_tower/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gungame_tower/c0_-384_134.hdr.vtf,76528,76528
+materials/maps/gungame_tower/c-6_-1098_134.hdr.vtf,76528,76528
+materials/maps/gungame_tower/c-32_352_134.hdr.vtf,76528,76528
+materials/SEAN_TEXTURES/MAP_BY.vmt,98,98
+materials/sean_textures/Map_by.vtf,699232,699232
+models/player/vintage/guard/sargent/ct_gsg9.mdl,17200,17200
+models/player/vintage/guard/sargent/ct_gsg9.dx80.vtx,159554,159554
+models/player/vintage/guard/sargent/ct_gsg9.dx90.vtx,152839,152839
+models/player/vintage/guard/sargent/ct_gsg9.sw.vtx,150487,150487
+models/player/vintage/guard/sargent/ct_gsg9.phy,17240,17240
+models/player/vintage/guard/sargent/ct_gsg9.vvd,283328,283328
+materials/models/player/vintage/guard/sargent/ct_gsg9.vmt,303,303
+materials/models/player/vintage/guard/sargent/ct_gsg9.vtf,699272,699272

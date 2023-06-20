@@ -1,0 +1,57 @@
+filename,size,compressed
+materials/maps/bhop_freex/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_freex/cubemapdefault.hdr.vtf,76528,76528
+materials/textures/texture_gray.vmt,99,99
+materials/textures/texture_gray.vtf,2976,2976
+materials/xxxtentacionmem.vmt,63,63
+materials/xxxtentacionmem.vtf,699272,699272
+materials/Color/lavender floral.vmt,72,72
+materials/Color/lavender floral.vtf,11144,11144
+materials/Color/bright green.vmt,69,69
+materials/Color/bright green.vtf,11144,11144
+materials/texture/Texture_grise.vmt,99,99
+materials/texture/Texture_grise.vtf,2976,2976
+materials/RealWorldTextures/Walls/StoneHedge.vmt,243,243
+materials/RealWorldTextures/Walls/StoneHedge.vtf,174984,174984
+materials/RealWorldTextures/newer/1/Grass_1_03.vmt,109,109
+materials/RealWorldTextures/newer/1/Grass_1_03.vtf,174984,174984
+materials/Silkroad/China/jinsi_floor1_e_dan03_01.vmt,90,90
+materials/Silkroad/China/jinsi_floor1_e_dan03_01.vtf,87616,87616
+materials/bhop_weeb/whiteglow.vmt,87,87
+materials/bhop_weeb/whiteglow.vtf,174984,174984
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,349744,349744
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/jap_angelica_l_01.mdl,2456,2456
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/jap_angelica_l_01.vvd,328000,328000
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_l_01.dx90.vtx,69768,69768
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_l_01.dx80.vtx,69768,69768
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_l_01.sw.vtx,69768,69768
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_l_01.phy,6771,6771
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/bark_06.vmt,122,122
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/bark_06.vtf,2796448,2796448
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/JapaneseAngelicaLeaves.vmt,163,163
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/JapaneseAngelicaLeaves.vtf,699256,699256
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/JapaneseAngelicaFlowers.vmt,164,164
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/JapaneseAngelicaFlowers.vtf,699256,699256
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/branch_02.vmt,150,150
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/branch_02.vtf,1398360,1398360
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/jap_angelica_m_01.mdl,2456,2456
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/jap_angelica_m_01.vvd,383616,383616
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_m_01.dx90.vtx,80139,80139
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_m_01.dx80.vtx,80139,80139
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_m_01.sw.vtx,80139,80139
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_m_01.phy,5579,5579
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_l_02_pu.mdl,2448,2448
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_l_02_pu.vvd,559104,559104
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_pu.dx90.vtx,110949,110949
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_pu.dx80.vtx,110949,110949
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_pu.sw.vtx,110949,110949
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_pu.phy,2021,2021
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/bark_06.vmt,122,122
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/bark_06.vtf,2796448,2796448
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/branch_02.vmt,150,150
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/branch_02.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_pu.vmt,158,158
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_pu.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_pu.vmt,158,158
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_pu.vtf,1398360,1398360

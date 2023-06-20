@@ -1,0 +1,23 @@
+filename,size,compressed
+materials/maps/mg_nade_snow_stairs_seagull_test1/metal/metalwall048a_-728_123_104.vmt,153,153
+materials/maps/mg_nade_snow_stairs_seagull_test1/metal/metalwall048a_861_95_277.vmt,151,151
+materials/maps/mg_nade_snow_stairs_seagull_test1/de_nuke/nukwater_movingplane_dx70_depth_4.vmt,119,119
+materials/maps/mg_nade_snow_stairs_seagull_test1/de_nuke/nukwater_movingplane_dx70_depth_7.vmt,119,119
+materials/maps/mg_nade_snow_stairs_seagull_test1/cubemapdefault.vtf,28753,28753
+materials/maps/mg_nade_snow_stairs_seagull_test1/c-728_123_104.vtf,28753,28753
+materials/maps/mg_nade_snow_stairs_seagull_test1/c861_95_277.vtf,28753,28753
+materials/maps/mg_nade_snow_stairs_seagull_test1/c872_200_128.vtf,28753,28753
+materials/maps/mg_nade_snow_stairs_seagull_test1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_nade_snow_stairs_seagull_test1/c-728_123_104.hdr.vtf,76528,76528
+materials/maps/mg_nade_snow_stairs_seagull_test1/c861_95_277.hdr.vtf,76528,76528
+materials/maps/mg_nade_snow_stairs_seagull_test1/c872_200_128.hdr.vtf,76528,76528
+materials/SEAN_TEXTURES/MAP_BY.vmt,98,98
+materials/sean_textures/Map_by.vtf,699232,699232
+sound/dj isaac - bitches (short edit).mp3,1797466,1797466
+sound/admin_plugin/evillaugh.wav,155262,155262
+models/gmod_tower/santahat.mdl,1720,1720
+models/gmod_tower/santahat.dx80.vtx,6069,6069
+models/gmod_tower/santahat.dx90.vtx,6069,6069
+models/gmod_tower/santahat.sw.vtx,6069,6069
+models/gmod_tower/santahat.phy,3235,3235
+models/gmod_tower/santahat.vvd,21440,21440

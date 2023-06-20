@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/bhop_riptide/de_piranesi/wooddoor01_0_0_0.vmt,128,128
+materials/maps/bhop_riptide/metal/citadel_tilefloor016a_cheap_0_0_0.vmt,139,139
+materials/maps/bhop_riptide/glass/glasswindow070c_0_0_0.vmt,127,127
+materials/maps/bhop_riptide/tile/tilefloor020a_0_0_0.vmt,124,124
+materials/maps/bhop_riptide/tile/tilefloor021a_0_0_0.vmt,124,124
+materials/maps/bhop_riptide/dev/dev_water3_exp_depth_69.vmt,105,105
+materials/maps/bhop_riptide/dev/dev_water3_exp_depth_240.vmt,106,106
+materials/maps/bhop_riptide/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_riptide/c0_0_0.vtf,28753,28753
+materials/maps/bhop_riptide/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_riptide/c0_0_0.hdr.vtf,76528,76528
