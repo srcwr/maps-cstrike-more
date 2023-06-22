@@ -1,0 +1,171 @@
+filename,size,compressed
+materials/maps/zm_allied_castle/stone/blendstonefloor003asphalt_wvt_patch.vmt,299,299
+materials/maps/zm_allied_castle/nature/blenddirtgrass001a_wvt_patch.vmt,331,331
+materials/maps/zm_allied_castle/wood/woodfloor008a_0_0_0.vmt,167,167
+materials/maps/zm_allied_castle/de_piranesi/woodfloor02_0_0_0.vmt,133,133
+materials/maps/zm_allied_castle/wood/woodwall016a_0_0_0.vmt,127,127
+materials/maps/zm_allied_castle/tile/tileroof004a_c17_0_0_0.vmt,170,170
+materials/maps/zm_allied_castle/metal/metalceiling005a_0_0_0.vmt,132,132
+materials/maps/zm_allied_castle/metal/metalwall101b_0_0_0.vmt,129,129
+materials/maps/zm_allied_castle/tile/milflr002_0_0_0.vmt,124,124
+materials/maps/zm_allied_castle/nature/water_canals_city_murky_depth_51.vmt,117,117
+materials/maps/zm_allied_castle/nature/water_canals_city_murky_depth_3.vmt,116,116
+materials/maps/zm_allied_castle/nature/water_canals_city_murky_depth_21.vmt,117,117
+materials/maps/zm_allied_castle/cubemapdefault.vtf,9832,9832
+materials/maps/zm_allied_castle/c0_0_0.vtf,9832,9832
+materials/maps/zm_allied_castle/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_allied_castle/c0_0_0.hdr.vtf,76528,76528
+sp_0.vhv,1024,1024
+sp_1.vhv,1024,1024
+sp_2.vhv,1024,1024
+sp_3.vhv,1024,1024
+sp_4.vhv,1024,1024
+sp_5.vhv,1024,1024
+sp_6.vhv,34816,34816
+sp_7.vhv,11776,11776
+sp_8.vhv,1024,1024
+sp_9.vhv,1024,1024
+sp_10.vhv,7168,7168
+sp_11.vhv,34816,34816
+sp_12.vhv,11776,11776
+sp_13.vhv,11776,11776
+sp_14.vhv,11776,11776
+sp_15.vhv,11776,11776
+sp_16.vhv,11776,11776
+sp_17.vhv,11776,11776
+sp_18.vhv,11776,11776
+sp_19.vhv,11776,11776
+sp_20.vhv,11776,11776
+sp_21.vhv,11776,11776
+sp_22.vhv,11776,11776
+sp_23.vhv,11776,11776
+sp_24.vhv,7168,7168
+sp_25.vhv,11776,11776
+sp_26.vhv,29184,29184
+sp_27.vhv,6144,6144
+sp_28.vhv,28672,28672
+sp_29.vhv,6144,6144
+sp_30.vhv,7680,7680
+sp_31.vhv,7680,7680
+sp_32.vhv,7680,7680
+sp_33.vhv,7680,7680
+sp_34.vhv,3072,3072
+sp_35.vhv,3072,3072
+sp_36.vhv,3072,3072
+sp_37.vhv,4096,4096
+sp_38.vhv,16896,16896
+sp_39.vhv,7680,7680
+sp_40.vhv,3072,3072
+sp_41.vhv,3072,3072
+sp_42.vhv,7680,7680
+sp_43.vhv,3072,3072
+sp_44.vhv,4096,4096
+sp_45.vhv,1024,1024
+sp_46.vhv,6144,6144
+sp_47.vhv,13312,13312
+sp_48.vhv,2048,2048
+sp_49.vhv,1024,1024
+sp_50.vhv,5632,5632
+sp_51.vhv,11776,11776
+sp_52.vhv,11776,11776
+sp_53.vhv,11776,11776
+sp_54.vhv,11776,11776
+sp_55.vhv,2560,2560
+sp_56.vhv,2560,2560
+sp_57.vhv,11776,11776
+sp_58.vhv,11776,11776
+sp_59.vhv,11776,11776
+sp_60.vhv,11776,11776
+sp_61.vhv,49152,49152
+sp_62.vhv,1024,1024
+sp_63.vhv,1024,1024
+sp_hdr_0.vhv,1024,1024
+sp_hdr_1.vhv,1024,1024
+sp_hdr_2.vhv,1024,1024
+sp_hdr_3.vhv,1024,1024
+sp_hdr_4.vhv,1024,1024
+sp_hdr_5.vhv,1024,1024
+sp_hdr_6.vhv,34816,34816
+sp_hdr_7.vhv,11776,11776
+sp_hdr_8.vhv,1024,1024
+sp_hdr_9.vhv,1024,1024
+sp_hdr_10.vhv,7168,7168
+sp_hdr_11.vhv,34816,34816
+sp_hdr_12.vhv,11776,11776
+sp_hdr_13.vhv,11776,11776
+sp_hdr_14.vhv,11776,11776
+sp_hdr_15.vhv,11776,11776
+sp_hdr_16.vhv,11776,11776
+sp_hdr_17.vhv,11776,11776
+sp_hdr_18.vhv,11776,11776
+sp_hdr_19.vhv,11776,11776
+sp_hdr_20.vhv,11776,11776
+sp_hdr_21.vhv,11776,11776
+sp_hdr_22.vhv,11776,11776
+sp_hdr_23.vhv,11776,11776
+sp_hdr_24.vhv,7168,7168
+sp_hdr_25.vhv,11776,11776
+sp_hdr_26.vhv,29184,29184
+sp_hdr_27.vhv,6144,6144
+sp_hdr_28.vhv,28672,28672
+sp_hdr_29.vhv,6144,6144
+sp_hdr_30.vhv,7680,7680
+sp_hdr_31.vhv,7680,7680
+sp_hdr_32.vhv,7680,7680
+sp_hdr_33.vhv,7680,7680
+sp_hdr_34.vhv,3072,3072
+sp_hdr_35.vhv,3072,3072
+sp_hdr_36.vhv,3072,3072
+sp_hdr_37.vhv,4096,4096
+sp_hdr_38.vhv,16896,16896
+sp_hdr_39.vhv,7680,7680
+sp_hdr_40.vhv,3072,3072
+sp_hdr_41.vhv,3072,3072
+sp_hdr_42.vhv,7680,7680
+sp_hdr_43.vhv,3072,3072
+sp_hdr_44.vhv,4096,4096
+sp_hdr_45.vhv,1024,1024
+sp_hdr_46.vhv,6144,6144
+sp_hdr_47.vhv,13312,13312
+sp_hdr_48.vhv,2048,2048
+sp_hdr_49.vhv,1024,1024
+sp_hdr_50.vhv,5632,5632
+sp_hdr_51.vhv,11776,11776
+sp_hdr_52.vhv,11776,11776
+sp_hdr_53.vhv,11776,11776
+sp_hdr_54.vhv,11776,11776
+sp_hdr_55.vhv,2560,2560
+sp_hdr_56.vhv,2560,2560
+sp_hdr_57.vhv,11776,11776
+sp_hdr_58.vhv,11776,11776
+sp_hdr_59.vhv,11776,11776
+sp_hdr_60.vhv,11776,11776
+sp_hdr_61.vhv,49152,49152
+sp_hdr_62.vhv,1024,1024
+sp_hdr_63.vhv,1024,1024
+models/apwninthedark's starship pack/romulan warbird.mdl,2476,2476
+models/apwninthedark's starship pack/romulan warbird.dx80.vtx,116796,116796
+models/apwninthedark's starship pack/romulan warbird.dx90.vtx,116796,116796
+models/apwninthedark's starship pack/romulan warbird.phy,16007,16007
+models/apwninthedark's starship pack/romulan warbird.sw.vtx,116796,116796
+models/apwninthedark's starship pack/romulan warbird.vvd,500032,500032
+materials/models/apwninthedark's starship pack/alien ships/romulandderidex02+selfillum.vmt,442,442
+materials/models/apwninthedark's starship pack/alien ships/romulandderidex02+selfillum.vtf,1398216,1398216
+materials/models/apwninthedark's starship pack/alien ships/special/romulandderidex02-bumpmap+phong.vtf,1398216,1398216
+materials/models/apwninthedark's starship pack/alien ships/special/romulandderidex02-phongexponent.vtf,1398181,1398181
+materials/models/apwninthedark's starship pack/alien ships/romulandderidex04+selfillum.vmt,442,442
+materials/models/apwninthedark's starship pack/alien ships/romulandderidex04+selfillum.vtf,1398216,1398216
+materials/models/apwninthedark's starship pack/alien ships/special/romulandderidex04-bumpmap+phong.vtf,1398216,1398216
+materials/models/apwninthedark's starship pack/alien ships/special/romulandderidex04-phongexponent.vtf,1398181,1398181
+materials/models/apwninthedark's starship pack/alien ships/romulandderidex03+selfillum.vmt,349,349
+materials/models/apwninthedark's starship pack/alien ships/romulandderidex03+selfillum.vtf,1398216,1398216
+materials/models/apwninthedark's starship pack/alien ships/special/romulandderidex03-bumpmap+phong.vtf,1398216,1398216
+materials/models/apwninthedark's starship pack/alien ships/romulandderidex01+selfillum.vmt,442,442
+materials/models/apwninthedark's starship pack/alien ships/romulandderidex01+selfillum.vtf,1398216,1398216
+materials/models/apwninthedark's starship pack/alien ships/special/romulandderidex01-bumpmap+phong.vtf,1398216,1398216
+materials/models/apwninthedark's starship pack/alien ships/special/romulandderidex01-phongexponent.vtf,1398181,1398181
+materials/effects/brightglow_y.vmt,157,157
+materials/effects/brightglow_y.vtf,11144,11144
+sound/romulan.mp3,2336538,2336538
+sound/cloak.wav,117572,117572
+sound/prism.mp3,80395,80395
