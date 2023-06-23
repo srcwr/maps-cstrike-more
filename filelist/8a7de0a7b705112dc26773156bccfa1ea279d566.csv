@@ -1,0 +1,84 @@
+filename,size,compressed
+materials/maps/bhop_dr_goldfever/custom blend/western_blend2_wvt_patch.vmt,101,101
+materials/maps/bhop_dr_goldfever/custom blend/western_blend1_wvt_patch.vmt,101,101
+materials/maps/bhop_dr_goldfever/custom blend/western_blend3_wvt_patch.vmt,101,101
+materials/maps/bhop_dr_goldfever/metal/metalfloor001a_0_0_0.vmt,131,131
+materials/maps/bhop_dr_goldfever/glass/unbreakable_0_0_0.vmt,128,128
+materials/maps/bhop_dr_goldfever/metal/metalroof004a_c17_0_0_0.vmt,173,173
+materials/maps/bhop_dr_goldfever/metal/metalceiling005a_0_0_0.vmt,133,133
+materials/maps/bhop_dr_goldfever/wood/woodstair002a_0_0_0.vmt,129,129
+materials/maps/bhop_dr_goldfever/nature/toxicslime002a_depth_16.vmt,108,108
+materials/maps/bhop_dr_goldfever/nature/water_wasteland002a_depth_16.vmt,113,113
+materials/maps/bhop_dr_goldfever/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_dr_goldfever/c0_0_0.vtf,9832,9832
+materials/maps/bhop_dr_goldfever/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_dr_goldfever/c0_0_0.hdr.vtf,76528,76528
+materials/CUSTOM BLEND/Western_sandy2.vtf,349760,349760
+materials/CUSTOM BLEND/Western_Sandy1.vtf,349760,349760
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/FIREWAVEZZ/WOOD6.vmt,94,94
+materials/FIREWAVEZZ/wood6.vtf,349760,349760
+materials/CUSTOM BLEND/WESTERN_SANDY3.vmt,99,99
+materials/CUSTOM BLEND/Western_sandy3.vtf,349760,349760
+materials/maps/deathrun_goldfever_a/custom blend/western_blend3_wvt_patch.vmt,101,101
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/FIREWAVEZZ/WOOD3.vmt,94,94
+materials/FIREWAVEZZ/wood3.vtf,349760,349760
+materials/TOOLS/TOOLSCLIP.vmt,313,313
+materials/TOOLS/toolsclip.vtf,5680,5680
+materials/METAL/CHICKEN_WIRE001.vmt,88,88
+materials/METAL/chicken_wire001.vtf,22080,22080
+materials/TOOLS/TOOLSSKIP.vmt,281,281
+materials/TOOLS/toolsskip.vtf,5680,5680
+materials/TOOLS/TOOLSHINT.vmt,279,279
+materials/TOOLS/toolshint.vtf,5680,5680
+materials/maps/deathrun_goldfever_a/custom blend/western_blend1_wvt_patch.vmt,101,101
+materials/CUSTOM BLEND/WESTERN_SANDY2.vmt,99,99
+materials/FIREWAVEZZ/WOOD5.vmt,94,94
+materials/FIREWAVEZZ/wood5.vtf,349760,349760
+materials/SIGNS/HAZARD_YELLOW001.vmt,89,89
+materials/SIGNS/hazard_yellow001.vtf,22016,22016
+materials/TOOLS/TOOLSINVISIBLE.vmt,304,304
+materials/TOOLS/toolsinvisible.vtf,5680,5680
+materials/NATURE/DIRTGROUND008.vmt,87,87
+materials/NATURE/dirtground008.vtf,1398336,1398336
+materials/FIREWAVEZZ/CMARK.vmt,83,83
+materials/FIREWAVEZZ/Cmark.vtf,22080,22080
+materials/real_dev/dev_gray1.vmt,66,66
+materials/real_dev/dev_gray1.vtf,699272,699272
+materials/real_dev/dev_green4.vmt,67,67
+materials/real_dev/dev_green4.vtf,699272,699272
+materials/castome/baker.vmt,55,55
+materials/castome/baker.vtf,349704,349704
+materials/real_dev/dev_green5.vmt,67,67
+materials/real_dev/dev_green5.vtf,699272,699272
+materials/CUSTOM BLEND/WESTERN_BLEND2.vmt,175,175
+materials/CUSTOM BLEND/WESTERN_BLEND1.vmt,175,175
+materials/CUSTOM BLEND/WESTERN_BLEND3.vmt,175,175
+materials/FIREWAVEZZ/WOOD2.vmt,94,94
+materials/FIREWAVEZZ/wood2.vtf,349760,349760
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/FIREWAVEZZ/GOLDFEVER_MG_2.vmt,92,92
+materials/FIREWAVEZZ/goldfever_mg_2.vtf,349760,349760
+materials/real_dev/dev_red4.vmt,65,65
+materials/real_dev/dev_red4.vtf,699272,699272
+materials/FIREWAVEZZ/nexxxus3.vmt,86,86
+materials/FIREWAVEZZ/nexxxus3.vtf,349760,349760
+materials/SIGNS/sign059.vmt,80,80
+materials/SIGNS/sign059.vtf,349760,349760
+materials/FIREWAVEZZ/bad_banner_firewavezz2.vmt,100,100
+materials/FIREWAVEZZ/Bad_Banner_FireWavezZ2.vtf,349760,349760
+materials/pl_hoodoo/gold_sign_02.vmt,89,89
+materials/pl_hoodoo/gold_sign_02.vtf,349760,349760
+materials/SIGNS/mvm_deathpit_sign_03.vmt,93,93
+materials/SIGNS/mvm_deathpit_sign_03.vtf,87552,87552
+materials/FIREWAVEZZ/specialthanksdr2.vmt,94,94
+materials/FIREWAVEZZ/specialthanksDR2.vtf,349760,349760
+materials/SIGNS/sign_mannmining.vmt,88,88
+materials/SIGNS/sign_mannmining.vtf,699232,699232
+materials/SIGNS/sign132.vmt,80,80
+materials/SIGNS/sign132.vtf,87616,87616
+sound/custom/desperados2.mp3,2635131,2635131
