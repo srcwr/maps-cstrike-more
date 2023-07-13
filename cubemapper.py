@@ -17,8 +17,8 @@ for filename in glob.iglob("filelist/*.csv"):
         continue
     with open(filename, newline='', encoding="utf-8") as f:
         cr = csv.reader(f)
-        shit = False
         ain = ""
+        matmaps = ""
         for line in cr:
             if line[0] == "filename":
                 continue
@@ -26,12 +26,15 @@ for filename in glob.iglob("filelist/*.csv"):
             if xd.name == "cubemapdefault.vtf":
                 b = Path(xd.parent).name
                 things[hash] = b
-                shit = True
                 break
             if xd.suffix == ".ain":
                 ain = xd.stem
-        if not shit and ain != "":
+            if matmaps == "" and line[0].startswith("materials/maps/"):
+                matmaps = xd.parts[2]
+        if not hash in things and ain != "":
             things[hash] = ain
+        if not hash in things and matmaps != "":
+            things[hash] = matmaps
 
 with open("original_mapname.csv", "w", newline="", encoding="utf-8") as csvfile:
     mycsv = csv.writer(csvfile)
