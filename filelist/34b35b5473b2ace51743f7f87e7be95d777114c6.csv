@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/bhop_imitation/mirrorsedge/white_shiny_0_0_0.vmt,131,131
+materials/MIRRORSEDGE/WHITE_SHINY.vmt,173,173
+materials/MIRRORSEDGE/white.vtf,32976,32976
+materials/MIRRORSEDGE/RED_MATTE.vmt,122,122
+materials/MIRRORSEDGE/red.vtf,43912,43912
+materials/portal/arrow.vmt,79,79
+materials/portal/arrow.vtf,87616,87616
+materials/skybox/sky_fogup.vmt,46,46
+materials/skybox/sky_fogdn.vmt,46,46
+materials/skybox/sky_foglf.vmt,46,46
+materials/skybox/sky_fogrt.vmt,46,46
+materials/skybox/sky_fogft.vmt,46,46
+materials/skybox/sky_fogbk.vmt,46,46
+maps/bhop_imitation.nav,205,205
