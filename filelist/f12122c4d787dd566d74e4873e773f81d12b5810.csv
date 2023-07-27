@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/tickoftheclock2/metal/metaltick.vmt,84,84
+materials/maps/tickoftheclock2/metal/metaltick.vtf,349760,349760
+materials/skybox/sky_black_nofogup.vmt,111,111
+materials/skybox/sky_blackup.vtf,5696,5696
+materials/skybox/sky_black_nofogdn.vmt,111,111
+materials/skybox/sky_blackdn.vtf,5696,5696
+materials/skybox/sky_black_nofoglf.vmt,111,111
+materials/skybox/sky_blacklf.vtf,5696,5696
+materials/skybox/sky_black_nofogrt.vmt,111,111
+materials/skybox/sky_blackrt.vtf,5696,5696
+materials/skybox/sky_black_nofogft.vmt,111,111
+materials/skybox/sky_blackft.vtf,5696,5696
+materials/skybox/sky_black_nofogbk.vmt,111,111
+materials/skybox/sky_blackbk.vtf,5696,5696
+Models/props/fizzler.mdl,1908,1908
+maps/bhop_tickoftheclock2.nav,205,205
