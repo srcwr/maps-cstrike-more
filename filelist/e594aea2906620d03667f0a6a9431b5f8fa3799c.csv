@@ -1,0 +1,37 @@
+filename,size,compressed
+materials/maps/bhop_bmg2_trickster/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_bmg2_trickster/cubemapdefault.hdr.vtf,76528,76528
+materials/trickstertextures/stone_floor_01.vmt,78,78
+materials/trickstertextures/stone_floor_01.vtf,1398336,1398336
+materials/trickstertextures/asphalt_02.vmt,74,74
+materials/trickstertextures/asphalt_02.vtf,699272,699272
+materials/trickster/shocked.vmt,93,93
+materials/trickster/shocked.vtf,349760,349760
+materials/trickster/jumpcancel.vmt,96,96
+materials/trickster/jumpcancel.vtf,87544,87544
+materials/realworldtextures/newer/1/concrete_1_12.vmt,115,115
+materials/realworldtextures/newer/1/concrete_1_12.vtf,174984,174984
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/color/blue violet.vmt,68,68
+materials/color/blue violet.vtf,11144,11144
+materials/color/green.vmt,62,62
+materials/color/green.vtf,11144,11144
+materials/tools/toolstrigger.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/trickstertextures/mkwii/o_dash.vmt,72,72
+materials/trickstertextures/mkwii/o_dash.vtf,22032,22032
+materials/color/red.vmt,60,60
+materials/color/red.vtf,11144,11144
+materials/skybox/mpa104bk.vmt,79,79
+materials/skybox/mpa104bk.vtf,699272,699272
+materials/skybox/mpa104dn.vmt,79,79
+materials/skybox/mpa104dn.vtf,699272,699272
+materials/skybox/mpa104ft.vmt,79,79
+materials/skybox/mpa104ft.vtf,699272,699272
+materials/skybox/mpa104lf.vmt,79,79
+materials/skybox/mpa104lf.vtf,699272,699272
+materials/skybox/mpa104rt.vmt,79,79
+materials/skybox/mpa104rt.vtf,699272,699272
+materials/skybox/mpa104up.vmt,79,79
+materials/skybox/mpa104up.vtf,699272,699272
