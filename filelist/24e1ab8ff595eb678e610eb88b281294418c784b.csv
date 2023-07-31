@@ -1,0 +1,53 @@
+filename,size,compressed
+materials/maps/bhop_paulmiller2/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_paulmiller2/cubemapdefault.hdr.vtf,76528,76528
+materials/Color/maya blue.vmt,66,66
+materials/Color/maya blue.vtf,11144,11144
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/Color/grey.vmt,61,61
+materials/Color/grey.vtf,11144,11144
+materials/Color/sandy brown.vmt,68,68
+materials/Color/sandy brown.vtf,11144,11144
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/Mangas/bouh.vmt,78,78
+materials/Mangas/bouh.vtf,43872,43872
+materials/Color/green html.vmt,67,67
+materials/Color/green html.vtf,11144,11144
+materials/Color/pale brown.vmt,67,67
+materials/Color/pale brown.vtf,11144,11144
+materials/Color/coral red.vmt,66,66
+materials/Color/coral red.vtf,11144,11144
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/skybox/sky_blueup.vmt,84,84
+materials/skybox/sky_blueup.vtf,4194511,4194511
+materials/skybox/sky_bluedn.vmt,84,84
+materials/skybox/sky_bluedn.vtf,4194511,4194511
+materials/skybox/sky_bluelf.vmt,84,84
+materials/skybox/sky_bluelf.vtf,4194511,4194511
+materials/skybox/sky_bluert.vmt,84,84
+materials/skybox/sky_bluert.vtf,4194511,4194511
+materials/skybox/sky_blueft.vmt,84,84
+materials/skybox/sky_blueft.vtf,4194511,4194511
+materials/skybox/sky_bluebk.vmt,84,84
+materials/skybox/sky_bluebk.vtf,4194511,4194511
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_l_02_g.mdl,2444,2444
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_l_02_g.vvd,559104,559104
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_g.dx90.vtx,110949,110949
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_g.dx80.vtx,110949,110949
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_g.sw.vtx,110949,110949
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_l_02_g.phy,2020,2020
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/bark_06.vmt,122,122
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/bark_06.vtf,2796448,2796448
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/branch_02.vmt,150,150
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/branch_02.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_g.vmt,157,157
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_g.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_g.vmt,157,157
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_g.vtf,1398360,1398360
+maps/graphs/bhop_paulmiller2.ain,16,16
