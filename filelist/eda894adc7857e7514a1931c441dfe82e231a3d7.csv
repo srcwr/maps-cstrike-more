@@ -1,0 +1,35 @@
+filename,size,compressed
+materials/maps/bhop_intergalactik/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_intergalactik/cubemapdefault.hdr.vtf,76528,76528
+materials/Color/black.vmt,62,62
+materials/Color/black.vtf,11144,11144
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/Devtexturee/devneons/blue_neon.vmt,103,103
+materials/devneons/blue_neon.vtf,43912,43912
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/Color/maya blue.vmt,66,66
+materials/Color/maya blue.vtf,11144,11144
+materials/fakesky/skyblock2.vmt,71,71
+materials/devneons/green_neon.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/skybox/sky_gravityup.vmt,87,87
+materials/skybox/sky_gravityup.vtf,4194511,4194511
+materials/skybox/sky_gravitydn.vmt,87,87
+materials/skybox/sky_gravitydn.vtf,4194511,4194511
+materials/skybox/sky_gravitylf.vmt,87,87
+materials/skybox/sky_gravitylf.vtf,4194511,4194511
+materials/skybox/sky_gravityrt.vmt,87,87
+materials/skybox/sky_gravityrt.vtf,4194511,4194511
+materials/skybox/sky_gravityft.vmt,87,87
+materials/skybox/sky_gravityft.vtf,4194511,4194511
+materials/skybox/sky_gravitybk.vmt,87,87
+materials/skybox/sky_gravitybk.vtf,4194511,4194511
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
