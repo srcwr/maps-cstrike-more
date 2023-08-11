@@ -1,4 +1,5 @@
-@echo off
+:: @echo off
+cd "%~dp0"
 python dumper.py
 python cubemapper.py
 python timestamper.py
@@ -8,3 +9,4 @@ SET GIT_COMMITTER_NAME= "srcwrbot"
 SET GIT_COMMITTER_EMAIL="bot@srcwr.com"
 git commit --author="srcwrbot <bot@srcwr.com>" -m "%1"
 git push originbot
+pause
