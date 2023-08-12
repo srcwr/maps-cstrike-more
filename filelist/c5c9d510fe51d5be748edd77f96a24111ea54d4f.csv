@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/bhop_reds_d/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_reds_d/cubemapdefault.hdr.vtf,76528,76528
+materials/bhop_dev/dev01_n5.vmt,65,65
+materials/bhop_dev/dev01_n5.vtf,22080,22080
+materials/bhop_dev/dev01_r5.vmt,65,65
+materials/bhop_dev/dev01_r5.vtf,22080,22080
+materials/bhop_dev/dev01_n8.vmt,65,65
+materials/bhop_dev/dev01_n8.vtf,22080,22080
+maps/bhop_reds.nav,205,205
+maps/graphs/bhop_reds.ain,16,16
