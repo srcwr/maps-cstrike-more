@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/bhop_strafe_myass/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_strafe_myass/cubemapdefault.hdr.vtf,76528,76528
+materials/skybox/sky_dust22up.vmt,106,106
+materials/skybox/sky_dust22up.vtf,174864,174864
+materials/skybox/sky_dust22dn.vmt,106,106
+materials/skybox/sky_dust22dn.vtf,174864,174864
+materials/skybox/sky_dust22lf.vmt,106,106
+materials/skybox/sky_dust22lf.vtf,174864,174864
+materials/skybox/sky_dust22rt.vmt,106,106
+materials/skybox/sky_dust22rt.vtf,174864,174864
+materials/skybox/sky_dust22ft.vmt,106,106
+materials/skybox/sky_dust22ft.vtf,174864,174864
+materials/skybox/sky_dust22bk.vmt,106,106
+materials/skybox/sky_dust22bk.vtf,174864,174864
+maps/bhop_strafe_myass.nav,205,205
