@@ -1,0 +1,39 @@
+filename,size,compressed
+materials/maps/cs_m10_tank_001/metal/citadel_tilefloor016a_-2361_2614_118.vmt,145,145
+materials/maps/cs_m10_tank_001/metal/citadel_tilefloor016a_-1915_2614_118.vmt,145,145
+materials/maps/cs_m10_tank_001/metal/citadel_tilefloor016a_-1915_1376_118.vmt,145,145
+materials/maps/cs_m10_tank_001/metal/citadel_tilefloor016a_-402_3298_118.vmt,144,144
+materials/maps/cs_m10_tank_001/metal/metalpipe010a_-1915_2614_118.vmt,137,137
+materials/maps/cs_m10_tank_001/metal/metalpipe010a_-2361_2614_118.vmt,137,137
+materials/maps/cs_m10_tank_001/environment maps/pipemetal001a_-2361_2614_118.vmt,148,148
+materials/maps/cs_m10_tank_001/metal/metalceiling005a_-1915_1376_118.vmt,140,140
+materials/maps/cs_m10_tank_001/metal/metalceiling005a_-2361_2614_118.vmt,140,140
+materials/maps/cs_m10_tank_001/metal/metalceiling005a_-1915_2614_118.vmt,140,140
+materials/maps/cs_m10_tank_001/metal/metalceiling005a_-402_3298_118.vmt,139,139
+materials/maps/cs_m10_tank_001/environment maps/pipemetal001a_-1915_2614_118.vmt,148,148
+materials/maps/cs_m10_tank_001/environment maps/pipemetal001a_-1915_1376_118.vmt,148,148
+materials/maps/cs_m10_tank_001/environment maps/pipemetal001a_-402_3298_118.vmt,147,147
+materials/maps/cs_m10_tank_001/metal/metalpipe005a_-1915_1376_118.vmt,137,137
+materials/maps/cs_m10_tank_001/metal/metalpipe005a_-1915_2614_118.vmt,137,137
+materials/maps/cs_m10_tank_001/metal/metalpipe005a_-2361_2614_118.vmt,137,137
+materials/maps/cs_m10_tank_001/metal/metalroof004a_c17_-1915_2614_118.vmt,180,180
+materials/maps/cs_m10_tank_001/metal/metalpipe005a_-402_3298_118.vmt,136,136
+materials/maps/cs_m10_tank_001/nature/water_dx70_depth_76.vmt,104,104
+materials/maps/cs_m10_tank_001/cubemapdefault.vtf,9824,9824
+materials/maps/cs_m10_tank_001/c-2361_2614_118.vtf,9824,9824
+materials/maps/cs_m10_tank_001/c-1915_2614_118.vtf,9824,9824
+materials/maps/cs_m10_tank_001/c-1915_1376_118.vtf,9824,9824
+materials/maps/cs_m10_tank_001/c-402_3298_118.vtf,9824,9824
+materials/maps/cs_m10_tank_001/c5274_3298_118.vtf,9824,9824
+materials/maps/cs_m10_tank_001/c5964_2986_118.vtf,9824,9824
+materials/maps/cs_m10_tank_001/c5964_1090_118.vtf,9824,9824
+materials/maps/cs_m10_tank_001/c-486_697_118.vtf,9824,9824
+materials/maps/cs_m10_tank_001/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/cs_m10_tank_001/c-2361_2614_118.hdr.vtf,76520,76520
+materials/maps/cs_m10_tank_001/c-1915_2614_118.hdr.vtf,76520,76520
+materials/maps/cs_m10_tank_001/c-1915_1376_118.hdr.vtf,76520,76520
+materials/maps/cs_m10_tank_001/c-402_3298_118.hdr.vtf,76520,76520
+materials/maps/cs_m10_tank_001/c5274_3298_118.hdr.vtf,76520,76520
+materials/maps/cs_m10_tank_001/c5964_2986_118.hdr.vtf,76520,76520
+materials/maps/cs_m10_tank_001/c5964_1090_118.hdr.vtf,76520,76520
+materials/maps/cs_m10_tank_001/c-486_697_118.hdr.vtf,76520,76520
