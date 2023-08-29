@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/chieftain/glass/combineglass001a_0_1_25.vmt,126,126
+materials/maps/chieftain/vehicle/rubbertrainfloor001a_0_1_25.vmt,132,132
+materials/maps/chieftain/metal/metalwall031a_0_1_25.vmt,123,123
+materials/maps/chieftain/cubemapdefault.vtf,9824,9824
+materials/maps/chieftain/c0_1_25.vtf,4952,4952
+materials/maps/chieftain/cubemapdefault.hdr.vtf,76520,76520
+materials/maps/chieftain/c0_1_25.hdr.vtf,76520,76520
+materials/CHIEFTAINTANK/TANKCAMO.vmt,95,95
+materials/ChieftainTank/TankCamo.vtf,174984,174984
+materials/decals/britishflag.vmt,113,113
+materials/decals/BritishFlag.vtf,349732,349732
+sound/chieftaintank/tankstatic.wav,657474,657474
+maps/soundcache/chieftain.cache,335584,335584

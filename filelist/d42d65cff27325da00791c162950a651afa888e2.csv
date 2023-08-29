@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/dmg_formula/cubemapdefault.vtf,28753,28753
+materials/maps/dmg_formula/cubemapdefault.hdr.vtf,76528,76528
+materials/EIGENE/BOSSFIGHT/HPLEISTE.vmt,247,247
+materials/eigene/bossfight/HPleiste.vtf,3845280,3845280
+materials/EIGENE/BOSSFIGHT/LOW_DMG.vmt,110,110
+materials/eigene/bossfight/low_dmg.vtf,87616,87616
+materials/EIGENE/BOSSFIGHT/MED_DMG.vmt,114,114
+materials/eigene/bossfight/med_dmg.vtf,87616,87616
+materials/EIGENE/BOSSFIGHT/CRIT_DMG.vmt,122,122
+materials/eigene/bossfight/crit_dmg.vtf,87616,87616
