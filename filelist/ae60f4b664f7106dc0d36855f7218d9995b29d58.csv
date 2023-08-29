@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/sky_camera_water/liquids/militiawater_-1536_-2048_56.vmt,162,162
+materials/maps/sky_camera_water/liquids/militiawater_1600_1173_8.vmt,159,159
+materials/maps/sky_camera_water/maps/sky_camera_water/liquids/militiawater_-1536_-2048_56_depth_64.vmt,144,144
+materials/maps/sky_camera_water/maps/sky_camera_water/liquids/militiawater_1600_1173_8_depth_48.vmt,141,141
+materials/maps/sky_camera_water/cubemapdefault.vtf,4960,4960
+materials/maps/sky_camera_water/c-1536_-2048_56.vtf,4960,4960
+materials/maps/sky_camera_water/c1600_1173_8.vtf,4960,4960
+materials/maps/sky_camera_water/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/sky_camera_water/c-1536_-2048_56.hdr.vtf,76528,76528
+materials/maps/sky_camera_water/c1600_1173_8.hdr.vtf,76528,76528

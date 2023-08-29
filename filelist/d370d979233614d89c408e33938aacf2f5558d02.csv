@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/surf_radiance/custom/combineglas001ayellow_14632_14062_14842.vmt,147,147
+materials/maps/surf_radiance/custom/combineglas001ayellow_14632_14955_14842.vmt,147,147
+materials/maps/surf_radiance/tile/tilefloor021a_14632_14062_14842.vmt,137,137
+materials/maps/surf_radiance/nature/sewer_water001_14632_14062_14842.vmt,163,163
+materials/maps/surf_radiance/nature/sewer_water001_14632_14955_14842.vmt,163,163
+materials/maps/surf_radiance/glass/combineglass001a_14632_14955_14842.vmt,141,141
+materials/maps/surf_radiance/glass/combineglass001a_14632_14062_14842.vmt,141,141
+materials/maps/surf_radiance/tile/tilefloor021a_14632_14955_14842.vmt,137,137
+materials/maps/surf_radiance/concrete/concretefloor005a_14632_14955_14842.vmt,145,145
+materials/maps/surf_radiance/concrete/concretefloor005a_14632_14062_14842.vmt,145,145
+materials/maps/surf_radiance/concrete/concretefloor033a_14632_14062_14842.vmt,145,145
+materials/maps/surf_radiance/maps/surf_radiance/nature/sewer_water001_14632_14062_14842_depth_13.vmt,145,145
+materials/maps/surf_radiance/maps/surf_radiance/nature/sewer_water001_14632_14062_14842_depth_6.vmt,144,144
+materials/maps/surf_radiance/cubemapdefault.vtf,4952,4952
+materials/maps/surf_radiance/c14632_14062_14842.vtf,4952,4952
+materials/maps/surf_radiance/c14632_14955_14842.vtf,4952,4952

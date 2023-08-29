@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/king_of_the_hill_prefab/cubemapdefault.vtf,28753,28753
+materials/maps/king_of_the_hill_prefab/cubemapdefault.hdr.vtf,76528,76528
+materials/CUSTOMDEV/DEV_MEASUREGENERIC01RED.vmt,168,168
+materials/customdev/dev_measuregeneric01red.vtf,11144,11144
+materials/CUSTOMDEV/DEV_MEASUREGENERIC01BLU.vmt,168,168
+materials/customdev/dev_measuregeneric01blu.vtf,11144,11144
+sound/king_of_the_hill/ct_enable_new.wav,458620,458620
+sound/king_of_the_hill/t_enable_new.wav,354544,354544
+sound/king_of_the_hill/ct_win.wav,442744,442744
+sound/king_of_the_hill/t_win.wav,372184,372184
