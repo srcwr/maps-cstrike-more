@@ -52,7 +52,7 @@ for filename in glob.iglob("../hashed/*.bsp"):
         try:
             files = bsp.PAKFILE.infolist()
         except:
-            print("error")
+            print("  error")
             with open("ignore_pak.csv", "a") as f:
                 f.write(f"{maphash},error (no infolist)\n")
             continue
