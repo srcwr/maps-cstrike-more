@@ -1,0 +1,814 @@
+filename,size,compressed
+materials/maps/ze_forbidden_tomb_a6_fix/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_1118_1134_63.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_1118_1134_63.vmt,152,152
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001a_1118_1134_63.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-112_1136_63.vmt,152,152
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalpipe009a_1118_1134_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_1118_1134_63.vmt,152,152
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_1118_1134_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_1118_1134_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_-112_1136_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/dev/dev_water5_-579_1135_-1956.vmt,165,165
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-595_663_63.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_120_2360_-231.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-2292_488_-538.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-2032_1270_345.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_1118_1134_63.vmt,152,152
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-579_1135_-1459.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001a_-112_1136_63.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_-595_663_63.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_-2032_1270_345.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001a_-595_663_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-112_1136_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-112_1136_63.vmt,152,152
+materials/maps/ze_forbidden_tomb_a6_fix/nature/rockwall015a_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/nature/rockwall015a_-1888_464_-442.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-1888_464_-442.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/nature/rockwall015a_-2809_207_-639.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/nature/rockwall015a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_-112_1136_63.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_120_2360_-231.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor028c_c17_-112_1136_63.vmt,194,194
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor028c_c17_-2032_1270_345.vmt,196,196
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001a_-2032_1270_345.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-1091_2363_-231.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-1592_2428_-423.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001d_-2809_207_-639.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001d_-2292_488_-538.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001d_-1888_464_-442.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-2292_488_-538.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/dev/dev_water2_-2809_207_-639.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/dev/dev_water2_-2292_488_-538.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/dev/dev_water2_-1888_464_-442.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-2809_207_-639.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-2802_1135_-1956.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/nature/rockwall015a_-2802_1135_-1956.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-1640_1200_-1491.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_-1640_1200_-1491.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-2809_207_-639.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/nature/water_canals_city_-1640_1200_-1491.vmt,176,176
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_1118_1134_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001a_-579_1135_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001a_-1091_2363_-231.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001a_120_2360_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_e_base_-5771_283_-166.vmt,167,167
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall_sup_center2_-5904_192_-752.vmt,167,167
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor3_-5771_283_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-5333_869_-1879.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall_sup_center2_-5771_283_-166.vmt,167,167
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall6_-5704_-772_-166.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-5771_283_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor9_-2032_1270_345.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_confloor1_-2032_1270_345.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-4824_-1733_-166.vmt,167,167
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-5771_283_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall6_-5771_283_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_confloor1_-5333_869_-1879.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-5904_192_-752.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor9_-5904_192_-752.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall_sup_center2_-5704_-772_-166.vmt,168,168
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_tilefloor016a_cheap_-3475_-2409_-958.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_tilefloor016a_cheap_-3972_-1720_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_tilefloor016a_cheap_-3475_-1449_-718.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_tilefloor016a_cheap_-3469_-2219_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-3475_-2409_-958.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_-3469_-2219_-166.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_-3972_-1720_-166.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalcombine001_-3475_-2409_-958.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_-3475_-2409_-958.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-3972_-1720_-166.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-2809_207_-639.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_120_2360_-231.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-3475_-1449_-718.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/nature/rockwall015a_-3475_-2409_-958.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_-2292_488_-538.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_-3475_-1449_-718.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_cheap_-3475_-2409_-958.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof005a_-3475_-2409_-958.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-3469_-2219_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-3475_-2409_-958.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof005a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-3475_-2409_-958.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalcombine001_-3475_-1449_-718.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof005a_-3972_-1720_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001a_-3475_-2409_-958.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-3972_-1720_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-4824_-1733_-166.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001a_120_2360_-231.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-3475_-1449_-718.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-2809_207_-639.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-3475_-1734_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-5704_-772_-166.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-2292_488_-538.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-3475_-1449_-718.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_cheap_-2809_207_-639.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_cheap_-3475_-1449_-718.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_tilefloor016a_-3475_-1449_-718.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof005a_-3469_-2219_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof005a_-3475_-1449_-718.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-2809_207_-639.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_vent1_-3475_-1449_-718.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof005a_-2809_207_-639.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_cheap_-3475_-1734_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-3475_-1449_-718.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-3475_-1734_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-2292_488_-538.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-3475_-2409_-958.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-3469_-2219_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-3475_-2409_-958.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_120_2360_-231.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-4824_-1733_-166.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-2809_207_-639.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_120_2360_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-3475_-2409_-958.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-3469_-2219_-166.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-3475_-2409_-958.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-3972_-1720_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/nature/water_canals_city_-3475_-1449_-718.vmt,176,176
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-3972_-1720_-166.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-3475_-1449_-718.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-3475_-1734_-166.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-3972_-1720_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_innerp1_-3475_-1449_-718.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_innerp1_-2809_207_-639.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/dev/dev_water5_-2802_1135_-1956.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/dev/dev_water5_-5333_869_-1879.vmt,165,165
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_e_base_-6082_506_-1295.vmt,168,168
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_e_base_-5904_192_-752.vmt,167,167
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_e_base_-5941_100_-1879.vmt,168,168
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor9_-5941_100_-1879.vmt,163,163
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_confloor1_-5904_192_-752.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_confloor1_-5941_100_-1879.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_confloor1_-6082_506_-1295.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-1592_2428_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-2058_2374_-745.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-2058_2374_-745.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/nature/mudfloor005a_-2058_2374_-745.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor3_-5704_-772_-166.vmt,163,163
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-5704_-772_-166.vmt,163,163
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-5704_-772_-166.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-5704_-772_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor9_-5704_-772_-166.vmt,163,163
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-4824_-1733_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor3_-4824_-1733_-166.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-3972_-1720_-166.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-4824_-1733_-166.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-4824_-1733_-166.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-5704_-772_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-3972_-1720_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor3_-3972_-1720_-166.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p9_-4824_-1733_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p9_-3972_-1720_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-3972_-1720_-166.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor3_-3475_-1734_-166.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/metal/prodventa_-3972_-1720_-166.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-2809_207_-639.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/prodventa_-3475_-1734_-166.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-3475_-1734_-166.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-3475_-1449_-718.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-3469_-2219_-166.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-3469_-2219_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor3_-3469_-2219_-166.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-3475_-1449_-718.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-3475_-1734_-166.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-2809_207_-639.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-3475_-1449_-718.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_e_base_-3475_-1449_-718.vmt,169,169
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_cheap_120_2360_-231.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_e_base_-2809_207_-639.vmt,167,167
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-1091_2363_-231.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-579_1135_-231.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-1091_2363_-231.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/environment maps/pipemetal004b_-579_1135_-231.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001a_-1592_2428_-423.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001a_-1091_2363_-231.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/dev/dev_water5_1772_160_63.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-595_663_63.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-2032_1270_345.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor028d_-2032_1270_345.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_120_2360_-231.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/effects/combineshield/comshieldwall2_1118_1134_63.vmt,184,184
+materials/maps/ze_forbidden_tomb_a6_fix/effects/combineshield/comshieldwall2_1772_160_63.vmt,183,183
+materials/maps/ze_forbidden_tomb_a6_fix/effects/combineshield/comshieldwall2_1763_-1288_63.vmt,185,185
+materials/maps/ze_forbidden_tomb_a6_fix/effects/combineshield/comshieldwall2_-579_1135_-231.vmt,186,186
+materials/maps/ze_forbidden_tomb_a6_fix/effects/combineshield/comshieldwall2_-2032_1270_345.vmt,186,186
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_1772_160_63.vmt,141,141
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_120_2360_-231.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_1772_160_63.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-579_1135_-1459.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-579_1135_-1956.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_1763_-1288_63.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_1118_1134_63.vmt,142,142
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-2032_1270_345.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall091a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_1772_160_63.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_1763_-1288_63.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/glass/combineglass001a_1772_160_63.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/glass/combineglass001a_-579_1135_-1459.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/glass/combineglass001a_120_2360_-231.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/glass/combineglass001a_-579_1135_-1956.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/glass/combineglass001a_1118_1134_63.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_120_2360_-231.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072c_-579_1135_-231.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-579_1135_-231.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-2032_1270_345.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001a_1118_1134_63.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_1118_1134_63.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-579_1135_-231.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-112_1136_63.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_120_2360_-231.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-2292_488_-538.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-1644_1267_-423.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-2058_2374_-745.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-579_1135_-1459.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-112_1136_63.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-1640_1200_-1491.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-595_663_63.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-1091_2363_-231.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_-2809_207_-639.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_-579_1135_-1459.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_-1091_2363_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall091a_-2809_207_-639.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall091a_-579_1135_-1459.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall091a_-595_663_63.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_-579_1135_-1459.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_-112_1136_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-579_1135_-1459.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall071a_-595_663_63.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall071a_-112_1136_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-1888_464_-442.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-595_663_63.vmt,141,141
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall071a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall071a_-579_1135_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-579_1135_-231.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall071a_-1888_464_-442.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_-1640_1200_-1491.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall071a_-1091_2363_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-1091_2363_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_-1888_464_-442.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_-2058_2374_-745.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall071a_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-1640_1200_-1491.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-112_1136_63.vmt,142,142
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_-595_663_63.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall091a_-1091_2363_-231.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall091a_-1640_1200_-1491.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nuke_metaldoor_01_-1640_1200_-1491.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nuke_metaldoor_01_-579_1135_-1459.vmt,153,153
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_-579_1135_-1459.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_-579_1135_-1956.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_-579_1135_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_-595_663_63.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_-112_1136_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof006a_-1888_464_-442.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall071a_1118_1134_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-1592_2428_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-595_663_63.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-2032_1270_345.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_-1888_464_-442.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-1091_2363_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_-1592_2428_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_-1091_2363_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-1640_1200_-1491.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-579_1135_-1956.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-1888_464_-442.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-1640_1200_-1491.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-579_1135_-1956.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-1888_464_-442.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-579_1135_-1459.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-579_1135_-1459.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-112_1136_63.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-595_663_63.vmt,142,142
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-112_1136_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-595_663_63.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_120_2360_-231.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall076a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall076a_-1888_464_-442.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall076a_-2032_1270_345.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall076a_-595_663_63.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_-2292_488_-538.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_-1888_464_-442.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/props/metalfridge001a_-1888_464_-442.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/props/metalfridge001a_-595_663_63.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/props/metalfridge001a_120_2360_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/props/metalfridge001a_-579_1135_-231.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/glass/combineglass001a_1763_-1288_63.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_1118_1134_63.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_1772_160_63.vmt,142,142
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-595_663_63.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-579_1135_-1956.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall101a_-112_1136_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall101a_1118_1134_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall101a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall101a_-579_1135_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall101a_-1091_2363_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall101a_-2032_1270_345.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall076a_-112_1136_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall076a_-2809_207_-639.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall076a_-579_1135_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_-579_1135_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_-2032_1270_345.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001a_-2809_207_-639.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001b_-2058_2374_-745.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001b_-2292_488_-538.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001b_-2032_1270_345.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_-1888_464_-442.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/tile/tilefloor020a_cheap_-595_663_63.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/watersource/river/river_clear_-2809_207_-639.vmt,179,179
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-1644_1267_-423.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-1888_464_-442.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/watersource/river/river_clear_-3475_-1449_-718.vmt,181,181
+materials/maps/ze_forbidden_tomb_a6_fix/watersource/river/river_clear_-2058_2374_-745.vmt,180,180
+materials/maps/ze_forbidden_tomb_a6_fix/watersource/river/river_clear_-2802_1135_-1956.vmt,181,181
+materials/maps/ze_forbidden_tomb_a6_fix/watersource/river/river_clear_-579_1135_-1459.vmt,180,180
+materials/maps/ze_forbidden_tomb_a6_fix/watersource/river/river_clear_-1644_1267_-423.vmt,180,180
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-1888_464_-442.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-1644_1267_-423.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/watersource/river/river_brown_2_-1640_1200_-1491.vmt,183,183
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall033a_-579_1135_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-579_1135_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall_sup_center2_120_2360_-231.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-5333_869_-1879.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-5704_-772_-166.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-4824_-1733_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-5904_192_-752.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_120_2360_-231.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-6082_506_-1295.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-5333_869_-1879.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-2802_1135_-1956.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-2058_2374_-745.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-5771_283_-166.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-5941_100_-1879.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_-5704_-772_-166.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_-5771_283_-166.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_-3972_-1720_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_120_2360_-231.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_-5904_192_-752.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_-6082_506_-1295.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_-2032_1270_345.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_-5333_869_-1879.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_-4824_-1733_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_d_-2802_1135_-1956.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-5771_283_-166.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-2032_1270_345.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-4824_-1733_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-5904_192_-752.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p9_-5771_283_-166.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-6082_506_-1295.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-5333_869_-1879.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow007a_-5704_-772_-166.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow007a_-2809_207_-639.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow007a_-5771_283_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-5704_-772_-166.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-5704_-772_-166.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-5333_869_-1879.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-5771_283_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-5771_283_-166.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_inner_window1_-5771_283_-166.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_inner_window1_-5704_-772_-166.vmt,165,165
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_inner_window1a_-5771_283_-166.vmt,165,165
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_inner_window1a_120_2360_-231.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_inner_window1a_-5704_-772_-166.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_inner_window1_-4824_-1733_-166.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_inner_window1a_-4824_-1733_-166.vmt,167,167
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall6_120_2360_-231.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor011a_c17_120_2360_-231.vmt,195,195
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor011a_c17_-5771_283_-166.vmt,196,196
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor011a_c17_-2032_1270_345.vmt,196,196
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor011a_c17_-5704_-772_-166.vmt,197,197
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor011a_c17_-5333_869_-1879.vmt,197,197
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor011a_c17_-2802_1135_-1956.vmt,198,198
+materials/maps/ze_forbidden_tomb_a6_fix/concrete/concretefloor011a_c17_-6082_506_-1295.vmt,197,197
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor3_-2032_1270_345.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-5771_283_-166.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_vent1_-5704_-772_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_vent1_-5771_283_-166.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_vent1_-5904_192_-752.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_vent1_-4824_-1733_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-5904_192_-752.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall_sup_center2_-4824_-1733_-166.vmt,169,169
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-3469_-2219_-166.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-5941_100_-1879.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-2802_1135_-1956.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-3475_-1449_-718.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-2809_207_-639.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-3475_-1734_-166.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall077a_-3475_-2409_-958.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall077a_-3475_-1734_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-3475_-2409_-958.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall077a_120_2360_-231.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-3475_-1734_-166.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-2809_207_-639.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall077a_-2809_207_-639.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-3469_-2219_-166.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001a_-3972_-1720_-166.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001a_-2809_207_-639.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001d_-3475_-2409_-958.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001d_-3475_-1734_-166.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall077a_-3972_-1720_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall077a_-3475_-1449_-718.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-3972_-1720_-166.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalceiling005a_-4824_-1733_-166.vmt,151,151
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-3972_-1720_-166.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall077a_-4824_-1733_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-5704_-772_-166.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-4824_-1733_-166.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/cs_italy/cobble06_-3972_-1720_-166.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/cs_italy/cobble06_-3475_-2409_-958.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/cs_italy/cobble06_-5941_100_-1879.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/cs_italy/cobble06_-3469_-2219_-166.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall048a_-4824_-1733_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-3475_-1449_-718.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001b_-3475_-1449_-718.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_cheap_-3469_-2219_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalroof005a_-3475_-1734_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalfloor001b_-2809_207_-639.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-3475_-1449_-718.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-3475_-1734_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-2809_207_-639.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_120_2360_-231.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-3972_-1720_-166.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall_sup_center2_-3972_-1720_-166.vmt,169,169
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall_sup_center2_-2809_207_-639.vmt,167,167
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall_sup_center2_-3475_-1449_-718.vmt,169,169
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-3475_-1449_-718.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall076a_-1091_2363_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall076a_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-5771_283_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-2292_488_-538.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-5333_869_-1879.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-5704_-772_-166.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-3475_-1449_-718.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-5904_192_-752.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-5771_283_-166.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-2809_207_-639.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-5941_100_-1879.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-3972_-1720_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-2292_488_-538.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-6082_506_-1295.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-2802_1135_-1956.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-3972_-1720_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-2809_207_-639.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-3475_-1734_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-5333_869_-1879.vmt,163,163
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor9_-5333_869_-1879.vmt,163,163
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-5941_100_-1879.vmt,163,163
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p2_-5941_100_-1879.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_confloor1_120_2360_-231.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-2802_1135_-1956.vmt,167,167
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-2058_2374_-745.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-6082_506_-1295.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-5941_100_-1879.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-5704_-772_-166.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-6082_506_-1295.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-5771_283_-166.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-5904_192_-752.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-5333_869_-1879.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-5941_100_-1879.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-2802_1135_-1956.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall077a_-5704_-772_-166.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-5941_100_-1879.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_120_2360_-231.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-6082_506_-1295.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_confloor1_-2802_1135_-1956.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-5904_192_-752.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/realworldtextures2/metal/metal_164_-5941_100_-1879.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/realworldtextures2/metal/metal_164_-5904_192_-752.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-1091_2363_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/de_nuke/nukslidea_-1592_2428_-423.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-1592_2428_-423.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_confloor1_-1592_2428_-423.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-1644_1267_-423.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-1644_1267_-423.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-1592_2428_-423.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-1091_2363_-231.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-1091_2363_-231.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p15_base_-2069_3153_-483.vmt,166,166
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_pillar_e_-2069_3153_-483.vmt,160,160
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_confloor1_-2069_3153_-483.vmt,161,161
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-2802_1135_-1956.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-1644_1267_-423.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-2069_3153_-483.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_-1592_2428_-423.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall1_120_2360_-231.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-1592_2428_-423.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-1644_1267_-423.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-1091_2363_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-1592_2428_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-1644_1267_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-2058_2374_-745.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-1091_2363_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-2069_3153_-483.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072b_-2069_3153_-483.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall056a_-2069_3153_-483.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-2058_2374_-745.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_-2032_1270_345.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalpipe009a_-112_1136_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/glass/glasswindow070c_-5904_192_-752.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metal_p1a_-4824_-1733_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall091a_-5704_-772_-166.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_120_2360_-231.vmt,155,155
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall091a_-4824_-1733_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall091a_-3972_-1720_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-4824_-1733_-166.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-3475_-1449_-718.vmt,156,156
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall072b_-2032_1270_345.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall091a_-3475_-1734_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall091a_-3469_-2219_-166.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_wall7_-3475_-2409_-958.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-3469_-2219_-166.vmt,164,164
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_metalfloor1_-2032_1270_345.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/vbd/pack 2 remnont/remn_met_trim3_-3475_-1734_-166.vmt,162,162
+materials/maps/ze_forbidden_tomb_a6_fix/environment maps/pipemetal004b_-3972_-1720_-166.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/environment maps/pipemetal004b_-2809_207_-639.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/environment maps/pipemetal004b_-3475_-1449_-718.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/environment maps/pipemetal004b_-3475_-1734_-166.vmt,159,159
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metalwall072a_-1091_2363_-231.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001d_-1091_2363_-231.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001d_120_2360_-231.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001d_-579_1135_-231.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001d_-2069_3153_-483.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-1592_2428_-423.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_1118_1134_63.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-579_1135_-231.vmt,149,149
+materials/maps/ze_forbidden_tomb_a6_fix/vehicle/metaltrain001c_-2069_3153_-483.vmt,150,150
+materials/maps/ze_forbidden_tomb_a6_fix/metal/milmirror001_1763_-1288_63.vmt,144,144
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_-579_1135_-231.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/metal/metaldoor059a_-1592_2428_-423.vmt,147,147
+materials/maps/ze_forbidden_tomb_a6_fix/metal/citadel_metalwall091a_-1888_464_-442.vmt,154,154
+materials/maps/ze_forbidden_tomb_a6_fix/maps/ze_forbidden_tomb_a6_fix/nature/water_canals_city_-3475_-1449_-718_depth_21.vmt,158,158
+materials/maps/ze_forbidden_tomb_a6_fix/maps/ze_forbidden_tomb_a6_fix/dev/dev_water5_-5333_869_-1879_depth_124.vmt,148,148
+materials/maps/ze_forbidden_tomb_a6_fix/maps/ze_forbidden_tomb_a6_fix/dev/dev_water2_-2809_207_-639_depth_13.vmt,146,146
+materials/maps/ze_forbidden_tomb_a6_fix/maps/ze_forbidden_tomb_a6_fix/dev/dev_water2_-2292_488_-538_depth_7.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/maps/ze_forbidden_tomb_a6_fix/dev/dev_water2_-1888_464_-442_depth_7.vmt,145,145
+materials/maps/ze_forbidden_tomb_a6_fix/maps/ze_forbidden_tomb_a6_fix/nature/water_canals_city_-1640_1200_-1491_depth_6.vmt,157,157
+materials/maps/ze_forbidden_tomb_a6_fix/maps/ze_forbidden_tomb_a6_fix/dev/dev_water5_1772_160_63_depth_93.vmt,143,143
+materials/maps/ze_forbidden_tomb_a6_fix/c120_2360_-231.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-1091_2363_-231.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-579_1135_-231.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-112_1136_63.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-595_663_63.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c1118_1134_63.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c1772_160_63.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c1763_-1288_63.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-2032_1270_345.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-1644_1267_-423.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-1592_2428_-423.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-2069_3153_-483.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-2058_2374_-745.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-1888_464_-442.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-2292_488_-538.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-2809_207_-639.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-3475_-1449_-718.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-3475_-2409_-958.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-3475_-1734_-166.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-3469_-2219_-166.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-3972_-1720_-166.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-4824_-1733_-166.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-5704_-772_-166.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-5771_283_-166.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-5904_192_-752.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-5941_100_-1879.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-6082_506_-1295.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-5333_869_-1879.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-2802_1135_-1956.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-579_1135_-1956.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-579_1135_-1459.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/c-1640_1200_-1491.hdr.vtf,76536,76536
+materials/maps/ze_forbidden_tomb_a6_fix/cubemapdefault.vtf,9832,9832
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/GIZA/STONE-BLOCKS.vmt,95,95
+materials/GIZA/stone-blocks.vtf,174968,174968
+materials/GIZA/STONE-BLOCK.vmt,94,94
+materials/GIZA/stone-block.vtf,174968,174968
+materials/GIZA/SANDRIPPLE.vmt,89,89
+materials/GIZA/sandripple.vtf,174968,174968
+materials/GIZA/TOMB-GOLD.vmt,92,92
+materials/GIZA/tomb-gold.vtf,174968,174968
+materials/GIZA/EGYPTWALL1.vmt,65,65
+materials/GIZA/EgyptWall1.vtf,174984,174984
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/maps/ZM_GD_HEADQUARTER_V1/VEHICLE/METALTRAIN001D_3225_-2426_-332.vmt,146,146
+materials/TOOLS/TOOLSINVISIBLE.vmt,304,304
+materials/TOOLS/toolsinvisible.vtf,5680,5680
+materials/VBD/PACK 2 REMNONT/REMN_LIGHT2.vmt,144,144
+materials/VBD/PACK 2 REMNONT/remn_light2.vtf,22144,22144
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/GIZA/TOMB-GLYPHS.vmt,94,94
+materials/GIZA/tomb-glyphs.vtf,174968,174968
+materials/METAL/METALFLOOR003A_BLACK.vmt,74,74
+materials/METAL/metalfloor003a_black.vtf,349760,349760
+materials/WATERSOURCE/WATERFALL/WATERFALLFULL_512_CLEAR.vmt,263,263
+materials/WATERSOURCE/WATERFALL/WaterfallFULL_512_CLEAR.vtf,349760,349760
+materials/WATERSOURCE/RIVER/FOAM.vmt,252,252
+materials/WATERSOURCE/RIVER/foam.vtf,1398336,1398336
+materials/LOTR/TRAINYARD_METALWALL06.vmt,192,192
+materials/skybox/mms_sky03up.vmt,88,88
+materials/skybox/mms_sky03up.vtf,174984,174984
+materials/skybox/mms_sky03dn.vmt,88,88
+materials/skybox/mms_sky03dn.vtf,174984,174984
+materials/skybox/mms_sky03lf.vmt,88,88
+materials/skybox/mms_sky03lf.vtf,174984,174984
+materials/skybox/mms_sky03rt.vmt,88,88
+materials/skybox/mms_sky03rt.vtf,174984,174984
+materials/skybox/mms_sky03ft.vmt,88,88
+materials/skybox/mms_sky03ft.vtf,174984,174984
+materials/skybox/mms_sky03bk.vmt,88,88
+materials/skybox/mms_sky03bk.vtf,174984,174984
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,349744,349744
+sound/my sounds/mw2_nuke.wav,2888168,2888168
+models/characters/quadralex/quadralex.mdl,36212,36212
+models/characters/quadralex/quadralex.vvd,209536,209536
+models/characters/quadralex/quadralex.dx90.vtx,59632,59632
+models/characters/quadralex/quadralex.dx80.vtx,61263,61263
+models/characters/quadralex/quadralex.sw.vtx,59224,59224
+models/characters/quadralex/quadralex.phy,30832,30832
+materials/models/characters/Quadralex/quadralex_body.vmt,340,340
+materials/models/characters/Quadralex/quadralex_body.vtf,699256,699256
+materials/models/characters/Quadralex/quadralex_body_normal.vtf,1398320,1398320
+models/cihan_helicopter.mdl,7660,7660
+models/cihan_helicopter.vvd,657920,657920
+models/cihan_helicopter.dx90.vtx,144211,144211
+models/cihan_helicopter.dx80.vtx,144211,144211
+models/cihan_helicopter.sw.vtx,144019,144019
+models/cihan_helicopter.phy,7713,7713
+materials/models/ill_hanger/vehicles/blkhwkm.vmt,82,82
+materials/models/ill_hanger/vehicles/blkhwkm.vtf,699256,699256
+materials/models/ill_hanger/vehicles/blkhwkw.vmt,101,101
+materials/models/ill_hanger/vehicles/blkhwkw.vtf,349744,349744
+materials/models/ill_hanger/vehicles/blkhwkn.vmt,82,82
+materials/models/ill_hanger/vehicles/blkhwkn.vtf,349672,349672
+models/_amstaff_/egypt1/anubis_.mdl,1664,1664
+models/_amstaff_/egypt1/anubis_.vvd,440384,440384
+models/_amstaff_/egypt1/anubis_.dx90.vtx,115482,115482
+models/_amstaff_/egypt1/anubis_.dx80.vtx,115482,115482
+models/_amstaff_/egypt1/anubis_.sw.vtx,115482,115482
+models/_amstaff_/egypt1/anubis_.phy,5653,5653
+materials/models/_AmstaFF_/egypt1/anubis_stand.vmt,263,263
+materials/models/_AmstaFF_/egypt1/anubis_stand.vtf,2796424,2796424
+materials/models/_AmstaFF_/egypt1/anubis_stand1.vmt,264,264
+materials/models/_AmstaFF_/egypt1/anubis_stand1.vtf,699272,699272
+models/props_vehicles/forklift01.mdl,1664,1664
+models/props_vehicles/forklift01.vvd,488800,488800
+models/props_vehicles/forklift01.dx90.vtx,272574,272574
+models/props_vehicles/forklift01.dx80.vtx,272574,272574
+models/props_vehicles/forklift01.sw.vtx,272574,272574
+models/props_vehicles/forklift01.phy,43795,43795
+materials/models/props_vehicles/Forklift01.vmt,630,630
+materials/models/props_vehicles/forklift01.vtf,699272,699272
+materials/models/props_vehicles/forklift01_normal.vtf,1398336,1398336
+materials/detail/bm_rustymetal_detail_01.vtf,174984,174984
+materials/models/props_vehicles/Forklift01_Cables.vmt,85,85
+materials/models/props_vehicles/forklift01_cables.vtf,174968,174968
+materials/dd_atlantis/decals/blood_dragmark1.vmt,111,111
+materials/dd_atlantis/decals/blood_dragmark1.vtf,1048693,1048693
+materials/dd_atlantis/decals/blood_dragmark2.vmt,111,111
+materials/dd_atlantis/decals/blood_dragmark2.vtf,2097297,2097297
+materials/dd_atlantis/decals/blood_dragmark3.vmt,111,111
+materials/dd_atlantis/decals/blood_dragmark3.vtf,262261,262261
+materials/dd_atlantis/decals/blood_dragmark4.vmt,111,111
+materials/dd_atlantis/decals/blood_dragmark4.vtf,131197,131197
+materials/dd_atlantis/decals/blood_dragmark5.vmt,111,111
+materials/dd_atlantis/decals/blood_dragmark5.vtf,262261,262261
+materials/dd_atlantis/decals/blood_dragmark6_small.vmt,117,117
+materials/dd_atlantis/decals/blood_dragmark6_small.vtf,131217,131217
+materials/dd_atlantis/decals/blood_dragmark7.vmt,111,111
+materials/dd_atlantis/decals/blood_dragmark7.vtf,262261,262261
+materials/dd_atlantis/decals/blood_dragmark8.vmt,111,111
+materials/dd_atlantis/decals/blood_dragmark8.vtf,262261,262261
+materials/dd_atlantis/decals/blood_handprint1.vmt,112,112
+materials/dd_atlantis/decals/blood_handprint1.vtf,65743,65743
+materials/dd_atlantis/decals/blood_handprint2.vmt,112,112
+materials/dd_atlantis/decals/blood_handprint2.vtf,65743,65743
+materials/dd_atlantis/decals/bloodpool1.vmt,106,106
+materials/dd_atlantis/decals/bloodpool1.vtf,1048783,1048783
+materials/dd_atlantis/decals/bloodpool2.vmt,106,106
+materials/dd_atlantis/decals/bloodpool2.vtf,1048783,1048783
+materials/dd_atlantis/decals/bloodpool3.vmt,106,106
+materials/dd_atlantis/decals/bloodpool3.vtf,1048783,1048783
+materials/dd_atlantis/decals/bloodsplatter1.vmt,110,110
+materials/dd_atlantis/decals/bloodsplatter1.vtf,65743,65743
+materials/dd_atlantis/decals/bloodsplatter2.vmt,110,110
+materials/dd_atlantis/decals/bloodsplatter2.vtf,2097297,2097297
+materials/dd_atlantis/decals/bloodsplatter3.vmt,110,110
+materials/dd_atlantis/decals/bloodsplatter3.vtf,2097297,2097297
+materials/dd_atlantis/decals/bloodsplatter4.vmt,110,110
+materials/dd_atlantis/decals/bloodsplatter4.vtf,1048783,1048783
+materials/dd_atlantis/decals/bloodsplatter5.vmt,110,110
+materials/dd_atlantis/decals/bloodsplatter5.vtf,1048783,1048783
+materials/dd_atlantis/decals/bloodsplatter6.vmt,110,110
+materials/dd_atlantis/decals/bloodsplatter6.vtf,1048783,1048783
+materials/dd_atlantis/decals/bloodsplatter7.vmt,110,110
+materials/dd_atlantis/decals/bloodsplatter7.vtf,524433,524433
+materials/dd_atlantis/decals/bloodsplatter8.vmt,110,110
+materials/dd_atlantis/decals/bloodsplatter8.vtf,524433,524433
+materials/dd_atlantis/decals/bloodsplatter9.vmt,110,110
+materials/dd_atlantis/decals/bloodsplatter9.vtf,262261,262261
+materials/dd_atlantis/decals/bloodsplatter10.vmt,111,111
+materials/dd_atlantis/decals/bloodsplatter10.vtf,1048693,1048693
+materials/dd_atlantis/decals/bloodsplatter11.vmt,111,111
+materials/dd_atlantis/decals/bloodsplatter11.vtf,1048783,1048783
+materials/dd_atlantis/decals/bloodsplatter12.vmt,111,111
+materials/dd_atlantis/decals/bloodsplatter12.vtf,1048783,1048783
+materials/dd_atlantis/decals/bloodsplatter13.vmt,111,111
+materials/dd_atlantis/decals/bloodsplatter13.vtf,1048783,1048783
+materials/dd_atlantis/decals/bloodsplatter14.vmt,111,111
+materials/dd_atlantis/decals/bloodsplatter14.vtf,2097297,2097297
+materials/dd_atlantis/decals/bloodsplatter15.vmt,111,111
+materials/dd_atlantis/decals/bloodsplatter15.vtf,131197,131197
+materials/dd_atlantis/decals/bloodsplatter16.vmt,111,111
+materials/dd_atlantis/decals/bloodsplatter16.vtf,1048693,1048693
+materials/dd_atlantis/decals/bloodsplatter17.vmt,111,111
+materials/dd_atlantis/decals/bloodsplatter17.vtf,524433,524433
+materials/dd_atlantis/decals/bloodsplatter18.vmt,111,111
+materials/dd_atlantis/decals/bloodsplatter18.vtf,524433,524433
+materials/VBD/PACK 2 REMNONT/remn_confloor1.vmt,323,323
+materials/VBD/PACK 2 REMNONT/remn_confloor1.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_confloor1_normal.vtf,1398308,1398308
+materials/VBD/PACK 2 REMNONT/remn_inner_window1.vmt,351,351
+materials/VBD/PACK 2 REMNONT/remn_inner_window1.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/remn_inner_window1_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/remn_inner_window1a.vmt,333,333
+materials/VBD/PACK 2 REMNONT/remn_inner_window1a.vtf,87544,87544
+materials/VBD/PACK 2 REMNONT/remn_innerP1.vmt,320,320
+materials/VBD/PACK 2 REMNONT/remn_innerP1.vtf,87544,87544
+materials/VBD/PACK 2 REMNONT/remn_innerP1_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/remn_met_trim3.vmt,324,324
+materials/VBD/PACK 2 REMNONT/remn_met_trim3.vtf,22008,22008
+materials/VBD/PACK 2 REMNONT/remn_met_trim3_normal.vtf,43904,43904
+materials/VBD/PACK 2 REMNONT/remn_met_trim7.vmt,324,324
+materials/VBD/PACK 2 REMNONT/remn_met_trim7.vtf,11128,11128
+materials/VBD/PACK 2 REMNONT/remn_met_trim7_normal.vtf,87680,87680
+materials/VBD/PACK 2 REMNONT/remn_met_vent1.vmt,324,324
+materials/VBD/PACK 2 REMNONT/remn_met_vent1.vtf,22008,22008
+materials/VBD/PACK 2 REMNONT/remn_met_vent1_normal.vtf,174976,174976
+materials/VBD/PACK 2 REMNONT/remn_metal_p1_normal.vtf,1398336,1398336
+materials/VBD/PACK 2 REMNONT/remn_metal_p1a.vmt,323,323
+materials/VBD/PACK 2 REMNONT/remn_metal_p1a.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_metal_p2.vmt,322,322
+materials/VBD/PACK 2 REMNONT/remn_metal_p2.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_metal_p2_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/remn_metal_p9.vmt,322,322
+materials/VBD/PACK 2 REMNONT/remn_metal_p9.vtf,87544,87544
+materials/VBD/PACK 2 REMNONT/remn_metal_p9_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/remn_metal_p9b.vmt,324,324
+materials/VBD/PACK 2 REMNONT/remn_metal_p9b.vtf,87544,87544
+materials/VBD/PACK 2 REMNONT/remn_metal_p9b_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/remn_metal_p15_base.vmt,334,334
+materials/VBD/PACK 2 REMNONT/remn_metal_p15_base.vtf,87544,87544
+materials/VBD/PACK 2 REMNONT/remn_metal_p15_base_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/remn_metal_p15_e_base.vmt,338,338
+materials/VBD/PACK 2 REMNONT/remn_metal_p15_e_base.vtf,87544,87544
+materials/VBD/PACK 2 REMNONT/remn_metal_p15_e_base_normal.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/remn_metal_p15_f_base.vmt,338,338
+materials/VBD/PACK 2 REMNONT/remn_metal_p15_f_base.vtf,87544,87544
+materials/VBD/PACK 2 REMNONT/remn_metalfloor1.vmt,328,328
+materials/VBD/PACK 2 REMNONT/remn_metalfloor1.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_metalfloor1_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/remn_metalfloor3.vmt,328,328
+materials/VBD/PACK 2 REMNONT/remn_metalfloor3.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_metalfloor3_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/remn_metalfloor9.vmt,328,328
+materials/VBD/PACK 2 REMNONT/remn_metalfloor9.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_metalfloor9_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/remn_pillar_d.vmt,322,322
+materials/VBD/PACK 2 REMNONT/remn_pillar_d.vtf,22008,22008
+materials/VBD/PACK 2 REMNONT/remn_pillar_d_normal.vtf,43904,43904
+materials/VBD/PACK 2 REMNONT/remn_pillar_e.vmt,322,322
+materials/VBD/PACK 2 REMNONT/remn_pillar_e.vtf,22008,22008
+materials/VBD/PACK 2 REMNONT/remn_pillar_e_normal.vtf,43904,43904
+materials/VBD/PACK 2 REMNONT/remn_wall_sup_center2.vmt,338,338
+materials/VBD/PACK 2 REMNONT/remn_wall_sup_center2.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_wall_sup_center2_normal.vtf,1398336,1398336
+materials/VBD/PACK 2 REMNONT/remn_wall1.vmt,316,316
+materials/VBD/PACK 2 REMNONT/remn_wall1.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_wall1_normal.vtf,1398336,1398336
+materials/VBD/PACK 2 REMNONT/remn_wall6.vmt,316,316
+materials/VBD/PACK 2 REMNONT/remn_wall6.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_wall6_normal.vtf,1398336,1398336
+materials/VBD/PACK 2 REMNONT/remn_wall7.vmt,316,316
+materials/VBD/PACK 2 REMNONT/remn_wall7.vtf,174984,174984
+materials/VBD/PACK 2 REMNONT/remn_wall7_normal.vtf,349760,349760
+materials/VBD/PACK 2 REMNONT/remn_window1.vmt,339,339
+materials/VBD/PACK 2 REMNONT/remn_window1.vtf,174944,174944
+materials/VBD/PACK 2 REMNONT/remn_window1_a.vmt,322,322
+materials/VBD/PACK 2 REMNONT/remn_window1_a.vtf,87544,87544
+materials/VBD/PACK 2 REMNONT/remn_window1_normal.vtf,174944,174944

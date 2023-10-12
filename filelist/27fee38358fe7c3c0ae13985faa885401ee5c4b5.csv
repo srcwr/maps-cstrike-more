@@ -1,0 +1,50 @@
+filename,size,compressed
+materials/maps/surf_smg15kk/soniccolours/sonicconcwall_0_0_0.vmt,132,124
+materials/maps/surf_smg15kk/cubemapdefault.vtf,28753,113
+materials/maps/surf_smg15kk/c0_0_0.vtf,28753,113
+materials/maps/surf_smg15kk/cubemapdefault.hdr.vtf,76528,127
+materials/maps/surf_smg15kk/c0_0_0.hdr.vtf,76528,127
+detail.vbsp,16826,1440
+materials/de_nuke/nuke_ceiling_facility_01.vmt,108,108
+materials/de_nuke/nuke_ceiling_facility_01.vtf,174968,96342
+materials/bql/japan/obsidian.vmt,317,195
+materials/bql/japan/obsidian.vtf,174984,103421
+materials/bql/japan/obsidian_n.vtf,174984,118857
+materials/dev/reflectivity_70b.vmt,136,128
+materials/dev/reflectivity_70b.vtf,888,436
+materials/ai artificial intelligence/rampable/sakurawoodramp.vmt,190,129
+materials/ai artificial intelligence/rampable/cherrylightpanels (2).vtf,2796440,916756
+materials/ai artificial intelligence/rampable/cherrylightpanels (1).vtf,2796440,1184787
+materials/ai artificial intelligence/spines/pinkwoodspine.vmt,184,124
+materials/ai artificial intelligence/spines/paintedwoodspine (2).vtf,699288,395835
+materials/ai artificial intelligence/spines/paintedwoodspine (1).vtf,699288,367915
+materials/soniccolours/sonicconcwall.vmt,198,143
+materials/soniccolours/cte_wall_ks2_wall16_dif.vtf,175000,102756
+materials/soniccolours/cte_wall_ks2_wall16_nrm.vtf,43928,29144
+materials/bql/japan/dirt02.vmt,102,91
+materials/bql/japan/dirt02_d.vtf,174984,93162
+materials/bql/japan/dirt02_n.vtf,349760,308838
+materials/soniccolours/sonicskysancwall7.vmt,198,146
+materials/soniccolours/ssz_rock_km1_wall04_dif.vtf,175000,84440
+materials/soniccolours/ssz_rock_km1_wall01_nrm.vtf,699288,285052
+materials/bql/japan/tadao.vmt,440,259
+materials/bql/japan/tadao_d.vtf,1398336,347093
+materials/bql/japan/tadao_n.vtf,1398336,520117
+materials/ai artificial intelligence/rune/antigravrune.vmt,127,120
+materials/ai artificial intelligence/rune/aztecantigrav1.vtf,5592656,1154011
+materials/lights/white001.vmt,144,130
+materials/lights/white002.vtf,2936,79
+materials/skybox/mr_08bk.vmt,86,90
+materials/skybox/mr_08bk.vtf,4194511,1034989
+materials/skybox/mr_08dn.vmt,82,86
+materials/skybox/mr_08dn.vtf,4194511,379395
+materials/skybox/mr_08ft.vmt,82,86
+materials/skybox/mr_08ft.vtf,4194511,1140261
+materials/skybox/mr_08lf.vmt,82,86
+materials/skybox/mr_08lf.vtf,4194511,1164410
+materials/skybox/mr_08rt.vmt,82,86
+materials/skybox/mr_08rt.vtf,4194511,1010792
+materials/skybox/mr_08up.vmt,84,88
+materials/skybox/mr_08up.vtf,4194511,1428979
+materials/detail/detailsprites.vmt,170,129
+materials/detail/detailsprites.vtf,349792,40284

@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/zm_eh_nuketunnelc_v1/ground/blendsnow_conc_wvt_patch.vmt,91,91
+materials/maps/zm_eh_nuketunnelc_v1/pk02/pk02_floor_cyl01_0_0_0.vmt,135,135
+materials/pk02/pk02_floor_cyl01.vmt,259,259
+materials/pk02/pk02_floor_cyl01_C.vtf,699256,699256
+materials/pk02/pk02_floor_cyl01_N.vtf,1398320,1398320
+materials/pk02/pk02_wall05a.vmt,246,246
+materials/pk02/pk02_wall05a_C.vtf,174968,174968
+materials/pk02/pk02_wall05a_N.vtf,349744,349744
+materials/pk02/pk02_ceiling01.vmt,250,250
+materials/pk02/pk02_ceiling01_C.vtf,174968,174968
+materials/pk02/pk02_ceiling01_N.vtf,349744,349744
+materials/pk02/pk02_floor12b.vmt,252,252
+materials/pk02/pk02_floor12b_C.vtf,43896,43896
+materials/pk02/pk02_floor12_N.vtf,87600,87600

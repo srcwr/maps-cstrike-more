@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/zm_desertprodigy_b3/c0_0_0.hdr.vtf,76528,76528
+materials/maps/zm_desertprodigy_b3/c0_0_0.vtf,28753,28753
+materials/maps/zm_desertprodigy_b3/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_desertprodigy_b3/cubemapdefault.vtf,28753,28753
+materials/maps/zm_desertprodigy_b3/dev/dev_water2_depth_32.vmt,101,101
+materials/maps/zm_desertprodigy_b3/dev/dev_water3_depth_176.vmt,102,102
+materials/maps/zm_desertprodigy_b3/glass/combineglass001a_0_0_0.vmt,135,135
+materials/maps/zm_desertprodigy_b3/metal/citadel_metalwall072c_0_0_0.vmt,140,140
+materials/maps/zm_desertprodigy_b3/metal/citadel_metalwall077a_0_0_0.vmt,140,140
+materials/maps/zm_desertprodigy_b3/metal/citadel_metalwall078a_0_0_0.vmt,140,140
+materials/maps/zm_desertprodigy_b3/metal/citadel_metalwall091a_cheap_0_0_0.vmt,146,146
+materials/overviews/zm_desertprodigy_b3.vmt,166,166
+materials/overviews/zm_desertprodigy_b3.vtf,1398336,1398336
+resource/overviews/zm_desertprodigy_b3.txt,382,382

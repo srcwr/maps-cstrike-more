@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/surf_smg15_xbmann/dev/dev_blendmeasure2_wvt_patch.vmt,135,99
+materials/maps/surf_smg15_xbmann/cubemapdefault.vtf,9832,106
+materials/maps/surf_smg15_xbmann/cubemapdefault.hdr.vtf,76528,127
+detail.vbsp,1013,298
+materials/maps/surf_monotony_combine_test/metal/metalpipe010a_12280_-1712_-8344.vmt,151,144
+materials/maps/surf_monotony_combine_test/c12280_-1712_-8344.vtf,28753,113
+materials/maps/surf_monotony_combine_test/c12280_-1712_-8344.hdr.vtf,76528,1553
+materials/tools/toolsskybox.vmt,277,225
+materials/tools/toolsskybox.vtf,11128,957
+materials/tools/toolstrigger.vmt,285,226
+materials/tools/toolstrigger.vtf,5680,979
+materials/de_train/train_metalceiling_02.vmt,108,104
+materials/de_train/train_metalceiling_02.vtf,174968,113200
+materials/detail/detailsprites.vmt,218,155
+materials/detail/detailsprites.vtf,349792,40284

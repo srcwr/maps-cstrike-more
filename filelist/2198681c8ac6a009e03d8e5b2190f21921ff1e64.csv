@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/zm_ralleshaft/dev/dev_water2_cheap_-442_-1266_-471.vmt,160,160
+materials/maps/zm_ralleshaft/dev/dev_water2_cheap_-398_-2560_-417.vmt,160,160
+materials/maps/zm_ralleshaft/metal/metalfloor001a_-442_-1266_-471.vmt,137,137
+materials/maps/zm_ralleshaft/concrete/concretefloor037b_-442_-1266_-471.vmt,182,182
+materials/maps/zm_ralleshaft/metal/metalfloor001a_-398_-2560_-417.vmt,137,137
+materials/maps/zm_ralleshaft/maps/zm_ralleshaft/dev/dev_water2_cheap_-442_-1266_-471_depth_32.vmt,142,142
+materials/maps/zm_ralleshaft/maps/zm_ralleshaft/dev/dev_water2_cheap_-398_-2560_-417_depth_12.vmt,142,142
+materials/maps/zm_ralleshaft/maps/zm_ralleshaft/dev/dev_water2_cheap_-442_-1266_-471_depth_8.vmt,141,141
+materials/maps/zm_ralleshaft/cubemapdefault.vtf,9832,9832
+materials/maps/zm_ralleshaft/c-442_-1266_-471.vtf,9832,9832
+materials/maps/zm_ralleshaft/c-398_-2560_-417.vtf,9832,9832
+materials/maps/zm_ralleshaft/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_ralleshaft/c-442_-1266_-471.hdr.vtf,76528,76528
+materials/maps/zm_ralleshaft/c-398_-2560_-417.hdr.vtf,76528,76528
+materials/wolfy/eh_1.vmt,110,110
+materials/wolfy/eh_1.vtf,11144,11144

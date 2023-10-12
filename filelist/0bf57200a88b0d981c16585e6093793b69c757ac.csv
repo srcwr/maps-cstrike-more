@@ -1,0 +1,44 @@
+filename,size,compressed
+materials/maps/zm_lila_panic_vg/de_piranesi/marblefloor13_1863_1416_-672.vmt,144,144
+materials/maps/zm_lila_panic_vg/metal/metalroof004a_c17_1863_1416_-672.vmt,181,181
+materials/maps/zm_lila_panic_vg/cs_italy/cobble03_1863_1416_-672.vmt,136,136
+materials/maps/zm_lila_panic_vg/metal/prodventa_1863_1416_-672.vmt,134,134
+materials/maps/zm_lila_panic_vg/brick/offwlld_1863_1416_-672.vmt,132,132
+materials/maps/zm_lila_panic_vg/metal/metalcombine001_1863_1416_-672.vmt,140,140
+materials/maps/zm_lila_panic_vg/metal/citadel_metalwall091a_cheap_1863_1416_-672.vmt,152,152
+materials/maps/zm_lila_panic_vg/glass/glasswindowbreak070b_1863_1416_-672.vmt,114,114
+materials/maps/zm_lila_panic_vg/glass/offwndwb_1863_1416_-672.vmt,220,220
+materials/maps/zm_lila_panic_vg/tile/tilefloor020a_1863_1416_-672.vmt,137,137
+materials/maps/zm_lila_panic_vg/de_piranesi/marblefloor04_1863_1416_-672.vmt,144,144
+materials/maps/zm_lila_panic_vg/plaster/offwllc_1863_1416_-672.vmt,134,134
+materials/maps/zm_lila_panic_vg/glass/glasswindow070c_1863_1416_-672.vmt,140,140
+materials/maps/zm_lila_panic_vg/cs_italy/cobble04_1863_1416_-672.vmt,136,136
+materials/maps/zm_lila_panic_vg/de_piranesi/walltrim01_1863_1416_-672.vmt,141,141
+materials/maps/zm_lila_panic_vg/metal/citadel_tilewall005a_1863_1416_-672.vmt,145,145
+materials/maps/zm_lila_panic_vg/glass/unbreakable_1863_1416_-672.vmt,136,136
+materials/maps/zm_lila_panic_vg/metal/metalwall048a_1863_1416_-672.vmt,138,138
+materials/maps/zm_lila_panic_vg/de_piranesi/woodfloor02_1863_1416_-672.vmt,142,142
+materials/maps/zm_lila_panic_vg/glass/offwndwc_1863_1416_-672.vmt,133,133
+materials/maps/zm_lila_panic_vg/de_piranesi/marblefloor01_1863_1416_-672.vmt,144,144
+materials/maps/zm_lila_panic_vg/glass/combineglass001a_1863_1416_-672.vmt,141,141
+materials/maps/zm_lila_panic_vg/wood/offdesktop_1863_1416_-672.vmt,134,134
+materials/maps/zm_lila_panic_vg/plaster/plasterwall043c_1863_1416_-672.vmt,142,142
+materials/maps/zm_lila_panic_vg/metal/citadel_metalwall078a_1863_1416_-672.vmt,146,146
+materials/maps/zm_lila_panic_vg/de_nuke/nuke_metaldoor_01_1863_1416_-672.vmt,144,144
+materials/maps/zm_lila_panic_vg/metal/citadel_metalwall101b_1863_1416_-672.vmt,146,146
+materials/maps/zm_lila_panic_vg/metal/metalpipe009a_1863_1416_-672.vmt,138,138
+materials/maps/zm_lila_panic_vg/paintball/pb_blue2_1863_1416_-672.vmt,137,137
+materials/maps/zm_lila_panic_vg/paintball/pb_red2_1863_1416_-672.vmt,136,136
+materials/maps/zm_lila_panic_vg/glass/glasswindowbreak070a_1863_1416_-672.vmt,145,145
+materials/maps/zm_lila_panic_vg/cubemapdefault.vtf,28753,28753
+materials/maps/zm_lila_panic_vg/c1863_1416_-672.vtf,28753,28753
+materials/maps/zm_lila_panic_vg/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_lila_panic_vg/c1863_1416_-672.hdr.vtf,76528,76528
+sound/Custom sounds/Combat.wav,5433966,5433966
+sound/Custom sounds/Party1.wav,5129928,5129928
+sound/Custom sounds/Radio1.wav,7156514,7156514
+sound/Custom sounds/Tron1.wav,2196812,2196812
+materials/decals/custom/VGlogo1.vmt,69,69
+materials/decals/custom/VGlogo1.vtf,1398336,1398336
+materials/decals/custom/VGlogo2.vmt,69,69
+materials/decals/custom/VGlogo2.vtf,43904,43904
