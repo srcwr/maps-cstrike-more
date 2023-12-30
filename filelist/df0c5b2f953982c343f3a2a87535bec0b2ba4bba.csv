@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/tech_office_005/ground/blendsnow_conc_wvt_patch.vmt,91,91
+materials/maps/tech_office_005/concrete/blendconcretegravel001a_wvt_patch.vmt,563,563
+materials/maps/tech_office_005/nature/mudfloor005a_536_420_128.vmt,134,134
+materials/maps/tech_office_005/nature/mudfloor005a_1440_360_112.vmt,135,135
+materials/maps/tech_office_005/props/metalduct001a_536_420_128.vmt,134,134
+materials/maps/tech_office_005/glass/glasswindowbreak070b_536_420_128.vmt,114,114
+materials/maps/tech_office_005/glass/offwndwb_536_420_128.vmt,212,212
+materials/maps/tech_office_005/cubemapdefault.vtf,9832,9832
+materials/maps/tech_office_005/c536_420_128.vtf,9832,9832
+materials/maps/tech_office_005/c1440_360_112.vtf,9832,9832
+materials/maps/tech_office_005/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/tech_office_005/c536_420_128.hdr.vtf,76528,76528
+materials/maps/tech_office_005/c1440_360_112.hdr.vtf,76528,76528
