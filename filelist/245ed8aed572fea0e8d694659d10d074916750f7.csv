@@ -1,0 +1,785 @@
+filename,size,compressed
+materials/maps/mg_ibaroutai_rfix3_s/wood/floor03_3391_-439_-1521.vmt,136,136
+materials/maps/mg_ibaroutai_rfix3_s/wood/floor03_2458_-1580_-1785.vmt,137,137
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_3391_-439_-1521.vmt,160,160
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_3428_712_-95.vmt,157,157
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_3367_2913_-183.vmt,159,159
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_2458_-1580_-1785.vmt,161,161
+materials/maps/mg_ibaroutai_rfix3_s/glass/glasswindow007a_2427_-2439_-319.vmt,145,145
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-975_-2412_-327.vmt,160,160
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_2427_-2439_-319.vmt,160,160
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-2271_-2565_-293.vmt,161,161
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-2072_288_-7.vmt,157,157
+materials/maps/mg_ibaroutai_rfix3_s/sath_materials/carpet/sath_carpet01_white_-2072_288_-7.vmt,162,162
+materials/maps/mg_ibaroutai_rfix3_s/sath_materials/carpet/sath_carpet01_white_-975_-2412_-327.vmt,165,165
+materials/maps/mg_ibaroutai_rfix3_s/sath_materials/carpet/sath_carpet01_white_-3068_-433_-237.vmt,165,165
+materials/maps/mg_ibaroutai_rfix3_s/sath_materials/carpet/sath_carpet01_white_-2927_-203_-240.vmt,165,165
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-3068_-433_-237.vmt,160,160
+materials/maps/mg_ibaroutai_rfix3_s/glass/glasswindow007a_-2072_288_-7.vmt,142,142
+materials/maps/mg_ibaroutai_rfix3_s/glass/glasswindow007a_-2927_-203_-240.vmt,145,145
+materials/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-2927_-203_-240.vmt,160,160
+materials/maps/mg_ibaroutai_rfix3_s/metal/metal_ext_11_3367_2913_-183.vmt,141,141
+materials/maps/mg_ibaroutai_rfix3_s/metal/metal_ext_11_-2072_288_-7.vmt,139,139
+materials/maps/mg_ibaroutai_rfix3_s/metal/metal_ext_11_3428_712_-95.vmt,139,139
+materials/maps/mg_ibaroutai_rfix3_s/metal/metal_ext_11_-975_-2412_-327.vmt,142,142
+materials/maps/mg_ibaroutai_rfix3_s/metal/metal_ext_11_-2927_-203_-240.vmt,142,142
+materials/maps/mg_ibaroutai_rfix3_s/metal/metal_ext_11_-2271_-2565_-293.vmt,143,143
+materials/maps/mg_ibaroutai_rfix3_s/sath_materials/plaster/sath_plaster01b_white_-2927_-203_-240.vmt,168,168
+materials/maps/mg_ibaroutai_rfix3_s/sath_materials/plaster/sath_plaster01b_white_3367_2913_-183.vmt,167,167
+materials/maps/mg_ibaroutai_rfix3_s/sath_materials/plaster/sath_plaster01b_white_-2072_288_-7.vmt,165,165
+materials/maps/mg_ibaroutai_rfix3_s/sath_materials/plaster/sath_plaster01b_white_-975_-2412_-327.vmt,168,168
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-3068_-433_-237_depth_15.vmt,142,142
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-2271_-2565_-293_depth_40.vmt,143,143
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-3068_-433_-237_depth_48.vmt,142,142
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-975_-2412_-327_depth_4.vmt,141,141
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-3068_-433_-237_depth_39.vmt,142,142
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_-2072_288_-7_depth_38.vmt,139,139
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_2427_-2439_-319_depth_20.vmt,142,142
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_2458_-1580_-1785_depth_14.vmt,143,143
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_3391_-439_-1521_depth_5.vmt,141,141
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_3428_712_-95_depth_16.vmt,139,139
+materials/maps/mg_ibaroutai_rfix3_s/maps/mg_ibaroutai_rfix3_s/keiz/water_sf_3367_2913_-183_depth_64.vmt,141,141
+materials/maps/mg_ibaroutai_rfix3_s/cubemapdefault.vtf,9832,9832
+materials/maps/mg_ibaroutai_rfix3_s/c3391_-439_-1521.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/c2458_-1580_-1785.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/c3428_712_-95.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/c3367_2913_-183.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/c2427_-2439_-319.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/c-975_-2412_-327.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/c-2271_-2565_-293.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/c-2072_288_-7.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/c-3068_-433_-237.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/c-2927_-203_-240.vtf,4968,4968
+materials/maps/mg_ibaroutai_rfix3_s/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c3391_-439_-1521.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c2458_-1580_-1785.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c3428_712_-95.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c3367_2913_-183.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c2427_-2439_-319.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c-975_-2412_-327.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c-2271_-2565_-293.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c-2072_288_-7.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c-3068_-433_-237.hdr.vtf,76528,76528
+materials/maps/mg_ibaroutai_rfix3_s/c-2927_-203_-240.hdr.vtf,76528,76528
+detail.vbsp,42794,42794
+materials/correction/cc_new.raw,98304,98304
+models/props_junk/garbage_sodacan01a_fullsheet.mdl,1784,1784
+models/props_junk/garbage_sodacan01a_fullsheet.dx80.vtx,3300,3300
+models/props_junk/garbage_sodacan01a_fullsheet.dx90.vtx,3300,3300
+models/props_junk/garbage_sodacan01a_fullsheet.phy,905,905
+models/props_junk/garbage_sodacan01a_fullsheet.vtx,3300,3300
+models/props_junk/garbage_sodacan01a_fullsheet.vvd,13312,13312
+materials/models/props_junk/physics_trash.vmt,92,92
+materials/models/props_junk/physics_trash.vtf,699296,699296
+models/props_junk/garbage_glassbottle003a.mdl,1828,1828
+models/props_junk/garbage_glassbottle003a.dx80.vtx,4216,4216
+models/props_junk/garbage_glassbottle003a.dx90.vtx,4216,4216
+models/props_junk/garbage_glassbottle003a.phy,1155,1155
+models/props_junk/garbage_glassbottle003a.vtx,4200,4200
+models/props_junk/garbage_glassbottle003a.vvd,15616,15616
+models/props_junk/glassbottle01a.mdl,1872,1872
+models/props_junk/glassbottle01a.dx80.vtx,1930,1930
+models/props_junk/glassbottle01a.dx90.vtx,1930,1930
+models/props_junk/glassbottle01a.phy,1624,1624
+models/props_junk/glassbottle01a_chunk01a.mdl,1984,1984
+models/props_junk/glassbottle01a_chunk01a.dx80.vtx,4912,4912
+models/props_junk/glassbottle01a_chunk01a.dx90.vtx,4912,4912
+models/props_junk/glassbottle01a_chunk01a.phy,1285,1285
+models/props_junk/glassbottle01a_chunk01a.sw.vtx,4835,4835
+models/props_junk/glassbottle01a_chunk01a.vvd,16960,16960
+materials/models/props_junk/glassbottle01a.vmt,202,202
+materials/models/props_junk/glassbottle01a.vtf,43856,43856
+materials/models/props_junk/glassbottle01b.vmt,307,307
+materials/models/props_junk/glassbottle01b.vtf,43856,43856
+models/props_junk/glassbottle01a_chunk02a.mdl,1984,1984
+models/props_junk/glassbottle01a_chunk02a.dx80.vtx,2353,2353
+models/props_junk/glassbottle01a_chunk02a.dx90.vtx,2353,2353
+models/props_junk/glassbottle01a_chunk02a.phy,1141,1141
+models/props_junk/glassbottle01a_chunk02a.sw.vtx,2337,2337
+models/props_junk/glassbottle01a_chunk02a.vvd,10560,10560
+models/props_junk/glassbottle01a.sw.vtx,1914,1914
+models/props_junk/glassbottle01a.vvd,7552,7552
+models/props_interiors/painting_portrait01.mdl,3224,3224
+models/props_interiors/painting_portrait01.dx80.vtx,698,698
+models/props_interiors/painting_portrait01.dx90.vtx,698,698
+models/props_interiors/painting_portrait01.phy,699,699
+models/props_interiors/painting_portrait01.vtx,666,666
+models/props_interiors/painting_portrait01.vvd,2112,2112
+materials/models/props_interiors/painting_portrait_a.vmt,166,166
+materials/models/props_interiors/painting_portrait_a.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_a_ref.vtf,2976,2976
+materials/models/props_interiors/poster_backing.vmt,78,78
+materials/models/props_interiors/poster_backing.vtf,22032,22032
+materials/models/props_interiors/painting_portrait_b.vmt,192,192
+materials/models/props_interiors/painting_portrait_b.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_c.vmt,192,192
+materials/models/props_interiors/painting_portrait_c.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_d.vmt,166,166
+materials/models/props_interiors/painting_portrait_d.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_e.vmt,166,166
+materials/models/props_interiors/painting_portrait_e.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_f.vmt,192,192
+materials/models/props_interiors/painting_portrait_f.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_g.vmt,89,89
+materials/models/props_interiors/painting_portrait_g.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_h.vmt,89,89
+materials/models/props_interiors/painting_portrait_h.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_i.vmt,89,89
+materials/models/props_interiors/painting_portrait_i.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_j.vmt,89,89
+materials/models/props_interiors/painting_portrait_j.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_k.vmt,89,89
+materials/models/props_interiors/painting_portrait_k.vtf,43936,43936
+materials/models/props_interiors/painting_portrait_l.vmt,89,89
+materials/models/props_interiors/painting_portrait_l.vtf,43936,43936
+models/props_junk/garbage_glassbottle002a.mdl,1788,1788
+models/props_junk/garbage_glassbottle002a.dx80.vtx,1960,1960
+models/props_junk/garbage_glassbottle002a.dx90.vtx,1960,1960
+models/props_junk/garbage_glassbottle002a.phy,1676,1676
+models/props_junk/garbage_glassbottle002a_chunk01.mdl,1788,1788
+models/props_junk/garbage_glassbottle002a_chunk01.dx80.vtx,2398,2398
+models/props_junk/garbage_glassbottle002a_chunk01.dx90.vtx,2398,2398
+models/props_junk/garbage_glassbottle002a_chunk01.phy,1116,1116
+models/props_junk/garbage_glassbottle002a_chunk01.vvd,11008,11008
+materials/models/props_junk/garbage001a_01.vmt,151,151
+materials/models/props_junk/garbage001a_01.vtf,174968,174968
+models/props_junk/garbage_glassbottle002a_chunk02.mdl,1788,1788
+models/props_junk/garbage_glassbottle002a_chunk02.dx80.vtx,1393,1393
+models/props_junk/garbage_glassbottle002a_chunk02.dx90.vtx,1393,1393
+models/props_junk/garbage_glassbottle002a_chunk02.phy,923,923
+models/props_junk/garbage_glassbottle002a_chunk02.vvd,5696,5696
+models/props_junk/garbage_glassbottle002a.vvd,8448,8448
+models/models/props/hr_vertigo/vertigo_food/vertigo_food.mdl,1872,1872
+models/models/props/hr_vertigo/vertigo_food/vertigo_food.dx80.vtx,12103,12103
+models/models/props/hr_vertigo/vertigo_food/vertigo_food.dx90.vtx,12103,12103
+models/models/props/hr_vertigo/vertigo_food/vertigo_food.phy,2557,2557
+models/models/props/hr_vertigo/vertigo_food/vertigo_food.vvd,48576,48576
+materials/models/props/hr_vertigo/vertigo_food/food_color.vmt,246,246
+materials/models/props/hr_vertigo/vertigo_food/food_color.vtf,175008,175008
+models/props_interiors/trashcankitchen01.mdl,1868,1868
+models/props_interiors/trashcankitchen01.dx80.vtx,17974,17974
+models/props_interiors/trashcankitchen01.dx90.vtx,17974,17974
+models/props_interiors/trashcankitchen01.phy,4249,4249
+models/props_interiors/trashcankitchen01.sw.vtx,17942,17942
+models/props_interiors/trashcankitchen01.vtx,17942,17942
+models/props_interiors/trashcankitchen01.vvd,53184,53184
+materials/models/props_interiors/trashcankitchen01.vmt,190,190
+materials/models/props_interiors/trashcankitchen01.vtf,43936,43936
+materials/models/props_interiors/trashcankitchen01_ref.vtf,11168,11168
+models/props_junk/garbage_milkcarton001a.mdl,1784,1784
+models/props_junk/garbage_milkcarton001a.dx80.vtx,4474,4474
+models/props_junk/garbage_milkcarton001a.dx90.vtx,4474,4474
+models/props_junk/garbage_milkcarton001a.phy,1824,1824
+models/props_junk/garbage_milkcarton001a.vvd,15616,15616
+models/props_asheep/army_mre_unit_food_pack.mdl,1968,1968
+models/props_asheep/army_mre_unit_food_pack.dx80.vtx,4935,4935
+models/props_asheep/army_mre_unit_food_pack.dx90.vtx,4935,4935
+models/props_asheep/army_mre_unit_food_pack.phy,1301,1301
+models/props_asheep/army_mre_unit_food_pack.sw.vtx,4927,4927
+models/props_asheep/army_mre_unit_food_pack.vvd,16064,16064
+materials/models/props_asheep/mre01.vmt,167,167
+materials/models/props_asheep/mre01.vtf,174984,174984
+materials/models/props_asheep/mre_norm.vtf,174984,174984
+materials/models/props_asheep/mre02.vmt,167,167
+materials/models/props_asheep/mre02.vtf,174984,174984
+materials/models/props_asheep/mre03.vmt,167,167
+materials/models/props_asheep/mre03.vtf,174984,174984
+materials/models/props_asheep/mre04.vmt,167,167
+materials/models/props_asheep/mre04.vtf,174984,174984
+models/jeezy/animals/siamese_cat/siamese_cat.mdl,56684,56684
+models/jeezy/animals/siamese_cat/siamese_cat.dx80.vtx,216465,216465
+models/jeezy/animals/siamese_cat/siamese_cat.dx90.vtx,214973,214973
+models/jeezy/animals/siamese_cat/siamese_cat.phy,31552,31552
+models/jeezy/animals/siamese_cat/siamese_cat.sw.vtx,214589,214589
+models/jeezy/animals/siamese_cat/siamese_cat.vvd,1100160,1100160
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv.vmt,137,137
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv.vtf,349760,349760
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin02.vmt,144,144
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin02.vtf,349760,349760
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin03.vmt,144,144
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin03.vtf,349760,349760
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin04.vmt,144,144
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin04.vtf,349760,349760
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin05.vmt,144,144
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin05.vtf,349760,349760
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin06.vmt,144,144
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin06.vtf,349776,349776
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin07.vmt,144,144
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin07.vtf,349776,349776
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin08.vmt,144,144
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin08.vtf,349776,349776
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin09.vmt,144,144
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin09.vtf,349776,349776
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin10.vmt,144,144
+materials/models/jeezy/animals/siamese_cat/siamese_cat_uv_skin10.vtf,349776,349776
+materials/models/jeezy/animals/siamese_cat/collar_uv.vmt,132,132
+materials/models/jeezy/animals/siamese_cat/collar_uv.vtf,1398352,1398352
+materials/models/jeezy/animals/siamese_cat/blackfabric_material.vmt,143,143
+materials/models/jeezy/animals/siamese_cat/blackfabric_material.vtf,22096,22096
+materials/models/jeezy/animals/siamese_cat/platinum_material.vmt,140,140
+materials/models/jeezy/animals/siamese_cat/platinum_material.vtf,22096,22096
+materials/models/jeezy/animals/siamese_cat/bowtie_material.vmt,138,138
+materials/models/jeezy/animals/siamese_cat/bowtie_material.vtf,87632,87632
+materials/models/jeezy/animals/siamese_cat/flower_material.vmt,138,138
+materials/models/jeezy/animals/siamese_cat/flower_material.vtf,87632,87632
+models/props/de_mirage/lamp_ver2.mdl,1788,1788
+models/props/de_mirage/lamp_ver2.dx80.vtx,2404,2404
+models/props/de_mirage/lamp_ver2.dx90.vtx,2404,2404
+models/props/de_mirage/lamp_ver2.phy,977,977
+models/props/de_mirage/lamp_ver2.vvd,10496,10496
+materials/models/props/de_mirage/lamp/lamp_diffuse/lamp_diffuse.vmt,675,675
+materials/models/props/de_mirage/lamp/lamp_diffuse.vtf,349784,349784
+materials/models/props/de_mirage/lamp/lamp_normals.vtf,349784,349784
+materials/models/props/de_mirage/lamp/lamp_exp.vtf,87640,87640
+materials/detail/noise_detail_01.vtf,43936,43936
+models/props/skyppmass/crystal_medium.mdl,2328,2328
+models/props/skyppmass/crystal_medium.dx80.vtx,1309,1309
+models/props/skyppmass/crystal_medium.dx90.vtx,1309,1309
+models/props/skyppmass/crystal_medium.phy,904,904
+models/props/skyppmass/crystal_medium.vvd,5184,5184
+materials/models/props/skyppmass/crystal_purple.vmt,394,394
+materials/models/props/skyppmass/crystal_purple.vtf,1398336,1398336
+materials/models/props/skyppmass/crystal_normal.vtf,1398336,1398336
+materials/models/props/skyppmass/crystal_red.vmt,391,391
+materials/models/props/skyppmass/crystal_red.vtf,1398336,1398336
+models/props/skyppmass/crystal_huge.mdl,2324,2324
+models/props/skyppmass/crystal_huge.dx80.vtx,1309,1309
+models/props/skyppmass/crystal_huge.dx90.vtx,1309,1309
+models/props/skyppmass/crystal_huge.phy,903,903
+models/props/skyppmass/crystal_huge.vvd,5184,5184
+materials/models/props/skyppmass/crystal_cyan.vmt,392,392
+materials/models/props/skyppmass/crystal_cyan.vtf,1398336,1398336
+materials/models/props/skyppmass/crystal_green.vmt,393,393
+materials/models/props/skyppmass/crystal_green.vtf,1398336,1398336
+models/props/skyppmass/crystal_small.mdl,2328,2328
+models/props/skyppmass/crystal_small.dx80.vtx,1309,1309
+models/props/skyppmass/crystal_small.dx90.vtx,1309,1309
+models/props/skyppmass/crystal_small.phy,903,903
+models/props/skyppmass/crystal_small.vvd,5184,5184
+materials/models/props/skyppmass/crystal_blue.vmt,392,392
+materials/models/props/skyppmass/crystal_blue.vtf,1398336,1398336
+models/sath_props/sath_plant02a.mdl,1768,1768
+models/sath_props/sath_plant02a.dx80.vtx,9715,9715
+models/sath_props/sath_plant02a.dx90.vtx,9715,9715
+models/sath_props/sath_plant02a.vvd,43328,43328
+materials/sath_materials/props/sath_plant01_skin0.vmt,371,371
+materials/sath_materials/props/sath_plant01_skin0.vtf,1398336,1398336
+materials/sath_materials/props/sath_plant01_envmask.vtf,699272,699272
+models/mirrors_edge_source/sathor/sath_cubicshelf01a.mdl,1800,1800
+models/mirrors_edge_source/sathor/sath_cubicshelf01a.dx80.vtx,4320,4320
+models/mirrors_edge_source/sathor/sath_cubicshelf01a.dx90.vtx,4320,4320
+models/mirrors_edge_source/sathor/sath_cubicshelf01a.phy,715,715
+models/mirrors_edge_source/sathor/sath_cubicshelf01a.sw.vtx,4320,4320
+models/mirrors_edge_source/sathor/sath_cubicshelf01a.vvd,16128,16128
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01a_yellow.vmt,365,365
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01a_yellow.vtf,22008,22008
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01a_normal.vtf,43872,43872
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01a_white.vmt,415,415
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01a_white.vtf,22008,22008
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01a_green.vmt,421,421
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01a_green.vtf,22008,22008
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01a_orange.vmt,416,416
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01a_orange.vtf,22008,22008
+models/mirrors_edge_source/sathor/sath_cubicshelf01b.mdl,1800,1800
+models/mirrors_edge_source/sathor/sath_cubicshelf01b.dx80.vtx,4311,4311
+models/mirrors_edge_source/sathor/sath_cubicshelf01b.dx90.vtx,4311,4311
+models/mirrors_edge_source/sathor/sath_cubicshelf01b.phy,716,716
+models/mirrors_edge_source/sathor/sath_cubicshelf01b.sw.vtx,4311,4311
+models/mirrors_edge_source/sathor/sath_cubicshelf01b.vvd,16064,16064
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01b_white.vmt,415,415
+materials/mirrors_edge_source/sathor/materials/props/sath_cubicshelf01b_white.vtf,43832,43832
+models/sath_props/sath_chair01.mdl,2044,2044
+models/sath_props/sath_chair01.dx80.vtx,3115,3115
+models/sath_props/sath_chair01.dx90.vtx,3115,3115
+models/sath_props/sath_chair01.phy,4950,4950
+models/sath_props/sath_chair01.vvd,12992,12992
+materials/sath_materials/props/sath_chair01_skin2.vmt,332,332
+materials/sath_materials/props/sath_chair01_skin2.vtf,175000,175000
+models/mirrors_edge_source/sathor/sath_stool01a.mdl,1736,1736
+models/mirrors_edge_source/sathor/sath_stool01a.dx80.vtx,2283,2283
+models/mirrors_edge_source/sathor/sath_stool01a.dx90.vtx,2283,2283
+models/mirrors_edge_source/sathor/sath_stool01a.phy,709,709
+models/mirrors_edge_source/sathor/sath_stool01a.sw.vtx,2283,2283
+models/mirrors_edge_source/sathor/sath_stool01a.vvd,9920,9920
+materials/mirrors_edge_source/sathor/materials/props/sath_stool01a_skin0.vmt,348,348
+materials/mirrors_edge_source/sathor/materials/props/sath_stool01a_skin0.vtf,174984,174984
+materials/mirrors_edge_source/sathor/materials/props/sath_stool01a_skin2.vmt,348,348
+materials/mirrors_edge_source/sathor/materials/props/sath_stool01a_skin2.vtf,174984,174984
+models/props/skyppmass/fireplace.mdl,1756,1756
+models/props/skyppmass/fireplace.dx80.vtx,3976,3976
+models/props/skyppmass/fireplace.dx90.vtx,3976,3976
+models/props/skyppmass/fireplace.phy,4108,4108
+models/props/skyppmass/fireplace.vvd,16000,16000
+materials/models/props/skyppmass/fireplace.vmt,391,391
+materials/models/props/skyppmass/fireplace.vtf,5592640,5592640
+materials/models/props/skyppmass/fireplace_normal.vtf,5592640,5592640
+models/props_interiors/sofa02.mdl,1800,1800
+models/props_interiors/sofa02.dx80.vtx,15933,15933
+models/props_interiors/sofa02.dx90.vtx,15933,15933
+models/props_interiors/sofa02.phy,8430,8430
+models/props_interiors/sofa02.vvd,61632,61632
+materials/models/props_interiors/sofa01.vmt,78,78
+materials/models/props_interiors/sofa01.vtf,175008,175008
+models/sath_props/sath_bush128.mdl,1772,1772
+models/sath_props/sath_bush128.dx80.vtx,4225,4225
+models/sath_props/sath_bush128.dx90.vtx,4225,4225
+models/sath_props/sath_bush128.vvd,20288,20288
+materials/sath_materials/props/urban_trees_branches03_small.vmt,233,233
+materials/sath_materials/props/urban_trees_branches03.vtf,1398352,1398352
+models/props_interiors/sofa_chair02.mdl,1836,1836
+models/props_interiors/sofa_chair02.dx80.vtx,9058,9058
+models/props_interiors/sofa_chair02.dx90.vtx,9058,9058
+models/props_interiors/sofa_chair02.phy,5436,5436
+models/props_interiors/sofa_chair02.vtx,9042,9042
+models/props_interiors/sofa_chair02.vvd,34944,34944
+materials/models/props_interiors/sofa_chair.vmt,74,74
+materials/models/props_interiors/sofa_chair.vtf,175008,175008
+models/props_foliage/tree_pine_extrasmall.mdl,1732,1732
+models/props_foliage/tree_pine_extrasmall.dx80.vtx,21879,21879
+models/props_foliage/tree_pine_extrasmall.dx90.vtx,21879,21879
+models/props_foliage/tree_pine_extrasmall.phy,5880,5880
+models/props_foliage/tree_pine_extrasmall.sw.vtx,21879,21879
+models/props_foliage/tree_pine_extrasmall.vvd,81216,81216
+materials/models/props_foliage/pine_tree_large.vmt,114,114
+materials/models/props_foliage/pine_tree_large.vtf,1398336,1398336
+models/props/skyppmass/axe_trunk.mdl,1756,1756
+models/props/skyppmass/axe_trunk.dx80.vtx,12631,12631
+models/props/skyppmass/axe_trunk.dx90.vtx,12631,12631
+models/props/skyppmass/axe_trunk.phy,2363,2363
+models/props/skyppmass/axe_trunk.vvd,46016,46016
+materials/models/props/skyppmass/axe_trunk.vmt,346,346
+materials/models/props/skyppmass/axe_trunk.vtf,5592640,5592640
+materials/models/props/skyppmass/axe_trunk_normal.vtf,5592640,5592640
+models/props/skyppmass/bench.mdl,1748,1748
+models/props/skyppmass/bench.dx80.vtx,20047,20047
+models/props/skyppmass/bench.dx90.vtx,20047,20047
+models/props/skyppmass/bench.phy,9919,9919
+models/props/skyppmass/bench.vvd,86464,86464
+materials/models/props/skyppmass/bench.vmt,383,383
+materials/models/props/skyppmass/bench.vtf,5592640,5592640
+materials/models/props/skyppmass/bench_normal.vtf,5592640,5592640
+models/props_foliage/tree_deciduous_card_01_skybox.mdl,1736,1736
+models/props_foliage/tree_deciduous_card_01_skybox.dx80.vtx,5551,5551
+models/props_foliage/tree_deciduous_card_01_skybox.dx90.vtx,5551,5551
+models/props_foliage/tree_deciduous_card_01_skybox.vvd,28608,28608
+materials/models/props_foliage/tree_deciduous_cards_01.vmt,206,206
+materials/models/props_foliage/tree_deciduous_cards_01.vtf,699216,699216
+models/effects/urban_puddle_model03a.mdl,1760,1760
+models/effects/urban_puddle_model03a.dx80.vtx,805,805
+models/effects/urban_puddle_model03a.dx90.vtx,805,805
+models/effects/urban_puddle_model03a.phy,624,624
+models/effects/urban_puddle_model03a.sw.vtx,789,789
+models/effects/urban_puddle_model03a.vtx,789,789
+models/effects/urban_puddle_model03a.vvd,3136,3136
+materials/models/effects/urban_puddle01a.vmt,320,320
+materials/models/effects/urban_puddle01a.vtf,349784,349784
+materials/models/effects/urban_puddle01a_normal.vtf,349784,349784
+models/props/cs_militia/logpile2.mdl,1768,1768
+models/props/cs_militia/logpile2.dx80.vtx,182590,182590
+models/props/cs_militia/logpile2.dx90.vtx,182590,182590
+models/props/cs_militia/logpile2.phy,2735,2735
+models/props/cs_militia/logpile2.vtx,182542,182542
+models/props/cs_militia/logpile2.vvd,497792,497792
+materials/models/props/cs_militia/logpile.vmt,77,77
+materials/models/props/de_inferno/logpile.vtf,174968,174968
+models/props_interiors/lamp_table02.mdl,1908,1908
+models/props_interiors/lamp_table02.dx80.vtx,11155,11155
+models/props_interiors/lamp_table02.dx90.vtx,11155,11155
+models/props_interiors/lamp_table02.phy,3171,3171
+models/props_interiors/lamp_table02_gib1.mdl,1724,1724
+models/props_interiors/lamp_table02_gib1.dx80.vtx,8859,8859
+models/props_interiors/lamp_table02_gib1.dx90.vtx,8859,8859
+models/props_interiors/lamp_table02_gib1.phy,4638,4638
+models/props_interiors/lamp_table02_gib1.vtx,8859,8859
+models/props_interiors/lamp_table02_gib1.vvd,34240,34240
+materials/models/props_interiors/lamps_off.vmt,211,211
+materials/models/props_interiors/lamps.vtf,349784,349784
+materials/models/props_interiors/lamps_ref.vtf,43936,43936
+models/props_interiors/lamp_table02_gib2.mdl,1764,1764
+models/props_interiors/lamp_table02_gib2.dx80.vtx,2113,2113
+models/props_interiors/lamp_table02_gib2.dx90.vtx,2113,2113
+models/props_interiors/lamp_table02_gib2.phy,1096,1096
+models/props_interiors/lamp_table02_gib2.vtx,2097,2097
+models/props_interiors/lamp_table02_gib2.vvd,8512,8512
+models/props_interiors/lamp_table02.vtx,11139,11139
+models/props_interiors/lamp_table02.vvd,44224,44224
+models/props_interiors/ac_wallunit.mdl,1772,1772
+models/props_interiors/ac_wallunit.dx80.vtx,6073,6073
+models/props_interiors/ac_wallunit.dx90.vtx,6073,6073
+models/props_interiors/ac_wallunit.phy,808,808
+models/props_interiors/ac_wallunit.vtx,6057,6057
+models/props_interiors/ac_wallunit.vvd,26176,26176
+materials/models/props_interiors/ac_wallunit.vmt,75,75
+materials/models/props_interiors/ac_wallunit.vtf,43936,43936
+models/props/de_inferno/fountain.mdl,1764,1764
+models/props/de_inferno/fountain.dx80.vtx,29389,29389
+models/props/de_inferno/fountain.dx90.vtx,29389,29389
+models/props/de_inferno/fountain.phy,8306,8306
+models/props/de_inferno/fountain.vvd,68352,68352
+materials/models/props/de_inferno/fountain.vmt,78,78
+materials/models/props/de_inferno/fountain.vtf,174968,174968
+models/props/de_vertigo/insulation_wallinsert_64_01.mdl,1824,1824
+models/props/de_vertigo/insulation_wallinsert_64_01.dx80.vtx,1948,1948
+models/props/de_vertigo/insulation_wallinsert_64_01.dx90.vtx,1948,1948
+models/props/de_vertigo/insulation_wallinsert_64_01.phy,3605,3605
+models/props/de_vertigo/insulation_wallinsert_64_01.vvd,7680,7680
+materials/models/props/de_vertigo/fiber_insulation.vmt,124,124
+materials/models/props/de_vertigo/fiber_insulation.vtf,699296,699296
+models/props/de_vertigo/insulation_wallinsert_32_03.mdl,1824,1824
+models/props/de_vertigo/insulation_wallinsert_32_03.dx80.vtx,1465,1465
+models/props/de_vertigo/insulation_wallinsert_32_03.dx90.vtx,1465,1465
+models/props/de_vertigo/insulation_wallinsert_32_03.phy,868,868
+models/props/de_vertigo/insulation_wallinsert_32_03.vvd,5696,5696
+models/props/de_vertigo/insulation_scappiece_03.mdl,1820,1820
+models/props/de_vertigo/insulation_scappiece_03.dx80.vtx,3499,3499
+models/props/de_vertigo/insulation_scappiece_03.dx90.vtx,3499,3499
+models/props/de_vertigo/insulation_scappiece_03.phy,6549,6549
+models/props/de_vertigo/insulation_scappiece_03.vvd,14784,14784
+models/props/de_vertigo/insulation_scappiece_02.mdl,1820,1820
+models/props/de_vertigo/insulation_scappiece_02.dx80.vtx,2221,2221
+models/props/de_vertigo/insulation_scappiece_02.dx90.vtx,2221,2221
+models/props/de_vertigo/insulation_scappiece_02.phy,3477,3477
+models/props/de_vertigo/insulation_scappiece_02.vvd,9024,9024
+models/props/gg_tibet/rock_convexcorner_medium03.mdl,1768,1768
+models/props/gg_tibet/rock_convexcorner_medium03.dx80.vtx,77065,77065
+models/props/gg_tibet/rock_convexcorner_medium03.dx90.vtx,77065,77065
+models/props/gg_tibet/rock_convexcorner_medium03.phy,720,720
+models/props/gg_tibet/rock_convexcorner_medium03.vvd,439360,439360
+materials/gg_tibet/cs_tibet_stone_06a.vmt,98,98
+materials/gg_tibet/cs_tibet_stone_06.vtf,174984,174984
+models/props/gg_tibet/rock_straight_medium01.mdl,1764,1764
+models/props/gg_tibet/rock_straight_medium01.dx80.vtx,21805,21805
+models/props/gg_tibet/rock_straight_medium01.dx90.vtx,21805,21805
+models/props/gg_tibet/rock_straight_medium01.phy,720,720
+models/props/gg_tibet/rock_straight_medium01.vvd,124608,124608
+models/props/gg_tibet/rock_convexcorner_medium01.mdl,1768,1768
+models/props/gg_tibet/rock_convexcorner_medium01.dx80.vtx,71065,71065
+models/props/gg_tibet/rock_convexcorner_medium01.dx90.vtx,71065,71065
+models/props/gg_tibet/rock_convexcorner_medium01.phy,720,720
+models/props/gg_tibet/rock_convexcorner_medium01.vvd,407360,407360
+models/props_junk/garbage_carboard002a.mdl,1668,1668
+models/props_junk/garbage_carboard002a.dx80.vtx,5206,5206
+models/props_junk/garbage_carboard002a.dx90.vtx,5206,5206
+models/props_junk/garbage_carboard002a.phy,525,525
+models/props_junk/garbage_carboard002a.vvd,21568,21568
+materials/models/props_junk/garbage003a_01.vmt,165,165
+materials/models/props_junk/garbage003a_01.vtf,174968,174968
+materials/deathrun_marvelicious/box2_2.vmt,104,104
+materials/deathrun_marvelicious/box2_2.vtf,349688,349688
+materials/deathrun_marvelicious/box2.vmt,102,102
+materials/deathrun_marvelicious/box2.vtf,349688,349688
+materials/deathrun_marvelicious/box2_1.vmt,104,104
+materials/deathrun_marvelicious/box2_1.vtf,349688,349688
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/deathrun_marvelicious/box1.vmt,102,102
+materials/deathrun_marvelicious/box1.vtf,349688,349688
+materials/simpsons/{simpladder.vmt,110,110
+materials/simpsons/{simpladder.vtf,5632,5632
+materials/color/falu red.vmt,65,65
+materials/color/falu red.vtf,11144,11144
+materials/color/seashell.vmt,65,65
+materials/color/seashell.vtf,11144,11144
+materials/crash bandicoot/chinese_wood5.vmt,107,107
+materials/crash bandicoot/chinese_wood5.vtf,1398336,1398336
+materials/color/golden brown.vmt,69,69
+materials/color/golden brown.vtf,11144,11144
+materials/color/tan.vmt,60,60
+materials/color/tan.vtf,11144,11144
+materials/color/black.vmt,62,62
+materials/color/black.vtf,11144,11144
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/crash bandicoot/chinese_floor1.vmt,106,106
+materials/crash bandicoot/chinese_floor1.vtf,349760,349760
+materials/crash bandicoot/egypt_wall4.vmt,99,99
+materials/crash bandicoot/egypt_wall4.vtf,87616,87616
+materials/community_common/woodrail.vmt,101,101
+materials/community_common/woodrail.vtf,349688,349688
+materials/wood/woodsiding_ext_06.vmt,106,106
+materials/wood/woodsiding_ext_06.vtf,175008,175008
+materials/color/olive drab.vmt,67,67
+materials/color/olive drab.vtf,11144,11144
+materials/color/dark cerulean.vmt,70,70
+materials/color/dark cerulean.vtf,11144,11144
+materials/color/burnt orange.vmt,69,69
+materials/color/burnt orange.vtf,11144,11144
+materials/komaokc/lava2.vmt,85,85
+materials/komaokc/lava2.vtf,174984,174984
+materials/tools/toolshint.vmt,324,324
+materials/tools/toolshint.vtf,5680,5680
+materials/tools/toolshint-dx10.vtf,5720,5720
+materials/tools/toolsskip.vmt,326,326
+materials/tools/toolsskip.vtf,5680,5680
+materials/tools/toolsskip-dx10.vtf,5720,5720
+materials/watersource/river/river_flat_01.vmt,307,307
+materials/watersource/river/river_flat_01.vtf,1398336,1398336
+materials/watersource/river/river_flat_nrm.vtf,699272,699272
+materials/dev/dev_cratewood01a.vmt,138,138
+materials/dev/dev_cratewood01a.vtf,11128,11128
+materials/wood/housesiding01.vmt,312,312
+materials/wood/housesiding01.vtf,175008,175008
+materials/wood/housesiding01-ssbump.vtf,175008,175008
+materials/detail/dt_wood2.vtf,11168,11168
+materials/color/alice blue.vmt,67,67
+materials/color/alice blue.vtf,11144,11144
+materials/miamiaminigame/logan.vmt,87,87
+materials/miamiaminigame/logan.vtf,87616,87616
+materials/miamiaminigame/joker.vmt,87,87
+materials/miamiaminigame/joker.vtf,87616,87616
+materials/miamiaminigame/hulk.vmt,86,86
+materials/miamiaminigame/hulk.vtf,87616,87616
+materials/miamiaminigame/superman.vmt,90,90
+materials/miamiaminigame/superman.vtf,87616,87616
+materials/miamiaminigame/ironman.vmt,89,89
+materials/miamiaminigame/ironman.vtf,87616,87616
+materials/miamiaminigame/hellboy.vmt,89,89
+materials/miamiaminigame/hellboy.vtf,87616,87616
+materials/color/deep fuchsia.vmt,69,69
+materials/color/deep fuchsia.vtf,11144,11144
+materials/colour/neon/white_neon.vmt,107,107
+materials/colour/neon/white_neon.vtf,43912,43912
+materials/colour/glass/purpleglass.vmt,119,119
+materials/colour/glass/purpleglass.vtf,2952,2952
+materials/effects/com_shield002a.vmt,443,443
+materials/effects/com_shield002a.vtf,262335,262335
+materials/effects/com_shield004b.vtf,262335,262335
+materials/colour/neon/purple_neon.vmt,108,108
+materials/colour/neon/purple_neon.vtf,43912,43912
+materials/cs_havana/woodm.vmt,117,117
+materials/cs_havana/woodm.vtf,174968,174968
+materials/cs_havana/white.vmt,57,57
+materials/cs_havana/white.vtf,888,888
+materials/cs_italy/black.vmt,62,62
+materials/cs_italy/black.vtf,1584,1584
+materials/color/amber.vmt,62,62
+materials/color/amber.vtf,11144,11144
+materials/color/amethyst.vmt,65,65
+materials/color/amethyst.vtf,11144,11144
+materials/color/deep pink.vmt,67,67
+materials/colour/glass/mossglass.vmt,117,117
+materials/colour/glass/mossglass.vtf,2952,2952
+materials/watersource/waterfall/waterfallfull_1024_clear.vmt,264,264
+materials/watersource/waterfall/waterfallfull_1024_clear.vtf,1398336,1398336
+materials/color/green html.vmt,67,67
+materials/color/green html.vtf,11144,11144
+materials/wood/wood_ext_02.vmt,100,100
+materials/wood/wood_ext_02.vtf,175008,175008
+materials/realworldtextures2/wood/wood_02.vmt,221,221
+materials/realworldtextures2/wood/wood_02.vtf,174984,174984
+materials/buildings/vertigo_insulation_front.vmt,282,282
+materials/buildings/vertigo_insulation_front.vtf,349784,349784
+materials/buildings/vertigo_insulation_front_n.vtf,175008,175008
+materials/wood/houseceiling01.vmt,511,511
+materials/wood/houseceiling01.vtf,175008,175008
+materials/wood/houseceiling01-ssbump.vtf,349784,349784
+materials/detail/dt_wood1.vtf,11168,11168
+materials/metal/metalwall014a_cheap.vmt,328,328
+materials/metal/metalwall014a.vtf,174968,174968
+materials/detail/metal_detail_01.vtf,175008,175008
+materials/metal/metalwall014a_normal.vtf,174968,174968
+materials/komaokc/wood2.vmt,80,80
+materials/komaokc/wood2.vtf,174984,174984
+materials/color/army green.vmt,67,67
+materials/color/army green.vtf,11144,11144
+materials/miamiaminigame/bonus.vmt,87,87
+materials/miamiaminigame/bonus.vtf,87616,87616
+materials/color/goldenrod.vmt,66,66
+materials/color/goldenrod.vtf,11144,11144
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/effects/com_shield004a.vmt,443,443
+materials/tools/toolsinvisible.vmt,354,354
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/tools/toolsinvisible-dx10.vtf,5720,5720
+materials/color/kelly green.vmt,68,68
+materials/color/kelly green.vtf,11144,11144
+materials/colour/glass/lolglass.vmt,116,116
+materials/colour/glass/lolglass.vtf,2952,2952
+materials/color/azure web.vmt,66,66
+materials/color/azure web.vtf,11144,11144
+materials/color/office green.vmt,69,69
+materials/color/office green.vtf,11144,11144
+materials/color/wheat.vmt,62,62
+materials/color/wheat.vtf,11144,11144
+materials/color/sandy brown.vmt,68,68
+materials/color/sandy brown.vtf,11144,11144
+materials/colors_pack/green.vmt,65,65
+materials/colors_pack/green.vtf,11144,11144
+materials/color/steel blue.vmt,67,67
+materials/color/steel blue.vtf,11144,11144
+materials/color/yellow green.vmt,69,69
+materials/color/yellow green.vtf,11144,11144
+materials/color/vermilion.vmt,66,66
+materials/color/vermilion.vtf,11144,11144
+materials/color/royal blue.vmt,67,67
+materials/color/royal blue.vtf,11144,11144
+materials/color/russet.vmt,63,63
+materials/color/russet.vtf,11144,11144
+materials/color/dark spring green.vmt,74,74
+materials/color/dark spring green.vtf,11144,11144
+materials/color/carolina blue.vmt,70,70
+materials/color/carolina blue.vtf,11144,11144
+materials/miamiaminigame/bladecartoon.vmt,94,94
+materials/miamiaminigame/bladecartoon.vtf,87616,87616
+materials/color/lemon chiffon.vmt,70,70
+materials/color/lemon chiffon.vtf,11144,11144
+materials/color/dodger blue.vmt,68,68
+materials/color/dodger blue.vtf,11144,11144
+materials/color/violet.vmt,63,63
+materials/color/violet.vtf,11144,11144
+materials/color/saffron.vmt,64,64
+materials/color/saffron.vtf,11144,11144
+materials/color/pumpkin.vmt,64,64
+materials/color/pumpkin.vtf,11144,11144
+materials/color/persian blue.vmt,69,69
+materials/color/persian blue.vtf,11144,11144
+materials/color/asparagus.vmt,66,66
+materials/color/asparagus.vtf,11144,11144
+materials/color/coral red.vmt,66,66
+materials/color/coral red.vtf,11144,11144
+materials/color/golden yellow.vmt,70,70
+materials/color/golden yellow.vtf,11144,11144
+materials/color/indigo dye.vmt,67,67
+materials/color/indigo dye.vtf,11144,11144
+materials/color/tangerine yellow.vmt,73,73
+materials/color/tangerine yellow.vtf,11144,11144
+materials/colors_pack/orange.vmt,66,66
+materials/colors_pack/orange.vtf,11144,11144
+materials/color/gamboge.vmt,64,64
+materials/color/gamboge.vtf,11144,11144
+materials/color/dark tan.vmt,65,65
+materials/color/dark tan.vtf,11144,11144
+materials/color/cinnamon.vmt,65,65
+materials/color/cinnamon.vtf,11144,11144
+materials/color/crimson.vmt,64,64
+materials/color/crimson.vtf,11144,11144
+materials/color/orange peel.vmt,68,68
+materials/color/orange peel.vtf,11144,11144
+materials/color/shamrock green.vmt,71,71
+materials/color/shamrock green.vtf,11144,11144
+materials/effects/combine_binocoverlay.vmt,135,135
+materials/effects/combine_binocoverlay.vtf,1048767,1048767
+materials/color/orange red.vmt,67,67
+materials/color/orange red.vtf,11144,11144
+materials/color/pale carmine.vmt,69,69
+materials/color/pale carmine.vtf,11144,11144
+materials/color/olive.vmt,62,62
+materials/color/olive.vtf,11144,11144
+materials/color/lime green.vmt,67,67
+materials/color/lime green.vtf,11144,11144
+materials/color/maroon.vmt,63,63
+materials/color/maroon.vtf,11144,11144
+materials/color/carmine.vmt,64,64
+materials/color/carmine.vtf,11144,11144
+materials/color/white.vmt,62,62
+materials/color/white.vtf,11144,11144
+materials/color/blaze orange.vmt,69,69
+materials/color/blaze orange.vtf,11144,11144
+materials/color/persian red.vmt,68,68
+materials/color/persian red.vtf,11144,11144
+materials/wood/woodwall005a.vmt,167,167
+materials/wood/woodwall005a.vtf,174968,174968
+materials/colour/glass/orangeglass.vmt,119,119
+materials/colour/glass/orangeglass.vtf,2952,2952
+materials/de_dust/door011.vmt,180,180
+materials/de_dust/door011.vtf,174968,174968
+materials/wood/plywood01.vmt,181,181
+materials/wood/plywood01.vtf,175008,175008
+materials/wood/woodbeam001.vmt,95,95
+materials/wood/woodbeam001.vtf,175008,175008
+materials/wood/woodfloor005a.vmt,119,119
+materials/wood/woodfloor005a.vtf,174968,174968
+materials/wood/wood_int_08.vmt,96,96
+materials/wood/wood_int_08.vtf,175008,175008
+materials/metal/metal_ext_04.vmt,99,99
+materials/metal/metal_ext_04.vtf,175008,175008
+materials/metal/metal_ext_03.vmt,99,99
+materials/metal/metal_ext_03.vtf,175008,175008
+materials/wood/milwall016.vmt,93,93
+materials/wood/milwall016.vtf,349688,349688
+materials/wood/boardwalks01.vmt,105,105
+materials/wood/boardwalks01.vtf,175008,175008
+materials/color/alizarin.vmt,65,65
+materials/color/alizarin.vtf,11144,11144
+materials/sath_materials/gravel/sath_gravel01.vmt,121,121
+materials/sath_materials/gravel/sath_gravel01.vtf,175000,175000
+materials/color/azure color wheel.vmt,74,74
+materials/color/azure color wheel.vtf,11144,11144
+materials/color/selective yellow.vmt,73,73
+materials/color/selective yellow.vtf,11144,11144
+materials/color/tyrian purple.vmt,70,70
+materials/color/tyrian purple.vtf,11144,11144
+materials/color/mustard.vmt,64,64
+materials/color/mustard.vtf,11144,11144
+materials/color/medium blue.vmt,68,68
+materials/color/medium blue.vtf,11144,11144
+materials/dev/dev_waterbeneath2.vmt,1105,1105
+materials/dev/water_normal.vtf,10136388,10136388
+materials/dev/water_dudv.vtf,5068290,5068290
+materials/nature/water_dx70_beneath.vmt,1250,1250
+materials/dev/water.vtf,2535024,2535024
+materials/miamiaminigame/certified.vmt,91,91
+materials/miamiaminigame/certified.vtf,87616,87616
+materials/miamiaminigame/miamia2.vmt,89,89
+materials/miamiaminigame/miamia2.vtf,174944,174944
+materials/miamiaminigame/miamiaminigame.vmt,96,96
+materials/miamiaminigame/miamiaminigame.vtf,174944,174944
+materials/miamiaminigame/biere.vmt,87,87
+materials/miamiaminigame/biere.vtf,349760,349760
+materials/decals/leaves02.vmt,160,160
+materials/decals/leaves02.vtf,349784,349784
+materials/decals/offcorkboarda.vmt,170,170
+materials/decals/offcorkboarda.vtf,43856,43856
+materials/decals/offcertificatea.vmt,171,171
+materials/decals/offcertificatea.vtf,22064,22064
+materials/decals/offsignb.vmt,165,165
+materials/decals/offsignb.vtf,22064,22064
+materials/rix/rixm.vmt,87,87
+materials/rix/rixm.vtf,87552,87552
+materials/skybox/mpa115bk.vmt,92,92
+materials/skybox/mpa115bk.vtf,1398208,1398208
+materials/skybox/mpa115dn.vmt,92,92
+materials/skybox/mpa115dn.vtf,1398208,1398208
+materials/skybox/mpa115ft.vmt,92,92
+materials/skybox/mpa115ft.vtf,1398208,1398208
+materials/skybox/mpa115lf.vmt,92,92
+materials/skybox/mpa115lf.vtf,1398208,1398208
+materials/skybox/mpa115rt.vmt,92,92
+materials/skybox/mpa115rt.vtf,1398208,1398208
+materials/skybox/mpa115up.vmt,92,92
+materials/skybox/mpa115up.vtf,1398208,1398208
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/glass/glasswindow007a.vmt,158,158
+materials/glass/glasswindow007a.vtf,349784,349784
+materials/keiz/water_sf.vmt,1091,1091
+materials/liquids/c3m2_hflowmap_a.vtf,175016,175016
+materials/liquids/water_noise.vtf,175008,175008
+materials/metal/metal_ext_11.vmt,249,249
+materials/metal/metal_ext_11.vtf,175008,175008
+materials/metal/metal_ext_09_height-ssbump.vtf,349784,349784
+materials/sath_materials/carpet/sath_carpet01_white.vmt,297,297
+materials/sath_materials/carpet/sath_carpet01_white.vtf,699288,699288
+materials/sath_materials/carpet/sath_carpet01_envmapmask.vtf,699288,699288
+materials/sath_materials/plaster/sath_plaster01b_white.vmt,336,336
+materials/sath_materials/plaster/sath_plaster01_white.vtf,699288,699288
+materials/sath_materials/plaster/sath_plaster01b_normal.vtf,1398352,1398352
+materials/wood/floor03.vmt,458,458
+materials/wood/floor03.vtf,175008,175008
+materials/wood/urban_woodfloor01_ssbump.vtf,349784,349784
+materials/sprites/physbeam.vmt,152,152
+materials/sprites/physbeam.vtf,109728,109728
+materials/sprites/laserbeam.vmt,124,124
+materials/sprites/laserbeam.vtf,1512,1512
+materials/sprites/light_glow02.vmt,127,127
+materials/sprites/light_glow02.vtf,65767,65767
+materials/sprites/bluelaser1.vmt,149,149
+materials/sprites/bluelaser1.vtf,1512,1512
+materials/sprites/glow01.vmt,121,121
+materials/sprites/glow01.vtf,2936,2936
+sound/ui/armsrace_level_up.wav,194004,194004
+sound/ui/item_drop3_rare.wav,363730,363730
+sound/timewarp/unwarp.wav,60764,60764
+sound/misc/fuck.mp3,59279,59279
