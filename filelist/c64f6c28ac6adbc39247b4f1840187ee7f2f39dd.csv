@@ -1,0 +1,67 @@
+filename,size,compressed
+materials/maps/surf_bandicoot/cubemapdefault.vtf,4960,4960
+materials/maps/surf_bandicoot/cubemapdefault.hdr.vtf,76528,76528
+materials/Crash Bandicoot/wood_crate_nitro.vmt,110,110
+materials/Crash Bandicoot/wood_crate_nitro.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_jump.vmt,109,109
+materials/Crash Bandicoot/wood_crate_jump.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_normal.vmt,107,107
+materials/Crash Bandicoot/metal_crate_normal.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_normal.vmt,111,111
+materials/Crash Bandicoot/wood_crate_normal.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_life.vmt,109,109
+materials/Crash Bandicoot/wood_crate_life.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_nitro_top.vmt,114,114
+materials/Crash Bandicoot/wood_crate_nitro_top.vtf,87616,87616
+materials/orangeoz/crash_bandicoot/crate_locked.vmt,114,114
+materials/orangeoz/crash_bandicoot/crate_locked.vtf,11144,11144
+materials/de_nuke/nuke_metalgrate_01.vmt,145,145
+materials/de_nuke/nuke_metalgrate_01.vtf,87600,87600
+materials/de_aztec/stonework05.vmt,117,117
+materials/de_aztec/stonework05.vtf,174968,174968
+materials/Crash Bandicoot/wood_crate_armored.vmt,112,112
+materials/Crash Bandicoot/wood_crate_armored.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt_top.vmt,112,112
+materials/Crash Bandicoot/wood_crate_tnt_top.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_check.vmt,110,110
+materials/Crash Bandicoot/wood_crate_check.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_mask.vmt,109,109
+materials/Crash Bandicoot/wood_crate_mask.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_arrowup.vmt,110,110
+materials/Crash Bandicoot/wood_crate_arrowup.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt.vmt,108,108
+materials/Crash Bandicoot/wood_crate_tnt.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_q.vmt,102,102
+materials/Crash Bandicoot/metal_crate_q.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_!.vmt,102,102
+materials/Crash Bandicoot/metal_crate_!.vtf,87616,87616
+materials/color/METAL/prodcaution_black.vmt,71,71
+materials/metal/prodcaution_black.vtf,87616,87616
+materials/cs_havana/rockgranite02a.vmt,123,123
+materials/skybox/mpa122up.vmt,85,85
+materials/skybox/mpa122up.vtf,699272,699272
+materials/skybox/mpa122dn.vmt,85,85
+materials/skybox/mpa122dn.vtf,699272,699272
+materials/skybox/mpa122lf.vmt,85,85
+materials/skybox/mpa122lf.vtf,699272,699272
+materials/skybox/mpa122rt.vmt,85,85
+materials/skybox/mpa122rt.vtf,699272,699272
+materials/skybox/mpa122ft.vmt,85,85
+materials/skybox/mpa122ft.vtf,699272,699272
+materials/skybox/mpa122bk.vmt,85,85
+materials/skybox/mpa122bk.vtf,699272,699272
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+models/classiccrash.mdl,11528,11528
+models/classiccrash.vvd,133504,133504
+models/ClassicCrash.dx90.vtx,34565,34565
+models/ClassicCrash.dx80.vtx,34565,34565
+models/ClassicCrash.sw.vtx,49883,49883
+models/ClassicCrash.phy,13356,13356
+materials/models/ClassicCrash/Crash1_texture.vmt,80,80
+materials/models/ClassicCrash/Crash1_texture.vtf,43912,43912
+materials/models/ClassicCrash/Crash2_texture.vmt,80,80
+materials/models/ClassicCrash/Crash2_texture.vtf,43912,43912
+sound/aku aku.wav,304936,304936
+sound/crystal.wav,368880,368880
+maps/graphs/surf_bandicoot.ain,16,16
