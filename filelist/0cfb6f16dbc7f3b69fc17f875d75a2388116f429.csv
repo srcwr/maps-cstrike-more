@@ -1,0 +1,60 @@
+filename,size,compressed
+materials/maps/zm_bigadmin_v2_b1/cubemapdefault.vtf,9824,9824
+sound/radio/com_go.wav,204876,204876
+sound/radio/ct_affirm.wav,152548,152548
+sound/radio/go.wav,209210,209210
+sound/radio/letsgo.wav,209214,209214
+sound/radio/locknload.wav,209216,209216
+sound/radio/moveout.wav,209214,209214
+sound/radio/negative.wav,103572,103572
+sound/radio/roger.wav,156958,156958
+sound/Res^Maps Sounds/chto_vam_ugodno.wav,26174,26174
+sound/Res^Maps Sounds/evil-laugh.wav,71574,71574
+sound/Res^Maps Sounds/gora4ie_fins_parni.wav,264434,264434
+sound/Res^Maps Sounds/kanai_on_syda.mp3,31809,31809
+sound/Res^Maps Sounds/matrix.mp3,453451,453451
+sound/Res^Maps Sounds/mg_ingame_cc_plohovizhu.mp3,43443,43443
+sound/Res^Maps Sounds/mg_ingame_du_porezal.mp3,49886,49886
+sound/Res^Maps Sounds/mg_ingame_shurik_stoy.mp3,13053,13053
+sound/Res^Maps Sounds/nemogu_strelyt_golovu.wav,139132,139132
+sound/Res^Maps Sounds/nerugatsa.wav,38976,38976
+sound/Res^Maps Sounds/nesoglasen.wav,29356,29356
+sound/Res^Maps Sounds/oblomec.mp3,50617,50617
+sound/Res^Maps Sounds/oy_oy_spasite_pomogite.mp3,27901,27901
+sound/Res^Maps Sounds/pivka_nam_vypit.mp3,87138,87138
+sound/Res^Maps Sounds/postal_krutoy.mp3,53774,53774
+sound/Res^Maps Sounds/sledi_za_radarom.mp3,42676,42676
+sound/Res^Maps Sounds/term.mp3,1863724,1863724
+sound/Res^Maps Sounds/voprosi_est.mp3,20942,20942
+sound/Res^Maps Sounds/yavilsa.mp3,33899,33899
+sound/Res^Maps Sounds/yaytsa_tvoim_pipec.mp3,28048,28048
+materials/Res^Maps_Textures/admin_govorit.vmt,125,125
+materials/Res^Maps_Textures/admin_govorit.vtf,1398336,1398336
+materials/Res^Maps_Textures/bigadm.vmt,86,86
+materials/Res^Maps_Textures/bigadm.vtf,87616,87616
+materials/Res^Maps_Textures/bigadmin.vmt,88,88
+materials/Res^Maps_Textures/bigadmin.vtf,87544,87544
+materials/Res^Maps_Textures/evil_govorit.vmt,124,124
+materials/Res^Maps_Textures/evil_govorit.vtf,1398336,1398336
+materials/Res^Maps_Textures/eviluser.vmt,88,88
+materials/Res^Maps_Textures/eviluser.vtf,87544,87544
+materials/Res^Maps_Textures/mylogo.vmt,86,86
+materials/Res^Maps_Textures/mylogo.vtf,349760,349760
+materials/Res^Maps_Textures/null.vmt,116,116
+materials/Res^Maps_Textures/null.vtf,1600,1600
+materials/Res^Maps_Textures/prokol.vmt,86,86
+materials/Res^Maps_Textures/prokol.vtf,699272,699272
+materials/Res^Maps_Textures/unused3.vmt,117,117
+materials/Res^Maps_Textures/unused3.vtf,1398336,1398336
+materials/Res^Maps_Textures/yuv.vmt,34,34
+models/mapmodels/bigflag_british.dx80.vtx,5620,5620
+models/mapmodels/bigflag_british.dx90.vtx,5620,5620
+models/mapmodels/bigflag_british.mdl,11768,11768
+models/mapmodels/bigflag_british.sw.vtx,5500,5500
+models/mapmodels/bigflag_british.vvd,18432,18432
+materials/models/galleons/britishflag.vmt,101,101
+materials/models/galleons/britishflag.vtf,174984,174984
+materials/Res^Maps_Textures/thxto2.vmt,86,86
+materials/Res^Maps_Textures/thxto2.vtf,524433,524433
+materials/Res^Maps_Textures/user_govorit.vmt,124,124
+materials/Res^Maps_Textures/user_govorit.vtf,1398336,1398336
