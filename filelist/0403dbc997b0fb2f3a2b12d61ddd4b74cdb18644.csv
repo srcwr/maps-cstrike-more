@@ -1,0 +1,344 @@
+filename,size,compressed
+maps/surf_delusion.txt,549,549
+materials/CUSTOM/DARKGLASS.vmt,148,148
+materials/custom/darkglass.vtf,174984,174984
+materials/CUSTOM/DEEP FIRE.vmt,186,186
+materials/custom/Deep Fire.vtf,174984,174984
+materials/CUSTOM/DEEP FIRE2.vmt,187,187
+materials/custom/Deep Fire2.vtf,174984,174984
+materials/CUSTOM/SCREW THREADS.vmt,89,89
+materials/custom/Screw Threads.vtf,174984,174984
+materials/CUSTOM/SKAR1RED.vmt,84,84
+materials/custom/skar1red.vtf,174944,174944
+materials/CUSTOMTEXT/BRICKWALL.vmt,166,166
+materials/CustomText/brickwall.vtf,87544,87544
+materials/CustomText/brickwall_normal.vtf,87544,87544
+materials/CUSTOMTEXT/GC TEXTURES/BLENDS/GRASS_DIRT_BLEND04.vmt,377,377
+materials/CUSTOMTEXT/GC TEXTURES/BLENDS/PEBBLES_GRASS_BLEND08.vmt,352,352
+materials/CUSTOMTEXT/GC TEXTURES/BRICK/BRICK_PATH05.vmt,178,178
+materials/CustomText/GC Textures/Brick/Brick_Path05.vtf,174984,174984
+materials/CustomText/GC Textures/Brick/Brick_Path05_normal.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/BRICK/BRICK_SMALL03.vmt,180,180
+materials/CustomText/GC Textures/Brick/Brick_Small03.vtf,174984,174984
+materials/CustomText/GC Textures/Brick/Brick_Small03_normal.vtf,174984,174984
+materials/CustomText/GC Textures/Dirt/Dirt_Cracked01.vtf,174984,174984
+materials/CustomText/GC Textures/Dirt/Dirt_Cracked01_normal.vtf,174984,174984
+materials/CustomText/GC Textures/Gras/Grass01.vtf,174984,174984
+materials/CustomText/GC Textures/Gras/Grass01_normal.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/GRAS/GRASS04.vmt,166,166
+materials/CustomText/GC Textures/Gras/Grass04.vtf,174984,174984
+materials/CustomText/GC Textures/Gras/Grass04_normal.vtf,174984,174984
+materials/CustomText/GC Textures/Pebbles/Pebbles02_large.vtf,174984,174984
+materials/CustomText/GC Textures/Pebbles/Pebbles02_large_normal.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/WOOD/WOOD_FNISHED01.vmt,185,185
+materials/CustomText/GC Textures/wood/Wood_Fnished01.vtf,174984,174984
+materials/CustomText/GC Textures/wood/Wood_Fnished01_normal.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/WOOD/WOOD_FNISHED05.vmt,185,185
+materials/CustomText/GC Textures/wood/Wood_Fnished05.vtf,174984,174984
+materials/CustomText/GC Textures/wood/Wood_Fnished05_normal.vtf,174984,174984
+materials/CUSTOMTEXT/GC TEXTURES/WOOD/WOOD_PLYWOOD02.vmt,185,185
+materials/CustomText/GC Textures/wood/Wood_Plywood02.vtf,174984,174984
+materials/CustomText/GC Textures/wood/Wood_Plywood02_normal.vtf,174984,174984
+materials/ICECREAMLOCK/COLORDBLUE.vmt,99,99
+materials/icecreamlock/colordblue.vtf,392,392
+materials/ICECREAMLOCK/COLORGREEN.vmt,99,99
+materials/icecreamlock/colorgreen.vtf,392,392
+materials/ICECREAMLOCK/COLORLDBLUE.vmt,100,100
+materials/icecreamlock/colorldblue.vtf,392,392
+materials/ICECREAMLOCK/COLORLYELLOW.vmt,101,101
+materials/icecreamlock/colorlyellow.vtf,392,392
+materials/ICECREAMLOCK/COLORRED.vmt,97,97
+materials/icecreamlock/colorred.vtf,392,392
+materials/ICECREAMLOCK/COLORSATSUMA.vmt,101,101
+materials/icecreamlock/colorsatsuma.vtf,392,392
+materials/maps/man100/c-10208_9120_1024.vtf,9824,9824
+materials/maps/man100/c-10208_9120_1856.vtf,9824,9824
+materials/maps/man100/c-10240_0_1416.vtf,9824,9824
+materials/maps/man100/c-10272_9120_192.vtf,9824,9824
+materials/maps/man100/c-10368_8064_-9856.vtf,9824,9824
+materials/maps/man100/c-3904_-3904_2144.vtf,9824,9824
+materials/maps/man100/c-5376_-6864_-4864.vtf,9824,9824
+materials/maps/man100/c-5760_-512_9024.vtf,9824,9824
+materials/maps/man100/c-768_8672_4608.vtf,9824,9824
+materials/maps/man100/c-8768_-12320_-6688.vtf,9824,9824
+materials/maps/man100/c-9616_-3592_5868.vtf,9824,9824
+materials/maps/man100/c2528_-6432_3488.vtf,9824,9824
+materials/maps/man100/c3200_12961_13056.vtf,9824,9824
+materials/maps/man100/c3986_3351_9148.vtf,9824,9824
+materials/maps/man100/c5826_3351_7484.vtf,9824,9824
+materials/maps/man100/c6880_-11936_-13792.vtf,9824,9824
+materials/maps/man100/concrete/concretefloor033k_c17_-10208_9120_1856.vmt,180,180
+materials/maps/man100/concrete/concretefloor033k_c17_-768_8672_4608.vmt,178,178
+materials/maps/man100/concrete/concretefloor033k_c17_2528_-6432_3488.vmt,179,179
+materials/maps/man100/concrete/concretefloor033k_c17_3986_3351_9148.vmt,178,178
+materials/maps/man100/concrete/concretefloor033k_c17_5826_3351_7484.vmt,178,178
+materials/maps/man100/concrete/concretefloor033k_c17_6880_-11936_-13792.vmt,182,182
+materials/maps/man100/cubemapdefault.vtf,9824,9824
+materials/maps/man100/custom/deep fire2_-3904_-3904_2144.vmt,128,128
+materials/maps/man100/custom/deep fire2_-5760_-512_9024.vmt,127,127
+materials/maps/man100/custom/deep fire2_-768_8672_4608.vmt,126,126
+materials/maps/man100/custom/deep fire2_-8768_-12320_-6688.vmt,130,130
+materials/maps/man100/custom/deep fire2_2528_-6432_3488.vmt,127,127
+materials/maps/man100/custom/deep fire2_3200_12961_13056.vmt,128,128
+materials/maps/man100/custom/deep fire2_3986_3351_9148.vmt,126,126
+materials/maps/man100/custom/deep fire2_5826_3351_7484.vmt,126,126
+materials/maps/man100/custom/deep fire2_6880_-11936_-13792.vmt,130,130
+materials/maps/man100/custom/deep fire_-3904_-3904_2144.vmt,127,127
+materials/maps/man100/custom/deep fire_2528_-6432_3488.vmt,126,126
+materials/maps/man100/custom/deep fire_5826_3351_7484.vmt,125,125
+materials/maps/man100/custom/deep fire_6880_-11936_-13792.vmt,129,129
+materials/maps/man100/de_chateau/extwall01_-10208_9120_1856.vmt,131,131
+materials/maps/man100/de_chateau/extwall01_-5760_-512_9024.vmt,130,130
+materials/maps/man100/de_chateau/extwall01_-768_8672_4608.vmt,129,129
+materials/maps/man100/de_chateau/extwall01_3986_3351_9148.vmt,129,129
+materials/maps/man100/de_chateau/extwall01_5826_3351_7484.vmt,129,129
+materials/maps/man100/de_chateau/wall04pnl_-10208_9120_1856.vmt,131,131
+materials/maps/man100/de_chateau/wall04pnl_-768_8672_4608.vmt,129,129
+materials/maps/man100/de_chateau/wall04pnl_3986_3351_9148.vmt,129,129
+materials/maps/man100/de_chateau/wall04pnl_5826_3351_7484.vmt,129,129
+materials/maps/man100/de_piranesi/woodfloor03_-10208_9120_1856.vmt,134,134
+materials/maps/man100/de_piranesi/woodfloor03_-3904_-3904_2144.vmt,134,134
+materials/maps/man100/effects/combineshield/comshieldwall_-10208_9120_1856.vmt,169,169
+materials/maps/man100/effects/combineshield/comshieldwall_-10240_0_1416.vmt,166,166
+materials/maps/man100/effects/combineshield/comshieldwall_-10272_9120_192.vmt,168,168
+materials/maps/man100/effects/combineshield/comshieldwall_-10368_8064_-9856.vmt,170,170
+materials/maps/man100/effects/combineshield/comshieldwall_-768_8672_4608.vmt,167,167
+materials/maps/man100/effects/combineshield/comshieldwall_2528_-6432_3488.vmt,168,168
+materials/maps/man100/effects/combineshield/comshieldwall_6880_-11936_-13792.vmt,171,171
+materials/maps/man100/glass/combineglass001a_-10208_9120_1856.vmt,133,133
+materials/maps/man100/glass/combineglass001a_-10240_0_1416.vmt,130,130
+materials/maps/man100/glass/combineglass001a_-3904_-3904_2144.vmt,133,133
+materials/maps/man100/glass/combineglass001a_-5376_-6864_-4864.vmt,134,134
+materials/maps/man100/glass/combineglass001a_-5760_-512_9024.vmt,132,132
+materials/maps/man100/glass/combineglass001a_-768_8672_4608.vmt,131,131
+materials/maps/man100/glass/combineglass001a_-8768_-12320_-6688.vmt,135,135
+materials/maps/man100/glass/combineglass001a_-9616_-3592_5868.vmt,133,133
+materials/maps/man100/glass/combineglass001a_3200_12961_13056.vmt,133,133
+materials/maps/man100/glass/combineglass001a_3986_3351_9148.vmt,131,131
+materials/maps/man100/glass/combineglass001a_5826_3351_7484.vmt,131,131
+materials/maps/man100/glass/combineglass001a_6880_-11936_-13792.vmt,135,135
+materials/maps/man100/maps/man100/nature/water_canals03_-5760_-512_9024_depth_8.vmt,135,135
+materials/maps/man100/maps/man100/nature/water_canals03_-768_8672_4608_depth_16.vmt,135,135
+materials/maps/man100/maps/man100/nature/water_canals03_-768_8672_4608_depth_4.vmt,134,134
+materials/maps/man100/maps/man100/nature/water_canals03_-8768_-12320_-6688_depth_16.vmt,139,139
+materials/maps/man100/maps/man100/nature/water_canals03_-9616_-3592_5868_depth_44.vmt,137,137
+materials/maps/man100/maps/man100/nature/water_canals03_3200_12961_13056_depth_16.vmt,137,137
+materials/maps/man100/maps/man100/nature/water_canals03_3200_12961_13056_depth_8.vmt,136,136
+materials/maps/man100/maps/man100/shadertest/water_refract_only_nofresnel_-10240_0_1416_depth_8.vmt,151,151
+materials/maps/man100/metal/citadel_metalwall072b_-10208_9120_1856.vmt,138,138
+materials/maps/man100/metal/citadel_metalwall072b_-3904_-3904_2144.vmt,138,138
+materials/maps/man100/metal/citadel_metalwall072b_2528_-6432_3488.vmt,137,137
+materials/maps/man100/metal/citadel_metalwall072b_5826_3351_7484.vmt,136,136
+materials/maps/man100/metal/citadel_metalwall072b_6880_-11936_-13792.vmt,140,140
+materials/maps/man100/metal/citadel_metalwall072b_cheap_-10208_9120_1856.vmt,144,144
+materials/maps/man100/metal/citadel_metalwall072b_cheap_-10240_0_1416.vmt,141,141
+materials/maps/man100/metal/citadel_metalwall072b_cheap_-10368_8064_-9856.vmt,145,145
+materials/maps/man100/metal/citadel_metalwall072b_cheap_-3904_-3904_2144.vmt,144,144
+materials/maps/man100/metal/citadel_metalwall072b_cheap_-5760_-512_9024.vmt,143,143
+materials/maps/man100/metal/citadel_metalwall072b_cheap_-9616_-3592_5868.vmt,144,144
+materials/maps/man100/metal/citadel_metalwall072b_cheap_3200_12961_13056.vmt,144,144
+materials/maps/man100/metal/citadel_metalwall072b_cheap_3986_3351_9148.vmt,142,142
+materials/maps/man100/metal/citadel_metalwall072c_-10208_9120_1856.vmt,138,138
+materials/maps/man100/metal/citadel_metalwall072c_-10240_0_1416.vmt,135,135
+materials/maps/man100/metal/citadel_metalwall072c_-10272_9120_192.vmt,137,137
+materials/maps/man100/metal/citadel_metalwall072c_-10368_8064_-9856.vmt,139,139
+materials/maps/man100/metal/citadel_metalwall072c_-3904_-3904_2144.vmt,138,138
+materials/maps/man100/metal/citadel_metalwall072c_-5376_-6864_-4864.vmt,139,139
+materials/maps/man100/metal/citadel_metalwall072c_-5760_-512_9024.vmt,137,137
+materials/maps/man100/metal/citadel_metalwall072c_-768_8672_4608.vmt,136,136
+materials/maps/man100/metal/citadel_metalwall072c_-8768_-12320_-6688.vmt,140,140
+materials/maps/man100/metal/citadel_metalwall072c_-9616_-3592_5868.vmt,138,138
+materials/maps/man100/metal/citadel_metalwall072c_2528_-6432_3488.vmt,137,137
+materials/maps/man100/metal/citadel_metalwall072c_3200_12961_13056.vmt,138,138
+materials/maps/man100/metal/citadel_metalwall072c_3986_3351_9148.vmt,136,136
+materials/maps/man100/metal/citadel_metalwall072c_5826_3351_7484.vmt,136,136
+materials/maps/man100/metal/citadel_metalwall072c_6880_-11936_-13792.vmt,140,140
+materials/maps/man100/metal/citadel_metalwall090a_-10208_9120_1024.vmt,138,138
+materials/maps/man100/metal/citadel_metalwall090a_-10208_9120_1856.vmt,138,138
+materials/maps/man100/metal/citadel_metalwall090a_-10240_0_1416.vmt,135,135
+materials/maps/man100/metal/citadel_metalwall090a_-10272_9120_192.vmt,137,137
+materials/maps/man100/metal/citadel_metalwall090a_-10368_8064_-9856.vmt,139,139
+materials/maps/man100/metal/citadel_metalwall090a_-768_8672_4608.vmt,136,136
+materials/maps/man100/metal/citadel_metalwall090a_3200_12961_13056.vmt,138,138
+materials/maps/man100/metal/citadel_metalwall090a_3986_3351_9148.vmt,136,136
+materials/maps/man100/metal/citadel_metalwall090a_5826_3351_7484.vmt,136,136
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-10208_9120_1024.vmt,144,144
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-10208_9120_1856.vmt,144,144
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-10240_0_1416.vmt,141,141
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-10272_9120_192.vmt,143,143
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-10368_8064_-9856.vmt,145,145
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-3904_-3904_2144.vmt,144,144
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-5376_-6864_-4864.vmt,145,145
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-768_8672_4608.vmt,142,142
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-8768_-12320_-6688.vmt,146,146
+materials/maps/man100/metal/citadel_metalwall091a_cheap_-9616_-3592_5868.vmt,144,144
+materials/maps/man100/metal/citadel_metalwall091a_cheap_3200_12961_13056.vmt,144,144
+materials/maps/man100/metal/citadel_tilefloor016a_cheap_-10208_9120_1856.vmt,144,144
+materials/maps/man100/metal/citadel_tilefloor016a_cheap_-5760_-512_9024.vmt,143,143
+materials/maps/man100/metal/citadel_tilefloor016a_cheap_-768_8672_4608.vmt,142,142
+materials/maps/man100/metal/citadel_tilefloor016a_cheap_2528_-6432_3488.vmt,143,143
+materials/maps/man100/metal/citadel_tilefloor016a_cheap_3200_12961_13056.vmt,144,144
+materials/maps/man100/metal/citadel_tilefloor016a_cheap_3986_3351_9148.vmt,142,142
+materials/maps/man100/metal/citadel_tilefloor016a_cheap_5826_3351_7484.vmt,142,142
+materials/maps/man100/metal/citadel_tilefloor016a_cheap_6880_-11936_-13792.vmt,146,146
+materials/maps/man100/nature/water_canals03_-5760_-512_9024.vmt,154,154
+materials/maps/man100/nature/water_canals03_-768_8672_4608.vmt,153,153
+materials/maps/man100/nature/water_canals03_-8768_-12320_-6688.vmt,157,157
+materials/maps/man100/nature/water_canals03_-9616_-3592_5868.vmt,155,155
+materials/maps/man100/nature/water_canals03_3200_12961_13056.vmt,155,155
+materials/maps/man100/shadertest/water_refract_only_nofresnel_-10240_0_1416.vmt,170,170
+materials/maps/man100/skar/pinkwalls_-10208_9120_1856.vmt,125,125
+materials/maps/man100/skar/pinkwalls_-768_8672_4608.vmt,123,123
+materials/maps/man100/skar/pinkwalls_3200_12961_13056.vmt,125,125
+materials/maps/man100/skar/pinkwalls_3986_3351_9148.vmt,123,123
+materials/maps/man100/skar/redwalls_-5760_-512_9024.vmt,123,123
+materials/maps/man100/skar/sandripple_-3904_-3904_2144.vmt,126,126
+materials/maps/man100/skar/sandripple_-5376_-6864_-4864.vmt,127,127
+materials/maps/man100/skar/sandripple_-8768_-12320_-6688.vmt,128,128
+materials/maps/man100/skar/sandripple_2528_-6432_3488.vmt,125,125
+materials/maps/man100/skar/skarbricks_-8768_-12320_-6688.vmt,128,128
+materials/maps/man100/skar/skarcrystal3_-10368_8064_-9856.vmt,129,129
+materials/maps/man100/skar/skarcrystal3_-5376_-6864_-4864.vmt,129,129
+materials/maps/man100/skar/skarcrystal3_-8768_-12320_-6688.vmt,130,130
+materials/maps/man100/skar/skarcrystal3_2528_-6432_3488.vmt,127,127
+materials/maps/man100/skar/skarcrystal3_6880_-11936_-13792.vmt,130,130
+materials/maps/man100/skar/skarglass_-10240_0_1416.vmt,122,122
+materials/maps/man100/skar/skarspace1_-3904_-3904_2144.vmt,126,126
+materials/maps/man100/skar/skarspace1_2528_-6432_3488.vmt,125,125
+materials/maps/man100/skar/skarspace1_5826_3351_7484.vmt,124,124
+materials/maps/man100/skar/skarspace1_6880_-11936_-13792.vmt,128,128
+materials/maps/man100/skar/skarstonewall1_-10208_9120_1856.vmt,130,130
+materials/maps/man100/skar/skarstonewall1_-10240_0_1416.vmt,127,127
+materials/maps/man100/skar/skarstonewall1_-10272_9120_192.vmt,129,129
+materials/maps/man100/skar/skarstonewall1_-10368_8064_-9856.vmt,131,131
+materials/maps/man100/skar/skarstonewall1_-3904_-3904_2144.vmt,130,130
+materials/maps/man100/skar/skarstonewall1_-5376_-6864_-4864.vmt,131,131
+materials/maps/man100/skar/skarstonewall1_-8768_-12320_-6688.vmt,132,132
+materials/maps/man100/skar/skarstonewall1_-9616_-3592_5868.vmt,130,130
+materials/maps/man100/skar/skarstonewall1_2528_-6432_3488.vmt,129,129
+materials/maps/man100/skar/skarstonewall1_6880_-11936_-13792.vmt,132,132
+materials/maps/man100/tile/tilefloor020a_-10208_9120_1856.vmt,129,129
+materials/maps/man100/tile/tilefloor020a_-768_8672_4608.vmt,127,127
+materials/models/props_urban/light_streetlight01_on.vmt,105,105
+materials/models/props_urban/light_streetlight01_on.vtf,349760,349760
+materials/SKAR/BLUE.vmt,49,49
+materials/skar/blue.vtf,7168,7168
+materials/SKAR/BLUE_FLOOR.vmt,122,122
+materials/skar/blue_floor.vtf,43912,43912
+materials/skar/bluegrid.vtf,43912,43912
+materials/SKAR/BLUEGRIDUHHH.vmt,87,87
+materials/skar/bluegridUHHH.vtf,43912,43912
+materials/SKAR/BLUESPACEOVER.vmt,77,77
+materials/skar/bluespaceover.vtf,349760,349760
+materials/SKAR/BTN_DEAGLE.vmt,83,83
+materials/skar/btn_deagle.vtf,174908,174908
+materials/SKAR/BTN_EARTHQUAKE.vmt,87,87
+materials/skar/btn_earthquake.vtf,174908,174908
+materials/SKAR/BTN_FLASHES.vmt,84,84
+materials/skar/btn_flashes.vtf,174908,174908
+materials/SKAR/BTN_INVISIBILITY.vmt,89,89
+materials/skar/btn_invisibility.vtf,174908,174908
+materials/SKAR/BTN_KILL.vmt,81,81
+materials/skar/btn_kill.vtf,174908,174908
+materials/SKAR/BTN_LOWGRAVITY.vmt,87,87
+materials/skar/btn_lowgravity.vtf,174908,174908
+materials/SKAR/BTN_M4A1.vmt,81,81
+materials/skar/btn_m4a1.vtf,174908,174908
+materials/SKAR/BTN_SCOUT.vmt,82,82
+materials/skar/btn_scout.vtf,174908,174908
+materials/SKAR/BTN_SUPERSPEED.vmt,87,87
+materials/skar/btn_superspeed.vtf,174908,174908
+materials/SKAR/COLORS.vmt,254,254
+materials/skar/colors.vtf,5760,5760
+materials/SKAR/GRASGRIDDETAILRED.vmt,189,189
+materials/SKAR/GRASSGRIDDETAIL.vmt,188,188
+materials/SKAR/GREEN.vmt,50,50
+materials/skar/green.vtf,1600,1600
+materials/skar/greengrid.vtf,43912,43912
+materials/SKAR/GREENGRIDUHHH.vmt,88,88
+materials/SKAR/ILLUSION.vmt,53,53
+materials/skar/illusion.vtf,174984,174984
+materials/skar/illusion2.vtf,174984,174984
+materials/SKAR/ILLUSION2ANIM.vmt,243,243
+materials/skar/normals/bump_floor.vtf,43912,43912
+materials/skar/normals/Deep Fire2normal.vtf,174984,174984
+materials/skar/normals/pinkwallsnormal.vtf,174984,174984
+materials/skar/normals/redwallsnormal.vtf,174984,174984
+materials/skar/normals/sandripple_normal.vtf,174968,174968
+materials/skar/normals/skarbricksnormal.vtf,174984,174984
+materials/skar/normals/skarcrystal3normal.vtf,174984,174984
+materials/skar/normals/skarglassnormal.vtf,174984,174984
+materials/skar/normals/skarspace1normal.vtf,174984,174984
+materials/skar/normals/skarstonewall1normal.vtf,1398308,1398308
+materials/skar/orangegrid.vtf,43912,43912
+materials/SKAR/ORANGEGRIDUHHH.vmt,89,89
+materials/SKAR/PINK.vmt,49,49
+materials/skar/pink.vtf,1600,1600
+materials/skar/pinkgrid.vtf,43912,43912
+materials/SKAR/PINKGRIDUHHH.vmt,87,87
+materials/SKAR/PINKWALLS.vmt,152,152
+materials/skar/pinkwalls.vtf,174984,174984
+materials/SKAR/PLANET1.vmt,71,71
+materials/skar/planet1.vtf,349760,349760
+materials/SKAR/PLANET2.vmt,71,71
+materials/skar/planet2.vtf,349760,349760
+materials/SKAR/PLANET3.vmt,71,71
+materials/skar/planet3.vtf,349760,349760
+materials/SKAR/RED.vmt,48,48
+materials/skar/red.vtf,1600,1600
+materials/SKAR/REDGRID.vmt,80,80
+materials/skar/redgrid.vtf,43912,43912
+materials/SKAR/REDGRIDBLACKBLEND.vmt,129,129
+materials/SKAR/REDGRIDUHHH.vmt,86,86
+materials/skar/redgridUHHH.vtf,43912,43912
+materials/SKAR/REDSPACEOVER.vmt,76,76
+materials/skar/redspaceover.vtf,349760,349760
+materials/SKAR/REDWALLS.vmt,150,150
+materials/skar/redwalls.vtf,174984,174984
+materials/SKAR/SANDRIPPLE.vmt,195,195
+materials/skar/sandripple.vtf,174968,174968
+materials/SKAR/SKARBRICKS.vmt,186,186
+materials/skar/skarbricks.vtf,174984,174984
+materials/SKAR/SKARCRYSTAL3.vmt,211,211
+materials/skar/skarcrystal3.vtf,174984,174984
+materials/SKAR/SKARGLASS.vmt,198,198
+materials/skar/skarglass.vtf,174984,174984
+materials/SKAR/SKARSPACE1.vmt,186,186
+materials/skar/skarspace1.vtf,174984,174984
+materials/SKAR/SKARSTONEWALL1.vmt,194,194
+materials/skar/skarstonewall1.vtf,1398308,1398308
+materials/SKAR/SKARWHITELIGHT.vmt,106,106
+materials/skar/skarwhitelight.vtf,5668,5668
+materials/SKAR/STERREN3.vmt,78,78
+materials/skar/sterren3.vtf,174984,174984
+materials/SKAR/STERREN3ANIM.vmt,233,233
+materials/SKAR/STERREN3BLUE.vmt,82,82
+materials/skar/sterren3blue.vtf,174984,174984
+materials/SKAR/STERREN3BLUEANIMSLOW.vmt,238,238
+materials/SKAR/YELLOW.vmt,51,51
+materials/skar/yellow.vtf,1600,1600
+materials/skar/yellowgrid.vtf,43912,43912
+materials/SKAR/YELLOWGRIDUHHH.vmt,89,89
+materials/skar/yellowspaceover.vtf,349760,349760
+materials/SKAR/YELLOWSPACEOVERLIT.vmt,85,85
+materials/skybox/sky_spacebk.vmt,86,86
+materials/skybox/sky_spacebk.vtf,1398320,1398320
+materials/skybox/sky_spacedn.vmt,86,86
+materials/skybox/sky_spacedn.vtf,1398320,1398320
+materials/skybox/sky_spaceft.vmt,86,86
+materials/skybox/sky_spaceft.vtf,1398320,1398320
+materials/skybox/sky_spacelf.vmt,86,86
+materials/skybox/sky_spacelf.vtf,1398320,1398320
+materials/skybox/sky_spacert.vmt,86,86
+materials/skybox/sky_spacert.vtf,1398320,1398320
+materials/skybox/sky_spaceup.vmt,86,86
+materials/skybox/sky_spaceup.vtf,1398320,1398320
+models/props_urban/lights_streetlight01_on.dx80.vtx,22694,22694
+models/props_urban/lights_streetlight01_on.dx90.vtx,22694,22694
+models/props_urban/lights_streetlight01_on.mdl,1472,1472
+models/props_urban/lights_streetlight01_on.phy,2740,2740
+models/props_urban/lights_streetlight01_on.sw.vtx,22694,22694
+models/props_urban/lights_streetlight01_on.vvd,63040,63040
+sound/skarsounds/apexfocus.wav,4161400,4161400
+sound/skarsounds/ebichu.wav,95044,95044
+sound/skarsounds/universe.wav,1647568,1647568

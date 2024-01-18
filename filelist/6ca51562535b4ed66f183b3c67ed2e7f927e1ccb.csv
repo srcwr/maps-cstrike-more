@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/mg_virus_laserz_v2/tile/tilefloor020a_1728_-1216_-1960.vmt,141,141
+materials/maps/mg_virus_laserz_v2/metal/citadel_metalwall072c_1728_-1216_-1960.vmt,150,150
+materials/maps/mg_virus_laserz_v2/metal/citadel_metalwall090a_1728_-1216_-1960.vmt,150,150
+materials/maps/mg_virus_laserz_v2/metal/citadel_metalwall090a_-64_24_-2040.vmt,146,146
+materials/maps/mg_virus_laserz_v2/tile/tilefloor020a_-64_24_-2040.vmt,137,137
+materials/maps/mg_virus_laserz_v2/tile/tilefloor021a_-64_24_-2040.vmt,137,137
+materials/maps/mg_virus_laserz_v2/glass/unbreakable_-64_24_-2040.vmt,136,136
+materials/maps/mg_virus_laserz_v2/glass/unbreakable_1728_-1216_-1960.vmt,140,140
+materials/maps/mg_virus_laserz_v2/metal/citadel_metalwall072c_-64_24_-2040.vmt,146,146
+materials/maps/mg_virus_laserz_v2/glass/glasswindow070c_1728_-1216_-1960.vmt,144,144
+materials/maps/mg_virus_laserz_v2/glass/glasswindow070c_-64_24_-2040.vmt,140,140
+materials/maps/mg_virus_laserz_v2/glass/glasswindow007a_1728_-1216_-1960.vmt,144,144
+materials/maps/mg_virus_laserz_v2/cubemapdefault.vtf,9824,9824
+materials/maps/mg_virus_laserz_v2/c1728_-1216_-1960.vtf,9824,9824
+materials/maps/mg_virus_laserz_v2/c-64_24_-2040.vtf,9824,9824
+sound/his sounds/Fort Boyard Theme REAL.mp3,2101948,2101948
