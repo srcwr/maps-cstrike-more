@@ -1,0 +1,33 @@
+filename,size,compressed
+materials/maps/bhop_chokbar22/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_chokbar22/cubemapdefault.hdr.vtf,76528,76528
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/Color/maya blue.vmt,66,66
+materials/Color/maya blue.vtf,11144,11144
+materials/neon/blue.vmt,94,94
+materials/neon/blue.vtf,174968,174968
+materials/fakesky/skycub4.vmt,69,69
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/devneons/green_neon.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/skybox/space_10up.vmt,87,87
+materials/skybox/space_10up.vtf,4194511,4194511
+materials/skybox/space_10dn.vmt,85,85
+materials/skybox/space_10dn.vtf,4194511,4194511
+materials/skybox/space_10lf.vmt,85,85
+materials/skybox/space_10lf.vtf,4194511,4194511
+materials/skybox/space_10rt.vmt,85,85
+materials/skybox/space_10rt.vtf,4194511,4194511
+materials/skybox/space_10ft.vmt,85,85
+materials/skybox/space_10ft.vtf,4194511,4194511
+materials/skybox/space_10bk.vmt,89,89
+materials/skybox/space_10bk.vtf,4194511,4194511
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
