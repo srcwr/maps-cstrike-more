@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/zm_infected/de_cbble/grassdirt_blend_wvt_patch.vmt,165,165
+materials/maps/zm_infected/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/zm_infected/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/zm_infected/de_chateau/groundc_0_0_0.vmt,123,123
+materials/maps/zm_infected/concrete/concretefloor028d_0_0_0.vmt,131,131
+materials/maps/zm_infected/concrete/concretefloor028c_0_0_0.vmt,131,131
+materials/maps/zm_infected/concrete/concretefloor033o_0_0_0.vmt,131,131
+materials/maps/zm_infected/tile/tileroof004a_c17_0_0_0.vmt,165,165
+materials/maps/zm_infected/metal/metalroof006a_0_0_0.vmt,124,124
+materials/maps/zm_infected/cubemapdefault.vtf,9832,9832
+materials/maps/zm_infected/c0_0_0.vtf,9832,9832
+materials/maps/zm_infected/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_infected/c0_0_0.hdr.vtf,76528,76528

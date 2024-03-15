@@ -1,0 +1,103 @@
+filename,size,compressed
+materials/maps/zs_deadblock_v2/nature/red_grass_wvt_patch.vmt,342,342
+materials/maps/zs_deadblock_v2/cubemapdefault.vtf,9832,9832
+materials/maps/zs_deadblock_v2/c680_-190_184.vtf,9832,9832
+materials/maps/zs_deadblock_v2/c867_-61_184.vtf,9832,9832
+materials/maps/zs_deadblock_v2/c-74_572_443.vtf,9832,9832
+materials/maps/zs_deadblock_v2/c701_-644_142.vtf,9832,9832
+materials/maps/zs_deadblock_v2/c2219_-232_207.vtf,9832,9832
+materials/maps/zs_deadblock_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zs_deadblock_v2/c680_-190_184.hdr.vtf,76528,76528
+materials/maps/zs_deadblock_v2/c867_-61_184.hdr.vtf,76528,76528
+materials/maps/zs_deadblock_v2/c-74_572_443.hdr.vtf,76528,76528
+materials/maps/zs_deadblock_v2/c701_-644_142.hdr.vtf,76528,76528
+materials/maps/zs_deadblock_v2/c2219_-232_207.hdr.vtf,76528,76528
+materials/maps/beta house map/building_template/building_template002b_867_-61_184.vmt,153,153
+materials/maps/beta house map/building_template/building_template002b_2219_-232_207.vmt,155,155
+materials/maps/beta house map/building_template/building_template002c_867_-61_184.vmt,153,153
+materials/maps/beta house map/building_template/building_template003d_-74_572_443.vmt,153,153
+materials/maps/beta house map/building_template/building_template003d_867_-61_184.vmt,153,153
+materials/maps/beta house map/building_template/building_template003o_-74_572_443.vmt,153,153
+materials/maps/beta house map/building_template/building_template003o_867_-61_184.vmt,153,153
+materials/maps/beta house map/building_template/building_template012b_-74_572_443.vmt,153,153
+materials/maps/beta house map/building_template/building_template012b_680_-190_184.vmt,154,154
+materials/maps/beta house map/building_template/building_template012b_701_-644_142.vmt,154,154
+materials/maps/beta house map/building_template/building_template012b_867_-61_184.vmt,153,153
+materials/maps/beta house map/building_template/building_template012b_2219_-232_207.vmt,155,155
+materials/maps/beta house map/building_template/building_template012c_680_-190_184.vmt,154,154
+materials/maps/beta house map/building_template/building_template012c_701_-644_142.vmt,154,154
+materials/maps/beta house map/building_template/building_template012c_867_-61_184.vmt,153,153
+materials/maps/beta house map/building_template/building_template012c_2219_-232_207.vmt,155,155
+materials/maps/beta house map/building_template/building_template012d_680_-190_184.vmt,154,154
+materials/maps/beta house map/building_template/building_template012d_2219_-232_207.vmt,155,155
+materials/maps/beta house map/building_template/building_template012g_-74_572_443.vmt,153,153
+materials/maps/beta house map/building_template/building_template012g_680_-190_184.vmt,154,154
+materials/maps/beta house map/building_template/building_template012g_701_-644_142.vmt,154,154
+materials/maps/beta house map/building_template/building_template012g_867_-61_184.vmt,153,153
+materials/maps/beta house map/building_template/building_template012g_2219_-232_207.vmt,155,155
+materials/maps/beta house map/building_template/building_template012h_-74_572_443.vmt,153,153
+materials/maps/beta house map/building_template/building_template012h_680_-190_184.vmt,154,154
+materials/maps/beta house map/building_template/building_template012h_701_-644_142.vmt,154,154
+materials/maps/beta house map/building_template/building_template012h_867_-61_184.vmt,153,153
+materials/maps/beta house map/building_template/building_template012h_2219_-232_207.vmt,155,155
+materials/maps/beta house map/concrete/concretefloor039b_-74_572_443.vmt,140,140
+materials/maps/beta house map/concrete/concretefloor039b_680_-190_184.vmt,141,141
+materials/maps/beta house map/concrete/concretefloor039b_867_-61_184.vmt,140,140
+materials/maps/beta house map/concrete/concretefloor039b_2219_-232_207.vmt,142,142
+materials/maps/beta house map/concrete/concretewall041c_-74_572_443.vmt,139,139
+materials/maps/beta house map/concrete/concretewall041c_680_-190_184.vmt,140,140
+materials/maps/beta house map/glass/glasswindowbreak070a_-74_572_443.vmt,140,140
+materials/maps/beta house map/glass/glasswindowbreak070a_867_-61_184.vmt,140,140
+materials/maps/beta house map/glass/glasswindowbreak070a_2219_-232_207.vmt,142,142
+materials/maps/beta house map/metal/citadel_tilefloor016a_-74_572_443.vmt,141,141
+materials/maps/beta house map/metal/metalfloor001a_701_-644_142.vmt,135,135
+materials/maps/beta house map/metal/metalpipe003a_680_-190_184.vmt,134,134
+materials/maps/beta house map/metal/metalroof005a_701_-644_142.vmt,134,134
+materials/maps/beta house map/metal/metalroof006a_-74_572_443.vmt,133,133
+materials/maps/beta house map/metal/metalroof006a_680_-190_184.vmt,134,134
+materials/maps/beta house map/metal/metalroof006a_867_-61_184.vmt,133,133
+materials/maps/beta house map/metal/metalroof006a_2219_-232_207.vmt,135,135
+materials/maps/beta house map/metal/metalwall001b_701_-644_142.vmt,173,173
+materials/maps/beta house map/metal/metalwall001d_701_-644_142.vmt,134,134
+materials/maps/beta house map/models/props_vehicles/wagon001a_01_-74_572_443.vmt,148,148
+materials/maps/beta house map/models/props_vehicles/wagon001a_01_680_-190_184.vmt,149,149
+materials/maps/beta house map/models/props_vehicles/wagon001a_01_701_-644_142.vmt,149,149
+materials/maps/beta house map/models/props_vehicles/wagon001a_01_867_-61_184.vmt,148,148
+materials/maps/beta house map/models/props_vehicles/wagon001a_01_2219_-232_207.vmt,150,150
+materials/maps/beta house map/plaster/plasterwall030c_-74_572_443.vmt,137,137
+materials/maps/beta house map/plaster/plasterwall034c_2219_-232_207.vmt,139,139
+materials/maps/beta house map/stone/stonefloor006a_680_-190_184.vmt,135,135
+materials/maps/beta house map/stone/stonefloor006a_867_-61_184.vmt,134,134
+materials/maps/beta house map/stone/stonefloor006a_2219_-232_207.vmt,136,136
+materials/maps/beta house map/stone/stonefloor006b_-74_572_443.vmt,134,134
+materials/maps/beta house map/stone/stonefloor006b_680_-190_184.vmt,135,135
+materials/maps/beta house map/stone/stonefloor006b_701_-644_142.vmt,135,135
+materials/maps/beta house map/stone/stonefloor006b_867_-61_184.vmt,134,134
+materials/maps/beta house map/stone/stonefloor006b_2219_-232_207.vmt,136,136
+materials/maps/beta house map/storefront_template/storefront_template001a_-74_572_443.vmt,157,157
+materials/maps/beta house map/storefront_template/storefront_template001a_680_-190_184.vmt,158,158
+materials/maps/beta house map/storefront_template/storefront_template001a_701_-644_142.vmt,158,158
+materials/maps/beta house map/storefront_template/storefront_template001a_867_-61_184.vmt,157,157
+materials/maps/beta house map/storefront_template/storefront_template001a_2219_-232_207.vmt,159,159
+materials/maps/beta house map/storefront_template/storefront_template001c_2219_-232_207.vmt,159,159
+materials/maps/beta house map/tile/tilefloor009a_-74_572_443.vmt,132,132
+materials/maps/beta house map/tile/tilefloor009a_867_-61_184.vmt,132,132
+materials/maps/beta house map/tile/tilefloor009a_2219_-232_207.vmt,134,134
+materials/maps/beta house map/tile/tilefloor010a_867_-61_184.vmt,132,132
+materials/maps/beta house map/tile/tilefloor012a_-74_572_443.vmt,132,132
+materials/maps/beta house map/tile/tilefloor012a_867_-61_184.vmt,132,132
+materials/maps/beta house map/tile/tilefloor013a_2219_-232_207.vmt,134,134
+materials/maps/beta house map/tile/tileroof002a_-74_572_443.vmt,131,131
+materials/maps/beta house map/tile/tileroof002a_701_-644_142.vmt,132,132
+materials/maps/beta house map/tile/tileroof002a_2219_-232_207.vmt,133,133
+materials/maps/beta house map/tile/tileroof004b_701_-644_142.vmt,132,132
+materials/maps/beta house map/vehicle/metaltrain001c_680_-190_184.vmt,137,137
+materials/maps/beta house map/vehicle/metaltrain001c_701_-644_142.vmt,137,137
+materials/maps/beta house map/vehicle/metaltrain001c_867_-61_184.vmt,136,136
+materials/maps/beta house map/wood/wooddoor032a_-74_572_443.vmt,131,131
+materials/maps/beta house map/wood/wooddoor032a_680_-190_184.vmt,132,132
+materials/maps/beta house map/wood/wooddoor032a_701_-644_142.vmt,132,132
+materials/maps/beta house map/wood/woodfloor007a_-74_572_443.vmt,132,132
+materials/maps/beta house map/wood/woodfloor008a_-74_572_443.vmt,171,171
+materials/maps/beta house map/wood/woodfloor008a_680_-190_184.vmt,172,172
+materials/maps/beta house map/wood/woodfloor008a_701_-644_142.vmt,172,172
