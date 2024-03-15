@@ -26,7 +26,7 @@ for filename in glob.iglob("../hashed/*.bsp"):
         os.utime(filename + ".bz2", (A, A))
     """
     hash = Path(filename).stem
-    if not hash in things or fix_all_timestamps:
+    if not hash in things or recheck_all_timestamps:
         things[hash] = (datetime.utcfromtimestamp(os.path.getmtime(filename)), datetime.utcfromtimestamp(os.path.getctime(filename)))
 
 with open("timestamps.csv", "w", newline="", encoding="utf-8") as csvfile:
