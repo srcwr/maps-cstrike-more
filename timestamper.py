@@ -8,7 +8,7 @@ import os
 
 things = {}
 
-recheck_all_timestamps = False
+recheck_all_timestamps = True
 
 with open("timestamps.csv", newline="", encoding="utf-8") as f:
     cr = csv.reader(f)
