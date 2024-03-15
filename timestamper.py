@@ -8,6 +8,8 @@ import os
 
 things = {}
 
+recheck_all_timestamps = False
+
 with open("timestamps.csv", newline="", encoding="utf-8") as f:
     cr = csv.reader(f)
     for line in cr:
@@ -24,7 +26,7 @@ for filename in glob.iglob("../hashed/*.bsp"):
         os.utime(filename + ".bz2", (A, A))
     """
     hash = Path(filename).stem
-    if not hash in things:
+    if not hash in things or fix_all_timestamps:
         things[hash] = (datetime.utcfromtimestamp(os.path.getmtime(filename)), datetime.utcfromtimestamp(os.path.getctime(filename)))
 
 with open("timestamps.csv", "w", newline="", encoding="utf-8") as csvfile:
