@@ -1,0 +1,933 @@
+filename,size,compressed
+materials/maps/surf_evenmorealmost/nature/ah_dirt1_wvt_patch.vmt,112,105
+materials/maps/surf_evenmorealmost/de_tides/blend_concrete_dirt_wvt_patch.vmt,316,169
+materials/maps/surf_evenmorealmost/realworldtextures/newer/3/tile_3_06_0_0_0.vmt,148,143
+materials/maps/surf_evenmorealmost/realworldtextures2/tile/tile_02_0_0_0.vmt,144,137
+materials/maps/surf_evenmorealmost/realworldtextures/newer/3/tile_3_04_0_0_0.vmt,148,143
+materials/maps/surf_evenmorealmost/realworldtextures2/tile/tile_04_0_0_0.vmt,144,137
+materials/maps/surf_evenmorealmost/realworldtextures/newer/2/marble_2_03_0_0_0.vmt,150,145
+materials/maps/surf_evenmorealmost/realworldtextures/newer/2/marble_2_01_0_0_0.vmt,150,145
+materials/maps/surf_evenmorealmost/nature/water_wasteland002a_0_0_0.vmt,162,147
+materials/maps/surf_evenmorealmost/realworldtextures2/marble/marble_11_0_0_0.vmt,148,138
+materials/maps/surf_evenmorealmost/de_piranesi/marblefloor06_0_0_0.vmt,138,134
+materials/maps/surf_evenmorealmost/de_piranesi/marblefloor13_0_0_0.vmt,138,134
+materials/maps/surf_evenmorealmost/realworldtextures/newer/3/tile_3_07_0_0_0.vmt,148,143
+materials/maps/surf_evenmorealmost/watersource/waterfall/waterfallfull_1024_nrm_red_0_0_0.vmt,184,157
+materials/maps/surf_evenmorealmost/realworldtextures/newer/2/marble_2_04_0_0_0.vmt,150,145
+materials/maps/surf_evenmorealmost/realworldtextures2/marble/marble_14_0_0_0.vmt,148,138
+materials/maps/surf_evenmorealmost/realworldtextures/newer/2/marble_2_02_0_0_0.vmt,150,145
+materials/maps/surf_evenmorealmost/concrete/milflr001_0_0_0.vmt,131,127
+materials/maps/surf_evenmorealmost/de_piranesi/marblefloor08_0_0_0.vmt,138,134
+materials/maps/surf_evenmorealmost/nature/water_wasteland002a_depth_72.vmt,113,104
+materials/maps/surf_evenmorealmost/nature/water_wasteland002a_depth_80.vmt,113,104
+materials/maps/surf_evenmorealmost/nature/water_wasteland002a_depth_88.vmt,113,104
+materials/maps/surf_evenmorealmost/nature/water_wasteland002a_depth_160.vmt,114,106
+materials/maps/surf_evenmorealmost/nature/water_wasteland002a_depth_224.vmt,114,106
+materials/maps/surf_evenmorealmost/cubemapdefault.vtf,4960,91
+materials/maps/surf_evenmorealmost/c0_0_0.vtf,4960,91
+materials/maps/surf_evenmorealmost/cubemapdefault.hdr.vtf,76528,167
+materials/maps/surf_evenmorealmost/c0_0_0.hdr.vtf,76528,167
+models/epangelmatikes/alice_web_05_a.mdl,1764,425
+models/epangelmatikes/alice_web_05_a.dx80.vtx,37113,8992
+models/epangelmatikes/alice_web_05_a.dx90.vtx,37113,9098
+models/epangelmatikes/alice_web_05_a.sw.vtx,37113,9217
+models/epangelmatikes/alice_web_05_a.vvd,123712,69919
+materials/models/epangelmatikes/alice_web_03.vmt,291,195
+materials/models/epangelmatikes/alice_web_03.vtf,22369728,3893183
+materials/models/epangelmatikes/alice_web_03_n.vtf,22369728,6743136
+models/anubis/foliage/ivy02a_flowers02.mdl,2253,564
+models/anubis/foliage/ivy02a_flowers02.dx90.vtx,5986,1230
+models/anubis/foliage/ivy02a_flowers02.vvd,26112,12023
+materials/anubis/models/foliage/ivy01.vmt,135,118
+materials/anubis/models/foliage/ivy01.vtf,1398336,196315
+materials/anubis/models/foliage/ivy01_pur.vmt,137,119
+materials/anubis/models/foliage/ivy01_pur.vtf,1398352,218487
+models/halloweentree/grave_stone2.mdl,1804,483
+models/halloweentree/grave_stone2.dx80.vtx,111817,28827
+models/halloweentree/grave_stone2.dx90.vtx,111817,28827
+models/halloweentree/grave_stone2.phy,6100,3864
+models/halloweentree/grave_stone2.sw.vtx,111817,28848
+models/halloweentree/grave_stone2.vvd,362560,214306
+materials/models/evilset/gravestone2/gravestone02_color.vmt,314,174
+materials/models/evilset/gravestone2/gravestone02_color.vtf,11185048,4121677
+materials/models/evilset/gravestone2/gravestone02_nmap.vtf,11185048,5241771
+materials/models/evilset/gravestone2/gravestone02_specular.vtf,11185048,3366333
+models/halloween/halloween_gravestone01.mdl,1776,433
+models/halloween/halloween_gravestone01.dx80.vtx,12087,2366
+models/halloween/halloween_gravestone01.dx90.vtx,12087,2370
+models/halloween/halloween_gravestone01.phy,4167,2143
+models/halloween/halloween_gravestone01.sw.vtx,12087,2331
+models/halloween/halloween_gravestone01.vvd,50368,17563
+materials/models/halloween/halloween_gravestone_conc.vmt,602,228
+materials/models/halloween/halloween_gravestone01_02_diff.vtf,349688,211021
+materials/models/halloween/halloween_gravestone01_02_norm.vtf,699232,597285
+materials/models/halloween/halloween_gravestone01_02_exp.vtf,87544,53237
+models/halloweentree/grave_stone1.mdl,1804,480
+models/halloweentree/grave_stone1.dx80.vtx,26083,6825
+models/halloweentree/grave_stone1.dx90.vtx,26083,6826
+models/halloweentree/grave_stone1.phy,5467,3644
+models/halloweentree/grave_stone1.sw.vtx,26083,6758
+models/halloweentree/grave_stone1.vvd,86464,50823
+materials/models/evilset/gravestone1/gravestone01_color.vmt,314,174
+materials/models/evilset/gravestone1/gravestone01_color.vtf,11185048,3628987
+materials/models/evilset/gravestone1/gravestone01_nmap.vtf,11185048,3617052
+materials/models/evilset/gravestone1/gravestone01_specular.vtf,11185048,3383304
+models/sims 4/romantic garden/rose goddes.mdl,2916,551
+models/sims 4/romantic garden/rose goddes.dx80.vtx,36042,6521
+models/sims 4/romantic garden/rose goddes.dx90.vtx,36042,6521
+models/sims 4/romantic garden/rose goddes.phy,77839,39423
+models/sims 4/romantic garden/rose goddes.sw.vtx,36042,6494
+models/sims 4/romantic garden/rose goddes.vvd,156928,75697
+materials/sims 4/romantic garden/rose goddes.vmt,405,213
+materials/sims 4/romantic garden/rose goddes.vtf,349760,114546
+materials/sims 4/romantic garden/rose goddes 2.vmt,407,215
+materials/sims 4/romantic garden/rose goddes 2.vtf,349760,113787
+materials/sims 4/romantic garden/rose goddes 3.vmt,407,215
+materials/sims 4/romantic garden/rose goddes 3.vtf,349760,113461
+materials/sims 4/romantic garden/rose goddes 4.vmt,407,214
+materials/sims 4/romantic garden/rose goddes 4.vtf,349760,132364
+materials/sims 4/romantic garden/rose goddes 5.vmt,407,215
+materials/sims 4/romantic garden/rose goddes 5.vtf,349760,129530
+materials/sims 4/romantic garden/rose goddes 6.vmt,407,215
+materials/sims 4/romantic garden/rose goddes 6.vtf,349760,126445
+materials/sims 4/romantic garden/rose goddes 7.vmt,407,215
+materials/sims 4/romantic garden/rose goddes 7.vtf,349760,106160
+materials/sims 4/romantic garden/rose goddes 8.vmt,407,215
+materials/sims 4/romantic garden/rose goddes 8.vtf,349760,111559
+materials/sims 4/romantic garden/rose goddes 9.vmt,407,215
+materials/sims 4/romantic garden/rose goddes 9.vtf,349760,109187
+materials/sims 4/romantic garden/rose goddes 10.vmt,408,216
+materials/sims 4/romantic garden/rose goddes 10.vtf,349760,115259
+materials/sims 4/romantic garden/rose goddes 11.vmt,408,216
+materials/sims 4/romantic garden/rose goddes 11.vtf,349760,105417
+materials/sims 4/romantic garden/rose goddes 12.vmt,408,216
+materials/sims 4/romantic garden/rose goddes 12.vtf,349760,111478
+models/sims 4/romantic garden/yt arch.mdl,2872,539
+models/sims 4/romantic garden/yt arch.dx80.vtx,32706,5402
+models/sims 4/romantic garden/yt arch.dx90.vtx,32706,5403
+models/sims 4/romantic garden/yt arch.phy,2504,1470
+models/sims 4/romantic garden/yt arch.sw.vtx,32706,5397
+models/sims 4/romantic garden/yt arch.vvd,146304,72857
+materials/sims 4/romantic garden/yt arch.vmt,403,217
+materials/sims 4/romantic garden/yt arch.vtf,699232,170979
+materials/sims 4/romantic garden/yt arch 2.vmt,405,219
+materials/sims 4/romantic garden/yt arch 2.vtf,699232,171257
+materials/sims 4/romantic garden/yt arch 3.vmt,405,219
+materials/sims 4/romantic garden/yt arch 3.vtf,699232,167050
+materials/sims 4/romantic garden/yt arch 4.vmt,405,218
+materials/sims 4/romantic garden/yt arch 4.vtf,699232,192328
+materials/sims 4/romantic garden/yt arch 5.vmt,405,219
+materials/sims 4/romantic garden/yt arch 5.vtf,699232,186544
+materials/sims 4/romantic garden/yt arch 6.vmt,405,219
+materials/sims 4/romantic garden/yt arch 6.vtf,699232,185489
+materials/sims 4/romantic garden/yt arch 7.vmt,405,219
+materials/sims 4/romantic garden/yt arch 7.vtf,699232,159413
+materials/sims 4/romantic garden/yt arch 8.vmt,405,219
+materials/sims 4/romantic garden/yt arch 8.vtf,699232,166776
+materials/sims 4/romantic garden/yt arch 9.vmt,405,219
+materials/sims 4/romantic garden/yt arch 9.vtf,699232,171612
+materials/sims 4/romantic garden/yt arch 10.vmt,406,220
+materials/sims 4/romantic garden/yt arch 10.vtf,699232,171562
+materials/sims 4/romantic garden/yt arch 11.vmt,406,220
+materials/sims 4/romantic garden/yt arch 11.vtf,699232,161819
+materials/sims 4/romantic garden/yt arch 12.vmt,406,220
+materials/sims 4/romantic garden/yt arch 12.vtf,699232,169756
+models/sims 4/romantic garden/climbing rose.mdl,2572,521
+models/sims 4/romantic garden/climbing rose.dx80.vtx,10608,2454
+models/sims 4/romantic garden/climbing rose.dx90.vtx,10608,2454
+models/sims 4/romantic garden/climbing rose.phy,1941,1098
+models/sims 4/romantic garden/climbing rose.sw.vtx,10608,2388
+models/sims 4/romantic garden/climbing rose.vvd,40448,17860
+materials/sims 4/romantic garden/climbing rose.vmt,399,214
+materials/sims 4/romantic garden/climbing rose.vtf,1398336,198119
+materials/sims 4/romantic garden/climbing rose 2.vmt,401,215
+materials/sims 4/romantic garden/climbing rose 2.vtf,1398336,214149
+materials/sims 4/romantic garden/climbing rose 3.vmt,401,215
+materials/sims 4/romantic garden/climbing rose 3.vtf,1398336,238647
+materials/sims 4/romantic garden/climbing rose 4.vmt,401,215
+materials/sims 4/romantic garden/climbing rose 4.vtf,1398336,237917
+materials/sims 4/romantic garden/climbing rose 5.vmt,401,215
+materials/sims 4/romantic garden/climbing rose 5.vtf,1398336,235097
+materials/sims 4/romantic garden/climbing rose 6.vmt,401,215
+materials/sims 4/romantic garden/climbing rose 6.vtf,1398336,231358
+materials/sims 4/romantic garden/climbing rose 7.vmt,401,215
+materials/sims 4/romantic garden/climbing rose 7.vtf,1398336,242118
+materials/sims 4/romantic garden/climbing rose 8.vmt,401,215
+materials/sims 4/romantic garden/climbing rose 8.vtf,1398336,246847
+materials/sims 4/romantic garden/climbing rose 9.vmt,401,215
+materials/sims 4/romantic garden/climbing rose 9.vtf,1398336,224032
+models/models/soniamodels/sonia_plant7.mdl,2136,548
+models/models/soniamodels/sonia_plant7.dx90.vtx,7784,1711
+models/models/soniamodels/sonia_plant7.vvd,29120,16371
+materials/models/soniamodels/land_plant_middle_04.vmt,345,178
+materials/models/soniamodels/land_plant_middle_04.vtf,1398352,412600
+materials/models/soniamodels/land_plant_middle_04_normal.vtf,349776,202198
+materials/models/soniamodels/land_plant_middle_04_spec.vtf,349776,273923
+materials/models/soniamodels/land_plant_middle_04_illum.vtf,349776,10512
+materials/models/soniamodels/land_plant_middle_04_alpha.vmt,382,199
+materials/models/soniamodels/land_plant_middle_04_alpha.vtf,1398352,412600
+models/props_lavafall/waterfall001.mdl,1972,496
+models/props_lavafall/waterfall001.dx80.vtx,9951,2698
+models/props_lavafall/waterfall001.dx90.vtx,9951,2698
+models/props_lavafall/waterfall001.sw.vtx,9951,2719
+models/props_lavafall/waterfall001.vvd,31360,18334
+materials/models/props_lavafall/underworld_lava001.vmt,297,195
+materials/nature/underworld_lava001.vtf,1398360,642104
+materials/models/props_lavafall/underworld_lava001_solid.vmt,286,191
+models/halloweentree/evil_skull.mdl,1784,474
+models/halloweentree/evil_skull.dx80.vtx,40153,10829
+models/halloweentree/evil_skull.dx90.vtx,40153,10802
+models/halloweentree/evil_skull.phy,5752,3830
+models/halloweentree/evil_skull.sw.vtx,40153,10715
+models/halloweentree/evil_skull.vvd,124224,77129
+materials/models/evilset/skull/skull_color.vmt,216,131
+materials/models/evilset/skull/skull_color.vtf,11185048,2781025
+materials/models/evilset/skull/skull_nmap.vtf,11185048,2842974
+materials/models/evilset/skull/skull_specular.vtf,11185048,1763633
+models/epangelmatikes/alice_mushroom_04.mdl,1776,418
+models/epangelmatikes/alice_mushroom_04.dx80.vtx,110310,24942
+models/epangelmatikes/alice_mushroom_04.dx90.vtx,110310,24942
+models/epangelmatikes/alice_mushroom_04.sw.vtx,110310,24534
+models/epangelmatikes/alice_mushroom_04.vvd,392064,194636
+materials/models/epangelmatikes/alice_mushroom_04.vmt,216,149
+materials/models/epangelmatikes/alice_mushroom_04.vtf,5592512,1616974
+materials/models/epangelmatikes/alice_mushroom_04_n.vtf,5592512,3357221
+models/epangelmatikes/alice_mushroom_03.mdl,1776,422
+models/epangelmatikes/alice_mushroom_03.dx80.vtx,53685,13251
+models/epangelmatikes/alice_mushroom_03.dx90.vtx,53685,13224
+models/epangelmatikes/alice_mushroom_03.sw.vtx,53685,12960
+models/epangelmatikes/alice_mushroom_03.vvd,197440,105678
+materials/models/epangelmatikes/alice_mushroom_03.vmt,216,149
+materials/models/epangelmatikes/alice_mushroom_03.vtf,5592512,1597789
+materials/models/epangelmatikes/alice_mushroom_03_n.vtf,5592512,4072970
+models/sims 4/romantic garden/marble flower jar.mdl,3000,555
+models/sims 4/romantic garden/marble flower jar.dx80.vtx,14418,2691
+models/sims 4/romantic garden/marble flower jar.dx90.vtx,14418,2711
+models/sims 4/romantic garden/marble flower jar.phy,903,596
+models/sims 4/romantic garden/marble flower jar.sw.vtx,14418,2667
+models/sims 4/romantic garden/marble flower jar.vvd,63104,29568
+materials/sims 4/romantic garden/marble flower jar.vmt,413,224
+materials/sims 4/romantic garden/marble flower jar.vtf,349760,86388
+materials/sims 4/romantic garden/marble flower jar 2.vmt,415,226
+materials/sims 4/romantic garden/marble flower jar 2.vtf,349760,90558
+materials/sims 4/romantic garden/marble flower jar 3.vmt,415,226
+materials/sims 4/romantic garden/marble flower jar 3.vtf,349760,88223
+materials/sims 4/romantic garden/marble flower jar 4.vmt,415,226
+materials/sims 4/romantic garden/marble flower jar 4.vtf,349760,114714
+materials/sims 4/romantic garden/marble flower jar 5.vmt,415,226
+materials/sims 4/romantic garden/marble flower jar 5.vtf,349760,112313
+materials/sims 4/romantic garden/marble flower jar 6.vmt,415,226
+materials/sims 4/romantic garden/marble flower jar 6.vtf,349760,107866
+materials/sims 4/romantic garden/marble flower jar 7.vmt,415,226
+materials/sims 4/romantic garden/marble flower jar 7.vtf,349760,79677
+materials/sims 4/romantic garden/marble flower jar 8.vmt,415,226
+materials/sims 4/romantic garden/marble flower jar 8.vtf,349760,85093
+materials/sims 4/romantic garden/marble flower jar 9.vmt,415,226
+materials/sims 4/romantic garden/marble flower jar 9.vtf,349760,82737
+materials/sims 4/romantic garden/marble flower jar 10.vmt,416,227
+materials/sims 4/romantic garden/marble flower jar 10.vtf,349760,88278
+materials/sims 4/romantic garden/marble flower jar 11.vmt,416,227
+materials/sims 4/romantic garden/marble flower jar 11.vtf,349760,78501
+materials/sims 4/romantic garden/marble flower jar 12.vmt,416,227
+materials/sims 4/romantic garden/marble flower jar 12.vtf,349760,88162
+models/props/cs_italy/it_lantern2.mdl,1836,488
+models/props/cs_italy/it_lantern2.dx80.vtx,6126,1166
+models/props/cs_italy/it_lantern2.dx90.vtx,6126,1166
+models/props/cs_italy/it_lantern2.phy,4910,2409
+models/props/cs_italy/it_lantern2.sw.vtx,6126,1176
+models/props/cs_italy/it_lantern2.vvd,28672,5028
+materials/models/cs_italy/light_orange.vmt,108,107
+materials/models/cs_italy/light_orange.vtf,2936,1707
+materials/models/cs_italy/blkmetal.vmt,95,94
+materials/models/cs_italy/blkmetal.vtf,2936,2082
+materials/models/cs_italy/lantern2a.vmt,146,128
+materials/models/cs_italy/lantern2a.vtf,5680,3123
+models/props/cs_italy/it_lampholder2.mdl,1644,453
+models/props/cs_italy/it_lampholder2.dx80.vtx,2067,505
+models/props/cs_italy/it_lampholder2.dx90.vtx,2067,505
+models/props/cs_italy/it_lampholder2.phy,2583,1460
+models/props/cs_italy/it_lampholder2.sw.vtx,2067,508
+models/props/cs_italy/it_lampholder2.vvd,9472,1542
+materials/models/cs_italy/lampholder2a.vmt,149,130
+materials/models/cs_italy/lampholder2a.vtf,11088,5698
+models/props/de_inferno/doorarchb_large.mdl,1772,454
+models/props/de_inferno/doorarchb_large.dx80.vtx,8511,1862
+models/props/de_inferno/doorarchb_large.dx90.vtx,8511,1862
+models/props/de_inferno/doorarchb_large.phy,4323,2517
+models/props/de_inferno/doorarchb_large.sw.vtx,8511,1851
+models/props/de_inferno/doorarchb_large.vvd,35264,9487
+materials/models/props/de_inferno/doorarchb.vmt,79,88
+materials/models/props/de_inferno/doorarchb.vtf,174968,134332
+models/sims 4/romantic garden/iris.mdl,2592,523
+models/sims 4/romantic garden/iris.dx80.vtx,5094,963
+models/sims 4/romantic garden/iris.dx90.vtx,5094,964
+models/sims 4/romantic garden/iris.phy,502,308
+models/sims 4/romantic garden/iris.sw.vtx,5094,960
+models/sims 4/romantic garden/iris.vvd,25728,12367
+materials/sims 4/romantic garden/iris.vmt,406,215
+materials/sims 4/romantic garden/iris.vtf,43872,15613
+materials/sims 4/romantic garden/iris 2.vmt,406,217
+materials/sims 4/romantic garden/iris 2.vtf,43872,15501
+materials/sims 4/romantic garden/iris 3.vmt,421,214
+materials/sims 4/romantic garden/iris 3.vtf,43872,15554
+materials/sims 4/romantic garden/iris 4.vmt,421,213
+materials/sims 4/romantic garden/iris 4.vtf,43872,15453
+materials/sims 4/romantic garden/iris 5.vmt,419,218
+materials/sims 4/romantic garden/iris 5.vtf,43872,15347
+materials/sims 4/romantic garden/iris 6.vmt,413,217
+materials/sims 4/romantic garden/iris 6.vtf,43872,15662
+materials/sims 4/romantic garden/iris 7.vmt,413,217
+materials/sims 4/romantic garden/iris 7.vtf,43872,15565
+materials/sims 4/romantic garden/iris 8.vmt,411,218
+materials/sims 4/romantic garden/iris 8.vtf,43872,15212
+materials/sims 4/romantic garden/iris 9.vmt,409,218
+materials/sims 4/romantic garden/iris 9.vtf,43872,15468
+materials/sims 4/romantic garden/iris 10.vmt,412,218
+materials/sims 4/romantic garden/iris 10.vtf,43872,16089
+models/models/soniamodels/sonia_cvetok2.mdl,1944,522
+models/models/soniamodels/sonia_cvetok2.dx90.vtx,52330,12240
+models/models/soniamodels/sonia_cvetok2.vvd,181120,93014
+materials/models/soniamodels/generic_plant_shelldouble_01.vmt,222,136
+materials/models/soniamodels/generic_plant_shelldouble_01.vtf,349776,280911
+materials/models/soniamodels/generic_plant_04_normal.vtf,87632,70409
+materials/models/soniamodels/generic_plant_04_illum.vtf,87632,1752
+models/epangelmatikes/alice_web_04_a.mdl,1764,417
+models/epangelmatikes/alice_web_04_a.dx80.vtx,59931,14257
+models/epangelmatikes/alice_web_04_a.dx90.vtx,59931,14251
+models/epangelmatikes/alice_web_04_a.sw.vtx,59931,14318
+models/epangelmatikes/alice_web_04_a.vvd,198592,113061
+models/epangelmatikes/alice_web_06_a.mdl,1764,418
+models/epangelmatikes/alice_web_06_a.dx80.vtx,56331,13627
+models/epangelmatikes/alice_web_06_a.dx90.vtx,56331,13610
+models/epangelmatikes/alice_web_06_a.sw.vtx,56331,13485
+models/epangelmatikes/alice_web_06_a.vvd,189376,107380
+models/halloweentree/evil_tree.mdl,2364,562
+models/halloweentree/evil_tree.dx80.vtx,880808,192010
+models/halloweentree/evil_tree.dx90.vtx,880808,191767
+models/halloweentree/evil_tree.phy,12211,7119
+models/halloweentree/evil_tree.sw.vtx,880808,190667
+models/halloweentree/evil_tree.vvd,4156032,1197008
+materials/models/evilset/eviltree/tree_color.vmt,222,132
+materials/models/evilset/eviltree/tree_color.vtf,11185048,5807263
+materials/models/evilset/eviltree/tree_nmap.vtf,11185048,8055662
+materials/models/evilset/eviltree/tree_specular.vtf,11185048,4480950
+models/sims 4/romantic garden/stone statue.mdl,2936,567
+models/sims 4/romantic garden/stone statue.dx80.vtx,16842,3747
+models/sims 4/romantic garden/stone statue.dx90.vtx,16842,3747
+models/sims 4/romantic garden/stone statue.phy,1095,681
+models/sims 4/romantic garden/stone statue.sw.vtx,16842,3644
+models/sims 4/romantic garden/stone statue.vvd,66944,35643
+materials/sims 4/romantic garden/stone statue.vmt,415,222
+materials/sims 4/romantic garden/stone statue.vtf,699232,169735
+materials/sims 4/romantic garden/stone statue 2.vmt,417,224
+materials/sims 4/romantic garden/stone statue 2.vtf,699232,172852
+materials/sims 4/romantic garden/stone statue 3.vmt,417,224
+materials/sims 4/romantic garden/stone statue 3.vtf,699232,170556
+materials/sims 4/romantic garden/stone statue 4.vmt,417,224
+materials/sims 4/romantic garden/stone statue 4.vtf,699232,231309
+materials/sims 4/romantic garden/stone statue 5.vmt,417,224
+materials/sims 4/romantic garden/stone statue 5.vtf,699232,224809
+materials/sims 4/romantic garden/stone statue 6.vmt,417,224
+materials/sims 4/romantic garden/stone statue 6.vtf,699232,216487
+materials/sims 4/romantic garden/stone statue 7.vmt,417,224
+materials/sims 4/romantic garden/stone statue 7.vtf,699232,146147
+materials/sims 4/romantic garden/stone statue 8.vmt,417,224
+materials/sims 4/romantic garden/stone statue 8.vtf,699232,168023
+materials/sims 4/romantic garden/stone statue 9.vmt,417,224
+materials/sims 4/romantic garden/stone statue 9.vtf,699232,158226
+materials/sims 4/romantic garden/stone statue 10.vmt,418,225
+materials/sims 4/romantic garden/stone statue 10.vtf,699232,170289
+materials/sims 4/romantic garden/stone statue 11.vmt,418,225
+materials/sims 4/romantic garden/stone statue 11.vtf,699232,145412
+materials/sims 4/romantic garden/stone statue 12.vmt,418,225
+materials/sims 4/romantic garden/stone statue 12.vtf,699232,175805
+models/sims 4/romantic garden/goddess statue.mdl,2964,550
+models/sims 4/romantic garden/goddess statue.dx80.vtx,20853,4107
+models/sims 4/romantic garden/goddess statue.dx90.vtx,20853,4114
+models/sims 4/romantic garden/goddess statue.phy,2383,1401
+models/sims 4/romantic garden/goddess statue.sw.vtx,20853,4010
+models/sims 4/romantic garden/goddess statue.vvd,90432,46568
+materials/sims 4/romantic garden/goddess statue.vmt,417,223
+materials/sims 4/romantic garden/goddess statue.vtf,699232,184303
+materials/sims 4/romantic garden/goddess statue 2.vmt,419,225
+materials/sims 4/romantic garden/goddess statue 2.vtf,699232,188531
+materials/sims 4/romantic garden/goddess statue 3.vmt,419,225
+materials/sims 4/romantic garden/goddess statue 3.vtf,699232,182341
+materials/sims 4/romantic garden/goddess statue 4.vmt,419,225
+materials/sims 4/romantic garden/goddess statue 4.vtf,699232,252600
+materials/sims 4/romantic garden/goddess statue 5.vmt,419,225
+materials/sims 4/romantic garden/goddess statue 5.vtf,699232,244713
+materials/sims 4/romantic garden/goddess statue 6.vmt,419,225
+materials/sims 4/romantic garden/goddess statue 6.vtf,699232,233605
+materials/sims 4/romantic garden/goddess statue 7.vmt,419,225
+materials/sims 4/romantic garden/goddess statue 7.vtf,699232,158863
+materials/sims 4/romantic garden/goddess statue 8.vmt,419,225
+materials/sims 4/romantic garden/goddess statue 8.vtf,699232,176719
+materials/sims 4/romantic garden/goddess statue 9.vmt,419,225
+materials/sims 4/romantic garden/goddess statue 9.vtf,699232,169626
+materials/sims 4/romantic garden/goddess statue 10.vmt,420,225
+materials/sims 4/romantic garden/goddess statue 10.vtf,699232,184588
+materials/sims 4/romantic garden/goddess statue 11.vmt,420,225
+materials/sims 4/romantic garden/goddess statue 11.vtf,699232,168558
+materials/sims 4/romantic garden/goddess statue 12.vmt,420,225
+materials/sims 4/romantic garden/goddess statue 12.vtf,699232,183245
+models/props_halloween/skull_island_horns.mdl,1972,457
+models/props_halloween/skull_island_horns.dx80.vtx,76053,15027
+models/props_halloween/skull_island_horns.dx90.vtx,76085,15189
+models/props_halloween/skull_island_horns.sw.vtx,76053,14943
+models/props_halloween/skull_island_horns.vvd,313088,137754
+materials/models/props_halloween/skull.vmt,500,283
+materials/models/props_halloween/skull.vtf,699296,218464
+materials/models/props_halloween/skull_horns.vmt,506,288
+materials/models/props_halloween/skull_horns.vtf,175008,78271
+models/epangelmatikes/alice_mushroom_06.mdl,1776,415
+models/epangelmatikes/alice_mushroom_06.dx80.vtx,7383,1840
+models/epangelmatikes/alice_mushroom_06.dx90.vtx,7383,1877
+models/epangelmatikes/alice_mushroom_06.sw.vtx,7383,1905
+models/epangelmatikes/alice_mushroom_06.vvd,28608,14552
+materials/models/epangelmatikes/alice_mushroom_06.vmt,216,149
+materials/models/epangelmatikes/alice_mushroom_06.vtf,349632,123938
+materials/models/epangelmatikes/alice_mushroom_06_n.vtf,349632,234479
+models/epangelmatikes/alice_mushroom_05.mdl,1776,419
+models/epangelmatikes/alice_mushroom_05.dx80.vtx,7221,1839
+models/epangelmatikes/alice_mushroom_05.dx90.vtx,7221,1839
+models/epangelmatikes/alice_mushroom_05.sw.vtx,7221,1794
+models/epangelmatikes/alice_mushroom_05.vvd,27456,13702
+materials/models/epangelmatikes/alice_mushroom_07.vmt,216,150
+materials/models/epangelmatikes/alice_mushroom_07.vtf,349632,117680
+materials/models/epangelmatikes/alice_mushroom_07_n.vtf,349632,247980
+models/props_c17/pottery_large01a.mdl,1532,500
+models/props_c17/pottery_large01a.dx80.vtx,34325,6433
+models/props_c17/pottery_large01a.dx90.vtx,34325,6417
+models/props_c17/pottery_large01a.phy,8099,4638
+models/props_c17/pottery_large01a.sw.vtx,34325,5703
+models/props_c17/pottery_large01a.vvd,36416,15648
+materials/models/props_c17/pottery_large01a.vmt,193,143
+materials/models/props_c17/pottery_large01a.vtf,174968,126703
+models/sims 4/romantic garden/maximus arch.mdl,2936,549
+models/sims 4/romantic garden/maximus arch.dx80.vtx,58230,9162
+models/sims 4/romantic garden/maximus arch.dx90.vtx,58230,9166
+models/sims 4/romantic garden/maximus arch.phy,2536,1442
+models/sims 4/romantic garden/maximus arch.sw.vtx,58230,9226
+models/sims 4/romantic garden/maximus arch.vvd,266880,102729
+materials/sims 4/romantic garden/maximus arch.vmt,408,220
+materials/sims 4/romantic garden/maximus arch.vtf,1398336,295278
+materials/sims 4/romantic garden/maximus arch 2.vmt,410,222
+materials/sims 4/romantic garden/maximus arch 2.vtf,1398336,287183
+materials/sims 4/romantic garden/maximus arch 3.vmt,410,222
+materials/sims 4/romantic garden/maximus arch 3.vtf,1398336,297365
+materials/sims 4/romantic garden/maximus arch 4.vmt,410,222
+materials/sims 4/romantic garden/maximus arch 4.vtf,1398336,402683
+materials/sims 4/romantic garden/maximus arch 5.vmt,410,222
+materials/sims 4/romantic garden/maximus arch 5.vtf,1398336,372556
+materials/sims 4/romantic garden/maximus arch 6.vmt,410,222
+materials/sims 4/romantic garden/maximus arch 6.vtf,1398336,379289
+materials/sims 4/romantic garden/maximus arch 7.vmt,410,222
+materials/sims 4/romantic garden/maximus arch 7.vtf,1398336,257861
+materials/sims 4/romantic garden/maximus arch 8.vmt,109,113
+materials/sims 4/romantic garden/maximus arch 8.vtf,1398336,290719
+materials/sims 4/romantic garden/maximus arch 9.vmt,410,222
+materials/sims 4/romantic garden/maximus arch 9.vtf,1398336,280861
+materials/sims 4/romantic garden/maximus arch 10.vmt,411,223
+materials/sims 4/romantic garden/maximus arch 10.vtf,1398336,306116
+materials/sims 4/romantic garden/maximus arch 11.vmt,411,223
+materials/sims 4/romantic garden/maximus arch 11.vtf,1398336,240057
+materials/sims 4/romantic garden/maximus arch 12.vmt,411,223
+materials/sims 4/romantic garden/maximus arch 12.vtf,1398336,278154
+models/fogeffects/ground_fog.mdl,3308,622
+models/fogeffects/ground_fog.dx80.vtx,1177452,321935
+models/fogeffects/ground_fog.dx90.vtx,1177452,321935
+models/fogeffects/ground_fog.sw.vtx,1177452,327646
+models/fogeffects/ground_fog.vvd,3650368,645974
+materials/models/effectfog/fog.vmt,85,91
+materials/models/effectfog/fog.vtf,22096,149
+materials/models/effectfog/ground/fog.vmt,138,112
+materials/models/effectfog/ground/fog.vtf,1398352,384101
+materials/models/effectfog/ground/normal.vtf,699288,138008
+materials/models/effectfog/ground/fog_2.vmt,138,112
+models/sims 4/romantic garden/flower fountain.mdl,2976,555
+models/sims 4/romantic garden/flower fountain.dx80.vtx,51876,9469
+models/sims 4/romantic garden/flower fountain.dx90.vtx,51876,9456
+models/sims 4/romantic garden/flower fountain.phy,12856,6381
+models/sims 4/romantic garden/flower fountain.sw.vtx,51876,9291
+models/sims 4/romantic garden/flower fountain.vvd,214528,89636
+materials/sims 4/romantic garden/flower fountain.vmt,418,224
+materials/sims 4/romantic garden/flower fountain.vtf,1398336,341790
+materials/sims 4/romantic garden/flower fountain 2.vmt,420,226
+materials/sims 4/romantic garden/flower fountain 2.vtf,1398336,343814
+materials/sims 4/romantic garden/flower fountain 3.vmt,420,226
+materials/sims 4/romantic garden/flower fountain 3.vtf,1398336,339308
+materials/sims 4/romantic garden/flower fountain 4.vmt,420,225
+materials/sims 4/romantic garden/flower fountain 4.vtf,1398336,436153
+materials/sims 4/romantic garden/flower fountain 5.vmt,420,226
+materials/sims 4/romantic garden/flower fountain 5.vtf,1398336,421279
+materials/sims 4/romantic garden/flower fountain 6.vmt,420,226
+materials/sims 4/romantic garden/flower fountain 6.vtf,1398336,407876
+materials/sims 4/romantic garden/flower fountain 7.vmt,420,226
+materials/sims 4/romantic garden/flower fountain 7.vtf,1398336,295054
+materials/sims 4/romantic garden/flower fountain 8.vmt,420,226
+materials/sims 4/romantic garden/flower fountain 8.vtf,1398336,320495
+materials/sims 4/romantic garden/flower fountain 9.vmt,420,226
+materials/sims 4/romantic garden/flower fountain 9.vtf,1398336,335620
+materials/sims 4/romantic garden/flower fountain 10.vmt,421,227
+materials/sims 4/romantic garden/flower fountain 10.vtf,1398336,351477
+materials/sims 4/romantic garden/flower fountain 11.vmt,421,227
+materials/sims 4/romantic garden/flower fountain 11.vtf,1398336,310585
+materials/sims 4/romantic garden/flower fountain 12.vmt,421,227
+materials/sims 4/romantic garden/flower fountain 12.vtf,1398336,335278
+models/sims 4/romantic garden/leos source.mdl,3144,583
+models/sims 4/romantic garden/leos source.dx80.vtx,11856,2403
+models/sims 4/romantic garden/leos source.dx90.vtx,11856,2403
+models/sims 4/romantic garden/leos source.phy,5903,3029
+models/sims 4/romantic garden/leos source.sw.vtx,11856,2396
+models/sims 4/romantic garden/leos source.vvd,49472,15975
+materials/sims 4/romantic garden/leos source.vmt,414,222
+materials/sims 4/romantic garden/leos source.vtf,349760,81623
+materials/sims 4/romantic garden/leos source water.vmt,420,226
+materials/sims 4/romantic garden/leos source water.vtf,87616,21316
+materials/sims 4/romantic garden/leos source 2.vmt,416,223
+materials/sims 4/romantic garden/leos source 2.vtf,349760,84663
+materials/sims 4/romantic garden/leos source 3.vmt,416,223
+materials/sims 4/romantic garden/leos source 3.vtf,349760,81342
+materials/sims 4/romantic garden/leos source 4.vmt,416,223
+materials/sims 4/romantic garden/leos source 4.vtf,349760,119623
+materials/sims 4/romantic garden/leos source 5.vmt,416,223
+materials/sims 4/romantic garden/leos source 5.vtf,349760,116527
+materials/sims 4/romantic garden/leos source 6.vmt,416,223
+materials/sims 4/romantic garden/leos source 6.vtf,349760,112654
+materials/sims 4/romantic garden/leos source 7.vmt,416,223
+materials/sims 4/romantic garden/leos source 7.vtf,349760,73179
+materials/sims 4/romantic garden/leos source 8.vmt,416,223
+materials/sims 4/romantic garden/leos source 8.vtf,349760,81033
+materials/sims 4/romantic garden/leos source 9.vmt,416,223
+materials/sims 4/romantic garden/leos source 9.vtf,349760,76677
+materials/sims 4/romantic garden/leos source 10.vmt,417,224
+materials/sims 4/romantic garden/leos source 10.vtf,349760,78952
+materials/sims 4/romantic garden/leos source 11.vmt,417,224
+materials/sims 4/romantic garden/leos source 11.vtf,349760,62914
+materials/sims 4/romantic garden/leos source 12.vmt,417,224
+materials/sims 4/romantic garden/leos source 12.vtf,349760,85559
+models/props/de_inferno/vine_wall1.mdl,1472,435
+models/props/de_inferno/vine_wall1.dx80.vtx,217586,41148
+models/props/de_inferno/vine_wall1.dx90.vtx,217586,41302
+models/props/de_inferno/vine_wall1.sw.vtx,217586,41360
+models/props/de_inferno/vine_wall1.vvd,363776,163679
+materials/models/props/de_inferno/vine_wall1.vmt,115,109
+materials/models/props/de_inferno/vine_wall1.vtf,349744,123397
+models/epangelmatikes/alice_tower_03.mdl,1768,428
+models/epangelmatikes/alice_tower_03.dx80.vtx,106002,17954
+models/epangelmatikes/alice_tower_03.dx90.vtx,106002,18094
+models/epangelmatikes/alice_tower_03.sw.vtx,106002,18187
+models/epangelmatikes/alice_tower_03.vvd,538752,208647
+materials/models/epangelmatikes/alice_brick_08.vmt,210,147
+materials/models/epangelmatikes/alice_brick_08.vtf,5592512,1569152
+materials/models/epangelmatikes/alice_brick_08_n.vtf,5592512,4595059
+models/epangelmatikes/alice_tower_cap_02.mdl,1772,445
+models/epangelmatikes/alice_tower_cap_02.dx80.vtx,49035,8459
+models/epangelmatikes/alice_tower_cap_02.dx90.vtx,49035,8459
+models/epangelmatikes/alice_tower_cap_02.sw.vtx,49035,8037
+models/epangelmatikes/alice_tower_cap_02.vvd,268736,81611
+materials/models/epangelmatikes/alice_brick_14.vmt,210,147
+materials/models/epangelmatikes/alice_brick_14.vtf,5592512,1805530
+materials/models/epangelmatikes/alice_brick_14_n.vtf,5592512,4136324
+models/epangelmatikes/alice_tower_cap_03.mdl,1768,441
+models/epangelmatikes/alice_tower_cap_03.dx80.vtx,119355,28104
+models/epangelmatikes/alice_tower_cap_03.dx90.vtx,119355,28081
+models/epangelmatikes/alice_tower_cap_03.sw.vtx,119355,28328
+models/epangelmatikes/alice_tower_cap_03.vvd,401344,225124
+materials/models/epangelmatikes/alice_brick_13.vmt,210,147
+materials/models/epangelmatikes/alice_brick_13.vtf,5592512,1487614
+materials/models/epangelmatikes/alice_brick_13_n.vtf,5592512,4140079
+models/epangelmatikes/alice_web_01.mdl,1760,429
+models/epangelmatikes/alice_web_01.dx80.vtx,50046,12234
+models/epangelmatikes/alice_web_01.dx90.vtx,50046,12234
+models/epangelmatikes/alice_web_01.sw.vtx,50046,11291
+models/epangelmatikes/alice_web_01.vvd,173184,98502
+materials/models/epangelmatikes/alice_web_02.vmt,176,130
+materials/models/epangelmatikes/alice_web_02.vtf,5592512,656753
+materials/models/epangelmatikes/alice_web_02_n.vtf,5592512,1771333
+models/epangelmatikes/alice_pathway_01.mdl,1768,441
+models/epangelmatikes/alice_pathway_01.dx80.vtx,71061,8759
+models/epangelmatikes/alice_pathway_01.dx90.vtx,71061,8759
+models/epangelmatikes/alice_pathway_01.sw.vtx,71061,8757
+models/epangelmatikes/alice_pathway_01.vvd,378432,170448
+materials/models/epangelmatikes/alice_brick_02.vmt,210,147
+materials/models/epangelmatikes/alice_brick_02.vtf,5592512,1474895
+materials/models/epangelmatikes/alice_brick_02_n.vtf,5592512,3680207
+models/props_wasteland/rockcliff_cluster01b.mdl,1900,485
+models/props_wasteland/rockcliff_cluster01b.dx80.vtx,23969,5121
+models/props_wasteland/rockcliff_cluster01b.dx90.vtx,23969,5114
+models/props_wasteland/rockcliff_cluster01b.phy,7502,4475
+models/props_wasteland/rockcliff_cluster01b.sw.vtx,23969,5282
+models/props_wasteland/rockcliff_cluster01b.vvd,102464,47063
+materials/models/props_wasteland/rockcliff02a.vmt,121,115
+materials/models/props_wasteland/rockcliff02a.vtf,174968,130625
+materials/models/props_wasteland/rockcliff02b.vmt,130,118
+materials/nature/rockwall011f.vtf,174968,121118
+materials/models/props_wasteland/rockcliff02c.vmt,130,118
+models/props_wasteland/rockcliff_cluster02a.mdl,1636,481
+models/props_wasteland/rockcliff_cluster02a.dx80.vtx,23886,4838
+models/props_wasteland/rockcliff_cluster02a.dx90.vtx,23886,4850
+models/props_wasteland/rockcliff_cluster02a.phy,23956,14079
+models/props_wasteland/rockcliff_cluster02a.sw.vtx,23886,4796
+models/props_wasteland/rockcliff_cluster02a.vvd,104704,50326
+models/sims 4/romantic garden/little fountain.mdl,3312,577
+models/sims 4/romantic garden/little fountain.dx80.vtx,22530,4507
+models/sims 4/romantic garden/little fountain.dx90.vtx,22530,4508
+models/sims 4/romantic garden/little fountain.phy,14095,6935
+models/sims 4/romantic garden/little fountain.sw.vtx,22530,4557
+models/sims 4/romantic garden/little fountain.vvd,88640,32776
+materials/sims 4/romantic garden/little fountain water.vmt,424,229
+materials/sims 4/romantic garden/little fountain water.vtf,87616,21316
+materials/sims 4/romantic garden/little fountain.vmt,418,224
+materials/sims 4/romantic garden/little fountain.vtf,349760,85755
+materials/sims 4/romantic garden/little fountain 2.vmt,420,226
+materials/sims 4/romantic garden/little fountain 2.vtf,349760,88416
+materials/sims 4/romantic garden/little fountain 3.vmt,420,226
+materials/sims 4/romantic garden/little fountain 3.vtf,349760,84491
+materials/sims 4/romantic garden/little fountain 4.vmt,420,225
+materials/sims 4/romantic garden/little fountain 4.vtf,349760,121096
+materials/sims 4/romantic garden/little fountain 5.vmt,420,226
+materials/sims 4/romantic garden/little fountain 5.vtf,349760,118169
+materials/sims 4/romantic garden/little fountain 6.vmt,420,226
+materials/sims 4/romantic garden/little fountain 6.vtf,349760,110980
+materials/sims 4/romantic garden/little fountain 7.vmt,420,226
+materials/sims 4/romantic garden/little fountain 7.vtf,349760,72807
+materials/sims 4/romantic garden/little fountain 8.vmt,420,226
+materials/sims 4/romantic garden/little fountain 8.vtf,349760,82188
+materials/sims 4/romantic garden/little fountain 9.vmt,420,226
+materials/sims 4/romantic garden/little fountain 9.vtf,349760,79057
+materials/sims 4/romantic garden/little fountain 10.vmt,421,226
+materials/sims 4/romantic garden/little fountain 10.vtf,349760,86107
+materials/sims 4/romantic garden/little fountain 11.vmt,421,226
+materials/sims 4/romantic garden/little fountain 11.vtf,349760,73465
+materials/sims 4/romantic garden/little fountain 12.vmt,421,226
+materials/sims 4/romantic garden/little fountain 12.vtf,349760,87851
+materials/sims 4/romantic garden/maximus fountain water.vmt,425,230
+materials/sims 4/romantic garden/maximus fountain water.vtf,1398336,217762
+models/props_foliage/waterlily01.mdl,1464,393
+models/props_foliage/waterlily01.dx80.vtx,2133,631
+models/props_foliage/waterlily01.dx90.vtx,2133,634
+models/props_foliage/waterlily01.sw.vtx,2133,637
+models/props_foliage/waterlily01.vvd,6976,3853
+materials/models/props_foliage/waterlily01.vmt,168,139
+materials/models/props_foliage/waterlily01.vtf,87616,27750
+models/sims 4/romantic garden/flower climbing frame.mdl,2776,532
+models/sims 4/romantic garden/flower climbing frame.dx80.vtx,23181,3627
+models/sims 4/romantic garden/flower climbing frame.dx90.vtx,23181,3627
+models/sims 4/romantic garden/flower climbing frame.phy,9293,3515
+models/sims 4/romantic garden/flower climbing frame.sw.vtx,23181,3561
+models/sims 4/romantic garden/flower climbing frame.vvd,109376,43778
+materials/sims 4/romantic garden/flower climbing frame.vmt,413,225
+materials/sims 4/romantic garden/flower climbing frame.vtf,699232,103610
+materials/sims 4/romantic garden/flower climbing frame 2.vmt,415,227
+materials/sims 4/romantic garden/flower climbing frame 2.vtf,699232,100893
+materials/sims 4/romantic garden/flower climbing frame 3.vmt,415,227
+materials/sims 4/romantic garden/flower climbing frame 3.vtf,699232,104446
+materials/sims 4/romantic garden/flower climbing frame 4.vmt,415,227
+materials/sims 4/romantic garden/flower climbing frame 4.vtf,699232,92725
+materials/sims 4/romantic garden/flower climbing frame 5.vmt,415,227
+materials/sims 4/romantic garden/flower climbing frame 5.vtf,699232,104720
+materials/sims 4/romantic garden/flower climbing frame 6.vmt,415,227
+materials/sims 4/romantic garden/flower climbing frame 6.vtf,699232,102593
+materials/sims 4/romantic garden/flower climbing frame 7.vmt,415,227
+materials/sims 4/romantic garden/flower climbing frame 7.vtf,699232,103419
+materials/sims 4/romantic garden/flower climbing frame 8.vmt,415,227
+materials/sims 4/romantic garden/flower climbing frame 8.vtf,699232,104248
+materials/sims 4/romantic garden/flower climbing frame 9.vmt,415,227
+materials/sims 4/romantic garden/flower climbing frame 9.vtf,699232,103815
+materials/sims 4/romantic garden/flower climbing frame 10.vmt,416,227
+materials/sims 4/romantic garden/flower climbing frame 10.vtf,699232,106676
+models/epangelmatikes/alice_web_02.mdl,1760,437
+models/epangelmatikes/alice_web_02.dx80.vtx,79629,18954
+models/epangelmatikes/alice_web_02.dx90.vtx,79629,18954
+models/epangelmatikes/alice_web_02.sw.vtx,79629,18360
+models/epangelmatikes/alice_web_02.vvd,279616,156353
+materials/models/epangelmatikes/alice_web_01.vmt,79,86
+materials/models/epangelmatikes/alice_web_01.vtf,1398208,225248
+models/props_wasteland/rockcliff_cluster03c.mdl,1636,482
+models/props_wasteland/rockcliff_cluster03c.dx80.vtx,43460,8631
+models/props_wasteland/rockcliff_cluster03c.dx90.vtx,43460,8631
+models/props_wasteland/rockcliff_cluster03c.phy,5571,3506
+models/props_wasteland/rockcliff_cluster03c.sw.vtx,43460,8644
+models/props_wasteland/rockcliff_cluster03c.vvd,67904,31423
+models/props_farm/cow_dead2_hornless.mdl,1920,509
+models/props_farm/cow_dead2_hornless.dx80.vtx,23700,6199
+models/props_farm/cow_dead2_hornless.dx90.vtx,23700,6200
+models/props_farm/cow_dead2_hornless.phy,4103,2602
+models/props_farm/cow_dead2_hornless.sw.vtx,23700,6320
+models/props_farm/cow_dead2_hornless.vvd,81152,44506
+materials/models/props_farm/cow_brown.vmt,134,123
+materials/models/props_farm/cow_brown.vtf,1398320,441382
+materials/models/props_farm/cow_blackwhite.vmt,139,126
+materials/models/props_farm/cow_blackwhite.vtf,1398320,431910
+materials/models/props_farm/cow_grey.vmt,133,122
+materials/models/props_farm/cow_grey.vtf,1398320,444671
+materials/models/props_farm/cow_browndirty.vmt,139,126
+materials/models/props_farm/cow_browndirty.vtf,1398320,468020
+materials/models/props_farm/cow_blackwhitedirty.vmt,144,131
+materials/models/props_farm/cow_blackwhitedirty.vtf,1398320,477456
+materials/models/props_farm/cow_greydirty.vmt,138,125
+materials/models/props_farm/cow_greydirty.vtf,1398320,484718
+models/props_alien/groundplants02d.mdl,1732,445
+models/props_alien/groundplants02d.dx80.vtx,10041,1749
+models/props_alien/groundplants02d.dx90.vtx,10041,1721
+models/props_alien/groundplants02d.sw.vtx,10041,1749
+models/props_alien/groundplants02d.vvd,49984,15051
+materials/models/props_alien/foliagecluster01a.vmt,236,157
+materials/models/props_alien/foliagecluster01a.vtf,5592640,2414195
+materials/models/props_alien/foliagecluster01a_normal.vtf,5592640,1844074
+materials/tools/toolsnodraw.vmt,209,177
+materials/tools/toolsnodraw.vtf,2976,591
+materials/realworldtextures2/tile/tile_02.vmt,351,229
+materials/realworldtextures2/tile/tile_02.vtf,174984,103273
+materials/realworldtextures2/tile/tile_02_nrm.vtf,174984,90839
+materials/realworldtextures2/tile/tile_02_spec.vtf,174984,102185
+materials/realworldtextures2/tile/tile_04.vmt,351,229
+materials/realworldtextures2/tile/tile_04.vtf,174984,115729
+materials/realworldtextures2/tile/tile_04_nrm.vtf,174984,87508
+materials/realworldtextures2/tile/tile_04_spec.vtf,174984,110539
+materials/benchmarked/firework.vmt,236,149
+materials/benchmarked/firework.vtf,2098000,961608
+materials/blackmesa1/csrev_dark_concrete_01.vmt,81,89
+materials/blackmesa1/csrev_dark_concrete_01.vtf,174984,118723
+materials/realworldtextures/newer/3/tile_3_06.vmt,188,133
+materials/realworldtextures/newer/3/tile_3_06.vtf,174984,107872
+materials/realworldtextures/newer/3/tile_3_06_nrm.vtf,174984,98517
+materials/devneons/green_neon.vmt,104,99
+materials/devneons/green_neon.vtf,43912,137
+materials/realworldtextures2/ground/grass_07.vmt,322,230
+materials/realworldtextures2/ground/grass_07.vtf,174984,128507
+materials/realworldtextures2/detail/dt_grass1.vtf,16807,6311
+materials/realworldtextures/newer/3/tile_3_04.vmt,188,133
+materials/realworldtextures/newer/3/tile_3_04.vtf,174984,111780
+materials/realworldtextures/newer/3/tile_3_04_nrm.vtf,174984,106350
+materials/nature/ah_dirt1.vmt,112,106
+materials/nature/ah_dirt1.vtf,699272,462430
+materials/srp/stone/stone_tile_medium01.vmt,105,104
+materials/srp/stone/stone_tile_medium01.vtf,349760,136543
+materials/tile/tilefloor005a.vmt,158,143
+materials/tile/tilefloor005a.vtf,174968,111285
+materials/realworldtextures/new/tileblu_blau.vmt,301,168
+materials/realworldtextures/new/tileblu_blau.vtf,87600,39119
+materials/realworldtextures/new/tileblu_normal.vtf,87600,33038
+materials/realworldtextures/new/tileblu_specular.vtf,87600,25229
+materials/realworldtextures2/ground/grass_08.vmt,322,231
+materials/realworldtextures2/ground/grass_08.vtf,174984,126743
+materials/devneons/white_neon.vmt,104,100
+materials/devneons/white_neon.vtf,43912,134
+materials/cs_italy/black.vmt,62,73
+materials/cs_italy/black.vtf,1584,90
+materials/de_prodigy/concrete01a.vmt,123,112
+materials/de_prodigy/concrete01a.vtf,174968,120282
+materials/benchmarked/lovecraft_gothic_3.vmt,72,82
+materials/benchmarked/lovecraft_gothic_3.vtf,174984,92914
+materials/concrete/concretefloor014a.vmt,291,207
+materials/concrete/concretefloor014a.vtf,43896,32094
+materials/detail/noise_detail_01.vtf,43936,31042
+materials/devneons/red_neon.vmt,102,98
+materials/devneons/red_neon.vtf,43912,136
+materials/benchmarked/lovecraft_gothic_5.vmt,78,87
+materials/benchmarked/lovecraft_gothic_5.vtf,174984,94262
+materials/concrete/concreteceiling004a.vmt,267,190
+materials/concrete/concreteceiling004a.vtf,174968,136183
+materials/benchmarked/lovecraft_creepy_4.vmt,78,87
+materials/benchmarked/lovecraft_creepy_4.vtf,174984,130222
+materials/realworldtextures2/ground/lava_magma_05.vmt,320,234
+materials/realworldtextures2/ground/lava_magma_05.vtf,174984,115788
+materials/realworldtextures2/detail/dt_stone1.vtf,16807,5934
+materials/benchmarked/creepy-eyes.vmt,239,152
+materials/benchmarked/creepy-eyes.vtf,10486768,251582
+materials/nature/lavawall001a.vmt,435,258
+materials/nature/lavawall001a.vtf,5592628,1385471
+materials/benchmarked/lovecraft_bones_2.vmt,77,86
+materials/benchmarked/lovecraft_bones_2.vtf,174984,119946
+materials/concrete/concretewall035a.vmt,126,108
+materials/concrete/concretewall035a.vtf,174968,123520
+materials/watersource/waterfall/waterfallfull_256_nrm_red.vmt,427,249
+materials/watersource/waterfall/waterfallfull_256_nrm_clear.vtf,65744,17306
+materials/benchmarked/lovecraft_bones_3.vmt,77,86
+materials/benchmarked/lovecraft_bones_3.vtf,174984,112984
+materials/benchmarked/lavarocks.vmt,69,79
+materials/benchmarked/lavarocks.vtf,174984,138686
+materials/realworldtextures/newer/2/marble_2_03.vmt,196,139
+materials/realworldtextures/newer/2/marble_2_03.vtf,174984,127821
+materials/realworldtextures/newer/2/marble_2_03_spec.vtf,174984,109171
+materials/realworldtextures2/marble/marble_11.vmt,380,262
+materials/realworldtextures2/marble/marble_11.vtf,174984,104701
+materials/realworldtextures2/detail/dt_stone3.vtf,16807,5688
+materials/concrete/prodflrb.vmt,131,103
+materials/concrete/prodflrb.vtf,174968,135512
+materials/concrete/prodflrb_normal.vtf,174968,149729
+materials/tools/toolsskybox.vmt,285,228
+materials/tools/toolsskybox.vtf,11168,978
+materials/benchmarked/marble_grey.vmt,71,80
+materials/benchmarked/marble_grey.vtf,174984,84567
+materials/realworldtextures2/marble/marble_14.vmt,380,262
+materials/realworldtextures2/marble/marble_14.vtf,174984,106971
+materials/realworldtextures/newer/2/marble_2_01.vmt,196,139
+materials/realworldtextures/newer/2/marble_2_01.vtf,174984,128712
+materials/realworldtextures/newer/2/marble_2_01_spec.vtf,174984,111923
+materials/benchmarked/devneons/yellow_neon.vmt,105,100
+materials/devneons/yellow_neon.vtf,43912,138
+materials/realworldtextures2/wall/brick_wall_09.vmt,391,251
+materials/realworldtextures2/wall/brick_wall_09.vtf,174984,142647
+materials/realworldtextures2/wall/brick_wall_09_nrm.vtf,174984,151166
+materials/realworldtextures2/detail/detailconcrete001a.vtf,262567,78863
+materials/esther/walls/stonewall_003.vmt,94,97
+materials/esther/walls/stonewall_003.vtf,174984,130953
+materials/de_tides/tides_dirtstonepath.vmt,100,98
+materials/de_tides/tides_dirtstonepath.vtf,174968,141057
+materials/stone/infflrc.vmt,85,90
+materials/stone/infflrc.vtf,174968,143984
+materials/benchmarked/lovecraft_gothic_2.vmt,78,87
+materials/benchmarked/lovecraft_gothic_2.vtf,174984,78711
+materials/watersource/waterfall/waterfallfull_1024_nrm_red.vmt,429,250
+materials/watersource/waterfall/waterfallfull_1024_nrm_clear.vtf,524496,211312
+materials/fakesky/sky140.vmt,68,75
+materials/fakesky/sky140.vtf,29360217,3151068
+materials/benchmarked/seamlessblue.vmt,66,76
+materials/benchmarked/seamlessblue.vtf,699272,534716
+materials/devneons/blue_neon.vmt,103,98
+materials/devneons/blue_neon.vtf,43912,142
+materials/watersource/waterfall/waterfallfull_1024_nrm_green.vmt,429,251
+materials/de_tides/tides_floor_stone_1.vmt,101,98
+materials/de_tides/tides_floor_stone_1.vtf,174968,127423
+materials/cs_havana/ivy06a.vmt,215,161
+materials/cs_italy/ivy06a.vtf,174928,111847
+materials/benchmarked/pentagram.vmt,63,74
+materials/benchmarked/pentagram.vtf,174984,60873
+materials/srp/stone/floor_tile_white01.vmt,100,101
+materials/srp/stone/floor_tile_white01.vtf,1398336,548582
+materials/de_dust/rockwall01.vmt,119,113
+materials/de_dust/rockwall01.vtf,174968,129347
+materials/concrete/milflr001.vmt,161,122
+materials/concrete/milflr001.vtf,699256,466778
+materials/concrete/milflr001_ref.vtf,174984,102656
+materials/benchmarked/lovecraft_creepy_2.vmt,78,87
+materials/benchmarked/lovecraft_creepy_2.vtf,174984,112316
+materials/benchmarked/lovecraft_distorted_bricks.vmt,86,93
+materials/benchmarked/lovecraft_distorted_bricks.vtf,174984,108518
+materials/benchmarked/bybench3.vmt,62,72
+materials/benchmarked/bybench3.vtf,2796384,370863
+materials/benchmarked/blood2.vmt,66,76
+materials/benchmarked/blood2.vtf,174984,113351
+materials/benchmarked/skulls.vmt,66,76
+materials/benchmarked/skulls.vtf,174984,68659
+materials/benchmarked/seamlessgreen.vmt,67,77
+materials/benchmarked/seamlessgreen.vtf,174984,86507
+materials/saspatoon/wood/lightning/lightningwoodgreen.vmt,225,181
+materials/saspatoon/wood/lightning/lightningwoodgreen.vtf,174984,126602
+materials/skar/aliengreen.vmt,122,106
+materials/skar/aliengreen.vtf,174984,136766
+materials/skar/normals/aliengreennormal.vtf,174984,154018
+materials/de_piranesi/marblefloor13.vmt,222,162
+materials/de_piranesi/marblefloor13.vtf,174968,121528
+materials/de_piranesi/marblefloor13_spec.vtf,174968,114506
+materials/de_piranesi/marblefloor10.vmt,222,162
+materials/de_piranesi/marblefloor10.vtf,174968,130178
+materials/de_piranesi/marblefloor10_spec.vtf,174968,114018
+materials/de_piranesi/marblefloor06.vmt,222,163
+materials/de_piranesi/marblefloor06.vtf,174968,129467
+materials/de_piranesi/marblefloor01_spec.vtf,174968,116609
+materials/fakesky/mpa120.vmt,68,77
+materials/fakesky/mpa120.vtf,29360217,4991639
+materials/concrete/realworldtextures2/concrete/ground/concrete_01.vmt,388,242
+materials/realworldtextures2/concrete/ground/concrete_01.vtf,174984,106020
+materials/realworldtextures2/concrete/ground/concrete_01_nrm.vtf,174984,159042
+materials/realworldtextures2/detail/noise_detail_01.vtf,65959,24161
+materials/realworldtextures/newer/3/tile_3_07.vmt,188,133
+materials/realworldtextures/newer/3/tile_3_07.vtf,174984,123983
+materials/realworldtextures/newer/3/tile_3_07_nrm.vtf,174984,107931
+materials/_css/de_tides/tides_floor_stone_1.vmt,106,102
+materials/_css/de_tides/tides_floor_stone_1.vtf,174968,127423
+materials/de_tides/tides_floor_stone_2.vmt,101,98
+materials/de_tides/tides_floor_stone_2.vtf,174968,117879
+materials/concrete/concretefloor008a.vmt,186,156
+materials/concrete/concretefloor008a.vtf,174968,115067
+materials/stone/infwllf.vmt,86,87
+materials/stone/infwllf.vtf,349672,256230
+materials/stone/stonewall034a.vmt,173,153
+materials/stone/stonewall034a.vtf,174968,127143
+materials/benchmarked/bloodvessels3.vmt,92,96
+materials/benchmarked/bloodvessels3.vtf,5592640,2592166
+materials/benchmarked/tartarus.vmt,62,72
+materials/benchmarked/tartarus.vtf,699272,158158
+materials/benchmarked/elysium.vmt,61,72
+materials/benchmarked/elysium.vtf,699272,191676
+materials/benchmarked/asphodel.vmt,65,75
+materials/benchmarked/asphodel.vtf,699272,139043
+materials/tools/toolstrigger.vmt,278,206
+materials/tools/toolstrigger.vtf,5720,1007
+materials/tools/toolstrigger-dx10.vtf,5720,1012
+materials/realworldtextures/newer/2/marble_2_02.vmt,196,139
+materials/realworldtextures/newer/2/marble_2_02.vtf,174984,114202
+materials/realworldtextures/newer/2/marble_2_02_spec.vtf,174984,115260
+materials/realworldtextures/newer/2/marble_2_04.vmt,196,139
+materials/realworldtextures/newer/2/marble_2_04.vtf,174984,125015
+materials/realworldtextures/newer/2/marble_2_04_spec.vtf,174984,108035
+materials/benchmarked/blood1.vmt,60,72
+materials/benchmarked/blood1.vtf,174984,87897
+materials/benchmarked/lovecraft_bloodwall.vmt,79,87
+materials/benchmarked/lovecraft_bloodwall.vtf,174984,156297
+materials/benchmarked/lovecraft_bloodwall_2.vmt,81,89
+materials/benchmarked/lovecraft_bloodwall_2.vtf,699272,519960
+materials/benchmarked/sigil.vmt,78,85
+materials/benchmarked/sigil.vtf,699272,340292
+materials/dev_nyro/dev_green_a-05.vmt,74,80
+materials/dev_nyro/dev_green_a-05.vtf,22064,499
+materials/benchmarked/en4.vmt,57,69
+materials/benchmarked/en4.vtf,174984,150399
+materials/realworldtextures2/marble/support/marble_pillar_09.vmt,363,242
+materials/realworldtextures2/marble/support/marble_pillar_09.vtf,174984,110418
+materials/realworldtextures2/marble/support/marble_pillar_09_nrm.vtf,174984,138261
+materials/watersource/waterfall/waterfallfull_1024_nrm_teal.vmt,434,254
+materials/glass/combineglass001a.vmt,293,188
+materials/glass/combineglass001a.vtf,349744,76474
+materials/glass/combineglass001a_mask.vtf,174968,456
+materials/benchmarked/lovecraft_gothic_4.vmt,78,87
+materials/benchmarked/lovecraft_gothic_4.vtf,174984,118489
+materials/de_piranesi/marblefloor08.vmt,222,164
+materials/de_piranesi/marblefloor08.vtf,174968,117460
+materials/stone/infarcha.vmt,87,87
+materials/stone/infarcha.vtf,87528,63591
+materials/_css/de_tides/tides_floor_stone_2.vmt,106,102
+materials/_css/de_tides/tides_floor_stone_2.vtf,174968,117879
+materials/stone/infwllftop.vmt,89,89
+materials/stone/infwllftop.vtf,174968,121606
+materials/benchmarked/intro-2.vmt,61,73
+materials/benchmarked/intro-2.vtf,1398336,124329
+materials/benchmarked/bluegifportal.vmt,241,153
+materials/benchmarked/bluegifportal.vtf,9263336,2847653
+materials/concrete/concretewall002a.vmt,126,108
+materials/concrete/concretewall002a.vtf,174968,128247
+materials/fakesky/pandora_b.vmt,71,79
+materials/fakesky/pandora_b.vtf,29360217,6700328
+materials/realworldtextures2/marble/marble_rough_04.vmt,467,285
+materials/realworldtextures2/marble/marble_rough_04.vtf,174984,131275
+materials/realworldtextures2/marble/marble_rough_01_nrm.vtf,174984,139372
+materials/benchmarked/intro-1.vmt,61,73
+materials/benchmarked/intro-1.vtf,699272,112676
+materials/decals/blood1.vmt,193,146
+materials/decals/blood1.vtf,22080,7443
+materials/benchmarked/sinnercredits.vmt,67,77
+materials/benchmarked/sinnercredits.vtf,1398264,211811
+materials/_css/cs_italy/stonewall02.vmt,171,139
+materials/_css/cs_italy/stonewall02.vtf,174968,118405
+materials/_css/cs_italy/stonewall02_normal.vtf,1048767,633095
+materials/skybox/sky05bk.vmt,97,88
+materials/skybox/sky05bk.vtf,699272,248179
+materials/skybox/sky05dn.vmt,97,88
+materials/skybox/sky05dn.vtf,699272,334624
+materials/skybox/sky05ft.vmt,97,88
+materials/skybox/sky05ft.vtf,699272,258504
+materials/skybox/sky05lf.vmt,97,88
+materials/skybox/sky05lf.vtf,699272,247184
+materials/skybox/sky05rt.vmt,97,88
+materials/skybox/sky05rt.vtf,699272,255166
+materials/skybox/sky05up.vmt,97,88
+materials/skybox/sky05up.vtf,699272,134034
+materials/detail/detailsprites.vmt,155,121
+materials/detail/detailsprites.vtf,1398336,639038
+materials/de_tides/tides_dirt.vtf,174968,135616
+materials/de_tides/tides_concretefloor.vtf,174968,122817

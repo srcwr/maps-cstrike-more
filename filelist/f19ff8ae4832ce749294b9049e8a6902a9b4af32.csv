@@ -1,0 +1,31 @@
+filename,size,compressed
+materials/maps/surf_purgatory/metal/citadel_metalwall077a_0_0_0.vmt,135,135
+materials/maps/surf_purgatory/metal/citadel_metalwall063a_0_0_0.vmt,135,135
+materials/maps/surf_purgatory/metal/metalfloor001a_0_0_0.vmt,128,128
+materials/maps/surf_purgatory/metal/metalcombine001_0_0_0.vmt,129,129
+materials/maps/surf_purgatory/nature/water_canals03_depth_3.vmt,107,107
+materials/maps/surf_purgatory/nature/water_canals_water2_depth_4.vmt,112,112
+materials/maps/surf_purgatory/nature/water_canals03_depth_157.vmt,109,109
+materials/maps/surf_purgatory/nature/water_canals03_depth_4.vmt,107,107
+materials/maps/surf_purgatory/cubemapdefault.vtf,38300,38300
+materials/maps/surf_purgatory/c0_0_0.vtf,38300,38300
+materials/Custom Tex/black.vmt,92,92
+materials/Custom Tex/black.vtf,1398308,1398308
+materials/skybox/star1/star1_bk.vmt,80,80
+materials/skybox/star1/star1_bk.vtf,5592612,5592612
+materials/skybox/star1/star1_dn.vmt,80,80
+materials/skybox/star1/star1_dn.vtf,5592612,5592612
+materials/skybox/star1/star1_ft.vmt,80,80
+materials/skybox/star1/star1_ft.vtf,5592612,5592612
+materials/skybox/star1/star1_lf.vmt,80,80
+materials/skybox/star1/star1_lf.vtf,5592612,5592612
+materials/skybox/star1/star1_rt.vmt,80,80
+materials/skybox/star1/star1_rt.vtf,5592612,5592612
+materials/skybox/star1/star1_up.vmt,80,80
+materials/skybox/star1/star1_up.vtf,5592612,5592612
+materials/purg/glass3.vmt,126,126
+materials/purg/glass3.vtf,5592612,5592612
+materials/purg/prodcautionblue.vmt,68,68
+materials/purg/prodcautionblue.vtf,43912,43912
+materials/purg/prodcautionred.vmt,67,67
+materials/purg/prodcautionred.vtf,43912,43912

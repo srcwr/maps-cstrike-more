@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/surf_enormousblackcocks/cubemapdefault.vtf,28753,28753
+materials/maps/surf_enormousblackcocks/cubemapdefault.hdr.vtf,76528,76528
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/dev_nyro/dev_gray-07.vmt,71,71
+materials/dev_nyro/dev_gray-07.vtf,22064,22064
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+maps/graphs/surf_enormousblackcocks.ain,16,16
