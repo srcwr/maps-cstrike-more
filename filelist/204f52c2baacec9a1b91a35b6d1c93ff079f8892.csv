@@ -1,0 +1,231 @@
+filename,size,compressed
+materials/maps/surf_kaaba/de_chateau/extwall01a_64_1152_-1088.vmt,133,132
+materials/maps/surf_kaaba/_hl2/metal/citadel_tilefloor016a_64_1152_-1088.vmt,144,142
+materials/maps/surf_kaaba/cubemapdefault.vtf,9832,106
+materials/maps/surf_kaaba/c64_1152_-1088.vtf,4968,3172
+materials/maps/surf_kaaba/cubemapdefault.hdr.vtf,76528,127
+materials/maps/surf_kaaba/c64_1152_-1088.hdr.vtf,76528,127
+sp_0.vhv,1024,189
+sp_1.vhv,25600,6426
+sp_2.vhv,25600,5823
+sp_3.vhv,23040,7511
+materials/de_chateau/extwall01a.vmt,263,176
+materials/de_chateau/extwall01a.vtf,174968,127429
+materials/de_chateau/extwall01a_spec.vtf,174968,102149
+materials/_hl2/metal/citadel_tilefloor016a.vmt,947,425
+materials/tile/tilefloor016a.vtf,174968,106691
+materials/tile/tilefloor021a_normal.vtf,349744,117276
+materials/de_dust/groundsand03.vmt,121,114
+materials/de_dust/groundsand03.vtf,174968,119245
+materials/tools/toolsnodraw.vmt,254,206
+materials/tools/toolsnodraw.vtf,2936,567
+materials/de_dust/templewall04a_bottom.vmt,142,115
+materials/de_dust/templewall04a_bottom.vtf,174984,140361
+materials/de_dust/templewall04a_bottom_normal.vtf,174984,95864
+materials/de_dust/sitebwall14a.vmt,166,135
+materials/de_dust/sitebwall14a.vtf,174968,126014
+materials/silkroad/egypt/wall (58).vmt,72,83
+materials/silkroad/egypt/wall (58).vtf,87616,26289
+materials/fool/indy/act_iii/tomb/e_ent_txr_tombwall03.vmt,94,98
+materials/fool/indy/act_iii/tomb/e_ent_txr_tombwall03.vtf,174944,63071
+materials/silkroad/egypt/ground (16).vmt,74,84
+materials/silkroad/egypt/ground (16).vtf,87616,26023
+materials/fool/indy/act_ii/tomb/m07_txr_base_txr52.vmt,91,95
+materials/fool/indy/act_ii/tomb/m07_txr_base_txr52.vtf,349760,120635
+materials/silkroad/egypt/wall (54).vmt,72,83
+materials/silkroad/egypt/wall (54).vtf,174944,55945
+materials/silkroad/egypt/ground (6).vmt,73,83
+materials/silkroad/egypt/ground (6).vtf,87616,26026
+materials/silkroad/egypt/wall (56).vmt,72,83
+materials/silkroad/egypt/wall (56).vtf,174944,54510
+materials/silkroad/egypt/wall (42).vmt,72,83
+materials/silkroad/egypt/wall (42).vtf,87616,25484
+materials/silkroad/egypt/wall (86).vmt,72,83
+materials/silkroad/egypt/wall (86).vtf,349760,44179
+materials/silkroad/egypt/wall (89).vmt,72,83
+materials/silkroad/egypt/wall (89).vtf,87616,27315
+materials/fool/indy/act_iii/tomb/e_ent_txr_door01.vmt,90,96
+materials/fool/indy/act_iii/tomb/e_ent_txr_door01.vtf,174944,66571
+materials/silkroad/egypt/wall (114).vmt,92,98
+materials/silkroad/egypt/wall (114).vtf,87616,29710
+materials/tools/toolsskybox.vmt,285,228
+materials/tools/toolsskybox.vtf,11128,957
+materials/silkroad/egypt/wall (15).vmt,72,83
+materials/silkroad/egypt/wall (15).vtf,87616,29775
+materials/_css/de_chateau/exttrim01.vmt,125,118
+materials/_css/de_chateau/exttrim01.vtf,21992,17091
+materials/silkroad/egypt/stair (5).vmt,72,83
+materials/silkroad/egypt/stair (5).vtf,43872,14026
+materials/silkroad/egypt/ground (4).vmt,92,97
+materials/silkroad/egypt/ground (4).vtf,87616,26266
+materials/silkroad/egypt/wall (40).vmt,72,83
+materials/silkroad/egypt/wall (40).vtf,87616,27709
+materials/silkroad/egypt/ground (15).vmt,74,84
+materials/silkroad/egypt/ground (15).vtf,87616,24203
+materials/silkroad/egypt/ground (2).vmt,73,83
+materials/silkroad/egypt/ground (2).vtf,87616,29935
+materials/silkroad/egypt/ground (1).vmt,73,83
+materials/silkroad/egypt/ground (1).vtf,22080,7159
+materials/silkroad/egypt/wall (37).vmt,72,83
+materials/silkroad/egypt/wall (37).vtf,87616,27284
+materials/realworldtextures2/ground/sand_08.vmt,321,232
+materials/realworldtextures2/ground/sand_08.vtf,174984,98518
+materials/realworldtextures2/detail/dt_smooth1.vtf,16807,5306
+materials/silkroad/egypt/wall (77).vmt,72,83
+materials/silkroad/egypt/wall (77).vtf,87616,27000
+materials/de_dust/sitebwall13a_bottom.vmt,103,104
+materials/de_dust/sitebwall13a_bottom.vtf,174984,134698
+materials/tools/toolsskip.vmt,265,202
+materials/tools/toolsskip.vtf,5680,1887
+materials/tools/toolsskip-dx10.vtf,5720,1909
+materials/tools/toolshint.vmt,265,202
+materials/tools/toolshint.vtf,5680,749
+materials/tools/toolshint-dx10.vtf,5720,774
+materials/decals/door_metal03.vmt,172,128
+materials/decals/door_metal03.vtf,349784,65554
+materials/effects/black.vmt,61,72
+materials/effects/black.vtf,2936,71
+materials/rathe/kaaba/kaaba_base.vmt,89,90
+materials/rathe/kaaba/kaaba_base.vtf,5592640,1194
+materials/hr_massive/wood_planks_5.vmt,570,287
+materials/hr_massive/wood_planks_5.vtf,699296,396478
+materials/hr_massive/wood_planks_5_normal.vtf,175008,65720
+materials/fool/urbanterror/riches_metal2/r_ventpipe1_512.vmt,97,101
+materials/fool/urbanterror/riches_metal2/r_ventpipe1_512.vtf,87544,54219
+materials/de_dust/residbwall01.vmt,164,133
+materials/de_dust/residbwall01.vtf,174968,129640
+materials/de_dust/residbwall01_normal.vtf,175008,140559
+materials/decals/metal_vent01.vmt,140,117
+materials/decals/metal_vent01.vtf,87640,24611
+materials/rathe/kaaba/kaaba.vmt,84,86
+materials/rathe/kaaba/kaaba.vtf,5592640,141676
+materials/silkroad/egypt/wall (59).vmt,72,83
+materials/silkroad/egypt/wall (59).vtf,87616,24532
+materials/silkroad/egypt/wall (39).vmt,72,83
+materials/silkroad/egypt/wall (39).vtf,87616,27866
+materials/silkroad/egypt/wall (41).vmt,72,83
+materials/silkroad/egypt/wall (41).vtf,87616,27387
+materials/silkroad/egypt/ground (8).vmt,73,83
+materials/silkroad/egypt/ground (8).vtf,87616,28568
+materials/de_dust/templewall02a.vmt,166,133
+materials/de_dust/templewall02a.vtf,174968,136479
+materials/de_dust/templewall02a_normal.vtf,175008,125895
+materials/fool/killingfloor/manor/caststone_trim2_exterior.vmt,96,103
+materials/fool/killingfloor/manor/caststone_trim2_exterior.vtf,699272,465694
+materials/tools/toolstrigger.vmt,278,206
+materials/tools/toolstrigger.vtf,5680,979
+materials/tools/toolstrigger-dx10.vtf,5720,1012
+materials/neon_go/red.vmt,125,101
+materials/neon_go/red.vtf,262368,177
+materials/rathe/gary_kaaba_premiere.vmt,73,82
+materials/rathe/gary_kaaba_premiere.vtf,699232,223437
+materials/rathe/gary_qr.vmt,61,72
+materials/rathe/gary_qr.vtf,699272,23951
+materials/cstrike/{tk_grate.vmt,140,126
+materials/cstrike/{tk_grate.vtf,43856,11470
+materials/metal/metaldoor010a.vmt,277,200
+materials/metal/metaldoor010a.vtf,87528,53082
+materials/detail/metal_detail_01.vtf,175008,107676
+materials/rathe/inshallahgary.vmt,67,77
+materials/rathe/inshallahgary.vtf,699272,20261
+materials/rathe/garyatkaaba.vmt,65,75
+materials/rathe/garyatkaaba.vtf,699272,20310
+materials/tools/toolsareaportal.vmt,339,244
+materials/tools/toolsareaportal.vtf,5680,1507
+materials/tools/toolsareaportal-dx10.vtf,5720,1526
+materials/silkroad/egypt/ground (3).vmt,73,83
+materials/silkroad/egypt/ground (3).vtf,87616,30655
+materials/fool/homefront/commercial/car_mechanicgarage_04.vmt,95,102
+materials/fool/homefront/commercial/car_mechanicgarage_04.vtf,174984,115301
+materials/alkateut/concreteflat3.vmt,91,92
+materials/alkateut/concrete_flat3_d.vtf,174984,95489
+materials/decals/milwndw001.vmt,167,123
+materials/decals/milwndw001.vtf,349744,141571
+materials/decals/hpe_italy_window_decay.vmt,177,131
+materials/decals/hpe_italy_window_decay.vtf,87616,29064
+materials/decals/win_square.vmt,184,143
+materials/decals/win_square.vtf,22064,13690
+materials/decals/milvent001.vmt,167,125
+materials/decals/milvent001.vtf,87600,38182
+materials/decals/window_glass03.vmt,174,129
+materials/decals/window_glass03.vtf,349720,72020
+materials/de_mirage/decals/poster_a_decal.vmt,166,135
+materials/de_mirage/decals/poster_a_decal.vtf,87640,18939
+materials/de_mirage/decals/poster_c_decal.vmt,166,135
+materials/de_mirage/decals/poster_c_decal.vtf,87640,23705
+materials/decals/poster_profumox.vmt,157,129
+materials/decals/poster_profumox.vtf,174968,62661
+materials/de_mirage/decals/poster_b_decal.vmt,166,135
+materials/de_mirage/decals/poster_b_decal.vtf,87640,19325
+materials/decals/hpe_plaster_decal_decay_brick_03.vmt,187,135
+materials/decals/hpe_plaster_decal_decay_brick_03.vtf,174944,25519
+materials/decals/hpe_plaster_decal_decay_brick_05.vmt,187,135
+materials/decals/hpe_plaster_decal_decay_brick_05.vtf,174944,30732
+materials/decals/arrowuprt.vmt,193,153
+materials/decals/arrowuprt.vtf,2896,719
+materials/decals/dust_poster1.vmt,161,126
+materials/decals/dust_poster1.vtf,87600,52301
+materials/fool/killingfloor/decals/babydna_graffiti.vmt,184,150
+materials/fool/killingfloor/decals/babydna_graffiti.vtf,1398336,317475
+materials/decals/decalgraffiti002a.vmt,195,151
+materials/decals/decalgraffiti002a.vtf,22064,11237
+materials/decals/dust_poster6.vmt,161,126
+materials/decals/dust_poster6.vtf,174928,97263
+materials/decals/hpe_plaster_decal_decay_brick_04.vmt,187,135
+materials/decals/hpe_plaster_decal_decay_brick_04.vtf,174944,42535
+materials/decals/decalgraffiti045a_cs.vmt,177,130
+materials/decals/decalgraffiti045a_cs.vtf,174928,96704
+materials/decals/dust_poster3.vmt,161,126
+materials/decals/dust_poster3.vtf,174968,92515
+materials/decals/decalgraffiti043a_cs.vmt,177,130
+materials/decals/decalgraffiti043a_cs.vtf,87600,61423
+materials/de_mirage/decals/window_a_decal.vmt,244,167
+materials/de_mirage/decals/window_a_decal.vtf,43896,32015
+materials/de_mirage/base/base_top_ver1_normal.vtf,699296,435624
+materials/decals/franug/sm_csgosprays_sg/sorry.vmt,133,110
+materials/decals/sprays/default/sorry.vtf,349784,25422
+materials/skybox/sky_dustup.vmt,104,104
+materials/skybox/sky_dustup.vtf,174864,16857
+materials/skybox/sky_dustdn.vmt,104,104
+materials/skybox/sky_dustdn.vtf,174864,154
+materials/skybox/sky_dustlf.vmt,104,104
+materials/skybox/sky_dustlf.vtf,174864,54046
+materials/skybox/sky_dustrt.vmt,104,104
+materials/skybox/sky_dustrt.vtf,174864,46839
+materials/skybox/sky_dustft.vmt,104,104
+materials/skybox/sky_dustft.vtf,174864,56487
+materials/skybox/sky_dustbk.vmt,104,104
+materials/skybox/sky_dustbk.vtf,174864,49581
+materials/detail/detailsprites.vmt,170,129
+materials/detail/detailsprites.vtf,349792,40284
+models/props_mill/mill_railing_128.mdl,1724,423
+models/props_mill/mill_railing_128.vvd,57792,17963
+models/props_mill/mill_railing_128.dx90.vtx,12891,2515
+models/props_mill/mill_railing_128.phy,2622,1311
+materials/models/props_mill/mill_railing.vmt,280,210
+materials/metal/urban_metalwall01a_small.vtf,87640,72401
+models/rathemodels/apexe_kaaba.mdl,1956,486
+models/rathemodels/apexe_kaaba.vvd,393792,150367
+models/rathemodels/apexe_kaaba.dx90.vtx,103698,21795
+models/rathemodels/apexe_kaaba.dx80.vtx,103698,21795
+models/rathemodels/apexe_kaaba.sw.vtx,103698,20173
+models/rathemodels/apexe_kaaba.phy,706,421
+materials/models/rathemodels/surf_kaaba/black_kaaba.vmt,102,98
+materials/models/rathemodels/surf_kaaba/black_kaaba.vtf,2796424,611
+materials/models/rathemodels/surf_kaaba/gold_kaaba.vmt,101,98
+materials/models/rathemodels/surf_kaaba/gold_kaaba.vtf,2796424,122367
+models/rathemodels/rathe_kaaba.mdl,1956,483
+models/rathemodels/rathe_kaaba.vvd,357248,140065
+models/rathemodels/rathe_kaaba.dx90.vtx,94431,19587
+models/rathemodels/rathe_kaaba.dx80.vtx,94431,19587
+models/rathemodels/rathe_kaaba.sw.vtx,94431,18560
+models/rathemodels/rathe_kaaba.phy,706,423
+models/rocks/lightshafts01.mdl,1716,397
+models/rocks/lightshafts01.vvd,3648,845
+models/rocks/lightshafts01.dx90.vtx,813,232
+models/rocks/lightshafts01.dx80.vtx,813,231
+models/rocks/lightshafts01.sw.vtx,813,231
+materials/rocks/lightshaft01.vmt,370,213
+materials/rocks/lightshaft02.vtf,174984,5981
+materials/rocks/lightshaft01.vtf,174984,60630
+maps/surf_kaaba.nav,81979,14594
