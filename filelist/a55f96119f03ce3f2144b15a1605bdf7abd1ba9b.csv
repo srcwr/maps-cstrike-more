@@ -1,0 +1,145 @@
+filename,size,compressed
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_939_1115_204.vmt,144,144
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_1122_1133_621.vmt,145,145
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_470_1458_391.vmt,144,144
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_320_1419_192.vmt,144,144
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_-224_1159_189.vmt,145,145
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_-264_750_262.vmt,144,144
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_-133_1060_206.vmt,145,145
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_-29_956_193.vmt,143,143
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_109_861_211.vmt,143,143
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_-201_150_621.vmt,144,144
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_-16_561_616.vmt,143,143
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_622_638_669.vmt,143,143
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_827_197_599.vmt,143,143
+materials/maps/de_2x2dust_st/environment maps/pipemetal001a_552_640_156.vmt,143,143
+materials/maps/de_2x2dust_st/allgemein/water_canals_city_depth_25_depth_16.vmt,123,123
+materials/maps/de_2x2dust_st/cubemapdefault.vtf,9824,9824
+materials/maps/de_2x2dust_st/c939_1115_204.vtf,4952,4952
+materials/maps/de_2x2dust_st/c1122_1133_621.vtf,4952,4952
+materials/maps/de_2x2dust_st/c470_1458_391.vtf,4952,4952
+materials/maps/de_2x2dust_st/c320_1419_192.vtf,4952,4952
+materials/maps/de_2x2dust_st/c-224_1159_189.vtf,4952,4952
+materials/maps/de_2x2dust_st/c-264_750_262.vtf,4952,4952
+materials/maps/de_2x2dust_st/c-133_1060_206.vtf,4952,4952
+materials/maps/de_2x2dust_st/c-29_956_193.vtf,4952,4952
+materials/maps/de_2x2dust_st/c109_861_211.vtf,4952,4952
+materials/maps/de_2x2dust_st/c-201_150_621.vtf,4952,4952
+materials/maps/de_2x2dust_st/c-16_561_616.vtf,4952,4952
+materials/maps/de_2x2dust_st/c622_638_669.vtf,4952,4952
+materials/maps/de_2x2dust_st/c827_197_599.vtf,4952,4952
+materials/maps/de_2x2dust_st/c552_640_156.vtf,4952,4952
+materials/maps/de_2x2dust_st/c-21_661_179.vtf,4952,4952
+materials/maps/de_2x2dust_st/c109_462_194.vtf,4952,4952
+materials/maps/de_2x2dust_st/c1220_561_335.vtf,4952,4952
+materials/maps/de_2x2dust_st/c-226_758_572.vtf,4952,4952
+materials/maps/de_2x2dust_st/c-264_755_396.vtf,4952,4952
+materials/maps/de_2x2dust_st/c257_529_589.vtf,4952,4952
+materials/maps/de_2x2dust_st/c125_593_588.vtf,4952,4952
+materials/maps/de_2x2dust_st/c202_356_606.vtf,4952,4952
+materials/maps/de_2x2dust_st/c467_1093_626.vtf,4952,4952
+materials/maps/de_2x2dust_st/c122_1074_659.vtf,4952,4952
+materials/maps/de_2x2dust_st/c47_660_155.vtf,4952,4952
+materials/maps/de_2x2dust_st/c935_948_139.vtf,4952,4952
+materials/environment maps/pipemetal001a.vmt,196,196
+materials/models/props_pipes/pipemetal001a.vtf,349744,349744
+materials/allgemein/water_canals_city_depth_25.vmt,111,111
+materials/de_dust/dutile1.vmt,119,119
+materials/de_dust/dutile1.vtf,43896,43896
+materials/detail/dt_stone1.vtf,22064,22064
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/de_cbble/cratebig01b.vmt,116,116
+materials/de_cbble/cratebig01b.vtf,174968,174968
+materials/de_cbble/cratebig01a.vmt,116,116
+materials/de_cbble/cratebig01a.vtf,174968,174968
+materials/de_dust/picrate2.vmt,127,127
+materials/de_dust/picrate2.vtf,43896,43896
+materials/de_dust/picrate2_normal.vtf,262335,262335
+materials/decals/infwndwb.vmt,123,123
+materials/decals/infwndwb.vtf,87600,87600
+materials/de_dust/stonewall02a.vmt,160,160
+materials/de_dust/stonewall02a.vtf,174968,174968
+materials/de_dust/stonewall02a_normal.vtf,1048767,1048767
+materials/de_dust/sitebwall01b.vmt,164,164
+materials/de_dust/sitebwall01b.vtf,174968,174968
+materials/de_dust/sitebwall01b_normal.vtf,1048767,1048767
+materials/de_dust/stonewall02.vmt,158,158
+materials/de_dust/stonewall02.vtf,174968,174968
+materials/de_dust/stonewall02_normal.vtf,1048767,1048767
+materials/de_dust/dusandcrete.vmt,99,99
+materials/de_dust/dusandcrete.vtf,43896,43896
+materials/dev/valuesand40.vmt,87,87
+materials/dev/valuesand40.vtf,174968,174968
+materials/de_dust/sitebwall11.vmt,158,158
+materials/de_dust/sitebwall11.vtf,174968,174968
+materials/de_dust/sitebwall11_normal.vtf,1048767,1048767
+materials/de_dust/sitebwall11b.vmt,160,160
+materials/de_dust/sitebwall11b.vtf,174968,174968
+materials/de_dust/sitebwall11b_normal.vtf,1048767,1048767
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/de_dust/dudoor.vmt,116,116
+materials/de_dust/dudoor.vtf,43896,43896
+materials/detail/dt_wood.vtf,22064,22064
+materials/tools/toolsskip.vmt,326,326
+materials/tools/toolsskip.vtf,5680,5680
+materials/tools/toolsskip-dx10.vtf,5720,5720
+materials/tools/toolshint.vmt,324,324
+materials/tools/toolshint.vtf,5680,5680
+materials/tools/toolshint-dx10.vtf,5720,5720
+materials/cs_havana/glassfluorescentlighton01.vmt,161,161
+materials/models/props_c17/glassfluorescentlighton01.vtf,5616,5616
+materials/de_piranesi/pi_grnmetal.vmt,127,127
+materials/de_piranesi/pi_grnmetal.vtf,2936,2936
+materials/detail/dt_metal1.vtf,22064,22064
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/cs_italy/picrate1.vmt,129,129
+materials/cs_italy/picrate1.vtf,43896,43896
+materials/cs_italy/picrate1_normal.vtf,262335,262335
+materials/cs_italy/boxsides_t01.vmt,122,122
+materials/cs_italy/boxsides_t01.vtf,11128,11128
+materials/cs_italy/black.vmt,62,62
+materials/cs_italy/black.vtf,1584,1584
+materials/de_dust/picrate1.vmt,127,127
+materials/de_dust/picrate1.vtf,43896,43896
+materials/de_dust/picrate1_normal.vtf,262335,262335
+materials/de_cbble/cratesm01.vmt,114,114
+materials/de_cbble/cratesm01.vtf,43896,43896
+materials/de_cbble/cratesm01a.vmt,115,115
+materials/de_cbble/cratesm01a.vtf,43896,43896
+materials/effects/stairsatp.vmt,88,88
+materials/metal/stairsatp.vtf,43896,43896
+materials/decals/sanddecal01.vmt,143,143
+materials/decals/sanddecal01.vtf,174928,174928
+materials/skybox/cxup.vmt,79,79
+materials/skybox/cxup.vtf,349616,349616
+materials/skybox/cxdn.vmt,79,79
+materials/skybox/cxdn.vtf,349616,349616
+materials/skybox/cxlf.vmt,79,79
+materials/skybox/cxlf.vtf,349616,349616
+materials/skybox/cxrt.vmt,79,79
+materials/skybox/cxrt.vtf,349616,349616
+materials/skybox/cxft.vmt,79,79
+materials/skybox/cxft.vtf,349616,349616
+materials/skybox/cxbk.vmt,79,79
+materials/skybox/cxbk.vtf,349616,349616
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+models/props/de_inferno/fountain_plants.mdl,1660,1660
+models/props/de_inferno/fountain_plants.vvd,499360,499360
+models/props/de_inferno/fountain_plants.dx90.vtx,217946,217946
+models/props/de_inferno/fountain_plants.dx80.vtx,217946,217946
+models/props/de_inferno/fountain_plants.sw.vtx,217946,217946
+materials/models/props/de_inferno/lilypads.vmt,97,97
+materials/models/props/de_inferno/lilypads.vtf,349744,349744
+materials/models/props/de_inferno/bushgreen.vmt,125,125
+materials/models/props/de_inferno/bushgreen.vtf,349744,349744
+maps/de_2x2dust_st.txt,74,74
+materials/overviews/de_2x2dust_st.vmt,140,140
+materials/overviews/de_2x2dust_st.vtf,699272,699272
+materials/overviews/de_2x2dust_st_radar.vmt,140,140
+materials/overviews/de_2x2dust_st_radar.vtf,699272,699272
+resource/overviews/de_2x2dust_st.txt,104,104
