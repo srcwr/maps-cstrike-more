@@ -1,0 +1,81 @@
+filename,size,compressed
+materials/maps/ze_system_b2/m4dara/shaders/water_2fort_proxy_asdf2_depth_96.vmt,125,118
+materials/maps/ze_system_b2/m4dara/shaders/water_2fort_proxy_asdf2_depth_64.vmt,125,118
+materials/maps/ze_system_b2/m4dara/shaders/water_2fort_proxy_asdf2_depth_240.vmt,126,119
+materials/maps/ze_system_b2/cubemapdefault.vtf,9832,106
+materials/maps/ze_system_b2/cubemapdefault.hdr.vtf,76528,128
+maps/ze_system_b2_particles.txt,69,68
+materials/banner/nidecontest/2024/nidecontest_banner_2024.vmt,95,89
+materials/banner/nidecontest/2024/nidecontest_banner_2024.vtf,699232,175715
+materials/bhop_aamu2/floor001.vtf,65743,257
+materials/bhop_aamu2/floor001a.vmt,239,181
+materials/bhop_aamu2/floor002.vtf,65743,256
+materials/bhop_aamu2/floor002a.vmt,236,179
+materials/bhop_aamu2/floor003.vtf,65743,257
+materials/bhop_aamu2/floor003a.vmt,204,158
+materials/bhop_aamu2/floor009.vtf,65743,258
+materials/bhop_aamu2/floor009a.vmt,179,139
+materials/bihoptop/whiteblock.vmt,82,87
+materials/bihoptop/whiteblock.vtf,349776,683
+materials/cnsc/cnsc_whiteglass.vtf,349760,20176
+materials/cnsc/whiteglass.vmt,140,113
+materials/detail/detailsprites.vmt,162,129
+materials/detail/detailsprites.vtf,349744,143483
+materials/detail/noise_detail_01.vtf,43912,136
+materials/dev/dev_measuregeneric13_50opac.vmt,98,100
+materials/dev/dev_measuregeneric13_50opac.vtf,16592,195
+materials/dev/water.vtf,2535024,636833
+materials/dev/water_dudv.vtf,5068290,1384882
+materials/dev/water_normal.vtf,10136388,1620035
+materials/effects/energysplash.vmt,130,122
+materials/effects/energysplash.vtf,1512,879
+materials/effects/sc_softglow.vmt,211,163
+materials/effects/softglow.vtf,11168,3997
+materials/m4dara/shaders/tfwater001_normal.vtf,15728820,2371776
+materials/m4dara/shaders/water_2fort_beneath.vmt,1064,487
+materials/m4dara/shaders/water_2fort_proxy_asdf2.vmt,1536,608
+materials/m4dara/shaders/water_warp_2fort.vmt,579,294
+materials/maps/contest2024/cubemapdefault.hdr.vtf,76528,128
+materials/maps/contest2024/cubemapdefault.vtf,9832,106
+materials/maps/contest2024/m4dara/shaders/water_2fort_proxy_asdf2_depth_240.vmt,126,119
+materials/maps/contest2024/m4dara/shaders/water_2fort_proxy_asdf2_depth_64.vmt,125,118
+materials/maps/contest2024/m4dara/shaders/water_2fort_proxy_asdf2_depth_96.vmt,125,118
+materials/nature/water_dx70_beneath.vmt,1250,581
+materials/neon/blue.vmt,94,92
+materials/neon/blue.vtf,174968,146
+materials/neon/yellow.vmt,96,94
+materials/neon/yellow.vtf,174968,147
+materials/neons/neon_green.vtf,11144,131
+materials/neons/neon_green_rad.vmt,58,67
+materials/neons/neon_pink.vtf,174984,159
+materials/neons/neon_pink_rad.vmt,57,67
+materials/neons/neon_red.vtf,11144,175
+materials/neons/neon_red_rad.vmt,56,66
+materials/neons/neon_teal.vtf,11144,104
+materials/neons/neon_teal_rad.vmt,75,84
+materials/overviews/ze_system_b2.vmt,119,107
+materials/overviews/ze_system_b2.vtf,699272,109388
+materials/overviews/ze_system_b2_radar.vmt,119,107
+materials/particle/particle_glow_05.vtf,87616,27712
+materials/particle/particle_glow_05_add_15ob.vmt,162,131
+materials/particle/particle_glow_05_add_15ob_minsize.vmt,195,153
+materials/particle/white_square.vmt,103,93
+materials/skybox/m4dara_fogskybk.vmt,71,79
+materials/skybox/m4dara_fogskydn.vmt,71,79
+materials/skybox/m4dara_fogskyft.vmt,71,79
+materials/skybox/m4dara_fogskylf.vmt,71,79
+materials/skybox/m4dara_fogskyrt.vmt,71,79
+materials/skybox/m4dara_fogskyup.vmt,71,79
+particles/contest24.pcf,98997,16948
+resource/overviews/ze_system_b2.txt,106,93
+sound/m4dara/camelia - amorphous.mp3,4721498,4643295
+sound/m4dara/camellia - light it up (from crystallized).mp3,4032684,3952883
+sound/m4dara/contest_trigger_sound.mp3,26071,25421
+sound/m4dara/dancefloor hero.mp3,3820412,3773521
+sound/m4dara/gijensu - implosion (tim tama remix).mp3,4594462,4545701
+sound/m4dara/goreshit - burn this moment into the retina of my eye.mp3,1861466,1836235
+sound/m4dara/goreshit - fine night.mp3,3510302,3459159
+sound/m4dara/human_tp_sound.mp3,21558,20610
+sound/m4dara/premiere_ heywood - untitled.mp3,3677469,3613128
+sound/m4dara/unknown artist - maboroshi.mp3,4726863,4673114
+sound/m4dara/zm_tp_sound.mp3,35962,35242
