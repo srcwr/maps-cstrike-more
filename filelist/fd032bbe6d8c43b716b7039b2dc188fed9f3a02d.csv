@@ -1,0 +1,71 @@
+filename,size,compressed
+materials/maps/mg_kegs_course_v3_fixed3_d/colour/water/water_purple01_scrolling_depth_16.vmt,124,124
+materials/maps/mg_kegs_course_v3_fixed3_d/colour/water/water_orange01_scrolling_depth_16.vmt,124,124
+materials/maps/mg_kegs_course_v3_fixed3_d/colour/water/water_red01_scrolling_depth_16.vmt,121,121
+materials/maps/mg_kegs_course_v3_fixed3_d/cubemapdefault.vtf,28753,28753
+materials/maps/mg_kegs_course_v3_fixed3_d/cubemapdefault.hdr.vtf,76528,76528
+materials//decal_kegs.vmt,77,77
+materials/colour/glass/blackglass.vmt,121,121
+materials/colour/glass/blackglass.vtf,2952,2952
+materials/colour/glass/greenglass.vmt,118,118
+materials/colour/glass/greenglass.vtf,2952,2952
+materials/colour/glass/purpleglass.vmt,119,119
+materials/colour/glass/purpleglass.vtf,2952,2952
+materials/colour/glass/yellowglass.vmt,119,119
+materials/colour/glass/yellowglass.vtf,2952,2952
+materials/colour/metal/metalfloor003a_black.vmt,81,81
+materials/colour/metal/metalfloor003a_black.vtf,349760,349760
+materials/colour/metal/metalfloor003a_orange.vmt,82,82
+materials/colour/metal/metalfloor003a_orange.vtf,349760,349760
+materials/colour/metal/metalwall013a_pink.vmt,79,79
+materials/colour/metal/metalwall013a_pink.vtf,349760,349760
+materials/colour/metal/metalwall013a_white.vmt,80,80
+materials/colour/metal/metalwall013a_white.vtf,349760,349760
+materials/colour/metal/metalwall013a_yellow.vmt,81,81
+materials/colour/metal/metalwall013a_yellow.vtf,349760,349760
+materials/colour/metal/metalwall013d_black.vmt,80,80
+materials/colour/metal/metalwall013d_black.vtf,349760,349760
+materials/colour/metal/prodcaution_orange.vmt,79,79
+materials/colour/metal/prodcaution_orange.vtf,87616,87616
+materials/colour/metal/prodcaution_purple.vmt,79,79
+materials/colour/metal/prodcaution_purple.vtf,87616,87616
+materials/colour/metal/train_metalceiling_02_white.vmt,88,88
+materials/colour/metal/train_metalceiling_02_white.vtf,349760,349760
+materials/colour/neon/blue_neon.vmt,106,106
+materials/colour/neon/blue_neon.vtf,43912,43912
+materials/colour/neon/green_neon.vmt,107,107
+materials/colour/neon/green_neon.vtf,43912,43912
+materials/colour/neon/orange_neon.vmt,108,108
+materials/colour/neon/orange_neon.vtf,43912,43912
+materials/colour/neon/pink_neon.vmt,106,106
+materials/colour/neon/pink_neon.vtf,43912,43912
+materials/colour/neon/purple_neon.vmt,108,108
+materials/colour/neon/purple_neon.vtf,43912,43912
+materials/colour/neon/red_neon.vmt,105,105
+materials/colour/neon/red_neon.vtf,43912,43912
+materials/colour/neon/white_neon.vmt,107,107
+materials/colour/neon/white_neon.vtf,43912,43912
+materials/colour/neon/yellow_neon.vmt,108,108
+materials/colour/neon/yellow_neon.vtf,43912,43912
+materials/colour/water/water_orange01_scrolling.vmt,1129,1129
+materials/colour/water/water_purple01_scrolling.vmt,1129,1129
+materials/colour/water/water_red01_scrolling.vmt,1121,1121
+materials/decal_kegs.vtf,349760,349760
+materials/metal/metalwall013a_black.vmt,73,73
+materials/metal/metalwall013a_black.vtf,349760,349760
+materials/metal/metalwall013a_blue.vmt,72,72
+materials/metal/metalwall013a_blue.vtf,349760,349760
+materials/water/water_orange01_beneath.vmt,1159,1159
+materials/water/water_orange01_dx70.vmt,1638,1638
+materials/water/water_purple01_beneath.vmt,1157,1157
+materials/water/water_purple01_dx70.vmt,1638,1638
+materials/water/water_red01_beneath.vmt,1153,1153
+materials/water/water_red01_dx70.vmt,1634,1634
+sound/jail music/danza kuduro - don omar & lucenzo [with lyrics]_2(1).mp3.wav,4788041,4788041
+sound/jail music/florida - turn around 5 4 3 2 1(1).mp3.wav,4922920,4922920
+sound/jail music/t-pain f(1).mp3.wav,4922803,4922803
+sound/jail music/usher - more (official music) [hq](1).mp3.wav,5435016,5435016
+sound/jail music/danza kuduro - don omar & lucenzo [with lyrics]_2(1).mp3,4788041,4788041
+sound/jail music/florida - turn around 5 4 3 2 1(1).mp3,4922920,4922920
+sound/jail music/t-pain f(1).mp3,4922803,4922803
+sound/jail music/usher - more (official music) [hq](1).mp3,5435016,5435016

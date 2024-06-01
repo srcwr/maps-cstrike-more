@@ -1,0 +1,113 @@
+filename,size,compressed
+materials/maps/kz_village_d/nature/water_movingplane_2047_32_-192.vmt,160,160
+materials/maps/kz_village_d/nature/water_epic_tropical_2047_32_-192.vmt,162,162
+materials/maps/kz_village_d/maps/kz_village_d/nature/water_epic_tropical_2047_32_-192_depth_135.vmt,145,145
+materials/maps/kz_village_d/maps/kz_village_d/nature/water_epic_tropical_2047_32_-192_depth_32.vmt,144,144
+materials/maps/kz_village_d/cubemapdefault.vtf,4960,4960
+materials/maps/kz_village_d/c2047_32_-192.vtf,4960,4960
+materials/maps/kz_village_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/kz_village_d/c2047_32_-192.hdr.vtf,76528,76528
+materials/nature/water_epic_tropical.vmt,832,832
+materials/nature/water_frame01_normal.vtf,262375,262375
+materials/water/water_epic_dudv.vtf,699282,699282
+materials/water/water_epic_normal.vtf,175008,175008
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/tools/toolsclip.vmt,358,358
+materials/tools/toolsclip.vtf,5680,5680
+materials/tools/toolsclip-dx10.vtf,5720,5720
+materials/tools/toolsskybox.vmt,325,325
+materials/tools/toolsskybox.vtf,11128,11128
+materials/icecreamlock/orangeglass.vmt,119,119
+materials/icecreamlock/orangeglass.vtf,2952,2952
+materials/biqlkz/rockbluetop.vmt,66,66
+materials/biqlkz/rockbluetop.vtf,2952,2952
+materials/biqlkz/rockblueside.vmt,67,67
+materials/biqlkz/rockblueside.vtf,2256,2256
+materials/color/lavender grey.vmt,70,70
+materials/color/lavender grey.vtf,11144,11144
+materials/color/peach orange.vmt,74,74
+materials/color/peach orange.vtf,11144,11144
+materials/color/beige.vmt,62,62
+materials/color/beige.vtf,11144,11144
+materials/biqlkz/rockjumptop.vmt,66,66
+materials/biqlkz/rockjumptop.vtf,2256,2256
+materials/color/pale brown.vmt,67,67
+materials/color/pale brown.vtf,11144,11144
+materials/ryan_dev/brown2.vmt,63,63
+materials/ryan_dev/brown2.vtf,11144,11144
+materials/biql/mapbybilll.vmt,76,76
+materials/biql/mapbybilll.vtf,65744,65744
+materials/biqlkz/240.vmt,71,71
+materials/biqlkz/240.vtf,32912,32912
+materials/biqlkz/250.vmt,71,71
+materials/biqlkz/250.vtf,32912,32912
+materials/biqlkz/260.vmt,71,71
+materials/biqlkz/260.vtf,32912,32912
+materials/biqlkz/270.vmt,71,71
+materials/biqlkz/270.vtf,32912,32912
+materials/biqlkz/280.vmt,71,71
+materials/biqlkz/280.vtf,32912,32912
+materials/tools/toolstrigger.vmt,278,278
+materials/tools/toolstrigger.vtf,5720,5720
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/cs_havana/white.vmt,57,57
+materials/cs_havana/white.vtf,888,888
+materials/biqlkz/retry.vmt,73,73
+materials/biqlkz/retry.vtf,65744,65744
+materials/color/purple taupe.vmt,69,69
+materials/color/purple taupe.vtf,11144,11144
+materials/color/grey.vmt,61,61
+materials/color/grey.vtf,11144,11144
+materials/biqlkz/paleyellowneon.vmt,63,63
+materials/biqlkz/paleyellowneon.vtf,2256,2256
+materials/color/sea green.vmt,66,66
+materials/color/sea green.vtf,11144,11144
+materials/color/slate grey.vmt,67,67
+materials/color/slate grey.vtf,11144,11144
+materials/skybox/mpa115up.vmt,92,92
+materials/skybox/mpa115up.vtf,699272,699272
+materials/skybox/mpa115dn.vmt,92,92
+materials/skybox/mpa115dn.vtf,699272,699272
+materials/skybox/mpa115lf.vmt,92,92
+materials/skybox/mpa115lf.vtf,699272,699272
+materials/skybox/mpa115rt.vmt,92,92
+materials/skybox/mpa115rt.vtf,699272,699272
+materials/skybox/mpa115ft.vmt,92,92
+materials/skybox/mpa115ft.vtf,699272,699272
+materials/skybox/mpa115bk.vmt,92,92
+materials/skybox/mpa115bk.vtf,699272,699272
+materials/detail/detailsprites.vmt,87,87
+materials/detail/detailsprites.vtf,1398360,1398360
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_pu.mdl,2452,2452
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_pu.vvd,387648,387648
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_pu.dx90.vtx,76662,76662
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_pu.dx80.vtx,76662,76662
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_pu.sw.vtx,76662,76662
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_pu.phy,1683,1683
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/bark_06.vmt,122,122
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/bark_06.vtf,2796448,2796448
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/leaves_04_1024_pu.vmt,158,158
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/leaves_04_1024_pu.vtf,1398360,1398360
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/leaves_05_1024_pu.vmt,158,158
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/leaves_05_1024_pu.vtf,1398360,1398360
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/branch_02.vmt,150,150
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/branch_02.vtf,1398360,1398360
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_pu.mdl,2452,2452
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_pu.vvd,640384,640384
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_pu.dx90.vtx,127371,127371
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_pu.dx80.vtx,127371,127371
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_pu.sw.vtx,127371,127371
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_pu.phy,2022,2022
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_l_02_pu.mdl,2448,2448
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_l_02_pu.vvd,559104,559104
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_l_02_pu.dx90.vtx,110949,110949
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_l_02_pu.dx80.vtx,110949,110949
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_l_02_pu.sw.vtx,110949,110949
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_l_02_pu.phy,2021,2021
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_pu.mdl,2448,2448
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_pu.vvd,418432,418432
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_pu.dx90.vtx,82947,82947
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_pu.dx80.vtx,82947,82947
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_pu.sw.vtx,82947,82947
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_pu.phy,1589,1589

@@ -1,0 +1,35 @@
+filename,size,compressed
+materials/maps/mg_saw_2_sgfix/concrete/concretefloor019a_-154_397_38.vmt,140,140
+materials/maps/mg_saw_2_sgfix/concrete/concretefloor019a_-3267_-1428_-299.vmt,145,145
+materials/maps/mg_saw_2_sgfix/metal/citadel_metalwall076a_-3267_-1428_-299.vmt,146,146
+materials/maps/mg_saw_2_sgfix/metal/citadel_metalwall076a_-154_397_38.vmt,141,141
+materials/maps/mg_saw_2_sgfix/cs_assault/pavement001a_-3267_-1428_-299.vmt,142,142
+materials/maps/mg_saw_2_sgfix/cs_assault/pavement001a_-154_397_38.vmt,137,137
+materials/maps/mg_saw_2_sgfix/nature/toxicslime002a_-154_397_38.vmt,158,158
+materials/maps/mg_saw_2_sgfix/maps/mg_saw_2_sgfix/nature/toxicslime002a_-154_397_38_depth_5.vmt,139,139
+materials/maps/mg_saw_2_sgfix/cubemapdefault.vtf,28753,28753
+materials/maps/mg_saw_2_sgfix/c-154_397_38.vtf,28753,28753
+materials/maps/mg_saw_2_sgfix/c-3267_-1428_-299.vtf,28753,28753
+materials/maps/mg_saw_2_sgfix/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/mg_saw_2_sgfix/c-154_397_38.hdr.vtf,76528,76528
+materials/maps/mg_saw_2_sgfix/c-3267_-1428_-299.hdr.vtf,76528,76528
+materials/COLORS_PACK/BLACK.vmt,65,65
+materials/colors_pack/black.vtf,11144,11144
+materials/CONCRETE/OFFFLRASNOW.vmt,96,96
+materials/concrete/offflrasnow.vtf,174968,174968
+materials/CONCRETE/CONCRETEWALL002A.vmt,126,126
+materials/concrete/concretewall002a.vtf,174968,174968
+materials/CUSTOM/MCCHEST_TOP.vmt,96,96
+materials/custom/MCchest_top.vtf,87588,87588
+sound/saw puppet.mp3,157137,157137
+sound/i want to play a game - saw.mp3,115806,115806
+models/player/slow/gaycat_v2/gaycat_v2.mdl,11540,11540
+models/player/slow/gaycat_v2/gaycat_v2.dx80.vtx,77930,77930
+models/player/slow/gaycat_v2/gaycat_v2.dx90.vtx,77930,77930
+models/player/slow/gaycat_v2/gaycat_v2.sw.vtx,77866,77866
+models/player/slow/gaycat_v2/gaycat_v2.phy,17144,17144
+models/player/slow/gaycat_v2/gaycat_v2.vvd,245120,245120
+materials/models/player/slow/gaycat_v2/yellowcat_map.vmt,295,295
+materials/models/player/slow/gaycat_v2/yellowcat_map.vtf,524496,524496
+materials/models/player/slow/gaycat_v2/yellowcat_map_normal.vtf,524496,524496
+maps/soundcache/mg_saw_2_sgfix.cache,133,133

@@ -1,0 +1,74 @@
+filename,size,compressed
+materials/maps/ze_mario_bros_v7/de_nuke/nukwater_movingplane_dx70_depth_4.vmt,119,119
+materials/maps/ze_mario_bros_v7/dev/dev_water2_depth_4.vmt,100,100
+materials/maps/ze_mario_bros_v7/de_nuke/nukwater_movingplane_dx70_depth_3.vmt,119,119
+materials/maps/ze_mario_bros_v7/cubemapdefault.vtf,28753,28753
+materials/maps/ze_mario_bros_v7/cubemapdefault.hdr.vtf,76528,76528
+materials/skybox/SPskybk.vmt,73,73
+materials/skybox/SPskybk.vtf,349632,349632
+materials/skybox/SPskydn.vmt,73,73
+materials/skybox/SPskydn.vtf,349632,349632
+materials/skybox/SPskyft.vmt,73,73
+materials/skybox/SPskyft.vtf,349632,349632
+materials/skybox/SPskylf.vmt,73,73
+materials/skybox/SPskylf.vtf,349632,349632
+materials/skybox/SPskyrt.vmt,73,73
+materials/skybox/SPskyrt.vtf,349632,349632
+materials/skybox/SPskyup.vmt,73,73
+materials/skybox/SPskyup.vtf,349632,349632
+materials/SMB_Textures/SMB_BowserBrick.vmt,125,125
+materials/SMB_Textures/SMB_BowserBrick.vtf,43912,43912
+materials/SMB_Textures/SMB_BowserFloor.vmt,125,125
+materials/SMB_Textures/SMB_BowserFloor.vtf,43912,43912
+materials/SMB_Textures/SMB_Brick.vmt,119,119
+materials/SMB_Textures/SMB_Brick.vtf,43912,43912
+materials/SMB_Textures/SMB_DeadQuestionMark.vmt,130,130
+materials/SMB_Textures/SMB_DeadQuestionMark.vtf,43912,43912
+materials/SMB_Textures/SMB_GroundBlock.vmt,125,125
+materials/SMB_Textures/SMB_GroundBlock.vtf,43912,43912
+materials/SMB_Textures/SMB_GroundFloor.vmt,125,125
+materials/SMB_Textures/SMB_GroundFloor.vtf,43912,43912
+materials/SMB_Textures/SMB_QuestionMark.vmt,126,126
+materials/SMB_Textures/SMB_QuestionMark.vtf,43912,43912
+materials/SMB_Textures/SMB_TunnelBottom.vmt,126,126
+materials/SMB_Textures/SMB_TunnelBottom.vtf,43912,43912
+materials/SMB_Textures/SMB_TunnelTop.vmt,123,123
+materials/SMB_Textures/SMB_TunnelTop.vtf,43912,43912
+materials/SMB_Textures/SMB_UndergroundBlock.vmt,130,130
+materials/SMB_Textures/SMB_UndergroundBlock.vtf,43912,43912
+materials/SMB_Textures/SMB_UndergroundBrick.vmt,130,130
+materials/SMB_Textures/SMB_UndergroundBrick.vtf,43912,43912
+materials/SMB_Textures/SMB_UndergroundFloor.vmt,129,129
+materials/SMB_Textures/SMB_UndergroundFloor.vtf,43912,43912
+materials/SMB_Textures/SMB_UnderwaterFloor.vmt,129,129
+materials/SMB_Textures/SMB_UnderwaterFloor.vtf,43912,43912
+materials/Crash Bandicoot/metal_crate_!.vmt,102,102
+materials/Crash Bandicoot/metal_crate_!.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_normal.vmt,107,107
+materials/Crash Bandicoot/metal_crate_normal.vtf,87616,87616
+materials/Crash Bandicoot/metal_crate_q.vmt,102,102
+materials/Crash Bandicoot/metal_crate_q.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_armored.vmt,112,112
+materials/Crash Bandicoot/wood_crate_armored.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_arrowup.vmt,110,110
+materials/Crash Bandicoot/wood_crate_arrowup.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_check.vmt,110,110
+materials/Crash Bandicoot/wood_crate_check.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_jump.vmt,109,109
+materials/Crash Bandicoot/wood_crate_jump.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_life.vmt,109,109
+materials/Crash Bandicoot/wood_crate_life.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_mask.vmt,109,109
+materials/Crash Bandicoot/wood_crate_mask.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_nitro.vmt,110,110
+materials/Crash Bandicoot/wood_crate_nitro.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_nitro_top.vmt,114,114
+materials/Crash Bandicoot/wood_crate_nitro_top.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_normal.vmt,111,111
+materials/Crash Bandicoot/wood_crate_normal.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_q.vmt,106,106
+materials/Crash Bandicoot/wood_crate_q.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt.vmt,108,108
+materials/Crash Bandicoot/wood_crate_tnt.vtf,87616,87616
+materials/Crash Bandicoot/wood_crate_tnt_top.vmt,112,112
+materials/Crash Bandicoot/wood_crate_tnt_top.vtf,87616,87616

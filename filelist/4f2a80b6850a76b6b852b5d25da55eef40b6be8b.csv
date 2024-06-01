@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/zm_red_alert_d/ground/blendsnow_asphault_wvt_patch.vmt,91,91
+materials/maps/zm_red_alert_d/metal/metalpipe005a_0_0_0.vmt,127,127
+materials/maps/zm_red_alert_d/metal/metalceiling005a_0_0_0.vmt,130,130
+materials/maps/zm_red_alert_d/wood/woodfloor008a_0_0_0.vmt,165,165
+materials/maps/zm_red_alert_d/metal/citadel_metalwall063a_0_0_0.vmt,135,135
+materials/maps/zm_red_alert_d/perftest/water_pretty1_depth_155.vmt,110,110
+materials/maps/zm_red_alert_d/cubemapdefault.vtf,28753,28753
+materials/maps/zm_red_alert_d/c0_0_0.vtf,28753,28753
+materials/maps/zm_red_alert_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_red_alert_d/c0_0_0.hdr.vtf,76528,76528

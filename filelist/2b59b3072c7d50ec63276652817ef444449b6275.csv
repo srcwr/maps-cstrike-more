@@ -1,0 +1,492 @@
+filename,size,compressed
+materials/maps/xc_crash_bandicoot_2/rockgrassblend_wvt_patch.vmt,213,213
+materials/maps/xc_crash_bandicoot_2/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/xc_crash_bandicoot_2/de_dust/rockwall_blend_wvt_patch.vmt,121,121
+materials/maps/xc_crash_bandicoot_2/nature/blendproddirtgrass_wvt_patch.vmt,90,90
+materials/maps/xc_crash_bandicoot_2/de_dust/groundsand_blend_wvt_patch.vmt,163,163
+materials/maps/xc_crash_bandicoot_2/nature/blendrockdirt006a_wvt_patch.vmt,328,328
+materials/maps/xc_crash_bandicoot_2/cubemapdefault.vtf,28753,28753
+materials/maps/xc_crash_bandicoot_2/cubemapdefault.hdr.vtf,76528,76528
+materials/thisishydra/oblivion/landscape/terraingcgrass01.vtf,1398336,1398336
+materials/thisishydra/oblivion/landscape/terraingcgrass01_n.vtf,1398336,1398336
+materials/de_train/train_grass_floor_01.vtf,174968,174968
+materials/CRASH BANDICOOT 3/EGYPT/FLOOR1.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/floor1.vtf,2952,2952
+materials/cs_italy/black.vmt,62,62
+materials/cs_italy/black.vtf,1584,1584
+materials/CRASH BANDICOOT 3/EGYPT/BORDER14.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/border14.vtf,2872,2872
+materials/TOOLS/toolsnodraw.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/cs_havana/woodm.vmt,111,111
+materials/cs_havana/woodm.vtf,174968,174968
+materials/CRASH BANDICOOT 3/EGYPT/BORDER12.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/border12.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/GATE2.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/gate2.vtf,43912,43912
+materials/CRASH BANDICOOT 3/EGYPT/BHOP_TOP3.vmt,111,111
+materials/CRASH BANDICOOT 3/EGYPT/bhop_top3.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/BORDER7.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border7.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/DOOR.vmt,100,100
+materials/CRASH BANDICOOT 3/EGYPT/door.vtf,11064,11064
+materials/egypt/064-01b.vmt,61,61
+materials/egypt/064-01b.vtf,11064,11064
+materials/egypt/128-05a.vmt,61,61
+materials/egypt/128-05a.vtf,22008,22008
+materials/CRASH BANDICOOT 3/EGYPT/CEILING4.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/ceiling4.vtf,11064,11064
+materials/CRASH BANDICOOT 3/EGYPT/BORDER5.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border5.vtf,1528,1528
+materials/CRASH BANDICOOT 3/EGYPT/PILLAR2.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/pillar2.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/PIT1.vmt,104,104
+materials/CRASH BANDICOOT 3/EGYPT/pit1.vtf,2872,2872
+materials/egypt/block08d.vmt,62,62
+materials/egypt/block08d.vtf,43912,43912
+materials/egypt/128-01pa.vmt,62,62
+materials/egypt/128-01pa.vtf,22008,22008
+materials/egypt/block07b.vmt,62,62
+materials/egypt/block07b.vtf,43912,43912
+materials/egypt/block08a.vmt,62,62
+materials/egypt/block08a.vtf,43912,43912
+materials/egypt/block10a.vmt,62,62
+materials/egypt/block10a.vtf,43912,43912
+materials/materials/CRASH BANDICOOT 3/EGYPT/BORDER14.vmt,108,108
+materials/egypt/128-01a.vmt,61,61
+materials/egypt/128-01a.vtf,22008,22008
+materials/egypt/128-01pb.vmt,62,62
+materials/egypt/128-01pb.vtf,22008,22008
+materials/egypt/block02b.vmt,62,62
+materials/egypt/block02b.vtf,43912,43912
+materials/egypt/block03b.vmt,62,62
+materials/egypt/block03b.vtf,43912,43912
+materials/egypt/128-02a.vmt,61,61
+materials/egypt/128-02a.vtf,22008,22008
+materials/egypt/048-02e.vmt,61,61
+materials/egypt/048-02e.vtf,11064,11064
+materials/egypt/jumppad1ar.vmt,64,64
+materials/egypt/jumppad1ar.vtf,43912,43912
+materials/egypt/stone04c.vmt,62,62
+materials/egypt/stone04c.vtf,43912,43912
+materials/TOOLS/toolsskybox.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/wood/housebeams01.vmt,250,250
+materials/wood/housebeams01.vtf,87568,87568
+materials/detail/dt_wood2.vtf,11168,11168
+materials/egypt/128-03a.vmt,61,61
+materials/egypt/128-03a.vtf,22008,22008
+materials/egypt/064-05c.vmt,61,61
+materials/egypt/064-05c.vtf,11064,11064
+materials/egypt/relief04c.vmt,63,63
+materials/egypt/relief04c.vtf,43912,43912
+materials/egypt/block10c.vmt,62,62
+materials/egypt/block10c.vtf,43912,43912
+materials/egypt/stone01c.vmt,62,62
+materials/egypt/stone01c.vtf,43912,43912
+materials/egypt/064-04a.vmt,61,61
+materials/egypt/064-04a.vtf,11064,11064
+materials/egypt/block08c.vmt,62,62
+materials/egypt/block08c.vtf,43912,43912
+materials/egypt/064-02c.vmt,61,61
+materials/egypt/064-02c.vtf,11064,11064
+materials/egypt/s128-01d.vmt,62,62
+materials/egypt/s128-01d.vtf,11144,11144
+materials/egypt/stone10c.vmt,62,62
+materials/egypt/stone10c.vtf,43912,43912
+materials/egypt/block09b.vmt,62,62
+materials/egypt/block09b.vtf,43912,43912
+materials/egypt/064-06c.vmt,61,61
+materials/egypt/064-06c.vtf,11064,11064
+materials/egypt/s064-04b.vmt,62,62
+materials/egypt/s064-04b.vtf,2952,2952
+materials/materials/TOOLS/toolsnodraw.vmt,163,163
+materials/CRASH BANDICOOT 3/EGYPT/BORDER1.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border1.vtf,1528,1528
+materials/egypt/lig_032-01r1.vmt,66,66
+materials/egypt/lig_032-01r1.vtf,904,904
+materials/egypt/128-01pc.vmt,62,62
+materials/egypt/128-01pc.vtf,22008,22008
+materials/egypt/block07a.vmt,62,62
+materials/egypt/block07a.vtf,43912,43912
+materials/CRASH BANDICOOT 3/EGYPT/WALL15.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall15.vtf,2952,2952
+materials/egypt/128-04a.vmt,61,61
+materials/egypt/128-04a.vtf,22008,22008
+materials/CRASH BANDICOOT 3/EGYPT/PILLAR3.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/pillar3.vtf,5624,5624
+materials/egypt/woodmgrid3b.vmt,65,65
+materials/egypt/woodmgrid3b.vtf,43912,43912
+materials/CRASH BANDICOOT 3/EGYPT/WALL10.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall10.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/PLAT1.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat1.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/PLAT2.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat2.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/PLAT3.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat3.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/WALL12.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall12.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/PILLAR1.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/pillar1.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/BORDER2.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border2.vtf,904,904
+materials/egypt/stone02a.vmt,62,62
+materials/egypt/stone02a.vtf,43912,43912
+materials/egypt/128-05b.vmt,61,61
+materials/egypt/128-05b.vtf,22008,22008
+materials/egypt/128-02b.vmt,61,61
+materials/egypt/128-02b.vtf,22008,22008
+materials/egypt/128-05d.vmt,61,61
+materials/egypt/128-05d.vtf,22008,22008
+materials/egypt/jumppad1br.vmt,64,64
+materials/egypt/jumppad1br.vtf,43912,43912
+materials/egypt/128-05j.vmt,61,61
+materials/egypt/128-05j.vtf,22008,22008
+materials/materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/CRASH BANDICOOT 3/EGYPT/WALL17.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/wall17.vtf,11064,11064
+materials/egypt/stone03b.vmt,62,62
+materials/egypt/stone03b.vtf,43912,43912
+materials/egypt/jumppad1ap.vmt,64,64
+materials/egypt/jumppad1ap.vtf,43912,43912
+materials/CRASH BANDICOOT 3/EGYPT/BHOP7.vmt,101,101
+materials/CRASH BANDICOOT 3/EGYPT/bhop7.vtf,5624,5624
+materials/RealWorldTextures2/Wood/wood_120.vmt,370,370
+materials/RealWorldTextures2/Wood/wood_120.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_120_nrm.vtf,174984,174984
+materials/RealWorldTextures2/detail/dt_wood2.vtf,16807,16807
+materials/egypt/064-03a.vmt,61,61
+materials/egypt/064-03a.vtf,11064,11064
+materials/egypt/064-05b.vmt,61,61
+materials/egypt/064-05b.vtf,11064,11064
+materials/CRASH BANDICOOT 3/EGYPT/BORDER10.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/border10.vtf,904,904
+materials/CRASH BANDICOOT 3/EGYPT/BORDER4.vmt,107,107
+materials/CRASH BANDICOOT 3/EGYPT/border4.vtf,504,504
+materials/CRASH BANDICOOT 3/EGYPT/WALL1.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/wall1.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/CEILING1.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/ceiling1.vtf,43912,43912
+materials/egypt/lig_128-05b2.vmt,66,66
+materials/egypt/lig_128-05b2.vtf,5624,5624
+materials/CRASH BANDICOOT 3/EGYPT/SAVE_LOCATION.vmt,109,109
+materials/CRASH BANDICOOT 3/EGYPT/Save_location.vtf,11144,11144
+materials/CRASH BANDICOOT 3/EGYPT/floor2.vmt,106,106
+materials/CRASH BANDICOOT 3/EGYPT/floor2.vtf,11144,11144
+materials/TOOLS/toolstrigger.vmt,394,394
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/TOOLS/toolstrigger-dx10.vtf,5720,5720
+materials/CRASH BANDICOOT 3/EGYPT/TILE1.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/tile1.vtf,2952,2952
+materials/CRASH BANDICOOT 3/EGYPT/LADDER.vmt,108,108
+materials/CRASH BANDICOOT 3/EGYPT/ladder.vtf,1528,1528
+materials/materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/CRASH BANDICOOT 3/SNOW/BOX3.vmt,104,104
+materials/CRASH BANDICOOT 3/SNOW/box3.vtf,1600,1600
+materials/egypt/v064-03e.vmt,62,62
+materials/egypt/v064-03e.vtf,11064,11064
+materials/egypt/128-03b.vmt,61,61
+materials/egypt/128-03b.vtf,22008,22008
+materials/CRASH BANDICOOT 3/EGYPT/PLAT4.vmt,105,105
+materials/CRASH BANDICOOT 3/EGYPT/plat4.vtf,2952,2952
+materials/egypt/jumppad1bb.vmt,64,64
+materials/egypt/jumppad1bb.vtf,43912,43912
+materials/egypt/s064-05a.vmt,62,62
+materials/egypt/s064-05a.vtf,11144,11144
+materials/egypt/064-07d.vmt,61,61
+materials/egypt/064-07d.vtf,11064,11064
+materials/egypt/stone10d.vmt,62,62
+materials/egypt/stone10d.vtf,43912,43912
+materials/egypt/s064-01f.vmt,62,62
+materials/egypt/s064-01f.vtf,2952,2952
+materials/egypt/032-03a.vmt,61,61
+materials/egypt/032-03a.vtf,5624,5624
+materials/egypt/stone01b.vmt,62,62
+materials/egypt/stone01b.vtf,43912,43912
+materials/egypt/stone01d.vmt,62,62
+materials/egypt/stone01d.vtf,43912,43912
+materials/materials/CRASH BANDICOOT 3/EGYPT/BORDER4.vmt,107,107
+materials/egypt/048-02f.vmt,61,61
+materials/egypt/048-02f.vtf,11064,11064
+materials/egypt/128-05f.vmt,61,61
+materials/egypt/128-05f.vtf,22008,22008
+materials/detail/detailsprites.vmt,155,155
+materials/detail/detailsprites.vtf,1398336,1398336
+models/models/dofke/crash bandicoot/props/crates/crate_generic.mdl,31244,31244
+models/models/dofke/crash bandicoot/props/crates/crate_generic.vvd,89152,89152
+models/models/dofke/crash bandicoot/props/crates/crate_generic.dx90.vtx,26196,26196
+models/models/dofke/crash bandicoot/props/crates/crate_generic.dx80.vtx,26196,26196
+models/models/dofke/crash bandicoot/props/crates/crate_generic.sw.vtx,25924,25924
+materials/models/Crash Bandicoot Game/Props/Crates/x_crate.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Crates/X_Crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/crate.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/Crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/crate_debris.vmt,129,129
+materials/models/Crash Bandicoot Game/Props/Crates/Crate_debris.vtf,2912,2912
+materials/models/Crash Bandicoot Game/Props/Crates/xx_crate.vmt,108,108
+materials/models/Crash Bandicoot Game/Props/Crates/XX_Crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/aku_crate.vmt,109,109
+materials/models/Crash Bandicoot Game/Props/Crates/Aku_crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/jump_crate.vmt,110,110
+materials/models/Crash Bandicoot Game/Props/Crates/jump_crate.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/Armored_crate.vmt,113,113
+materials/models/Crash Bandicoot Game/Props/Crates/Armored_crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/nitro.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/Nitro.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/nitro_bottom.vmt,112,112
+materials/models/Crash Bandicoot Game/Props/Crates/Nitro_bottom.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/nitro_debris.vmt,129,129
+materials/models/Crash Bandicoot Game/Props/Crates/Nitro_debris.vtf,2912,2912
+materials/models/Crash Bandicoot Game/Props/Crates/TNT.vmt,103,103
+materials/models/Crash Bandicoot Game/Props/Crates/TNT.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_bottom.vmt,110,110
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_Bottom.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_debris.vmt,127,127
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_debris.vtf,2912,2912
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_3.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_3.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_2.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_2.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_1.vmt,105,105
+materials/models/Crash Bandicoot Game/Props/Crates/TNT_1.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/metal_crate.vmt,111,111
+materials/models/Crash Bandicoot Game/Props/Crates/metal_crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/!_metal.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Crates/!_metal.vtf,1232,1232
+materials/models/Crash Bandicoot Game/Props/Crates/jump_metal.vmt,110,110
+materials/models/Crash Bandicoot Game/Props/Crates/jump_metal.vtf,1232,1232
+materials/models/Crash Bandicoot Game/Props/Crates/metal_crate_G.vmt,113,113
+materials/models/Crash Bandicoot Game/Props/Crates/metal_crate_G.vtf,1600,1600
+materials/models/Crash Bandicoot Game/Props/Crates/!_nitro.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Crates/!_nitro.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/crate_template.vmt,131,131
+materials/models/Crash Bandicoot Game/Props/Crates/Crate_template.vtf,1600,1600
+models/models/dofke/crash bandicoot/enemies/sarcophagus.mdl,3960,3960
+models/models/dofke/crash bandicoot/enemies/sarcophagus.vvd,12928,12928
+models/models/dofke/crash bandicoot/enemies/sarcophagus.dx90.vtx,2798,2798
+models/models/dofke/crash bandicoot/enemies/sarcophagus.dx80.vtx,2798,2798
+models/models/dofke/crash bandicoot/enemies/sarcophagus.sw.vtx,2782,2782
+materials/models/Crash Bandicoot Game/Enemies/sarcophagus.vmt,106,106
+materials/models/Crash Bandicoot Game/Enemies/sarcophagus.vtf,1048784,1048784
+models/models/crashbandicoot/vase1big.mdl,1952,1952
+models/models/crashbandicoot/vase1big.vvd,11456,11456
+models/models/crashbandicoot/vase1big.dx90.vtx,2388,2388
+models/models/crashbandicoot/vase1big.dx80.vtx,2388,2388
+models/models/crashbandicoot/vase1big.sw.vtx,2372,2372
+models/models/crashbandicoot/vase1big.phy,1469,1469
+materials/models/crashbandicoot/vase1big.vmt,76,76
+materials/models/crashbandicoot/vase1big.vtf,21980,21980
+materials/models/crashbandicoot/vase1big_top.vmt,76,76
+materials/models/crashbandicoot/vase_top.vtf,5684,5684
+models/models/crashbandicoot/vase2.mdl,1948,1948
+models/models/crashbandicoot/vase2.vvd,11456,11456
+models/models/crashbandicoot/vase2.dx90.vtx,2388,2388
+models/models/crashbandicoot/vase2.dx80.vtx,2388,2388
+models/models/crashbandicoot/vase2.sw.vtx,2372,2372
+models/models/crashbandicoot/vase2.phy,1846,1846
+materials/models/crashbandicoot/vase2.vmt,73,73
+materials/models/crashbandicoot/vase2.vtf,21980,21980
+materials/models/crashbandicoot/vase_top2.vmt,76,76
+models/models/dofke/crash bandicoot/props/crates/crate_checkpoint.mdl,13808,13808
+models/models/dofke/crash bandicoot/props/crates/crate_checkpoint.vvd,6976,6976
+models/models/dofke/crash bandicoot/props/crates/crate_checkpoint.dx90.vtx,1931,1931
+models/models/dofke/crash bandicoot/props/crates/crate_checkpoint.dx80.vtx,1931,1931
+models/models/dofke/crash bandicoot/props/crates/crate_checkpoint.sw.vtx,1803,1803
+materials/models/Crash Bandicoot Game/Props/Crates/C_crate.vmt,107,107
+materials/models/Crash Bandicoot Game/Props/Crates/C_crate.vtf,904,904
+materials/models/Crash Bandicoot Game/Props/Crates/c_inside.vmt,108,108
+materials/models/Crash Bandicoot Game/Props/Crates/C_inside.vtf,504,504
+sound/crash_bandicoot_original/crates/checkpoint_open.wav,712436,712436
+models/props_foliage/bushes_tropical_straight03.mdl,1732,1732
+models/props_foliage/bushes_tropical_straight03.vvd,19136,19136
+models/props_foliage/bushes_tropical_straight03.dx90.vtx,4671,4671
+materials/models/props_foliage/mall_trees_branches03.vmt,216,216
+materials/models/props_foliage/mall_trees_branches03.vtf,5592672,5592672
+models/models/dofke/crash bandicoot/general/warp_sphere.mdl,7576,7576
+models/models/dofke/crash bandicoot/general/warp_sphere.vvd,21696,21696
+models/models/dofke/crash bandicoot/general/warp_sphere.dx90.vtx,7255,7255
+models/models/dofke/crash bandicoot/general/warp_sphere.dx80.vtx,7255,7255
+models/models/dofke/crash bandicoot/general/warp_sphere.sw.vtx,7207,7207
+materials/models/Crash Bandicoot Game/Props/Warp/Warp_room.vmt,89,89
+materials/models/Crash Bandicoot Game/Props/Warp/warp_room.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/warp_room_beta.vmt,94,94
+materials/models/Crash Bandicoot Game/Props/Warp/warp_room_beta.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Tomb_time.vmt,89,89
+materials/models/Crash Bandicoot Game/Props/Warp/Tomb_time.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Tomb_wader.vmt,90,90
+materials/models/Crash Bandicoot Game/Props/Warp/Tomb_wader.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Bug_lite.vmt,88,88
+materials/models/Crash Bandicoot Game/Props/Warp/Bug_lite.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Toad_village.vmt,92,92
+materials/models/Crash Bandicoot Game/Props/Warp/Toad_village.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Gee_wiz.vmt,87,87
+materials/models/Crash Bandicoot Game/Props/Warp/Gee_wiz.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Hangem_high.vmt,93,93
+materials/models/Crash Bandicoot Game/Props/Warp/Hangem_high.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Flaming_passion.vmt,95,95
+materials/models/Crash Bandicoot Game/Props/Warp/Flaming_passion.vtf,16592,16592
+materials/models/Crash Bandicoot Game/Props/Warp/Bone_yard.vmt,89,89
+materials/models/Crash Bandicoot Game/Props/Warp/Bone_yard.vtf,16592,16592
+sound/crash_bandicoot_original/egypt_ost.wav,9384774,9384774
+sound/crash_bandicoot_original/crates/crystal.wav,274352,274352
+models/models/dofke/crash bandicoot/general/wumpa_tw.mdl,2544,2544
+models/models/dofke/crash bandicoot/general/wumpa_tw.vvd,2496,2496
+models/models/dofke/crash bandicoot/general/wumpa_tw.dx90.vtx,795,795
+models/models/dofke/crash bandicoot/general/wumpa_tw.dx80.vtx,795,795
+models/models/dofke/crash bandicoot/general/wumpa_tw.sw.vtx,787,787
+materials/models/Crash Bandicoot Game/Props/Wumpa_CTR.vmt,118,118
+materials/models/Crash Bandicoot Game/Props/Wumpa_Ctr.vtf,131280,131280
+sound/crash_bandicoot_original/crates/wumpa_collect.wav,168100,168100
+models/models/dofke/crash bandicoot/general/crystal.mdl,2664,2664
+models/models/dofke/crash bandicoot/general/crystal.vvd,4160,4160
+models/models/dofke/crash bandicoot/general/crystal.dx90.vtx,873,873
+models/models/dofke/crash bandicoot/general/crystal.dx80.vtx,873,873
+models/models/dofke/crash bandicoot/general/crystal.sw.vtx,865,865
+materials/models/Crash Bandicoot Game/items/Crystal.vmt,367,367
+materials/models/Crash Bandicoot Game/items/Crystal.vtf,176,176
+materials/models/Crash Bandicoot Game/items/Crystal_normal.vtf,144,144
+models/ADB-foliage-pack/Trees/tree09.mdl,3072,3072
+models/ADB-foliage-pack/Trees/tree09.vvd,132160,132160
+models/ADB-foliage-pack/Trees/tree09.dx90.vtx,27434,27434
+models/ADB-foliage-pack/Trees/tree09.phy,793,793
+materials/ADB-foliage-pack/Trees/bark01_tex.vmt,620,620
+materials/ADB-foliage-pack/Trees/bark01_tex.vtf,349760,349760
+materials/ADB-foliage-pack/Trees/bark01_normal.vtf,87616,87616
+materials/ADB-foliage-pack/Trees/leaves02_tex.vmt,594,594
+materials/ADB-foliage-pack/Trees/leaves02_tex.vtf,349760,349760
+materials/ADB-foliage-pack/Trees/leaves02_tex_herbst.vmt,601,601
+materials/ADB-foliage-pack/Trees/leaves02_tex_herbst.vtf,349760,349760
+materials/ADB-foliage-pack/Trees/leaves02_tex_winter.vmt,601,601
+materials/ADB-foliage-pack/Trees/leaves02_tex_winter.vtf,1398336,1398336
+materials/ADB-foliage-pack/Trees/bark01_tex_winter.vmt,625,625
+materials/ADB-foliage-pack/Trees/bark01_tex_winter.vtf,349760,349760
+materials/ADB-foliage-pack/Trees/leaves01_tex.vmt,650,650
+materials/ADB-foliage-pack/Trees/leaves01_tex.vtf,349760,349760
+materials/ADB-foliage-pack/Trees/leaves01_normal.vtf,87616,87616
+materials/ADB-foliage-pack/Trees/leaves01_tex_herbst.vmt,657,657
+materials/ADB-foliage-pack/Trees/leaves01_tex_herbst.vtf,349760,349760
+materials/ADB-foliage-pack/Trees/leaves01_tex_winter.vmt,657,657
+materials/ADB-foliage-pack/Trees/leaves01_tex_winter.vtf,349760,349760
+materials/ADB-foliage-pack/Trees/leaves03_tex.vmt,607,607
+materials/ADB-foliage-pack/Trees/leaves03_tex.vtf,349760,349760
+materials/ADB-foliage-pack/Trees/leaves04_tex.vmt,607,607
+materials/ADB-foliage-pack/Trees/leaves04_tex.vtf,349760,349760
+materials/ADB-foliage-pack/Trees/leaves05_tex.vmt,607,607
+materials/ADB-foliage-pack/Trees/leaves05_tex.vtf,87616,87616
+materials/ADB-foliage-pack/Trees/leaves06_tex.vmt,607,607
+materials/ADB-foliage-pack/Trees/leaves06_tex.vtf,349760,349760
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/jap_angelica_l_01.mdl,2456,2456
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/jap_angelica_l_01.vvd,328000,328000
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_l_01.dx90.vtx,69768,69768
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_l_01.dx80.vtx,69768,69768
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_l_01.sw.vtx,69768,69768
+models/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/Jap_Angelica_l_01.phy,6771,6771
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/bark_06.vmt,122,122
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/bark_06.vtf,2796448,2796448
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/JapaneseAngelicaLeaves.vmt,163,163
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/JapaneseAngelicaLeaves.vtf,699256,699256
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/JapaneseAngelicaFlowers.vmt,164,164
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/JapaneseAngelicaFlowers.vtf,699256,699256
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/branch_02.vmt,150,150
+materials/domitibingen/Foliage/Deciduous_tree/Jap_Angelica_01/branch_02.vtf,1398360,1398360
+models/fragmodels/pilz5.mdl,1840,1840
+models/fragmodels/pilz5.vvd,9856,9856
+models/fragmodels/pilz5.dx90.vtx,2976,2976
+models/fragmodels/pilz5.dx80.vtx,2976,2976
+models/fragmodels/pilz5.sw.vtx,2976,2976
+models/fragmodels/pilz5.phy,3607,3607
+materials/models/fragmodels/fliegenpilz.vmt,153,153
+materials/models/fragmodels/fliegenpilz.vtf,174984,174984
+materials/models/fragmodels/fliegenpilz_normal.vtf,174984,174984
+materials/models/fragmodels/lamellen.vmt,141,141
+materials/models/fragmodels/pilz4.vtf,174984,174984
+materials/models/fragmodels/pilz4_normal.vtf,174984,174984
+materials/models/fragmodels/pilz4.vmt,141,141
+models/fragmodels/pilz6.mdl,1644,1644
+models/fragmodels/pilz6.vvd,2880,2880
+models/fragmodels/pilz6.dx90.vtx,882,882
+models/fragmodels/pilz6.dx80.vtx,882,882
+models/fragmodels/pilz6.sw.vtx,882,882
+models/fragmodels/pilz6.phy,1447,1447
+materials/models/fragmodels/pilz2.vmt,141,141
+materials/models/fragmodels/pilz2.vtf,174984,174984
+materials/models/fragmodels/pilz2_normal.vtf,174984,174984
+models/fragmodels/pilz3.mdl,1832,1832
+models/fragmodels/pilz3.vvd,11712,11712
+models/fragmodels/pilz3.dx90.vtx,3555,3555
+models/fragmodels/pilz3.dx80.vtx,3555,3555
+models/fragmodels/pilz3.sw.vtx,3555,3555
+models/fragmodels/pilz3.phy,3991,3991
+models/ADB-foliage-pack/Bushes/WildBushes/wildbush_s.mdl,3728,3728
+models/ADB-foliage-pack/Bushes/WildBushes/wildbush_s.vvd,1088,1088
+models/ADB-foliage-pack/Bushes/WildBushes/WildBush_S.dx90.vtx,349,349
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush01_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush01_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush02_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush02_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush03_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush03_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush04_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush04_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush05_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush05_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush06_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush06_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush07_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush07_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush08_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush08_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush09_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush09_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush10_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush10_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush11_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush11_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush12_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush12_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush13_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush13_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush14_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush14_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush15_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush15_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush16_tex.vmt,610,610
+materials/ADB-foliage-pack/Bushes/WildBushes/WildBush16_tex.vtf,1398336,1398336
+materials/ADB-foliage-pack/Bushes/WildBushes/leaves09_tex.vmt,607,607
+materials/ADB-foliage-pack/Trees/leaves09_tex.vtf,1398336,1398336
+models/fragmodels/pilz4.mdl,1840,1840
+models/fragmodels/pilz4.vvd,7552,7552
+models/fragmodels/pilz4.dx90.vtx,2316,2316
+models/fragmodels/pilz4.dx80.vtx,2316,2316
+models/fragmodels/pilz4.sw.vtx,2316,2316
+models/fragmodels/pilz4.phy,2887,2887
+models/fragmodels/pilzport.mdl,1460,1460
+models/fragmodels/pilzport.vvd,50944,50944
+models/fragmodels/pilzport.dx90.vtx,13506,13506
+models/fragmodels/pilzport.dx80.vtx,13506,13506
+models/fragmodels/pilzport.sw.vtx,13506,13506
+models/fragmodels/pilzport.phy,5339,5339
+materials/models/fragmodels/pilzport.vmt,191,191
+materials/models/fragmodels/pilzport.vtf,699272,699272
+models/domitibingen/Foliage/Palms/D_palm_01/d_palm_b_01.mdl,2400,2400
+models/domitibingen/Foliage/Palms/D_palm_01/d_palm_b_01.vvd,54976,54976
+models/domitibingen/Foliage/Palms/D_palm_01/D_palm_b_01.dx90.vtx,15366,15366
+models/domitibingen/Foliage/Palms/D_palm_01/D_palm_b_01.dx80.vtx,15366,15366
+models/domitibingen/Foliage/Palms/D_palm_01/D_palm_b_01.sw.vtx,15366,15366
+models/domitibingen/Foliage/Palms/D_palm_01/D_palm_b_01.phy,3015,3015
+materials/domitibingen/Foliage/Palms/D_palm_01/palm_bark_02.vmt,182,182
+materials/domitibingen/Foliage/Palms/D_palm_01/palm_bark_02.vtf,174928,174928
+materials/domitibingen/Foliage/Palms/D_palm_01/palm_bark_02_normal.vtf,174928,174928
+materials/domitibingen/Foliage/Palms/D_palm_01/DatePalmFrond_Dead.vmt,174,174
+materials/domitibingen/Foliage/Palms/D_palm_01/DatePalmFrond_Dead.vtf,349720,349720
+materials/domitibingen/Foliage/Palms/D_palm_01/DatePalmFrond.vmt,169,169
+materials/domitibingen/Foliage/Palms/D_palm_01/DatePalmFrond.vtf,349720,349720
+materials/domitibingen/Foliage/Palms/D_palm_01/Cap_04.vmt,147,147
+materials/domitibingen/Foliage/Palms/D_palm_01/Cap_04.vtf,175008,175008
+models/domitibingen/Foliage/Palms/D_palm_01/d_palm_b_03.mdl,2400,2400
+models/domitibingen/Foliage/Palms/D_palm_01/d_palm_b_03.vvd,62272,62272
+models/domitibingen/Foliage/Palms/D_palm_01/D_palm_b_03.dx90.vtx,17322,17322
+models/domitibingen/Foliage/Palms/D_palm_01/D_palm_b_03.dx80.vtx,17322,17322
+models/domitibingen/Foliage/Palms/D_palm_01/D_palm_b_03.sw.vtx,17322,17322
+models/domitibingen/Foliage/Palms/D_palm_01/D_palm_b_03.phy,4695,4695
