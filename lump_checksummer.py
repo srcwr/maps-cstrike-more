@@ -1,6 +1,7 @@
+# SPDX-License-Identifier: WTFPL
 
 import glob
-import bsp_tool
+import bsp_tool # https://github.com/srcwr/bsp_tool
 import csv
 from pathlib import Path
 import hashlib

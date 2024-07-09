@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: WTFPL
+
 import glob
 import csv
 from pathlib import Path
