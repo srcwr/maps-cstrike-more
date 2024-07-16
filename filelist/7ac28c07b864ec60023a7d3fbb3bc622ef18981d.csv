@@ -1,0 +1,41 @@
+filename,size,compressed
+materials/maps/de_lava_islands/nature/blendcliffgrass001a_wvt_patch.vmt,332,332
+materials/maps/de_lava_islands/tile/tileroof002a_0_0_0.vmt,126,126
+materials/maps/de_lava_islands/cubemapdefault.vtf,28753,28753
+materials/maps/de_lava_islands/c0_0_0.vtf,28753,28753
+materials/maps/de_lava_islands/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_lava_islands/c0_0_0.hdr.vtf,76528,76528
+materials/RW/Lava1.vmt,232,232
+materials/RW/Lava1.vtf,131280,131280
+materials/cstrike/crate02.vmt,87,87
+materials/cstrike/crate02.vtf,11128,11128
+materials/cstrike/crateside01.vmt,91,91
+materials/cstrike/crateside01.vtf,11128,11128
+materials/sq_textures/horror/sq_hr_figure.vmt,100,100
+materials/sq_textures/horror/sq_hr_figure.vtf,262352,262352
+materials/neon/red.vmt,93,93
+materials/neon/red.vtf,174968,174968
+materials/RW/HellFire2.vmt,219,219
+materials/RW/HellFire2.vtf,262352,262352
+materials/RW/Hell Fire.vmt,217,217
+materials/RW/Hell Fire.vtf,262352,262352
+materials/RW/Hell Light.vmt,84,84
+materials/RW/Hell Light.vtf,262352,262352
+materials/beautiful_glass/red.vmt,241,241
+materials/beautiful_glass/normal.vtf,349760,349760
+materials/beautiful_glass/red.vtf,174984,174984
+materials/RW/Blood.vmt,230,230
+materials/RW/Blood.vtf,131280,131280
+materials/skybox/sky_hellup.vmt,84,84
+materials/skybox/sky_hellup.vtf,4194511,4194511
+materials/skybox/sky_helldn.vmt,84,84
+materials/skybox/sky_helldn.vtf,4194511,4194511
+materials/skybox/sky_helllf.vmt,84,84
+materials/skybox/sky_helllf.vtf,4194511,4194511
+materials/skybox/sky_hellrt.vmt,84,84
+materials/skybox/sky_hellrt.vtf,4194511,4194511
+materials/skybox/sky_hellft.vmt,84,84
+materials/skybox/sky_hellft.vtf,4194511,4194511
+materials/skybox/sky_hellbk.vmt,84,84
+materials/skybox/sky_hellbk.vtf,4194511,4194511
+sound/HELPMEHELPMEHELPMEHELPMEHELME.mp3,1515840,1515840
