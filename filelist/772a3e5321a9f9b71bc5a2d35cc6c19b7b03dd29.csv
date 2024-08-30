@@ -1,0 +1,11 @@
+filename,size,compressed
+materials/maps/gg_pts/cubemapdefault.vtf,9832,9832
+materials/maps/gg_pts/cubemapdefault.hdr.vtf,76528,76528
+materials/Color/blue.vmt,61,61
+materials/Color/blue.vtf,11144,11144
+materials/Color/red.vmt,60,60
+materials/Color/red.vtf,11144,11144
+materials/overviews/gg_pts.vmt,135,135
+materials/overviews/gg_pts.vtf,1398336,1398336
+materials/overviews/gg_pts_radar.vmt,135,135
+resource/overviews/gg_pts.txt,111,111
