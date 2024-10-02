@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/cs_phenom_manor/nature/blendprodasphaltgrass_wvt_patch.vmt,122,122
+materials/maps/cs_phenom_manor/de_chateau/exttile01_0_0_0.vmt,129,129
+materials/maps/cs_phenom_manor/de_chateau/wall04pnl_0_0_0.vmt,129,129
+materials/maps/cs_phenom_manor/metal/metalroof006a_0_0_0.vmt,128,128
+materials/maps/cs_phenom_manor/wood/woodwall016a_0_0_0.vmt,126,126
+materials/maps/cs_phenom_manor/cubemapdefault.vtf,28753,28753
+materials/maps/cs_phenom_manor/c0_0_0.vtf,28753,28753
+materials/maps/cs_phenom_manor/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cs_phenom_manor/c0_0_0.hdr.vtf,76528,76528
+materials/custom/Illegal House Sign.vmt,73,73
+materials/custom/Illegal House Sign.vtf,349680,349680
+materials/custom/Arozzi Advertisement.vmt,75,75
+materials/custom/Arozzi Advertisement.vtf,1398320,1398320
+materials/custom/Phenom Manor sign.vmt,72,72
+materials/custom/Phenom Manor sign.vtf,1398320,1398320
+maps/cs_phenom_manor.nav,378346,378346
