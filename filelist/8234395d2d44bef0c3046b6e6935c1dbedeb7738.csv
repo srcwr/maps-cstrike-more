@@ -1,0 +1,259 @@
+filename,size,compressed
+materials/maps/kz_dzy_beyond/cubemapdefault.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c-2800_8336_1824.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c-2944_7296_1792.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c-5904_2192_272.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c2768_2256_272.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c6288_2256_1824.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c3408_5584_752.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c3952_8176_752.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c5328_8176_1840.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c5872_5584_1840.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c-5376_1152_208.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c0_1984_224.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c2496_3072_320.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c2816_5016_288.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c3680_6944_688.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c4272_8176_704.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c4752_8176_1136.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c5600_6880_1792.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c6048_4816_1536.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c5824_4624_2240.vtf,9832,9832
+materials/maps/kz_dzy_beyond/c6800_2880_1280.vtf,9832,9832
+materials/maps/kz_dzy_beyond/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c-2800_8336_1824.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c-2944_7296_1792.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c-5904_2192_272.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c2768_2256_272.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c6288_2256_1824.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c3408_5584_752.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c3952_8176_752.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c5328_8176_1840.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c5872_5584_1840.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c-5376_1152_208.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c0_1984_224.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c2496_3072_320.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c2816_5016_288.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c3680_6944_688.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c4272_8176_704.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c4752_8176_1136.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c5600_6880_1792.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c6048_4816_1536.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c5824_4624_2240.hdr.vtf,76528,76528
+materials/maps/kz_dzy_beyond/c6800_2880_1280.hdr.vtf,76528,76528
+sp_2.vhv,2560,2560
+sp_3.vhv,2560,2560
+sp_4.vhv,2560,2560
+sp_6.vhv,2560,2560
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2968,2968
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11160,11160
+materials/tools/toolsclip.vmt,358,358
+materials/tools/toolsclip.vtf,5712,5712
+materials/tools/toolsclip-dx10.vtf,5720,5720
+materials/tools/toolsblack.vmt,64,64
+materials/tools/toolsblack.vtf,2952,2952
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_3680_6944_688.vmt,132,132
+materials/pk02/pk02_floor01.vmt,247,247
+materials/pk02/pk02_floor01_c.vtf,174968,174968
+materials/pk02/pk02_floor01_n.vtf,349744,349744
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_3408_5584_752.vmt,150,150
+materials/vbd/pack 2 remnont/remn_metalfloor9.vmt,328,328
+materials/vbd/pack 2 remnont/remn_metalfloor9.vtf,174984,174984
+materials/vbd/pack 2 remnont/remn_metalfloor9_normal.vtf,349760,349760
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_5600_6880_1792.vmt,133,133
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_5872_5584_1840.vmt,133,133
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_4752_8176_1136.vmt,133,133
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_3680_6944_688.vmt,150,150
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_3952_8176_752.vmt,150,150
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_2496_3072_320.vmt,132,132
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_5600_6880_1792.vmt,151,151
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_5824_4624_2240.vmt,133,133
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_5872_5584_1840.vmt,151,151
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_6048_4816_1536.vmt,133,133
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_5328_8176_1840.vmt,151,151
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_4752_8176_1136.vmt,151,151
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_-2800_8336_1824.vmt,134,134
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_5328_8176_1840.vmt,133,133
+materials/cs_havana/white.vmt,57,57
+materials/cs_havana/white.vtf,904,904
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_2816_5016_288.vmt,132,132
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_4752_8176_1136.vmt,138,138
+materials/skyppy3/metal_floor05b.vmt,255,255
+materials/skyppy3/metal_floor05b.vtf,699272,699272
+materials/skyppy3/normals/metal_floor05ab_normal.vtf,1398336,1398336
+materials/maps/kz_dzy_beyond/overloaded/glass_5600_6880_1792.vmt,132,132
+materials/OVERLOADED/glass.vmt,225,225
+materials/OVERLOADED/glass.vtf,174944,174944
+materials/OVERLOADED/glass_normal.vtf,87544,87544
+materials/maps/kz_dzy_beyond/overloaded/glass_5824_4624_2240.vmt,132,132
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_3952_8176_752.vmt,132,132
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_4272_8176_704.vmt,132,132
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_4272_8176_704.vmt,147,147
+materials/vbd/pack 2 remnont/remn_pillar_d.vmt,322,322
+materials/vbd/pack 2 remnont/remn_pillar_d.vtf,22008,22008
+materials/vbd/pack 2 remnont/remn_pillar_d_normal.vtf,43904,43904
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_4752_8176_1136.vmt,148,148
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_5328_8176_1840.vmt,148,148
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_4272_8176_704.vmt,137,137
+materials/maps/kz_dzy_beyond/overloaded/glass_3680_6944_688.vmt,131,131
+materials/maps/kz_dzy_beyond/overloaded/glass_4752_8176_1136.vmt,132,132
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_3408_5584_752.vmt,132,132
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5712,5712
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/danzay/ossloth.vmt,79,79
+materials/danzay/ossloth.vtf,22080,22080
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_-2800_8336_1824.vmt,152,152
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_-2944_7296_1792.vmt,152,152
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_-2944_7296_1792.vmt,134,134
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_-5904_2192_272.vmt,151,151
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_-5376_1152_208.vmt,151,151
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_-5376_1152_208.vmt,133,133
+materials/colour/metal/metalfloor003a_black.vmt,81,81
+materials/colour/metal/metalfloor003a_black.vtf,349760,349760
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01b_5824_4624_2240.vmt,136,136
+materials/pk02/pk02_generic01b.vmt,251,251
+materials/pk02/pk02_generic01b_c.vtf,174968,174968
+materials/pk02/pk02_generic01_n.vtf,349744,349744
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01b_2496_3072_320.vmt,135,135
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01b_2816_5016_288.vmt,135,135
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01b_3408_5584_752.vmt,135,135
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01b_6048_4816_1536.vmt,136,136
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01b_6288_2256_1824.vmt,136,136
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_5824_4624_2240.vmt,136,136
+materials/pk02/pk02_generic01a.vmt,251,251
+materials/pk02/pk02_generic01a_c.vtf,174968,174968
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_3408_5584_752.vmt,135,135
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_6048_4816_1536.vmt,136,136
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_2496_3072_320.vmt,135,135
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_0_1984_224.vmt,132,132
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_2816_5016_288.vmt,135,135
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_6800_2880_1280.vmt,136,136
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_6288_2256_1824.vmt,136,136
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_2816_5016_288.vmt,150,150
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_6048_4816_1536.vmt,151,151
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_6288_2256_1824.vmt,151,151
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_6800_2880_1280.vmt,133,133
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_6800_2880_1280.vmt,151,151
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_0_1984_224.vmt,129,129
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_2768_2256_272.vmt,150,150
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_2496_3072_320.vmt,150,150
+materials/badges/4arial.vmt,74,74
+materials/badges/4arial.vtf,22080,22080
+materials/badges/0arial.vmt,74,74
+materials/badges/0arial.vtf,22080,22080
+materials/badges/2arial.vmt,74,74
+materials/badges/2arial.vtf,22080,22080
+materials/maps/kz_dzy_beyond/overloaded/glass_-2800_8336_1824.vmt,133,133
+materials/maps/kz_dzy_beyond/overloaded/glass_5328_8176_1840.vmt,132,132
+materials/maps/kz_dzy_beyond/overloaded/glass_4272_8176_704.vmt,131,131
+materials/badges/5arial.vmt,74,74
+materials/badges/5arial.vtf,22080,22080
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_2496_3072_320.vmt,147,147
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_5872_5584_1840.vmt,138,138
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_-5904_2192_272.vmt,148,148
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_-2944_7296_1792.vmt,149,149
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_2816_5016_288.vmt,132,132
+materials/pk02/pk02_pipes01.vmt,267,267
+materials/pk02/pk02_pipes01_c.vtf,349744,349744
+materials/pk02/pk02_pipes01_n.vtf,349744,349744
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_-2944_7296_1792.vmt,134,134
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_3680_6944_688.vmt,132,132
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_0_1984_224.vmt,144,144
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_-5376_1152_208.vmt,148,148
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_3408_5584_752.vmt,147,147
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_-5904_2192_272.vmt,133,133
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_2768_2256_272.vmt,132,132
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_2768_2256_272.vmt,132,132
+materials/maps/kz_dzy_beyond/pk02/pk02_floor01_6288_2256_1824.vmt,133,133
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_3952_8176_752.vmt,132,132
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_5328_8176_1840.vmt,133,133
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_5328_8176_1840.vmt,136,136
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_2768_2256_272.vmt,147,147
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_6800_2880_1280.vmt,148,148
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_2816_5016_288.vmt,147,147
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_5872_5584_1840.vmt,133,133
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_5600_6880_1792.vmt,148,148
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_-2800_8336_1824.vmt,134,134
+materials/maps/kz_dzy_beyond/pk02/pk02_floor05_0_1984_224.vmt,129,129
+materials/pk02/pk02_floor05.vmt,251,251
+materials/pk02/pk02_floor05_c.vtf,174968,174968
+materials/pk02/pk02_floor05_n.vtf,349744,349744
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_5824_4624_2240.vmt,148,148
+materials/maps/kz_dzy_beyond/overloaded/glass_2496_3072_320.vmt,131,131
+materials/maps/kz_dzy_beyond/overloaded/glass_2816_5016_288.vmt,131,131
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_6048_4816_1536.vmt,148,148
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_-2800_8336_1824.vmt,149,149
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_-5904_2192_272.vmt,133,133
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_3680_6944_688.vmt,147,147
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_5872_5584_1840.vmt,136,136
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_5600_6880_1792.vmt,138,138
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_5872_5584_1840.vmt,148,148
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_4272_8176_704.vmt,132,132
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_-5376_1152_208.vmt,138,138
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_5824_4624_2240.vmt,138,138
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_2768_2256_272.vmt,137,137
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_6288_2256_1824.vmt,138,138
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_6800_2880_1280.vmt,133,133
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_3952_8176_752.vmt,147,147
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_4752_8176_1136.vmt,136,136
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_-2800_8336_1824.vmt,139,139
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_5328_8176_1840.vmt,138,138
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_4752_8176_1136.vmt,133,133
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_0_1984_224.vmt,134,134
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_6288_2256_1824.vmt,133,133
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_3680_6944_688.vmt,137,137
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_-2944_7296_1792.vmt,139,139
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_2496_3072_320.vmt,137,137
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_-5904_2192_272.vmt,138,138
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_6048_4816_1536.vmt,138,138
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_3408_5584_752.vmt,132,132
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_metalfloor9_5824_4624_2240.vmt,151,151
+materials/maps/kz_dzy_beyond/pk02/pk02_floor05_-2944_7296_1792.vmt,134,134
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_5600_6880_1792.vmt,133,133
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_0_1984_224.vmt,129,129
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_3408_5584_752.vmt,137,137
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_2816_5016_288.vmt,137,137
+materials/maps/kz_dzy_beyond/overloaded/glass_3408_5584_752.vmt,131,131
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_6800_2880_1280.vmt,138,138
+materials/maps/kz_dzy_beyond/vbd/pack 2 remnont/remn_pillar_d_6288_2256_1824.vmt,148,148
+materials/maps/kz_dzy_beyond/pk02/pk02_generic01a_4272_8176_704.vmt,135,135
+materials/maps/kz_dzy_beyond/skyppy3/metal_floor05b_3952_8176_752.vmt,137,137
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_2496_3072_320.vmt,132,132
+materials/maps/kz_dzy_beyond/overloaded/glass_6288_2256_1824.vmt,132,132
+materials/maps/kz_dzy_beyond/overloaded/glass_6800_2880_1280.vmt,132,132
+materials/maps/kz_dzy_beyond/pk02/pk02_pipes01_-5376_1152_208.vmt,133,133
+materials/detail/detailsprites.vmt,87,87
+materials/detail/detailsprites.vtf,1398360,1398360
+materials/skybox/dzy2up.vmt,73,73
+materials/skybox/dzy2up.vtf,1398336,1398336
+materials/skybox/dzy2dn.vmt,73,73
+materials/skybox/dzy2dn.vtf,1398336,1398336
+materials/skybox/dzy2lf.vmt,73,73
+materials/skybox/dzy2lf.vtf,1398336,1398336
+materials/skybox/dzy2rt.vmt,73,73
+materials/skybox/dzy2rt.vtf,1398336,1398336
+materials/skybox/dzy2ft.vmt,73,73
+materials/skybox/dzy2ft.vtf,1398336,1398336
+materials/skybox/dzy2bk.vmt,73,73
+materials/skybox/dzy2bk.vtf,1398336,1398336
+models/props_c17/light_cagelight02_on.mdl,1756,1756
+models/props_c17/light_cagelight02_on.vvd,37632,37632
+models/props_c17/light_cagelight02_on.dx90.vtx,11965,11965
+models/props_c17/light_cagelight02_on.dx80.vtx,11965,11965
+models/props_c17/light_cagelight02_on.sw.vtx,11965,11965
+models/props_c17/light_cagelight02_on.phy,1008,1008
+materials/models/props_c17/cagebulb01.vmt,165,165
+materials/models/props_c17/cagebulb01.vtf,43872,43872
+models/props_equipment/metal_ladder002_new.mdl,1804,1804
+models/props_equipment/metal_ladder002_new.vvd,26304,26304
+models/props_equipment/metal_ladder002_new.dx90.vtx,6147,6147
+models/props_equipment/metal_ladder002_new.dx80.vtx,6147,6147
+models/props_equipment/metal_ladder002_new.sw.vtx,6147,6147
+models/props_equipment/metal_ladder002_new.phy,4582,4582
+materials/models/props_equipment/metal_ladder002_new_color.vmt,577,577
+materials/models/props_equipment/metal_ladder002_new_color.vtf,174944,174944
+materials/models/props_equipment/metal_ladder002_new_normal.vtf,174944,174944
+materials/detail/detailconcrete001a.vtf,174984,174984
