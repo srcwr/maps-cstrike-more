@@ -1,0 +1,627 @@
+filename,size,compressed
+materials/maps/jb_minecraft_csgo_rvedit/de_train/blendgraveldirt001a_wvt_patch.vmt,130,116
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_96.vmt,103,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_16.vmt,103,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_8.vmt,102,95
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_48.vmt,103,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_29.vmt,103,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_10.vmt,103,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_64.vmt,103,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_32.vmt,103,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_120.vmt,104,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_116.vmt,104,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava_depth_120.vmt,103,99
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava_depth_11.vmt,102,98
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava_depth_32.vmt,102,98
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava scrolling_depth_288.vmt,113,108
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava_depth_8.vmt,101,97
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava_depth_28.vmt,102,98
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava scrolling_depth_625.vmt,113,108
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava scrolling_depth_-1572.vmt,115,110
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava scrolling_depth_-1731.vmt,115,110
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava scrolling_depth_-4841.vmt,115,110
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava scrolling_depth_16028.vmt,115,110
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/lava_depth_128.vmt,103,99
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_92.vmt,103,96
+materials/maps/jb_minecraft_csgo_rvedit/mctextures/water_depth_12.vmt,103,96
+materials/maps/jb_minecraft_csgo_rvedit/cubemapdefault.vtf,28753,113
+materials/maps/jb_minecraft_csgo_rvedit/cubemapdefault.hdr.vtf,76528,128
+sp_0.vhv,1024,118
+sp_1.vhv,1024,108
+sp_2.vhv,1024,114
+sp_3.vhv,1024,118
+sp_4.vhv,1024,112
+sp_5.vhv,1024,117
+sp_6.vhv,1024,114
+sp_7.vhv,1024,115
+sp_8.vhv,1024,114
+sp_9.vhv,1024,118
+sp_10.vhv,1024,117
+sp_11.vhv,1024,117
+sp_12.vhv,1536,294
+sp_13.vhv,1024,112
+sp_14.vhv,1024,110
+sp_15.vhv,1024,110
+sp_16.vhv,1024,107
+sp_17.vhv,1024,129
+sp_18.vhv,1024,123
+sp_19.vhv,1536,337
+sp_20.vhv,1024,117
+sp_21.vhv,1024,111
+sp_22.vhv,1024,116
+sp_23.vhv,1024,107
+sp_24.vhv,1024,114
+sp_25.vhv,1024,115
+sp_26.vhv,1024,104
+sp_27.vhv,1024,109
+sp_28.vhv,1024,115
+sp_29.vhv,1024,114
+sp_30.vhv,1024,112
+sp_31.vhv,1024,115
+sp_32.vhv,1024,109
+sp_33.vhv,1024,111
+sp_34.vhv,1024,108
+sp_35.vhv,1024,116
+sp_36.vhv,1024,123
+sp_37.vhv,1024,116
+sp_38.vhv,1024,113
+sp_39.vhv,1024,123
+sp_40.vhv,1024,122
+sp_41.vhv,1536,292
+sp_42.vhv,1024,104
+sp_hdr_0.vhv,1024,118
+sp_hdr_1.vhv,1024,108
+sp_hdr_2.vhv,1024,114
+sp_hdr_3.vhv,1024,118
+sp_hdr_4.vhv,1024,112
+sp_hdr_5.vhv,1024,117
+sp_hdr_6.vhv,1024,114
+sp_hdr_7.vhv,1024,115
+sp_hdr_8.vhv,1024,114
+sp_hdr_9.vhv,1024,118
+sp_hdr_10.vhv,1024,117
+sp_hdr_11.vhv,1024,117
+sp_hdr_12.vhv,1536,294
+sp_hdr_13.vhv,1024,112
+sp_hdr_14.vhv,1024,110
+sp_hdr_15.vhv,1024,110
+sp_hdr_16.vhv,1024,107
+sp_hdr_17.vhv,1024,129
+sp_hdr_18.vhv,1024,123
+sp_hdr_19.vhv,1536,338
+sp_hdr_20.vhv,1024,117
+sp_hdr_21.vhv,1024,111
+sp_hdr_22.vhv,1024,116
+sp_hdr_23.vhv,1024,107
+sp_hdr_24.vhv,1024,114
+sp_hdr_25.vhv,1024,115
+sp_hdr_26.vhv,1024,104
+sp_hdr_27.vhv,1024,109
+sp_hdr_28.vhv,1024,115
+sp_hdr_29.vhv,1024,114
+sp_hdr_30.vhv,1024,112
+sp_hdr_31.vhv,1024,115
+sp_hdr_32.vhv,1024,109
+sp_hdr_33.vhv,1024,111
+sp_hdr_34.vhv,1024,108
+sp_hdr_35.vhv,1024,116
+sp_hdr_36.vhv,1024,123
+sp_hdr_37.vhv,1024,116
+sp_hdr_38.vhv,1024,113
+sp_hdr_39.vhv,1024,123
+sp_hdr_40.vhv,1024,122
+sp_hdr_41.vhv,1536,292
+sp_hdr_42.vhv,1024,104
+maps/jb_minecraft_csgo_rvedit.nav,2326,556
+detail.vbsp,42794,2909
+models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag.mdl,1948,534
+models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag.dx80.vtx,14220,3654
+models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag.dx90.vtx,14220,3654
+models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag.phy,2731,1759
+models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag.sw.vtx,14220,3757
+models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag.vtx,14220,3654
+models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag.vvd,47360,27049
+materials/models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag_02_color.vmt,558,258
+materials/models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag_02_color.vtf,87544,41944
+materials/models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag_02_normal.vtf,87544,65857
+models/props_junk/trashcluster01a_corner.mdl,1764,461
+models/props_junk/trashcluster01a_corner.dx80.vtx,28257,5882
+models/props_junk/trashcluster01a_corner.dx90.vtx,28257,5882
+models/props_junk/trashcluster01a_corner.phy,2531,1692
+models/props_junk/trashcluster01a_corner.sw.vtx,28257,5885
+models/props_junk/trashcluster01a_corner.vtx,28257,6346
+models/props_junk/trashcluster01a_corner.vvd,109760,55943
+materials/models/props_junk/trashclusters01.vmt,201,148
+materials/models/props_junk/trashclusters01.vtf,175008,76259
+materials/env_cubemap.vtf,98490,55275
+materials/models/props_junk/trashclusters01_specular.vtf,43936,11777
+models/props_pipes/pipe03_lcurve02_long.mdl,1960,503
+models/props_pipes/pipe03_lcurve02_long.dx80.vtx,1494,391
+models/props_pipes/pipe03_lcurve02_long.dx90.vtx,1494,391
+models/props_pipes/pipe03_lcurve02_long.phy,2461,1529
+models/props_pipes/pipe03_lcurve02_long.sw.vtx,1494,395
+models/props_pipes/pipe03_lcurve02_long.vtx,1494,391
+models/props_pipes/pipe03_lcurve02_long.vvd,5760,2556
+materials/models/props_pipes/pipesystem01a_skin1.vmt,207,164
+materials/models/props_pipes/pipesystem01a_skin1.vtf,174984,117880
+materials/models/props_pipes/pipesystem01a_skin2.vmt,113,110
+materials/models/props_pipes/pipesystem01a_skin2.vtf,87544,66674
+materials/models/props_pipes/pipesystem01a_skin3.vmt,111,110
+materials/models/props_pipes/pipesystem01a_skin3.vtf,174984,145792
+models/props_junk/trashcluster01a.mdl,1728,437
+models/props_junk/trashcluster01a.dx80.vtx,48758,11054
+models/props_junk/trashcluster01a.dx90.vtx,58944,13012
+models/props_junk/trashcluster01a.phy,1419,971
+models/props_junk/trashcluster01a.sw.vtx,48758,11199
+models/props_junk/trashcluster01a.vtx,58944,13012
+models/props_junk/trashcluster01a.vvd,231168,118260
+models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_02.mdl,1988,518
+models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_02.dx80.vtx,27393,4857
+models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_02.dx90.vtx,27393,4858
+models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_02.phy,3136,1614
+models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_02.sw.vtx,27393,4876
+models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_02.vtx,27393,4858
+models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_02.vvd,116544,26449
+materials/models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_color.vmt,411,197
+materials/models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_color.vtf,699272,438138
+models/mcmodelpack/items/sword.mdl,2156,613
+models/mcmodelpack/items/sword.dx80.vtx,5109,974
+models/mcmodelpack/items/sword.dx90.vtx,5109,975
+models/mcmodelpack/items/sword.phy,2755,1582
+models/mcmodelpack/items/sword.sw.vtx,5101,963
+models/mcmodelpack/items/sword.vtx,5109,975
+models/mcmodelpack/items/sword.vvd,24640,1705
+materials/models/mcmodelpack/items/sword-00.vmt,109,105
+materials/models/mcmodelpack/items/sword-00.vtf,976,213
+materials/models/mcmodelpack/items/sword-01.vmt,109,106
+materials/models/mcmodelpack/items/sword-01.vtf,976,263
+materials/models/mcmodelpack/items/sword-02.vmt,110,107
+materials/models/mcmodelpack/items/sword-02.vtf,976,241
+materials/models/mcmodelpack/items/sword-03.vmt,110,107
+materials/models/mcmodelpack/items/sword-03.vtf,976,247
+materials/models/mcmodelpack/items/sword-04.vmt,110,107
+materials/models/mcmodelpack/items/sword-04.vtf,976,253
+models/mcmodelpack/mobs/pig.mdl,7552,1354
+models/mcmodelpack/mobs/pig.dx80.vtx,2221,494
+models/mcmodelpack/mobs/pig.dx90.vtx,2221,495
+models/mcmodelpack/mobs/pig.phy,5166,1425
+models/mcmodelpack/mobs/pig.sw.vtx,2173,470
+models/mcmodelpack/mobs/pig.vtx,2221,495
+models/mcmodelpack/mobs/pig.vvd,10816,923
+materials/models/mcmodelpack/mobs/pig.vmt,151,120
+materials/models/mcmodelpack/mobs/pig.vtf,6288,3088
+models/mcmodelpack/mobs/mob.mdl,17004,3580
+models/mcmodelpack/mobs/mob.dx80.vtx,2197,485
+models/mcmodelpack/mobs/mob.dx90.vtx,2197,485
+models/mcmodelpack/mobs/mob.phy,5022,1221
+models/mcmodelpack/mobs/mob.sw.vtx,2149,462
+models/mcmodelpack/mobs/mob.vtx,2197,485
+models/mcmodelpack/mobs/mob.vvd,10816,908
+materials/models/mcmodelpack/mobs/char.vmt,176,132
+materials/models/mcmodelpack/mobs/char.vtf,8336,1046
+materials/models/mcmodelpack/mobs/zombie.vmt,178,134
+materials/models/mcmodelpack/mobs/zombie.vtf,8336,1122
+materials/models/mcmodelpack/mobs/pigzombie.vmt,181,136
+materials/models/mcmodelpack/mobs/pigzombie.vtf,8336,2382
+materials/models/mcmodelpack/mobs/pigman.vmt,178,134
+materials/models/mcmodelpack/mobs/pigman.vtf,8336,2513
+materials/models/mcmodelpack/mobs/notch.vmt,177,132
+materials/models/mcmodelpack/mobs/notch.vtf,8336,525
+materials/models/mcmodelpack/mobs/jeb_.vmt,176,133
+materials/models/mcmodelpack/mobs/jeb_.vtf,8336,2213
+materials/models/mcmodelpack/mobs/skin13.vmt,178,135
+materials/models/mcmodelpack/mobs/skin13.vtf,8336,1066
+models/mcmodelpack/paintings/painting4x4.mdl,2144,578
+models/mcmodelpack/paintings/painting4x4.dx80.vtx,498,170
+models/mcmodelpack/paintings/painting4x4.dx90.vtx,498,170
+models/mcmodelpack/paintings/painting4x4.phy,701,425
+models/mcmodelpack/paintings/painting4x4.sw.vtx,482,166
+models/mcmodelpack/paintings/painting4x4.vtx,498,170
+models/mcmodelpack/paintings/painting4x4.vvd,1600,229
+materials/models/mcmodelpack/paintings/4x4-1.vmt,110,106
+materials/models/mcmodelpack/paintings/4x4-1.vtf,12496,8828
+materials/models/mcmodelpack/paintings/back.vmt,109,104
+materials/models/mcmodelpack/paintings/back.vtf,12496,348
+materials/models/mcmodelpack/paintings/4x4-2.vmt,110,106
+materials/models/mcmodelpack/paintings/4x4-2.vtf,12496,8228
+materials/models/mcmodelpack/paintings/4x4-3.vmt,110,106
+materials/models/mcmodelpack/paintings/4x4-3.vtf,12496,4134
+models/mcmodelpack/mobs/spider.mdl,5796,843
+models/mcmodelpack/mobs/spider.dx80.vtx,3381,669
+models/mcmodelpack/mobs/spider.dx90.vtx,3381,669
+models/mcmodelpack/mobs/spider.phy,8563,2239
+models/mcmodelpack/mobs/spider.sw.vtx,3301,633
+models/mcmodelpack/mobs/spider.vtx,3381,669
+models/mcmodelpack/mobs/spider.vvd,16960,1704
+materials/models/mcmodelpack/mobs/spider.vmt,126,114
+materials/models/mcmodelpack/mobs/spider.vtf,8336,1979
+models/mcmodelpack/mobs/skeleton.mdl,4092,726
+models/mcmodelpack/mobs/skeleton.dx80.vtx,1909,437
+models/mcmodelpack/mobs/skeleton.dx90.vtx,1909,428
+models/mcmodelpack/mobs/skeleton.phy,5005,1143
+models/mcmodelpack/mobs/skeleton.sw.vtx,1861,415
+models/mcmodelpack/mobs/skeleton.vtx,1909,428
+models/mcmodelpack/mobs/skeleton.vvd,9280,742
+materials/models/mcmodelpack/mobs/skeleton.vmt,155,123
+materials/models/mcmodelpack/mobs/skeleton.vtf,8336,671
+models/mcmodelpack/entities/fire.mdl,1780,472
+models/mcmodelpack/entities/fire.dx80.vtx,621,191
+models/mcmodelpack/entities/fire.dx90.vtx,621,192
+models/mcmodelpack/entities/fire.phy,706,416
+models/mcmodelpack/entities/fire.sw.vtx,613,190
+models/mcmodelpack/entities/fire.vtx,621,192
+models/mcmodelpack/entities/fire.vvd,2624,412
+materials/models/mcmodelpack/animated/fire.vmt,353,181
+materials/models/mcmodelpack/animated/fire.vtf,97076,40053
+models/mcmodelpack/entities/book-closed.mdl,4304,986
+models/mcmodelpack/entities/book-closed.dx80.vtx,1245,328
+models/mcmodelpack/entities/book-closed.dx90.vtx,1245,328
+models/mcmodelpack/entities/book-closed.phy,702,465
+models/mcmodelpack/entities/book-closed.sw.vtx,1189,307
+models/mcmodelpack/entities/book-closed.vtx,1245,328
+models/mcmodelpack/entities/book-closed.vvd,5696,971
+materials/models/mcmodelpack/book.vmt,127,110
+materials/models/mcmodelpack/book.vtf,6288,316
+models/mcmodelpack/entities/weather.mdl,1792,419
+models/mcmodelpack/entities/weather.dx80.vtx,3597,660
+models/mcmodelpack/entities/weather.dx90.vtx,3597,660
+models/mcmodelpack/entities/weather.sw.vtx,3597,659
+models/mcmodelpack/entities/weather.vtx,3597,660
+models/mcmodelpack/entities/weather.vvd,18496,1226
+materials/models/mcmodelpack/animated/rain.vmt,348,174
+materials/models/mcmodelpack/animated/rain.vtf,65648,1645
+materials/models/mcmodelpack/animated/snow.vmt,349,177
+materials/models/mcmodelpack/animated/snow.vtf,65648,577
+models/mcmodelpack/entities/torch.mdl,1896,485
+models/mcmodelpack/entities/torch.dx80.vtx,445,152
+models/mcmodelpack/entities/torch.dx90.vtx,445,152
+models/mcmodelpack/entities/torch.vtx,445,152
+models/mcmodelpack/entities/torch.vvd,1600,234
+materials/models/mcmodelpack/torch.vmt,109,101
+materials/mcmodelpack/torch.vtf,656,215
+models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_exit_001b.mdl,1860,462
+models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_exit_001b.dx80.vtx,2109,542
+models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_exit_001b.dx90.vtx,2109,542
+models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_exit_001b.phy,704,430
+models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_exit_001b.sw.vtx,2109,543
+models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_exit_001b.vtx,2109,542
+models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_exit_001b.vvd,8768,1339
+materials/models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_props_001c.vmt,302,172
+materials/models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_props_001.vtf,1398336,613273
+materials/mctextures/mossy cobblestone.vmt,76,81
+materials/mctextures/mossy cobblestone.vtf,65616,873
+materials/tools/toolsnodraw.vmt,254,206
+materials/tools/toolsnodraw.vtf,2936,567
+materials/mctextures/sand.vmt,63,69
+materials/mctextures/sand.vtf,65616,937
+materials/mctextures/wool dark gray.vmt,73,79
+materials/mctextures/wool dark gray.vtf,65616,621
+materials/mctextures/nether brick.vmt,71,76
+materials/mctextures/nether brick.vtf,65616,712
+materials/mctextures/plank.vmt,64,70
+materials/mctextures/plank.vtf,65616,599
+materials/mctextures/stone brick.vmt,70,75
+materials/mctextures/stone brick.vtf,65616,656
+materials/mctextures/ladder.vmt,86,86
+materials/mctextures/ladder.vtf,65616,653
+materials/mctextures/grass side.vmt,69,75
+materials/mctextures/grass side.vtf,65616,805
+materials/minecraft_jappa/block/grass_tint/grass_block/grass_block_top_006.vmt,238,151
+materials/minecraft_jappa/block/grass_tint/grass_block/grass_block_top_006.vtf,1103,652
+materials/mctextures/stone.vmt,64,70
+materials/mctextures/stone.vtf,65616,621
+materials/minecraft_jappa/block/grass_tint/grass_block/grass_block_side_011.vmt,240,153
+materials/minecraft_jappa/block/grass_tint/grass_block/grass_block_side_011.vtf,1103,538
+materials/mctextures/slab top.vmt,67,73
+materials/mctextures/slab top.vtf,65616,637
+materials/ennergy/minecraft/stone.vmt,137,130
+materials/ennergy/minecraft/stone.vtf,11144,1818
+materials/mctextures/dirt.vmt,63,69
+materials/mctextures/dirt.vtf,65616,751
+materials/mctextures/slab side.vmt,68,74
+materials/mctextures/slab side.vtf,65616,529
+materials/mctextures/lava.vmt,509,275
+materials/mctextures/lava.vtf,874008,27273
+materials/minecraft_original/cyan wool.vmt,76,85
+materials/minecraft_original/cyan wool.vtf,11144,1236
+materials/minecraft_original/wool_colored_red.vmt,123,118
+materials/minecraft_original/wool_colored_red.vtf,22080,2503
+materials/tools/toolsskip.vmt,326,239
+materials/tools/toolsskip.vtf,5680,1887
+materials/tools/toolsskip-dx10.vtf,5720,1908
+materials/tools/toolshint.vmt,279,222
+materials/tools/toolshint.vtf,5680,750
+materials/mctextures/glass.vmt,83,85
+materials/mctextures/glass.vtf,65616,340
+materials/minecraft_original/glass.vmt,116,107
+materials/minecraft_original/glass.vtf,87588,1298
+materials/cs_italy/black.vmt,62,73
+materials/cs_italy/black.vtf,1584,90
+materials/mctextures/wool red.vmt,67,73
+materials/mctextures/wool red.vtf,65616,718
+materials/mctextures/cobblestone.vmt,70,75
+materials/mctextures/cobblestone.vtf,65616,774
+materials/mctextures/jukebox side.vmt,71,77
+materials/mctextures/jukebox side.vtf,65616,738
+materials/mctextures/brick.vmt,64,70
+materials/mctextures/brick.vtf,65616,765
+materials/mctextures/obsidian.vmt,67,73
+materials/mctextures/obsidian.vtf,65616,807
+materials/tools/toolsskybox.vmt,235,199
+materials/tools/toolsskybox.vtf,11128,957
+materials/mctextures/plank jungle.vmt,71,77
+materials/mctextures/plank jungle.vtf,65616,548
+materials/mctextures/wood jungle.vmt,70,76
+materials/mctextures/wood jungle.vtf,65616,859
+materials/mctextures/wood top.vmt,67,73
+materials/mctextures/wood top.vtf,65616,725
+materials/mctextures/plank pine.vmt,69,75
+materials/mctextures/plank pine.vtf,65616,625
+materials/mctextures/wood pine.vmt,68,74
+materials/mctextures/wood pine.vtf,65616,698
+materials/mctextures/water.vmt,521,274
+materials/mctextures/water.vtf,87588,2546
+materials/mctextures/iron bars.vmt,87,88
+materials/mctextures/iron bars.vtf,65616,718
+materials/mctextures/ice.vmt,81,83
+materials/mctextures/ice.vtf,65616,224
+materials/mctextures/bedrock.vmt,66,72
+materials/mctextures/bedrock.vtf,65616,663
+materials/mctextures/wool light blue.vmt,74,78
+materials/mctextures/wool light blue.vtf,65616,731
+materials/mctextures/wool black.vmt,69,75
+materials/mctextures/wool black.vtf,65616,660
+materials/minecraft_jappa/block/grass_tint/grass_block/grass_block_top_010.vmt,238,152
+materials/minecraft_jappa/block/grass_tint/grass_block/grass_block_top_010.vtf,1103,669
+materials/mctextures/sandstone top.vmt,72,77
+materials/mctextures/sandstone top.vtf,65616,895
+materials/mctextures/wool light gray.vmt,74,78
+materials/mctextures/wool light gray.vtf,65616,734
+materials/tools/toolsinvisible.vmt,304,230
+materials/tools/toolsinvisible.vtf,5680,1128
+materials/mctextures/wool white.vmt,69,75
+materials/mctextures/wool white.vtf,65616,714
+materials/mctextures/workbench top.vmt,72,78
+materials/mctextures/workbench top.vtf,65616,790
+materials/mctextures/glowstone.vmt,68,74
+materials/mctextures/glowstone.vtf,65616,976
+materials/mctextures/brick blue.vmt,69,75
+materials/mctextures/brick blue.vtf,65616,734
+materials/mctextures/diamond ore.vmt,70,76
+materials/mctextures/diamond ore.vtf,65616,647
+materials/mctextures/lava scrolling.vmt,651,315
+materials/mctextures/netherack.vmt,68,74
+materials/mctextures/netherack.vtf,65616,946
+materials/mctextures/gravel.vmt,65,71
+materials/mctextures/gravel.vtf,65616,728
+materials/mctextures/lapis block.vmt,70,76
+materials/mctextures/lapis block.vtf,65616,852
+materials/mctextures/wool yellow.vmt,70,76
+materials/mctextures/wool yellow.vtf,65616,708
+materials/mctextures/wool cyan.vmt,68,74
+materials/mctextures/wool cyan.vtf,65616,693
+materials/mctextures/wool lime.vmt,68,74
+materials/mctextures/wool lime.vtf,65616,720
+materials/mctextures/wool pink.vmt,68,74
+materials/mctextures/wool pink.vtf,65616,736
+materials/mctextures/trapdoor.vmt,86,88
+materials/mctextures/trapdoor.vtf,65616,800
+materials/mctextures/sapling jungle.vmt,92,94
+materials/mctextures/sapling jungle.vtf,65616,566
+materials/mctextures/door wood bottom.vmt,75,80
+materials/mctextures/door wood bottom.vtf,65616,638
+materials/mctextures/door wood top.vmt,91,93
+materials/mctextures/door wood top.vtf,65616,628
+materials/mctextures/piston back.vmt,70,76
+materials/mctextures/piston back.vtf,65616,715
+materials/mctextures/bed head top.vmt,90,92
+materials/mctextures/bed head top.vtf,65616,946
+materials/mctextures/bed head side.vmt,91,93
+materials/mctextures/bed head side.vtf,65616,535
+materials/mctextures/bed foot end.vmt,92,91
+materials/mctextures/bed foot end.vtf,65616,567
+materials/mctextures/bed foot side.vmt,93,92
+materials/mctextures/bed foot side.vtf,65616,528
+materials/mctextures/bed foot top.vmt,92,91
+materials/mctextures/bed foot top.vtf,65616,909
+materials/minecraft_jappa/block/netherrack.vmt,162,150
+materials/minecraft_jappa/block/netherrack.vtf,1231,550
+materials/mctextures/wool purple.vmt,70,76
+materials/mctextures/wool purple.vtf,65616,723
+materials/minecraft_jappa/block/polished_blackstone_bricks.vmt,181,163
+materials/minecraft_jappa/block/polished_blackstone_bricks.vtf,1231,538
+materials/ennergy/minecraft/cobblestone.vmt,119,119
+materials/ennergy/minecraft/cobblestone.vtf,11144,2872
+materials/mc/wool_black.vmt,87,91
+materials/mc/wool_black.vtf,21960,2040
+materials/ennergy/minecraft/netherbricks.vmt,145,133
+materials/ennergy/minecraft/netherbricks.vtf,11144,1807
+materials/minecraft_jappa/block/oak_log.vmt,158,150
+materials/minecraft_jappa/block/oak_log.vtf,1231,544
+materials/ennergy/minecraft/wooden_planks.vmt,145,137
+materials/ennergy/minecraft/wooden_planks.vtf,11144,1859
+materials/minecraft_jappa/block/cracked_deepslate_bricks.vmt,171,154
+materials/minecraft_jappa/block/cracked_deepslate_bricks.vtf,1231,545
+materials/minecraft_jappa/block/deepslate_top.vmt,164,149
+materials/minecraft_jappa/block/deepslate_top.vtf,1231,494
+materials/minecraft_marca/obsidian.vmt,96,97
+materials/minecraft_marca/obsidian.vtf,11160,1321
+materials/minecraft_jappa/block/dirt.vmt,151,136
+materials/minecraft_jappa/block/dirt.vtf,1231,547
+materials/minecraft_marca/cobblestone.vmt,99,99
+materials/minecraft_marca/cobblestone.vtf,11160,1562
+materials/minecraft_jappa/block/light_gray_wool.vmt,164,150
+materials/minecraft_jappa/block/light_gray_wool.vtf,1231,685
+materials/minecraft_marca/stonebrick.vmt,98,98
+materials/minecraft_marca/stonebrick.vtf,11160,1190
+materials/minecraft_jappa/block/polished_deepslate.vmt,173,158
+materials/minecraft_jappa/block/polished_deepslate.vtf,1231,518
+materials/mctextures/clay.vmt,84,84
+materials/mctextures/clay.vtf,65616,861
+materials/mctextures/mossy brick.vmt,70,75
+materials/mctextures/mossy brick.vtf,65616,803
+materials/mctextures/wool blue.vmt,68,74
+materials/mctextures/wool blue.vtf,65616,702
+materials/ennergy/minecraft/leaves_1solid_d.vmt,150,140
+materials/ennergy/minecraft/leaves_1solid_d.vtf,11144,2469
+materials/mctextures/wool green.vmt,69,75
+materials/mctextures/wool green.vtf,65616,667
+materials/tools/toolstrigger.vmt,285,226
+materials/tools/toolstrigger.vtf,5680,979
+materials/minecraft_jappa/block/nether_portal.vmt,361,231
+materials/minecraft_jappa/block/nether_portal.vtf,43728,15358
+materials/minecraft_marca/iron_block.vmt,99,100
+materials/minecraft_marca/iron_block.vtf,11160,975
+materials/minecraft_jappa/block/cut_sandstone.vmt,164,149
+materials/minecraft_jappa/block/cut_sandstone.vtf,1231,536
+materials/minecraft_marca/chest_side.vmt,98,99
+materials/minecraft_marca/chest_side.vtf,11160,1158
+materials/minecraft_marca/chest_front.vmt,99,100
+materials/minecraft_marca/chest_front.vtf,11160,1319
+materials/minecraft_marca/chest_large_top.vmt,103,103
+materials/minecraft_marca/chest_large_top.vtf,22024,3916
+materials/minecraft_jappa/block/oxidized_cut_copper.vmt,171,158
+materials/minecraft_jappa/block/oxidized_cut_copper.vtf,1231,582
+materials/minecraft textures 1.8.1/materials/minecraft_marca/hay_block_side.vmt,103,104
+materials/minecraft_marca/hay_block_side.vtf,11160,1824
+materials/minecraft textures 1.8.1/materials/minecraft_marca/hay_block_top.vmt,102,103
+materials/minecraft_marca/hay_block_top.vtf,11160,1724
+materials/props/woodcrate003d.vmt,137,127
+materials/props/woodcrate003d.vtf,11144,8878
+materials/ennergy/minecraft/art/art_8.vmt,141,131
+materials/ennergy/minecraft/art/art_8.vtf,22008,6599
+materials/cs_italy/hpe_plaster_tint_light.vmt,112,113
+materials/cs_italy/hpe_plaster_tint.vtf,349760,253753
+materials/brick/hr_brick/brick_g.vmt,337,219
+materials/brick/hr_brick/brick_g.vtf,699272,433332
+materials/brick/hr_brick/brick_g_normals.vtf,349760,226291
+materials/detail/detailconcrete001a.vtf,175008,103563
+materials/hr_massive/survival_corrugated_metal_04_grey_color.vmt,645,294
+materials/hr_massive/survival_corrugated_metal_04_color.vtf,174984,95243
+materials/hr_massive/survival_corrugated_metal_04_normal.vtf,174984,9811
+materials/minecraft_marca/wood_spruce_planks.vmt,106,104
+materials/minecraft_marca/wood_spruce_planks.vtf,11160,855
+materials/brick/hr_brick/brick_b.vmt,391,238
+materials/brick/hr_brick/brick_b.vtf,699272,420055
+materials/brick/hr_brick/brick_b_normals.vtf,349760,262703
+materials/mctextures/furnace side.vmt,71,77
+materials/mctextures/furnace side.vtf,65616,703
+materials/mctextures/furnace front lit.vmt,76,81
+materials/mctextures/furnace front lit.vtf,65616,759
+materials/mctextures/furnace top.vmt,70,76
+materials/mctextures/furnace top.vtf,65616,715
+materials/mctextures/wool orange.vmt,70,76
+materials/mctextures/wool orange.vtf,65616,669
+materials/minecraft_original/orange wool.vmt,78,87
+materials/minecraft_original/orange wool.vtf,11144,1183
+materials/metal/metalgate001a_castshadow.vmt,295,227
+materials/metal/metalgate001a.vtf,174944,29704
+materials/effects/metalrail011a.vmt,191,164
+materials/metal/metalrail011a.vtf,43872,11552
+materials/ennergy/minecraft/wool_red.vmt,142,134
+materials/ennergy/minecraft/wool_red.vtf,11144,2180
+materials/ennergy/minecraft/wool_white.vmt,144,136
+materials/ennergy/minecraft/wool_white.vtf,11144,2362
+materials/mctextures/bookcase.vmt,67,72
+materials/mctextures/bookcase.vtf,65616,612
+materials/de_dust/picrate1.vmt,127,109
+materials/de_dust/picrate1.vtf,43912,31290
+materials/de_dust/picrate1_normal.vtf,262351,181455
+materials/de_dust/picrate2.vmt,127,109
+materials/de_dust/picrate2.vtf,43896,31372
+materials/de_dust/picrate2_normal.vtf,43936,36099
+materials/mc/tnt_side.vmt,59,70
+materials/mc/tnt_side.vtf,87588,2455
+materials/minecraft_jappa/block/blackstone.vmt,161,145
+materials/minecraft_jappa/block/blackstone.vtf,1231,562
+materials/minecraft_jappa/block/blackstone_top.vmt,165,149
+materials/minecraft_jappa/block/blackstone_top.vtf,1231,537
+materials/tools/toolshurt.vmt,282,226
+materials/tools/toolshurt.vtf,5696,596
+materials/minecraft_jappa/block/barrel_top.vmt,161,146
+materials/minecraft_jappa/block/barrel_top.vtf,1231,520
+materials/minecraft_jappa/block/barrel_side.vmt,162,146
+materials/minecraft_jappa/block/barrel_side.vtf,1231,542
+materials/minecraft_jappa/block/cactus_side.vmt,164,148
+materials/minecraft_jappa/block/cactus_side.vtf,1572,652
+materials/minecraft_jappa/block/cactus_top.vmt,163,147
+materials/minecraft_jappa/block/cactus_top.vtf,1231,554
+materials/mc/glowstone.vmt,85,89
+materials/mc/glowstone.vtf,87588,4185
+materials/minecraft_jappa/block/jungle_log.vmt,157,143
+materials/minecraft_jappa/block/jungle_log.vtf,1231,549
+materials/cs_assault/assault_metalcrate001a_red.vmt,110,106
+materials/cs_assault/assault_metalcrate001a_red.vtf,174984,110380
+materials/cs_assault/assault_metalcrate001b_red.vmt,110,106
+materials/cs_assault/assault_metalcrate001b_red.vtf,174984,106096
+materials/cs_assault/assault_metalcrate001c_red.vmt,110,105
+materials/cs_assault/assault_metalcrate001c_red.vtf,174984,111321
+materials/ennergy/minecraft/wool_lightgreen.vmt,149,139
+materials/ennergy/minecraft/wool_lightgreen.vtf,11144,2459
+materials/colors/toolstrigger.vmt,278,206
+materials/tools/toolstrigger-dx10.vtf,5696,995
+materials/doublehdx/wool_lightgreen.vmt,99,100
+materials/doublehdx/wool_lightgreen.vtf,21960,2573
+materials/ennergy/minecraft/gravel.vmt,140,128
+materials/ennergy/minecraft/gravel.vtf,11144,2718
+materials/mctextures/farm.vmt,63,69
+materials/mctextures/farm.vtf,65616,832
+materials/cs_havana/white.vmt,57,69
+materials/cs_havana/white.vtf,888,69
+materials/mctextures/tnt side.vmt,67,73
+materials/mctextures/tnt side.vtf,65616,561
+materials/mctextures/tnt bottom.vmt,69,75
+materials/mctextures/tnt bottom.vtf,65616,264
+materials/mctextures/tnt top.vmt,66,73
+materials/mctextures/tnt top.vtf,65616,863
+materials/materials/tools/toolstrigger.vmt,394,268
+materials/ennergy/minecraft/glass.vmt,178,147
+materials/ennergy/minecraft/glass.vtf,22080,2292
+materials/mctextures/portal.vmt,65,71
+materials/mctextures/portal.vtf,87588,6448
+materials/mctextures/piston side.vmt,70,76
+materials/mctextures/piston side.vtf,65616,884
+materials/mctextures/piston arm sticky.vmt,76,82
+materials/mctextures/piston arm sticky.vtf,65616,975
+materials/mctextures/workbench side 2.vmt,75,80
+materials/mctextures/workbench side 2.vtf,65616,672
+materials/mctextures/workbench side 1.vmt,75,80
+materials/mctextures/workbench side 1.vtf,65616,677
+materials/mctextures/piston arm.vmt,69,75
+materials/mctextures/piston arm.vtf,65616,830
+materials/skybox/mclitebk.vmt,74,78
+materials/skybox/mclitebk.vtf,4194511,2905
+materials/skybox/mclitedn.vmt,74,78
+materials/skybox/mclitedn.vtf,4194511,733
+materials/skybox/mcliteft.vmt,74,78
+materials/skybox/mcliteft.vtf,4194511,2905
+materials/skybox/mclitelf.vmt,74,78
+materials/skybox/mclitelf.vtf,4194511,2905
+materials/skybox/mclitert.vmt,74,78
+materials/skybox/mclitert.vtf,4194511,2905
+materials/skybox/mcliteup.vmt,74,79
+materials/skybox/mcliteup.vtf,4194511,733
+materials/detail/detailsprites.vmt,161,123
+materials/detail/detailsprites.vtf,1398336,765896
+materials/de_train/train_dirt_floor_01.vtf,174984,122121
+materials/editedbyrvzac.vmt,117,103
+materials/editedbyrvzac.vtf,87544,9940
+materials/mcseekers.vmt,112,103
+materials/mcseekers.vtf,87552,7555
+materials/mchiders.vmt,113,101
+materials/mchiders.vtf,87552,6364
+materials/0.vmt,460,263
+materials/nature/water_coast01_dudv.vtf,174994,57714
+materials/nature/water_coast01_normal.vtf,349756,64171
+materials/2.vmt,460,263
+materials/1.vmt,460,263
+sound/jb_minecraftbeta/otherside [kk81m-a3qpu].mp3,3125332,3112102
+sound/jb_minecraftbeta/pigstep_stereo_mix_btthtlt80rc (1).mp3,5223725,5230506
+sound/minecraft/onceagain.mp3,2944698,2936692
+sound/minecraft/hero.mp3,5025717,5012521
+sound/minecraft/reasons.mp3,4419675,4404821
+sound/minecraft/selfdestruct.mp3,3410589,3405230
+sound/minecraft/thunderclatter.mp3,4011748,3986491
+sound/music/feedme_01/roundmvpanthem.mp3,160609,156047
+sound/minecraft/cave3.wav,685874,432669
+sound/minecraft/piano1.wav,12015736,5363602
