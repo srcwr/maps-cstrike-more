@@ -1,0 +1,688 @@
+filename,size,compressed
+materials/maps/jb_moti2_v1/minecraft_original/water_depth_44.vmt,111,103
+materials/maps/jb_moti2_v1/minecraft_original/water_depth_5.vmt,110,102
+materials/maps/jb_moti2_v1/minecraft_original/water_depth_6.vmt,110,102
+materials/maps/jb_moti2_v1/minecraft_original/lava_depth_32.vmt,110,105
+materials/maps/jb_moti2_v1/minecraft_original/water_depth_8.vmt,110,102
+materials/maps/jb_moti2_v1/tools/toolsnodraw_depth_96.vmt,104,95
+materials/maps/jb_moti2_v1/ennergy/minecraft/water_depth_8.vmt,109,102
+materials/maps/jb_moti2_v1/minecraft_original/lava_depth_64.vmt,110,105
+materials/maps/jb_moti2_v1/minecraft_original/water_depth_96.vmt,111,103
+materials/maps/jb_moti2_v1/minecraft_original/water_depth_144.vmt,112,103
+materials/maps/jb_moti2_v1/minecraft_original/water_depth_11.vmt,111,103
+materials/maps/jb_moti2_v1/minecraft_original/water_depth_12.vmt,111,103
+materials/maps/jb_moti2_v1/ennergy/minecraft/water_moving_depth_132.vmt,118,111
+materials/maps/jb_moti2_v1/ennergy/minecraft/water_depth_140.vmt,111,103
+materials/maps/jb_moti2_v1/minecraft_original/lava_depth_47.vmt,110,105
+materials/maps/jb_moti2_v1/tools/toolsnodraw_depth_94.vmt,104,95
+materials/maps/jb_moti2_v1/cubemapdefault.vtf,9832,106
+materials/maps/jb_moti2_v1/cubemapdefault.hdr.vtf,76528,127
+detail.vbsp,1013,298
+resource/overviews/jb_moti2_v1.txt,394,216
+models/mcmodelpack/entities/wallsign.mdl,1776,480
+models/mcmodelpack/entities/wallsign.dx80.vtx,429,147
+models/mcmodelpack/entities/wallsign.dx90.vtx,429,147
+models/mcmodelpack/entities/wallsign.phy,697,416
+models/mcmodelpack/entities/wallsign.sw.vtx,421,147
+models/mcmodelpack/entities/wallsign.vvd,1600,230
+materials/models/mcmodelpack/sign.vmt,144,121
+materials/models/mcmodelpack/sign.vtf,6288,925
+models/mcmodelpack/entities/torch-redstone.mdl,1876,485
+models/mcmodelpack/entities/torch-redstone.dx80.vtx,429,147
+models/mcmodelpack/entities/torch-redstone.dx90.vtx,429,147
+models/mcmodelpack/entities/torch-redstone.phy,697,416
+models/mcmodelpack/entities/torch-redstone.sw.vtx,421,147
+models/mcmodelpack/entities/torch-redstone.vvd,1600,239
+materials/models/mcmodelpack/torch-redstone-on.vmt,178,140
+materials/models/mcmodelpack/torch-redstone-on.vtf,656,215
+materials/models/mcmodelpack/torch-redstone-off.vmt,183,144
+materials/models/mcmodelpack/torch-redstone-off.vtf,656,207
+models/mcmodelpack/entities/button.mdl,1780,503
+models/mcmodelpack/entities/button.dx80.vtx,429,146
+models/mcmodelpack/entities/button.dx90.vtx,429,146
+models/mcmodelpack/entities/button.phy,695,424
+models/mcmodelpack/entities/button.sw.vtx,421,146
+models/mcmodelpack/entities/button.vvd,1600,254
+materials/models/mcmodelpack/stone.vmt,145,121
+materials/models/mcmodelpack/stone.vtf,976,281
+models/mcmodelpack/mobs/creeper.mdl,4800,1000
+models/mcmodelpack/mobs/creeper.dx80.vtx,1969,459
+models/mcmodelpack/mobs/creeper.dx90.vtx,1969,459
+models/mcmodelpack/mobs/creeper.phy,5014,1216
+models/mcmodelpack/mobs/creeper.sw.vtx,1921,438
+models/mcmodelpack/mobs/creeper.vvd,9536,724
+materials/models/mcmodelpack/mobs/creeper.vmt,157,124
+materials/models/mcmodelpack/mobs/creeper.vtf,6288,2606
+models/mcmodelpack/mobs/chicken.mdl,4168,826
+models/mcmodelpack/mobs/chicken.dx80.vtx,2383,542
+models/mcmodelpack/mobs/chicken.dx90.vtx,2383,543
+models/mcmodelpack/mobs/chicken.phy,5251,1582
+models/mcmodelpack/mobs/chicken.sw.vtx,2335,520
+models/mcmodelpack/mobs/chicken.vvd,11456,1429
+materials/models/mcmodelpack/mobs/chicken.vmt,131,116
+materials/models/mcmodelpack/mobs/chicken.vtf,6288,337
+models/mcmodelpack/items/bottle.mdl,1792,489
+models/mcmodelpack/items/bottle.dx80.vtx,2301,529
+models/mcmodelpack/items/bottle.dx90.vtx,2301,530
+models/mcmodelpack/items/bottle.phy,1272,717
+models/mcmodelpack/items/bottle.sw.vtx,2293,533
+models/mcmodelpack/items/bottle.vvd,10816,976
+materials/models/mcmodelpack/items/bottle.vmt,132,117
+materials/models/mcmodelpack/items/bottle.vtf,1232,251
+models/mcmodelpack/mobs/snowman.mdl,4252,810
+models/mcmodelpack/mobs/snowman.dx80.vtx,2108,464
+models/mcmodelpack/mobs/snowman.dx90.vtx,2108,464
+models/mcmodelpack/mobs/snowman.phy,17220,2213
+models/mcmodelpack/mobs/snowman.sw.vtx,2044,449
+models/mcmodelpack/mobs/snowman.vvd,9280,922
+materials/models/mcmodelpack/snowman.vmt,155,122
+materials/models/mcmodelpack/mobs/snowman.vtf,12496,667
+materials/models/mcmodelpack/pumpkin-front1.vmt,157,128
+materials/models/mcmodelpack/pumpkin-front1.vtf,976,326
+materials/models/mcmodelpack/pumpkin-top.vmt,154,126
+materials/models/mcmodelpack/pumpkin-top.vtf,976,332
+materials/models/mcmodelpack/pumpkin-side.vmt,155,126
+materials/models/mcmodelpack/pumpkin-side.vtf,976,278
+models/mcmodelpack/other_blocks/brewing_stand.mdl,2076,549
+models/mcmodelpack/other_blocks/brewing_stand.dx80.vtx,1506,335
+models/mcmodelpack/other_blocks/brewing_stand.dx90.vtx,1506,335
+models/mcmodelpack/other_blocks/brewing_stand.phy,2347,1233
+models/mcmodelpack/other_blocks/brewing_stand.sw.vtx,1490,331
+models/mcmodelpack/other_blocks/brewing_stand.vvd,6976,751
+materials/models/mcmodelpack/brewing_stand1.vmt,158,123
+materials/models/mcmodelpack/brewing_stand1.vtf,1232,381
+materials/models/mcmodelpack/brewing_stand-base.vmt,154,128
+materials/models/mcmodelpack/brewing_stand-base.vtf,976,499
+materials/models/mcmodelpack/brewing_stand2.vmt,158,124
+materials/models/mcmodelpack/brewing_stand2.vtf,1232,394
+models/mcmodelpack/mobs/villager.mdl,4076,814
+models/mcmodelpack/mobs/villager.dx80.vtx,2765,563
+models/mcmodelpack/mobs/villager.dx90.vtx,2765,563
+models/mcmodelpack/mobs/villager.phy,4443,1435
+models/mcmodelpack/mobs/villager.sw.vtx,2725,547
+models/mcmodelpack/mobs/villager.vvd,13888,1160
+materials/models/mcmodelpack/mobs/villager.vmt,210,142
+materials/models/mcmodelpack/mobs/villager.vtf,16592,1189
+materials/models/mcmodelpack/mobs/farmer.vmt,208,140
+materials/models/mcmodelpack/mobs/farmer.vtf,16592,1049
+materials/models/mcmodelpack/mobs/butcher.vmt,209,141
+materials/models/mcmodelpack/mobs/butcher.vtf,16592,924
+materials/models/mcmodelpack/mobs/smith.vmt,207,139
+materials/models/mcmodelpack/mobs/smith.vtf,16592,919
+materials/models/mcmodelpack/mobs/priest.vmt,208,139
+materials/models/mcmodelpack/mobs/priest.vtf,16592,1184
+materials/models/mcmodelpack/mobs/librarian.vmt,211,142
+materials/models/mcmodelpack/mobs/librarian.vtf,16592,1184
+models/mcmodelpack/items/apple.mdl,1868,490
+models/mcmodelpack/items/apple.dx80.vtx,3237,698
+models/mcmodelpack/items/apple.dx90.vtx,3237,698
+models/mcmodelpack/items/apple.phy,1513,838
+models/mcmodelpack/items/apple.sw.vtx,3229,686
+models/mcmodelpack/items/apple.vvd,15424,1480
+materials/models/mcmodelpack/items/apple.vmt,109,106
+materials/models/mcmodelpack/items/apple.vtf,976,269
+materials/models/mcmodelpack/items/apple2.vmt,110,107
+materials/models/mcmodelpack/items/apple2.vtf,976,197
+models/mcmodelpack/entities/lever.mdl,2612,597
+models/mcmodelpack/entities/lever.dx80.vtx,786,178
+models/mcmodelpack/entities/lever.dx90.vtx,786,178
+models/mcmodelpack/entities/lever.phy,2287,835
+models/mcmodelpack/entities/lever.sw.vtx,770,202
+models/mcmodelpack/entities/lever.vvd,3136,399
+materials/models/mcmodelpack/cobblestone.vmt,151,126
+materials/models/mcmodelpack/cobblestone.vtf,976,533
+materials/models/mcmodelpack/lever.vmt,145,122
+materials/models/mcmodelpack/lever.vtf,528,167
+models/mcmodelpack/entities/torch.mdl,1780,483
+models/mcmodelpack/entities/torch.dx80.vtx,429,147
+models/mcmodelpack/entities/torch.dx90.vtx,429,147
+models/mcmodelpack/entities/torch.phy,697,406
+models/mcmodelpack/entities/torch.sw.vtx,421,147
+models/mcmodelpack/entities/torch.vvd,1600,231
+materials/models/mcmodelpack/torch.vmt,141,118
+materials/models/mcmodelpack/torch.vtf,656,215
+models/weapons/w_rif_m4a1.mdl,3160,977
+models/weapons/w_rif_m4a1.dx80.vtx,8657,1866
+models/weapons/w_rif_m4a1.dx90.vtx,8657,1866
+models/weapons/w_rif_m4a1.phy,1644,1137
+models/weapons/w_rif_m4a1.sw.vtx,8641,1858
+models/weapons/w_rif_m4a1.vvd,39488,14480
+models/weapons/w_pist_deagle.mdl,2452,735
+models/weapons/w_pist_deagle.dx80.vtx,6596,1381
+models/weapons/w_pist_deagle.dx90.vtx,6596,1382
+models/weapons/w_pist_deagle.phy,1646,1093
+models/weapons/w_pist_deagle.sw.vtx,6580,1359
+models/weapons/w_pist_deagle.vvd,32000,10518
+models/mcmodelpack/other_blocks/lily.mdl,1724,458
+models/mcmodelpack/other_blocks/lily.dx80.vtx,189,86
+models/mcmodelpack/other_blocks/lily.dx90.vtx,189,86
+models/mcmodelpack/other_blocks/lily.phy,707,427
+models/mcmodelpack/other_blocks/lily.sw.vtx,181,86
+models/mcmodelpack/other_blocks/lily.vvd,320,117
+materials/models/mcmodelpack/lilly.vmt,151,121
+materials/models/mcmodelpack/lilly.vtf,1232,267
+models/mcmodelpack/mobs/sheep.mdl,4404,895
+models/mcmodelpack/mobs/sheep.dx80.vtx,3720,691
+models/mcmodelpack/mobs/sheep.dx90.vtx,3720,691
+models/mcmodelpack/mobs/sheep.phy,10798,3164
+models/mcmodelpack/mobs/sheep.sw.vtx,3632,659
+models/mcmodelpack/mobs/sheep.vvd,18112,1436
+materials/models/mcmodelpack/mobs/sheep.vmt,125,114
+materials/models/mcmodelpack/mobs/sheep.vtf,6288,2084
+materials/models/mcmodelpack/mobs/sheep_fur.vmt,110,107
+materials/models/mcmodelpack/mobs/sheep_fur.vtf,6288,1252
+models/mcmodelpack/mobs/skeleton.mdl,4092,726
+models/mcmodelpack/mobs/skeleton.dx80.vtx,1909,437
+models/mcmodelpack/mobs/skeleton.dx90.vtx,1909,428
+models/mcmodelpack/mobs/skeleton.phy,5005,1143
+models/mcmodelpack/mobs/skeleton.sw.vtx,1861,415
+models/mcmodelpack/mobs/skeleton.vvd,9280,742
+materials/models/mcmodelpack/mobs/skeleton.vmt,155,123
+materials/models/mcmodelpack/mobs/skeleton.vtf,8336,671
+materials/minecraft_classic/wool_colored_black.vmt,110,110
+materials/minecraft_classic/wool_colored_black.vtf,1588,565
+materials/mine1.vmt,51,63
+materials/mine1.vtf,699272,135839
+materials/mine2.vmt,51,63
+materials/mine2.vtf,699272,286918
+materials/mine3.vmt,51,63
+materials/mine3.vtf,699272,585969
+materials/minecraft_classic/sandstone_top.vmt,79,87
+materials/minecraft_classic/sandstone_top.vtf,1588,955
+materials/krisuu7.vmt,53,65
+materials/krisuu7.vtf,22080,6635
+materials/minecraft_classic/planks_oak.vmt,100,101
+materials/minecraft_classic/planks_oak.vtf,1588,538
+materials/minecraft_classic/sandstone_smooth.vmt,82,89
+materials/minecraft_classic/sandstone_smooth.vtf,1588,802
+materials/minecraft_classic/planks_big_oak.vmt,104,104
+materials/minecraft_classic/planks_big_oak.vtf,1588,461
+materials/minecraft_classic/dirt.vmt,94,92
+materials/minecraft_classic/dirt.vtf,1588,565
+materials/minecraft_classic/cobblestone.vmt,77,84
+materials/minecraft_classic/cobblestone.vtf,1588,654
+materials/minecraft_classic/netherrack.vmt,76,84
+materials/minecraft_classic/netherrack.vtf,1588,1004
+materials/minecraft_classic/log_oak.vmt,97,99
+materials/minecraft_classic/log_oak.vtf,1588,770
+materials/minecraft_classic/log_oak_top.vmt,101,102
+materials/minecraft_classic/log_oak_top.vtf,1588,748
+materials/minecraft_classic/sand.vmt,94,92
+materials/minecraft_classic/sand.vtf,1588,973
+materials/minecraft_original/water.vmt,1258,555
+materials/minecraft_original/water.vtf,87588,2739
+materials/minecraft_classic/stonebrick.vmt,76,84
+materials/minecraft_classic/stonebrick.vtf,1588,563
+materials/colors/toolsskybox.vmt,235,199
+materials/minecraft_classic/stone.vmt,71,80
+materials/minecraft_classic/stone.vtf,1588,430
+materials/minecraft_classic/log_spruce.vmt,100,101
+materials/minecraft_classic/log_spruce.vtf,1588,693
+materials/minecraft_marca/wood_spruce_top.vmt,103,102
+materials/minecraft_marca/wood_spruce_top.vtf,11160,1244
+materials/minecraft_classic/grass_side_snowed.vmt,83,90
+materials/minecraft_classic/grass_side_snowed.vtf,1588,616
+materials/minecraft_classic/sandstone_bottom.vmt,82,89
+materials/minecraft_classic/sandstone_bottom.vtf,1588,865
+materials/minecraft_classic/snow.vmt,94,92
+materials/minecraft_classic/snow.vtf,1588,456
+materials/minecraft_marca/grass_2.vmt,96,95
+materials/minecraft_marca/grass_2.vtf,11160,1289
+materials/minecraft_classic/planks_spruce.vmt,103,103
+materials/minecraft_classic/planks_spruce.vtf,1588,513
+materials/minecraft_classic/obsidian.vmt,99,98
+materials/minecraft_classic/obsidian.vtf,1588,734
+materials/minecraft_classic/bedrock.vmt,73,81
+materials/minecraft_classic/bedrock.vtf,1588,468
+materials/minecraft_marca/portal.vmt,343,179
+materials/minecraft_marca/portal.vtf,35552,7801
+materials/minecraft_classic/wool_colored_red.vmt,108,107
+materials/minecraft_classic/wool_colored_red.vtf,1588,663
+materials/minecraft_classic/log_spruce_top.vmt,104,104
+materials/minecraft_classic/log_spruce_top.vtf,1588,703
+materials/ennergy/minecraft/water.vmt,542,285
+materials/ennergy/minecraft/water.vtf,2865440,152235
+materials/minecraft_classic/redstone_lamp_on.vmt,101,100
+materials/minecraft_classic/redstone_lamp_on.vtf,1588,946
+materials/minecraft_marca/paintings/pic_24.vmt,104,105
+materials/minecraft_marca/paintings/pic_24.vtf,175000,15678
+materials/minecraft_classic/sandstone_normal.vmt,82,89
+materials/minecraft_classic/sandstone_normal.vtf,1588,990
+materials/minecraft_classic/hay_block_side.vmt,105,105
+materials/minecraft_classic/hay_block_side.vtf,1588,1012
+materials/minecraft_classic/hay_block_top.vmt,104,104
+materials/minecraft_classic/hay_block_top.vtf,1588,928
+materials/minecraft_classic/red_sandstone_smooth.vmt,86,92
+materials/minecraft_classic/red_sandstone_smooth.vtf,1588,679
+materials/minecraft_classic/red_sandstone_top.vmt,83,90
+materials/minecraft_classic/red_sandstone_top.vtf,1588,714
+materials/minecraft_classic/planks_birch.vmt,102,102
+materials/minecraft_classic/planks_birch.vtf,1588,534
+materials/minecraft_marca/ice.vmt,109,103
+materials/minecraft_marca/ice.vtf,22096,530
+materials/minecraft_original/snow block.vmt,101,101
+materials/minecraft_original/snow block.vtf,11144,726
+materials/minecraft_classic/nether_brick.vmt,78,86
+materials/minecraft_classic/nether_brick.vtf,1588,554
+materials/minecraft_classic/gravel.vmt,98,94
+materials/minecraft_classic/gravel.vtf,1588,761
+materials/minecraft_classic/glass.vmt,117,105
+materials/minecraft_classic/glass.vtf,1588,514
+materials/minecraft_original/lava.vmt,524,279
+materials/minecraft_original/lava.vtf,87588,2816
+materials/minecraft_marca/lava.vmt,344,182
+materials/minecraft_marca/lava.vtf,722000,88298
+materials/minecraft_marca/sandstone_bottom.vmt,130,110
+materials/minecraft_marca/sandstone_bottom.vtf,11160,1607
+materials/minecraft_marca/grass_side_2.vmt,100,100
+materials/minecraft_marca/grass_side_2.vtf,11160,1223
+materials/minecraft_marca/anvil_top_0.vmt,99,101
+materials/minecraft_marca/anvil_top_0.vtf,11160,1404
+materials/minecraft_classic/emerald_block.vmt,104,102
+materials/minecraft_classic/emerald_block.vtf,1588,909
+materials/ennergy/minecraft/grass_side_d.vmt,144,137
+materials/ennergy/minecraft/grass_side_d.vtf,11144,2635
+materials/minecraft_classic/wool_colored_white.vmt,110,110
+materials/minecraft_classic/wool_colored_white.vtf,1588,603
+materials/minecraft_classic/wool_colored_green.vmt,110,109
+materials/minecraft_classic/wool_colored_green.vtf,1588,573
+materials/minecraft_classic/red_sandstone_bottom.vmt,86,92
+materials/minecraft_classic/red_sandstone_bottom.vtf,1588,683
+materials/ennergy/minecraft/water_moving.vmt,677,332
+materials/ennergy/minecraft/sand.vmt,112,113
+materials/ennergy/minecraft/sand.vtf,11144,3220
+materials/ennergy/minecraft/grass_b.vmt,140,131
+materials/ennergy/minecraft/grass_b.vtf,11144,2403
+materials/minecraft_original/sand.vmt,95,96
+materials/minecraft_original/sand.vtf,11144,1786
+materials/minecraft_classic/red_sandstone_carved.vmt,86,92
+materials/minecraft_classic/red_sandstone_carved.vtf,1588,745
+materials/minecraft_classic/hardened_clay_stained_red.vmt,91,94
+materials/minecraft_classic/hardened_clay_stained_red.vtf,1588,649
+materials/minecraft_classic/coal_block.vmt,76,84
+materials/minecraft_classic/coal_block.vtf,1588,441
+materials/minecraft_classic/iron_block.vmt,101,101
+materials/minecraft_classic/iron_block.vtf,1588,500
+materials/minecraft_classic/quartz_block_side.vmt,83,90
+materials/minecraft_classic/quartz_block_side.vtf,1588,593
+materials/minecraft_classic/dirt_podzol_top.vmt,105,105
+materials/minecraft_classic/dirt_podzol_top.vtf,1588,899
+materials/minecraft_classic/ladder.vmt,117,110
+materials/minecraft_classic/ladder.vtf,1588,616
+materials/minecraft_classic/brick.vmt,71,80
+materials/minecraft_classic/brick.vtf,1588,759
+materials/minecraft_marca/prismarine_rough.vmt,317,196
+materials/minecraft_marca/prismarine_rough.vtf,43968,7281
+materials/minecraft_classic/sandstone_carved.vmt,82,89
+materials/minecraft_classic/sandstone_carved.vtf,1588,854
+materials/minecraft_classic/wool_colored_lime.vmt,109,109
+materials/minecraft_classic/wool_colored_lime.vtf,1588,717
+materials/minecraft_classic/quartz_block_top.vmt,82,90
+materials/minecraft_classic/quartz_block_top.vtf,1588,593
+materials/ennergy/minecraft/grass_d.vmt,140,131
+materials/ennergy/minecraft/grass_d.vtf,11144,2552
+materials/minecraft_classic/grass_side_carried.vmt,84,91
+materials/minecraft_classic/grass_side_carried.vtf,1588,707
+materials/minecraft_classic/grass_carried.vmt,79,86
+materials/minecraft_classic/grass_carried.vtf,1588,751
+materials/minecraft_marca/water.vmt,375,195
+materials/minecraft_marca/water.vtf,40704,7264
+materials/minecraft_classic/cobblestone_mossy.vmt,83,90
+materials/minecraft_classic/cobblestone_mossy.vtf,1588,930
+materials/minecraft_original/mossy stone brick.vmt,109,105
+materials/minecraft_original/mossy stone brick.vtf,11144,1562
+materials/minecraft_classic/log_big_oak.vmt,101,102
+materials/minecraft_classic/log_big_oak.vtf,1588,682
+materials/minecraft_classic/glass_gray.vmt,122,112
+materials/minecraft_classic/glass_gray.vtf,1588,307
+materials/moti signs/bunnyhop.vmt,86,91
+materials/moti signs/bunnyhop.vtf,22016,1578
+materials/moti signs/losers.vmt,84,89
+materials/moti signs/losers.vtf,22016,1015
+materials/moti signs/slideboostoven.vmt,92,96
+materials/moti signs/slideboostoven.vtf,22016,1712
+materials/moti signs/longjump.vmt,86,91
+materials/moti signs/longjump.vtf,22016,813
+materials/moti signs/coursetowersurf3manrace.vmt,101,103
+materials/moti signs/coursetowersurf3manrace.vtf,43872,2025
+materials/moti signs/surf.vmt,82,88
+materials/moti signs/surf.vtf,22016,748
+materials/moti signs/winners.vmt,85,90
+materials/moti signs/winners.vtf,22016,1199
+materials/minecraft_marca/grass_side_3.vmt,101,99
+materials/minecraft_marca/grass_side_3.vtf,11160,1248
+materials/minecraft_marca/grass_3.vmt,96,95
+materials/minecraft_marca/grass_3.vtf,11160,1355
+materials/minecraft_marca/leaves_2_solid_c.vmt,105,105
+materials/minecraft_marca/leaves_2_solid_c.vtf,11160,778
+materials/minecraft_classic/stone_slab_side.vmt,81,88
+materials/minecraft_classic/stone_slab_side.vtf,1588,508
+materials/minecraft_classic/iron_bars.vmt,121,112
+materials/minecraft_classic/iron_bars.vtf,1588,855
+materials/minecraft_classic/rail_normal.vmt,123,112
+materials/minecraft_classic/rail_normal.vtf,1588,547
+materials/minecraft_marca/leaves_2_solid_d.vmt,105,105
+materials/minecraft_marca/leaves_2_solid_d.vtf,11160,779
+materials/minecraft_classic/redstone_block.vmt,80,87
+materials/minecraft_classic/redstone_block.vtf,1588,792
+materials/ennergy/minecraft/leaves_1solid_b.vmt,150,140
+materials/ennergy/minecraft/leaves_1solid_b.vtf,11144,2339
+materials/ennergy/minecraft/wool_purple.vmt,145,137
+materials/ennergy/minecraft/wool_purple.vtf,11144,2356
+materials/minecraft_classic/leaves_spruce_opaque.vmt,111,109
+materials/minecraft_classic/leaves_spruce_opaque.vtf,1572,450
+materials/ennergy/minecraft/wool_seablue.vmt,146,137
+materials/ennergy/minecraft/wool_seablue.vtf,11144,2267
+materials/minecraft_classic/stone_slab_top.vmt,80,88
+materials/minecraft_classic/stone_slab_top.vtf,1588,469
+materials/ennergy/minecraft/leaves_1a.vmt,184,157
+materials/ennergy/minecraft/leaves_1a.vtf,22080,2322
+materials/minecraft_classic/stonebrick_mossy.vmt,82,89
+materials/minecraft_classic/stonebrick_mossy.vtf,1588,862
+materials/minecraft_classic/mushroom_block_skin_brown.vmt,91,97
+materials/minecraft_classic/mushroom_block_skin_brown.vtf,1588,760
+materials/minecraft_classic/mushroom_block_inside.vmt,87,93
+materials/minecraft_classic/mushroom_block_inside.vtf,1588,511
+materials/minecraft_classic/wool_colored_magenta.vmt,112,111
+materials/minecraft_classic/wool_colored_magenta.vtf,1588,717
+materials/minecraft_classic/mushroom_block_skin_stem.vmt,90,96
+materials/minecraft_classic/mushroom_block_skin_stem.vtf,1588,622
+materials/minecraft_marca/paintings/pic_25.vmt,104,105
+materials/minecraft_marca/paintings/pic_25.vtf,175000,22990
+materials/minecraft_classic/mushroom_block_skin_red.vmt,89,95
+materials/minecraft_classic/mushroom_block_skin_red.vtf,1588,687
+materials/ennergy/minecraft/leaves_1solid_d.vmt,150,140
+materials/ennergy/minecraft/leaves_1solid_d.vtf,11144,2469
+materials/minecraft_marca/hardened_clay.vmt,100,98
+materials/minecraft_marca/hardened_clay.vtf,11160,1421
+materials/moti signs/6.vmt,79,86
+materials/moti signs/6.vtf,22080,666
+materials/minecraft_classic/jukebox_side.vmt,78,86
+materials/minecraft_classic/jukebox_side.vtf,1588,671
+materials/moti signs/discopool.vmt,87,92
+materials/moti signs/discopool.vtf,22016,1129
+materials/moti signs/coopclimb.vmt,87,92
+materials/moti signs/coopclimb.vtf,22016,1179
+materials/moti signs/recallwhite.vmt,89,95
+materials/moti signs/recallwhite.vtf,5632,988
+materials/moti signs/trivia.vmt,84,90
+materials/moti signs/trivia.vtf,22016,653
+materials/moti signs/240.vmt,81,88
+materials/moti signs/240.vtf,22016,1034
+materials/moti signs/hurt.vmt,82,88
+materials/moti signs/hurt.vtf,5632,631
+materials/moti signs/250.vmt,81,88
+materials/moti signs/250.vtf,22016,835
+materials/moti signs/discosongs2.vmt,89,94
+materials/moti signs/discosongs2.vtf,174944,13623
+materials/minecraft_original/rail.vmt,90,94
+materials/minecraft_original/rail.vtf,87588,2770
+materials/moti signs/credits.vmt,85,90
+materials/moti signs/credits.vtf,87552,7938
+materials/minecraft_classic/glowstone.vmt,94,94
+materials/minecraft_classic/glowstone.vtf,1588,629
+materials/minecraft_marca/chest_side.vmt,98,99
+materials/minecraft_marca/chest_side.vtf,11160,1158
+materials/minecraft_marca/chest_large_front.vmt,105,104
+materials/minecraft_marca/chest_large_front.vtf,22024,1624
+materials/minecraft_marca/chest_large_top.vmt,103,103
+materials/minecraft_marca/chest_large_top.vtf,22024,3916
+materials/moti signs/puckdoes99dmgperhit.vmt,97,101
+materials/moti signs/puckdoes99dmgperhit.vtf,22016,1265
+materials/moti signs/opencloselosers.vmt,93,95
+materials/moti signs/opencloselosers.vtf,22016,1401
+materials/moti signs/1.vmt,79,86
+materials/moti signs/1.vtf,22080,516
+materials/minecraft_marca/paintings/pic_26.vmt,104,105
+materials/minecraft_marca/paintings/pic_26.vtf,175000,22993
+materials/moti2mappi2.vmt,57,67
+materials/moti2mappi2.vtf,699272,399515
+materials/moti signs/openwinnerswhite.vmt,94,97
+materials/moti signs/openwinnerswhite.vtf,5632,1138
+materials/ennergy/minecraft/wool_black.vmt,144,136
+materials/ennergy/minecraft/wool_black.vtf,11144,1923
+materials/moti signs/recall.vmt,84,90
+materials/moti signs/recall.vtf,5632,664
+materials/colors/toolstrigger.vmt,278,206
+materials/moti signs/tablegame.vmt,87,92
+materials/moti signs/tablegame.vtf,5632,511
+materials/moti signs/fornoobs.vmt,86,91
+materials/moti signs/fornoobs.vtf,11104,897
+materials/moti signs/forpros.vmt,85,90
+materials/moti signs/forpros.vtf,11104,685
+materials/minecraft_original/nether brick.vmt,104,101
+materials/minecraft_original/nether brick.vtf,11144,943
+materials/minecraft_classic/stonebrick_cracked.vmt,84,90
+materials/minecraft_classic/stonebrick_cracked.vtf,1588,631
+materials/minecraft_marca/bed_top.vmt,71,80
+materials/minecraft_marca/bed_top.vtf,22024,3589
+materials/minecraft_marca/bed_side.vmt,91,95
+materials/minecraft_marca/bed_side.vtf,43888,3201
+materials/minecraft_marca/bed_feet_end.vmt,95,98
+materials/minecraft_marca/bed_feet_end.vtf,22096,2020
+materials/minecraft_classic/wool_colored_yellow.vmt,111,111
+materials/minecraft_classic/wool_colored_yellow.vtf,1588,706
+materials/minecraft_classic/glass_black.vmt,123,112
+materials/minecraft_classic/glass_black.vtf,1588,305
+materials/minecraft_classic/pumpkin_face_off.vmt,82,89
+materials/minecraft_classic/pumpkin_face_off.vtf,1588,591
+materials/minecraft_classic/pumpkin_side.vmt,78,86
+materials/minecraft_classic/pumpkin_side.vtf,1588,530
+materials/minecraft_classic/pumpkin_top.vmt,77,85
+materials/minecraft_classic/pumpkin_top.vtf,1588,587
+materials/moti signs/terroristsgototheoppositend.vmt,105,106
+materials/moti signs/terroristsgototheoppositend.vtf,22016,1383
+materials/moti signs/wardenshootspuckatthets.vmt,101,102
+materials/moti signs/wardenshootspuckatthets.vtf,22016,1516
+materials/minecraft_marca/bed_head_end.vmt,95,98
+materials/minecraft_marca/bed_head_end.vtf,22096,2045
+materials/minecraft_marca/wool_lime.vmt,99,100
+materials/minecraft_marca/wool_lime.vtf,11160,1284
+materials/moti signs/teleporttorandomlocation.vmt,102,104
+materials/moti signs/teleporttorandomlocation.vtf,22016,2174
+materials/minecraft_marca/wool_orange.vmt,101,101
+materials/minecraft_marca/wool_orange.vtf,11160,1168
+materials/minecraft_classic/wool_colored_pink.vmt,109,109
+materials/minecraft_classic/wool_colored_pink.vtf,1588,726
+materials/minecraft_classic/wool_colored_brown.vmt,110,110
+materials/minecraft_classic/wool_colored_brown.vtf,1588,579
+materials/minecraft_classic/wool_colored_blue.vmt,109,109
+materials/minecraft_classic/wool_colored_blue.vtf,1588,669
+materials/minecraft_classic/wool_colored_orange.vmt,111,111
+materials/minecraft_classic/wool_colored_orange.vtf,1588,627
+materials/minecraft_classic/trapdoor.vmt,119,111
+materials/minecraft_classic/trapdoor.vtf,1588,708
+materials/ennergy/minecraft/wool_yellow.vmt,145,137
+materials/ennergy/minecraft/wool_yellow.vtf,11144,2489
+materials/minecraft_classic/door_wood_lower.vmt,105,103
+materials/minecraft_classic/door_wood_lower.vtf,1588,710
+materials/minecraft_classic/furnace_front_on.vmt,82,89
+materials/minecraft_classic/furnace_front_on.vtf,1588,824
+materials/minecraft_classic/furnace_side.vmt,78,86
+materials/minecraft_classic/furnace_side.vtf,1588,653
+materials/minecraft_classic/furnace_top.vmt,77,85
+materials/minecraft_classic/furnace_top.vtf,1588,618
+materials/minecraft_marca/wool_gray.vmt,99,100
+materials/minecraft_marca/wool_gray.vtf,11160,1041
+materials/minecraft_classic/wool_colored_white_glass.vmt,109,108
+materials/ennergy/minecraft/wooden_planks_jungle.vmt,152,141
+materials/ennergy/minecraft/wooden_planks_jungle.vtf,11144,1967
+materials/moti signs/killlosers.vmt,88,93
+materials/moti signs/killlosers.vtf,22016,814
+materials/moti signs/openclosewinners.vmt,94,97
+materials/moti signs/openclosewinners.vtf,22016,1666
+materials/moti signs/peoplewhoteleportedback.vmt,101,102
+materials/moti signs/peoplewhoteleportedback.vtf,22016,2229
+materials/moti signs/startstop.vmt,87,92
+materials/moti signs/startstop.vtf,22016,1155
+materials/minecraft_classic/gold_block.vmt,101,101
+materials/minecraft_classic/gold_block.vtf,1588,940
+materials/minecraft_classic/redstone_lamp_off.vmt,108,106
+materials/minecraft_classic/redstone_lamp_off.vtf,1588,866
+materials/moti signs/winnerswhite.vmt,90,94
+materials/moti signs/winnerswhite.vtf,22016,1686
+materials/moti signs/loserswhite.vmt,89,94
+materials/moti signs/loserswhite.vtf,22016,1444
+materials/moti signs/windows.vmt,85,91
+materials/moti signs/windows.vtf,22016,1281
+materials/moti signs/dodgepuck.vmt,87,92
+materials/moti signs/dodgepuck.vtf,22016,991
+materials/minecraft_classic/leaves_oak_carried.vmt,103,104
+materials/minecraft_classic/leaves_oak_carried.vtf,576,403
+materials/moti signs/warday.vmt,84,90
+materials/moti signs/warday.vtf,22016,1286
+materials/moti signs/celldoors.vmt,87,92
+materials/moti signs/celldoors.vtf,22016,1519
+materials/moti signs/teleportbacktomainroom.vmt,100,101
+materials/moti signs/teleportbacktomainroom.vtf,22016,2270
+materials/moti signs/5.vmt,79,86
+materials/moti signs/5.vtf,22080,669
+materials/moti signs/3.vmt,79,86
+materials/moti signs/3.vtf,22080,692
+materials/moti signs/4.vmt,79,86
+materials/moti signs/4.vtf,22080,638
+materials/moti signs/hardwhite.vmt,87,92
+materials/moti signs/hardwhite.vtf,11104,1364
+materials/minecraft_marca/wood_oak_big_top.vmt,104,103
+materials/minecraft_marca/wood_oak_big_top.vtf,11160,1190
+materials/moti signs/2.vmt,79,86
+materials/moti signs/2.vtf,22080,720
+materials/moti signs/climbstyle.vmt,88,93
+materials/moti signs/climbstyle.vtf,43872,2751
+materials/moti signs/teleportback.vmt,90,94
+materials/moti signs/teleportback.vtf,11104,1254
+materials/moti signs/easywhite.vmt,87,92
+materials/moti signs/easywhite.vtf,11104,1427
+materials/moti signs/arrowolkku.vmt,88,93
+materials/moti signs/arrowolkku.vtf,11104,625
+materials/moti signs/lockclimb.vmt,87,92
+materials/moti signs/lockclimb.vtf,22016,1567
+materials/minecraft_classic/planks_acacia.vmt,103,102
+materials/minecraft_classic/planks_acacia.vtf,1588,512
+materials/minecraft_marca/chest_front.vmt,99,100
+materials/minecraft_marca/chest_front.vtf,11160,1319
+materials/moti signs/doors.vmt,83,89
+materials/moti signs/doors.vtf,11104,738
+materials/moti signs/stop.vmt,82,88
+materials/moti signs/stop.vtf,11104,933
+materials/moti signs/start.vmt,83,89
+materials/moti signs/start.vtf,11104,961
+materials/minecraft_classic/quartz_ore.vmt,76,84
+materials/minecraft_classic/quartz_ore.vtf,1588,1103
+materials/minecraft_marca/nether_brick.vmt,101,100
+materials/minecraft_marca/nether_brick.vtf,11160,969
+materials/moti signs/210.vmt,81,88
+materials/moti signs/210.vtf,22016,832
+materials/moti signs/220.vmt,81,88
+materials/moti signs/220.vtf,22016,981
+materials/moti signs/230.vmt,81,88
+materials/moti signs/230.vtf,22016,819
+materials/minecraft_marca/cake_side.vmt,73,81
+materials/minecraft_marca/cake_side.vtf,5640,630
+materials/minecraft_marca/cake_bottom.vmt,75,83
+materials/minecraft_marca/cake_bottom.vtf,11160,1082
+materials/minecraft_marca/cake_top.vmt,72,81
+materials/minecraft_marca/cake_top.vtf,11160,1415
+materials/moti signs/bridge.vmt,84,90
+materials/moti signs/bridge.vtf,11104,915
+materials/minecraft_marca/sponge.vmt,94,95
+materials/minecraft_marca/sponge.vtf,11160,1541
+materials/minecraft_marca/sandstone_smooth.vmt,130,110
+materials/minecraft_marca/sandstone_smooth.vtf,11160,1476
+materials/minecraft_classic/pumpkin_face_on.vmt,81,89
+materials/minecraft_classic/pumpkin_face_on.vtf,1588,766
+materials/minecraft_marca/anvil_top_1.vmt,99,101
+materials/minecraft_marca/anvil_top_1.vtf,11160,1655
+materials/ennergy/minecraft/chest_top.vmt,117,117
+materials/ennergy/minecraft/chest_top.vtf,11144,1971
+materials/minecraft_classic/crafting_table_side.vmt,85,90
+materials/minecraft_classic/crafting_table_side.vtf,1588,714
+materials/minecraft_classic/jukebox_top.vmt,77,85
+materials/minecraft_classic/jukebox_top.vtf,1588,643
+materials/moti signs/krisuu7100eh.vmt,90,96
+materials/moti signs/krisuu7100eh.vtf,22016,2037
+materials/moti signs/ale666.vmt,84,89
+materials/moti signs/ale666.vtf,22016,1355
+materials/ennergy/minecraft/bedrock.vmt,139,128
+materials/ennergy/minecraft/bedrock.vtf,11144,1998
+materials/moti signs/taxi.vmt,82,88
+materials/moti signs/taxi.vtf,22016,631
+materials/moti2boi.vmt,54,66
+materials/moti2boi.vtf,2952,2645
+materials/minecraft_marca/wool_blue.vmt,99,100
+materials/minecraft_marca/wool_blue.vtf,11160,1219
+materials/minecraft_marca/wood_birch_planks.vmt,105,103
+materials/minecraft_marca/wood_birch_planks.vtf,11160,871
+materials/minecraft_marca/hardened_clay_blue.vmt,105,104
+materials/minecraft_marca/hardened_clay_blue.vtf,11160,1023
+materials/minecraft_classic/wool_colored_light_blue.vmt,115,113
+materials/minecraft_classic/wool_colored_light_blue.vtf,1588,695
+materials/minecraft_original/pine plank.vmt,77,85
+materials/minecraft_original/pine plank.vtf,87588,3630
+materials/minecraft_marca/quartz_bottom.vmt,102,102
+materials/minecraft_marca/quartz_bottom.vtf,11160,1085
+materials/minecraft_classic/wool_colored_silver.vmt,111,110
+materials/minecraft_classic/wool_colored_silver.vtf,1588,682
+materials/minecraft_classic/crafting_table_front.vmt,86,91
+materials/minecraft_classic/crafting_table_front.vtf,1588,748
+materials/minecraft_classic/crafting_table_top.vmt,84,90
+materials/minecraft_classic/crafting_table_top.vtf,1588,792
+materials/ennergy/minecraft/tree_wood_top.vmt,121,121
+materials/ennergy/minecraft/tree_wood_top.vtf,11144,2137
+materials/minecraft_marca/cactus_bottom.vmt,96,98
+materials/minecraft_marca/cactus_bottom.vtf,22096,1064
+materials/minecraft_classic/bookshelf.vmt,75,83
+materials/minecraft_classic/bookshelf.vtf,1588,747
+materials/minecraft_marca/hardened_clay_lime.vmt,105,104
+materials/minecraft_marca/hardened_clay_lime.vtf,11160,1181
+materials/minecraft_marca/paintings/pic_15.vmt,104,105
+materials/minecraft_marca/paintings/pic_15.vtf,349704,123774
+materials/minecraft_original/brick.vmt,97,95
+materials/minecraft_original/brick.vtf,11144,1278
+materials/minecraft_classic/log_birch.vmt,99,100
+materials/minecraft_classic/log_birch.vtf,1588,986
+materials/minecraft_classic/log_jungle.vmt,100,101
+materials/minecraft_classic/log_jungle.vtf,1588,874
+materials/minecraft_marca/wood_jungle_top.vmt,103,102
+materials/minecraft_marca/wood_jungle_top.vtf,11160,1456
+materials/ennergy/minecraft/chest_back.vmt,118,118
+materials/ennergy/minecraft/chest_back.vtf,11144,2169
+materials/minecraft_marca/rail_turn.vmt,142,120
+materials/minecraft_marca/rail_turn.vtf,22096,1098
+materials/minecraft_marca/wool_cyan.vmt,99,100
+materials/minecraft_marca/wool_cyan.vtf,11160,1230
+materials/moti2mappi23.vmt,58,68
+materials/moti2mappi23.vtf,699272,412389
+materials/skybox/sky_cs15_daylight01_hdrbk.vmt,255,162
+materials/skybox/sky_cs15_daylight01_hdrbk.vtf,699140,249771
+materials/skybox/sky_cs15_daylight01_hdrdn.vmt,185,122
+materials/skybox/sky_cs15_daylight01_hdrdn.vtf,172,100
+materials/skybox/sky_cs15_daylight01_hdrft.vmt,257,165
+materials/skybox/sky_cs15_daylight01_hdrft.vtf,699140,249632
+materials/skybox/sky_cs15_daylight01_hdrlf.vmt,257,165
+materials/skybox/sky_cs15_daylight01_hdrlf.vtf,699140,247374
+materials/skybox/sky_cs15_daylight01_hdrrt.vmt,257,164
+materials/skybox/sky_cs15_daylight01_hdrrt.vtf,699140,217852
+materials/skybox/sky_cs15_daylight01_hdrup.vmt,187,123
+materials/skybox/sky_cs15_daylight01_hdrup.vtf,1398188,567519
+materials/detail/detailsprites.vmt,133,107
+materials/detail/detailsprites.vtf,349744,143466
+materials/overviews/jb_moti2_v1.vmt,143,118
+materials/overviews/jb_moti2_v1.vtf,1398336,203661
+materials/2.vmt,460,263
+materials/nature/water_coast01_dudv.vtf,174994,57714
+materials/nature/water_coast01_normal.vtf,349756,64171
+materials/1.vmt,460,263
+materials/8.vmt,458,261
+materials/0.vmt,460,263
+sound/moti2songs/seether-fakeitofficialmusicvideo.mp3,2300374,2256125
+sound/moti2songs/saunaperkele.mp3,46049,41098
+sound/moti2songs/bonjovi-itsmylifewlyrics-[audiotrimmer.com].mp3,2420400,2316014
+sound/moti2songs/eiffel 65 - blue (da ba dee).mp3,4575118,4526838
+sound/moti2songs/foofighters-bestofyouofficialmus.mp3,2962026,2924257
+sound/moti2songs/timmytrumpetsavage-freaksofficia.mp3,2284015,2261807
+sound/moti2songs/playhardfeatne-yoakonnewedit.mp3,2721663,2699616
+sound/moti2songs/davidguetta-shewolffallingtopiec_online-audio-converter.com.mp3,3655097,3639115
+sound/moti2songs/revengeofficiallyrics-aminecraft.mp3,2658884,2637819
+sound/moti2songs/jeopardy.mp3,365966,359132
+materials/overviews/jb_moti2_v1_radar.vmt,143,118
