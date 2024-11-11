@@ -1,0 +1,51 @@
+filename,size,compressed
+materials/maps/ze_yoohoo_v1_1/cubemapdefault.vtf,9832,9832
+materials/maps/ze_yoohoo_v1_1/cubemapdefault.hdr.vtf,76528,76528
+models/props/skullz/cocks/blackcock.mdl,1968,1968
+models/props/skullz/cocks/blackcock.dx80.vtx,41175,41175
+models/props/skullz/cocks/blackcock.dx90.vtx,41175,41175
+models/props/skullz/cocks/blackcock.phy,11699,11699
+models/props/skullz/cocks/blackcock.sw.vtx,41175,41175
+models/props/skullz/cocks/blackcock.vvd,203136,203136
+materials/models/props/skullz/cocks/black/marketwall02.vmt,90,90
+materials/real_dev/dev_black.vtf,576,576
+materials/models/props/skullz/cocks/black/metalwall013a.vmt,64,64
+materials/real_dev/dev_pink2.vtf,576,576
+materials/color/black.vmt,62,62
+materials/color/black.vtf,11144,11144
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/color/white.vmt,62,62
+materials/color/white.vtf,11144,11144
+materials/tools/toolsplayerclip.vmt,374,374
+materials/tools/toolsplayerclip.vtf,5680,5680
+materials/tools/toolsplayerclip-dx10.vtf,5720,5720
+materials/color/navajo white.vmt,69,69
+materials/color/navajo white.vtf,11144,11144
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/toolstrigger.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/color/coral red.vmt,66,66
+materials/color/coral red.vtf,11144,11144
+materials/color/cerulean blue.vmt,70,70
+materials/color/cerulean blue.vtf,11144,11144
+materials/skybox/sky_day01_01bk.vmt,123,123
+materials/skybox/sky_day01_01bk.vtf,349616,349616
+materials/skybox/sky_day01_01dn.vmt,123,123
+materials/skybox/sky_day01_01dn.vtf,349616,349616
+materials/skybox/sky_day01_01ft.vmt,123,123
+materials/skybox/sky_day01_01ft.vtf,349616,349616
+materials/skybox/sky_day01_01lf.vmt,123,123
+materials/skybox/sky_day01_01lf.vtf,349616,349616
+materials/skybox/sky_day01_01rt.vmt,123,123
+materials/skybox/sky_day01_01rt.vtf,349616,349616
+materials/skybox/sky_day01_01up.vmt,123,123
+materials/skybox/sky_day01_01up.vtf,349616,349616
+materials/detail/detailsprites.vmt,161,161
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/2.vmt,460,460
+materials/nature/water_coast01_dudv.vtf,174994,174994
+materials/nature/water_coast01_normal.vtf,349756,349756
+sound/hobgoblin/bruh_encoder3.mp3,457716,457716
+sound/hobgoblin/bruh_propane.mp3,6485548,6485548

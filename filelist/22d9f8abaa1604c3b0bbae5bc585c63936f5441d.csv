@@ -1,0 +1,82 @@
+filename,size,compressed
+materials/maps/ze_bowser_in_the_fire_sea_v1d/de_piranesi/woodfloor02_0_0_0.vmt,146,146
+materials/maps/ze_bowser_in_the_fire_sea_v1d/cubemapdefault.vtf,9832,9832
+materials/maps/ze_bowser_in_the_fire_sea_v1d/c0_0_0.vtf,9832,9832
+materials/maps/ze_bowser_in_the_fire_sea_v1d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_bowser_in_the_fire_sea_v1d/c0_0_0.hdr.vtf,76528,76528
+sound/koopa's road bgm/Field of memories.mp3,2410738,2410738
+sound/koopa's road bgm/Final battle.mp3,10057297,10057297
+sound/koopa's road bgm/garaxy plant.mp3,6508820,6508820
+sound/koopa's road bgm/hard boss bgm.mp3,3033909,3033909
+sound/koopa's road bgm/hard boss bgm2.mp3,2881354,2881354
+sound/koopa's road bgm/Ricochet love.mp3,3984353,3984353
+sound/koopa's road bgm/The Alternate Route ReMix.mp3,4169086,4169086
+sound/koopa's road bgm/The Alternate Route wii.mp3,6403074,6403074
+sound/koopa's road bgm/ZM_mode.mp3,2089145,2089145
+particles/mushroom_impact.pcf,4935,4935
+particles/mushroom_impact2.pcf,7353,7353
+particles/mushroom_impact3.pcf,10411,10411
+maps/ze_fapescape_sakurafix_v1_2_6.txt,256,256
+maps/ze_fapescape_sakurafix_v1_2_6_particles.txt,276,276
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_body.vmt,200,200
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_body.vtf,174944,174944
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_eye.vmt,99,99
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_eye.vtf,22052,22052
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_eye_lid.vmt,124,124
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_eye_lid.vtf,5696,5696
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_hair.vmt,200,200
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_hair.vtf,131152,131152
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_lips.vmt,200,200
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_lips.vtf,87616,87616
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_mouth.vmt,201,201
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_mouth.vtf,87616,87616
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_ring.vmt,200,200
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_ring.vtf,22080,22080
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_shell.vmt,201,201
+materials/player/slow/amberlyn/sm_galaxy/bowser/slow_shell.vtf,87616,87616
+materials/player/slow/amberlyn/sm_galaxy/chain_chomp/slow_body.vmt,212,212
+materials/player/slow/amberlyn/sm_galaxy/chain_chomp/slow_body.vtf,22080,22080
+materials/player/slow/amberlyn/sm_galaxy/chain_chomp/slow_teeth.vmt,207,207
+materials/player/slow/amberlyn/sm_galaxy/chain_chomp/slow_teeth.vtf,11104,11104
+materials/player/slow/amberlyn/sm_galaxy/luma/slow_body.vmt,217,217
+materials/player/slow/amberlyn/sm_galaxy/luma/slow_body.vtf,1600,1600
+materials/player/slow/amberlyn/sm_galaxy/luma/slow_eye.vmt,97,97
+materials/player/slow/amberlyn/sm_galaxy/luma/slow_eye.vtf,5696,5696
+materials/road2/block1.vmt,84,84
+materials/road2/block1.vtf,43936,43936
+materials/road2/block2.vmt,84,84
+materials/road2/block2.vtf,43936,43936
+materials/road2/block3.vmt,84,84
+materials/road2/block3.vtf,43936,43936
+materials/road2/block4.vmt,84,84
+materials/road2/block4.vtf,43936,43936
+materials/road2/block5.vmt,84,84
+materials/road2/block5.vtf,43936,43936
+materials/road2/block6.vmt,84,84
+materials/road2/block6.vtf,43936,43936
+materials/road2/block7.vmt,84,84
+materials/road2/block7.vtf,43936,43936
+materials/road2/blue_road.vmt,87,87
+materials/road2/blue_road.vtf,22032,22032
+materials/road2/color_block.vmt,91,91
+materials/road2/color_block.vtf,43936,43936
+materials/road2/sea.vmt,83,83
+materials/road2/sea.vtf,43936,43936
+models/bowser/bowser/slow.dx80.vtx,93296,93296
+models/bowser/bowser/slow.dx90.vtx,93100,93100
+models/bowser/bowser/slow.mdl,14028,14028
+models/bowser/bowser/slow.phy,17189,17189
+models/bowser/bowser/slow.sw.vtx,92804,92804
+models/bowser/bowser/slow.vvd,335552,335552
+models/bowser/chain_chomp/slow.dx80.vtx,18390,18390
+models/bowser/chain_chomp/slow.dx90.vtx,18390,18390
+models/bowser/chain_chomp/slow.mdl,10536,10536
+models/bowser/chain_chomp/slow.phy,19493,19493
+models/bowser/chain_chomp/slow.sw.vtx,18374,18374
+models/bowser/chain_chomp/slow.vvd,63808,63808
+models/bowser/luma/slow.dx80.vtx,9231,9231
+models/bowser/luma/slow.dx90.vtx,9231,9231
+models/bowser/luma/slow.mdl,10528,10528
+models/bowser/luma/slow.phy,7827,7827
+models/bowser/luma/slow.sw.vtx,9215,9215
+models/bowser/luma/slow.vvd,28288,28288

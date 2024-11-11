@@ -1,0 +1,54 @@
+filename,size,compressed
+materials/maps/ze_luck_matters_css/realworldtextures/glass/glass_06_0_0_0.vmt,145,145
+materials/maps/ze_luck_matters_css/dev/dev_water4_depth_8.vmt,100,100
+materials/maps/ze_luck_matters_css/cubemapdefault.vtf,9832,9832
+materials/maps/ze_luck_matters_css/c0_0_0.vtf,4960,4960
+materials/maps/ze_luck_matters_css/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_luck_matters_css/c0_0_0.hdr.vtf,76528,76528
+models/props/luck_matters_prop_2.mdl,1768,1768
+models/props/luck_matters_prop_2.dx80.vtx,1149,1149
+models/props/luck_matters_prop_2.dx90.vtx,1149,1149
+models/props/luck_matters_prop_2.phy,1988,1988
+models/props/luck_matters_prop_2.sw.vtx,1149,1149
+models/props/luck_matters_prop_2.vvd,5184,5184
+materials/models/props/luck_matters_prop_2/grayfart1.vmt,55,55
+materials/grayfart1.vtf,174984,174984
+models/props/luck_matters_prop_1.mdl,1768,1768
+models/props/luck_matters_prop_1.dx80.vtx,1149,1149
+models/props/luck_matters_prop_1.dx90.vtx,1149,1149
+models/props/luck_matters_prop_1.phy,2116,2116
+models/props/luck_matters_prop_1.sw.vtx,1149,1149
+models/props/luck_matters_prop_1.vvd,5184,5184
+materials/models/props/luck_matters_prop_1/grayfl.vmt,92,92
+materials/custom/flock/grayfl.vtf,2936,2936
+materials/pk02/pk02_floor02.vmt,246,246
+materials/pk02/pk02_floor02_c.vtf,699256,699256
+materials/pk02/pk02_floor02_n.vtf,1398320,1398320
+materials/creditswall.vmt,56,56
+materials/creditswall.vtf,1398264,1398264
+materials/custom/flock/grayfl.vmt,94,94
+materials/grayfart1.vmt,57,57
+materials/colour/glass/lightglass.vmt,118,118
+materials/colour/glass/lightglass.vtf,2952,2952
+materials/textures/contestwinners1.vmt,115,115
+materials/textures/contestwinners1.vtf,1398272,1398272
+materials/textures/contestwinners2.vmt,115,115
+materials/textures/contestwinners2.vtf,699264,699264
+materials/realworldtextures/glass/glass_06.vmt,522,522
+materials/realworldtextures/glass/glass_06_nrm.vtf,174984,174984
+materials/skybox/galaxybk.vmt,134,134
+materials/skybox/galaxybk.vtf,699272,699272
+materials/skybox/galaxydn.vmt,371,371
+materials/skybox/galaxydn.vtf,699272,699272
+materials/skybox/galaxyft.vmt,373,373
+materials/skybox/galaxyft.vtf,699272,699272
+materials/skybox/galaxylf.vmt,134,134
+materials/skybox/galaxylf.vtf,699272,699272
+materials/skybox/galaxyrt.vmt,134,134
+materials/skybox/galaxyrt.vtf,699272,699272
+materials/skybox/galaxyup.vmt,130,130
+materials/skybox/galaxyup.vtf,699272,699272
+sound/custom/who will save us niow - davidchappell.mp3,6109864,6109864
+sound/custom/custom song - luckmatters.mp3,9767843,9767843
+sound/custom/towards the gates of hell by per kiilstofte (machinimasound).mp3,5051192,5051192
+sound/custom/thomas bergersen - illusions.mp3,7706071,7706071

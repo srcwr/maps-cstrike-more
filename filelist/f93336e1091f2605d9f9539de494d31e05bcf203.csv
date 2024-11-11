@@ -1,0 +1,33 @@
+filename,size,compressed
+materials/maps/ze_speedmen_v2/cs_havana/iflrd_0_0_0.vmt,123,123
+materials/maps/ze_speedmen_v2/nature/water_coast01_depth_288.vmt,108,108
+materials/maps/ze_speedmen_v2/cubemapdefault.vtf,9832,9832
+materials/maps/ze_speedmen_v2/c0_0_0.vtf,9832,9832
+materials/maps/ze_speedmen_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_speedmen_v2/c0_0_0.hdr.vtf,76528,76528
+models/props/fingerspider.mdl,64484,64484
+models/props/fingerspider.dx80.vtx,489646,489646
+models/props/fingerspider.dx90.vtx,478825,478825
+models/props/fingerspider.sw.vtx,474622,474622
+models/props/fingerspider.vvd,1505920,1505920
+materials/hornet/skin.vmt,55,55
+materials/hornet/skin.vtf,1048784,1048784
+materials/nature/realworldtextures/floor/mixtile/solid/red2.vmt,358,358
+materials/realworldtextures/floor/mixtile/solid/red2.vtf,174984,174984
+materials/realworldtextures/floor/mixtile/bump/512.vtf,174984,174984
+materials/env_cubemap.vtf,98490,98490
+materials/2.vmt,460,460
+sound/hobbitten/laser.wav,112238,112238
+sound/ze_speedmen/handsome roz.mp3,1691942,1691942
+sound/ze_speedmen/hobbitten_music.mp3,2216481,2216481
+sound/ze_speedmen/hobgoblin_music.mp3,1881278,1881278
+sound/ze_speedmen/katanya_music.mp3,2599750,2599750
+sound/ze_speedmen/lardy_music.mp3,1862470,1862470
+sound/ze_speedmen/lews' striker nights.mp3,1872501,1872501
+sound/ze_speedmen/midnight sadness.mp3,2297147,2297147
+sound/ze_speedmen/vermintide_music.mp3,2268308,2268308
+sound/ze_speedmen/ransmi the hero.mp3,2527025,2527025
+sound/ze_speedmen/rocklee_music.mp3,2513650,2513650
+sound/ze_speedmen/skibidi_music.mp3,3320729,3320729
+sound/ze_speedmen/tex_music.mp3,2007084,2007084
+sound/ze_speedmen/ballad of aton.mp3,2826702,2826702
