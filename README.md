@@ -2,7 +2,8 @@
 
 ## WHAT IS WHAT
 - `entities`
-	- Extracted entity lump files from each map. You won't have this unless you use `dumper.py` yourself or have extracted all of the files from `entitiesgz`
+	- Extracted entity lump files from each map. You won't have this unless you use `dumper.py` yourself or have extracted all of the files from `entitiesgz`.
+		- You can run `python sync_entities.py` to prepare this directory. It'll end up being around 6GB.
 - `entitiesgz`
 	- Compressed (.gz) entity lump files for each map
 - `filelist`
