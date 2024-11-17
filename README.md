@@ -1,5 +1,4 @@
-`python -m pip install 'bsp_tool @git+https://github.com/snake-biscuits/bsp_tool.git'`
-- this actually won't work oops
+`python -m pip install 'bsp_tool @git+https://github.com/srcwr/bsp_tool.git'`
 
 ## WHAT IS WHAT
 - `entities`
