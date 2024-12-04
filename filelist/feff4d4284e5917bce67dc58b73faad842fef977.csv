@@ -1,0 +1,100 @@
+filename,size,compressed
+materials/maps/gg_corner_barash_v2/glass/glasswindowbreak070b_48_-208_73.vmt,114,114
+materials/maps/gg_corner_barash_v2/textures/simple_glass_01_48_-208_73.vmt,228,228
+materials/maps/gg_corner_barash_v2/dev/dev_water2_48_0_264.vmt,153,153
+materials/maps/gg_corner_barash_v2/maps/gg_corner_barash_v2/dev/dev_water2_48_0_264_depth_8.vmt,134,134
+materials/maps/gg_corner_barash_v2/cubemapdefault.vtf,9832,9832
+materials/maps/gg_corner_barash_v2/c48_-208_73.vtf,4968,4968
+materials/maps/gg_corner_barash_v2/c48_0_264.vtf,4968,4968
+materials/maps/gg_corner_barash_v2/c48_208_73.vtf,4968,4968
+materials/maps/gg_corner_barash_v2/c48_94_216.vtf,4968,4968
+materials/maps/gg_corner_barash_v2/c48_-94_216.vtf,4968,4968
+materials/maps/gg_corner_barash_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_corner_barash_v2/c48_-208_73.hdr.vtf,76528,76528
+materials/maps/gg_corner_barash_v2/c48_0_264.hdr.vtf,76528,76528
+materials/maps/gg_corner_barash_v2/c48_208_73.hdr.vtf,76528,76528
+materials/maps/gg_corner_barash_v2/c48_94_216.hdr.vtf,76528,76528
+materials/maps/gg_corner_barash_v2/c48_-94_216.hdr.vtf,76528,76528
+materials/textures/simple_glass_01.vmt,217,217
+materials/textures/simple_glass_01.vtf,22080,22080
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/realisticwallsandfloors/concrete/concrete2.vmt,90,90
+materials/realisticwallsandfloors/concrete/concrete2.vtf,43912,43912
+materials/skyppy2/tiled_wall03b.vmt,94,94
+materials/skyppy2/tiled_wall03b.vtf,1398336,1398336
+materials/color/electric purple_illum.vmt,120,120
+materials/color/electric purple.vtf,22080,22080
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/textures/crate_new4.vmt,97,97
+materials/textures/crate_new4.vtf,699272,699272
+materials/color/white_illum.vmt,104,104
+materials/color/white.vtf,11144,11144
+materials/skybox/sky_day01_01up.vmt,110,110
+materials/skybox/sky_day01_01up.vtf,349744,349744
+materials/skybox/sky_day01_01dn.vmt,110,110
+materials/skybox/sky_day01_01dn.vtf,349744,349744
+materials/skybox/sky_day01_01lf.vmt,110,110
+materials/skybox/sky_day01_01lf.vtf,349744,349744
+materials/skybox/sky_day01_01rt.vmt,110,110
+materials/skybox/sky_day01_01rt.vtf,349744,349744
+materials/skybox/sky_day01_01ft.vmt,110,110
+materials/skybox/sky_day01_01ft.vtf,349744,349744
+materials/skybox/sky_day01_01bk.vmt,110,110
+materials/skybox/sky_day01_01bk.vtf,349744,349744
+materials/detail/detailsprites.vmt,135,135
+materials/detail/detailsprites.vtf,1398336,1398336
+models/red menace/farcry3/animals/jellyfish.mdl,14684,14684
+models/red menace/farcry3/animals/jellyfish.vvd,185728,185728
+models/red menace/farcry3/animals/jellyfish.dx90.vtx,52178,52178
+materials/models/red menace/farcry3/animals/jellyfish/jelly_fish_d.vmt,698,698
+materials/models/red menace/farcry3/animals/jellyfish/jelly_fish_d.vtf,349760,349760
+materials/models/red menace/farcry3/animals/jellyfish/jelly_fish_n.vtf,1398308,1398308
+materials/models/red menace/farcry3/animals/jellyfish/jelly_fish_m.vtf,349760,349760
+materials/models/red menace/skindetail.vtf,87616,87616
+materials/glass/glasswindowbreak070b.vmt,1032,1032
+materials/glass/glasswindowbreak070b.vtf,349744,349744
+materials/glass/glasswindowbreak070b_mask.vtf,349744,349744
+materials/dev/dev_water2.vmt,1053,1053
+materials/dev/water_normal.vtf,65760,65760
+materials/dev/water_dudv.vtf,65760,65760
+materials/cncr04sp3/concretetypes/acdoor5base1.vmt,112,112
+materials/cncr04sp3/concretetypes/acdoor5base1.vtf,43912,43912
+materials/tile/ceilingtilea.vmt,145,145
+materials/tile/ceilingtilea.vtf,174968,174968
+materials/tile/ceilingtilea_ref.vtf,43912,43912
+materials/dev/dev_waterbeneath2.vmt,1312,1312
+materials/nature/water_frame01_normal.vtf,65760,65760
+models/props_island/fish_02.mdl,3516,3516
+models/props_island/fish_02.vvd,8192,8192
+models/props_island/fish_02.dx90.vtx,2777,2777
+models/props_island/fish_02.dx80.vtx,2777,2777
+models/props_island/fish_02.sw.vtx,2713,2713
+materials/models/props_island/fish_01.vmt,437,437
+materials/models/props_island/fish_01.vtf,349784,349784
+models/props_island/fish_01.mdl,3516,3516
+models/props_island/fish_01.vvd,8640,8640
+models/props_island/fish_01.dx90.vtx,2900,2900
+models/props_island/fish_01.dx80.vtx,2900,2900
+models/props_island/fish_01.sw.vtx,2836,2836
+models/fishes/fishes.mdl,3100,3100
+models/fishes/fishes.vvd,26688,26688
+models/fishes/fishes.dx90.vtx,6245,6245
+models/fishes/fishes.dx80.vtx,6245,6245
+models/fishes/fishes.sw.vtx,6229,6229
+models/fishes/fishes.phy,2256,2256
+materials/models/fish/fish.vmt,106,106
+materials/models/fish/fish.vtf,87528,87528
+materials/models/fish/fish_normal.vtf,87528,87528
+models/props/cs_office/light_inset.mdl,1472,1472
+models/props/cs_office/light_inset.vvd,19328,19328
+models/props/cs_office/light_inset.dx90.vtx,4650,4650
+models/props/cs_office/light_inset.dx80.vtx,4650,4650
+models/props/cs_office/light_inset.sw.vtx,4650,4650
+models/props/cs_office/light_inset.vtx,4650,4650
+models/props/cs_office/light_inset.phy,1072,1072
+resource/overviews/gg_corner_barash_v2.txt,146,146
+materials/overviews/gg_corner_barash_v2.vtf,1398336,1398336
+materials/overviews/gg_corner_barash_v2.vmt,148,148
+materials/overviews/gg_corner_barash_v2_radar.vmt,148,148
