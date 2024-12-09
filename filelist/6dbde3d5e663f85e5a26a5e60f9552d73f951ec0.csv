@@ -1,0 +1,34 @@
+filename,size,compressed
+materials/maps/gg_crystal_arena/cubemapdefault.vtf,9832,9832
+materials/maps/gg_crystal_arena/cubemapdefault.hdr.vtf,76528,76528
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/TOOLS/toolstrigger.vmt,394,394
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/TOOLS/toolstrigger-dx10.vtf,5720,5720
+materials/textures/simple_glass_01.vmt,177,177
+materials/textures/simple_glass_01.vtf,22080,22080
+materials/Color/cornflower blue.vmt,72,72
+materials/Color/cornflower blue.vtf,11144,11144
+materials/Color/pale red violet.vmt,72,72
+materials/Color/pale red violet.vtf,11144,11144
+materials/skybox/frozenup.vmt,92,92
+materials/skybox/frozenup.vtf,1398208,1398208
+materials/skybox/frozendn.vmt,92,92
+materials/skybox/frozendn.vtf,1398208,1398208
+materials/skybox/frozenlf.vmt,92,92
+materials/skybox/frozenlf.vtf,1398208,1398208
+materials/skybox/frozenrt.vmt,92,92
+materials/skybox/frozenrt.vtf,1398208,1398208
+materials/skybox/frozenft.vmt,92,92
+materials/skybox/frozenft.vtf,1398208,1398208
+materials/skybox/frozenbk.vmt,92,92
+materials/skybox/frozenbk.vtf,1398208,1398208
+materials/detail/detailsprites.vmt,135,135
+materials/detail/detailsprites.vtf,1398336,1398336
+resource/overviews/gg_crystal_arena.txt,132,132
+materials/overviews/gg_crystal_arena.vmt,145,145
+materials/overviews/gg_crystal_arena_radar.vmt,145,145
+materials/overviews/gg_crystal_arena.vtf,1398336,1398336

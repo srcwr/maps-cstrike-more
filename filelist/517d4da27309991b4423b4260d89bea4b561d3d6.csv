@@ -1,0 +1,28 @@
+filename,size,compressed
+materials/maps/de_ccsbase_barash_v2/cubemapdefault.vtf,9832,9832
+materials/maps/de_ccsbase_barash_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/Color/cinnabar.vmt,65,65
+materials/Color/cinnabar.vtf,11144,11144
+materials/Color/persian blue.vmt,69,69
+materials/Color/persian blue.vtf,11144,11144
+materials/detail/detailsprites.vmt,135,135
+materials/detail/detailsprites.vtf,1398336,1398336
+models/props/nature/rd_newpalm02.mdl,1672,1672
+models/props/nature/rd_newpalm02.vvd,38464,38464
+models/props/nature/rd_newpalm02.dx90.vtx,10332,10332
+models/props/nature/rd_newpalm02.dx80.vtx,10332,10332
+models/props/nature/rd_newpalm02.sw.vtx,10332,10332
+models/props/nature/rd_newpalm02.phy,705,705
+materials/models/props/nature/rd_palmtrunk01a.vmt,211,211
+materials/models/props/nature/rd_palmtrunk01a.vtf,87544,87544
+materials/models/props/nature/rd_palmtrunk01a_normal.vtf,524433,524433
+materials/models/props/nature/rd_palmleaves01.vmt,152,152
+materials/models/props/nature/rd_palmleaves01.vtf,349760,349760
+resource/overviews/de_ccsbase_barash_v2.txt,140,140
+materials/overviews/de_ccsbase_barash_v2.vtf,1398336,1398336
+materials/overviews/de_ccsbase_barash_v2.vmt,149,149
+materials/overviews/de_ccsbase_barash_v2_radar.vmt,149,149
