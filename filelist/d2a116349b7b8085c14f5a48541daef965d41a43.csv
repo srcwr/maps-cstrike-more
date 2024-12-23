@@ -1,0 +1,345 @@
+filename,size,compressed
+materials/maps/surf_leidenfrost/cubemapdefault.vtf,4960,94
+materials/maps/surf_leidenfrost/cubemapdefault.hdr.vtf,76528,130
+detail.vbsp,16826,1440
+models/propper/surf_leidenfrost_006/surf_lf/drill_01.mdl,2012,477
+models/propper/surf_leidenfrost_006/surf_lf/drill_01.dx80.vtx,3282,662
+models/propper/surf_leidenfrost_006/surf_lf/drill_01.dx90.vtx,3282,662
+models/propper/surf_leidenfrost_006/surf_lf/drill_01.sw.vtx,3282,676
+models/propper/surf_leidenfrost_006/surf_lf/drill_01.vvd,16448,4007
+materials/models/propper/surf_lf/drill_01/__fire_ice__/metal_panel_02_dithered.vmt,94,100
+materials/__fire_ice__/dithered_metal_panel_02.vtf,11160,6253
+materials/models/propper/surf_lf/drill_01/__fire_ice__/metal_panel_02_dark_dithered.vmt,125,119
+models/propper/surf_leidenfrost_006/surf_lf/fan_01.mdl,2008,478
+models/propper/surf_leidenfrost_006/surf_lf/fan_01.dx80.vtx,4194,722
+models/propper/surf_leidenfrost_006/surf_lf/fan_01.dx90.vtx,4194,722
+models/propper/surf_leidenfrost_006/surf_lf/fan_01.sw.vtx,4194,731
+models/propper/surf_leidenfrost_006/surf_lf/fan_01.vvd,21056,3124
+materials/models/propper/surf_lf/fan_01/__fire_ice__/metal_panel_02_dark_dithered.vmt,125,119
+materials/models/propper/surf_lf/fan_01/__fire_ice__/metal_panel_06_dithered.vmt,94,100
+materials/__fire_ice__/dithered_metal_panel_06.vtf,11160,3010
+models/propper/surf_leidenfrost_half/surf_lf/crows_01.mdl,1816,451
+models/propper/surf_leidenfrost_half/surf_lf/crows_01.dx80.vtx,9213,1308
+models/propper/surf_leidenfrost_half/surf_lf/crows_01.dx90.vtx,9213,1309
+models/propper/surf_leidenfrost_half/surf_lf/crows_01.sw.vtx,9213,1305
+models/propper/surf_leidenfrost_half/surf_lf/crows_01.vvd,48448,8912
+materials/models/propper/surf_lf/crows_01/__fire_ice__/mgs valved dithered/dithered_crow.vmt,103,102
+materials/__fire_ice__/dithered_crow.vtf,22096,4446
+models/propper/surf_leidenfrost_half/surf_lf/fish_01.mdl,2008,499
+models/propper/surf_leidenfrost_half/surf_lf/fish_01.dx80.vtx,18456,4277
+models/propper/surf_leidenfrost_half/surf_lf/fish_01.dx90.vtx,18456,4302
+models/propper/surf_leidenfrost_half/surf_lf/fish_01.sw.vtx,18456,4303
+models/propper/surf_leidenfrost_half/surf_lf/fish_01.vvd,106176,17165
+materials/models/propper/surf_lf/fish_01/__fire_ice__/mgs valved dithered/dithered_fish.vmt,103,101
+materials/__fire_ice__/dithered_fish.vtf,11120,2439
+materials/models/propper/surf_lf/fish_01/__fire_ice__/mgs valved dithered/dithered_orca.vmt,103,102
+materials/__fire_ice__/dithered_orca.vtf,43888,6427
+models/propper/surf_leidenfrost/surf_lf/chair_01.mdl,2008,505
+models/propper/surf_leidenfrost/surf_lf/chair_01.dx80.vtx,2124,502
+models/propper/surf_leidenfrost/surf_lf/chair_01.dx90.vtx,2124,502
+models/propper/surf_leidenfrost/surf_lf/chair_01.phy,3668,1858
+models/propper/surf_leidenfrost/surf_lf/chair_01.sw.vtx,2124,502
+models/propper/surf_leidenfrost/surf_lf/chair_01.vvd,10176,1885
+materials/models/propper/surf_lf/chair_01/__fire_ice__/metal_panel_06_dithered.vmt,94,100
+materials/models/propper/surf_lf/chair_01/__fire_ice__/cell_floor_01_dithered.vmt,104,110
+materials/__fire_ice__/mgs valved dithered/m3l_cell_flo1.vtf,11160,4952
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_01.mdl,2100,519
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_01.dx80.vtx,2562,578
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_01.dx90.vtx,2562,579
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_01.phy,4414,2161
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_01.sw.vtx,2562,578
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_01.vvd,11584,2005
+materials/models/propper/surf_lf/barrel_stack_01/__fire_ice__/mgs valved dithered/m00_pla_newdrums_dithered.vmt,107,113
+materials/__fire_ice__/mgs valved dithered/m00_pla_newdrums.vtf,2968,2146
+materials/models/propper/surf_lf/barrel_stack_01/__fire_ice__/wood_01_dithered.vmt,97,106
+materials/__fire_ice__/dsr-ps-medieval-wood04x128.vtf,11160,7528
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_02.mdl,2732,623
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_02.dx80.vtx,8001,1379
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_02.dx90.vtx,8001,1380
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_02.phy,3446,1809
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_02.sw.vtx,8001,1380
+models/propper/surf_leidenfrost_005/surf_lf/barrel_stack_02.vvd,38208,5398
+materials/models/propper/surf_lf/barrel_stack_02/__fire_ice__/metal_panel_02_medium_dithered.vmt,103,108
+materials/__fire_ice__/dithered_metal_panel_02_medium_l.vtf,11160,6360
+materials/models/propper/surf_lf/barrel_stack_02/__fire_ice__/metal_panel_02_dark_dithered.vmt,125,119
+materials/models/propper/surf_lf/barrel_stack_02/__fire_ice__/metal_panel_03_dithered.vmt,94,100
+materials/__fire_ice__/dithered_metal_panel_03.vtf,11160,6384
+materials/models/propper/surf_lf/barrel_stack_02/__fire_ice__/mgs valved dithered/m00_pla_newdrums_dithered.vmt,107,113
+materials/models/propper/surf_lf/barrel_stack_02/__fire_ice__/wood_01_dithered.vmt,97,106
+models/propper/surf_leidenfrost_005/surf_lf/snowmobile_01.mdl,2648,575
+models/propper/surf_leidenfrost_005/surf_lf/snowmobile_01.dx80.vtx,3645,627
+models/propper/surf_leidenfrost_005/surf_lf/snowmobile_01.dx90.vtx,3645,629
+models/propper/surf_leidenfrost_005/surf_lf/snowmobile_01.phy,6766,3066
+models/propper/surf_leidenfrost_005/surf_lf/snowmobile_01.sw.vtx,3645,627
+models/propper/surf_leidenfrost_005/surf_lf/snowmobile_01.vvd,16960,2067
+materials/models/propper/surf_lf/snowmobile_01/__fire_ice__/metal_panel_02_dithered.vmt,94,100
+materials/models/propper/surf_lf/snowmobile_01/__fire_ice__/metal_panel_02_dark_dithered.vmt,125,119
+materials/models/propper/surf_lf/snowmobile_01/__fire_ice__/metal_panel_02_dithered_light.vmt,100,106
+materials/__fire_ice__/dithered_metal_panel_02_light.vtf,11160,6763
+materials/models/propper/surf_lf/snowmobile_01/__fire_ice__/window_off_01_dithered.vmt,93,99
+materials/__fire_ice__/dithered_window_off_01.vtf,11160,4489
+materials/models/propper/surf_lf/snowmobile_01/__fire_ice__/metal_panel_03_dithered.vmt,94,100
+models/propper/surf_leidenfrost/surf_lf/laptop_01.mdl,2292,555
+models/propper/surf_leidenfrost/surf_lf/laptop_01.dx80.vtx,1431,283
+models/propper/surf_leidenfrost/surf_lf/laptop_01.dx90.vtx,1431,283
+models/propper/surf_leidenfrost/surf_lf/laptop_01.phy,2915,1303
+models/propper/surf_leidenfrost/surf_lf/laptop_01.sw.vtx,1431,283
+models/propper/surf_leidenfrost/surf_lf/laptop_01.vvd,6208,691
+materials/models/propper/surf_lf/laptop_01/__fire_ice__/mgs valved dithered/sas_evtn_p3_dithered.vmt,157,134
+materials/__fire_ice__/mgs valved dithered/sas_evtn_p3.vtf,2928,1114
+materials/models/propper/surf_lf/laptop_01/__fire_ice__/metal_panel_06_dithered.vmt,94,100
+materials/models/propper/surf_lf/laptop_01/__fire_ice__/dithered_mapping_contest_long_02.vmt,255,177
+materials/__fire_ice__/dithered_mapping_contest_long_02.vtf,22024,8189
+models/propper/surf_leidenfrost/surf_lf/computer_01.mdl,3308,702
+models/propper/surf_leidenfrost/surf_lf/computer_01.dx80.vtx,5355,1046
+models/propper/surf_leidenfrost/surf_lf/computer_01.dx90.vtx,5355,1046
+models/propper/surf_leidenfrost/surf_lf/computer_01.phy,9631,3646
+models/propper/surf_leidenfrost/surf_lf/computer_01.sw.vtx,5355,1047
+models/propper/surf_leidenfrost/surf_lf/computer_01.vvd,24832,2791
+materials/models/propper/surf_lf/computer_01/__fire_ice__/metal_panel_02_dark_dithered.vmt,125,119
+materials/models/propper/surf_lf/computer_01/__fire_ice__/mgs valved dithered/sas_evtn_p3_dithered.vmt,157,134
+materials/models/propper/surf_lf/computer_01/__fire_ice__/wood_01_dithered.vmt,97,106
+materials/models/propper/surf_lf/computer_01/__fire_ice__/metal_panel_06_dithered.vmt,94,100
+materials/models/propper/surf_lf/computer_01/__fire_ice__/dithered_mapping_contest_long_02.vmt,255,177
+materials/models/propper/surf_lf/computer_01/__fire_ice__/dithered_date.vmt,80,88
+materials/__fire_ice__/dithered_date.vtf,43928,15217
+materials/models/propper/surf_lf/computer_01/__fire_ice__/dithered_thanks.vmt,90,96
+materials/__fire_ice__/dithered_special_thanks.vtf,43928,8592
+materials/models/propper/surf_lf/computer_01/__fire_ice__/dithered_thanks_kuiq.vmt,90,96
+materials/__fire_ice__/dithered_thanks_kuiq_01.vtf,43928,9819
+models/propper/surf_leidenfrost_005/surf_lf/flipped_falling_rocks.mdl,2252,530
+models/propper/surf_leidenfrost_005/surf_lf/flipped_falling_rocks.dx80.vtx,15279,2318
+models/propper/surf_leidenfrost_005/surf_lf/flipped_falling_rocks.dx90.vtx,15279,2318
+models/propper/surf_leidenfrost_005/surf_lf/flipped_falling_rocks.sw.vtx,15279,2319
+models/propper/surf_leidenfrost_005/surf_lf/flipped_falling_rocks.vvd,78912,10745
+materials/models/propper/surf_lf/flipped_falling_rocks/__fire_ice__/metal_panel_02_dithered.vmt,94,100
+materials/models/propper/surf_lf/flipped_falling_rocks/__fire_ice__/metal_panel_02_dark_dithered.vmt,125,119
+materials/models/propper/surf_lf/flipped_falling_rocks/__fire_ice__/not_dithered_falling_rocks_01.vmt,83,91
+materials/__fire_ice__/fallingrocks.vtf,2968,1760
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed_safety_2.mdl,1852,491
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed_safety_2.dx80.vtx,36429,4466
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed_safety_2.dx90.vtx,36429,4467
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed_safety_2.sw.vtx,36429,4463
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed_safety_2.vvd,192576,49409
+materials/models/propper/surf_lf/convex_ramp_detailed_safety/__fire_ice__/dithered_concrete4x2_dark.vmt,96,102
+materials/__fire_ice__/dithered_concrete4x2_dark.vtf,11160,5121
+models/propper/surf_leidenfrost_005/surf_lf/barrel_01.mdl,1828,460
+models/propper/surf_leidenfrost_005/surf_lf/barrel_01.dx80.vtx,669,212
+models/propper/surf_leidenfrost_005/surf_lf/barrel_01.dx90.vtx,669,212
+models/propper/surf_leidenfrost_005/surf_lf/barrel_01.phy,1096,599
+models/propper/surf_leidenfrost_005/surf_lf/barrel_01.sw.vtx,669,213
+models/propper/surf_leidenfrost_005/surf_lf/barrel_01.vvd,2624,457
+materials/models/propper/surf_lf/barrel_01/__fire_ice__/mgs valved dithered/m00_pla_newdrums_dithered.vmt,107,113
+models/propper/surf_leidenfrost_005/surf_lf/light_blue_01_0.mdl,2232,544
+models/propper/surf_leidenfrost_005/surf_lf/light_blue_01_0.dx80.vtx,8613,1444
+models/propper/surf_leidenfrost_005/surf_lf/light_blue_01_0.dx90.vtx,8613,1445
+models/propper/surf_leidenfrost_005/surf_lf/light_blue_01_0.sw.vtx,8613,1443
+models/propper/surf_leidenfrost_005/surf_lf/light_blue_01_0.vvd,44992,11030
+materials/models/propper/surf_lf/light_blue_01/__fire_ice__/metal_panel_02_dithered.vmt,94,100
+materials/models/propper/surf_lf/light_blue_01/__fire_ice__/metal_panel_02_dark_dithered.vmt,125,119
+materials/models/propper/surf_lf/light_blue_01/__fire_ice__/blue_light_01_dithered.vmt,90,95
+materials/__fire_ice__/dithered_blue_light_001.vtf,264,126
+models/propper/surf_leidenfrost_004/surf_lf/lastrampstand.mdl,2436,564
+models/propper/surf_leidenfrost_004/surf_lf/lastrampstand.dx80.vtx,3582,628
+models/propper/surf_leidenfrost_004/surf_lf/lastrampstand.dx90.vtx,3582,627
+models/propper/surf_leidenfrost_004/surf_lf/lastrampstand.phy,6520,2755
+models/propper/surf_leidenfrost_004/surf_lf/lastrampstand.sw.vtx,3582,628
+models/propper/surf_leidenfrost_004/surf_lf/lastrampstand.vvd,17088,3186
+materials/models/propper/surf_lf/lastrampstand/__fire_ice__/dithered_concreteflat.vmt,92,98
+materials/__fire_ice__/dithered_concreteflat.vtf,11160,5646
+materials/models/propper/surf_lf/lastrampstand/__fire_ice__/metal_panel_02_dithered.vmt,94,100
+materials/models/propper/surf_lf/lastrampstand/__fire_ice__/dithered_metal_grate_02.vmt,129,115
+materials/__fire_ice__/dithered_metal_grate_02.vtf,22096,3403
+materials/models/propper/surf_lf/lastrampstand/__fire_ice__/metal_panel_08_dithered.vmt,94,100
+materials/__fire_ice__/dithered_metal_panel_08.vtf,22024,9857
+models/propper/surf_leidenfrost_004/surf_lf/donut_snow_dust.mdl,1816,456
+models/propper/surf_leidenfrost_004/surf_lf/donut_snow_dust.dx80.vtx,10107,1492
+models/propper/surf_leidenfrost_004/surf_lf/donut_snow_dust.dx90.vtx,10107,1494
+models/propper/surf_leidenfrost_004/surf_lf/donut_snow_dust.sw.vtx,10107,1490
+models/propper/surf_leidenfrost_004/surf_lf/donut_snow_dust.vvd,53184,9941
+materials/models/propper/surf_lf/donut_snow_dust/__fire_ice__/dithered_snowflake_03.vmt,278,183
+materials/__fire_ice__/dithered_snowflake_01.vtf,22096,6542
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed.mdl,2252,585
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed.dx80.vtx,8040,1165
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed.dx90.vtx,8040,1165
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed.phy,18775,8755
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed.sw.vtx,8040,1165
+models/propper/surf_leidenfrost_005/surf_lf/convex_ramp_detailed.vvd,41344,11164
+materials/models/propper/surf_lf/convex_ramp_detailed/__fire_ice__/metal_plates_dithered.vmt,82,88
+materials/__fire_ice__/dithertest1.vtf,43928,18520
+materials/models/propper/surf_lf/convex_ramp_detailed/__fire_ice__/dithered_concreteflat_lighter.vmt,100,105
+materials/__fire_ice__/dithered_concreteflat_lighter.vtf,11160,5760
+materials/models/propper/surf_lf/convex_ramp_detailed/__fire_ice__/hazard_trim_01_dithered.vmt,106,113
+materials/__fire_ice__/mgs valved dithered/m00_pla_floiron.vtf,1544,1062
+models/propper/surf_leidenfrost_005/surf_lf/snowman_01.mdl,2016,516
+models/propper/surf_leidenfrost_005/surf_lf/snowman_01.dx80.vtx,22116,3449
+models/propper/surf_leidenfrost_005/surf_lf/snowman_01.dx90.vtx,22116,3449
+models/propper/surf_leidenfrost_005/surf_lf/snowman_01.sw.vtx,22116,3491
+models/propper/surf_leidenfrost_005/surf_lf/snowman_01.vvd,107456,29746
+materials/models/propper/surf_lf/snowman_01/__fire_ice__/snow_1_dithered.vmt,94,100
+materials/__fire_ice__/dsr-ps-nature-snow01-01.vtf,11160,5699
+materials/models/propper/surf_lf/snowman_01/__fire_ice__/not_dithered_falling_rocks_01.vmt,83,91
+models/propper/surf_leidenfrost_006/surf_lf/3_pipes_01.mdl,2036,504
+models/propper/surf_leidenfrost_006/surf_lf/3_pipes_01.dx80.vtx,2514,519
+models/propper/surf_leidenfrost_006/surf_lf/3_pipes_01.dx90.vtx,2514,524
+models/propper/surf_leidenfrost_006/surf_lf/3_pipes_01.phy,4821,2337
+models/propper/surf_leidenfrost_006/surf_lf/3_pipes_01.sw.vtx,2514,537
+models/propper/surf_leidenfrost_006/surf_lf/3_pipes_01.vvd,10816,1326
+materials/models/propper/surf_lf/3_pipes_01/__fire_ice__/mgs valved dithered/m00_pla_newdrums_dithered.vmt,107,113
+materials/models/propper/surf_lf/3_pipes_01/__fire_ice__/mgs valved dithered/m00_pla_newdrum2s_dithered.vmt,108,114
+materials/__fire_ice__/mgs valved dithered/m00_pla_newdrum2s.vtf,2968,2255
+models/propper/leid_ice_cave_underwater/surf_lf/ice_cave_01.mdl,1824,461
+models/propper/leid_ice_cave_underwater/surf_lf/ice_cave_01.dx80.vtx,6495,1523
+models/propper/leid_ice_cave_underwater/surf_lf/ice_cave_01.dx90.vtx,6495,1523
+models/propper/leid_ice_cave_underwater/surf_lf/ice_cave_01.sw.vtx,6495,1445
+models/propper/leid_ice_cave_underwater/surf_lf/ice_cave_01.vvd,34240,3401
+materials/models/propper/surf_lf/ice_cave_01/__fire_ice__/mgs valved dithered/sea_dithered.vmt,105,102
+materials/__fire_ice__/mgs valved dithered/sea.vtf,648,320
+models/propper/leid_yuge_oob_building_01/surf_lf/big_building_01.mdl,3260,694
+models/propper/leid_yuge_oob_building_01/surf_lf/big_building_01.dx80.vtx,9723,1789
+models/propper/leid_yuge_oob_building_01/surf_lf/big_building_01.dx90.vtx,9723,1789
+models/propper/leid_yuge_oob_building_01/surf_lf/big_building_01.sw.vtx,9723,1827
+models/propper/leid_yuge_oob_building_01/surf_lf/big_building_01.vvd,42752,9015
+materials/models/propper/surf_lf/big_building_01/__fire_ice__/dithered_concrete4x2_dark.vmt,96,102
+materials/models/propper/surf_lf/big_building_01/__fire_ice__/snow_1_dithered.vmt,94,100
+materials/models/propper/surf_lf/big_building_01/__fire_ice__/metal_panel_02_dithered.vmt,94,100
+materials/models/propper/surf_lf/big_building_01/__fire_ice__/metal_panel_02_dark_dithered.vmt,125,119
+materials/models/propper/surf_lf/big_building_01/__fire_ice__/metal_plates_dithered.vmt,82,88
+materials/models/propper/surf_lf/big_building_01/__fire_ice__/window_on_01_dithered.vmt,147,125
+materials/__fire_ice__/dithered_window_on_01.vtf,22096,6354
+materials/models/propper/surf_lf/big_building_01/__fire_ice__/dithered_snowflake_02.vmt,278,183
+materials/models/propper/surf_lf/big_building_01/__fire_ice__/window_off_01_dithered.vmt,93,99
+models/propper/surf_leidenfrost_006/surf_lf/end_drippy_ice_01.mdl,1820,452
+models/propper/surf_leidenfrost_006/surf_lf/end_drippy_ice_01.dx80.vtx,1428,405
+models/propper/surf_leidenfrost_006/surf_lf/end_drippy_ice_01.dx90.vtx,1428,405
+models/propper/surf_leidenfrost_006/surf_lf/end_drippy_ice_01.phy,720,440
+models/propper/surf_leidenfrost_006/surf_lf/end_drippy_ice_01.sw.vtx,1428,405
+models/propper/surf_leidenfrost_006/surf_lf/end_drippy_ice_01.vvd,6400,1767
+materials/models/propper/surf_lf/end_drippy_ice_01/__fire_ice__/ice_01_dithered.vmt,86,93
+materials/__fire_ice__/dithered_ice_01.vtf,11160,7430
+materials/tools/toolsnodraw.vmt,254,206
+materials/tools/toolsnodraw.vtf,2936,567
+materials/__fire_ice__/dithered_concrete4x2_dark.vmt,101,107
+materials/__fire_ice__/snow_1_dithered.vmt,99,106
+materials/__fire_ice__/snow_wall_02_dithered.vmt,95,101
+materials/__fire_ice__/dithered_snowwall_02.vtf,5640,3431
+materials/__fire_ice__/dithered_concreteflat.vmt,97,102
+materials/__fire_ice__/conc_floor_01_dithered.vmt,108,114
+materials/__fire_ice__/mgs valved dithered/m3r_path_flo1.vtf,5640,3245
+materials/__fire_ice__/conc_floor_03_dithered.vmt,108,114
+materials/__fire_ice__/mgs valved dithered/m3r_path_flo3.vtf,11160,6025
+materials/__fire_ice__/dithered_concrete4x2.vmt,96,102
+materials/__fire_ice__/dithered_concrete4x2.vtf,11160,6160
+materials/__fire_ice__/metal_panel_02_dark_dithered.vmt,109,109
+materials/__fire_ice__/metal_plates_dithered.vmt,87,95
+materials/__fire_ice__/metal_panel_02_dithered.vmt,78,89
+materials/__fire_ice__/dithered_metal_grate_02.vmt,107,109
+materials/__fire_ice__/metal_floor_03_dithered.vmt,108,113
+materials/__fire_ice__/mgs valved dithered/m3r_tume_flo1.vtf,1544,1021
+materials/__fire_ice__/metal_panel_02_medium_dithered.vmt,87,96
+materials/__fire_ice__/metal_floor_01_dithered.vmt,107,113
+materials/__fire_ice__/mgs valved dithered/m00_pla_flo1.vtf,11160,6473
+materials/__fire_ice__/dithered_concreteflat_lighter.vmt,105,108
+materials/__fire_ice__/ice_01_dithered.vmt,90,98
+materials/__fire_ice__/snow_wall_03_icy_dithered.vmt,99,105
+materials/__fire_ice__/dithered_snowwall_03_icy.vtf,5640,3596
+materials/__fire_ice__/rock_cliff_01_dithered.vmt,77,88
+materials/__fire_ice__/dithered_rock_cliff_01.vtf,43928,31515
+materials/__fire_ice__/metal_panel_08_dithered.vmt,78,89
+materials/__fire_ice__/metal_panel_07_dithered.vmt,78,89
+materials/__fire_ice__/dithered_metal_panel_07.vtf,22024,9632
+materials/__fire_ice__/rock_01_dithered.vmt,71,83
+materials/__fire_ice__/dithered_rock_01.vtf,11160,7515
+materials/__fire_ice__/window_on_01_dithered.vmt,125,116
+materials/__fire_ice__/mgs valved dithered/dithered_metal_floor_icy_01.vmt,103,107
+materials/__fire_ice__/dithered_metal_floor_icy_01.vtf,2968,2496
+materials/__fire_ice__/hazard_trim_01_dithered.vmt,110,115
+materials/__fire_ice__/mgs valved dithered/m10_dai_00_dithered.vmt,85,96
+materials/__fire_ice__/mgs valved dithered/m10_dai_00.vtf,2968,1879
+materials/__fire_ice__/metal_vent_01_dithered.vmt,77,88
+materials/__fire_ice__/dithered_metal_vent_01.vtf,2968,2023
+materials/__fire_ice__/dithered_metal_railing_02.vmt,97,104
+materials/__fire_ice__/dithered_metal_railing_02.vtf,11120,2661
+materials/__fire_ice__/metal_floor_05_dithered.vmt,105,112
+materials/__fire_ice__/mgs valved dithered/m16a_fl_09.vtf,2888,1745
+materials/__fire_ice__/dithered_concreteflat_light.vmt,103,106
+materials/__fire_ice__/dithered_concreteflat_light.vtf,11160,6051
+materials/__fire_ice__/metal_panel_02_dithered_light.vmt,84,93
+materials/__fire_ice__/dithered_snowflake_01.vmt,287,198
+materials/__fire_ice__/dithered_snowflake_02.vmt,244,173
+materials/__fire_ice__/metal_vent_03_dithered.vmt,77,88
+materials/__fire_ice__/dithered_metal_vent_03.vtf,11160,4380
+materials/__fire_ice__/window_off_01_dithered.vmt,77,88
+materials/tools/toolsblack.vmt,64,73
+materials/tools/toolsblack.vtf,2936,71
+materials/__fire_ice__/dithered_metal_grate_06.vmt,107,109
+materials/__fire_ice__/dithered_metal_grate_06.vtf,2928,1168
+materials/__fire_ice__/blue_light_01_dithered.vmt,72,85
+materials/__fire_ice__/dithered_metal_vent_02.vmt,106,108
+materials/__fire_ice__/dithered_metal_vent_02.vtf,22096,4654
+materials/__fire_ice__/mgs valved dithered/mgs_grate_dithered.vmt,122,116
+materials/__fire_ice__/mgs valved dithered/mgs_grate_dithered.vtf,22096,2541
+materials/__fire_ice__/mgs valved dithered/m19_e2_ccei2_dithered.vmt,136,126
+materials/__fire_ice__/mgs valved dithered/m19_e2_ccei2.vtf,2928,2176
+materials/__fire_ice__/dithered_metal_grate_05.vmt,107,109
+materials/__fire_ice__/dithered_metal_grate_05.vtf,22096,1887
+materials/__fire_ice__/dithered_mapping_contest_long_02.vmt,226,164
+materials/__fire_ice__/mgs valved dithered/sas_evtn_p3_dithered.vmt,135,125
+materials/__fire_ice__/dithered_safety_fence_02.vmt,108,110
+materials/__fire_ice__/dithered_safety_fence_01.vtf,5712,419
+materials/tools/toolsskip.vmt,265,202
+materials/tools/toolsskip.vtf,5720,1915
+materials/tools/toolsskip-dx10.vtf,5720,1909
+materials/__fire_ice__/mgs valved dithered/mgs_pipe_dithered.vmt,84,95
+materials/__fire_ice__/mgs valved dithered/m05_pipe1.vtf,840,583
+materials/tools/toolsskybox.vmt,285,228
+materials/tools/toolsskybox.vtf,11128,957
+materials/tools/toolsclip.vmt,294,221
+materials/tools/toolsclip.vtf,5680,759
+materials/tools/toolsclip-dx10.vtf,5720,782
+materials/__fire_ice__/mgs valved dithered/m3l_door2_dithered.vmt,84,95
+materials/__fire_ice__/mgs valved dithered/m3l_door2.vtf,2968,1894
+materials/__fire_ice__/mgs valved dithered/m3r_tume_wcenter_dithered.vmt,140,130
+materials/__fire_ice__/mgs valved dithered/m3r_tume_wcenter.vtf,1552,1301
+materials/__fire_ice__/mgs valved dithered/m3r_wall_top_dithered.vmt,87,97
+materials/__fire_ice__/mgs valved dithered/m3r_wall_top.vtf,840,562
+materials/__fire_ice__/metal_panel_06_dithered.vmt,78,89
+materials/__fire_ice__/cell_floor_01_dithered.vmt,108,113
+materials/__fire_ice__/mgs valved dithered/dithered_crow.vmt,85,94
+materials/__fire_ice__/refract_ice_8c_01_dithered.vmt,155,121
+materials/__fire_ice__/dithered_refract_ice_8c_01.vtf,11160,8623
+materials/tools/toolstrigger.vmt,394,268
+materials/tools/toolstrigger.vtf,5680,979
+materials/tools/toolstrigger-dx10.vtf,5720,1012
+materials/__fire_ice__/mgs valved dithered/m00_pla_newdrum2s_dithered.vmt,92,102
+materials/__fire_ice__/mgs valved dithered/m3l_door22_dithered.vmt,85,96
+materials/__fire_ice__/mgs valved dithered/m3l_door22.vtf,2968,1898
+materials/__fire_ice__/metal_panel_01_dithered.vmt,78,89
+materials/__fire_ice__/dithered_metal_panel_01.vtf,11160,6130
+materials/__fire_ice__/dithered_mapping_contest_long.vmt,223,160
+materials/__fire_ice__/dithered_mapping_contest_long.vtf,22024,7973
+materials/__fire_ice__/dithered_logo.vmt,62,76
+materials/__fire_ice__/dithered_logo.vtf,43928,2814
+materials/__fire_ice__/dithered_gold_time.vmt,58,72
+materials/__fire_ice__/gold_time.vtf,43928,6037
+materials/__fire_ice__/dithered_metal_grate_04.vmt,107,109
+materials/__fire_ice__/dithered_metal_grate_04.vtf,22096,6716
+materials/pk02/pk02_light02a.vmt,267,184
+materials/pk02/pk02_light02a_c.vtf,87600,44799
+materials/pk02/pk02_light02_n.vtf,87600,54260
+materials/skybox/dithered_sky_01bk.vmt,222,197
+materials/skybox/dithered_sky_01bk.vtf,175000,55166
+materials/skybox/dithered_sky_01dn.vmt,222,197
+materials/skybox/dithered_sky_01dn.vtf,175000,42757
+materials/skybox/dithered_sky_01ft.vmt,222,197
+materials/skybox/dithered_sky_01ft.vtf,175000,48525
+materials/skybox/dithered_sky_01lf.vmt,222,197
+materials/skybox/dithered_sky_01lf.vtf,175000,51905
+materials/skybox/dithered_sky_01rt.vmt,222,197
+materials/skybox/dithered_sky_01rt.vtf,175000,51813
+materials/skybox/dithered_sky_01up.vmt,222,197
+materials/skybox/dithered_sky_01up.vtf,175000,51992
+materials/detail/detailsprites.vmt,170,129
+materials/detail/detailsprites.vtf,349792,40284
+materials/__fire_ice__/dithered_stringlight_01.vmt,179,151
+materials/__fire_ice__/dithered_stringlight_01.vtf,5712,720

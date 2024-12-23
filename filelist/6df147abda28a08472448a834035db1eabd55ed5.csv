@@ -1,0 +1,965 @@
+filename,size,compressed
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-9888_5024_12160.vmt,143,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-8232_7184_12160.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-9888_5024_12160.vmt,145,141
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-6848_9464_12160.vmt,143,140
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-6848_9464_12160.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-2920_9600_12160.vmt,167,157
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-2920_9600_12160.vmt,143,139
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-3520_13616_8784.vmt,149,145
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-328_9224_11144.vmt,142,139
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_2048_8416_11144.vmt,142,140
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_2048_8416_11144.vmt,166,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_145_reflective_2048_8416_11144.vmt,166,157
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p15_e_base_-5360_4864_12480.vmt,156,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-3520_13616_8784.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-3520_10368_4464.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-3520_10368_4464.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-3520_10368_4464.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-14472_4832_14289.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-3520_13616_8784.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-3520_832_6128.vmt,143,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-4000_6552_9912.vmt,142,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-4000_6552_9912.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-4000_6552_9912.vmt,147,143
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-5360_4864_12480.vmt,167,157
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-5360_4864_12480.vmt,148,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-480_4864_11144.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-4000_6552_9912.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_1880_6080_11144.vmt,148,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-14472_4832_14289.vmt,151,145
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-15424_4832_14656.vmt,151,145
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-15424_4832_-1216.vmt,151,145
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-14112_4832_13088.vmt,151,145
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-14112_4832_13088.vmt,144,142
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-14472_4832_14289.vmt,144,142
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-12480_4832_12544.vmt,144,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-12480_4832_12544.vmt,149,145
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-9888_5024_12160.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_144_reflective_-9888_5024_12160.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_144_reflective_-8232_7184_12160.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-8232_7184_12160.vmt,167,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-5360_4864_12480.vmt,145,140
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_144_reflective_-6848_9464_12160.vmt,167,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-2752_4864_12496.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-4000_6552_9912.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-2752_4864_12496.vmt,156,151
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-480_4864_11144.vmt,166,157
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-3520_13616_8784.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-3520_832_6128.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-14112_4832_13088.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-14112_4832_13088.vmt,152,147
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_145_reflective_-328_9224_11144.vmt,166,157
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-8232_7184_12160.vmt,156,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-6848_9464_12160.vmt,156,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-9888_5024_12160.vmt,156,151
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-328_9224_11144.vmt,166,157
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_2048_8416_11144.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_10867_12064_14736.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-480_4864_11144.vmt,148,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-480_4864_11144.vmt,155,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-5360_4864_12480.vmt,149,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-4320_4864_13888.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-14472_4832_14289.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-5360_4864_12480.vmt,149,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-3520_13616_8784.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-3520_13616_8784.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-3520_10368_9912.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-14472_4832_14289.vmt,146,142
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-9888_5024_-3712.vmt,143,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-6848_9464_-3712.vmt,143,140
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-6848_9464_-3712.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-2920_9600_-3712.vmt,167,158
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-2920_9600_-3712.vmt,143,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-328_9224_-4728.vmt,142,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_2048_8416_-4728.vmt,142,140
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_2048_8416_-4728.vmt,166,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_145_reflective_2048_8416_-4728.vmt,166,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p15_e_base_-5360_4864_-3392.vmt,156,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-3520_13616_-7088.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-3520_10368_-11408.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-3520_10368_-11408.vmt,147,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-3520_10368_-11408.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-3520_13616_-7088.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-3520_832_-9744.vmt,144,141
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-3520_832_-9744.vmt,149,143
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-4000_6552_-5960.vmt,143,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-4000_6552_-5960.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-4000_6552_-5960.vmt,148,144
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-5360_4864_-3392.vmt,167,159
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-5360_4864_-3392.vmt,148,144
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-4000_6552_-5960.vmt,144,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-480_4864_-4728.vmt,144,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-4000_6552_-5960.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_1880_6080_-4728.vmt,148,143
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-14112_4832_-2784.vmt,144,142
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-12480_4832_-3328.vmt,144,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-12480_4832_-3328.vmt,149,145
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-9888_5024_-3712.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_144_reflective_-9888_5024_-3712.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_144_reflective_-8232_7184_-3712.vmt,167,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-8232_7184_-3712.vmt,167,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_144_reflective_-6848_9464_-3712.vmt,167,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_04_-2752_4864_-3376.vmt,160,153
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-2752_4864_-3376.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-4000_6552_-5960.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-2752_4864_-3376.vmt,156,151
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-480_4864_-4728.vmt,166,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall7_-3520_13616_-7088.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-4000_6552_-5960.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-3520_832_-9744.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-14472_4832_14289.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-480_4864_-4728.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-14112_4832_-2784.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-14112_4832_-2784.vmt,152,147
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_145_reflective_-328_9224_-4728.vmt,166,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-8232_7184_-3712.vmt,156,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-6848_9464_-3712.vmt,156,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-9888_5024_-3712.vmt,156,151
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-328_9224_-4728.vmt,166,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-480_4864_-4728.vmt,155,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-5360_4864_-3392.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-4320_4864_-1984.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-5360_4864_-3392.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-3520_13616_-7088.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-3520_13616_-7088.vmt,152,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-3520_10368_-5960.vmt,152,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-3520_10368_4464.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-3520_10368_-5960.vmt,150,146
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-12480_4832_12544.vmt,168,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-3520_10368_9912.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-13440_960_10496.vmt,150,142
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-9888_5024_12160.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-12480_4832_12544.vmt,151,145
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-14472_4832_-1583.vmt,151,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-14112_4832_-2784.vmt,151,145
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-9888_5024_-3712.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-12480_4832_-3328.vmt,151,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-10992_-12032_12992.vmt,153,143
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-13440_960_10496.vmt,143,139
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p1a_-13440_960_10496.vmt,149,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-13440_960_10496.vmt,156,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-3520_832_6128.vmt,154,149
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_-10992_-12032_12992.vmt,159,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-13440_960_10496.vmt,151,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-10992_-12032_12992.vmt,154,146
+materials/maps/surf_breach/nature/sandfloor010a_-3520_832_6128.vmt,134,133
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_05_-3520_832_-9744.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_05_-10992_-12032_12992.vmt,160,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_05_1880_6080_-4728.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_05_10867_12064_14736.vmt,158,151
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_05_-14472_4832_14289.vmt,158,151
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_05_-3520_10368_-11408.vmt,159,152
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_05_-3520_832_6128.vmt,155,148
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-6848_9464_12160.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-2920_9600_12160.vmt,167,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-4000_6552_9912.vmt,166,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-3520_10368_9912.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-2920_9600_12160.vmt,150,142
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-14472_4832_14289.vmt,168,159
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-3520_10368_9912.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-4000_6552_9912.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-6848_9464_12160.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-14472_4832_14289.vmt,151,145
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-2920_9600_12160.vmt,157,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-3520_10368_9912.vmt,157,150
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-6848_9464_12160.vmt,157,150
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-4000_6552_9912.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-3520_13616_8784.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-328_9224_11144.vmt,166,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-2752_4864_12496.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-2752_4864_12496.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-328_9224_11144.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-328_9224_11144.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-3520_10368_4464.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-8232_7184_12160.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-3520_13616_8784.vmt,167,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-3520_832_6128.vmt,146,142
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_2048_8416_11144.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-3520_10368_4464.vmt,150,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_10867_12064_14736.vmt,151,145
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_1880_6080_11144.vmt,149,142
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-480_4864_11144.vmt,149,142
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-3520_832_6128.vmt,148,142
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-328_9224_11144.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-2920_9600_12160.vmt,150,142
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-6848_9464_-3712.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-2920_9600_-3712.vmt,167,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-4000_6552_-5960.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-3520_10368_-5960.vmt,168,159
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-2920_9600_-3712.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-3520_10368_-5960.vmt,151,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-4000_6552_-5960.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-6848_9464_-3712.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-2920_9600_-3712.vmt,157,150
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-3520_10368_-5960.vmt,158,151
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-6848_9464_-3712.vmt,157,150
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-4000_6552_-5960.vmt,157,150
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-3520_13616_-7088.vmt,151,145
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-328_9224_-4728.vmt,166,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-2752_4864_-3376.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-2752_4864_-3376.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-328_9224_-4728.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-328_9224_-4728.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-3520_10368_-11408.vmt,152,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_109_-8232_7184_-3712.vmt,150,143
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-3520_13616_-7088.vmt,168,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-3520_832_-9744.vmt,147,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_2048_8416_-4728.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-3520_10368_-11408.vmt,152,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_1880_6080_-4728.vmt,149,142
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-480_4864_-4728.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-3520_832_-9744.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-328_9224_-4728.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-2920_9600_-3712.vmt,150,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-4320_4864_13888.vmt,151,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-2752_4864_12496.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-4000_6552_9912.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-15424_4832_14656.vmt,152,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-3520_832_6128.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-4320_4864_13888.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-2752_4864_12496.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-5360_4864_12480.vmt,151,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-5360_4864_12480.vmt,147,142
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_04_-15424_4832_14656.vmt,158,151
+materials/maps/surf_breach/overloaded/metal_hq_bump_-14112_4832_13088.vmt,141,139
+materials/maps/surf_breach/overloaded/metal_hq_bump_-14472_4832_14289.vmt,141,139
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-2752_4864_12496.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_-14112_4832_13088.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_-12480_4832_12544.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-14472_4832_14289.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-12480_4832_12544.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-14112_4832_13088.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-14472_4832_14289.vmt,155,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-9888_5024_12160.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_-14472_4832_14289.vmt,150,146
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-14112_4832_13088.vmt,158,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-14472_4832_14289.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-6848_9464_12160.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-8232_7184_12160.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-2920_9600_12160.vmt,149,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-9888_5024_12160.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-12480_4832_12544.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_2048_8416_11144.vmt,150,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_1880_6080_11144.vmt,150,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-328_9224_11144.vmt,150,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_10867_12064_14736.vmt,152,147
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_10867_12064_14736.vmt,158,151
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_1880_6080_11144.vmt,156,148
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_2048_8416_11144.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_-328_9224_11144.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_-2752_4864_12496.vmt,157,150
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_-14472_4832_14289.vmt,158,151
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_-480_4864_11144.vmt,156,148
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-2752_4864_12496.vmt,160,153
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_1880_6080_11144.vmt,159,150
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-14472_4832_14289.vmt,161,153
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-480_4864_11144.vmt,159,151
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-3520_832_6128.vmt,158,151
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-4000_6552_9912.vmt,159,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-2752_4864_12496.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-480_4864_11144.vmt,144,140
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_04_-2752_4864_12496.vmt,160,153
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_04_-480_4864_11144.vmt,159,151
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_04_-4320_4864_13888.vmt,160,152
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_04_-14472_4832_14289.vmt,161,153
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_04_-5360_4864_12480.vmt,160,151
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-6848_9464_12160.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-3520_13616_8784.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-3520_10368_9912.vmt,150,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-2752_4864_12496.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-4320_4864_13888.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-5360_4864_12480.vmt,150,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-4000_6552_9912.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-8232_7184_12160.vmt,150,144
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-4320_4864_13888.vmt,143,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-8232_7184_12160.vmt,143,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-5360_4864_12480.vmt,147,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-4000_6552_9912.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-4000_6552_9912.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-5360_4864_12480.vmt,151,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-5360_4864_12480.vmt,154,149
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-4000_6552_9912.vmt,153,149
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-8232_7184_12160.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-8232_7184_12160.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-14472_4832_14289.vmt,152,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-8232_7184_12160.vmt,154,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-3520_10368_4464.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-3520_10368_9912.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-3520_10368_9912.vmt,145,141
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-14472_4832_14289.vmt,158,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-12480_4832_12544.vmt,146,142
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-9888_5024_12160.vmt,157,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-2920_9600_12160.vmt,145,140
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-14472_4832_14289.vmt,145,142
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-3520_13616_8784.vmt,144,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-3520_10368_4464.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-3520_13616_8784.vmt,147,143
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-3520_10368_9912.vmt,144,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-3520_10368_4464.vmt,153,149
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-3520_13616_8784.vmt,153,149
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-3520_10368_4464.vmt,144,142
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-2920_9600_-3712.vmt,144,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-3520_832_6128.vmt,147,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-4320_4864_-1984.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-3520_832_6128.vmt,155,148
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_04_-15424_4832_-1216.vmt,158,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-14472_4832_-1583.vmt,149,143
+materials/maps/surf_breach/overloaded/metal_hq_bump_-14112_4832_-2784.vmt,141,139
+materials/maps/surf_breach/overloaded/metal_hq_bump_-14472_4832_-1583.vmt,141,137
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-14472_4832_-1583.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-2752_4864_-3376.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_-14112_4832_-2784.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_-12480_4832_-3328.vmt,150,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-14472_4832_-1583.vmt,148,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-12480_4832_-3328.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-14112_4832_-2784.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-14472_4832_-1583.vmt,155,149
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-9888_5024_-3712.vmt,147,143
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-14112_4832_-2784.vmt,158,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-6848_9464_-3712.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-8232_7184_-3712.vmt,149,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-2920_9600_-3712.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-9888_5024_-3712.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-12480_4832_-3328.vmt,150,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_2048_8416_-4728.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_1880_6080_-4728.vmt,150,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-328_9224_-4728.vmt,150,146
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_1880_6080_-4728.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_2048_8416_-4728.vmt,156,150
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_-328_9224_-4728.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_-2752_4864_-3376.vmt,157,150
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_-480_4864_-4728.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-2752_4864_-3376.vmt,160,153
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_1880_6080_-4728.vmt,159,151
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-480_4864_-4728.vmt,159,152
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-3520_832_-9744.vmt,159,152
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-4000_6552_-5960.vmt,160,153
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_05_-4320_4864_-1984.vmt,160,153
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-2752_4864_-3376.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-480_4864_-4728.vmt,144,141
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_04_-480_4864_-4728.vmt,159,152
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_04_-4320_4864_-1984.vmt,160,153
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_tile_04_-5360_4864_-3392.vmt,160,153
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-6848_9464_-3712.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-3520_13616_-7088.vmt,151,145
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-3520_10368_-5960.vmt,151,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-2752_4864_-3376.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-5360_4864_-3392.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-4000_6552_-5960.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_103_-8232_7184_-3712.vmt,150,143
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-4320_4864_-1984.vmt,143,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-8232_7184_-3712.vmt,143,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-5360_4864_-3392.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-4000_6552_-5960.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-4000_6552_-5960.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-5360_4864_-3392.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-5360_4864_-3392.vmt,154,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-4000_6552_-5960.vmt,154,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-8232_7184_-3712.vmt,147,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-8232_7184_-3712.vmt,151,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-8232_7184_-3712.vmt,154,148
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-3520_10368_-11408.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-3520_10368_-5960.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-5360_4864_-3392.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-12480_4832_-3328.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-8232_7184_-3712.vmt,145,140
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-9888_5024_-3712.vmt,157,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-2920_9600_-3712.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-3520_13616_-7088.vmt,150,146
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-3520_13616_-7088.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-3520_10368_-11408.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-3520_13616_-7088.vmt,148,144
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-3520_10368_-5960.vmt,145,141
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-3520_10368_-11408.vmt,146,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-3520_10368_-11408.vmt,155,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-3520_13616_-7088.vmt,154,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-14472_4832_14289.vmt,154,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-3520_832_-9744.vmt,148,144
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-3520_832_-9744.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-480_4864_-4728.vmt,156,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-10992_-12032_12992.vmt,160,149
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-5360_4864_12480.vmt,143,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-480_4864_11144.vmt,142,139
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-2752_4864_12496.vmt,143,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-480_4864_-4728.vmt,142,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-2752_4864_-3376.vmt,143,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-13440_960_10496.vmt,145,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-12480_4832_12544.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-14112_4832_13088.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-14112_4832_13088.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-9888_5024_-3712.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-12480_4832_-3328.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-14112_4832_-2784.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-14112_4832_-2784.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-14472_4832_-1583.vmt,146,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-9888_5024_12160.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-8232_7184_12160.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-6848_9464_12160.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-6848_9464_12160.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_2048_8416_11144.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-328_9224_11144.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-328_9224_11144.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_2048_8416_11144.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_10867_12064_14736.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_1880_6080_11144.vmt,144,139
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_1880_6080_11144.vmt,144,139
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-10992_-12032_12992.vmt,148,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-4000_6552_9912.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-480_4864_11144.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-2752_4864_12496.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_2048_8416_-4728.vmt,144,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-328_9224_-4728.vmt,144,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-328_9224_-4728.vmt,144,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_2048_8416_-4728.vmt,144,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_1880_6080_-4728.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_1880_6080_-4728.vmt,144,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-4000_6552_-5960.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-480_4864_-4728.vmt,144,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-2752_4864_-3376.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-4320_4864_13888.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-480_4864_11144.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_1880_6080_11144.vmt,147,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_10867_12064_14736.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-2752_4864_-3376.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-480_4864_-4728.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-4320_4864_-1984.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_1880_6080_-4728.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-3520_10368_4464.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-3520_13616_8784.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-3520_10368_4464.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-3520_10368_4464.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-3520_10368_-11408.vmt,147,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-3520_10368_-11408.vmt,147,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-6848_9464_-3712.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-3520_13616_-7088.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-9888_5024_-3712.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall1_-4320_4864_-1984.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-8232_7184_-3712.vmt,145,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-6848_9464_-3712.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-14112_4832_13088.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-10992_-12032_12992.vmt,150,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-12480_4832_12544.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-3520_832_6128.vmt,145,141
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-13440_960_10496.vmt,147,142
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_04_-10992_-12032_12992.vmt,160,149
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_04_-14112_4832_13088.vmt,158,151
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_04_-3520_832_6128.vmt,155,148
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_04_-13440_960_10496.vmt,157,148
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-3520_832_6128.vmt,142,140
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-13440_960_10496.vmt,144,140
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-10992_-12032_12992.vmt,147,141
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-5360_4864_12480.vmt,144,141
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-8232_7184_12160.vmt,144,142
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-9888_5024_12160.vmt,144,142
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-12480_4832_12544.vmt,145,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-9888_5024_12160.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_innerp1_-14472_4832_14289.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-13440_960_10496.vmt,148,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-9888_5024_12160.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-10992_-12032_12992.vmt,151,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-13440_960_10496.vmt,149,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p2_-15424_4832_14656.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-14112_4832_13088.vmt,152,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-12480_4832_12544.vmt,152,148
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-13440_960_10496.vmt,154,148
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-3520_832_6128.vmt,152,148
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-14112_4832_13088.vmt,155,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-10992_-12032_12992.vmt,157,149
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-12480_4832_12544.vmt,155,151
+materials/maps/surf_breach/metal/metaldoor059a_-15424_4832_14656.vmt,136,131
+materials/maps/surf_breach/metal/metaldoor059a_-14472_4832_14289.vmt,136,131
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-13440_960_10496.vmt,167,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-8232_7184_12160.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-14472_4832_14289.vmt,168,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-15424_4832_14656.vmt,168,158
+materials/maps/surf_breach/metal/metalwall033a_-14472_4832_14289.vmt,136,130
+materials/maps/surf_breach/metal/metalwall033a_-6848_9464_12160.vmt,135,129
+materials/maps/surf_breach/metal/metalwall033a_-8232_7184_12160.vmt,135,129
+materials/maps/surf_breach/metal/metalwall033a_-13440_960_10496.vmt,135,127
+materials/maps/surf_breach/metal/metalwall033a_-10992_-12032_12992.vmt,138,128
+materials/maps/surf_breach/metal/metalwall033a_-15424_4832_14656.vmt,136,130
+materials/maps/surf_breach/realworldtextures2/metal/wall/metal_25_-15424_4832_14656.vmt,155,148
+materials/maps/surf_breach/realworldtextures2/metal/wall/metal_25_-13440_960_10496.vmt,154,146
+materials/maps/surf_breach/realworldtextures2/metal/wall/metal_25_-8232_7184_12160.vmt,154,148
+materials/maps/surf_breach/overloaded/metal_hq_bump_-12480_4832_12544.vmt,141,139
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-13440_960_10496.vmt,167,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-14472_4832_14289.vmt,168,159
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-9888_5024_12160.vmt,151,147
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_-12480_4832_12544.vmt,158,151
+materials/maps/surf_breach/overloaded/metal_hq_bump_-9888_5024_12160.vmt,140,138
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_01_-8232_7184_12160.vmt,157,150
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-6848_9464_12160.vmt,167,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-328_9224_11144.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_-328_9224_11144.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_2048_8416_11144.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_-2752_4864_12496.vmt,149,145
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-328_9224_11144.vmt,166,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_1880_6080_11144.vmt,166,156
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_10867_12064_14736.vmt,168,159
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_1880_6080_11144.vmt,148,142
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_1880_6080_11144.vmt,166,156
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-4000_6552_9912.vmt,166,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-2752_4864_12496.vmt,167,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_2048_8416_11144.vmt,166,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-2752_4864_12496.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-480_4864_11144.vmt,166,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-4000_6552_9912.vmt,166,157
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-4000_6552_9912.vmt,152,148
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-3520_10368_9912.vmt,154,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-328_9224_11144.vmt,153,148
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-5360_4864_12480.vmt,167,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-3520_13616_8784.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-3520_10368_4464.vmt,167,158
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-4320_4864_-1984.vmt,144,142
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-3520_832_6128.vmt,165,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-4320_4864_-1984.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/metal_169_-5360_4864_-3392.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_169_-480_4864_-4728.vmt,149,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_169_-10992_-12032_12992.vmt,153,143
+materials/maps/surf_breach/realworldtextures2/metal/metal_169_-4320_4864_-1984.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_166_-3520_832_6128.vmt,148,142
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-3520_832_6128.vmt,165,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-4320_4864_-1984.vmt,167,159
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-3520_832_6128.vmt,149,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-480_4864_11144.vmt,150,145
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-4320_4864_-1984.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-3520_832_6128.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-480_4864_11144.vmt,152,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-10992_-12032_12992.vmt,156,148
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-4000_6552_-5960.vmt,153,149
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-480_4864_-4728.vmt,152,148
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1_-3520_832_-9744.vmt,152,148
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-3520_832_-9744.vmt,166,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_138_reflective_-3520_10368_-11408.vmt,169,160
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-3520_832_-9744.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-480_4864_-4728.vmt,150,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-12480_4832_-3328.vmt,152,147
+materials/maps/surf_breach/realworldtextures2/metal/metal_169_-4000_6552_-5960.vmt,150,144
+materials/maps/surf_breach/realworldtextures2/metal/metal_166_-3520_832_-9744.vmt,149,143
+materials/maps/surf_breach/vehicle/rubbertrainfloor002a_-3520_832_-9744.vmt,143,141
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-3520_10368_-11408.vmt,169,160
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-3520_832_-9744.vmt,166,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-4000_6552_-5960.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-3520_13616_-7088.vmt,168,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-328_9224_-4728.vmt,166,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-3520_10368_-5960.vmt,168,159
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-3520_10368_-5960.vmt,155,151
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_-328_9224_-4728.vmt,153,149
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-5360_4864_-3392.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-2752_4864_-3376.vmt,167,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-5360_4864_-3392.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-4320_4864_-1984.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-3520_10368_4464.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-5360_4864_-3392.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-4320_4864_-1984.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-2752_4864_-3376.vmt,151,147
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_-2752_4864_-3376.vmt,147,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor3_-4000_6552_-5960.vmt,151,147
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-480_4864_-4728.vmt,166,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-480_4864_-4728.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_2048_8416_-4728.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_1880_6080_-4728.vmt,148,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_2048_8416_-4728.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_-328_9224_-4728.vmt,148,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_window1_a_-2752_4864_-3376.vmt,149,145
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_1880_6080_-4728.vmt,166,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-4000_6552_-5960.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-2752_4864_-3376.vmt,167,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_1880_6080_-4728.vmt,166,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_2048_8416_-4728.vmt,166,158
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_confloor1_-328_9224_-4728.vmt,148,144
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-6848_9464_-3712.vmt,167,159
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-12480_4832_-3328.vmt,168,159
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metalfloor1_-9888_5024_-3712.vmt,151,147
+materials/maps/surf_breach/overloaded/metal_hq_bump_-12480_4832_-3328.vmt,141,138
+materials/maps/surf_breach/overloaded/metal_hq_bump_-9888_5024_-3712.vmt,140,138
+materials/maps/surf_breach/realworldtextures2/glass/glass_refract_02_-12480_4832_-3328.vmt,158,151
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_143_reflective_-14472_4832_-1583.vmt,168,158
+materials/maps/surf_breach/metal/metaldoor059a_-15424_4832_-1216.vmt,136,131
+materials/maps/surf_breach/metal/metaldoor059a_-14472_4832_-1583.vmt,136,129
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-8232_7184_-3712.vmt,167,157
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-14472_4832_-1583.vmt,168,158
+materials/maps/surf_breach/realworldtextures2/metal/floor/metal_146_reflective_-15424_4832_-1216.vmt,168,160
+materials/maps/surf_breach/metal/metalwall033a_-14472_4832_-1583.vmt,136,128
+materials/maps/surf_breach/metal/metalwall033a_-8232_7184_-3712.vmt,135,128
+materials/maps/surf_breach/metal/metalwall033a_-6848_9464_-3712.vmt,135,129
+materials/maps/surf_breach/realworldtextures2/metal/wall/metal_25_-15424_4832_-1216.vmt,155,149
+materials/maps/surf_breach/realworldtextures2/metal/wall/metal_25_-8232_7184_-3712.vmt,154,146
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_2048_8416_11144.vmt,155,150
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall_sup_center2_10867_12064_14736.vmt,157,152
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_10867_12064_14736.vmt,146,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-10992_-12032_12992.vmt,151,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_metal_p9_-13440_960_10496.vmt,148,143
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_inner_window1a_1880_6080_11144.vmt,153,147
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-10992_-12032_12992.vmt,146,140
+materials/maps/surf_breach/nature/sandfloor010a_-2752_4864_-3376.vmt,136,133
+materials/maps/surf_breach/nature/sandfloor010a_-4320_4864_-1984.vmt,136,133
+materials/maps/surf_breach/highdef/skyrim/architecture/windhelm/whwoodboards01_-10992_-12032_12992.vmt,170,161
+materials/maps/surf_breach/highdef/skyrim/architecture/windhelm/whwoodboards01_-2752_4864_-3376.vmt,167,161
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_10867_12064_14736.vmt,144,142
+materials/maps/surf_breach/realworldtextures/floor/floor_1_18_-3520_832_-9744.vmt,149,143
+materials/maps/surf_breach/realworldtextures/floor/floor_1_18_1880_6080_-4728.vmt,149,141
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-3520_832_-9744.vmt,142,140
+materials/maps/surf_breach/realworldtextures/floor/floor_1_18_10867_12064_14736.vmt,151,143
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_1880_6080_-4728.vmt,142,139
+materials/maps/surf_breach/realworldtextures/floor/floor_1_18_-10992_-12032_12992.vmt,153,143
+materials/maps/surf_breach/realworldtextures/floor/floor_1_18_-14472_4832_14289.vmt,151,144
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-5360_4864_-3392.vmt,145,142
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-5360_4864_-3392.vmt,143,140
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-4000_6552_-5960.vmt,145,141
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-3520_10368_-11408.vmt,145,143
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-3520_10368_-5960.vmt,144,142
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-5360_4864_12480.vmt,145,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-3520_832_6128.vmt,141,139
+materials/maps/surf_breach/vbd/pack 2 remnont/remn_wall6_-4000_6552_9912.vmt,144,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-3520_10368_9912.vmt,143,140
+materials/maps/surf_breach/overloaded/metal_plate_1_hq_-3520_10368_4464.vmt,143,140
+materials/maps/surf_breach/cubemapdefault.vtf,9832,106
+materials/maps/surf_breach/c-9888_5024_12160.vtf,4968,4261
+materials/maps/surf_breach/c-8232_7184_12160.vtf,4968,4338
+materials/maps/surf_breach/c-6848_9464_12160.vtf,4968,4236
+materials/maps/surf_breach/c-2920_9600_12160.vtf,4968,3729
+materials/maps/surf_breach/c-3520_13616_8784.vtf,4968,4119
+materials/maps/surf_breach/c-328_9224_11144.vtf,4968,4072
+materials/maps/surf_breach/c2048_8416_11144.vtf,4968,4036
+materials/maps/surf_breach/c-5360_4864_12480.vtf,4968,3517
+materials/maps/surf_breach/c-3520_10368_4464.vtf,4968,3814
+materials/maps/surf_breach/c-14472_4832_14289.vtf,4968,4015
+materials/maps/surf_breach/c-3520_832_6128.vtf,4968,3325
+materials/maps/surf_breach/c-4000_6552_9912.vtf,4968,3892
+materials/maps/surf_breach/c-480_4864_11144.vtf,4968,3070
+materials/maps/surf_breach/c1880_6080_11144.vtf,4968,3870
+materials/maps/surf_breach/c-15424_4832_14656.vtf,4968,3946
+materials/maps/surf_breach/c-15424_4832_-1216.vtf,4968,3931
+materials/maps/surf_breach/c-14112_4832_13088.vtf,4968,4321
+materials/maps/surf_breach/c-12480_4832_12544.vtf,4968,4305
+materials/maps/surf_breach/c-2752_4864_12496.vtf,4968,3572
+materials/maps/surf_breach/c10867_12064_14736.vtf,4968,3335
+materials/maps/surf_breach/c-4320_4864_13888.vtf,4968,3712
+materials/maps/surf_breach/c-3520_10368_9912.vtf,4968,3804
+materials/maps/surf_breach/c-9888_5024_-3712.vtf,4968,4276
+materials/maps/surf_breach/c-6848_9464_-3712.vtf,4968,4244
+materials/maps/surf_breach/c-2920_9600_-3712.vtf,4968,3723
+materials/maps/surf_breach/c-328_9224_-4728.vtf,4968,4058
+materials/maps/surf_breach/c2048_8416_-4728.vtf,4968,4061
+materials/maps/surf_breach/c-5360_4864_-3392.vtf,4968,3532
+materials/maps/surf_breach/c-3520_13616_-7088.vtf,4968,4229
+materials/maps/surf_breach/c-3520_10368_-11408.vtf,4968,4010
+materials/maps/surf_breach/c-3520_832_-9744.vtf,4968,3352
+materials/maps/surf_breach/c-4000_6552_-5960.vtf,4968,3862
+materials/maps/surf_breach/c-480_4864_-4728.vtf,4968,3097
+materials/maps/surf_breach/c1880_6080_-4728.vtf,4968,3900
+materials/maps/surf_breach/c-14112_4832_-2784.vtf,4968,4293
+materials/maps/surf_breach/c-12480_4832_-3328.vtf,4968,4284
+materials/maps/surf_breach/c-8232_7184_-3712.vtf,4968,4365
+materials/maps/surf_breach/c-2752_4864_-3376.vtf,4968,3610
+materials/maps/surf_breach/c-4320_4864_-1984.vtf,4968,3716
+materials/maps/surf_breach/c-3520_10368_-5960.vtf,4968,3842
+materials/maps/surf_breach/c-13440_960_10496.vtf,4968,3986
+materials/maps/surf_breach/c-14472_4832_-1583.vtf,4968,4007
+materials/maps/surf_breach/c-10992_-12032_12992.vtf,4968,2972
+materials/maps/surf_breach/cubemapdefault.hdr.vtf,76528,127
+materials/maps/surf_breach/c-9888_5024_12160.hdr.vtf,76536,39899
+materials/maps/surf_breach/c-8232_7184_12160.hdr.vtf,76536,41868
+materials/maps/surf_breach/c-6848_9464_12160.hdr.vtf,76536,40562
+materials/maps/surf_breach/c-2920_9600_12160.hdr.vtf,76536,30515
+materials/maps/surf_breach/c-3520_13616_8784.hdr.vtf,76536,40581
+materials/maps/surf_breach/c-328_9224_11144.hdr.vtf,76536,36888
+materials/maps/surf_breach/c2048_8416_11144.hdr.vtf,76536,35386
+materials/maps/surf_breach/c-5360_4864_12480.hdr.vtf,76536,35117
+materials/maps/surf_breach/c-3520_10368_4464.hdr.vtf,76536,39124
+materials/maps/surf_breach/c-14472_4832_14289.hdr.vtf,76536,28362
+materials/maps/surf_breach/c-3520_832_6128.hdr.vtf,76536,31964
+materials/maps/surf_breach/c-4000_6552_9912.hdr.vtf,76536,38886
+materials/maps/surf_breach/c-480_4864_11144.hdr.vtf,76536,27856
+materials/maps/surf_breach/c1880_6080_11144.hdr.vtf,76536,29767
+materials/maps/surf_breach/c-15424_4832_14656.hdr.vtf,76536,35303
+materials/maps/surf_breach/c-15424_4832_-1216.hdr.vtf,76536,39108
+materials/maps/surf_breach/c-14112_4832_13088.hdr.vtf,76536,39969
+materials/maps/surf_breach/c-12480_4832_12544.hdr.vtf,76536,41239
+materials/maps/surf_breach/c-2752_4864_12496.hdr.vtf,76536,31198
+materials/maps/surf_breach/c10867_12064_14736.hdr.vtf,76536,26842
+materials/maps/surf_breach/c-4320_4864_13888.hdr.vtf,76536,31079
+materials/maps/surf_breach/c-3520_10368_9912.hdr.vtf,76536,32119
+materials/maps/surf_breach/c-9888_5024_-3712.hdr.vtf,76536,38156
+materials/maps/surf_breach/c-6848_9464_-3712.hdr.vtf,76536,38575
+materials/maps/surf_breach/c-2920_9600_-3712.hdr.vtf,76536,30917
+materials/maps/surf_breach/c-328_9224_-4728.hdr.vtf,76536,39815
+materials/maps/surf_breach/c2048_8416_-4728.hdr.vtf,76536,40648
+materials/maps/surf_breach/c-5360_4864_-3392.hdr.vtf,76536,35291
+materials/maps/surf_breach/c-3520_13616_-7088.hdr.vtf,76536,41198
+materials/maps/surf_breach/c-3520_10368_-11408.hdr.vtf,76536,39697
+materials/maps/surf_breach/c-3520_832_-9744.hdr.vtf,76536,32918
+materials/maps/surf_breach/c-4000_6552_-5960.hdr.vtf,76536,38845
+materials/maps/surf_breach/c-480_4864_-4728.hdr.vtf,76536,31098
+materials/maps/surf_breach/c1880_6080_-4728.hdr.vtf,76536,32722
+materials/maps/surf_breach/c-14112_4832_-2784.hdr.vtf,76536,38231
+materials/maps/surf_breach/c-12480_4832_-3328.hdr.vtf,76536,42601
+materials/maps/surf_breach/c-8232_7184_-3712.hdr.vtf,76536,41978
+materials/maps/surf_breach/c-2752_4864_-3376.hdr.vtf,76536,32004
+materials/maps/surf_breach/c-4320_4864_-1984.hdr.vtf,76536,32243
+materials/maps/surf_breach/c-3520_10368_-5960.hdr.vtf,76536,32187
+materials/maps/surf_breach/c-13440_960_10496.hdr.vtf,76536,40941
+materials/maps/surf_breach/c-14472_4832_-1583.hdr.vtf,76536,34751
+materials/maps/surf_breach/c-10992_-12032_12992.hdr.vtf,76536,38107
+sp_0.vhv,5632,778
+sp_6.vhv,5632,1743
+sp_7.vhv,5632,1687
+sp_8.vhv,4608,1040
+sp_9.vhv,4608,1131
+sp_10.vhv,4608,1167
+sp_11.vhv,5632,777
+sp_15.vhv,5632,1677
+sp_16.vhv,6144,1907
+sp_17.vhv,4608,1248
+sp_18.vhv,4608,1057
+sp_19.vhv,4608,1172
+sp_20.vhv,5632,1760
+sp_25.vhv,11264,4051
+sp_26.vhv,11264,4002
+sp_27.vhv,11264,3892
+sp_28.vhv,11264,3958
+sp_29.vhv,11264,3123
+sp_30.vhv,11264,3101
+sp_31.vhv,11264,2648
+sp_32.vhv,11264,2674
+sp_33.vhv,11264,2588
+sp_34.vhv,11264,2642
+sp_35.vhv,11264,2908
+sp_36.vhv,11264,2974
+sp_hdr_0.vhv,5632,778
+sp_hdr_6.vhv,5632,1743
+sp_hdr_7.vhv,5632,1687
+sp_hdr_8.vhv,4608,1040
+sp_hdr_9.vhv,4608,1131
+sp_hdr_10.vhv,4608,1167
+sp_hdr_11.vhv,5632,777
+sp_hdr_15.vhv,5632,1677
+sp_hdr_16.vhv,6144,1907
+sp_hdr_17.vhv,4608,1248
+sp_hdr_18.vhv,4608,1057
+sp_hdr_19.vhv,4608,1172
+sp_hdr_20.vhv,5632,1760
+sp_hdr_25.vhv,11264,4051
+sp_hdr_26.vhv,11264,4002
+sp_hdr_27.vhv,11264,3892
+sp_hdr_28.vhv,11264,3958
+sp_hdr_29.vhv,11264,3123
+sp_hdr_30.vhv,11264,3101
+sp_hdr_31.vhv,11264,2648
+sp_hdr_32.vhv,11264,2674
+sp_hdr_33.vhv,11264,2588
+sp_hdr_34.vhv,11264,2642
+sp_hdr_35.vhv,11264,2908
+sp_hdr_36.vhv,11264,2974
+models/models/lucy.mdl,1752,429
+models/models/lucy.dx80.vtx,65655,10878
+models/models/lucy.dx90.vtx,65655,10878
+models/models/lucy.sw.vtx,65655,9908
+models/models/lucy.vvd,287424,46073
+materials/models/lucy/train_metalceiling_02_pink.vmt,84,92
+materials/models/lucy/train_metalceiling_02_pink.vtf,349760,109621
+models/models/lckd/brazier.mdl,1928,431
+models/models/lckd/brazier.dx80.vtx,19332,4230
+models/models/lckd/brazier.dx90.vtx,19332,4236
+models/models/lckd/brazier.sw.vtx,19332,4268
+models/models/lckd/brazier.vvd,75456,27343
+materials/models/lckd/brazierlegs.vmt,69,79
+materials/models/lckd/brazierlegs.vtf,699272,59395
+materials/models/lckd/brazier.vmt,65,76
+materials/models/lckd/brazier.vtf,699272,149729
+models/models/lckd/banner.mdl,1736,419
+models/models/lckd/banner.dx80.vtx,50874,10732
+models/models/lckd/banner.dx90.vtx,50874,10732
+models/models/lckd/banner.sw.vtx,50874,10434
+models/models/lckd/banner.vvd,176512,48434
+materials/models/lckd/banner.vmt,64,74
+materials/models/lckd/banner.vtf,699272,202644
+models/models/lckd/armorstand.mdl,1940,462
+models/models/lckd/armorstand.dx80.vtx,11706,2255
+models/models/lckd/armorstand.dx90.vtx,11706,2265
+models/models/lckd/armorstand.sw.vtx,11706,2169
+models/models/lckd/armorstand.vvd,59968,13895
+materials/models/lckd/armorstand.vmt,68,79
+materials/models/lckd/armorstand.vtf,2796424,1219922
+materials/models/lckd/armorstandmetal.vmt,73,83
+materials/models/lckd/armorstandmetal.vtf,2796424,1547675
+models/models/lckd/paintingframe4.mdl,1752,404
+models/models/lckd/paintingframe4.dx80.vtx,19392,3182
+models/models/lckd/paintingframe4.dx90.vtx,19392,3181
+models/models/lckd/paintingframe4.sw.vtx,19392,3124
+models/models/lckd/paintingframe4.vvd,89344,29871
+materials/models/lckd/paintingframe4.vmt,72,81
+materials/models/lckd/paintingframe4.vtf,1398336,443472
+models/models/lckd/torch.mdl,1732,413
+models/models/lckd/torch.dx80.vtx,38676,7407
+models/models/lckd/torch.dx90.vtx,38676,7393
+models/models/lckd/torch.sw.vtx,38676,6653
+models/models/lckd/torch.vvd,166656,69413
+materials/models/lckd/torch.vmt,63,74
+materials/models/lckd/torch.vtf,5592640,1483122
+materials/realworldtextures2/metal/floor/metal_142.vmt,289,209
+materials/realworldtextures2/metal/floor/metal_142.vtf,174984,104250
+materials/realworldtextures2/metal/floor/metal_142_nrm.vtf,174984,52891
+materials/skybox/galaxy.vmt,63,73
+materials/skybox/galaxy.vtf,78293752,8711675
+materials/realworldtextures2/metal/metal_69.vmt,304,220
+materials/realworldtextures2/metal/metal_69.vtf,174984,112951
+materials/realworldtextures2/metal/metal_69_nrm.vtf,174984,140581
+materials/fool/skyrim/architecture/windhelm/wholdcrackedbrick2.vmt,100,103
+materials/fool/skyrim/architecture/windhelm/wholdcrackedbrick2.vtf,349760,115714
+materials/doom/stone_floor2.vmt,65,75
+materials/doom/stone_floor2.vtf,349760,102777
+materials/cncr04sp2/rock/stone1.vmt,94,95
+materials/cncr04sp2/rock/stone1.vtf,43912,31329
+materials/realworldtextures2/ground/brick_paver_02.vmt,388,254
+materials/realworldtextures2/ground/brick_paver_02.vtf,174984,124500
+materials/realworldtextures2/ground/brick_paver_01_nrm.vtf,174984,129108
+materials/realworldtextures2/detail/dt_stone1.vtf,16807,5934
+materials/realworldtextures2/ground/brick_paver_05.vmt,388,253
+materials/realworldtextures2/ground/brick_paver_05.vtf,174984,114837
+materials/realworldtextures2/ground/brick_paver_05_nrm.vtf,174984,72032
+materials/lckd/emarble.vmt,60,71
+materials/lckd/emarble.vtf,43912,30439
+materials/lckd/gypwal2.vmt,60,71
+materials/lckd/gypwal2.vtf,43912,28907
+materials/realworldtextures2/ground/lava_magma_05_scroll.vmt,525,344
+materials/realworldtextures2/ground/lava_magma_05_scroll.vtf,174984,115788
+materials/lckd/mcmetl.vmt,59,70
+materials/lckd/mcmetl.vtf,43912,27206
+materials/realworldtextures/newer/1/grass_1_04.vmt,109,107
+materials/realworldtextures/newer/1/grass_1_04.vtf,174984,124182
+materials/overloaded/red_light_metal.vmt,120,111
+materials/overloaded/red_light_metal.vtf,174944,95462
+materials/silkroad/egypt/lavabluemove.vmt,325,171
+materials/silkroad/egypt/lavablue.vtf,349760,98163
+materials/ksf/speed_banner/ksf_speed_banner_wl.vmt,96,95
+materials/ksf/speed_banner/ksf_speedbanner_wl.vtf,2796416,282102
+materials/overloaded/metal_8_hq.vmt,92,93
+materials/overloaded/metal_8_hq.vtf,87544,72128
+materials/overloaded/prod_door_01_hq_alpha.vmt,145,116
+materials/overloaded/prod_door_01_hq.vtf,1398336,447128
+materials/overloaded/prod_door_01_hq_normal.vtf,699272,324028
+materials/metal/metalgrate013a2.vmt,203,169
+materials/metal/metalgrate013a.vtf,87600,13611
+materials/colour/metal/train_metalceiling_02_white.vmt,88,93
+materials/colour/metal/train_metalceiling_02_white.vtf,349760,123701
+materials/de_train/train_metalceiling_02.vmt,108,104
+materials/de_train/train_metalceiling_02.vtf,174968,113200
+materials/nao_custom/cool_crab.vmt,62,73
+materials/nao_custom/cool_crab.vtf,1398264,409538
+materials/nao_custom/kitty2.vmt,65,76
+materials/nao_custom/kitty2.vtf,174984,107974
+materials/fullcolors/fullwhitepeach.vmt,67,76
+materials/fullcolors/fullwhitepeach.vtf,11144,115
+materials/lckd/wood1.vmt,58,69
+materials/lckd/wood1.vtf,43912,27313
+materials/lckd/lux.vmt,56,67
+materials/lckd/lux.vtf,699272,417839
+materials/lckd/mysmetl3.vmt,61,72
+materials/lckd/mysmetl3.vtf,43912,26458
+materials/overloaded/metal_hq_bump.vmt,215,151
+materials/overloaded/metal_hq.vtf,349688,248690
+materials/overloaded/metal_hq_normal.vtf,2097297,834362
+materials/overloaded/metal_plate_1_hq.vmt,281,170
+materials/overloaded/metal_plate_1_hq.vtf,699272,437007
+materials/overloaded/metal_plate_1_hq_spec.vtf,699272,396563
+materials/overloaded/metal_plate_1_hq_normal.vtf,4194511,1520369
+materials/realworldtextures/floor/floor_1_18.vmt,305,234
+materials/realworldtextures/floor/floor_1_18.vtf,174984,112596
+materials/realworldtextures2/glass/glass_refract_01.vmt,538,299
+materials/realworldtextures2/glass/glass_refract_01.vtf,349760,78920
+materials/realworldtextures2/glass/glass_refract_02.vmt,536,297
+materials/realworldtextures2/glass/glass_refract_02.vtf,349760,72075
+materials/realworldtextures2/glass/glass_refract_04.vmt,536,297
+materials/realworldtextures2/glass/glass_refract_04.vtf,349760,104139
+materials/realworldtextures2/glass/glass_refract_05.vmt,536,297
+materials/realworldtextures2/glass/glass_refract_05.vtf,349760,122280
+materials/realworldtextures2/metal/metal_103.vmt,393,246
+materials/realworldtextures2/metal/metal_103.vtf,174984,108861
+materials/realworldtextures2/metal/metal_103_nrm.vtf,174984,116525
+materials/realworldtextures2/metal/metal_103_spec.vtf,174984,75134
+materials/realworldtextures2/metal/metal_109.vmt,397,249
+materials/realworldtextures2/metal/metal_109.vtf,174984,99964
+materials/realworldtextures2/metal/metal_108_109_nrm.vtf,174984,28924
+materials/realworldtextures2/metal/metal_109_spec.vtf,174984,78426
+materials/realworldtextures2/metal/metal_166.vmt,332,233
+materials/realworldtextures2/metal/metal_166.vtf,174984,121665
+materials/realworldtextures2/metal/metal_166_nrm.vtf,174984,96129
+materials/realworldtextures2/metal/metal_169.vmt,332,233
+materials/realworldtextures2/metal/metal_169.vtf,174984,115059
+materials/realworldtextures2/metal/metal_169_nrm.vtf,174984,82577
+materials/vbd/pack 2 remnont/remn_confloor1.vmt,323,200
+materials/vbd/pack 2 remnont/remn_confloor1.vtf,174984,134178
+materials/vbd/pack 2 remnont/remn_confloor1_normal.vtf,1398308,301894
+materials/vbd/pack 2 remnont/remn_innerp1.vmt,320,198
+materials/vbd/pack 2 remnont/remn_innerp1.vtf,87544,57216
+materials/vbd/pack 2 remnont/remn_innerp1_normal.vtf,174944,19854
+materials/vbd/pack 2 remnont/remn_inner_window1a.vmt,333,204
+materials/vbd/pack 2 remnont/remn_inner_window1a.vtf,87544,57127
+materials/vbd/pack 2 remnont/remn_inner_window1_normal.vtf,174944,36362
+materials/vbd/pack 2 remnont/remn_inner_window1.vmt,351,212
+materials/vbd/pack 2 remnont/remn_inner_window1.vtf,174944,122798
+materials/vbd/pack 2 remnont/remn_metalfloor1.vmt,328,200
+materials/vbd/pack 2 remnont/remn_metalfloor1.vtf,174984,119817
+materials/vbd/pack 2 remnont/remn_metalfloor1_normal.vtf,349760,71741
+materials/vbd/pack 2 remnont/remn_metalfloor3.vmt,328,200
+materials/vbd/pack 2 remnont/remn_metalfloor3.vtf,174984,118756
+materials/vbd/pack 2 remnont/remn_metalfloor3_normal.vtf,349760,44975
+materials/vbd/pack 2 remnont/remn_metal_p15_e_base.vmt,338,206
+materials/vbd/pack 2 remnont/remn_metal_p15_e_base.vtf,87544,59644
+materials/vbd/pack 2 remnont/remn_metal_p15_e_base_normal.vtf,174944,20593
+materials/vbd/pack 2 remnont/remn_metal_p1a.vmt,323,200
+materials/vbd/pack 2 remnont/remn_metal_p1a.vtf,174984,128860
+materials/vbd/pack 2 remnont/remn_metal_p1_normal.vtf,1398336,257181
+materials/vbd/pack 2 remnont/remn_metal_p2.vmt,322,199
+materials/vbd/pack 2 remnont/remn_metal_p2.vtf,174984,122607
+materials/vbd/pack 2 remnont/remn_metal_p2_normal.vtf,349760,162542
+materials/vbd/pack 2 remnont/remn_metal_p9.vmt,322,199
+materials/vbd/pack 2 remnont/remn_metal_p9.vtf,87544,57638
+materials/vbd/pack 2 remnont/remn_metal_p9_normal.vtf,174944,75801
+materials/vbd/pack 2 remnont/remn_wall1.vmt,316,197
+materials/vbd/pack 2 remnont/remn_wall1.vtf,174984,129465
+materials/vbd/pack 2 remnont/remn_wall1_normal.vtf,1398336,604782
+materials/vbd/pack 2 remnont/remn_wall6.vmt,316,197
+materials/vbd/pack 2 remnont/remn_wall6.vtf,174984,114114
+materials/vbd/pack 2 remnont/remn_wall6_normal.vtf,1398336,429264
+materials/vbd/pack 2 remnont/remn_wall7.vmt,316,197
+materials/vbd/pack 2 remnont/remn_wall7.vtf,174984,117829
+materials/vbd/pack 2 remnont/remn_wall7_normal.vtf,349760,115462
+materials/vbd/pack 2 remnont/remn_wall_sup_center2.vmt,338,206
+materials/vbd/pack 2 remnont/remn_wall_sup_center2.vtf,174984,115705
+materials/vbd/pack 2 remnont/remn_wall_sup_center2_normal.vtf,1398336,601173
+materials/vbd/pack 2 remnont/remn_window1.vmt,339,207
+materials/vbd/pack 2 remnont/remn_window1.vtf,174944,125604
+materials/vbd/pack 2 remnont/remn_window1_normal.vtf,174944,40141
+materials/vbd/pack 2 remnont/remn_window1_a.vmt,322,199
+materials/vbd/pack 2 remnont/remn_window1_a.vtf,87544,59760
+materials/realworldtextures2/metal/floor/metal_138_reflective.vmt,347,238
+materials/realworldtextures2/metal/floor/metal_138.vtf,174984,91483
+materials/realworldtextures2/metal/floor/metal_138_nrm.vtf,174984,82652
+materials/realworldtextures2/metal/floor/metal_143_reflective.vmt,347,238
+materials/realworldtextures2/metal/floor/metal_143.vtf,174984,67414
+materials/realworldtextures2/metal/floor/metal_143_nrm.vtf,174984,62545
+materials/realworldtextures2/metal/floor/metal_144_reflective.vmt,347,238
+materials/realworldtextures2/metal/floor/metal_144.vtf,174984,56317
+materials/realworldtextures2/metal/floor/metal_144_nrm.vtf,174984,45179
+materials/realworldtextures2/metal/floor/metal_145_reflective.vmt,347,238
+materials/realworldtextures2/metal/floor/metal_145.vtf,174984,95077
+materials/realworldtextures2/metal/floor/metal_145_nrm.vtf,174984,81032
+materials/realworldtextures2/metal/floor/metal_146_reflective.vmt,344,236
+materials/realworldtextures2/metal/floor/metal_146.vtf,174984,93770
+materials/realworldtextures2/metal/floor/metal_146_nrm.vtf,174984,78329
+materials/realworldtextures2/metal/floor/metal_tile_04.vmt,364,249
+materials/realworldtextures2/metal/floor/metal_tile_04.vtf,174984,78728
+materials/realworldtextures2/metal/floor/metal_tile_01_02_03_04_05_nrm.vtf,174984,43562
+materials/realworldtextures2/metal/floor/metal_tile_05.vmt,364,249
+materials/realworldtextures2/metal/floor/metal_tile_05.vtf,174984,54471
+materials/realworldtextures2/metal/wall/metal_25.vmt,503,290
+materials/realworldtextures2/metal/wall/metal_25.vtf,174984,110839
+materials/realworldtextures2/metal/wall/metal_25_spec.vtf,174984,114756
+materials/realworldtextures2/detail/dt_metal2.vtf,16807,5142
+materials/highdef/skyrim/architecture/windhelm/whwoodboards01.vmt,375,225
+materials/highdef/skyrim/architecture/windhelm/whwoodboards01.vtf,699272,533065
+materials/highdef/skyrim/architecture/windhelm/whwoodboards01_ssbump.vtf,1398336,1329789
