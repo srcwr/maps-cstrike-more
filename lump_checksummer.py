@@ -1,5 +1,12 @@
 # SPDX-License-Identifier: WTFPL
 
+# /// script
+# requires-python = ">=3.10"
+# dependencies = [
+#   "bsp_tool @ git+https://github.com/srcwr/bsp_tool@dc486011ab5bfee6f68f32367c1127e8b972b3a5",
+# ]
+# ///
+
 import glob
 import bsp_tool # https://github.com/srcwr/bsp_tool
 import csv
