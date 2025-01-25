@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/maps/gg_mdeagle_break a face_mk/textures/tile_02_0_0_168.vmt,138,138
+materials/maps/gg_mdeagle_break a face_mk/metal/metal_plate01_0_0_168.vmt,141,141
+materials/maps/gg_mdeagle_break a face_mk/cubemapdefault.vtf,28753,28753
+materials/maps/gg_mdeagle_break a face_mk/c0_0_168.vtf,28753,28753
+materials/maps/gg_mdeagle_break a face_mk/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_mdeagle_break a face_mk/c0_0_168.hdr.vtf,76528,76528
+materials/textures/tile_02.vmt,149,149
+materials/textures/tile_02.vtf,699272,699272
+materials/metal/metal_plate01.vmt,190,190
+materials/metal/metal_plate01.vtf,349784,349784
+materials/metal/metal_plate01_ref.vtf,349784,349784
+materials/RealWorldTextures/Walls/CapeCodGray.vmt,244,244
+materials/RealWorldTextures/Walls/CapeCodGray.vtf,174984,174984
+materials/RealWorldTextures/Walls/BurReeds.vmt,241,241
+materials/RealWorldTextures/Walls/BurReeds.vtf,174984,174984
+materials/RealWorldTextures/Walls/CoralSand.vmt,242,242
+materials/RealWorldTextures/Walls/CoralSand.vtf,174984,174984
+materials/color/vermilion.vmt,66,66
+materials/color/vermilion.vtf,11144,11144
+materials/color/cerulean blue.vmt,70,70
+materials/color/cerulean blue.vtf,11144,11144
+materials/textures/crate_new.vmt,96,96
+materials/textures/crate_new.vtf,174984,174984
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/devneons/white_neon.vmt,104,104
+materials/devneons/white_neon.vtf,43912,43912
+materials/RealWorldTextures/Walls/MysticBlack.vmt,244,244
+materials/RealWorldTextures/Walls/MysticBlack.vtf,174984,174984
+materials/detail/detailsprites.vmt,135,135
+materials/detail/detailsprites.vtf,1398336,1398336
