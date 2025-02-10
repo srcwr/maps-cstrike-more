@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/maps/bhop_dumbshit/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_dumbshit/cubemapdefault.hdr.vtf,76528,76528
+maps/bhop_dumbshit.nav,2050,2050
+materials/mspaint/mspaint_wall.vmt,28,28
+materials/devneons/green_neon.vmt,104,104
+materials/devneons/green_neon.vtf,43928,43928
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2968,2968
+materials/color/tea green.vmt,66,66
+materials/color/tea green.vtf,11160,11160
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43928,43928
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5712,5712
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/devneons/blue_neon.vmt,103,103
+materials/devneons/blue_neon.vtf,43928,43928
+materials/skybox/sky_dustbk.vmt,104,104
+materials/skybox/sky_dustbk.vtf,174864,174864
+materials/skybox/sky_dustdn.vmt,104,104
+materials/skybox/sky_dustdn.vtf,174864,174864
+materials/skybox/sky_dustft.vmt,104,104
+materials/skybox/sky_dustft.vtf,174864,174864
+materials/skybox/sky_dustlf.vmt,104,104
+materials/skybox/sky_dustlf.vtf,174864,174864
+materials/skybox/sky_dustrt.vmt,104,104
+materials/skybox/sky_dustrt.vtf,174864,174864
+materials/skybox/sky_dustup.vmt,104,104
+materials/skybox/sky_dustup.vtf,174864,174864
+materials/detail/detailsprites.vmt,205,205
+materials/detail/detailsprites.vtf,349776,349776
