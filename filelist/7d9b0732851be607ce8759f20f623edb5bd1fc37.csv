@@ -1,0 +1,16 @@
+filename,size,compressed
+maps/bhop_monoton.nav,205,205
+materials//texture4.vmt,56,56
+materials/texture4.vtf,2968,2968
+materials//texture2.vmt,56,56
+materials/texture2.vtf,2968,2968
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2968,2968
+materials//texture3.vmt,56,56
+materials/texture3.vtf,2968,2968
+materials/tools/toolstrigger.vmt,285,285
+materials/tools/toolstrigger.vtf,5712,5712
+materials//texture1.vmt,56,56
+materials/texture1.vtf,2968,2968
+materials/detail/detailsprites.vmt,162,162
+materials/detail/detailsprites.vtf,349776,349776
