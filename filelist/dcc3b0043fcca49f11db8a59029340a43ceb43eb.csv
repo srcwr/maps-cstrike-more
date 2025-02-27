@@ -1,0 +1,45 @@
+filename,size,compressed
+materials/maps/bhop_speedrun_artild/nature/sewer_water001_depth_64.vmt,108,108
+materials/maps/bhop_speedrun_artild/cubemapdefault.vtf,4960,4960
+materials/maps/bhop_speedrun_artild/cubemapdefault.hdr.vtf,76528,76528
+maps/bhop_speedrun_artild.nav,205,205
+materials/silkroad/china/c_jin_wall_orwall.vmt,99,99
+materials/silkroad/china/c_jin_wall_orwall.vtf,174944,174944
+materials/silkroad/china/jinsi_floor1_h_deck01.vmt,103,103
+materials/silkroad/china/jinsi_floor1_h_deck01.vtf,87616,87616
+materials/silkroad/china/china_wall_blackroof.vmt,102,102
+materials/silkroad/china/china_wall_blackroof.vtf,43872,43872
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11160,11160
+materials/cnsc/p1aflr.vmt,119,119
+materials/cnsc/p1aflr.vtf,1398308,1398308
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2968,2968
+materials/nature/sewer_water001.vmt,3167,3167
+materials/dev/water_normal.vtf,10136388,10136388
+materials/dev/water_dudv.vtf,5068290,5068290
+materials/nature/water_canals03_dx70.vmt,1632,1632
+materials/dev/water.vtf,2535024,2535024
+materials/nature/water_dx70_beneath.vmt,1250,1250
+materials/nature/sewer_water001_bottom.vmt,2798,2798
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5712,5712
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/badges/comj2_graff (2).vmt,89,89
+materials/badges/comj2_graff (2).vtf,174944,174944
+materials/badges/graff (4).vmt,83,83
+materials/badges/graff (4).vtf,87616,87616
+materials/skybox/blackbk.vmt,82,82
+materials/skybox/blackbk.vtf,174984,174984
+materials/skybox/blackdn.vmt,82,82
+materials/skybox/blackdn.vtf,174984,174984
+materials/skybox/blackft.vmt,82,82
+materials/skybox/blackft.vtf,174984,174984
+materials/skybox/blacklf.vmt,82,82
+materials/skybox/blacklf.vtf,174984,174984
+materials/skybox/blackrt.vmt,82,82
+materials/skybox/blackrt.vtf,174984,174984
+materials/skybox/blackup.vmt,82,82
+materials/skybox/blackup.vtf,174984,174984
+materials/detail/detailsprites.vmt,87,87
+materials/detail/detailsprites.vtf,1398360,1398360
