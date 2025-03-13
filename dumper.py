@@ -12,7 +12,11 @@ import glob
 import bsp_tool # https://github.com/srcwr/bsp_tool
 import gzip
 import csv
+import re
 from pathlib import Path
+
+vscript_filelist_probably = set()
+vscript_entities_probably = set()
 
 ignored = {}
 with open("ignore.csv") as f:
@@ -39,6 +43,8 @@ for filename in glob.iglob("../hashed/*.bsp"):
     bsp = bsp_tool.load_bsp(filename)
     if "ENTITIES" in bsp.headers:
         ents = bsp.ENTITIES.as_bytes()[:-1] # -1 to remove trailing null byte
+        if re.search(b"(script |script_execute|RunScriptCode|RunScriptFile|CallScriptFunction)", ents, re.I):
+            vscript_entities_probably.add(maphash)
         with open(newents, "wb") as f:
             f.write(ents)
         with gzip.open(f"entitiesgz/{maphash}.cfg.gz", "wb") as f:
@@ -69,4 +75,30 @@ for filename in glob.iglob("../hashed/*.bsp"):
             mycsv = csv.writer(csvfile)
             mycsv.writerow(["filename","size","compressed"])
             for x in files:
+                if ("vscripts" in x.filename.lower()) or x.lower().endswith(".nut"):
+                    vscript_filelist_probably.add(maphash)
                 mycsv.writerow([x.filename, x.file_size, x.compress_size])
+
+
+if len(vscript_filelist_probably) > 0 or len(vscript_entities_probably) > 0:
+    print("vscript probably exists, so doing csv stuff")
+    vscript_csv = {}
+    with open("vscript_probably.csv", newline="", encoding="utf-8") as f:
+        cr = csv.reader(f)
+        for line in cr:
+            if line[0] == "sha1":
+                continue
+            vscript_csv[line[0]] = line[1]
+    for maphash in (vscript_filelist_probably&vscript_entities_probably):
+        vscript_csv[maphash] = "filelist & entities"
+    for maphash in (vscript_filelist_probably-vscript_entities_probably):
+        vscript_csv[maphash] = "filelist"
+    for maphash in (vscript_entities_probably-vscript_filelist_probably):
+        vscript_csv[maphash] = "entities"
+
+    with open("vscript_probably.csv", "w", newline="", encoding="utf-8") as csvfile:
+        mycsv = csv.writer(csvfile)
+        mycsv.writerow(["sha1","reason"])
+        xxx = dict(sorted(vscript_csv.items()))
+        for k,v in xxx.items():
+            mycsv.writerow([k, v])

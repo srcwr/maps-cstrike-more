@@ -1,0 +1,15 @@
+name: Notify on packed VScript
+
+on:
+  push:
+    paths: ['vscript_probably.csv']
+  workflow_dispatch:
+
+jobs:
+  notify_on_packed_vscript:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Yap
+        run: |
+          echo "::warning title=vscripts probably found::vscripts probably found!!! exiting with an error so a workflow failure email is sent"
+          exit 1
