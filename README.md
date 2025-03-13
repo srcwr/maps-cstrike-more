@@ -1,5 +1,3 @@
-`python -m pip install 'bsp_tool @git+https://github.com/srcwr/bsp_tool.git'`
-
 ## WHAT IS WHAT
 - `entities`
 	- Extracted entity lump files from each map. You won't have this unless you use `dumper.py` yourself or have extracted all of the files from `entitiesgz`.
