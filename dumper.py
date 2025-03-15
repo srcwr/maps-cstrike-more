@@ -75,7 +75,7 @@ for filename in glob.iglob("../hashed/*.bsp"):
             mycsv = csv.writer(csvfile)
             mycsv.writerow(["filename","size","compressed"])
             for x in files:
-                if ("vscripts" in x.filename.lower()) or x.lower().endswith(".nut"):
+                if ("vscripts" in x.filename.lower()) or x.filename.lower().endswith(".nut"):
                     vscript_filelist_probably.add(maphash)
                 mycsv.writerow([x.filename, x.file_size, x.compress_size])
 
