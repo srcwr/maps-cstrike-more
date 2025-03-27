@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/maps/aim_forbidden_usp/de_dust/tilefloor02_0_0_0.vmt,130,130
+materials/maps/aim_forbidden_usp/cubemapdefault.vtf,9824,9824
+materials/maps/aim_forbidden_usp/c0_0_0.vtf,9824,9824
+materials/CUSTOMTEX/FORBCREDITUSP.vmt,224,224
+materials/Customtex/forbcreditusp.vtf,349744,349744
+models/custom/forbidden.mdl,1456,1456
+models/custom/forbidden.dx80.vtx,71241,71241
+models/custom/forbidden.dx90.vtx,71241,71241
+models/custom/forbidden.sw.vtx,71241,71241
+models/custom/forbidden.phy,14137,14137
+models/custom/forbidden.vvd,284992,284992
+materials/models/custom/forblogotexture.vmt,103,103
+materials/models/custom/forblogotexture.vtf,87616,87616
+maps/soundcache/aim_forbidden_usp.cache,16,16
