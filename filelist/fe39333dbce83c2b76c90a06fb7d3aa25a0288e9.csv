@@ -1,0 +1,93 @@
+filename,size,compressed
+materials/maps/surf_unitflex_css/cs_havana/glass2_0_0_0.vmt,127,127
+materials/maps/surf_unitflex_css/hexi_colors/white_color_0_0_0.vmt,134,134
+materials/maps/surf_unitflex_css/dev/dev_water2_depth_64.vmt,101,101
+materials/maps/surf_unitflex_css/dev/dev_water2_depth_16.vmt,101,101
+materials/maps/surf_unitflex_css/dev/dev_water2_depth_32.vmt,101,101
+materials/maps/surf_unitflex_css/hexi_colors/white_color_depth_22624.vmt,113,113
+materials/maps/surf_unitflex_css/cubemapdefault.vtf,4960,4960
+materials/maps/surf_unitflex_css/c0_0_0.vtf,4960,4960
+materials/maps/surf_unitflex_css/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_unitflex_css/c0_0_0.hdr.vtf,76528,76528
+detail.vbsp,42794,42794
+models/props/surf_lt/dome_light_256.mdl,1924,1924
+models/props/surf_lt/dome_light_256.dx80.vtx,2532,2532
+models/props/surf_lt/dome_light_256.dx90.vtx,2532,2532
+models/props/surf_lt/dome_light_256.sw.vtx,2532,2532
+models/props/surf_lt/dome_light_256.vvd,12224,12224
+materials/models/props/surf_lt/dev_measuregeneric18.vmt,91,91
+materials/dev/dev_measuregeneric18.vtf,11144,11144
+materials/models/props/surf_lt/white.vmt,91,91
+materials/cs_havana/white.vtf,888,888
+models/props/surf_lt/dome_light_128.mdl,1924,1924
+models/props/surf_lt/dome_light_128.dx80.vtx,2460,2460
+models/props/surf_lt/dome_light_128.dx90.vtx,2460,2460
+models/props/surf_lt/dome_light_128.sw.vtx,2460,2460
+models/props/surf_lt/dome_light_128.vvd,11712,11712
+models/props/surf_lt/dome_light_512.mdl,1924,1924
+models/props/surf_lt/dome_light_512.dx80.vtx,2451,2451
+models/props/surf_lt/dome_light_512.dx90.vtx,2451,2451
+models/props/surf_lt/dome_light_512.sw.vtx,2451,2451
+models/props/surf_lt/dome_light_512.vvd,11648,11648
+models/props/surf_lt/dome_light_384.mdl,1924,1924
+models/props/surf_lt/dome_light_384.dx80.vtx,2451,2451
+models/props/surf_lt/dome_light_384.dx90.vtx,2451,2451
+models/props/surf_lt/dome_light_384.sw.vtx,2451,2451
+models/props/surf_lt/dome_light_384.vvd,11648,11648
+materials/ryan_dev/30.vmt,59,59
+materials/ryan_dev/30.vtf,11144,11144
+materials/ryan_dev/15.vmt,59,59
+materials/ryan_dev/15.vtf,11144,11144
+materials/tools/toolsnodraw.vmt,254,254
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/ryan_dev/80.vmt,59,59
+materials/ryan_dev/80.vtf,11144,11144
+materials/ryan_dev/50.vmt,59,59
+materials/ryan_dev/50.vtf,11144,11144
+materials/materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/hexi_colors/white_color.vmt,194,194
+materials/hexi_colors/white_color.vtf,2952,2952
+materials/trackmania2020/tmconcdark.vmt,109,109
+materials/trackmania2020/customconcrete_x2_resultdark.vtf,349776,349776
+materials/tools/toolstrigger.vmt,285,285
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolsblack.vmt,64,64
+materials/tools/toolsblack.vtf,2936,2936
+materials/ryan_dev/dev_15.vmt,63,63
+materials/ryan_dev/dev_15.vtf,11144,11144
+materials/ryan_dev/dev_85.vmt,63,63
+materials/ryan_dev/dev_85.vtf,11144,11144
+materials/dev/dev_waterbeneath2.vmt,1155,1155
+materials/dev/water_normal.vtf,10136388,10136388
+materials/dev/water_dudv.vtf,5068290,5068290
+materials/shizangle materials/testers.vmt,124,124
+materials/shizangle materials/testers.vtf,1398336,1398336
+materials/shizangle materials/surf_unitflex.vmt,129,129
+materials/shizangle materials/surf_unitflex.vtf,1398336,1398336
+materials/shizangle materials/bonus3.vmt,124,124
+materials/shizangle materials/bonus3.vtf,174944,174944
+materials/shizangle materials/bonus2.vmt,124,124
+materials/shizangle materials/bonus2.vtf,174944,174944
+materials/shizangle materials/bonus1.vmt,124,124
+materials/shizangle materials/bonus1.vtf,174944,174944
+materials/shizangle materials/hardtriplenormark.vmt,135,135
+materials/shizangle materials/hardtriplenormark.vtf,1398336,1398336
+materials/shizangle materials/turn-around.vmt,130,130
+materials/shizangle materials/turn-around.vtf,349760,349760
+materials/shizangle materials/turn-around2.vmt,130,130
+materials/shizangle materials/turn-around2.vtf,349760,349760
+materials/skybox/sh_starry_skybk.vmt,99,99
+materials/skybox/sh_starry_skybk.vtf,2796424,2796424
+materials/skybox/sh_starry_skydn.vmt,99,99
+materials/skybox/sh_starry_skydn.vtf,2796424,2796424
+materials/skybox/sh_starry_skyft.vmt,99,99
+materials/skybox/sh_starry_skyft.vtf,2796424,2796424
+materials/skybox/sh_starry_skylf.vmt,99,99
+materials/skybox/sh_starry_skylf.vtf,2796424,2796424
+materials/skybox/sh_starry_skyrt.vmt,99,99
+materials/skybox/sh_starry_skyrt.vtf,2796424,2796424
+materials/skybox/sh_starry_skyup.vmt,99,99
+materials/skybox/sh_starry_skyup.vtf,2796424,2796424
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,349792,349792
