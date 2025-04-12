@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/ttt_map/nature/blendgrassgrass001a_wvt_patch.vmt,181,181
+materials/maps/ttt_map/nature/blendrockdirt006b_lowfrict_wvt_patch.vmt,328,328
+materials/maps/ttt_map/dev/dev_blendmeasure_wvt_patch.vmt,141,141
+materials/maps/ttt_map/plaster/offwllc_0_0_0.vmt,116,116
+materials/maps/ttt_map/props/metalduct001a_0_0_0.vmt,120,120
+materials/maps/ttt_map/tile/tilewall006a_0_0_0.vmt,118,118
+materials/maps/ttt_map/glass/unbreakable_0_0_0.vmt,118,118
+materials/maps/ttt_map/plaster/plasterwall043d_0_0_0.vmt,124,124
+materials/maps/ttt_map/concrete/concretefloor028c_0_0_0.vmt,127,127
+materials/maps/ttt_map/concrete/concretefloor011a_c17_0_0_0.vmt,170,170
+materials/maps/ttt_map/nature/toxicslime002a_depth_32.vmt,108,108
+materials/maps/ttt_map/nature/water_canals_water2_depth_40.vmt,113,113
+materials/maps/ttt_map/cubemapdefault.vtf,9832,9832
+materials/maps/ttt_map/c0_0_0.vtf,9832,9832
+materials/maps/ttt_map/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ttt_map/c0_0_0.hdr.vtf,76528,76528

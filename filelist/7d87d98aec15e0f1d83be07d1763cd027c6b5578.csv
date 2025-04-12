@@ -1,0 +1,493 @@
+filename,size,compressed
+materials/64/1.vmt,71,71
+materials/64/1.vtf,87616,87616
+materials/64/2.vmt,71,71
+materials/64/2.vtf,87616,87616
+materials/64/blockcover.vmt,86,86
+materials/64/blockcover.vtf,43912,43912
+materials/64/blockcover2.vmt,87,87
+materials/64/blockcover2.vtf,43912,43912
+materials/64/Board.vmt,99,99
+materials/64/Board.vtf,349760,349760
+materials/64/Board2.vmt,81,81
+materials/64/Board2.vtf,43912,43912
+materials/64/bowser_back.vmt,344,344
+materials/64/bowser_back.vtf,349840,349840
+materials/64/bowser_front.vmt,345,345
+materials/64/bowser_front.vtf,349840,349840
+materials/64/brick.vmt,89,89
+materials/64/brick.vtf,43912,43912
+materials/64/Brick2.vmt,82,82
+materials/64/Brick2.vtf,43872,43872
+materials/64/Bridge_ledge.vmt,87,87
+materials/64/Bridge_ledge.vtf,43912,43912
+materials/64/Bridge_ledgetop.vmt,90,90
+materials/64/Bridge_ledgetop.vtf,22008,22008
+materials/64/carpet.vmt,91,91
+materials/64/carpet.vtf,43912,43912
+materials/64/carpet_blu.vmt,95,95
+materials/64/carpet_blu.vtf,43912,43912
+materials/64/carpet_green.vmt,97,97
+materials/64/carpet_green.vtf,43912,43912
+materials/64/carpet_yellow.vmt,98,98
+materials/64/carpet_yellow.vtf,43912,43912
+materials/64/Castle_roof.vmt,86,86
+materials/64/Castle_roof.vtf,43912,43912
+materials/64/Castle_wall.vmt,87,87
+materials/64/Castle_wall.vtf,22008,22008
+materials/64/cobblestones.vmt,99,99
+materials/64/cobblestones.vtf,43912,43912
+materials/64/cobblestones2.vmt,100,100
+materials/64/cobblestones2.vtf,43912,43912
+materials/64/concrete.vmt,95,95
+materials/64/concrete.vtf,43912,43912
+materials/64/concrete2.vmt,96,96
+materials/64/concrete2.vtf,43912,43912
+materials/64/credits.vmt,105,105
+materials/64/credits.vtf,349760,349760
+materials/64/dash.vmt,90,90
+materials/64/dash.vtf,43912,43912
+materials/64/deathsymbol.vmt,81,81
+materials/64/deathsymbol.vtf,87616,87616
+materials/64/dev_green4.vmt,61,61
+materials/64/dev_green4.vtf,699272,699272
+materials/64/door.vmt,87,87
+materials/64/door.vtf,43912,43912
+materials/64/door2.vmt,88,88
+materials/64/door2.vtf,87616,87616
+materials/64/egpyt_tile.vmt,85,85
+materials/64/egpyt_tile.vtf,43912,43912
+materials/64/egpyt_tilesel.vmt,99,99
+materials/64/egpyt_tilesel.vtf,43912,43912
+materials/64/egypt_block.vmt,94,94
+materials/64/egypt_block.vtf,43912,43912
+materials/64/end_humil.vmt,79,79
+materials/64/end_humil.vtf,699232,699232
+materials/64/end_instant.vmt,81,81
+materials/64/end_instant.vtf,699232,699232
+materials/64/end_luck.vmt,78,78
+materials/64/end_luck.vtf,699232,699232
+materials/64/end_miniganem.vmt,83,83
+materials/64/end_miniganem.vtf,699232,699232
+materials/64/eqypt_brickwall.vmt,99,99
+materials/64/eqypt_brickwall.vtf,43912,43912
+materials/64/Fence.vmt,99,99
+materials/64/Fence.vtf,43872,43872
+materials/64/fence_castle.vmt,79,79
+materials/64/fence_castle.vtf,87616,87616
+materials/64/finishline.vmt,115,115
+materials/64/finishline.vtf,43912,43912
+materials/64/fireball.vmt,341,341
+materials/64/fireball.vtf,349840,349840
+materials/64/fireball2.vmt,342,342
+materials/64/fireball2.vtf,349840,349840
+materials/64/floormat.vmt,119,119
+materials/64/floormat.vtf,87616,87616
+materials/64/grass.vmt,89,89
+materials/64/grass.vtf,43912,43912
+materials/64/Grass2.vmt,82,82
+materials/64/Grass2.vtf,43912,43912
+materials/64/Grass3.vmt,82,82
+materials/64/Grass3.vtf,43912,43912
+materials/64/grass_path.vmt,93,93
+materials/64/grass_path.vtf,43912,43912
+materials/64/grass_side.vmt,93,93
+materials/64/grass_side.vtf,43912,43912
+materials/64/grass_side2.vmt,94,94
+materials/64/grass_side2.vtf,43912,43912
+materials/64/green.vmt,91,91
+materials/64/green.vtf,43912,43912
+materials/64/Lak0.vmt,74,74
+materials/64/Lak0.vtf,87616,87616
+materials/64/Lak1.vmt,74,74
+materials/64/Lak1.vtf,87616,87616
+materials/64/Lak2.vmt,74,74
+materials/64/Lak2.vtf,87616,87616
+materials/64/Lak3.vmt,74,74
+materials/64/Lak3.vtf,87616,87616
+materials/64/Lava.vmt,471,471
+materials/64/Lava.vtf,5593040,5593040
+materials/64/lock.vmt,88,88
+materials/64/lock.vtf,43912,43912
+materials/64/Luigi stare.vmt,81,81
+materials/64/Luigi stare.vtf,349760,349760
+materials/64/metal.vmt,89,89
+materials/64/metal.vtf,43912,43912
+materials/64/Metalgrate.vmt,105,105
+materials/64/Metalgrate.vtf,87616,87616
+materials/64/metal_box.vmt,93,93
+materials/64/metal_box.vtf,43912,43912
+materials/64/metal_fence.vmt,107,107
+materials/64/metal_fence.vtf,87616,87616
+materials/64/metal_floor&wall.vmt,99,99
+materials/64/metal_floor&wall.vtf,43912,43912
+materials/64/metal_wall.vmt,94,94
+materials/64/metal_wall.vtf,43912,43912
+materials/64/Pic 5.vmt,80,80
+materials/64/Pic 5.vtf,87616,87616
+materials/64/Pic1.vmt,79,79
+materials/64/Pic1.vtf,87616,87616
+materials/64/Pic2.vmt,79,79
+materials/64/Pic2.vtf,87616,87616
+materials/64/Pic3.vmt,79,79
+materials/64/Pic3.vtf,87616,87616
+materials/64/Pic4.vmt,75,75
+materials/64/Pic4.vtf,87616,87616
+materials/64/Pic6.vmt,79,79
+materials/64/Pic6.vtf,87616,87616
+materials/64/pic7.vmt,97,97
+materials/64/pic7.vtf,87456,87456
+materials/64/pillar.vmt,89,89
+materials/64/pillar.vtf,87616,87616
+materials/64/Platform.vmt,95,95
+materials/64/Platform.vtf,43912,43912
+materials/64/Platformedge.vmt,88,88
+materials/64/Platformedge.vtf,43912,43912
+materials/64/Race.vmt,72,72
+materials/64/Race.vtf,699232,699232
+materials/64/Racestart.vmt,71,71
+materials/64/Racestart.vtf,699232,699232
+materials/64/Race_finish.vmt,74,74
+materials/64/Race_finish.vtf,699232,699232
+materials/64/Race_Finishrest.vmt,77,77
+materials/64/Race_Finishrest.vtf,699232,699232
+materials/64/rainbow_track.vmt,99,99
+materials/64/rainbow_track.vtf,174984,174984
+materials/64/red2.vmt,108,108
+materials/64/red2.vtf,43912,43912
+materials/64/sand.vmt,79,79
+materials/64/sand.vtf,43912,43912
+materials/64/sand_2.vmt,82,82
+materials/64/sand_2.vtf,43912,43912
+materials/64/sign.vmt,102,102
+materials/64/sign.vtf,11136,11136
+materials/64/sign2.vmt,75,75
+materials/64/sign2.vtf,699232,699232
+materials/64/space.vmt,73,73
+materials/64/space.vtf,43912,43912
+materials/64/thwompsbody.vmt,94,94
+materials/64/thwompsbody.vtf,43912,43912
+materials/64/thwompsface.vmt,94,94
+materials/64/thwompsface.vtf,43912,43912
+materials/64/tile.vmt,87,87
+materials/64/tile.vtf,43912,43912
+materials/64/tile2.vmt,88,88
+materials/64/tile2.vtf,43912,43912
+materials/64/tile3.vmt,88,88
+materials/64/tile3.vtf,43912,43912
+materials/64/tile4.vmt,88,88
+materials/64/tile4.vtf,43912,43912
+materials/64/tile_block.vmt,93,93
+materials/64/tile_block.vtf,43912,43912
+materials/64/Tree.vmt,101,101
+materials/64/Tree.vtf,349760,349760
+materials/64/undergound_gravel.vmt,100,100
+materials/64/undergound_gravel.vtf,87616,87616
+materials/64/underground_block.vmt,100,100
+materials/64/underground_block.vtf,43912,43912
+materials/64/underground_block2.vmt,101,101
+materials/64/underground_block2.vtf,43912,43912
+materials/64/underground_tile.vmt,99,99
+materials/64/underground_tile.vtf,43912,43912
+materials/64/underground_wall.vmt,99,99
+materials/64/underground_wall.vtf,43912,43912
+materials/64/vine.vmt,99,99
+materials/64/vine.vtf,87616,87616
+materials/64/vine_mouth.vmt,351,351
+materials/64/vine_mouth.vtf,349840,349840
+materials/64/wall.vmt,90,90
+materials/64/wall.vtf,87616,87616
+materials/64/wall2.vmt,91,91
+materials/64/wall2.vtf,43912,43912
+materials/64/wall3.vmt,91,91
+materials/64/wall3.vtf,87616,87616
+materials/64/water.vmt,341,341
+materials/64/water.vtf,11144,11144
+materials/64/water2.vmt,364,364
+materials/64/water2.vtf,22080,22080
+materials/64/window.vmt,100,100
+materials/64/window.vtf,87616,87616
+materials/64/window_peach.vmt,107,107
+materials/64/window_peach.vtf,349760,349760
+materials/64/wood.vmt,87,87
+materials/64/wood.vtf,43912,43912
+materials/64/wood2.vmt,88,88
+materials/64/wood2.vtf,43912,43912
+materials/64/wood3.vmt,88,88
+materials/64/wood3.vtf,43912,43912
+materials/64/wood4.vmt,88,88
+materials/64/wood4.vtf,43912,43912
+materials/64/wood5.vmt,88,88
+materials/64/wood5.vtf,43912,43912
+materials/64/Wood6.vmt,80,80
+materials/64/Wood6.vtf,43912,43912
+materials/64/woodsel.vmt,106,106
+materials/64/woodsel.vtf,43912,43912
+materials/64/wood_sign.vmt,92,92
+materials/64/wood_sign.vtf,43912,43912
+materials/glass/fishtankglasswindow001a.vmt,278,278
+materials/glass/glasswindow001a.vmt,314,314
+materials/glass/glasswindow001a.vtf,22104,22104
+materials/glass/glasswindow001a_90.vmt,314,314
+materials/glass/glasswindow001b.vmt,310,310
+materials/glass/glasswindow001b.vtf,22104,22104
+materials/glass/glasswindow001c.vmt,309,309
+materials/glass/glasswindow002a.vmt,235,235
+materials/glass/glasswindow002a.vtf,349792,349792
+materials/glass/glasswindow002b.vmt,235,235
+materials/glass/glasswindow002b.vtf,349784,349784
+materials/glass/glasswindow002c.vmt,256,256
+materials/glass/glasswindow002c.vtf,349792,349792
+materials/glass/glasswindow003a.vmt,132,132
+materials/glass/glasswindow003a.vtf,87640,87640
+materials/glass/glasswindow004a.vmt,243,243
+materials/glass/glasswindow004a.vtf,349760,349760
+materials/glass/glasswindow005a.vmt,243,243
+materials/glass/glasswindow005a.vtf,87648,87648
+materials/glass/glasswindow006a.vmt,133,133
+materials/glass/glasswindow006a.vtf,174968,174968
+materials/glass/glasswindow006b.vmt,135,135
+materials/glass/glasswindow006c.vmt,290,290
+materials/glass/glasswindow006c_yellow.vmt,441,441
+materials/glass/glasswindow006_mask.vtf,87568,87568
+materials/glass/glasswindow007.vmt,270,270
+materials/glass/glasswindow007.vtf,43896,43896
+materials/glass/glasswindow_distorted001.vmt,242,242
+materials/glass/glasswindow_distorted001.vtf,349784,349784
+materials/lights/blue001.vmt,183,183
+materials/lights/blue001.vtf,2976,2976
+materials/lights/blue002.vmt,183,183
+materials/lights/blue003.vmt,183,183
+materials/lights/blue004.vmt,183,183
+materials/lights/gradient_window.vmt,147,147
+materials/lights/gradient_window.vtf,22104,22104
+materials/lights/gradient_window_warm001.vmt,153,153
+materials/lights/ibeam_light_01.vmt,164,164
+materials/lights/ibeam_light_01.vtf,175000,175000
+materials/lights/ibeam_light_01a.vmt,166,166
+materials/lights/white001.vmt,163,163
+materials/lights/white001.vtf,2976,2976
+materials/lights/white001_nochop.vmt,184,184
+materials/lights/white002.vmt,163,163
+materials/lights/white002.vtf,2976,2976
+materials/lights/white002_nochop.vmt,184,184
+materials/lights/white003.vmt,163,163
+materials/lights/white003.vtf,2976,2976
+materials/lights/white003_nochop.vmt,184,184
+materials/lights/white007.vmt,163,163
+materials/lights/white007.vtf,2952,2952
+materials/lights/white008.vmt,163,163
+materials/lights/white008.vtf,2952,2952
+materials/lights/white_fill.vmt,161,161
+materials/maps/dr_supermario64/64/lava_depth_104.vmt,95,95
+materials/maps/dr_supermario64/64/lava_depth_16.vmt,94,94
+materials/maps/dr_supermario64/64/lava_depth_168.vmt,95,95
+materials/maps/dr_supermario64/64/lava_depth_179.vmt,95,95
+materials/maps/dr_supermario64/64/lava_depth_48.vmt,94,94
+materials/maps/dr_supermario64/64/lava_depth_86.vmt,94,94
+materials/maps/dr_supermario64/64/water_depth_176.vmt,96,96
+materials/maps/dr_supermario64/64/water_depth_192.vmt,96,96
+materials/maps/dr_supermario64/64/water_depth_72.vmt,95,95
+materials/maps/dr_supermario64/egypt/sand_floor_blend_03_wvt_patch.vmt,110,110
+materials/maps/dr_supermario64/nature/water_movingplane_depth_16.vmt,111,111
+materials/maps/dr_supermario64/nature/water_movingplane_depth_8.vmt,110,110
+materials/maps/dr_supermario64/tools/toolsnodraw_depth_408.vmt,105,105
+materials/milly/smile.vmt,78,78
+materials/milly/smile.vtf,2952,2952
+materials/models/karasz/bob_omb/albedo.vtf,368,368
+materials/models/karasz/bob_omb/npc004_body_m1.vmt,388,388
+materials/models/karasz/bob_omb/npc004_body_m1.vtf,22052,22052
+materials/models/karasz/bob_omb/phong.vtf,368,368
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS01.vmt,270,270
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS01.vtf,11104,11104
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS03.vmt,270,270
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS03.vtf,22080,22080
+materials/models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS05.vtf,1600,1600
+materials/models/Super Mario/Banzai_Bill.vmt,105,105
+materials/models/Super Mario/Banzai_Bill.vtf,5696,5696
+materials/models/Super Mario/Banzai_Bill_Blasters.vmt,114,114
+materials/models/Super Mario/Banzai_Bill_Blasters.vtf,11104,11104
+materials/models/Super Mario/Bill_Blaster.vmt,106,106
+materials/models/Super Mario/Bill_Blaster.vtf,1600,1600
+materials/models/Super Mario/Bill_Blaster_top.vmt,110,110
+materials/models/Super Mario/Bill_Blaster_top.vtf,1536,1536
+materials/models/Super Mario/Boo.vmt,97,97
+materials/models/Super Mario/Boo.vtf,2912,2912
+materials/models/Super Mario/Boo_shy2.vmt,102,102
+materials/models/Super Mario/Boo_shy2.vtf,11104,11104
+materials/models/Super Mario/large_cannon.vmt,106,106
+materials/models/Super Mario/large_cannon.vtf,5696,5696
+materials/models/Super Mario/Missile_Banzai_Bill.vmt,113,113
+materials/models/Super Mario/Missile_Banzai_Bill.vtf,5696,5696
+materials/models/Super Mario/Missile_Banzai_Bill_explode.vmt,288,288
+materials/models/Super Mario/Missile_Banzai_Bill_explode.vtf,11184,11184
+materials/models/Super Mario/Piranha_Body.vmt,106,106
+materials/models/Super Mario/Piranha_Body.vtf,11104,11104
+materials/models/Super Mario/Piranha_Stalk.vmt,107,107
+materials/models/Super Mario/Piranha_Stalk.vtf,11104,11104
+materials/skybox/sky_tf2_04bk.vmt,235,235
+materials/skybox/sky_tf2_04dn.vmt,231,231
+materials/skybox/sky_tf2_04dn.vtf,115,115
+materials/skybox/sky_tf2_04ft.vmt,235,235
+materials/skybox/sky_tf2_04lf.vmt,235,235
+materials/skybox/sky_tf2_04rt.vmt,235,235
+materials/skybox/sky_tf2_04side.vtf,524457,524457
+materials/skybox/sky_tf2_04up.vmt,233,233
+materials/skybox/sky_tf2_04up.vtf,1048807,1048807
+materials/skybox/sky_tf2_04_hdrbk.vmt,235,235
+materials/skybox/sky_tf2_04_hdrdn.vmt,231,231
+materials/skybox/sky_tf2_04_hdrdn.vtf,196,196
+materials/skybox/sky_tf2_04_hdrft.vmt,235,235
+materials/skybox/sky_tf2_04_hdrlf.vmt,235,235
+materials/skybox/sky_tf2_04_hdrrt.vmt,235,235
+materials/skybox/sky_tf2_04_hdrside.vtf,699220,699220
+materials/skybox/sky_tf2_04_hdrup.vmt,233,233
+materials/skybox/sky_tf2_04_hdrup.vtf,1398332,1398332
+materials/sprites/pb_trails/rainbow.vmt,122,122
+materials/sprites/pb_trails/rainbow.vtf,22080,22080
+models/karasz/bob_omb/albedo.vtf,368,368
+models/karasz/bob_omb/npc004_body_m1.vmt,388,388
+models/karasz/bob_omb/npc004_body_m1.vtf,22052,22052
+models/karasz/bob_omb/phong.vtf,368,368
+models/karasz/mario/bob_omb.dx80.vtx,15859,15859
+models/karasz/mario/bob_omb.dx90.vtx,15859,15859
+models/karasz/mario/bob_omb.mdl,4128,4128
+models/karasz/mario/bob_omb.phy,7595,7595
+models/karasz/mario/bob_omb.sw.vtx,15811,15811
+models/karasz/mario/bob_omb.vvd,59584,59584
+models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS01.vmt,270,270
+models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS01.vtf,11104,11104
+models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS03.vmt,270,270
+models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS03.vtf,22080,22080
+models/marioragdoll/Super Mario Galaxy/chain chomp/chaiSS05.vtf,1600,1600
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_Blaster.dx80.vtx,9915,9915
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_Blaster.dx90.vtx,9915,9915
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/banzai_bill_blaster.mdl,2580,2580
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_Blaster.phy,14551,14551
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_Blaster.sw.vtx,9899,9899
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/banzai_bill_blaster.vvd,37504,37504
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_explode.dx80.vtx,25611,25611
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_explode.dx90.vtx,25611,25611
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/banzai_bill_explode.mdl,2152,2152
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_explode.phy,63137,63137
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_explode.sw.vtx,25587,25587
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/banzai_bill_explode.vvd,102720,102720
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/large_cannon.dx80.vtx,4671,4671
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/large_cannon.dx90.vtx,4671,4671
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/large_cannon.mdl,1740,1740
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/large_cannon.phy,14048,14048
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/large_cannon.sw.vtx,4663,4663
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Artillery Enemies/large_cannon.vvd,17088,17088
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Common Enemies/Piranha_Plant_big.dx80.vtx,22483,22483
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Common Enemies/Piranha_Plant_big.dx90.vtx,22483,22483
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Common Enemies/piranha_plant_big.mdl,5392,5392
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Common Enemies/Piranha_Plant_big.phy,25723,25723
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Common Enemies/Piranha_Plant_big.sw.vtx,22411,22411
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Common Enemies/piranha_plant_big.vvd,84672,84672
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo.dx80.vtx,14113,14113
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo.dx90.vtx,14113,14113
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/big_boo.mdl,6648,6648
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo.phy,30757,30757
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo.sw.vtx,14041,14041
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/big_boo.vvd,45888,45888
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo_Shy.dx80.vtx,14169,14169
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo_Shy.dx90.vtx,14169,14169
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/big_boo_shy.mdl,5776,5776
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo_Shy.phy,29122,29122
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo_Shy.sw.vtx,14113,14113
+models/PB_Models/marioragdoll/marioragdoll/Super Mario/Ghosthouse Enemies/big_boo_shy.vvd,48192,48192
+models/PB_Models/marioragdoll/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.dx80.vtx,16950,16950
+models/PB_Models/marioragdoll/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.dx90.vtx,16950,16950
+models/PB_Models/marioragdoll/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.mdl,1892,1892
+models/PB_Models/marioragdoll/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.phy,23393,23393
+models/PB_Models/marioragdoll/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.sw.vtx,16934,16934
+models/PB_Models/marioragdoll/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.vvd,53568,53568
+models/PB_Models/marioragdoll/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.xbox.vtx,16950,16950
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_Blaster.dx80.vtx,9915,9915
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_Blaster.dx90.vtx,9915,9915
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/banzai_bill_blaster.mdl,2580,2580
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_Blaster.phy,14551,14551
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_Blaster.sw.vtx,9899,9899
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/banzai_bill_blaster.vvd,37504,37504
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_explode.dx80.vtx,25611,25611
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_explode.dx90.vtx,25611,25611
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/banzai_bill_explode.mdl,2152,2152
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_explode.phy,63137,63137
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/Banzai_Bill_explode.sw.vtx,25587,25587
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/banzai_bill_explode.vvd,102720,102720
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/large_cannon.dx80.vtx,4671,4671
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/large_cannon.dx90.vtx,4671,4671
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/large_cannon.mdl,1740,1740
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/large_cannon.phy,14048,14048
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/large_cannon.sw.vtx,4663,4663
+models/PB_Models/marioragdoll/Super Mario/Artillery Enemies/large_cannon.vvd,17088,17088
+models/PB_Models/marioragdoll/Super Mario/Common Enemies/Piranha_Plant_big.dx80.vtx,22483,22483
+models/PB_Models/marioragdoll/Super Mario/Common Enemies/Piranha_Plant_big.dx90.vtx,22483,22483
+models/PB_Models/marioragdoll/Super Mario/Common Enemies/piranha_plant_big.mdl,5392,5392
+models/PB_Models/marioragdoll/Super Mario/Common Enemies/Piranha_Plant_big.phy,25723,25723
+models/PB_Models/marioragdoll/Super Mario/Common Enemies/Piranha_Plant_big.sw.vtx,22411,22411
+models/PB_Models/marioragdoll/Super Mario/Common Enemies/piranha_plant_big.vvd,84672,84672
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo.dx80.vtx,14113,14113
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo.dx90.vtx,14113,14113
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/big_boo.mdl,6648,6648
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo.phy,30757,30757
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo.sw.vtx,14041,14041
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/big_boo.vvd,45888,45888
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo_Shy.dx80.vtx,14169,14169
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo_Shy.dx90.vtx,14169,14169
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/big_boo_shy.mdl,5776,5776
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo_Shy.phy,29122,29122
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/Big_Boo_Shy.sw.vtx,14113,14113
+models/PB_Models/marioragdoll/Super Mario/Ghosthouse Enemies/big_boo_shy.vvd,48192,48192
+models/PB_Models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.dx80.vtx,16950,16950
+models/PB_Models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.dx90.vtx,16950,16950
+models/PB_Models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.mdl,1892,1892
+models/PB_Models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.phy,23393,23393
+models/PB_Models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.sw.vtx,16934,16934
+models/PB_Models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.vvd,53568,53568
+models/PB_Models/marioragdoll/Super Mario Galaxy/chain chomp/chainchomp.xbox.vtx,16950,16950
+models/Super Mario/Banzai_Bill.vmt,105,105
+models/Super Mario/Banzai_Bill.vtf,5696,5696
+models/Super Mario/Banzai_Bill_Blasters.vmt,114,114
+models/Super Mario/Banzai_Bill_Blasters.vtf,11104,11104
+models/Super Mario/Bill_Blaster.vmt,106,106
+models/Super Mario/Bill_Blaster.vtf,1600,1600
+models/Super Mario/Bill_Blaster_top.vmt,110,110
+models/Super Mario/Bill_Blaster_top.vtf,1536,1536
+models/Super Mario/Boo.vmt,97,97
+models/Super Mario/Boo.vtf,2912,2912
+models/Super Mario/Boo_shy2.vmt,102,102
+models/Super Mario/Boo_shy2.vtf,11104,11104
+models/Super Mario/large_cannon.vmt,106,106
+models/Super Mario/large_cannon.vtf,5696,5696
+models/Super Mario/Missile_Banzai_Bill.vmt,113,113
+models/Super Mario/Missile_Banzai_Bill.vtf,5696,5696
+models/Super Mario/Missile_Banzai_Bill_explode.vmt,288,288
+models/Super Mario/Missile_Banzai_Bill_explode.vtf,11184,11184
+models/Super Mario/Piranha_Body.vmt,106,106
+models/Super Mario/Piranha_Body.vtf,11104,11104
+models/Super Mario/Piranha_Stalk.vmt,107,107
+models/Super Mario/Piranha_Stalk.vtf,11104,11104
+sound/64/05 - Super Mario 64 Main Theme.mp3,2247922,2247922
+sound/64/14 - Cave Dungeon.mp3,1939375,1939375
+sound/64/Bob-Omb.wav,294956,294956
+sound/64/Box Break.wav,208940,208940
+sound/64/chomp.mp3,8403,8403
+sound/64/countdown - mario.mp3,69007,69007
+sound/64/countdown.wav,708168,708168
+sound/64/door-open.WAV,14778,14778
+sound/64/four_music.mp3,413792,413792
+sound/64/I Won!.wav,33978,33978
+sound/64/Luigi.wav,418606,418606
+sound/64/Luigi_numberone.wav,882044,882044
+sound/64/mario - foour!.wav,239660,239660
+sound/64/Minigame Music.mp3,1074599,1074599
+sound/64/Mushroom.wav,39980,39980
+sound/64/Race Fanfare.mp3,50199,50199
+sound/64/right.wav,105444,105444
+sound/64/secret.wav,566828,566828
+sound/64/Thwomp.mp3,23431,23431
+sound/64/vinesprout.wav,94252,94252
+sound/64/warppipe.mp3,15508,15508
+sound/64/Wrong.wav,53868,53868
+sound/64/Yeees!.wav,24080,24080

@@ -1,0 +1,317 @@
+filename,size,compressed
+materials/maps/hb_depths/nature/blendrocksand008c_wvt_patch.vmt,391,391
+materials/maps/hb_depths/de_nuke/nukblenddirtgrass_wvt_patch.vmt,303,303
+materials/maps/hb_depths/biql/royale/rocksandblend_wvt_patch.vmt,96,96
+materials/maps/hb_depths/de_piranesi/castle02d_0_0_0.vmt,124,124
+materials/maps/hb_depths/de_piranesi/marblefloor06_0_0_0.vmt,128,128
+materials/maps/hb_depths/de_piranesi/castle02c_0_0_0.vmt,124,124
+materials/maps/hb_depths/de_piranesi/marblefloor10_0_0_0.vmt,128,128
+materials/maps/hb_depths/de_piranesi/castle01_0_0_0.vmt,123,123
+materials/maps/hb_depths/de_piranesi/castle01a_0_0_0.vmt,124,124
+materials/maps/hb_depths/alcatote/dark_4x2brick_0_0_0.vmt,125,125
+materials/maps/hb_depths/de_piranesi/castle01e_0_0_0.vmt,124,124
+materials/maps/hb_depths/de_piranesi/castle02b_0_0_0.vmt,124,124
+materials/maps/hb_depths/nature/water_coast01_depth_44.vmt,107,107
+materials/maps/hb_depths/nature/water_coast01_depth_112.vmt,108,108
+materials/maps/hb_depths/liquids/militiawater_depth_40.vmt,107,107
+materials/maps/hb_depths/liquids/militiawater_depth_64.vmt,107,107
+materials/maps/hb_depths/cubemapdefault.vtf,4960,4960
+materials/maps/hb_depths/c0_0_0.vtf,4960,4960
+materials/maps/hb_depths/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/hb_depths/c0_0_0.hdr.vtf,76528,76528
+maps/hb_depths.nav,205,205
+models/props_foliage/forestiera.mdl,1932,1932
+models/props_foliage/forestiera.dx80.vtx,18090,18090
+models/props_foliage/forestiera.dx90.vtx,18090,18090
+models/props_foliage/forestiera.sw.vtx,18090,18090
+models/props_foliage/forestiera.vvd,75072,75072
+materials/models/props_foliage/forestiera_trunk.vmt,484,484
+materials/models/props_foliage/forestiera_trunk.vtf,22008,22008
+materials/models/props_foliage/forestiera.vmt,577,577
+materials/models/props_foliage/forestiera.vtf,349760,349760
+materials/models/props_foliage/forestiera_nm.vtf,349760,349760
+models/props/de_nuke/wall_light.mdl,1464,1464
+models/props/de_nuke/wall_light.dx80.vtx,2745,2745
+models/props/de_nuke/wall_light.dx90.vtx,2745,2745
+models/props/de_nuke/wall_light.phy,706,706
+models/props/de_nuke/wall_light.sw.vtx,2745,2745
+models/props/de_nuke/wall_light.vvd,11584,11584
+materials/models/props/de_nuke/light_wall.vmt,175,175
+materials/models/props/de_nuke/light_wall.vtf,174944,174944
+materials/models/props/de_nuke/light_wall_spec.vtf,22008,22008
+models/foliage/boulder07.mdl,1844,1844
+models/foliage/boulder07.dx90.vtx,1255,1255
+models/foliage/boulder07.phy,2817,2817
+models/foliage/boulder07.vvd,3904,3904
+materials/models/foliage/boulder07_diffuse.vmt,211,211
+materials/models/foliage/boulder07_diffuse.vtf,174984,174984
+models/esther/nature/foliage/bush_002d.mdl,1728,1728
+models/esther/nature/foliage/bush_002d.dx80.vtx,1101,1101
+models/esther/nature/foliage/bush_002d.dx90.vtx,1101,1101
+models/esther/nature/foliage/bush_002d.sw.vtx,1101,1101
+models/esther/nature/foliage/bush_002d.vvd,5184,5184
+materials/esther/nature/foliage/detail_01.vmt,1808,1808
+materials/esther/detail/detail_01.vtf,1398336,1398336
+models/foliage/bush01b.mdl,2016,2016
+models/foliage/bush01b.dx90.vtx,2002,2002
+models/foliage/bush01b.vvd,8576,8576
+materials/models/foliage/leaves01b_green.vmt,1649,1649
+materials/models/foliage/leaves01_green.vtf,349760,349760
+materials/models/foliage/leaves01b_orange.vmt,1650,1650
+materials/models/foliage/leaves01_orange.vtf,349760,349760
+materials/models/foliage/leaves01b_red.vmt,1647,1647
+materials/models/foliage/leaves01_red.vtf,349760,349760
+models/esther/rocks/rock_medium_001.mdl,1912,1912
+models/esther/rocks/rock_medium_001.dx80.vtx,633,633
+models/esther/rocks/rock_medium_001.dx90.vtx,633,633
+models/esther/rocks/rock_medium_001.phy,1507,1507
+models/esther/rocks/rock_medium_001.sw.vtx,633,633
+models/esther/rocks/rock_medium_001.vvd,1728,1728
+materials/models/esther/rocks/rocksheet_001.vmt,263,263
+materials/models/esther/rocks/rocksheet_001.vtf,349688,349688
+materials/esther/detail/rockdetail_01a.vtf,174984,174984
+models/foliage/tree10.mdl,2212,2212
+models/foliage/tree10.dx90.vtx,35072,35072
+models/foliage/tree10.phy,3350,3350
+models/foliage/tree10.vvd,138560,138560
+materials/models/foliage/leaves01_green.vmt,1731,1731
+materials/models/foliage/leaves01_orange.vmt,1652,1652
+materials/models/foliage/leaves01_red.vmt,1649,1649
+materials/models/foliage/tree10_diffuse.vmt,1640,1640
+materials/models/foliage/tree10_diffuse.vtf,349760,349760
+models/nt/props_light/lightpole1.mdl,1628,1628
+models/nt/props_light/lightpole1.dx80.vtx,2847,2847
+models/nt/props_light/lightpole1.dx90.vtx,2847,2847
+models/nt/props_light/lightpole1.phy,2472,2472
+models/nt/props_light/lightpole1.sw.vtx,2847,2847
+models/nt/props_light/lightpole1.xbox.vtx,2847,2847
+models/nt/props_light/lightpole1.vvd,14272,14272
+materials/models/props_light/lightpole.vmt,118,118
+materials/models/props_light/lightpole.vtf,349760,349760
+models/props_harvest/lantern.mdl,1924,1924
+models/props_harvest/lantern.dx90.vtx,27039,27039
+models/props_harvest/lantern.phy,892,892
+models/props_harvest/lantern.vvd,103040,103040
+materials/models/props_harvest/lantern_metal.vmt,345,345
+materials/models/props_harvest/lantern_diff.vtf,349760,349760
+materials/models/props_harvest/lantern_glass.vmt,387,387
+models/esther/trees/tree_01a.mdl,1916,1916
+models/esther/trees/tree_01a.dx80.vtx,7830,7830
+models/esther/trees/tree_01a.dx90.vtx,7830,7830
+models/esther/trees/tree_01a.phy,7310,7310
+models/esther/trees/tree_01a.sw.vtx,7830,7830
+models/esther/trees/tree_01a.vvd,32832,32832
+materials/esther/nature/trees/bark_01.vmt,112,112
+materials/esther/nature/trees/bark_01.vtf,174904,174904
+materials/esther/nature/trees/branch_01.vmt,143,143
+materials/esther/nature/trees/branch_01.vtf,349760,349760
+models/bletz/candle02.mdl,1892,1892
+models/bletz/candle02.dx90.vtx,8605,8605
+models/bletz/candle02.vvd,31296,31296
+materials/bletz/candle01.vmt,65,65
+materials/bletz/candle01_uv.vtf,262368,262368
+models/esther/trees/dead_001.mdl,1916,1916
+models/esther/trees/dead_001.dx80.vtx,7998,7998
+models/esther/trees/dead_001.dx90.vtx,7998,7998
+models/esther/trees/dead_001.phy,4092,4092
+models/esther/trees/dead_001.sw.vtx,7998,7998
+models/esther/trees/dead_001.vvd,35136,35136
+materials/models/esther/trees/bark_001.vmt,113,113
+materials/models/esther/trees/bark_001.vtf,43832,43832
+materials/models/esther/trees/branch_001.vmt,137,137
+materials/models/esther/trees/branch_001.vtf,349760,349760
+models/static_props/wooden_barrel_01.mdl,1732,1732
+models/static_props/wooden_barrel_01.dx90.vtx,13542,13542
+models/static_props/wooden_barrel_01.phy,1476,1476
+models/static_props/wooden_barrel_01.vvd,33024,33024
+materials/models/static_props/wooden_barrel_01.vmt,487,487
+materials/models/static_props/wooden_barrel_01.vtf,174984,174984
+models/esther/landmarks/caves/melted_stag_floor_med_001c.mdl,1744,1744
+models/esther/landmarks/caves/melted_stag_floor_med_001c.dx80.vtx,1068,1068
+models/esther/landmarks/caves/melted_stag_floor_med_001c.dx90.vtx,1068,1068
+models/esther/landmarks/caves/melted_stag_floor_med_001c.phy,1900,1900
+models/esther/landmarks/caves/melted_stag_floor_med_001c.sw.vtx,1068,1068
+models/esther/landmarks/caves/melted_stag_floor_med_001c.vvd,3456,3456
+materials/models/esther/caves/stag_001.vmt,218,218
+materials/models/esther/caves/stag_001.vtf,174984,174984
+models/nauz/wooden_footbridge_long.mdl,1636,1636
+models/nauz/wooden_footbridge_long.dx80.vtx,11652,11652
+models/nauz/wooden_footbridge_long.dx90.vtx,11652,11652
+models/nauz/wooden_footbridge_long.phy,22361,22361
+models/nauz/wooden_footbridge_long.sw.vtx,11652,11652
+models/nauz/wooden_footbridge_long.vvd,50880,50880
+materials/models/nauz/wood02.vmt,146,146
+materials/models/nauz/wood02.vtf,174968,174968
+materials/models/nauz/wood01.vmt,146,146
+materials/models/nauz/wood01.vtf,174968,174968
+models/foliage/boulder8.mdl,1844,1844
+models/foliage/boulder8.dx90.vtx,1186,1186
+models/foliage/boulder8.phy,2575,2575
+models/foliage/boulder8.vvd,3840,3840
+materials/models/foliage/boulder08_diffuse.vmt,211,211
+materials/models/foliage/boulder08_diffuse.vtf,174984,174984
+models/foliage/boulder09.mdl,1844,1844
+models/foliage/boulder09.dx90.vtx,1210,1210
+models/foliage/boulder09.phy,2336,2336
+models/foliage/boulder09.vvd,3840,3840
+materials/models/foliage/boulder09_diffuse.vmt,211,211
+materials/models/foliage/boulder09_diffuse.vtf,174984,174984
+models/foliage/bush01c.mdl,2016,2016
+models/foliage/bush01c.dx90.vtx,2002,2002
+models/foliage/bush01c.vvd,8576,8576
+models/bletz/candle01.mdl,1892,1892
+models/bletz/candle01.dx90.vtx,8263,8263
+models/bletz/candle01.vvd,28864,28864
+models/esther/nature/foliage/bush_005d.mdl,1728,1728
+models/esther/nature/foliage/bush_005d.dx80.vtx,1101,1101
+models/esther/nature/foliage/bush_005d.dx90.vtx,1101,1101
+models/esther/nature/foliage/bush_005d.sw.vtx,1101,1101
+models/esther/nature/foliage/bush_005d.vvd,5184,5184
+materials/models/esther/donnely/detail_01.vmt,1818,1818
+models/static_nature/small_rocks_03.mdl,1764,1764
+models/static_nature/small_rocks_03.dx90.vtx,11071,11071
+models/static_nature/small_rocks_03.phy,7754,7754
+models/static_nature/small_rocks_03.vvd,43968,43968
+materials/models/static_nature/small_rocks.vmt,515,515
+materials/models/static_nature/small_rocks.vtf,174984,174984
+materials/models/static_nature/small_rocks_normal.vtf,699272,699272
+materials/detail/ir_concrete04_detail.vtf,43912,43912
+models/foliage/ch_tree_trunks_01.mdl,1724,1724
+models/foliage/ch_tree_trunks_01.dx90.vtx,6204,6204
+models/foliage/ch_tree_trunks_01.phy,13749,13749
+models/foliage/ch_tree_trunks_01.vvd,22528,22528
+materials/models/foliage/ch_tree_bark_01.vmt,76,76
+materials/models/foliage/ch_tree_bark_01.vtf,87544,87544
+models/esther/boats/boat_001.mdl,1708,1708
+models/esther/boats/boat_001.dx80.vtx,20553,20553
+models/esther/boats/boat_001.dx90.vtx,20553,20553
+models/esther/boats/boat_001.phy,5435,5435
+models/esther/boats/boat_001.sw.vtx,20553,20553
+models/esther/boats/boat_001.vvd,115392,115392
+materials/esther/wood/boat_001.vmt,99,99
+materials/esther/wood/boat_001.vtf,174984,174984
+models/static_props/so_boat_01.mdl,1920,1920
+models/static_props/so_boat_01.dx90.vtx,4119,4119
+models/static_props/so_boat_01.phy,2815,2815
+models/static_props/so_boat_01.vvd,17088,17088
+materials/models/static_props/so_boat_01a_diffuse.vmt,513,513
+materials/models/static_props/so_boat_01a_diffuse.vtf,174984,174984
+materials/tools/toolsnodraw.vmt,270,270
+materials/tools/toolsnodraw.vtf,2936,2936
+materials/glass/glasswindow005a.vmt,236,236
+materials/tools/toolsskybox.vmt,325,325
+materials/tools/toolsskybox.vtf,11128,11128
+materials/devneons/white_neon.vmt,104,104
+materials/devneons/white_neon.vtf,43912,43912
+materials/real_dev/dev_neon4.vmt,73,73
+materials/real_dev/dev_neon4.vtf,699272,699272
+materials/genetica/building/fortress - wall (fl 2+).vmt,91,91
+materials/genetica/building/fortress - wall (fl 2+).vtf,349776,349776
+materials/alcatote/brick_g.vmt,100,100
+materials/alcatote/brick_g_d.vtf,174984,174984
+materials/alcatote/brick_g_n.vtf,174984,174984
+materials/alcatote/dark_4x2brick.vmt,639,639
+materials/alcatote/dark_4x2brick.vtf,699272,699272
+materials/alcatote/dark_4x2brick_n.vtf,699272,699272
+materials/watersource/river/river_teal_2.vmt,390,390
+materials/watersource/river/river.vtf,699272,699272
+materials/genetica/brick and block/weathered stone wall.vmt,95,95
+materials/genetica/brick and block/weathered stone wall.vtf,349776,349776
+materials/genetica/wood/dark alternating blocks.vmt,87,87
+materials/genetica/wood/dark alternating blocks.vtf,349776,349776
+materials/tools/toolsblack.vmt,182,182
+materials/tools/toolsblack.vtf,2936,2936
+materials/genetica/medieval/shack door.vmt,78,78
+materials/genetica/medieval/shack door.vtf,349776,349776
+materials/genetica/terrain/gray stone road.vmt,82,82
+materials/genetica/terrain/gray stone road.vtf,349776,349776
+materials/watersource/waterfall/waterfallsoft_1024_clear.vmt,264,264
+materials/watersource/waterfall/waterfallsoft_1024_clear.vtf,1048784,1048784
+materials/genetica/building/cottage 1 (night) - wall (fl 1).vmt,99,99
+materials/genetica/building/cottage 1 (night) - wall (fl 1).vtf,349776,349776
+materials/genetica/building/cottage 1 (night) - window (fl 2+).vmt,134,134
+materials/genetica/building/cottage 1 (night) - window (fl 2+).vtf,349760,349760
+materials/genetica/building/cottage 1 (night) - wall (fl 2+).vmt,100,100
+materials/genetica/building/cottage 1 (night) - wall (fl 2+).vtf,349776,349776
+materials/genetica/building/cottage 1 (night) - door 2 (fl 1).vmt,133,133
+materials/genetica/building/cottage 1 (night) - door 2 (fl 1).vtf,349760,349760
+materials/genetica/wood/old weathered boards.vmt,84,84
+materials/genetica/wood/old weathered boards.vtf,349776,349776
+materials/genetica/building/cottage 1 (night) - door (fl 1).vmt,99,99
+materials/genetica/building/cottage 1 (night) - door (fl 1).vtf,349776,349776
+materials/genetica/building/cathedral 1 (night) - roof.vmt,94,94
+materials/genetica/building/cathedral 1 (night) - roof.vtf,349776,349776
+materials/genetica/cloth and upholstery/rippled tablecloth.vmt,98,98
+materials/genetica/cloth and upholstery/rippled tablecloth.vtf,349776,349776
+materials/genetica/cloth and upholstery/paper towel.vmt,91,91
+materials/genetica/cloth and upholstery/paper towel.vtf,349776,349776
+materials/genetica/stone/vesuvius gray.vmt,78,78
+materials/genetica/stone/vesuvius gray.vtf,349776,349776
+materials/biql/royale/rocksandblend.vmt,223,223
+materials/biql/royale/rocktexte.vtf,699272,699272
+materials/esther/nature/sand/sand_wet_002.vtf,1398336,1398336
+materials/biql/mog_wall_blend_01.vtf,174984,174984
+materials/genetica/terrain/mud flats.vmt,76,76
+materials/genetica/terrain/mud flats.vtf,349776,349776
+materials/nature/cliffface001a.vmt,215,215
+materials/nature/cliffface001a.vtf,699256,699256
+materials/genetica/building/straw roof.vmt,78,78
+materials/genetica/building/straw roof.vtf,349776,349776
+materials/depths/depthspicture.vmt,68,68
+materials/depths/depthspicture.vtf,1398264,1398264
+materials/genetica/medieval/manor door back.vmt,83,83
+materials/genetica/medieval/manor door back.vtf,349776,349776
+materials/genetica/cloth and upholstery/green stripe.vmt,92,92
+materials/genetica/cloth and upholstery/green stripe.vtf,349776,349776
+materials/tools/toolstrigger.vmt,388,388
+materials/tools/toolstrigger.vtf,5680,5680
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/genetica/building/straw roof interior.vmt,87,87
+materials/genetica/building/straw roof interior.vtf,349776,349776
+materials/genetica/box and crate/wood crate.vmt,83,83
+materials/genetica/box and crate/wood crate.vtf,349776,349776
+materials/genetica/architecture/stained glass rose glowing.vmt,130,130
+materials/genetica/architecture/stained glass rose glowing.vtf,349760,349760
+materials/genetica/building/cottage 2 (night) - door (fl 1).vmt,131,131
+materials/genetica/building/cottage 2 (night) - door (fl 1).vtf,349760,349760
+materials/genetica/building/cottage 2 (night) - wall (fl 1).vmt,99,99
+materials/genetica/building/cottage 2 (night) - wall (fl 1).vtf,349776,349776
+materials/biql/royale/rocktexte2.vmt,109,109
+materials/biql/royale/rocktexte2.vtf,524496,524496
+materials/biql/royale/rocktexte2norm.vtf,524496,524496
+materials/genetica/building/cottage 2 (night) - window (fl 2+).vmt,134,134
+materials/genetica/building/cottage 2 (night) - window (fl 2+).vtf,349760,349760
+materials/genetica/wood/dark herringbone.vmt,80,80
+materials/genetica/wood/dark herringbone.vtf,349776,349776
+materials/genetica/wood/dark mahogany.vmt,77,77
+materials/genetica/wood/dark mahogany.vtf,349776,349776
+materials/biql/royale/treering.vmt,68,68
+materials/biql/royale/treering.vtf,32976,32976
+materials/genetica/metal/scratched shiny.vmt,80,80
+materials/genetica/metal/scratched shiny.vtf,349776,349776
+materials/skar/rainbowscroll.vmt,231,231
+materials/skar/rainbow.vtf,174984,174984
+materials/depths/luca.vmt,95,95
+materials/depths/luca.vtf,349760,349760
+materials/depths/yuely.vmt,96,96
+materials/depths/yuely.vtf,349760,349760
+materials/depths/depthsend.vmt,64,64
+materials/depths/depthsend.vtf,349760,349760
+materials/de_tuscan/tuscan_crete2a.vmt,122,122
+materials/de_tuscan/tuscan_crete2a.vtf,174984,174984
+materials/skybox/grimmnightbk.vmt,115,115
+materials/skybox/grimmnightbk.vtf,699272,699272
+materials/skybox/grimmnightdn.vmt,115,115
+materials/skybox/grimmnightdn.vtf,699272,699272
+materials/skybox/grimmnightft.vmt,115,115
+materials/skybox/grimmnightft.vtf,699272,699272
+materials/skybox/grimmnightlf.vmt,115,115
+materials/skybox/grimmnightlf.vtf,699272,699272
+materials/skybox/grimmnightrt.vmt,115,115
+materials/skybox/grimmnightrt.vtf,699272,699272
+materials/skybox/grimmnightup.vmt,115,115
+materials/skybox/grimmnightup.vtf,699272,699272
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,349760,349760
+materials/sprites/biql/royale/candle/candleflame_anim.vmt,358,358
+materials/sprites/biql/royale/candle/candleflame_anim.vtf,35008,35008

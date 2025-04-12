@@ -1,0 +1,16 @@
+filename,size,compressed
+materials/maps/de_callisto_arena/tile/tilefloor020a_cheap_1595_-372_386.vmt,143,143
+materials/maps/de_callisto_arena/tile/tilefloor021a_1595_-372_386.vmt,137,137
+materials/maps/de_callisto_arena/concrete/milflr001_1595_-372_386.vmt,137,137
+materials/maps/de_callisto_arena/concrete/concretefloor005a_1595_-372_386.vmt,145,145
+materials/maps/de_callisto_arena/building_template/building_template006a_1595_-372_386.vmt,158,158
+materials/maps/de_callisto_arena/metal/metalwall048a_1595_-372_386.vmt,138,138
+materials/maps/de_callisto_arena/building_template/building_template006b_1595_-372_386.vmt,158,158
+materials/maps/de_callisto_arena/cubemapdefault.vtf,4960,4960
+materials/maps/de_callisto_arena/c1595_-372_386.vtf,4960,4960
+materials/maps/de_callisto_arena/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_callisto_arena/c1595_-372_386.hdr.vtf,76528,76528
+maps/de_callisto_arena.nav,49327,49327
+resource/overviews/de_callisto_arena.txt,131,131
+materials/overviews/de_callisto_arena.vmt,129,129
+materials/overviews/de_callisto_arena.vtf,1398336,1398336
