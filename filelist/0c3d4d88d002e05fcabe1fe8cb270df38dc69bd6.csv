@@ -1,0 +1,257 @@
+filename,size,compressed
+maps/mg_siberdev_2_fix.nav,6139,1248
+materials/cable/cablenormalmap.vtf,168,118
+materials/cable/rope.vmt,159,120
+materials/cable/rope.vtf,1512,994
+materials/colour/neon/green_neon.vmt,107,102
+materials/colour/neon/green_neon.vtf,43912,137
+materials/colour/neon/purple_neon.vmt,108,102
+materials/colour/neon/purple_neon.vtf,43912,146
+materials/colour/water/water_blue01.vmt,1460,523
+materials/cs_havana/white.vmt,57,69
+materials/cs_havana/white.vtf,888,69
+materials/cs_italy/black.vmt,62,73
+materials/cs_italy/black.vtf,1584,90
+materials/detail/detailsprites.vmt,185,134
+materials/detail/detailsprites.vtf,1398336,658418
+materials/dev/water.vtf,2535024,636833
+materials/dev/water_dudv.vtf,5068290,1384757
+materials/dev/water_normal.vtf,10136388,1621334
+materials/image schooufi/level1.vmt,88,93
+materials/image schooufi/level1.vtf,2796384,36735
+materials/image schooufi/level2.vmt,88,93
+materials/image schooufi/level2.vtf,2796384,41243
+materials/image schooufi/level3.vmt,88,93
+materials/image schooufi/level3.vtf,2796384,40827
+materials/image schooufi/level5.vmt,88,93
+materials/image schooufi/level5.vtf,2796384,32257
+materials/image schooufi/level6.vmt,88,93
+materials/image schooufi/level6.vtf,2796384,37401
+materials/maps/mg_siberdev_2_fix/c3168_-64_136.hdr.vtf,76528,127
+materials/maps/mg_siberdev_2_fix/c3168_-64_136.vtf,9832,104
+materials/maps/mg_siberdev_2_fix/colour/water/water_blue01_3168_-64_136.vmt,270,171
+materials/maps/mg_siberdev_2_fix/cubemapdefault.hdr.vtf,76528,127
+materials/maps/mg_siberdev_2_fix/cubemapdefault.vtf,9832,104
+materials/maps/mg_siberdev_2_fix/maps/mg_siberdev_2_fix/colour/water/water_blue01_3168_-64_136_depth_32.vmt,148,135
+materials/maps/mg_siberdev_2_fix/maps/mg_siberdev_2_fix/colour/water/water_blue01_3168_-64_136_depth_48.vmt,148,135
+materials/maps/mg_siberdev_2_fix/maps/mg_siberdev_2_fix/colour/water/water_blue01_3168_-64_136_depth_80.vmt,148,135
+materials/maps/mg_siberdev_2_fix/watersource/river/river_flat_01_3168_-64_136.vmt,172,156
+materials/maps/mg_siberdev_2_fix/watersource/river/river_flat_05_3168_-64_136.vmt,172,156
+materials/nature/water_dx70_beneath.vmt,1250,581
+materials/neon/blue.vmt,94,92
+materials/neon/blue.vtf,174968,146
+materials/ryan_dev/dev_cmyk_blue.vmt,70,80
+materials/ryan_dev/dev_cmyk_blue.vtf,11144,473
+materials/ryan_dev/dev_cmyk_magenta.vmt,73,82
+materials/ryan_dev/dev_cmyk_magenta.vtf,11144,416
+materials/ryan_dev/dev_cmyk_yellow.vmt,72,81
+materials/ryan_dev/dev_cmyk_yellow.vtf,11144,455
+materials/ryan_dev/dev_pastel_blue1.vmt,73,82
+materials/ryan_dev/dev_pastel_blue1.vtf,11144,504
+materials/ryan_dev/dev_pastel_blue2.vmt,73,82
+materials/ryan_dev/dev_pastel_blue2.vtf,11144,503
+materials/ryan_dev/dev_pastel_blue2_crate32.vmt,81,89
+materials/ryan_dev/dev_pastel_blue2_crate32.vtf,11144,1001
+materials/ryan_dev/dev_pastel_cyan1.vmt,73,81
+materials/ryan_dev/dev_pastel_cyan1.vtf,11144,512
+materials/ryan_dev/dev_pastel_cyan2.vmt,73,81
+materials/ryan_dev/dev_pastel_cyan2.vtf,11144,496
+materials/ryan_dev/dev_pastel_cyan2_crate64.vmt,81,88
+materials/ryan_dev/dev_pastel_cyan2_crate64.vtf,43912,1051
+materials/ryan_dev/dev_pastel_green3.vmt,74,83
+materials/ryan_dev/dev_pastel_green3.vtf,11144,513
+materials/ryan_dev/dev_pastel_magenta1.vmt,76,84
+materials/ryan_dev/dev_pastel_magenta1.vtf,11144,503
+materials/ryan_dev/dev_pastel_magenta2.vmt,76,84
+materials/ryan_dev/dev_pastel_magenta2.vtf,11144,472
+materials/ryan_dev/dev_pastel_red1.vmt,72,81
+materials/ryan_dev/dev_pastel_red1.vtf,11144,456
+materials/ryan_dev/dev_pastel_violet1.vmt,75,84
+materials/ryan_dev/dev_pastel_violet1.vtf,11144,476
+materials/ryan_dev/dev_pastel_yellow1.vmt,75,84
+materials/ryan_dev/dev_pastel_yellow1.vtf,11144,413
+materials/ryan_dev/pastel_blue1.vmt,69,79
+materials/ryan_dev/pastel_blue1.vtf,11144,126
+materials/ryan_dev/pastel_blue2.vmt,69,79
+materials/ryan_dev/pastel_blue2.vtf,11144,125
+materials/ryan_dev/pastel_cyan1.vmt,69,79
+materials/ryan_dev/pastel_cyan1.vtf,11144,130
+materials/ryan_dev/pastel_cyan2.vmt,69,79
+materials/ryan_dev/pastel_cyan2.vtf,11144,119
+materials/ryan_dev/pastel_green3.vmt,70,80
+materials/ryan_dev/pastel_green3.vtf,11144,129
+materials/ryan_dev/pastel_magenta1.vmt,72,82
+materials/ryan_dev/pastel_magenta1.vtf,11144,119
+materials/ryan_dev/pastel_magenta2.vmt,72,82
+materials/ryan_dev/pastel_magenta2.vtf,11144,117
+materials/ryan_dev/pastel_magenta3.vmt,72,82
+materials/ryan_dev/pastel_magenta3.vtf,11144,119
+materials/ryan_dev/pastel_red1.vmt,68,78
+materials/ryan_dev/pastel_red1.vtf,11144,111
+materials/ryan_dev/pastel_red2.vmt,68,78
+materials/ryan_dev/pastel_red2.vtf,11144,110
+materials/ryan_dev/pastel_yellow1.vmt,71,81
+materials/ryan_dev/pastel_yellow1.vtf,11144,105
+materials/schooufi texture/cube jaune 1.vmt,96,98
+materials/schooufi texture/cube jaune 1.vtf,2796384,53215
+materials/schooufi texture/cube jaune 2.vmt,96,98
+materials/schooufi texture/cube jaune 2.vtf,2796384,60607
+materials/schooufi texture/fin 2.vmt,89,92
+materials/schooufi texture/fin 2.vtf,2796384,26012
+materials/schooufi texture/fin 3.vmt,89,92
+materials/schooufi texture/fin 3.vtf,2796384,27545
+materials/schooufi texture/fin1.vmt,88,91
+materials/schooufi texture/fin1.vtf,2796384,26785
+materials/schooufi texture/level 11.vmt,92,95
+materials/schooufi texture/level 11.vtf,2796384,33951
+materials/schooufi texture/level10.vmt,91,94
+materials/schooufi texture/level10.vtf,2796384,41672
+materials/schooufi texture/level4.vmt,90,93
+materials/schooufi texture/level4.vtf,2796384,39787
+materials/schooufi texture/level7.vmt,90,93
+materials/schooufi texture/level7.vtf,2796384,39770
+materials/schooufi texture/level8.vmt,90,93
+materials/schooufi texture/level8.vtf,2796384,37224
+materials/schooufi texture/level9.vmt,90,93
+materials/schooufi texture/level9.vtf,2796384,35071
+materials/schooufi texture/suite.vmt,89,92
+materials/schooufi texture/suite.vtf,2796384,31360
+materials/sprites/purplelaser1.vmt,127,106
+materials/sprites/purplelaser1.vtf,2896,984
+materials/sprites/trails/mat_atom.vmt,141,119
+materials/sprites/trails/mat_atom.vtf,22080,7188
+materials/sprites/trails/mat_panda_1.vmt,144,122
+materials/sprites/trails/mat_panda_1.vtf,22080,7746
+materials/sprites/trails/mat_question.vmt,145,122
+materials/sprites/trails/mat_question.vtf,22080,4217
+materials/sprites/trails/mat_retroegg.vmt,145,122
+materials/sprites/trails/mat_retroegg.vtf,22080,6432
+materials/water/water_blue01_beneath.vmt,1157,509
+materials/water/water_blue01_dx70.vmt,1638,763
+materials/watersource/river/river_flat_01.vmt,387,225
+materials/watersource/river/river_flat_01.vtf,1398336,744985
+materials/watersource/river/river_flat_05.vmt,387,226
+materials/watersource/river/river_flat_05.vtf,1398336,751192
+materials/watersource/river/river_flat_nrm.vtf,699272,336150
+materials/watersource/waterfall/waterfallfull_1024_nrm_clear.vmt,376,225
+materials/watersource/waterfall/waterfallfull_1024_nrm_clear.vtf,524496,211312
+sound/bip bouton bleu.mp3,75443,71350
+sound/bip bouton rose  fini.mp3,57889,56387
+sound/bulle1.mp3,566124,530649
+sound/by_schooufi.mp3,43048,41826
+sound/david guetta - just one last time ft. taped rai.mp3,4093649,3983534
+sound/proximusique1.mp3,3540012,3494411
+sound/secret son.wav,222544,159827
+sound/siberia.mp3,4491288,4357767
+sp_0.vhv,2048,405
+sp_1.vhv,2048,398
+sp_10.vhv,2048,510
+sp_11.vhv,2048,554
+sp_12.vhv,2048,541
+sp_13.vhv,2048,514
+sp_14.vhv,2048,525
+sp_15.vhv,2048,492
+sp_16.vhv,2048,509
+sp_17.vhv,2048,540
+sp_18.vhv,2048,568
+sp_19.vhv,2048,510
+sp_2.vhv,2048,572
+sp_20.vhv,2048,504
+sp_21.vhv,2048,411
+sp_22.vhv,2048,559
+sp_23.vhv,2048,549
+sp_24.vhv,2048,356
+sp_25.vhv,2048,577
+sp_26.vhv,2048,572
+sp_27.vhv,2048,567
+sp_28.vhv,2048,548
+sp_29.vhv,2048,539
+sp_3.vhv,2048,563
+sp_30.vhv,2048,552
+sp_31.vhv,2048,542
+sp_32.vhv,2048,485
+sp_33.vhv,2048,497
+sp_34.vhv,2048,572
+sp_35.vhv,2048,597
+sp_36.vhv,2048,583
+sp_37.vhv,2048,495
+sp_38.vhv,2048,562
+sp_39.vhv,2048,583
+sp_4.vhv,2048,562
+sp_40.vhv,2048,566
+sp_41.vhv,2048,534
+sp_42.vhv,2048,357
+sp_43.vhv,2048,605
+sp_44.vhv,2048,567
+sp_45.vhv,2048,589
+sp_46.vhv,2048,559
+sp_47.vhv,2048,591
+sp_48.vhv,2048,606
+sp_49.vhv,2048,552
+sp_5.vhv,2048,546
+sp_50.vhv,2048,582
+sp_51.vhv,2048,478
+sp_52.vhv,2048,539
+sp_53.vhv,2048,496
+sp_54.vhv,2048,581
+sp_55.vhv,2048,502
+sp_6.vhv,2048,526
+sp_7.vhv,2048,473
+sp_8.vhv,2048,487
+sp_9.vhv,2048,501
+sp_hdr_0.vhv,2048,405
+sp_hdr_1.vhv,2048,402
+sp_hdr_10.vhv,2048,510
+sp_hdr_11.vhv,2048,554
+sp_hdr_12.vhv,2048,541
+sp_hdr_13.vhv,2048,514
+sp_hdr_14.vhv,2048,524
+sp_hdr_15.vhv,2048,492
+sp_hdr_16.vhv,2048,509
+sp_hdr_17.vhv,2048,540
+sp_hdr_18.vhv,2048,568
+sp_hdr_19.vhv,2048,510
+sp_hdr_2.vhv,2048,572
+sp_hdr_20.vhv,2048,504
+sp_hdr_21.vhv,2048,411
+sp_hdr_22.vhv,2048,559
+sp_hdr_23.vhv,2048,549
+sp_hdr_24.vhv,2048,356
+sp_hdr_25.vhv,2048,577
+sp_hdr_26.vhv,2048,572
+sp_hdr_27.vhv,2048,567
+sp_hdr_28.vhv,2048,548
+sp_hdr_29.vhv,2048,539
+sp_hdr_3.vhv,2048,563
+sp_hdr_30.vhv,2048,552
+sp_hdr_31.vhv,2048,542
+sp_hdr_32.vhv,2048,485
+sp_hdr_33.vhv,2048,497
+sp_hdr_34.vhv,2048,572
+sp_hdr_35.vhv,2048,597
+sp_hdr_36.vhv,2048,595
+sp_hdr_37.vhv,2048,495
+sp_hdr_38.vhv,2048,560
+sp_hdr_39.vhv,2048,583
+sp_hdr_4.vhv,2048,562
+sp_hdr_40.vhv,2048,566
+sp_hdr_41.vhv,2048,537
+sp_hdr_42.vhv,2048,357
+sp_hdr_43.vhv,2048,606
+sp_hdr_44.vhv,2048,568
+sp_hdr_45.vhv,2048,585
+sp_hdr_46.vhv,2048,554
+sp_hdr_47.vhv,2048,591
+sp_hdr_48.vhv,2048,609
+sp_hdr_49.vhv,2048,552
+sp_hdr_5.vhv,2048,547
+sp_hdr_50.vhv,2048,582
+sp_hdr_51.vhv,2048,479
+sp_hdr_52.vhv,2048,539
+sp_hdr_53.vhv,2048,494
+sp_hdr_54.vhv,2048,568
+sp_hdr_55.vhv,2048,502
+sp_hdr_6.vhv,2048,526
+sp_hdr_7.vhv,2048,473
+sp_hdr_8.vhv,2048,487
+sp_hdr_9.vhv,2048,501
