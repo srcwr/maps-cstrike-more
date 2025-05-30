@@ -1,0 +1,195 @@
+filename,size,compressed
+materials/RealWorldTextures/newer/1/Concrete_1_04.vmt,115,115
+materials/RealWorldTextures/newer/1/Concrete_1_04.vtf,174984,174984
+materials/Silkroad/Egypt/ground (11).vmt,70,70
+materials/Silkroad/Egypt/ground (11).vtf,87616,87616
+materials/Silkroad/Egypt/ground (16).vmt,70,70
+materials/Silkroad/Egypt/ground (16).vtf,87616,87616
+materials/Silkroad/Egypt/roof (4).vmt,67,67
+materials/Silkroad/Egypt/roof (4).vtf,87616,87616
+materials/Silkroad/Egypt/wall (2).vmt,67,67
+materials/Silkroad/Egypt/wall (2).vtf,349760,349760
+materials/Silkroad/Egypt/wall (29).vmt,68,68
+materials/Silkroad/Egypt/wall (29).vtf,87616,87616
+materials/Silkroad/Egypt/wall (42).vmt,68,68
+materials/Silkroad/Egypt/wall (42).vtf,87616,87616
+materials/Silkroad/Egypt/wall (49).vmt,68,68
+materials/Silkroad/Egypt/wall (49).vtf,87616,87616
+materials/Silkroad/Egypt/wall (56).vmt,68,68
+materials/Silkroad/Egypt/wall (56).vtf,174944,174944
+materials/Silkroad/Egypt/wall (58).vmt,68,68
+materials/Silkroad/Egypt/wall (58).vtf,87616,87616
+materials/Silkroad/Egypt/wall (77).vmt,68,68
+materials/Silkroad/Egypt/wall (77).vtf,87616,87616
+materials/Silkroad/Egypt/wall (78).vmt,68,68
+materials/Silkroad/Egypt/wall (78).vtf,349760,349760
+materials/Silkroad/Egypt/wall (86).vmt,68,68
+materials/Silkroad/Egypt/wall (86).vtf,349760,349760
+materials/Silkroad/FGWorld/ceiling3.vmt,89,89
+materials/Silkroad/FGWorld/ceiling3.vtf,349760,349760
+materials/Silkroad/Ground/bagh_city_tile_low01.vmt,100,100
+materials/Silkroad/Ground/bagh_city_tile_low01.vtf,349760,349760
+materials/concrete/concretewall011b.vmt,202,202
+materials/concrete/concretewall011b.vtf,174968,174968
+materials/concrete/concretewall016a.vmt,167,167
+materials/concrete/concretewall016a.vtf,174968,174968
+materials/concrete/concretewall042a.vmt,131,131
+materials/concrete/concretewall042a.vtf,174968,174968
+materials/concrete/concretewall060a.vmt,169,169
+materials/concrete/concretewall060a.vtf,174968,174968
+materials/decals/decalsigncaution001a.vmt,211,211
+materials/decals/decalsigncaution001a.vtf,22064,22064
+materials/decals/fallout/fallout_decal11.vmt,115,115
+materials/decals/fallout/fallout_decal11.vtf,87616,87616
+materials/detail/detailconcrete001a.vtf,174968,174968
+materials/detail/detailsprites.vmt,133,133
+materials/detail/detailsprites.vtf,349744,349744
+materials/love/blue_glass2_25.vmt,149,149
+materials/love/blue_glass2_25.vtf,22080,22080
+materials/love/blue_glass2_50.vmt,149,149
+materials/love/blue_glass2_50.vtf,22080,22080
+materials/love/blueglow.vmt,68,68
+materials/love/blueglow.vtf,22080,22080
+materials/love/booster1.vmt,91,91
+materials/love/booster1.vtf,349760,349760
+materials/love/gravetext.vmt,108,108
+materials/love/gravetext.vtf,174944,174944
+materials/love/laddertroll.vmt,104,104
+materials/love/laddertroll.vtf,349696,349696
+materials/love/manytwinkconcubines.vmt,112,112
+materials/love/manytwinkconcubines.vtf,174944,174944
+materials/love/pinkglow.vmt,68,68
+materials/love/pinkglow.vtf,22080,22080
+materials/love/pyramid_troll.vmt,112,112
+materials/love/pyramid_troll.vtf,174944,174944
+materials/love/sludge1.vmt,704,704
+materials/love/sludge1.vtf,349760,349760
+materials/love/sludge_nolight.vmt,721,721
+materials/love/stage1.vmt,99,99
+materials/love/stage1.vtf,174944,174944
+materials/love/stage2.vmt,99,99
+materials/love/stage2.vtf,174944,174944
+materials/love/stage3.vmt,99,99
+materials/love/stage3.vtf,174944,174944
+materials/love/stage4.vmt,99,99
+materials/love/stage4.vtf,174960,174960
+materials/love/whiteglow.vmt,69,69
+materials/love/whiteglow.vtf,22080,22080
+materials/love/wireframe1.vmt,96,96
+materials/love/wireframe1.vtf,1398336,1398336
+materials/maps/bhop_manytwinkconcubines/c-1280_4768_-2200.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-1280_4768_-2200.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c-1536_4608_-2584.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-1536_4608_-2584.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c-1792_4288_-2296.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-1792_4288_-2296.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c-1792_5376_-1832.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-1792_5376_-1832.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c-192_1760_-456.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-192_1760_-456.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c-456_1280_-440.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-456_1280_-440.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c-576_1280_56.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-576_1280_56.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c-64_-320_104.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-64_-320_104.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c-64_544_-664.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-64_544_-664.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c-64_64_-16.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c-64_64_-16.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c1056_192_-1912.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c1056_192_-1912.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c1664_192_-1336.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c1664_192_-1336.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c1664_192_-1912.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c1664_192_-1912.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c2688_416_-1344.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c2688_416_-1344.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c2960_5648_760.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c2960_5648_760.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c3328_4112_872.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c3328_4112_872.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c3664_4880_1112.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c3664_4880_1112.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c3904_5504_760.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c3904_5504_760.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c432_1152_-576.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c432_1152_-576.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/c4416_4688_760.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/c4416_4688_760.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_manytwinkconcubines/cubemapdefault.vtf,9832,9832
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-1280_4768_-2200.vmt,147,147
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-1536_4608_-2584.vmt,147,147
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-1792_4288_-2296.vmt,147,147
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-1792_5376_-1832.vmt,147,147
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-192_1760_-456.vmt,145,145
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-456_1280_-440.vmt,145,145
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-576_1280_56.vmt,143,143
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-64_-320_104.vmt,143,143
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-64_544_-664.vmt,143,143
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_-64_64_-16.vmt,141,141
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_1056_192_-1912.vmt,145,145
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_1664_192_-1336.vmt,145,145
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_1664_192_-1912.vmt,145,145
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_2688_416_-1344.vmt,145,145
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_2960_5648_760.vmt,144,144
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_3328_4112_872.vmt,144,144
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_432_1152_-576.vmt,144,144
+materials/maps/bhop_manytwinkconcubines/de_chateau/groundc_4416_4688_760.vmt,144,144
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_-1280_4768_-2200.vmt,148,148
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_-1536_4608_-2584.vmt,148,148
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_-1792_5376_-1832.vmt,148,148
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_-192_1760_-456.vmt,146,146
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_-456_1280_-440.vmt,146,146
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_-64_-320_104.vmt,144,144
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_-64_544_-664.vmt,144,144
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_-64_64_-16.vmt,142,142
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_2960_5648_760.vmt,145,145
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_25_432_1152_-576.vmt,145,145
+materials/maps/bhop_manytwinkconcubines/love/blue_glass2_50_1056_192_-1912.vmt,146,146
+materials/maps/bhop_manytwinkconcubines/maps/bhop_manytwinkconcubines/perftest/water_pretty1_-64_544_-664_depth_16.vmt,152,152
+materials/maps/bhop_manytwinkconcubines/maps/bhop_manytwinkconcubines/perftest/water_pretty1_-64_64_-16_depth_16.vmt,150,150
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_-192_1760_-456.vmt,272,272
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_-64_-320_104.vmt,268,268
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_-64_544_-664.vmt,268,268
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_-64_64_-16.vmt,264,264
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_432_1152_-576.vmt,270,270
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_beneath_-192_1760_-456.vmt,180,180
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_beneath_-64_-320_104.vmt,178,178
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_beneath_-64_544_-664.vmt,178,178
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_beneath_-64_64_-16.vmt,176,176
+materials/maps/bhop_manytwinkconcubines/perftest/water_pretty1_beneath_432_1152_-576.vmt,179,179
+materials/maps/vmfs/bhop_manytwinkconcubines/c-1280_4768_-2200.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c-1536_4608_-2584.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c-1792_4288_-2296.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c-1792_5376_-1832.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c-192_1760_-456.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c-456_1280_-440.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c-576_1280_56.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c-64_-320_104.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c-64_544_-664.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c-64_64_-16.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c1056_192_-1912.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c1664_192_-1336.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c1664_192_-1912.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c2688_416_-1344.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c2960_5648_760.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c3328_4112_872.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c3664_4880_1112.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c3904_5504_760.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c432_1152_-576.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/c4416_4688_760.hdr.vtf,76536,76536
+materials/maps/vmfs/bhop_manytwinkconcubines/cubemapdefault.vtf,9832,9832
+materials/skybox/sky_spire01bk.vmt,122,122
+materials/skybox/sky_spire01bk.vtf,349744,349744
+materials/skybox/sky_spire01dn.vmt,122,122
+materials/skybox/sky_spire01dn.vtf,349744,349744
+materials/skybox/sky_spire01ft.vmt,122,122
+materials/skybox/sky_spire01ft.vtf,349744,349744
+materials/skybox/sky_spire01lf.vmt,122,122
+materials/skybox/sky_spire01lf.vtf,349744,349744
+materials/skybox/sky_spire01rt.vmt,122,122
+materials/skybox/sky_spire01rt.vtf,349744,349744
+materials/skybox/sky_spire01up.vmt,122,122
+materials/skybox/sky_spire01up.vtf,349744,349744
