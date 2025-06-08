@@ -1,0 +1,92 @@
+filename,size,compressed
+materials/custom/end.vmt,58,69
+materials/custom/end.vtf,2796424,57045
+materials/custom/gruber.vmt,61,72
+materials/custom/gruber.vtf,699272,20789
+materials/custom/scrollingtexture1.vmt,352,151
+materials/detail/detailsprites.vmt,185,134
+materials/detail/detailsprites.vtf,1398336,658418
+materials/devneons/grey_neon.vmt,103,98
+materials/devneons/grey_neon.vtf,43912,139
+materials/devneons/red_neon.vmt,102,98
+materials/devneons/red_neon.vtf,43912,136
+materials/devneons/white_neon.vmt,104,100
+materials/devneons/white_neon.vtf,43912,134
+materials/icecreamlock/lightglass.vmt,118,101
+materials/icecreamlock/lightglass.vtf,2952,91
+materials/maps/mg_gruber_course_v2_1_fixed/c-944_0_40.hdr.vtf,28753,620
+materials/maps/mg_gruber_course_v2_1_fixed/c-944_0_40.vtf,28753,113
+materials/maps/mg_gruber_course_v2_1_fixed/cubemapdefault.hdr.vtf,28753,620
+materials/maps/mg_gruber_course_v2_1_fixed/cubemapdefault.vtf,28753,113
+materials/neon/orange.vmt,96,94
+materials/neon/orange.vtf,174968,146
+materials/neon/red.vmt,93,91
+materials/neon/red.vtf,174968,142
+materials/particle/particle_smokegrenade.vmt,210,163
+materials/real_dev/dev_black.vmt,66,76
+materials/real_dev/dev_black.vtf,699272,225
+materials/real_dev/dev_gray1.vmt,66,76
+materials/real_dev/dev_gray1.vtf,699272,222
+materials/real_dev/dev_gray2.vmt,66,76
+materials/real_dev/dev_gray2.vtf,699272,227
+materials/real_dev/dev_gray3.vmt,66,76
+materials/real_dev/dev_gray3.vtf,699272,235
+materials/real_dev/dev_gray4.vmt,66,76
+materials/real_dev/dev_gray4.vtf,699272,236
+materials/real_dev/dev_gray5.vmt,66,76
+materials/real_dev/dev_gray5.vtf,699272,235
+materials/real_dev/dev_gray6.vmt,66,76
+materials/real_dev/dev_gray6.vtf,699272,236
+materials/real_dev/dev_gray7.vmt,66,76
+materials/real_dev/dev_gray7.vtf,699272,236
+materials/real_dev/dev_gray8.vmt,66,76
+materials/real_dev/dev_gray8.vtf,699272,234
+materials/real_dev/dev_green2.vmt,67,77
+materials/real_dev/dev_green2.vtf,699272,234
+materials/real_dev/dev_green4.vmt,67,77
+materials/real_dev/dev_green4.vtf,699272,225
+materials/real_dev/dev_green5.vmt,67,77
+materials/real_dev/dev_green5.vtf,699272,249
+materials/real_dev/dev_green6.vmt,67,77
+materials/real_dev/dev_green6.vtf,699272,229
+materials/real_dev/dev_neon1.vmt,66,76
+materials/real_dev/dev_neon1.vtf,699272,230
+materials/real_dev/dev_orange1.vmt,68,77
+materials/real_dev/dev_orange1.vtf,699272,248
+materials/real_dev/dev_orange3.vmt,68,77
+materials/real_dev/dev_orange3.vtf,699272,247
+materials/real_dev/dev_orange4.vmt,68,77
+materials/real_dev/dev_orange4.vtf,699272,248
+materials/real_dev/dev_orange6.vmt,68,77
+materials/real_dev/dev_orange6.vtf,699272,247
+materials/real_dev/dev_red4.vmt,65,75
+materials/real_dev/dev_red4.vtf,699272,230
+materials/scroll/scroll_door.vtf,174984,697
+materials/skybox/sky35bk.vmt,97,88
+materials/skybox/sky35bk.vtf,699272,293025
+materials/skybox/sky35dn.vmt,97,88
+materials/skybox/sky35dn.vtf,699272,200227
+materials/skybox/sky35ft.vmt,97,88
+materials/skybox/sky35ft.vtf,699272,307990
+materials/skybox/sky35lf.vmt,97,88
+materials/skybox/sky35lf.vtf,699272,310581
+materials/skybox/sky35rt.vmt,97,88
+materials/skybox/sky35rt.vtf,699272,313604
+materials/skybox/sky35up.vmt,97,88
+materials/skybox/sky35up.vtf,699272,275010
+sound/grubermusic/[drumstep] - braken - to the stars.mp3,3239325,3226285
+sound/grubermusic/[electro] - case & point - fugitive [monstercat release].mp3,4162179,4140357
+sound/grubermusic/[electro] - insan3lik3 - the other day [monstercat release].mp3,3847874,3832604
+sound/grubermusic/[electro] - stephen walking & soulero - ampersand.mp3,3842022,3823679
+sound/grubermusic/[electro] - throttle - next big thing [monstercat release].mp3,4162179,4149904
+sound/grubermusic/[electro] nitro fun - cheat codes [monstercat release].mp3,3392716,3375179
+sound/grubermusic/cannon.mp3,32273,31026
+sound/grubermusic/cash cash - kiss the sky.mp3,3609219,3592316
+sound/grubermusic/deadmau5 - professional griefers (instrumental mix) (1080p) __ hd.mp3,4242009,4219489
+sound/grubermusic/fox stevenson - endless.mp3,4162179,4141226
+sound/grubermusic/fox stevenson - simple life _ _all this time _ ep.mp3,3144031,3128732
+sound/grubermusic/fox stevenson - throwdown.mp3,3444961,3422615
+sound/grubermusic/tristam - i remember [monstercat release].mp3,3794375,3774946
+sound/grubermusic/tristam - my friend.mp3,4248697,4214158
+sound/grubermusic/windup1.mp3,404165,380456
+sound/player/vo/seal/scaredemote01.wav,83436,73187
