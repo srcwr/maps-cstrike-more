@@ -1,0 +1,14 @@
+filename,size,compressed
+maps/gg_cabin_b2.txt,136,136
+materials/kirrm/logo_lum2.vmt,132,132
+materials/kirrm/logo_lum2.vtf,262288,262288
+materials/maps/gg_cabin_b2/c0_0_0.hdr.vtf,76528,76528
+materials/maps/gg_cabin_b2/c0_0_0.vtf,9832,9832
+materials/maps/gg_cabin_b2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_cabin_b2/cubemapdefault.vtf,9832,9832
+materials/maps/gg_cabin_b2/metal/metalwall045a_0_0_0.vmt,124,124
+materials/maps/gg_cabin_b2/tile/tileroof004a_0_0_0.vmt,122,122
+materials/wood/woodbeam001.vmt,95,95
+materials/wood/woodbeam001.vtf,174984,174984
+scripts/soundscapes_dsp0.txt,27,27
+scripts/soundscapes_manifest.txt,70,70

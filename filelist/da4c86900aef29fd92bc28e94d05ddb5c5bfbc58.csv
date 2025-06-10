@@ -1,0 +1,13 @@
+filename,size,compressed
+maps/gg_aztec64_gray.txt,113,113
+materials/maps/gg_aztec64_gray/c0_0_0.hdr.vtf,76528,76528
+materials/maps/gg_aztec64_gray/c0_0_0.vtf,9832,9832
+materials/maps/gg_aztec64_gray/concrete/concretewall041c_0_0_0.vmt,134,134
+materials/maps/gg_aztec64_gray/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_aztec64_gray/cubemapdefault.vtf,9832,9832
+materials/overviews/gg_aztec64_gray.vmt,125,125
+materials/overviews/gg_aztec64_gray.vtf,349632,349632
+materials/overviews/gg_aztec64_gray_radar.vmt,125,125
+resource/overviews/gg_aztec64_gray.txt,125,125
+scripts/soundscapes_dsp0.txt,27,27
+scripts/soundscapes_manifest.txt,70,70

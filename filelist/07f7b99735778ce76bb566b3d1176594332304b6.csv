@@ -1,0 +1,17 @@
+filename,size,compressed
+maps/gg_br_jungle_v2.txt,158,158
+materials/maps/gg_br_jungle_v2/c0_0_0.hdr.vtf,76528,76528
+materials/maps/gg_br_jungle_v2/c0_0_0.vtf,9832,9832
+materials/maps/gg_br_jungle_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_br_jungle_v2/cubemapdefault.vtf,9832,9832
+materials/maps/gg_br_jungle_v2/glass/unbreakable_0_0_0.vmt,126,126
+materials/nova/nova_ad6.vmt,114,114
+materials/nova/nova_ad6.vtf,43872,43872
+materials/nova/nova_con3.vmt,100,100
+materials/nova/nova_con3.vtf,699168,699168
+materials/overviews/empty.vmt,115,115
+materials/overviews/empty.vtf,336,336
+materials/overviews/empty_radar.vmt,115,115
+resource/overviews/gg_br_jungle_v2.txt,109,109
+scripts/soundscapes_dsp0.txt,27,27
+scripts/soundscapes_manifest.txt,70,70
