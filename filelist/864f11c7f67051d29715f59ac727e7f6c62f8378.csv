@@ -1,0 +1,33 @@
+filename,size,compressed
+maps/zm_terminator_disco_reloaded.nav,451355,451355
+materials/fares.vmt,53,53
+materials/fares.vtf,174984,174984
+materials/maps/zm_terminator_disco_reloaded/c-49_-388_309.hdr.vtf,76528,76528
+materials/maps/zm_terminator_disco_reloaded/c-49_-388_309.vtf,4960,4960
+materials/maps/zm_terminator_disco_reloaded/c474_-127_273.hdr.vtf,76528,76528
+materials/maps/zm_terminator_disco_reloaded/c474_-127_273.vtf,4960,4960
+materials/maps/zm_terminator_disco_reloaded/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_terminator_disco_reloaded/cubemapdefault.vtf,4960,4960
+materials/maps/zm_terminator_disco_reloaded/de_chateau/cnstrcttarpb_-49_-388_309.vmt,152,152
+materials/maps/zm_terminator_disco_reloaded/de_chateau/cnstrcttarpb_474_-127_273.vmt,152,152
+materials/maps/zm_terminator_disco_reloaded/de_nuke/nukblenddirtgrassb_wvt_patch.vmt,304,304
+materials/maps/zm_terminator_disco_reloaded/glass/combineglass001a_-49_-388_309.vmt,151,151
+materials/maps/zm_terminator_disco_reloaded/glass/combineglass001a_474_-127_273.vmt,151,151
+materials/maps/zm_terminator_disco_reloaded/metal/metalceiling005a_-49_-388_309.vmt,151,151
+materials/maps/zm_terminator_disco_reloaded/metal/metalceiling005a_474_-127_273.vmt,151,151
+materials/skybox/terminator_disco/mpa100bk.vmt,102,102
+materials/skybox/terminator_disco/mpa100bk.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100dn.vmt,102,102
+materials/skybox/terminator_disco/mpa100dn.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100ft.vmt,102,102
+materials/skybox/terminator_disco/mpa100ft.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100lf.vmt,102,102
+materials/skybox/terminator_disco/mpa100lf.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100rt.vmt,102,102
+materials/skybox/terminator_disco/mpa100rt.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100up.vmt,102,102
+materials/skybox/terminator_disco/mpa100up.vtf,699272,699272
+sound/terminator_disco/28 Days Later Remix.mp3,6465149,6465149
+sound/terminator_disco/DJ Terminator.mp3,8475857,8475857
+sound/terminator_disco/rollin.mp3,7780745,7780745
+sound/terminator_disco/zombie trance.mp3,4558243,4558243
