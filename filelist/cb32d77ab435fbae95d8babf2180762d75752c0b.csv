@@ -1,0 +1,156 @@
+filename,size,compressed
+materials/RealWorldTextures2/Concrete/concrete_53.vmt,377,377
+materials/RealWorldTextures2/Concrete/concrete_53.vtf,174984,174984
+materials/RealWorldTextures2/Concrete/concrete_53_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Detail/detailconcrete001a.vtf,262567,262567
+materials/RealWorldTextures2/Detail/dt_grass1.vtf,16807,16807
+materials/RealWorldTextures2/Detail/dt_stone1.vtf,16807,16807
+materials/RealWorldTextures2/Detail/dt_stone3.vtf,16807,16807
+materials/RealWorldTextures2/Detail/dt_wood.vtf,16807,16807
+materials/RealWorldTextures2/Detail/plaster_detail_01.vtf,65959,65959
+materials/RealWorldTextures2/Detail/rock_detail_01.vtf,1048999,1048999
+materials/RealWorldTextures2/Ground/grass_10.vmt,322,322
+materials/RealWorldTextures2/Ground/grass_10.vtf,174984,174984
+materials/RealWorldTextures2/Ground/lava_magma_03.vmt,385,385
+materials/RealWorldTextures2/Ground/lava_magma_03.vtf,174984,174984
+materials/RealWorldTextures2/Ground/lava_magma_03_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Marble/inserts/marble_04.vmt,349,349
+materials/RealWorldTextures2/Marble/inserts/marble_04.vtf,174984,174984
+materials/RealWorldTextures2/Marble/inserts/marble_04_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Marble/marble_14.vmt,380,380
+materials/RealWorldTextures2/Marble/marble_14.vtf,174984,174984
+materials/RealWorldTextures2/Marble/support/marble_pillar_09.vmt,363,363
+materials/RealWorldTextures2/Marble/support/marble_pillar_09.vtf,174984,174984
+materials/RealWorldTextures2/Marble/support/marble_pillar_09_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Rock/rock_03.vmt,429,429
+materials/RealWorldTextures2/Rock/rock_03.vtf,174984,174984
+materials/RealWorldTextures2/Rock/rock_03_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Rock/rock_04.vmt,429,429
+materials/RealWorldTextures2/Rock/rock_04.vtf,174984,174984
+materials/RealWorldTextures2/Rock/rock_04_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Wall/plaster_wall_01.vmt,337,337
+materials/RealWorldTextures2/Wall/plaster_wall_01.vtf,174984,174984
+materials/RealWorldTextures2/Wall/plaster_wall_10.vmt,396,396
+materials/RealWorldTextures2/Wall/plaster_wall_10.vtf,174984,174984
+materials/RealWorldTextures2/Wall/plaster_wall_10_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_02.vmt,371,371
+materials/RealWorldTextures2/Wood/wood_02.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_17.vmt,464,464
+materials/RealWorldTextures2/Wood/wood_17.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_17_nrm.vtf,174984,174984
+materials/RealWorldTextures2/Wood/wood_54.vmt,274,274
+materials/RealWorldTextures2/Wood/wood_54.vtf,174984,174984
+materials/Saspatoon/Carpet/CarpetBlack.vmt,212,212
+materials/Saspatoon/Carpet/CarpetBlack.vtf,174984,174984
+materials/Saspatoon/Carpet/CarpetWhite.vmt,210,210
+materials/Saspatoon/Carpet/CarpetWhite.vtf,174984,174984
+materials/Saspatoon/Concrete/Rough/ConcreteRoughRed.vmt,227,227
+materials/Saspatoon/Concrete/Rough/ConcreteRoughRed.vtf,174984,174984
+materials/Saspatoon/Dirt/Cracked/CrackedDirtBlack.vmt,219,219
+materials/Saspatoon/Dirt/Cracked/CrackedDirtBlack.vtf,349760,349760
+materials/Silkroad/China/china_wall_tile.vmt,97,97
+materials/Silkroad/China/china_wall_tile.vtf,87616,87616
+materials/Silkroad/China/jinsi_floor6_b01_01.vmt,101,101
+materials/Silkroad/China/jinsi_floor6_b01_01.vtf,349760,349760
+materials/Silkroad/Egypt/ground (7).vmt,92,92
+materials/Silkroad/Egypt/ground (7).vtf,87616,87616
+materials/Silkroad/Egypt/wall (105).vmt,92,92
+materials/Silkroad/Egypt/wall (105).vtf,174944,174944
+materials/Silkroad/Egypt/wall (106).vmt,92,92
+materials/Silkroad/Egypt/wall (106).vtf,174944,174944
+materials/Silkroad/Egypt/wall (107).vmt,92,92
+materials/Silkroad/Egypt/wall (107).vtf,174944,174944
+materials/Silkroad/Egypt/wall (108).vmt,92,92
+materials/Silkroad/Egypt/wall (108).vtf,174944,174944
+materials/Silkroad/Egypt/wall (109).vmt,92,92
+materials/Silkroad/Egypt/wall (109).vtf,174944,174944
+materials/Silkroad/Egypt/wall (18).vmt,91,91
+materials/Silkroad/Egypt/wall (18).vtf,87616,87616
+materials/Silkroad/Egypt/wall (2).vmt,90,90
+materials/Silkroad/Egypt/wall (2).vtf,349760,349760
+materials/Silkroad/Egypt/wall (5).vmt,90,90
+materials/Silkroad/Egypt/wall (5).vtf,87616,87616
+materials/Silkroad/Egypt/wall (78).vmt,91,91
+materials/Silkroad/Egypt/wall (78).vtf,349760,349760
+materials/Silkroad/FGWorld/block04.vmt,97,97
+materials/Silkroad/FGWorld/block04.vtf,174944,174944
+materials/Silkroad/FGWorld/rocks02.vmt,96,96
+materials/Silkroad/FGWorld/rocks02.vtf,349760,349760
+materials/Silkroad/Jupitere/piety_10.vmt,121,121
+materials/Silkroad/Jupitere/piety_10.vtf,349760,349760
+materials/Silkroad/Jupitere/piety_5.vmt,120,120
+materials/Silkroad/Jupitere/piety_5.vtf,22080,22080
+materials/a-madman/bricks/realistic_stone_bricks.vmt,86,86
+materials/a-madman/bricks/realistic_stone_bricks.vtf,349760,349760
+materials/custom_nature/animatedlava2.vmt,253,253
+materials/custom_nature/animatedlava2.vtf,5593040,5593040
+materials/detail/detailsprites.vmt,161,161
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/devneons/blue_neon.vmt,103,103
+materials/devneons/blue_neon.vtf,43912,43912
+materials/devneons/green_neon.vmt,104,104
+materials/devneons/green_neon.vtf,43912,43912
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/devneons/yellow_neon.vmt,105,105
+materials/devneons/yellow_neon.vtf,43912,43912
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/bark_06.vmt,122,122
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/bark_06.vtf,2796448,2796448
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/branch_02.vmt,150,150
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/branch_02.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_g.vmt,157,157
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_g.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_o.vmt,157,157
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_04_1024_o.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_g.vmt,157,157
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_g.vtf,1398360,1398360
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_o.vmt,157,157
+materials/domitibingen/Foliage/Deciduous_tree/Default_tree_02/leaves_05_1024_o.vtf,1398360,1398360
+materials/icecreamlock/colorteal.vmt,98,98
+materials/icecreamlock/colorteal.vtf,392,392
+materials/maps/bhop_helvete2_redux_beta/c-10928_7476_-1877.hdr.vtf,76528,76528
+materials/maps/bhop_helvete2_redux_beta/c-10928_7476_-1877.vtf,28753,28753
+materials/maps/bhop_helvete2_redux_beta/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_helvete2_redux_beta/cubemapdefault.vtf,28753,28753
+materials/maps/bhop_helvete2_redux_beta/liquids/water_pretty1_-10928_7476_-1877.vmt,174,174
+materials/maps/bhop_helvete2_redux_beta/maps/bhop_helvete2_redux_beta/liquids/water_pretty1_-10928_7476_-1877_depth_16.vmt,156,156
+materials/maps/bhop_helvete2_redux_beta/maps/bhop_helvete2_redux_beta/liquids/water_pretty1_-10928_7476_-1877_depth_38.vmt,156,156
+materials/maps/bhop_helvete2_redux_beta/realworldtextures2/marble/inserts/marble_04_-10928_7476_-1877.vmt,173,173
+materials/maps/bhop_helvete2_redux_beta/realworldtextures2/marble/marble_14_-10928_7476_-1877.vmt,165,165
+materials/maps/bhop_helvete2_redux_beta/realworldtextures2/marble/support/marble_pillar_09_-10928_7476_-1877.vmt,180,180
+materials/maps/bhop_helvete2_redux_beta/realworldtextures2/rock/rock_03_-10928_7476_-1877.vmt,161,161
+materials/maps/bhop_helvete2_redux_beta/realworldtextures2/rock/rock_04_-10928_7476_-1877.vmt,161,161
+materials/maps/bhop_helvete2_redux_beta/realworldtextures2/wood/wood_02_-10928_7476_-1877.vmt,161,161
+materials/maps/bhop_helvete2_redux_beta/realworldtextures2/wood/wood_54_-10928_7476_-1877.vmt,161,161
+materials/real_dev/dev_gray2.vmt,66,66
+materials/real_dev/dev_gray2.vtf,699272,699272
+materials/real_dev/dev_green6.vmt,67,67
+materials/real_dev/dev_green6.vtf,699272,699272
+materials/real_dev/dev_orange2.vmt,68,68
+materials/real_dev/dev_orange2.vtf,699272,699272
+materials/real_dev/dev_red3.vmt,65,65
+materials/real_dev/dev_red3.vtf,699272,699272
+materials/skybox/sky150daybk.vmt,90,90
+materials/skybox/sky150daybk.vtf,4194511,4194511
+materials/skybox/sky150daydn.vmt,86,86
+materials/skybox/sky150daydn.vtf,4194511,4194511
+materials/skybox/sky150dayft.vmt,86,86
+materials/skybox/sky150dayft.vtf,4194511,4194511
+materials/skybox/sky150daylf.vmt,86,86
+materials/skybox/sky150daylf.vtf,4194511,4194511
+materials/skybox/sky150dayrt.vmt,86,86
+materials/skybox/sky150dayrt.vtf,4194511,4194511
+materials/skybox/sky150dayup.vmt,88,88
+materials/skybox/sky150dayup.vtf,4194511,4194511
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_m_02_o.dx80.vtx,82947,82947
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_m_02_o.dx90.vtx,82947,82947
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_m_02_o.phy,1588,1588
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_m_02_o.sw.vtx,82947,82947
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_xl_02_g.dx80.vtx,127371,127371
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_xl_02_g.dx90.vtx,127371,127371
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_xl_02_g.phy,2021,2021
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/Normal_tree_xl_02_g.sw.vtx,127371,127371
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_m_02_o.mdl,2444,2444
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_m_02_o.vvd,418432,418432
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_xl_02_g.mdl,2448,2448
+models/domitibingen/Foliage/Deciduous_tree/Default_tree_02/normal_tree_xl_02_g.vvd,640384,640384
