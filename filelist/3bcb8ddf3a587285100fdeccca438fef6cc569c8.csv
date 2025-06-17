@@ -1,0 +1,31 @@
+filename,size,compressed
+materials/RealWorldTextures/Floor/MixTile/Bump/1024.vtf,699272,699272
+materials/RealWorldTextures/Floor/MixTile/Gray-Blue/inlay2.vmt,365,365
+materials/RealWorldTextures/Floor/MixTile/Gray-Blue/inlay2.vtf,699272,699272
+materials/RealWorldTextures/Floor/MixTile/Gray-Red/Inlay2.vtf,699272,699272
+materials/RealWorldTextures/Floor/MixTile/Gray-Red/inlay2.vmt,364,364
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/maps/gg__mk_metr/c-32_0_160.hdr.vtf,76528,76528
+materials/maps/gg__mk_metr/c-32_0_160.vtf,28753,28753
+materials/maps/gg__mk_metr/c0_-32_160.hdr.vtf,76528,76528
+materials/maps/gg__mk_metr/c0_-32_160.vtf,28753,28753
+materials/maps/gg__mk_metr/c0_0_128.hdr.vtf,76528,76528
+materials/maps/gg__mk_metr/c0_0_128.vtf,28753,28753
+materials/maps/gg__mk_metr/c0_0_192.hdr.vtf,76528,76528
+materials/maps/gg__mk_metr/c0_0_192.vtf,28753,28753
+materials/maps/gg__mk_metr/c0_32_160.hdr.vtf,76528,76528
+materials/maps/gg__mk_metr/c0_32_160.vtf,28753,28753
+materials/maps/gg__mk_metr/c32_0_160.hdr.vtf,76528,76528
+materials/maps/gg__mk_metr/c32_0_160.vtf,28753,28753
+materials/maps/gg__mk_metr/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg__mk_metr/cubemapdefault.vtf,28753,28753
+materials/maps/gg__mk_metr/realworldtextures/floor/mixtile/gray-blue/inlay2_0_0_192.vmt,155,155
+materials/maps/gg__mk_metr/realworldtextures/floor/mixtile/gray-red/inlay2_0_0_128.vmt,154,154
+materials/maps/gg__mk_metr/svoi textur/kirpichik_01_-32_0_160.vmt,133,133
+materials/maps/gg__mk_metr/svoi textur/kirpichik_01_0_-32_160.vmt,133,133
+materials/maps/gg__mk_metr/svoi textur/kirpichik_01_0_32_160.vmt,132,132
+materials/maps/gg__mk_metr/svoi textur/kirpichik_01_32_0_160.vmt,132,132
+materials/svoi textur/kirpichik_01.vmt,219,219
+materials/svoi textur/kirpichik_01.vtf,699288,699288
+materials/svoi textur/kirpichik_01_bump.vtf,1398352,1398352
