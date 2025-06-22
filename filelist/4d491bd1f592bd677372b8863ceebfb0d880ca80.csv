@@ -1,0 +1,97 @@
+filename,size,compressed
+maps/mg_kane_course_beta2_fix.nav,3434,777
+materials/custom textures/credits.vmt,90,92
+materials/custom textures/credits.vtf,699232,152185
+materials/custom textures/hnng.vmt,68,75
+materials/custom textures/hnng.vtf,349688,199850
+materials/de_nuke/nuke_metalgrate_01.vtf,87600,10634
+materials/de_nuke/nuke_metalgrate_01_translucent.vmt,121,107
+materials/de_nuke/nuke_metalvent.vmt,116,107
+materials/de_nuke/nuke_metalvent.vtf,87600,24855
+materials/decals/cs_caution_sign.vmt,89,94
+materials/decals/cs_caution_sign.vtf,87488,17762
+materials/detail/detailsprites.vmt,185,134
+materials/detail/detailsprites.vtf,1398336,658418
+materials/dev/dev_measuregeneric41.vmt,93,97
+materials/dev/dev_measuregeneric41.vtf,11144,317
+materials/dev/dev_measuregeneric43.vmt,93,97
+materials/dev/dev_measuregeneric43.vtf,11144,302
+materials/dev/dev_measuregeneric44.vmt,93,97
+materials/dev/dev_measuregeneric44.vtf,11144,292
+materials/dev/dev_measuregeneric45.vmt,93,97
+materials/dev/dev_measuregeneric45.vtf,11144,307
+materials/dev/dev_water2.vmt,1053,492
+materials/dev/dev_waterbeneath2.vmt,1052,524
+materials/dev/water_dudv.vtf,5068290,1384757
+materials/dev/water_normal.vtf,10136388,1621334
+materials/dev_nyro/dev_blue_b-05.vmt,73,79
+materials/dev_nyro/dev_blue_b-05.vtf,11144,368
+materials/dev_nyro/dev_gray-01.vmt,71,77
+materials/dev_nyro/dev_gray-01.vtf,11144,308
+materials/dev_nyro/dev_gray-15.vmt,71,77
+materials/dev_nyro/dev_gray-15.vtf,11144,396
+materials/dev_nyro/dev_green_a-05.vmt,74,80
+materials/dev_nyro/dev_green_a-05.vtf,11144,413
+materials/dev_nyro/dev_green_b-02.vmt,74,80
+materials/dev_nyro/dev_green_b-02.vtf,11144,397
+materials/dev_nyro/dev_green_b-03.vmt,74,80
+materials/dev_nyro/dev_green_b-03.vtf,11144,403
+materials/dev_nyro/dev_green_b-04.vmt,74,80
+materials/dev_nyro/dev_green_b-04.vtf,11144,423
+materials/dev_nyro/dev_magenta_a-01.vmt,76,82
+materials/dev_nyro/dev_magenta_a-01.vtf,11144,390
+materials/dev_nyro/dev_magenta_a-03.vmt,76,82
+materials/dev_nyro/dev_magenta_a-03.vtf,11144,354
+materials/dev_nyro/dev_magenta_b-01.vmt,76,82
+materials/dev_nyro/dev_magenta_b-01.vtf,11144,424
+materials/dev_nyro/dev_magenta_b-02.vmt,76,82
+materials/dev_nyro/dev_magenta_b-02.vtf,11144,415
+materials/dev_nyro/dev_magenta_b-03.vmt,76,82
+materials/dev_nyro/dev_magenta_b-03.vtf,11144,398
+materials/dev_nyro/dev_red_a-03.vmt,72,78
+materials/dev_nyro/dev_red_a-03.vtf,11144,347
+materials/dev_nyro/dev_red_a-04.vmt,72,78
+materials/dev_nyro/dev_red_a-04.vtf,11144,333
+materials/dev_nyro/dev_red_a-05.vmt,72,78
+materials/dev_nyro/dev_red_a-05.vtf,11144,304
+materials/glass/offwndwb_break.vmt,466,235
+materials/glass/offwndwb_break.vtf,349744,292856
+materials/maps/mg_kane_course_beta2_fix/c0_0_0.hdr.vtf,28753,161
+materials/maps/mg_kane_course_beta2_fix/c0_0_0.vtf,28753,113
+materials/maps/mg_kane_course_beta2_fix/cubemapdefault.hdr.vtf,28753,161
+materials/maps/mg_kane_course_beta2_fix/cubemapdefault.vtf,28753,113
+materials/maps/mg_kane_course_beta2_fix/dev/dev_water2_depth_68.vmt,101,93
+materials/maps/mg_kane_course_beta2_fix/dev/dev_water3_exp_depth_141.vmt,106,98
+materials/maps/mg_kane_course_beta2_fix/dev/dev_water3_exp_depth_20.vmt,105,97
+materials/maps/mg_kane_course_beta2_fix/dev/dev_water3_exp_depth_443.vmt,106,98
+materials/maps/mg_kane_course_beta2_fix/dev/dev_water3_exp_depth_6.vmt,104,96
+materials/maps/mg_kane_course_beta2_fix/dev/dev_water3_exp_depth_82.vmt,105,97
+materials/maps/mg_kane_course_beta2_fix/dev/dev_water3_exp_depth_9.vmt,104,96
+materials/maps/mg_kane_course_beta2_fix/glass/offwndwb_break_0_0_0.vmt,137,127
+materials/maps/mg_kane_course_beta2_fix/glass/prodwndwa_0_0_0.vmt,212,155
+materials/ryan_dev/darker_red.vmt,67,77
+materials/ryan_dev/darker_red.vtf,11144,101
+materials/ryan_dev/dev_black.vmt,66,76
+materials/ryan_dev/dev_black.vtf,11144,317
+materials/ryan_dev/dev_rbg_blue.vmt,69,78
+materials/ryan_dev/dev_rbg_blue.vtf,11144,345
+materials/ryan_dev/dev_white.vmt,66,76
+materials/ryan_dev/dev_white.vtf,11144,354
+materials/water/invis.vtf,192,72
+materials/water/inviswater.vmt,323,192
+models/props/cs_office/ladder01.dx80.vtx,6495,1044
+models/props/cs_office/ladder01.dx90.vtx,6495,1044
+models/props/cs_office/ladder01.mdl,1768,455
+models/props/cs_office/ladder01.sw.vtx,6495,1047
+models/props/cs_office/ladder01.vvd,30400,4166
+sound/songs for maps/k-391 - fantastic.mp3,3703117,3691992
+sound/songs for maps/mitis - born.mp3,4250414,4233050
+sound/songs for maps/pendulum - the island.mp3,9121286,9064496
+sound/songs for maps/stan sb - anyone out there.mp3,4681559,4653541
+sound/songs for maps/uppermost - flashback.mp3,4269870,4253279
+sp_0.vhv,2560,486
+sp_1.vhv,2560,453
+sp_2.vhv,2560,665
+sp_3.vhv,2560,824
+sp_4.vhv,8192,1752
+sp_5.vhv,2560,1011
