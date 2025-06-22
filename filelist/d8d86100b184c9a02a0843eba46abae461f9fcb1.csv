@@ -1,0 +1,17 @@
+filename,size,compressed
+maps/soundcache/aim_deagle_tsm.cache,16,16
+materials/TsM_Decals/512x256Trans_TsM.vtf,174944,174944
+materials/maps/aim_deagle_tsm/c-1168_221_55.vtf,4952,4952
+materials/maps/aim_deagle_tsm/c-2124_44_55.vtf,4952,4952
+materials/maps/aim_deagle_tsm/c528_0_55.vtf,4952,4952
+materials/maps/aim_deagle_tsm/cubemapdefault.vtf,9824,9824
+materials/maps/aim_deagle_tsm/glass/glasswindowbreak070a_-1168_221_55.vmt,141,141
+materials/maps/aim_deagle_tsm/liquids/water_pretty1_-1168_221_55.vmt,159,159
+materials/maps/aim_deagle_tsm/liquids/water_pretty1_-2124_44_55.vmt,158,158
+materials/maps/aim_deagle_tsm/liquids/water_pretty1_528_0_55.vmt,155,155
+materials/maps/aim_deagle_tsm/maps/aim_deagle_tsm/liquids/water_pretty1_-1168_221_55_depth_1.vmt,140,140
+materials/maps/aim_deagle_tsm/maps/aim_deagle_tsm/liquids/water_pretty1_-2124_44_55_depth_8.vmt,139,139
+materials/maps/aim_deagle_tsm/maps/aim_deagle_tsm/liquids/water_pretty1_528_0_55_depth_1.vmt,136,136
+materials/maps/aim_deagle_tsm/metal/citadel_metalwall063a_cheap_-1168_221_55.vmt,148,148
+materials/maps/aim_deagle_tsm/metal/citadel_metalwall063a_cheap_528_0_55.vmt,144,144
+materials/tsm_decals/512x256trans_tsm.vmt,94,94

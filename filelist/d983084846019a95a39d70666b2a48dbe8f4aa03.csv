@@ -1,0 +1,32 @@
+filename,size,compressed
+materials/Jaynem.vmt,73,73
+materials/container skins/metalcrate001d_black.vmt,140,140
+materials/container skins/metalcrate001d_black.vtf,349760,349760
+materials/jaynem.vtf,174944,174944
+materials/maps/zm_panicbox/c0_0_0.hdr.vtf,76528,76528
+materials/maps/zm_panicbox/c0_0_0.vtf,28753,28753
+materials/maps/zm_panicbox/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_panicbox/cubemapdefault.vtf,28753,28753
+materials/maps/zm_panicbox/glass/combineglass001a_0_0_0.vmt,127,127
+materials/maps/zm_panicbox/props/metalduct001a_0_0_0.vmt,124,124
+materials/skybox/space_6bk.vmt,88,88
+materials/skybox/space_6bk.vtf,4194511,4194511
+materials/skybox/space_6dn.vmt,84,84
+materials/skybox/space_6dn.vtf,4194511,4194511
+materials/skybox/space_6ft.vmt,84,84
+materials/skybox/space_6ft.vtf,4194511,4194511
+materials/skybox/space_6lf.vmt,84,84
+materials/skybox/space_6lf.vtf,4194511,4194511
+materials/skybox/space_6rt.vmt,84,84
+materials/skybox/space_6rt.vtf,4194511,4194511
+materials/skybox/space_6up.vmt,86,86
+materials/skybox/space_6up.vtf,4194511,4194511
+materials/wipeout/floor_bump_SSBump.vtf,174984,174984
+materials/wipeout/grey_floor.vmt,191,191
+materials/wipeout/grey_floor.vtf,174984,174984
+materials/zombie/zombie26.vmt,93,93
+materials/zombie/zombie26.vtf,699272,699272
+materials/zombie/zombie31.vmt,93,93
+materials/zombie/zombie31.vtf,1398264,1398264
+materials/zombie/zombie9.vmt,96,96
+materials/zombie/zombie9.vtf,174984,174984
