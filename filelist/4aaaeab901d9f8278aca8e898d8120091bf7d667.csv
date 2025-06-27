@@ -1,0 +1,268 @@
+filename,size,compressed
+maps/mg_mario_galaxy_v2_fixed1.nav,322,120
+maps/mg_mario_galaxy_v2_fixed1_level_sounds.txt,162,145
+materials/arcade/blue_c_2.vmt,89,93
+materials/arcade/blue_c_2.vtf,43912,156
+materials/arcade/blue_c_dots.vmt,92,96
+materials/arcade/blue_c_dots.vtf,43912,2824
+materials/arcade/brown_c_1.vmt,89,93
+materials/arcade/brown_c_1.vtf,43912,143
+materials/arcade/brown_c_dots.vmt,92,96
+materials/arcade/brown_c_dots.vtf,43912,2845
+materials/arcade/dice_white/dice_w_1.vmt,99,97
+materials/arcade/dice_white/dice_w_1.vtf,43912,1374
+materials/arcade/dice_white/dice_w_2.vmt,99,97
+materials/arcade/dice_white/dice_w_2.vtf,43912,2413
+materials/arcade/dice_white/dice_w_3.vmt,99,97
+materials/arcade/dice_white/dice_w_3.vtf,43912,3275
+materials/arcade/dice_white/dice_w_5.vmt,99,97
+materials/arcade/dice_white/dice_w_5.vtf,43912,4780
+materials/arcade/dice_white/dice_w_6.vmt,99,97
+materials/arcade/dice_white/dice_w_6.vtf,43912,5409
+materials/arcade/dice_white/dicec_w_4.vmt,100,101
+materials/arcade/dice_white/dicec_w_4.vtf,43912,3994
+materials/arcade/green_c_1.vmt,90,94
+materials/arcade/green_c_1.vtf,43912,154
+materials/arcade/green_c_1_dot.vmt,94,97
+materials/arcade/green_c_1_dot.vtf,43912,2845
+materials/arcade/green_c_2.vmt,90,94
+materials/arcade/green_c_2.vtf,43912,145
+materials/arcade/green_c_3.vmt,89,93
+materials/arcade/green_c_3.vtf,43912,143
+materials/arcade/grey_c_1.vmt,89,93
+materials/arcade/grey_c_1.vtf,43912,135
+materials/arcade/grey_c_2.vmt,89,93
+materials/arcade/grey_c_2.vtf,43912,136
+materials/arcade/mario/finnish.vmt,87,92
+materials/arcade/mario/finnish.vtf,349760,61846
+materials/arcade/mario/mario_question.vmt,100,100
+materials/arcade/mario/mario_question.vtf,349760,8851
+materials/arcade/mario/question_brown.vmt,100,102
+materials/arcade/mario/question_brown.vtf,349760,204
+materials/arcade/mario/question_taken.vmt,100,102
+materials/arcade/mario/question_taken.vtf,349760,2925
+materials/arcade/mario/question_yellow.vmt,101,103
+materials/arcade/mario/question_yellow.vtf,349760,200
+materials/arcade/orange_c_1.vmt,91,95
+materials/arcade/orange_c_1.vtf,43912,131
+materials/arcade/red_c_1.vmt,88,93
+materials/arcade/red_c_1.vtf,43912,144
+materials/arcade/red_c_2.vmt,88,93
+materials/arcade/red_c_2.vtf,43912,143
+materials/arcade/red_c_3.vmt,87,92
+materials/arcade/red_c_3.vtf,43912,132
+materials/arcade/red_c_dot.vmt,89,93
+materials/arcade/red_c_dot.vtf,43912,2751
+materials/arcade/simple_c_1.vmt,91,95
+materials/arcade/simple_c_1.vtf,43912,134
+materials/arcade/yellow_c_3.vmt,91,95
+materials/arcade/yellow_c_3.vtf,43912,125
+materials/concrete/hr_c/hr_conc_f2.vmt,281,188
+materials/concrete/hr_c/hr_conc_f2.vtf,699296,321013
+materials/concrete/hr_c/hr_conc_f_normals.vtf,87640,53316
+materials/de_train/train_metalceiling_02.vmt,108,104
+materials/de_train/train_metalceiling_02.vtf,174968,113200
+materials/detail/detailconcrete001a.vtf,175008,103563
+materials/detail/detailsprites.vmt,185,134
+materials/detail/detailsprites.vtf,1398336,658418
+materials/detail/dt_stone1.vtf,11168,8187
+materials/dev/water.vtf,2535024,636833
+materials/domitibingen/foliage/bushes/a_bush_b_01/boxwoodbark.vmt,114,116
+materials/domitibingen/foliage/bushes/a_bush_b_01/boxwoodbark.vtf,174928,130889
+materials/domitibingen/foliage/bushes/a_bush_b_01/boxwoodleaves_2.vmt,177,154
+materials/domitibingen/foliage/bushes/a_bush_b_01/boxwoodleaves_2.vtf,349784,108811
+materials/domitibingen/foliage/bushes/a_bush_b_01/boxwoodleaves_3.vmt,177,154
+materials/domitibingen/foliage/bushes/a_bush_b_01/boxwoodleaves_3.vtf,349784,155483
+materials/domitibingen/foliage/bushes/a_bush_b_01/branches_01.vmt,140,128
+materials/domitibingen/foliage/bushes/a_bush_b_01/branches_01.vtf,699256,124274
+materials/domitibingen/foliage/bushes/a_bush_b_01/branches_03.vmt,143,132
+materials/domitibingen/foliage/bushes/a_bush_b_01/branches_03.vtf,699256,74994
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/bark_06.vmt,122,120
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/bark_06.vtf,2796448,2009097
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/branch_02.vmt,150,136
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/branch_02.vtf,1398360,169490
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/leaves_04_1024_o.vmt,157,143
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/leaves_04_1024_o.vtf,1398360,348470
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/leaves_05_1024_o.vmt,157,144
+materials/domitibingen/foliage/deciduous_tree/default_tree_02/leaves_05_1024_o.vtf,1398360,335961
+materials/glass/unbreakable_glass_a_01.vmt,173,148
+materials/glass/unbreakable_glass_a_01.vtf,349784,228225
+materials/levels/madebysalty.vmt,83,89
+materials/levels/madebysalty.vtf,349760,12590
+materials/maps/mg_mario_galaxy_v2_fixed1/c5440_5512_3840.hdr.vtf,28753,160
+materials/maps/mg_mario_galaxy_v2_fixed1/c5440_5512_3840.vtf,28753,113
+materials/maps/mg_mario_galaxy_v2_fixed1/cubemapdefault.hdr.vtf,28753,160
+materials/maps/mg_mario_galaxy_v2_fixed1/cubemapdefault.vtf,28753,113
+materials/maps/mg_mario_galaxy_v2_fixed1/glass/unbreakable_glass_a_01_5440_5512_3840.vmt,155,148
+materials/maps/mg_mario_galaxy_v2_fixed1/maps/mg_mario_galaxy_v2_fixed1/patriot/water/water001_5440_5512_3840_depth_32.vmt,155,139
+materials/maps/mg_mario_galaxy_v2_fixed1/patriot/water/water001_5440_5512_3840.vmt,149,141
+materials/models/marioragdoll/super mario galaxy/bowser statue/bowsss00.vmt,113,113
+materials/models/marioragdoll/super mario galaxy/bowser statue/bowsss00.vtf,11144,6800
+materials/models/marioragdoll/super mario galaxy/bowser statue/bowsss01.vmt,114,113
+materials/models/marioragdoll/super mario galaxy/bowser statue/bowsss01.vtf,11144,7380
+materials/models/marioragdoll/super mario galaxy/goomba/gianss00.vmt,132,125
+materials/models/marioragdoll/super mario galaxy/goomba/gianss00.vtf,22080,1636
+materials/models/marioragdoll/super mario galaxy/goomba/gianss01.vmt,132,125
+materials/models/marioragdoll/super mario galaxy/goomba/gianss01.vtf,11104,697
+materials/models/marioragdoll/super mario galaxy/goomba/goomss00.vmt,132,124
+materials/models/marioragdoll/super mario galaxy/goomba/goomss00.vtf,11104,2245
+materials/models/marioragdoll/super mario galaxy/luma/lumass00.vmt,263,161
+materials/models/marioragdoll/super mario galaxy/luma/lumass00.vtf,736,474
+materials/models/marioragdoll/super mario galaxy/luma/lumass02 yellow.vtf,1600,97
+materials/models/marioragdoll/super mario galaxy/luma/lumass04.vmt,262,166
+materials/models/props/cs_militia/rockb/rock_b_diffuse.vmt,230,158
+materials/models/props/cs_militia/rockb/rock_b_diffuse.vtf,349784,299103
+materials/models/props/cs_militia/rockb/rock_b_normals.vtf,5592664,752273
+materials/models/props_foliage/flower_a.vmt,204,178
+materials/models/props_foliage/flower_a.vtf,22104,10392
+materials/models/props_foliage/mall_trees_branches01.vmt,213,184
+materials/models/props_foliage/mall_trees_branches01.vtf,5592672,1781765
+materials/models/props_foliage/urban_trees_barks01.vtf,1398288,965860
+materials/models/props_foliage/urban_trees_barks01_still.vmt,99,108
+materials/models/props_foliage/urban_trees_branches03.vmt,1682,673
+materials/models/props_foliage/urban_trees_branches03.vtf,5592664,2200156
+materials/patriot/water/water001.vmt,1073,450
+materials/patriot/water/water001_beneath.vmt,1103,487
+materials/patriot/water/water001_normal.vtf,33554608,7445878
+materials/skybox/sky_skylab_01bk.vmt,156,109
+materials/skybox/sky_skylab_01bk.vtf,2796304,505228
+materials/skybox/sky_skylab_01dn.vmt,156,108
+materials/skybox/sky_skylab_01dn.vtf,2796304,147911
+materials/skybox/sky_skylab_01ft.vmt,156,108
+materials/skybox/sky_skylab_01ft.vtf,2796304,545198
+materials/skybox/sky_skylab_01lf.vmt,156,109
+materials/skybox/sky_skylab_01lf.vtf,2796304,663557
+materials/skybox/sky_skylab_01rt.vmt,156,109
+materials/skybox/sky_skylab_01rt.vtf,2796304,568577
+materials/skybox/sky_skylab_01up.vmt,156,109
+materials/skybox/sky_skylab_01up.vtf,2796304,170085
+materials/sprites/bluelaser1.vmt,149,117
+materials/sprites/bluelaser1.vtf,1512,407
+materials/wood/floor03.vtf,175008,104048
+materials/wood/floor03_light.vmt,116,110
+materials/wood/floor03_light.vtf,175008,108157
+materials/wood/floor03cheap.vmt,240,173
+materials/wood/housebeams01.vmt,250,172
+materials/wood/housebeams01.vtf,87568,55839
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth01.vmt,218,150
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth01_dif.vtf,349760,124795
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth03.vmt,218,150
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth03_dif.vtf,349760,123627
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth04.vmt,218,150
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth04_dif.vtf,87616,32396
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth05.vmt,218,149
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth05_dif.vtf,349760,124435
+materials/zackchange/sonicgenerations/ghz_ground_sk1_earth05_nrm.vtf,349760,128481
+materials/zackchange/sonicgenerations/ghz_km1_farblocka.vmt,208,144
+materials/zackchange/sonicgenerations/ghz_km1_farblocka_dif.vtf,87616,27145
+materials/zackchange/sonicgenerations/ghz_km1_farblocka_nrm.vtf,87616,35164
+materials/zackchange/sonicgenerations/ghz_km1_mountain01.vmt,144,131
+materials/zackchange/sonicgenerations/ghz_km1_mountain01_dif.vtf,349760,107600
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_b_01.dx80.vtx,72747,8680
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_b_01.dx90.vtx,72747,8680
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_b_01.mdl,2608,599
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_b_01.phy,1952,1315
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_b_01.sw.vtx,72747,8626
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_b_01.vvd,371392,169675
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_bl_01.dx80.vtx,120894,14228
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_bl_01.dx90.vtx,120894,14229
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_bl_01.mdl,2608,606
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_bl_01.phy,8386,4927
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_bl_01.sw.vtx,120894,14210
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_bl_01.vvd,606208,282485
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_mb_01.dx80.vtx,84276,9108
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_mb_01.dx90.vtx,84276,9108
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_mb_01.mdl,2608,609
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_mb_01.phy,3130,1922
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_mb_01.sw.vtx,84276,9113
+models/domitibingen/foliage/bushes/a_bush_b_01/a_bush_mb_01.vvd,432896,196238
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_o.dx80.vtx,82947,8310
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_o.dx90.vtx,82947,8311
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_o.mdl,2444,591
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_o.phy,1588,1087
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_o.sw.vtx,82947,8305
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_m_02_o.vvd,418432,142701
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_o.dx80.vtx,76662,7143
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_o.dx90.vtx,76662,7248
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_o.mdl,2448,586
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_o.phy,1782,1215
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_o.sw.vtx,76662,6914
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_sm_02_o.vvd,387648,130994
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_o.dx80.vtx,127371,11530
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_o.dx90.vtx,127371,11530
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_o.mdl,2448,589
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_o.phy,2217,1474
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_o.sw.vtx,127371,11404
+models/domitibingen/foliage/deciduous_tree/default_tree_02/normal_tree_xl_02_o.vvd,640384,217603
+models/marioragdoll/super mario galaxy/bowser statue/statue.dx80.vtx,45456,9161
+models/marioragdoll/super mario galaxy/bowser statue/statue.dx90.vtx,45456,9161
+models/marioragdoll/super mario galaxy/bowser statue/statue.mdl,1996,535
+models/marioragdoll/super mario galaxy/bowser statue/statue.phy,2039,1232
+models/marioragdoll/super mario galaxy/bowser statue/statue.sw.vtx,45440,9075
+models/marioragdoll/super mario galaxy/bowser statue/statue.vvd,182336,69116
+models/marioragdoll/super mario galaxy/goomba/bgoomba.dx80.vtx,32907,7447
+models/marioragdoll/super mario galaxy/goomba/bgoomba.dx90.vtx,32907,7447
+models/marioragdoll/super mario galaxy/goomba/bgoomba.mdl,4364,1171
+models/marioragdoll/super mario galaxy/goomba/bgoomba.phy,33094,20172
+models/marioragdoll/super mario galaxy/goomba/bgoomba.sw.vtx,32867,7425
+models/marioragdoll/super mario galaxy/goomba/bgoomba.vvd,114560,55568
+models/marioragdoll/super mario galaxy/goomba/goomba.dx80.vtx,7947,1896
+models/marioragdoll/super mario galaxy/goomba/goomba.dx90.vtx,7947,1896
+models/marioragdoll/super mario galaxy/goomba/goomba.mdl,4168,1118
+models/marioragdoll/super mario galaxy/goomba/goomba.phy,11435,6568
+models/marioragdoll/super mario galaxy/goomba/goomba.sw.vtx,7915,1880
+models/marioragdoll/super mario galaxy/goomba/goomba.vvd,27584,13660
+models/marioragdoll/super mario galaxy/luma/luma3.dx80.vtx,9271,2696
+models/marioragdoll/super mario galaxy/luma/luma3.dx90.vtx,9271,2695
+models/marioragdoll/super mario galaxy/luma/luma3.mdl,5148,1260
+models/marioragdoll/super mario galaxy/luma/luma3.phy,13781,7666
+models/marioragdoll/super mario galaxy/luma/luma3.sw.vtx,9215,2633
+models/marioragdoll/super mario galaxy/luma/luma3.vvd,28288,14254
+models/props/cs_militia/rockb.dx80.vtx,1971,598
+models/props/cs_militia/rockb.dx90.vtx,1971,598
+models/props/cs_militia/rockb.mdl,1776,450
+models/props/cs_militia/rockb.phy,3239,2196
+models/props/cs_militia/rockb.sw.vtx,1971,593
+models/props/cs_militia/rockb.vvd,6592,3820
+models/props_foliage/mall_fern01.dx80.vtx,18390,3284
+models/props_foliage/mall_fern01.dx90.vtx,18390,3280
+models/props_foliage/mall_fern01.mdl,1768,455
+models/props_foliage/mall_fern01.sw.vtx,18390,3288
+models/props_foliage/mall_fern01.vtx,18390,3310
+models/props_foliage/mall_fern01.vvd,76928,40789
+models/props_foliage/urban_balcony_planter01b.dx80.vtx,47052,8470
+models/props_foliage/urban_balcony_planter01b.dx90.vtx,47052,8466
+models/props_foliage/urban_balcony_planter01b.mdl,2460,590
+models/props_foliage/urban_balcony_planter01b.sw.vtx,47052,8468
+models/props_foliage/urban_balcony_planter01b.vvd,264960,54695
+sound/custom/super mario coin sound.wav,175200,83824
+sound/doors/metal_door_move_02.wav,81260,52974
+sp_0.vhv,5632,2298
+sp_1.vhv,27136,6681
+sp_10.vhv,27136,6709
+sp_11.vhv,38400,8342
+sp_12.vhv,7680,1575
+sp_13.vhv,7680,1927
+sp_14.vhv,25088,6329
+sp_15.vhv,5632,2169
+sp_16.vhv,5632,1643
+sp_17.vhv,5632,1492
+sp_18.vhv,27136,6595
+sp_19.vhv,27136,5699
+sp_2.vhv,7680,2042
+sp_20.vhv,27136,6937
+sp_21.vhv,1024,237
+sp_22.vhv,17408,4837
+sp_23.vhv,27648,7420
+sp_24.vhv,5632,1504
+sp_25.vhv,40960,7991
+sp_26.vhv,1024,251
+sp_27.vhv,27136,6789
+sp_28.vhv,25088,5837
+sp_3.vhv,5632,2164
+sp_4.vhv,40960,9038
+sp_5.vhv,25088,6165
+sp_6.vhv,7680,2043
+sp_7.vhv,27648,7268
+sp_8.vhv,24064,3653
+sp_9.vhv,5632,1499
