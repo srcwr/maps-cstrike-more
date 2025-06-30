@@ -1,0 +1,17 @@
+filename,size,compressed
+maps/mg_mufasa2_fixed.nav,2393,553
+materials/detail/detailsprites.vmt,185,134
+materials/detail/detailsprites.vtf,1398336,658418
+materials/dev/dev_waterbeneath2.vmt,1052,524
+materials/dev/water_dudv.vtf,5068290,1384757
+materials/dev/water_normal.vtf,10136388,1621334
+materials/glass/unbreakable_glass_a_01.vmt,173,148
+materials/glass/unbreakable_glass_a_01.vtf,349784,228225
+materials/maps/mg_mufasa2_fixed/c832_0_88.hdr.vtf,28753,161
+materials/maps/mg_mufasa2_fixed/c832_0_88.vtf,28753,113
+materials/maps/mg_mufasa2_fixed/cubemapdefault.hdr.vtf,28753,161
+materials/maps/mg_mufasa2_fixed/cubemapdefault.vtf,28753,113
+materials/maps/mg_mufasa2_fixed/dev/dev_blendmeasure2_wvt_patch.vmt,135,99
+materials/maps/mg_mufasa2_fixed/dev/dev_blendmeasure_wvt_patch.vmt,141,98
+materials/maps/mg_mufasa2_fixed/dev/dev_water4_depth_16.vmt,101,93
+materials/maps/mg_mufasa2_fixed/glass/unbreakable_glass_a_01_832_0_88.vmt,140,133
