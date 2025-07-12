@@ -1,0 +1,35 @@
+filename,size,compressed
+maps/zm_terminator_disco_rd.nav,1607811,1607811
+materials/fares.vmt,53,53
+materials/fares.vtf,174984,174984
+materials/maps/zm_terminator_disco_rd/c331_-388_309.hdr.vtf,76528,76528
+materials/maps/zm_terminator_disco_rd/c331_-388_309.vtf,4960,4960
+materials/maps/zm_terminator_disco_rd/c854_-127_273.hdr.vtf,76528,76528
+materials/maps/zm_terminator_disco_rd/c854_-127_273.vtf,4960,4960
+materials/maps/zm_terminator_disco_rd/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_terminator_disco_rd/cubemapdefault.vtf,4960,4960
+materials/maps/zm_terminator_disco_rd/de_chateau/cnstrcttarpb_331_-388_309.vmt,146,146
+materials/maps/zm_terminator_disco_rd/de_chateau/cnstrcttarpb_854_-127_273.vmt,146,146
+materials/maps/zm_terminator_disco_rd/de_nuke/nukblenddirtgrassb_wvt_patch.vmt,304,304
+materials/maps/zm_terminator_disco_rd/glass/combineglass001a_331_-388_309.vmt,145,145
+materials/maps/zm_terminator_disco_rd/glass/combineglass001a_854_-127_273.vmt,145,145
+materials/maps/zm_terminator_disco_rd/glass/glasswindowbreak070b_854_-127_273.vmt,114,114
+materials/maps/zm_terminator_disco_rd/glass/offwndwb_854_-127_273.vmt,228,228
+materials/maps/zm_terminator_disco_rd/metal/metalceiling005a_331_-388_309.vmt,145,145
+materials/maps/zm_terminator_disco_rd/metal/metalceiling005a_854_-127_273.vmt,145,145
+materials/skybox/terminator_disco/mpa100bk.vmt,102,102
+materials/skybox/terminator_disco/mpa100bk.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100dn.vmt,102,102
+materials/skybox/terminator_disco/mpa100dn.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100ft.vmt,102,102
+materials/skybox/terminator_disco/mpa100ft.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100lf.vmt,102,102
+materials/skybox/terminator_disco/mpa100lf.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100rt.vmt,102,102
+materials/skybox/terminator_disco/mpa100rt.vtf,699272,699272
+materials/skybox/terminator_disco/mpa100up.vmt,102,102
+materials/skybox/terminator_disco/mpa100up.vtf,699272,699272
+sound/terminator_disco/28 Days Later Remix.mp3,6465149,6465149
+sound/terminator_disco/DJ Terminator.mp3,8475857,8475857
+sound/terminator_disco/rollin.mp3,7780745,7780745
+sound/terminator_disco/zombie trance.mp3,4558243,4558243
