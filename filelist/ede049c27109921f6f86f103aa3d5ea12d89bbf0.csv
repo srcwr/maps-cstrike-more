@@ -1,0 +1,53 @@
+filename,size,compressed
+D:/Steam/steamapps/common/Counter-Strike Source/cstrike/resource/cstrike_russian.txt,496030,496030
+materials/detail/detailsprites.vmt,1479,1479
+materials/devneons/blue_neon.vmt,103,103
+materials/devneons/blue_neon.vtf,43912,43912
+materials/devneons/red_neon.vmt,102,102
+materials/devneons/red_neon.vtf,43912,43912
+materials/maps/de_mk_karton battle/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_mk_karton battle/cubemapdefault.vtf,9832,9832
+materials/models/medkit.vmt,59,59
+materials/models/medkit.vtf,175008,175008
+materials/skybox/skybox_battleblockBK.vmt,141,141
+materials/skybox/skybox_battleblockBK.vtf,5592640,5592640
+materials/skybox/skybox_battleblockDN.vmt,141,141
+materials/skybox/skybox_battleblockDN.vtf,5592640,5592640
+materials/skybox/skybox_battleblockFT.vmt,141,141
+materials/skybox/skybox_battleblockFT.vtf,5592640,5592640
+materials/skybox/skybox_battleblockLF.vmt,141,141
+materials/skybox/skybox_battleblockLF.vtf,5592640,5592640
+materials/skybox/skybox_battleblockRT.vmt,141,141
+materials/skybox/skybox_battleblockRT.vtf,5592640,5592640
+materials/skybox/skybox_battleblockUP.vmt,141,141
+materials/skybox/skybox_battleblockUP.vtf,5592640,5592640
+materials/svoi textur/bumaga_1.vmt,86,86
+materials/svoi textur/bumaga_1.vtf,349760,349760
+materials/svoi textur/bumaga_2.vmt,86,86
+materials/svoi textur/bumaga_2.vtf,349760,349760
+materials/svoi textur/bumaga_3.vmt,86,86
+materials/svoi textur/bumaga_3.vtf,349760,349760
+materials/svoi textur/bumaga_4.vmt,86,86
+materials/svoi textur/bumaga_4.vtf,699232,699232
+materials/svoi textur/bumaga_5.vmt,86,86
+materials/svoi textur/bumaga_5.vtf,349760,349760
+materials/svoi textur/bumaga_6.vmt,86,86
+materials/svoi textur/bumaga_6.vtf,349760,349760
+materials/svoi textur/karton_1.vmt,90,90
+materials/svoi textur/karton_1.vtf,1398336,1398336
+materials/svoi textur/karton_2.vmt,90,90
+materials/svoi textur/karton_2.vtf,1398336,1398336
+materials/svoi textur/karton_3.vmt,90,90
+materials/svoi textur/karton_3.vtf,1398336,1398336
+materials/svoi textur/karton_4.vmt,90,90
+materials/svoi textur/karton_4.vtf,349760,349760
+materials/svoi textur/karton_5.vmt,90,90
+materials/svoi textur/karton_5.vtf,349760,349760
+materials/svoi textur/karton_6.vmt,90,90
+materials/svoi textur/karton_6.vtf,1398336,1398336
+materials/svoi textur/kvarce_1.vmt,85,85
+materials/svoi textur/kvarce_1.vtf,699288,699288
+models/world_models/medkit_classic/medkit.dx90.vtx,13500,13500
+models/world_models/medkit_classic/medkit.mdl,2308,2308
+models/world_models/medkit_classic/medkit.phy,15841,15841
+models/world_models/medkit_classic/medkit.vvd,56576,56576
