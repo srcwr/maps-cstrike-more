@@ -1,0 +1,9 @@
+filename,size,compressed
+maps/cs_underside.nav,96854,21312
+materials/maps/cs_underside/c0_0_0.hdr.vtf,76528,127
+materials/maps/cs_underside/c0_0_0.vtf,9832,104
+materials/maps/cs_underside/cubemapdefault.hdr.vtf,76528,127
+materials/maps/cs_underside/cubemapdefault.vtf,9832,104
+materials/maps/cs_underside/metal/metalroof004a_0_0_0.vmt,125,118
+materials/maps/cs_underside/stone/infflrd_blend_dirt_wvt_patch.vmt,87,89
+materials/maps/cs_underside/stone/stonefloor008a_0_0_0.vmt,126,119
