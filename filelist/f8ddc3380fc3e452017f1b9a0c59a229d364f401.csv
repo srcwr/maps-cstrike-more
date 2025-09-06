@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/Detail/detailsprites.vmt,161,161
+materials/Detail/detailsprites.vtf,1398336,1398336
+materials/METAL/METALLADDER001A.vmt,158,158
+materials/METAL/metalladder001a.vtf,87536,87536
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/TOOLSTRIGGER.vmt,285,285
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/maps/zh_funyard_cbble/c-112_1239_72.hdr.vtf,76528,76528
+materials/maps/zh_funyard_cbble/c-112_1239_72.vtf,9832,9832
+materials/maps/zh_funyard_cbble/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zh_funyard_cbble/cubemapdefault.vtf,9832,9832
+materials/maps/zh_funyard_cbble/dev/dev_water2_-112_1239_72.vmt,154,154
+materials/maps/zh_funyard_cbble/maps/zh_funyard_cbble/dev/dev_water2_-112_1239_72_depth_16337.vmt,139,139
+materials/maps/zh_funyard_cbble/metal/metalcombine001_-112_1239_72.vmt,138,138
+materials/maps/zh_funyard_cbble/nature/water_canals_water_murky_dx70_depth_15.vmt,123,123

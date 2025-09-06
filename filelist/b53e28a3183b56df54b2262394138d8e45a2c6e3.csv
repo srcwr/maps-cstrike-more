@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/Tools/toolsnodraw.vtf,2936,2936
+materials/maps/gg_trap/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_trap/cubemapdefault.vtf,28753,28753
+materials/models/props_mill/pipeset08d_128_001a.vmt,182,182
+materials/models/props_mill/pipeset08d_128_001a.vtf,43936,43936
+materials/models/props_mill/pipeset08d_128_001a_ref.vtf,43936,43936
+models/props_mill/pipeset08d_512_001a.dx80.vtx,40890,40890
+models/props_mill/pipeset08d_512_001a.dx90.vtx,40890,40890
+models/props_mill/pipeset08d_512_001a.mdl,1732,1732
+models/props_mill/pipeset08d_512_001a.phy,1009,1009
+models/props_mill/pipeset08d_512_001a.sw.vtx,40890,40890
+models/props_mill/pipeset08d_512_001a.vvd,173696,173696

@@ -1,0 +1,212 @@
+filename,size,compressed
+maps/surf_ski_2_rafurona_particles.txt,474,474
+materials/ARKANE/particles/arkane_healing.vmt,188,188
+materials/ARKANE/particles/arkane_healing.vtf,5680,5680
+materials/ARKANE/particles/arkane_healing_2.vmt,260,260
+materials/ARKANE/particles/arkane_healing_2.vtf,5696,5696
+materials/ARKANE/particles/arkane_healing_3.vtf,22080,22080
+materials/SPRITES/STAFFG1.vmt,82,82
+materials/SPRITES/bluelaser1.vmt,187,187
+materials/SPRITES/bluelaser1.vtf,1512,1512
+materials/SPRITES/engineer.vmt,120,120
+materials/SPRITES/engineer.vtf,22016,22016
+materials/SPRITES/glow03.vmt,121,121
+materials/SPRITES/glow03.vtf,16575,16575
+materials/SPRITES/grenademaker.vmt,124,124
+materials/SPRITES/grenademaker.vtf,22016,22016
+materials/SPRITES/physbeam.vmt,152,152
+materials/SPRITES/physbeam.vtf,109728,109728
+materials/SPRITES/redglow1.vmt,123,123
+materials/SPRITES/redglow1.vtf,2936,2936
+materials/SPRITES/slowmotion.vmt,122,122
+materials/SPRITES/slowmotion.vtf,22016,22016
+materials/SPRITES/staffg1.vtf,131184,131184
+materials/SPRITES/zerogxplode.vmt,126,126
+materials/SPRITES/zerogxplode.vtf,41352,41352
+materials/fallout3/jblighttubesclean.vmt,96,96
+materials/fallout3/jblighttubesclean.vtf,87616,87616
+materials/fallout3/jbscreen.vmt,87,87
+materials/fallout3/jbscreen.vtf,2952,2952
+materials/fallout3/jukeboxclean.vmt,91,91
+materials/fallout3/jukeboxclean.vtf,349760,349760
+materials/holy_grenade/holy_grenade.vmt,118,118
+materials/holy_grenade/holy_grenade.vtf,87616,87616
+materials/maps/surf_ski_2_css/c-1007_-70_-910.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-1007_-70_-910.vtf,4960,4960
+materials/maps/surf_ski_2_css/c-1007_603_2328.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-1007_603_2328.vtf,4960,4960
+materials/maps/surf_ski_2_css/c-1023_-1430_-1.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-1023_-1430_-1.vtf,4960,4960
+materials/maps/surf_ski_2_css/c-1023_-1430_-344.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-1023_-1430_-344.vtf,4960,4960
+materials/maps/surf_ski_2_css/c-2983_-534_-412.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-2983_-534_-412.vtf,4960,4960
+materials/maps/surf_ski_2_css/c-3144_1874_-913.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-3144_1874_-913.vtf,4960,4960
+materials/maps/surf_ski_2_css/c-5504_-2922_2033.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-5504_-2922_2033.vtf,4960,4960
+materials/maps/surf_ski_2_css/c-5648_3409_2007.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-5648_3409_2007.vtf,4960,4960
+materials/maps/surf_ski_2_css/c-5906_-2893_2060.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-5906_-2893_2060.vtf,4960,4960
+materials/maps/surf_ski_2_css/c-999_2906_847.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c-999_2906_847.vtf,4960,4960
+materials/maps/surf_ski_2_css/c1008_1464_-254.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c1008_1464_-254.vtf,4960,4960
+materials/maps/surf_ski_2_css/c1022_-1696_162.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c1022_-1696_162.vtf,4960,4960
+materials/maps/surf_ski_2_css/c2784_627_-334.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c2784_627_-334.vtf,4960,4960
+materials/maps/surf_ski_2_css/c2792_148_-1468.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c2792_148_-1468.vtf,4960,4960
+materials/maps/surf_ski_2_css/c2805_272_1508.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/c2805_272_1508.vtf,4960,4960
+materials/maps/surf_ski_2_css/concrete/concretefloor011a_c17_-3144_1874_-913.vmt,187,187
+materials/maps/surf_ski_2_css/concrete/concretefloor011a_c17_-5648_3409_2007.vmt,187,187
+materials/maps/surf_ski_2_css/concrete/concretefloor011a_c17_-999_2906_847.vmt,185,185
+materials/maps/surf_ski_2_css/concrete/concretefloor011a_c17_1008_1464_-254.vmt,186,186
+materials/maps/surf_ski_2_css/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_css/cubemapdefault.vtf,4960,4960
+materials/maps/surf_ski_2_css/dev/dev_water2_-1023_-1430_-344.vmt,156,156
+materials/maps/surf_ski_2_css/effects/com_shield003a_-1007_603_2328.vmt,162,162
+materials/maps/surf_ski_2_css/effects/com_shield003a_-1023_-1430_-344.vmt,164,164
+materials/maps/surf_ski_2_css/effects/com_shield003a_-2983_-534_-412.vmt,163,163
+materials/maps/surf_ski_2_css/effects/com_shield003a_-3144_1874_-913.vmt,163,163
+materials/maps/surf_ski_2_css/effects/com_shield003a_-5504_-2922_2033.vmt,164,164
+materials/maps/surf_ski_2_css/effects/com_shield003a_-5648_3409_2007.vmt,163,163
+materials/maps/surf_ski_2_css/effects/com_shield003a_-5906_-2893_2060.vmt,164,164
+materials/maps/surf_ski_2_css/environment maps/pipemetal001a_-1007_603_2328.vmt,147,147
+materials/maps/surf_ski_2_css/environment maps/pipemetal001a_-3144_1874_-913.vmt,148,148
+materials/maps/surf_ski_2_css/environment maps/pipemetal001a_-5648_3409_2007.vmt,148,148
+materials/maps/surf_ski_2_css/environment maps/pipemetal001a_-999_2906_847.vmt,146,146
+materials/maps/surf_ski_2_css/environment maps/pipemetal001a_1008_1464_-254.vmt,147,147
+materials/maps/surf_ski_2_css/environment maps/pipemetal004b_-3144_1874_-913.vmt,148,148
+materials/maps/surf_ski_2_css/environment maps/pipemetal004b_-5648_3409_2007.vmt,148,148
+materials/maps/surf_ski_2_css/environment maps/pipemetal004b_-5906_-2893_2060.vmt,149,149
+materials/maps/surf_ski_2_css/environment maps/pipemetal004b_1008_1464_-254.vmt,147,147
+materials/maps/surf_ski_2_css/environment maps/pipemetal004b_2784_627_-334.vmt,146,146
+materials/maps/surf_ski_2_css/environment maps/pipemetal004b_2792_148_-1468.vmt,147,147
+materials/maps/surf_ski_2_css/environment maps/pipemetal004b_2805_272_1508.vmt,146,146
+materials/maps/surf_ski_2_css/glass/glasswindow007a_-1023_-1430_-344.vmt,140,140
+materials/maps/surf_ski_2_css/glass/unbreakable_-3144_1874_-913.vmt,135,135
+materials/maps/surf_ski_2_css/glass/unbreakable_-999_2906_847.vmt,133,133
+materials/maps/surf_ski_2_css/glass/unbreakable_1008_1464_-254.vmt,134,134
+materials/maps/surf_ski_2_css/maps/surf_ski_2_css/dev/dev_water2_-1023_-1430_-344_depth_93.vmt,138,138
+materials/maps/surf_ski_2_css/vehicle/rubbertrainfloor001a_-3144_1874_-913.vmt,146,146
+materials/maps/surf_ski_2_css/vehicle/rubbertrainfloor001a_-5648_3409_2007.vmt,146,146
+materials/maps/surf_ski_2_css/vehicle/rubbertrainfloor001a_1008_1464_-254.vmt,145,145
+materials/maps/surf_ski_2_rafurona/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/surf_ski_2_rafurona/cubemapdefault.vtf,4960,4960
+materials/maps/surf_ski_2_rafurona/maps/surf_ski_2_css/dev/dev_water2_-1023_-1430_-344_depth_93.vmt,138,138
+materials/models/LOTR/singularity/black.vmt,60,60
+materials/models/LOTR/singularity/metalduct001a.vmt,226,226
+materials/models/LOTR/singularity/metalduct003a.vmt,94,94
+materials/models/LOTR/singularity/metalduct004a.vmt,94,94
+materials/models/LOTR/singularity/metaltrain001a.vmt,295,295
+materials/models/LOTR/singularity/metaltrain001c.vmt,295,295
+materials/models/LOTR/singularity/metaltrain001d.vmt,295,295
+materials/models/LOTR/singularity/train_metalceiling_02.vmt,106,106
+materials/models/thunder_gun/_-gt5_weapon_mesh_c.vmt,363,363
+materials/models/thunder_gun/_-gt5_weapon_mesh_c.vtf,22080,22080
+materials/models/thunder_gun/_-gt5_weapon_thundergun_c.vmt,310,310
+materials/models/thunder_gun/_-gt5_weapon_thundergun_c.vtf,349760,349760
+materials/models/thunder_gun/_-gt5_weapon_thundergun_controls_c.vmt,328,328
+materials/models/thunder_gun/_-gt5_weapon_thundergun_controls_c.vtf,349760,349760
+materials/models/thunder_gun/t5_weapon_mesh_normal.vtf,11144,11144
+materials/models/thunder_gun/t5_weapon_thundergun_controls_normal.vtf,174984,174984
+materials/models/thunder_gun/t5_weapon_thundergun_normal.vtf,174984,174984
+materials/models/weapons/MiniGun/bighandle.vmt,186,186
+materials/models/weapons/MiniGun/bighandle.vtf,5624,5624
+materials/models/weapons/MiniGun/bighandle_ref.vtf,5608,5608
+materials/models/weapons/MiniGun/w_minigun.vmt,427,427
+materials/models/weapons/MiniGun/w_minigun.vtf,349760,349760
+materials/models/weapons/MiniGun/w_minigun_glow.vtf,175008,175008
+materials/skybox/mpa104bk.vmt,85,85
+materials/skybox/mpa104bk.vtf,699272,699272
+materials/skybox/mpa104dn.vmt,85,85
+materials/skybox/mpa104dn.vtf,699272,699272
+materials/skybox/mpa104ft.vmt,85,85
+materials/skybox/mpa104ft.vtf,699272,699272
+materials/skybox/mpa104lf.vmt,85,85
+materials/skybox/mpa104lf.vtf,699272,699272
+materials/skybox/mpa104rt.vmt,85,85
+materials/skybox/mpa104rt.vtf,699272,699272
+materials/skybox/mpa104up.vmt,85,85
+materials/skybox/mpa104up.vtf,699272,699272
+models/fallout3/jukebox.dx80.vtx,12072,12072
+models/fallout3/jukebox.dx90.vtx,12072,12072
+models/fallout3/jukebox.mdl,2108,2108
+models/fallout3/jukebox.phy,4382,4382
+models/fallout3/jukebox.sw.vtx,12072,12072
+models/fallout3/jukebox.vvd,55552,55552
+models/holy_grenade/holy_grenade.dx80.vtx,94872,94872
+models/holy_grenade/holy_grenade.dx90.vtx,94872,94872
+models/holy_grenade/holy_grenade.mdl,1772,1772
+models/holy_grenade/holy_grenade.phy,11484,11484
+models/holy_grenade/holy_grenade.sw.vtx,94864,94864
+models/holy_grenade/holy_grenade.vvd,374784,374784
+models/lotr/singularity.dx80.vtx,31071,31071
+models/lotr/singularity.dx90.vtx,31071,31071
+models/lotr/singularity.mdl,3044,3044
+models/lotr/singularity.sw.vtx,31071,31071
+models/lotr/singularity.vvd,155328,155328
+models/mrpropre/giantsawblade/giantsawblade.dx80.vtx,14013,14013
+models/mrpropre/giantsawblade/giantsawblade.dx90.vtx,14013,14013
+models/mrpropre/giantsawblade/giantsawblade.mdl,1568,1568
+models/mrpropre/giantsawblade/giantsawblade.phy,4620,4620
+models/mrpropre/giantsawblade/giantsawblade.sw.vtx,14005,14005
+models/mrpropre/giantsawblade/giantsawblade.vvd,66624,66624
+models/thunder_gun.dx80.vtx,42315,42315
+models/thunder_gun.dx90.vtx,42315,42315
+models/thunder_gun.mdl,2160,2160
+models/thunder_gun.phy,3858,3858
+models/thunder_gun.sw.vtx,42315,42315
+models/thunder_gun.vvd,196032,196032
+models/weapons/minigun.dx80.vtx,101279,101279
+models/weapons/minigun.dx90.vtx,101279,101279
+models/weapons/minigun.mdl,4124,4124
+models/weapons/minigun.phy,1738,1738
+models/weapons/minigun.sw.vtx,101255,101255
+models/weapons/minigun.vvd,473728,473728
+particles/Vortigaunt_FX.pcf,15466,15466
+particles/choreo_extract.pcf,24512,24512
+particles/fire_01.pcf,38253,38253
+particles/hunter_projectile.pcf,25955,25955
+particles/nuke.pcf,35252,35252
+particles/paranoid_1.pcf,5201,5201
+particles/paranoid_2.pcf,10390,10390
+particles/paranoid_3.pcf,11660,11660
+particles/paranoid_4.pcf,13715,13715
+particles/paranoid_5.pcf,14762,14762
+particles/paranoid_8.pcf,8599,8599
+particles/waterfall.pcf,12644,12644
+sound/admin_plugin/whores.wav,102190,102190
+sound/helms_deep/explosion.mp3,55816,55816
+"sound/rafuron/dukenukemforever/Oh yeah, its ass kickin time.mp3",17746,17746
+sound/rafuron/dukenukemforever/hail to the king baby.mp3,14768,14768
+sound/rafuron/misc/hallelujah.mp3,30119,30119
+sound/rafuron/misc/kaboom.mp3,13669,13669
+sound/rafuron/misc/nuke.mp3,83572,83572
+sound/rafuron/misc/thundergun.mp3,10847,10847
+sound/rafuron/music/Benny Hill.mp3,389060,389060
+sound/rafuron/music/Drive Nightcall.mp3,700480,700480
+sound/rafuron/music/Gorillaz Soul Child.mp3,573487,573487
+sound/rafuron/music/Haddaway.mp3,620389,620389
+sound/rafuron/music/I need a hero.mp3,592175,592175
+sound/rafuron/music/Megaupload.mp3,433922,433922
+sound/rafuron/music/Motorstorm Apocalypse.mp3,582491,582491
+sound/rafuron/music/Move Through me.mp3,580544,580544
+sound/rafuron/music/Pendulum Tarantula.mp3,610958,610958
+sound/rafuron/music/Pork.mp3,380546,380546
+sound/rafuron/music/Serious Sam 2.mp3,654870,654870
+sound/rafuron/music/Serious Sam 3.mp3,662394,662394
+sound/rafuron/music/Song 2.mp3,422216,422216
+sound/rafuron/music/Trololo.mp3,480756,480756
+sound/rafuron/music/Vivaldi.mp3,431369,431369
+sound/rafuron/music/YMCA.mp3,648786,648786
+sound/ze_random_labyrinth/anihilatorpick.mp3,21178,21178
+sound/ze_random_labyrinth/annihilator.mp3,14125,14125
+sound/ze_random_labyrinth/bomba.mp3,27913,27913
+sound/ze_random_labyrinth/minigun.mp3,134962,134962
+sound/ze_random_labyrinth/rocketfire1.wav,516152,516152
+sound/ze_random_labyrinth/singularshoot.mp3,21648,21648
