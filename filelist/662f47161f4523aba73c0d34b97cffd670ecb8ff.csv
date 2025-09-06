@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/BHOP.vmt,66,66
+materials/EASY.vmt,66,66
+materials/JUMP.vmt,66,66
+materials/bhop.vtf,1398336,1398336
+materials/easy.vtf,1398336,1398336
+materials/jump.vtf,1398336,1398336
+materials/maps/deathrun_toxic_metal/c0_0_0.hdr.vtf,76528,76528
+materials/maps/deathrun_toxic_metal/c0_0_0.vtf,9832,9832
+materials/maps/deathrun_toxic_metal/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/deathrun_toxic_metal/cubemapdefault.vtf,9832,9832
+materials/maps/deathrun_toxic_metal/dev/dev_water2_depth_32.vmt,101,101
+materials/maps/deathrun_toxic_metal/glass/unbreakable_0_0_0.vmt,131,131
+materials/maps/deathrun_toxic_metal/nature/toxicslime002a_depth_72.vmt,108,108
