@@ -1,0 +1,214 @@
+filename,size,compressed
+maps/graphs/ttt_minecraftmanor_dev.ain,16,16
+materials/maps/ttt_minecraftmanor_dev/c-160_-576_-200.hdr.vtf,76528,76528
+materials/maps/ttt_minecraftmanor_dev/c-160_-576_-200.vtf,9832,9832
+materials/maps/ttt_minecraftmanor_dev/c-2_-578_-91.hdr.vtf,76528,76528
+materials/maps/ttt_minecraftmanor_dev/c-2_-578_-91.vtf,9832,9832
+materials/maps/ttt_minecraftmanor_dev/c0_-721_-200.hdr.vtf,76528,76528
+materials/maps/ttt_minecraftmanor_dev/c0_-721_-200.vtf,9832,9832
+materials/maps/ttt_minecraftmanor_dev/c103_678_-220.hdr.vtf,76528,76528
+materials/maps/ttt_minecraftmanor_dev/c103_678_-220.vtf,9832,9832
+materials/maps/ttt_minecraftmanor_dev/c180_-558_-200.hdr.vtf,76528,76528
+materials/maps/ttt_minecraftmanor_dev/c180_-558_-200.vtf,9832,9832
+materials/maps/ttt_minecraftmanor_dev/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ttt_minecraftmanor_dev/cubemapdefault.vtf,9832,9832
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/lava_depth_149.vmt,111,111
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/lava_depth_27.vmt,110,110
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/lava_depth_36.vmt,110,110
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/lava_depth_40.vmt,110,110
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_119.vmt,112,112
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_143.vmt,112,112
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_28.vmt,111,111
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_29.vmt,111,111
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_33.vmt,111,111
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_34.vmt,111,111
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_39.vmt,111,111
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_60.vmt,111,111
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_66.vmt,111,111
+materials/maps/ttt_minecraftmanor_dev/minecraft_original/water_depth_68.vmt,111,111
+materials/minecraft_original/bedrock.vmt,98,98
+materials/minecraft_original/bedrock.vtf,11144,11144
+materials/minecraft_original/bookcase.vmt,75,75
+materials/minecraft_original/bookcase.vtf,11144,11144
+materials/minecraft_original/chest front.vmt,78,78
+materials/minecraft_original/chest front.vtf,11144,11144
+materials/minecraft_original/chest side right.vmt,83,83
+materials/minecraft_original/chest side right.vtf,11144,11144
+materials/minecraft_original/chest side.vmt,77,77
+materials/minecraft_original/chest side.vtf,11144,11144
+materials/minecraft_original/chest top.vmt,104,104
+materials/minecraft_original/chest top.vtf,11144,11144
+materials/minecraft_original/cobblestone.vmt,102,102
+materials/minecraft_original/cobblestone.vtf,11144,11144
+materials/minecraft_original/diamond ore.vmt,78,78
+materials/minecraft_original/diamond ore.vtf,11144,11144
+materials/minecraft_original/dirt.vmt,95,95
+materials/minecraft_original/dirt.vtf,11144,11144
+materials/minecraft_original/enchantment table side.vmt,108,108
+materials/minecraft_original/enchantment table side.vtf,87588,87588
+materials/minecraft_original/enchantment table.vmt,84,84
+materials/minecraft_original/enchantment table.vtf,87588,87588
+materials/minecraft_original/furnace side.vmt,79,79
+materials/minecraft_original/furnace side.vtf,11144,11144
+materials/minecraft_original/furnace top.vmt,78,78
+materials/minecraft_original/furnace top.vtf,11144,11144
+materials/minecraft_original/furnace.vmt,74,74
+materials/minecraft_original/furnace.vtf,11144,11144
+materials/minecraft_original/glass.vmt,116,116
+materials/minecraft_original/glass.vtf,87588,87588
+materials/minecraft_original/glowstone.vmt,101,101
+materials/minecraft_original/glowstone.vtf,11144,11144
+materials/minecraft_original/gold block.vmt,77,77
+materials/minecraft_original/gold block.vtf,11144,11144
+materials/minecraft_original/gold ore.vmt,75,75
+materials/minecraft_original/gold ore.vtf,11144,11144
+materials/minecraft_original/grass side.vmt,77,77
+materials/minecraft_original/grass side.vtf,87588,87588
+materials/minecraft_original/grass.vmt,97,97
+materials/minecraft_original/grass.vtf,87588,87588
+materials/minecraft_original/gravel.vmt,76,76
+materials/minecraft_original/gravel.vtf,87588,87588
+materials/minecraft_original/iron bars.vmt,95,95
+materials/minecraft_original/iron bars.vtf,87588,87588
+materials/minecraft_original/iron ore.vmt,75,75
+materials/minecraft_original/iron ore.vtf,11144,11144
+materials/minecraft_original/ladder.vmt,92,92
+materials/minecraft_original/ladder.vtf,87588,87588
+materials/minecraft_original/lava.vmt,524,524
+materials/minecraft_original/lava.vtf,87588,87588
+materials/minecraft_original/leaves transparent.vmt,129,129
+materials/minecraft_original/leaves transparent.vtf,87588,87588
+materials/minecraft_original/leaves.vmt,117,117
+materials/minecraft_original/leaves.vtf,87588,87588
+materials/minecraft_original/mcportalnonwater.vmt,83,83
+materials/minecraft_original/mcportalnonwater.vtf,16592,16592
+materials/minecraft_original/obsidian.vmt,99,99
+materials/minecraft_original/obsidian.vtf,11144,11144
+materials/minecraft_original/sand.vmt,95,95
+materials/minecraft_original/sand.vtf,11144,11144
+materials/minecraft_original/stone brick.vmt,103,103
+materials/minecraft_original/stone brick.vtf,11144,11144
+materials/minecraft_original/stone slab top.vmt,105,105
+materials/minecraft_original/stone slab top.vtf,11144,11144
+materials/minecraft_original/stone slab.vmt,101,101
+materials/minecraft_original/stone slab.vtf,11144,11144
+materials/minecraft_original/stone.vmt,96,96
+materials/minecraft_original/stone.vtf,11144,11144
+materials/minecraft_original/water still.vmt,115,115
+materials/minecraft_original/water still.vtf,87588,87588
+materials/minecraft_original/water.vmt,1258,1258
+materials/minecraft_original/water.vtf,87588,87588
+materials/minecraft_original/wood top.vmt,75,75
+materials/minecraft_original/wood top.vtf,11144,11144
+materials/minecraft_original/wood.vmt,71,71
+materials/minecraft_original/wood.vtf,11144,11144
+materials/minecraft_original/wooden plank.vmt,109,109
+materials/minecraft_original/wooden plank.vtf,11144,11144
+materials/minecraft_original/workbench top.vmt,80,80
+materials/minecraft_original/workbench top.vtf,11144,11144
+materials/minecraft_original/workbench1.vmt,77,77
+materials/minecraft_original/workbench1.vtf,11144,11144
+materials/minecraft_original/workbench2.vmt,77,77
+materials/minecraft_original/workbench2.vtf,11144,11144
+materials/models/mcmodelpack/mobs/pig.vmt,151,151
+materials/models/mcmodelpack/mobs/pig.vtf,6288,6288
+materials/models/minecraft_source/Torch.vmt,84,84
+materials/models/minecraft_source/Torch.vtf,8304,8304
+materials/models/minecraft_source/minecraft_table.vmt,98,98
+materials/models/minecraft_source/minecraft_table.vtf,87544,87544
+materials/models/minecraft_source/wood.vmt,115,115
+materials/models/minecraft_source/wood.vtf,174984,174984
+materials/skybox/minecraftnightBK.vtf,1398208,1398208
+materials/skybox/minecraftnightDN.vtf,1398208,1398208
+materials/skybox/minecraftnightFT.vtf,1398208,1398208
+materials/skybox/minecraftnightLF.vtf,1398208,1398208
+materials/skybox/minecraftnightRT.vtf,1398208,1398208
+materials/skybox/minecraftnightUP.vtf,1398208,1398208
+materials/skybox/minecraftnightbk.vmt,106,106
+materials/skybox/minecraftnightdn.vmt,106,106
+materials/skybox/minecraftnightft.vmt,108,108
+materials/skybox/minecraftnightlf.vmt,106,106
+materials/skybox/minecraftnightrt.vmt,106,106
+materials/skybox/minecraftnightup.vmt,106,106
+materials/vgui/logos/NoBG_Spray2.vtf,87640,87640
+materials/vgui/logos/UI/NoBG_Spray2.vmt,212,212
+materials/voo_custom/ttt_credits_full.vmt,89,89
+materials/voo_custom/ttt_credits_full.vtf,349760,349760
+materials/voo_custom/ttt_diamonds.vmt,90,90
+materials/voo_custom/ttt_diamonds.vtf,43872,43872
+materials/voo_custom/ttt_grave.vmt,87,87
+materials/voo_custom/ttt_grave.vtf,43872,43872
+materials/voo_custom/ttt_hatch.vmt,87,87
+materials/voo_custom/ttt_hatch.vtf,43872,43872
+models/mcmodelpack/mobs/pig.dx80.vtx,2221,2221
+models/mcmodelpack/mobs/pig.dx90.vtx,2221,2221
+models/mcmodelpack/mobs/pig.mdl,7552,7552
+models/mcmodelpack/mobs/pig.phy,5160,5160
+models/mcmodelpack/mobs/pig.sw.vtx,2173,2173
+models/mcmodelpack/mobs/pig.vvd,10816,10816
+models/minecraft_source/Fence/Fence_bend.dx80.vtx,1197,1197
+models/minecraft_source/Fence/Fence_bend.dx90.vtx,1197,1197
+models/minecraft_source/Fence/Fence_bend.phy,2765,2765
+models/minecraft_source/Fence/Fence_bend.sw.vtx,1197,1197
+models/minecraft_source/Fence/fence_bend.mdl,1716,1716
+models/minecraft_source/Fence/fence_bend.vvd,5696,5696
+models/minecraft_source/Fence/fence_end.dx80.vtx,765,765
+models/minecraft_source/Fence/fence_end.dx90.vtx,765,765
+models/minecraft_source/Fence/fence_end.mdl,1716,1716
+models/minecraft_source/Fence/fence_end.phy,1820,1820
+models/minecraft_source/Fence/fence_end.sw.vtx,765,765
+models/minecraft_source/Fence/fence_end.vvd,3392,3392
+models/minecraft_source/Fence/fence_point_1x.dx80.vtx,429,429
+models/minecraft_source/Fence/fence_point_1x.dx90.vtx,429,429
+models/minecraft_source/Fence/fence_point_1x.mdl,1716,1716
+models/minecraft_source/Fence/fence_point_1x.phy,705,705
+models/minecraft_source/Fence/fence_point_1x.sw.vtx,429,429
+models/minecraft_source/Fence/fence_point_1x.vvd,1600,1600
+models/minecraft_source/Fence/fence_point_3x.dx80.vtx,429,429
+models/minecraft_source/Fence/fence_point_3x.dx90.vtx,429,429
+models/minecraft_source/Fence/fence_point_3x.mdl,1716,1716
+models/minecraft_source/Fence/fence_point_3x.phy,706,706
+models/minecraft_source/Fence/fence_point_3x.sw.vtx,429,429
+models/minecraft_source/Fence/fence_point_3x.vvd,1600,1600
+models/minecraft_source/Fence/fence_point_4x.dx80.vtx,429,429
+models/minecraft_source/Fence/fence_point_4x.dx90.vtx,429,429
+models/minecraft_source/Fence/fence_point_4x.mdl,1716,1716
+models/minecraft_source/Fence/fence_point_4x.phy,706,706
+models/minecraft_source/Fence/fence_point_4x.sw.vtx,429,429
+models/minecraft_source/Fence/fence_point_4x.vvd,1600,1600
+models/minecraft_source/Fence/fence_tri.dx80.vtx,1197,1197
+models/minecraft_source/Fence/fence_tri.dx90.vtx,1197,1197
+models/minecraft_source/Fence/fence_tri.mdl,1716,1716
+models/minecraft_source/Fence/fence_tri.phy,2893,2893
+models/minecraft_source/Fence/fence_tri.sw.vtx,1197,1197
+models/minecraft_source/Fence/fence_tri.vvd,5696,5696
+models/minecraft_source/Fence/fence_x1.dx80.vtx,813,813
+models/minecraft_source/Fence/fence_x1.dx90.vtx,813,813
+models/minecraft_source/Fence/fence_x1.mdl,1716,1716
+models/minecraft_source/Fence/fence_x1.phy,1948,1948
+models/minecraft_source/Fence/fence_x1.sw.vtx,813,813
+models/minecraft_source/Fence/fence_x1.vvd,3648,3648
+models/minecraft_source/Fence/fence_x2.dx80.vtx,1101,1101
+models/minecraft_source/Fence/fence_x2.dx90.vtx,1101,1101
+models/minecraft_source/Fence/fence_x2.mdl,1716,1716
+models/minecraft_source/Fence/fence_x2.phy,2404,2404
+models/minecraft_source/Fence/fence_x2.sw.vtx,1101,1101
+models/minecraft_source/Fence/fence_x2.vvd,5184,5184
+models/minecraft_source/Fence/fence_x3.dx80.vtx,1389,1389
+models/minecraft_source/Fence/fence_x3.dx90.vtx,1389,1389
+models/minecraft_source/Fence/fence_x3.mdl,1716,1716
+models/minecraft_source/Fence/fence_x3.phy,2860,2860
+models/minecraft_source/Fence/fence_x3.sw.vtx,1389,1389
+models/minecraft_source/Fence/fence_x3.vvd,6720,6720
+models/minecraft_source/table.dx80.vtx,2085,2085
+models/minecraft_source/table.dx90.vtx,2085,2085
+models/minecraft_source/table.mdl,30420,30420
+models/minecraft_source/table.phy,700,700
+models/minecraft_source/table.sw.vtx,1957,1957
+models/minecraft_source/table.vvd,9792,9792
+models/minecraft_source/torch.dx80.vtx,381,381
+models/minecraft_source/torch.dx90.vtx,381,381
+models/minecraft_source/torch.mdl,1724,1724
+models/minecraft_source/torch.phy,693,693
+models/minecraft_source/torch.sw.vtx,381,381
+models/minecraft_source/torch.vvd,1344,1344

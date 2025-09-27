@@ -1,0 +1,117 @@
+filename,size,compressed
+maps/graphs/ttt_minecraftmotel_b2.ain,16,16
+materials/eNnerGy/Minecraft/Stone.vtf,11144,11144
+materials/eNnerGy/Minecraft/Stone_Slab.vtf,11144,11144
+materials/eNnerGy/Minecraft/Stone_Slab_Front.vtf,11144,11144
+materials/eNnerGy/Minecraft/bed_front.vmt,138,138
+materials/eNnerGy/Minecraft/bed_front.vtf,22080,22080
+materials/eNnerGy/Minecraft/bed_side.vmt,137,137
+materials/eNnerGy/Minecraft/bed_side.vtf,22080,22080
+materials/eNnerGy/Minecraft/bed_top.vmt,115,115
+materials/eNnerGy/Minecraft/bed_top.vtf,11144,11144
+materials/eNnerGy/Minecraft/glowstone.vmt,136,136
+materials/eNnerGy/Minecraft/glowstone.vtf,11144,11144
+materials/eNnerGy/Minecraft/metal_door.vmt,183,183
+materials/eNnerGy/Minecraft/metal_door.vtf,43872,43872
+materials/eNnerGy/Minecraft/portal.vmt,323,323
+materials/eNnerGy/Minecraft/portal.vtf,2493616,2493616
+materials/eNnerGy/Minecraft/stone.vmt,137,137
+materials/eNnerGy/Minecraft/stone_slab.vmt,142,142
+materials/eNnerGy/Minecraft/stone_slab_front.vmt,148,148
+materials/eNnerGy/Minecraft/water.vmt,603,603
+materials/eNnerGy/Minecraft/water.vtf,2865440,2865440
+materials/eNnerGy/Minecraft/wood_door.vmt,182,182
+materials/eNnerGy/Minecraft/wood_door.vtf,43872,43872
+materials/eNnerGy/Minecraft/wooden_planks_dark.vmt,150,150
+materials/eNnerGy/Minecraft/wooden_planks_dark.vtf,11144,11144
+materials/eNnerGy/Minecraft/wooden_planks_jungle.vmt,152,152
+materials/eNnerGy/Minecraft/wooden_planks_jungle.vtf,11144,11144
+materials/eNnerGy/Minecraft/wool_black.vmt,144,144
+materials/eNnerGy/Minecraft/wool_black.vtf,11144,11144
+materials/eNnerGy/Minecraft/wool_lightgrey.vmt,148,148
+materials/eNnerGy/Minecraft/wool_lightgrey.vtf,11144,11144
+materials/eNnerGy/Minecraft/wool_orange.vmt,145,145
+materials/eNnerGy/Minecraft/wool_orange.vtf,11144,11144
+materials/eNnerGy/Minecraft/wool_white.vmt,144,144
+materials/eNnerGy/Minecraft/wool_white.vtf,11144,11144
+materials/maps/ttt_minecraftmotel_b2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ttt_minecraftmotel_b2/cubemapdefault.vtf,9832,9832
+materials/maps/ttt_minecraftmotel_b2/ennergy/minecraft/water_depth_188.vmt,111,111
+materials/maps/ttt_minecraftmotel_b2/ennergy/minecraft/water_depth_34.vmt,110,110
+materials/maps/ttt_minecraftmotel_b2/ennergy/minecraft/water_depth_40.vmt,110,110
+materials/maps/ttt_minecraftmotel_b2/ennergy/minecraft/water_depth_92.vmt,110,110
+materials/minecraft_original/birch plank.vmt,78,78
+materials/minecraft_original/birch plank.vtf,87588,87588
+materials/minecraft_original/blue wool.vmt,76,76
+materials/minecraft_original/blue wool.vtf,11144,11144
+materials/minecraft_original/circle stone.vmt,79,79
+materials/minecraft_original/circle stone.vtf,87588,87588
+materials/minecraft_original/cobblestone.vmt,102,102
+materials/minecraft_original/cobblestone.vtf,11144,11144
+materials/minecraft_original/cyan wool.vmt,76,76
+materials/minecraft_original/cyan wool.vtf,11144,11144
+materials/minecraft_original/dark green wool.vmt,82,82
+materials/minecraft_original/dark green wool.vtf,87588,87588
+materials/minecraft_original/glass.vmt,116,116
+materials/minecraft_original/glass.vtf,87588,87588
+materials/minecraft_original/iron bars.vmt,95,95
+materials/minecraft_original/iron bars.vtf,87588,87588
+materials/minecraft_original/iron block.vmt,77,77
+materials/minecraft_original/iron block.vtf,11144,11144
+materials/minecraft_original/jukebox side.vmt,79,79
+materials/minecraft_original/jukebox side.vtf,11144,11144
+materials/minecraft_original/jukebox top.vmt,78,78
+materials/minecraft_original/jukebox top.vtf,11144,11144
+materials/minecraft_original/jungle plank.vmt,79,79
+materials/minecraft_original/jungle plank.vtf,87588,87588
+materials/minecraft_original/jungle wooden plank.vmt,86,86
+materials/minecraft_original/jungle wooden plank.vtf,87588,87588
+materials/minecraft_original/lapis lazuli block.vmt,85,85
+materials/minecraft_original/lapis lazuli block.vtf,11144,11144
+materials/minecraft_original/light blue wool.vmt,82,82
+materials/minecraft_original/light blue wool.vtf,11144,11144
+materials/minecraft_original/nether brick.vmt,104,104
+materials/minecraft_original/nether brick.vtf,11144,11144
+materials/minecraft_original/netherrack.vmt,101,101
+materials/minecraft_original/netherrack.vtf,11144,11144
+materials/minecraft_original/obsidian.vmt,99,99
+materials/minecraft_original/obsidian.vtf,11144,11144
+materials/minecraft_original/pine.vmt,71,71
+materials/minecraft_original/pine.vtf,11144,11144
+materials/minecraft_original/stone brick.vmt,103,103
+materials/minecraft_original/stone brick.vtf,11144,11144
+materials/minecraft_original/stone slab top.vmt,105,105
+materials/minecraft_original/stone slab top.vtf,11144,11144
+materials/minecraft_original/stone slab.vmt,101,101
+materials/minecraft_original/stone slab.vtf,11144,11144
+materials/minecraft_original/wood top.vmt,75,75
+materials/minecraft_original/wood top.vtf,11144,11144
+materials/minecraft_original/wooden plank.vmt,109,109
+materials/minecraft_original/wooden plank.vtf,11144,11144
+materials/minecraft_source/CLOUDS.vmt,240,240
+materials/minecraft_source/clouds.vtf,4194512,4194512
+materials/skybox/Minecraftbk.vmt,86,86
+materials/skybox/Minecraftdn.vmt,84,84
+materials/skybox/Minecraftft.vmt,84,84
+materials/skybox/Minecraftlf.vmt,84,84
+materials/skybox/Minecraftrt.vmt,84,84
+materials/skybox/Minecraftup.vmt,84,84
+materials/skybox/minecraftbk.vtf,349776,349776
+materials/skybox/minecraftdn.vtf,349776,349776
+materials/skybox/minecraftft.vtf,349776,349776
+materials/skybox/minecraftlf.vtf,349776,349776
+materials/skybox/minecraftrt.vtf,349776,349776
+materials/skybox/minecraftup.vtf,349776,349776
+materials/skyrossm/minecraftmotel/backelevator.vmt,84,84
+materials/skyrossm/minecraftmotel/backelevator.vtf,43912,43912
+materials/skyrossm/minecraftmotel/basement.vmt,80,80
+materials/skyrossm/minecraftmotel/basement.vtf,43912,43912
+materials/skyrossm/minecraftmotel/bathroom.vmt,80,80
+materials/skyrossm/minecraftmotel/bathroom.vtf,43912,43912
+materials/skyrossm/minecraftmotel/roof.vmt,76,76
+materials/skyrossm/minecraftmotel/roof.vtf,43912,43912
+materials/skyrossm/minecraftmotel/room.vmt,76,76
+materials/skyrossm/minecraftmotel/room.vtf,43912,43912
+sound/mc_nuketown/k_d - Distance.mp3,5566207,5566207
+sound/minecraft_source/door_close.wav,34498,34498
+sound/minecraft_source/door_open.wav,44144,44144
