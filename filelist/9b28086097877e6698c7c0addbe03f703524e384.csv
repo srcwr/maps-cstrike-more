@@ -1,0 +1,104 @@
+filename,size,compressed
+detail.vbsp,1013,1013
+maps/ze_flex_b4_css.txt,63,63
+maps/ze_flex_b4_css_particles.txt,65,65
+materials/additional_textures/dev_envcubemap_metal.vmt,151,151
+materials/additional_textures/gooinglass_mock.vmt,697,697
+materials/additional_textures/metalfireescape002a_ladder.vmt,245,245
+materials/additional_textures/water_screenoverlay.vmt,376,376
+materials/correction/cc_delfinoplaza.raw,98304,98304
+materials/cubes/black.vmt,493,493
+materials/cubes/black.vtf,43912,43912
+materials/cubes/blue.vmt,492,492
+materials/cubes/blue.vtf,43912,43912
+materials/cubes/brown.vmt,493,493
+materials/cubes/brown.vtf,43912,43912
+materials/cubes/green.vmt,493,493
+materials/cubes/green.vtf,43912,43912
+materials/cubes/grey.vmt,492,492
+materials/cubes/grey.vtf,43912,43912
+materials/cubes/normal.vtf,262351,262351
+materials/cubes/orange.vmt,494,494
+materials/cubes/orange.vtf,43912,43912
+materials/cubes/pink.vmt,492,492
+materials/cubes/pink.vtf,43912,43912
+materials/cubes/purple.vmt,494,494
+materials/cubes/purple.vtf,43912,43912
+materials/cubes/red.vmt,491,491
+materials/cubes/red.vtf,43912,43912
+materials/cubes/white.vmt,493,493
+materials/cubes/white.vtf,43912,43912
+materials/cubes/yellow.vmt,494,494
+materials/cubes/yellow.vtf,43912,43912
+materials/custom/custom_glass1_nocull.vmt,284,284
+materials/custom/glass_norm_nc.vtf,1048767,1048767
+materials/custom/white_plain.vtf,262232,262232
+materials/de_nuke/nukwater_movingplane_beneath.vmt,288,288
+materials/detail/detailconcrete001a.vtf,174968,174968
+materials/liquids/water_noise.vtf,175008,175008
+materials/liquids/water_river_normal_sharp.vtf,175008,175008
+materials/maps/ze_flex_b4_css/additional_textures/dev_envcubemap_metal_1744_-1488_1040.vmt,158,158
+materials/maps/ze_flex_b4_css/c1744_-1488_1040.hdr.vtf,1223416,1223416
+materials/maps/ze_flex_b4_css/c1744_-1488_1040.vtf,76648,76648
+materials/maps/ze_flex_b4_css/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_flex_b4_css/cubemapdefault.vtf,9832,9832
+materials/maps/ze_flex_b4_css/cubes/black_1744_-1488_1040.vmt,129,129
+materials/maps/ze_flex_b4_css/cubes/blue_1744_-1488_1040.vmt,128,128
+materials/maps/ze_flex_b4_css/cubes/brown_1744_-1488_1040.vmt,129,129
+materials/maps/ze_flex_b4_css/cubes/green_1744_-1488_1040.vmt,129,129
+materials/maps/ze_flex_b4_css/cubes/grey_1744_-1488_1040.vmt,128,128
+materials/maps/ze_flex_b4_css/cubes/orange_1744_-1488_1040.vmt,130,130
+materials/maps/ze_flex_b4_css/cubes/pink_1744_-1488_1040.vmt,128,128
+materials/maps/ze_flex_b4_css/cubes/purple_1744_-1488_1040.vmt,130,130
+materials/maps/ze_flex_b4_css/cubes/red_1744_-1488_1040.vmt,127,127
+materials/maps/ze_flex_b4_css/cubes/white_1744_-1488_1040.vmt,129,129
+materials/maps/ze_flex_b4_css/cubes/yellow_1744_-1488_1040.vmt,130,130
+materials/maps/ze_flex_b4_css/custom/custom_glass1_nocull_1744_-1488_1040.vmt,145,145
+materials/maps/ze_flex_b4_css/de_nuke/nukwater_movingplane_1744_-1488_1040.vmt,169,169
+materials/maps/ze_flex_b4_css/maps/ze_flex_b4_css/de_nuke/nukwater_movingplane_1744_-1488_1040_depth_128.vmt,152,152
+materials/maps/ze_flex_b4_css/maps/ze_flex_b4_css/de_nuke/nukwater_movingplane_1744_-1488_1040_depth_16.vmt,151,151
+materials/maps/ze_flex_b4_css/maps/ze_flex_b4_css/de_nuke/nukwater_movingplane_1744_-1488_1040_depth_192.vmt,152,152
+materials/maps/ze_flex_b4_css/maps/ze_flex_b4_css/de_nuke/nukwater_movingplane_1744_-1488_1040_depth_240.vmt,152,152
+materials/maps/ze_flex_b4_css/maps/ze_flex_b4_css/de_nuke/nukwater_movingplane_1744_-1488_1040_depth_256.vmt,152,152
+materials/overviews/ze_flex_b4_css.vmt,123,123
+materials/overviews/ze_flex_b4_css.vtf,1398352,1398352
+materials/overviews/ze_flex_b4_css_radar.vmt,123,123
+materials/skybox/mpa110bk.vmt,85,85
+materials/skybox/mpa110bk.vtf,524376,524376
+materials/skybox/mpa110dn.vmt,85,85
+materials/skybox/mpa110dn.vtf,524376,524376
+materials/skybox/mpa110ft.vmt,85,85
+materials/skybox/mpa110ft.vtf,524376,524376
+materials/skybox/mpa110lf.vmt,85,85
+materials/skybox/mpa110lf.vtf,524376,524376
+materials/skybox/mpa110lf_without_-_rainbow.vtf,524376,524376
+materials/skybox/mpa110nrbk.vmt,85,85
+materials/skybox/mpa110nrdn.vmt,85,85
+materials/skybox/mpa110nrft.vmt,85,85
+materials/skybox/mpa110nrlf.vmt,103,103
+materials/skybox/mpa110nrrt.vmt,85,85
+materials/skybox/mpa110nrup.vmt,85,85
+materials/skybox/mpa110rt.vmt,85,85
+materials/skybox/mpa110rt.vtf,524376,524376
+materials/skybox/mpa110up.vmt,85,85
+materials/skybox/mpa110up.vtf,524376,524376
+materials/sprites/nuke_sunflare_001.vmt,130,130
+materials/sprites/nuke_sunflare_001.vtf,43912,43912
+particles/de_overpass_css.pcf,11612,11612
+resource/overviews/ze_flex_b4_css.txt,114,114
+sound/error.wav,44944,44944
+sound/music/ape escape - coaster.mp3,2482189,2482189
+sound/music/ape escape - cryptic relics.mp3,2450842,2450842
+sound/music/ape escape - dark ruins.mp3,2326081,2326081
+sound/music/ape escape - laboratory.mp3,1440843,1440843
+sound/music/ape escape - tv tower.mp3,2286897,2286897
+sound/music/hardfloor - spook & spell (fast version).mp3,4237617,4237617
+sound/music/mijk van dijk - fuchi koma.mp3,3718512,3718512
+sound/music/takkyu ishino - ghost in the shell.mp3,4864243,4864243
+sound/music/the advent - downloader.mp3,4561431,4561431
+sound/music/the advent - the searcher part ii.mp3,2500997,2500997
+sound/music/westbam - die dunkelsequenz.mp3,5168621,5168621
+sound/music/westbam - moonriver.mp3,5852298,5852298
+sound/physics/body/body_impact_self_04.wav,271552,271552
+sound/player/halloween/ghost_impact_c_05.wav,237200,237200
+sound/sound.cache,958,958

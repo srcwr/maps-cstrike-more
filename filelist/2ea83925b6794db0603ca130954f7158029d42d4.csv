@@ -1,0 +1,21 @@
+filename,size,compressed
+materials/correction/monochrome_cc.raw,98304,98304
+materials/correction/monochrome_test1.raw,98304,98304
+materials/correction/monochrome_test2.raw,98304,98304
+materials/maps/ze_monochrome_css/c0_0_0.hdr.vtf,76528,76528
+materials/maps/ze_monochrome_css/c0_0_0.vtf,9832,9832
+materials/maps/ze_monochrome_css/cs_havana/glass2_0_0_0.vmt,127,127
+materials/maps/ze_monochrome_css/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_monochrome_css/cubemapdefault.vtf,9832,9832
+materials/maps/ze_monochrome_css2/c-864_1648_1520.hdr.vtf,76528,76528
+materials/maps/ze_monochrome_css2/c-864_1648_1520.vtf,9832,9832
+materials/maps/ze_monochrome_css2/cs_havana/glass2_-864_1648_1520.vmt,137,137
+materials/maps/ze_monochrome_css2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_monochrome_css2/cubemapdefault.vtf,9832,9832
+materials/maps/ze_monochrome_v1f/c0_0_0.hdr.vtf,65608,65608
+materials/maps/ze_monochrome_v1f/c0_0_0.vtf,8440,8440
+materials/maps/ze_monochrome_v1f/cubemapdefault.hdr.vtf,65608,65608
+materials/maps/ze_monochrome_v1f/cubemapdefault.vtf,8440,8440
+materials/maps/ze_monochrome_v1f/glass/urban_glass_03_0_0_0.vmt,131,131
+sound/custom/infected mushroom - head of nasa [monstercat lp release].mp3,11167797,11167797
+sound/custom/infected mushroom - spitfire.mp3,10439737,10439737

@@ -1,0 +1,27 @@
+filename,size,compressed
+materials/Jaynem.vmt,73,73
+materials/container skins/metalcrate002b_alt2.vmt,139,139
+materials/container skins/metalcrate002b_alt2.vtf,349760,349760
+materials/jaynem.vtf,174944,174944
+materials/maps/zm_outta_space_cng/c0_0_0.hdr.vtf,76528,76528
+materials/maps/zm_outta_space_cng/c0_0_0.vtf,28753,28753
+materials/maps/zm_outta_space_cng/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/zm_outta_space_cng/cubemapdefault.vtf,28753,28753
+materials/maps/zm_outta_space_cng/de_cbble/grassdirt_blend_wvt_patch.vmt,165,165
+materials/maps/zm_outta_space_cng/de_nuke/nukslidea_0_0_0.vmt,129,129
+materials/maps/zm_outta_space_cng/glass/combineglass001a_0_0_0.vmt,134,134
+materials/maps/zm_outta_space_cng/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/zm_outta_space_cng/glass/offwndwb_0_0_0.vmt,206,206
+materials/skybox/space_2bk.vmt,88,88
+materials/skybox/space_2bk.vtf,4194511,4194511
+materials/skybox/space_2dn.vmt,84,84
+materials/skybox/space_2dn.vtf,4194511,4194511
+materials/skybox/space_2ft.vmt,84,84
+materials/skybox/space_2ft.vtf,4194511,4194511
+materials/skybox/space_2lf.vmt,84,84
+materials/skybox/space_2lf.vtf,4194511,4194511
+materials/skybox/space_2rt.vmt,84,84
+materials/skybox/space_2rt.vtf,4194511,4194511
+materials/skybox/space_2up.vmt,86,86
+materials/skybox/space_2up.vtf,4194511,4194511
+sound/ut/fonegone.wav,44269958,44269958

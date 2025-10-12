@@ -1,0 +1,30 @@
+filename,size,compressed
+materials/360G/FULLBLACK.vmt,91,91
+materials/360G/WHITEFLOOR.vmt,92,92
+materials/360G/arrow.vmt,234,234
+materials/360G/arrow.vtf,349608,349608
+materials/360G/fullblack.vtf,43896,43896
+materials/360G/whitefloor.vtf,43896,43896
+materials/maps/ze_bleh_a1/c-2427_1931_-41.hdr.vtf,76528,76528
+materials/maps/ze_bleh_a1/c-2427_1931_-41.vtf,28753,28753
+materials/maps/ze_bleh_a1/c-2605_-2800_-160.hdr.vtf,76528,76528
+materials/maps/ze_bleh_a1/c-2605_-2800_-160.vtf,28753,28753
+materials/maps/ze_bleh_a1/c2890_1061_143.hdr.vtf,76528,76528
+materials/maps/ze_bleh_a1/c2890_1061_143.vtf,28753,28753
+materials/maps/ze_bleh_a1/c2940_10511_-380.hdr.vtf,76528,76528
+materials/maps/ze_bleh_a1/c2940_10511_-380.vtf,28753,28753
+materials/maps/ze_bleh_a1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_bleh_a1/cubemapdefault.vtf,28753,28753
+materials/maps/ze_bleh_a1/glass/glasswindow007a_-2427_1931_-41.vmt,134,134
+materials/maps/ze_bleh_a1/glass/glasswindow007a_-2605_-2800_-160.vmt,136,136
+materials/maps/ze_bleh_a1/glass/glasswindow007a_2890_1061_143.vmt,133,133
+materials/maps/ze_bleh_a1/maps/ze_bleh_a1/nature/water_coast01_-2427_1931_-41_depth_128.vmt,139,139
+materials/maps/ze_bleh_a1/maps/ze_bleh_a1/nature/water_coast01_-2605_-2800_-160_depth_64.vmt,140,140
+materials/maps/ze_bleh_a1/maps/ze_bleh_a1/nature/water_coast01_2890_1061_143_depth_179.vmt,138,138
+materials/maps/ze_bleh_a1/maps/ze_bleh_a1/nature/water_coast01_2940_10511_-380_depth_12.vmt,139,139
+materials/maps/ze_bleh_a1/nature/water_coast01_-2427_1931_-41.vmt,156,156
+materials/maps/ze_bleh_a1/nature/water_coast01_-2605_-2800_-160.vmt,158,158
+materials/maps/ze_bleh_a1/nature/water_coast01_2890_1061_143.vmt,155,155
+materials/maps/ze_bleh_a1/nature/water_coast01_2940_10511_-380.vmt,157,157
+sound/lala/Wario Land 4 music- Boss Battle.mp3,2831835,2831835
+sound/lala/Wario Land 4 music- Toxic Landfill.mp3,4889866,4889866
