@@ -1,0 +1,15 @@
+filename,size,compressed
+detail.vbsp,1013,1013
+materials/adb-foliage-pack/trees/bark01_normal.vtf,87616,87616
+materials/adb-foliage-pack/trees/bark01_tex_winter.vmt,625,625
+materials/adb-foliage-pack/trees/bark01_tex_winter.vtf,349760,349760
+materials/detail/detailsprites.vmt,218,218
+materials/detail/detailsprites.vtf,349792,349792
+materials/green.vmt,53,53
+materials/green.vtf,174984,174984
+materials/maps/bhop_4roady/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/bhop_4roady/cubemapdefault.vtf,28753,28753
+materials/neon/red.vmt,93,93
+materials/neon/red.vtf,174968,174968
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
