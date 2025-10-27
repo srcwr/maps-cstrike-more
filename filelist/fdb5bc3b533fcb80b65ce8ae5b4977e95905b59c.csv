@@ -1,0 +1,75 @@
+filename,size,compressed
+maps/bhop_europa.nav,181626,181626
+maps/graphs/bhop_europa.ain,16,16
+materials/bigball/mapbybigballgaming.vmt,74,74
+materials/bigball/mapbybigballgaming.vtf,1398264,1398264
+materials/maps/bhop_europa/cubemapdefault.hdr.vtf,65608,65608
+materials/maps/bhop_europa/cubemapdefault.vtf,8440,8440
+materials/textures 1/barrel1.vmt,66,66
+materials/textures 1/barrel1.vtf,699272,699272
+materials/textures 1/barrel2.vmt,85,85
+materials/textures 1/barrel2.vtf,1398336,1398336
+materials/textures 1/door1.vmt,64,64
+materials/textures 1/door1.vtf,1398264,1398264
+materials/textures 1/door2.vmt,64,64
+materials/textures 1/door2.vtf,1398264,1398264
+materials/textures 1/garage1.vmt,66,66
+materials/textures 1/garage1.vtf,699272,699272
+materials/textures 1/glass1.vmt,245,245
+materials/textures 1/glass1.vtf,699272,699272
+materials/textures 1/grate1.vmt,65,65
+materials/textures 1/grate1.vtf,699272,699272
+materials/textures 1/grate3.vmt,84,84
+materials/textures 1/grate3.vtf,1398336,1398336
+materials/textures 1/ice1.vmt,63,63
+materials/textures 1/ice1.vtf,699272,699272
+materials/textures 1/ice3.vmt,63,63
+materials/textures 1/ice3.vtf,699272,699272
+materials/textures 1/ice4.vmt,63,63
+materials/textures 1/ice4.vtf,699272,699272
+materials/textures 1/ice5.vmt,63,63
+materials/textures 1/ice5.vtf,699272,699272
+materials/textures 1/ice6.vmt,63,63
+materials/textures 1/ice6.vtf,699272,699272
+materials/textures 1/panel1.vmt,65,65
+materials/textures 1/panel1.vtf,1398264,1398264
+materials/textures 1/panel2.vmt,65,65
+materials/textures 1/panel2.vtf,1398264,1398264
+materials/textures 1/pipe1.vmt,64,64
+materials/textures 1/pipe1.vtf,1398264,1398264
+materials/textures 1/pipe2.vmt,64,64
+materials/textures 1/pipe2.vtf,1398264,1398264
+materials/textures 1/railing1.vmt,67,67
+materials/textures 1/railing1.vtf,699272,699272
+materials/textures 1/sign1.vmt,64,64
+materials/textures 1/sign1.vtf,699272,699272
+materials/textures 1/sign3.vmt,64,64
+materials/textures 1/sign3.vtf,1398264,1398264
+materials/textures 1/sign4.vmt,64,64
+materials/textures 1/sign4.vtf,1398264,1398264
+materials/textures 1/snow1.vmt,64,64
+materials/textures 1/snow1.vtf,699272,699272
+materials/textures 1/toxicwastegreen1.vmt,75,75
+materials/textures 1/toxicwastegreen1.vtf,699272,699272
+materials/textures 1/wall1.vmt,64,64
+materials/textures 1/wall1.vtf,699272,699272
+materials/textures 1/wall11.vmt,65,65
+materials/textures 1/wall11.vtf,699272,699272
+materials/textures 1/wall2.vmt,64,64
+materials/textures 1/wall2.vtf,699272,699272
+materials/textures 1/wall3.vmt,64,64
+materials/textures 1/wall3.vtf,699272,699272
+materials/textures 1/wall4.vmt,64,64
+materials/textures 1/wall4.vtf,699272,699272
+materials/textures 1/wall5.vmt,64,64
+materials/textures 1/wall5.vtf,699272,699272
+materials/textures 1/wall6.vmt,64,64
+materials/textures 1/wall6.vtf,699272,699272
+materials/textures 1/wall7.vmt,64,64
+materials/textures 1/wall7.vtf,699272,699272
+materials/textures 1/wall8.vmt,64,64
+materials/textures 1/wall8.vtf,699272,699272
+materials/textures 1/wall9.vmt,64,64
+materials/textures 1/wall9.vtf,699272,699272
+models/props/de_train/light_security.mdl,1676,1676
+scripts/soundscapes_bhop_europa.txt,644,644
