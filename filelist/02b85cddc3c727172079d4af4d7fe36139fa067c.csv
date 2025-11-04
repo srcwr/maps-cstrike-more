@@ -1,0 +1,40 @@
+filename,size,compressed
+maps/graphs/slender_ink_machine_a1_demonhamster.ain,16,16
+materials/TOOLS/TOOLSBLACK.vmt,144,144
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/toolsblack.vtf,2936,2936
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/bendy and the ink machine/bendy_drawer.vmt,86,86
+materials/bendy and the ink machine/bendy_drawer.vtf,349760,349760
+materials/bendy and the ink machine/bendy_floor.vmt,82,82
+materials/bendy and the ink machine/bendy_floor.vtf,349760,349760
+materials/bendy and the ink machine/bendy_record.vmt,86,86
+materials/bendy and the ink machine/bendy_record.vtf,349760,349760
+materials/bendy and the ink machine/bendy_speaker.vmt,87,87
+materials/bendy and the ink machine/bendy_speaker.vtf,349760,349760
+materials/bendy and the ink machine/bendy_wall.vmt,81,81
+materials/bendy and the ink machine/bendy_wall.vtf,349760,349760
+materials/bendy and the ink machine/bendyhimself.vmt,105,105
+materials/bendy and the ink machine/bendyhimself.vtf,1398336,1398336
+materials/bendy and the ink machine/bendyplatform.vmt,87,87
+materials/bendy and the ink machine/bendyplatform.vtf,349760,349760
+materials/bendy and the ink machine/broke_wall.vmt,124,124
+materials/bendy and the ink machine/broke_wall.vtf,1398336,1398336
+materials/bendy and the ink machine/door.vmt,411,411
+materials/bendy and the ink machine/door.vtf,1398336,1398336
+materials/bendy and the ink machine/poster.vmt,413,413
+materials/bendy and the ink machine/poster.vtf,11144,11144
+materials/bendy and the ink machine/poster2.vmt,100,100
+materials/bendy and the ink machine/poster2.vtf,349760,349760
+materials/bendy and the ink machine/splot.vmt,98,98
+materials/bendy and the ink machine/splot.vtf,349760,349760
+materials/detail/detailsprites.vmt,162,162
+materials/detail/detailsprites.vtf,699256,699256
+materials/maps/slender_ink_machine_a1_demonhamster/c-1090_1354_10.hdr.vtf,76528,76528
+materials/maps/slender_ink_machine_a1_demonhamster/c-1090_1354_10.vtf,4968,4968
+materials/maps/slender_ink_machine_a1_demonhamster/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/slender_ink_machine_a1_demonhamster/cubemapdefault.vtf,9832,9832
+materials/maps/slender_ink_machine_a1_demonhamster/tile/tilefloor016a_-1090_1354_10.vmt,155,155
+sound/demonhamster/slender_ink_machine/escape1.mp3,2045513,2045513
+sound/demonhamster/slender_ink_machine/intro1.mp3,753647,753647
+sound/steamboat willie music 2.wav,25911130,25911130

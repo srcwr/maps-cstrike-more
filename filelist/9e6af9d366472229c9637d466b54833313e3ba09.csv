@@ -1,0 +1,74 @@
+filename,size,compressed
+materials/bendy and the ink machine/bendy_drawer.vmt,86,92
+materials/bendy and the ink machine/bendy_drawer.vtf,349760,52549
+materials/bendy and the ink machine/bendy_floor.vmt,82,92
+materials/bendy and the ink machine/bendy_floor.vtf,349760,74113
+materials/bendy and the ink machine/bendy_record.vmt,86,94
+materials/bendy and the ink machine/bendy_record.vtf,349760,78026
+materials/bendy and the ink machine/bendy_speaker.vmt,87,95
+materials/bendy and the ink machine/bendy_speaker.vtf,349760,85603
+materials/bendy and the ink machine/bendy_wall.vmt,81,91
+materials/bendy and the ink machine/bendy_wall.vtf,349760,39300
+materials/bendy and the ink machine/bendyhimself.vmt,105,107
+materials/bendy and the ink machine/bendyhimself.vtf,1398336,82774
+materials/bendy and the ink machine/bendyplatform.vmt,87,92
+materials/bendy and the ink machine/bendyplatform.vtf,349760,20452
+materials/bendy and the ink machine/broke_wall.vmt,124,122
+materials/bendy and the ink machine/broke_wall.vtf,1398336,45052
+materials/bendy and the ink machine/door.vmt,411,248
+materials/bendy and the ink machine/door.vtf,1398336,126036
+materials/bendy and the ink machine/poster.vmt,413,249
+materials/bendy and the ink machine/poster.vtf,11144,3785
+materials/bendy and the ink machine/poster2.vmt,100,104
+materials/bendy and the ink machine/poster2.vtf,349760,20365
+materials/bendy and the ink machine/splot.vmt,98,105
+materials/bendy and the ink machine/splot.vtf,349760,15669
+materials/detail/detailsprites.vmt,162,129
+materials/detail/detailsprites.vtf,699256,147223
+materials/maps/slender_ink_machine_b1/c-1090_1354_10.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-1090_1354_10.vtf,4968,2955
+materials/maps/slender_ink_machine_b1/c-1192_-70_-96.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-1192_-70_-96.vtf,4968,2477
+materials/maps/slender_ink_machine_b1/c-132_469_-96.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-132_469_-96.vtf,4968,3092
+materials/maps/slender_ink_machine_b1/c-1651_359_-96.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-1651_359_-96.vtf,4968,3142
+materials/maps/slender_ink_machine_b1/c-1704_550_-327.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-1704_550_-327.vtf,4968,3073
+materials/maps/slender_ink_machine_b1/c-1967_712_-96.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-1967_712_-96.vtf,4968,3395
+materials/maps/slender_ink_machine_b1/c-2022_981_-327.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-2022_981_-327.vtf,4968,2879
+materials/maps/slender_ink_machine_b1/c-2198_-421_-327.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-2198_-421_-327.vtf,4968,3020
+materials/maps/slender_ink_machine_b1/c-2201_-24_-327.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-2201_-24_-327.vtf,4968,2823
+materials/maps/slender_ink_machine_b1/c-2468_1042_-327.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-2468_1042_-327.vtf,4968,2389
+materials/maps/slender_ink_machine_b1/c-2743_655_-327.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-2743_655_-327.vtf,4968,2954
+materials/maps/slender_ink_machine_b1/c-323_848_-96.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-323_848_-96.vtf,4968,3295
+materials/maps/slender_ink_machine_b1/c-352_1201_-96.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-352_1201_-96.vtf,4968,3303
+materials/maps/slender_ink_machine_b1/c-371_1599_-50.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-371_1599_-50.vtf,4968,2018
+materials/maps/slender_ink_machine_b1/c-580_579_-96.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-580_579_-96.vtf,4968,3233
+materials/maps/slender_ink_machine_b1/c-792_933_64.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-792_933_64.vtf,4968,3076
+materials/maps/slender_ink_machine_b1/c-902_553_64.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-902_553_64.vtf,4968,1443
+materials/maps/slender_ink_machine_b1/c-927_798_-96.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/c-927_798_-96.vtf,4968,3122
+materials/maps/slender_ink_machine_b1/cubemapdefault.hdr.vtf,76528,127
+materials/maps/slender_ink_machine_b1/cubemapdefault.vtf,9832,104
+materials/tools/toolsblack.vmt,144,134
+materials/tools/toolsblack.vtf,2936,73
+materials/tools/toolsnodraw.vmt,209,177
+materials/tools/toolsnodraw.vtf,2976,591
+materials/tools/toolstrigger-dx10.vtf,5720,1012
+materials/tools/toolstrigger.vmt,278,206
+materials/tools/toolstrigger.vtf,5720,1007
+sound/demonhamster/slender_ink_machine/escape1.mp3,6563865,6566144
+sound/demonhamster/slender_ink_machine/intro1.mp3,753647,743995
