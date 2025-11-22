@@ -1,0 +1,27 @@
+filename,size,compressed
+materials/ap/Ball - Blue.vmt,85,85
+materials/ap/Ball - Blue.vtf,349760,349760
+materials/ap/Ball - Green.vmt,86,86
+materials/ap/Ball - Green.vtf,349760,349760
+materials/ap/Ball - Orange.vmt,87,87
+materials/ap/Ball - Orange.vtf,349760,349760
+materials/ap/Ball - White.vmt,86,86
+materials/ap/Ball - White.vtf,349760,349760
+materials/ap/Ball - Yellow.vmt,87,87
+materials/ap/Ball - Yellow.vtf,349760,349760
+materials/ap/Buttons.vmt,58,58
+materials/ap/Buttons.vtf,87616,87616
+materials/ap/GoalNet.vmt,102,102
+materials/ap/GoalNet.vtf,22080,22080
+materials/ap/Mapinfo.vmt,58,58
+materials/ap/Mapinfo.vtf,87616,87616
+materials/ap/green.vmt,59,59
+materials/ap/green.vtf,22080,22080
+materials/ap/ground.vmt,81,81
+materials/ap/ground.vtf,87616,87616
+materials/maps/ka_streetsoccer_aps/c0_0_0.vtf,4952,4952
+materials/maps/ka_streetsoccer_aps/concrete/concretefloor033o_0_0_0.vmt,139,139
+materials/maps/ka_streetsoccer_aps/cubemapdefault.vtf,4952,4952
+materials/maps/ka_streetsoccer_aps/metal/citadel_metalwall076a_0_0_0.vmt,140,140
+materials/maps/ka_streetsoccer_aps/wood/woodfloor007a_c17_0_0_0.vmt,174,174
+sound/ap/ambience01.mp3,137926,137926
