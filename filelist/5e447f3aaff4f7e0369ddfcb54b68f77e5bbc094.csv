@@ -1,0 +1,36 @@
+filename,size,compressed
+materials/Color/cornflower blue.vmt,72,72
+materials/Color/cornflower blue.vtf,11144,11144
+materials/Color/terra cotta.vmt,68,68
+materials/Color/terra cotta.vtf,11144,11144
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsnodraw.vmt,224,224
+materials/TOOLS/toolsnodraw.vtf,2936,2936
+materials/TOOLS/toolsskybox.vtf,11128,11128
+materials/TOOLS/toolstrigger-dx10.vtf,5720,5720
+materials/TOOLS/toolstrigger.vmt,278,278
+materials/TOOLS/toolstrigger.vtf,5680,5680
+materials/concrete/concrete_floor_04.vmt,110,110
+materials/concrete/concrete_floor_04.vtf,175008,175008
+materials/detail/detailsprites.vmt,187,187
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/iced_sea.vmt,142,142
+materials/iced_sea.vtf,174984,174984
+materials/maps/gg_fy_crystalline_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/gg_fy_crystalline_v2/cubemapdefault.vtf,9832,9832
+materials/overviews/gg_fy_crystalline_v2.vmt,149,149
+materials/overviews/gg_fy_crystalline_v2.vtf,1398336,1398336
+materials/overviews/gg_fy_crystalline_v2_radar.vmt,149,149
+materials/skybox/frozenbk.vmt,92,92
+materials/skybox/frozenbk.vtf,1398208,1398208
+materials/skybox/frozendn.vmt,92,92
+materials/skybox/frozendn.vtf,1398208,1398208
+materials/skybox/frozenft.vmt,92,92
+materials/skybox/frozenft.vtf,1398208,1398208
+materials/skybox/frozenlf.vmt,92,92
+materials/skybox/frozenlf.vtf,1398208,1398208
+materials/skybox/frozenrt.vmt,92,92
+materials/skybox/frozenrt.vtf,1398208,1398208
+materials/skybox/frozenup.vmt,92,92
+materials/skybox/frozenup.vtf,1398208,1398208
+resource/overviews/gg_fy_crystalline_v2.txt,148,148
