@@ -1,0 +1,177 @@
+filename,size,compressed
+detail.vbsp,5268,587
+materials/alkateut/concrete_flat_d.vtf,174984,98284
+materials/alkateut/concreteflat.vmt,90,91
+materials/bitch/tools/toolstrigger.vmt,394,268
+materials/detail/detailsprites.vmt,131,105
+materials/detail/detailsprites.vtf,1398336,780914
+materials/detail/metal_detail_01.vtf,175008,107676
+materials/dev/dev_measuregeneric42.vmt,93,97
+materials/dev/dev_measuregeneric42.vtf,11144,303
+materials/dev/dev_measuregrid.vmt,215,144
+materials/dev/dev_measuregrid.vtf,349733,1864
+materials/dev/dev_measuregrid_detail.vtf,175000,103845
+materials/dev/dev_measuregrid_normal.vtf,1048783,2983
+materials/dev/dev_measuregridct.vmt,103,104
+materials/dev/dev_measuregridt.vmt,102,102
+materials/dev/reflectivity_50b.vtf,888,244
+materials/devneons/orange_dev_neon.vmt,109,103
+materials/devneons/orange_dev_neon.vtf,11144,631
+materials/devneons/orange_neon.vmt,105,100
+materials/devneons/orange_neon.vtf,43912,145
+materials/devneons/red_dev_neon.vmt,106,100
+materials/devneons/red_dev_neon.vtf,11144,527
+materials/elden ring/normal and usable/aet001_088_a.vmt,205,142
+materials/elden ring/normal and usable/aet001_088_a.vtf,65760,29446
+materials/elden ring/normal and usable/aet001_088_n.vtf,65760,63462
+materials/elden ring/normal and usable/aet003_431_a.vmt,205,142
+materials/elden ring/normal and usable/aet003_431_a.vtf,1048800,345211
+materials/elden ring/normal and usable/aet003_431_n.vtf,1048800,378934
+materials/elden ring/normal and usable/aet003_537_a.vmt,205,142
+materials/elden ring/normal and usable/aet003_537_a.vtf,262368,64933
+materials/elden ring/normal and usable/aet003_537_n.vtf,262368,36751
+materials/elden ring/normal and usable/aet007_319_a.vmt,205,143
+materials/elden ring/normal and usable/aet007_319_a.vtf,1048800,204066
+materials/elden ring/normal and usable/aet007_319_n.vtf,1048800,277658
+materials/elden ring/normal and usable/aet051_414_a.vmt,205,142
+materials/elden ring/normal and usable/aet051_414_a.vtf,1048800,292584
+materials/elden ring/normal and usable/aet051_414_n.vtf,1048800,458719
+materials/elden ring/normal and usable/aet051_449_a.vmt,205,142
+materials/elden ring/normal and usable/aet051_449_a.vtf,1048800,203773
+materials/elden ring/normal and usable/aet051_449_n.vtf,4194528,1409613
+materials/elden ring/normal and usable/aet210_564_a.vmt,205,142
+materials/elden ring/normal and usable/aet210_564_a.vtf,1048800,394402
+materials/elden ring/normal and usable/aet210_564_n.vtf,1048800,527397
+materials/elden ring/normal and usable/aet220_778_a.vmt,205,143
+materials/elden ring/normal and usable/aet220_778_a.vtf,262368,72875
+materials/elden ring/normal and usable/aet220_778_n.vtf,1048800,410323
+materials/elden ring/normal and usable/aet230_131_a.vmt,205,142
+materials/elden ring/normal and usable/aet230_131_a.vtf,1048800,314922
+materials/elden ring/normal and usable/aet230_131_n.vtf,1048800,425276
+materials/elden ring/normal and usable/aet230_621_a.vmt,205,142
+materials/elden ring/normal and usable/aet230_621_a.vtf,65760,20987
+materials/elden ring/normal and usable/aet230_621_n.vtf,65760,24140
+materials/elden ring/normal and usable/aet270_027_a.vmt,205,142
+materials/elden ring/normal and usable/aet270_027_a.vtf,1048800,330465
+materials/elden ring/normal and usable/aet270_027_n.vtf,1048800,474197
+materials/elden ring/normal and usable/aet443_202_a.vmt,205,142
+materials/elden ring/normal and usable/aet443_202_a.vtf,262368,64937
+materials/elden ring/normal and usable/aet443_202_n.vtf,262368,36657
+materials/elden ring/normal and usable/aet601_045_a.vmt,83,94
+materials/elden ring/normal and usable/aet601_045_a.vtf,1048800,333210
+materials/elden ring/normal and usable/aet601_046_a.vmt,205,142
+materials/elden ring/normal and usable/aet601_046_a.vtf,1048800,330884
+materials/elden ring/normal and usable/aet601_046_n.vtf,1048800,466493
+materials/env_cubemap.vtf,98490,55275
+materials/heart/marble_tiles_square8.vmt,214,139
+materials/heart/marble_tiles_square8_col.vtf,1398308,360299
+materials/heart/marble_tiles_square8_nrm.vtf,1398308,78327
+materials/heart/marble_tiles_square8_rgh.vtf,1398308,176942
+materials/heart/metal_aluminum_brushed_dark_col.vtf,5592612,556220
+materials/heart/metal_aluminum_brushed_nrm.vtf,5592612,263841
+materials/heart/metal_aluminum_brushed_rgh.vtf,5592612,720523
+materials/maps/viper_trikz_map (1)/c0_0_0.hdr.vtf,28753,161
+materials/maps/viper_trikz_map (1)/c0_0_0.vtf,28753,113
+materials/maps/viper_trikz_map (1)/cubemapdefault.hdr.vtf,28753,161
+materials/maps/viper_trikz_map (1)/cubemapdefault.vtf,28753,113
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet001_088_a_0_0_0.vmt,153,147
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet003_431_a_0_0_0.vmt,153,146
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet003_537_a_0_0_0.vmt,153,147
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet007_319_a_0_0_0.vmt,153,147
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet051_414_a_0_0_0.vmt,153,146
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet210_564_a_0_0_0.vmt,153,147
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet230_131_a_0_0_0.vmt,153,146
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet230_621_a_0_0_0.vmt,153,146
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet443_202_a_0_0_0.vmt,153,147
+materials/maps/viper_trikz_map (1)/elden ring/normal and usable/aet601_046_a_0_0_0.vmt,153,147
+materials/maps/viper_trikz_map (1)/metal/metalpipe009a_0_0_0.vmt,131,122
+materials/metal/metalbar001c.vmt,248,203
+materials/metal/metalbar001c.vtf,43856,4668
+materials/metal/metalgrate013b.vmt,186,166
+materials/metal/metalgrate013b.vtf,87640,21565
+materials/metal/metalpipe003a_normal.vtf,174968,3936
+materials/metal/metalpipe008a.vmt,682,397
+materials/metal/metalpipe008a.vtf,174968,158952
+materials/metal/prodgratea.vmt,108,102
+materials/metal/prodgratea.vtf,87600,22469
+materials/models/heart/railing_01/metal_aluminum_brushed_dark.vmt,224,142
+materials/models/heart/railing_frame09/metal_aluminum_brushed_dark.vmt,224,142
+materials/models/props/cs_militia/tree_large_militia.vmt,123,111
+materials/models/props/cs_militia/tree_large_militia.vtf,1398336,399007
+materials/models/props/de_inferno/light_fixture.vmt,83,89
+materials/models/props/de_inferno/light_fixture.vtf,87600,31900
+materials/models/props/de_inferno/light_streetlight.vmt,177,125
+materials/models/props/de_inferno/light_streetlight.vtf,174928,63782
+materials/models/props/de_inferno/light_streetlight_ref.vtf,87528,34654
+materials/models/props/de_inferno/wall_lamp.vmt,196,139
+materials/models/props/de_inferno/wall_lamp.vtf,87600,27825
+materials/models/props/de_inferno/wall_lamp_bulb.vmt,103,106
+materials/models/props/de_inferno/wall_lamp_bulb.vtf,22064,6747
+materials/models/props/de_inferno/wall_lamp_glass.vmt,194,138
+materials/models/props/de_inferno/wall_lamp_glass.vtf,22064,19488
+materials/models/props/de_inferno/wall_lamp_glass_ref.vtf,43896,8236
+materials/models/props/de_inferno/wall_lamp_ref.vtf,43896,15118
+materials/mytextures/specialthankstrikzmap.vmt,80,85
+materials/mytextures/specialthankstrikzmap.vtf,699272,245188
+materials/proxychains/algetic_props/reflectivity_50b.vmt,134,126
+materials/realisticwallsandfloors/paint/plasterwallwhite4.vmt,95,98
+materials/realisticwallsandfloors/paint/plasterwallwhite4.vtf,43912,24349
+materials/realworldtextures2/concrete/concrete_39.vmt,318,225
+materials/realworldtextures2/concrete/concrete_39.vtf,174984,98423
+materials/realworldtextures2/concrete/concrete_40.vmt,365,253
+materials/realworldtextures2/concrete/concrete_40.vtf,174984,96802
+materials/realworldtextures2/detail/detailconcrete001a.vtf,262567,78863
+materials/skybox/ocean_skybk.vmt,85,85
+materials/skybox/ocean_skybk.vtf,4194511,1248589
+materials/skybox/ocean_skydn.vmt,85,86
+materials/skybox/ocean_skydn.vtf,4194511,418653
+materials/skybox/ocean_skyft.vmt,85,86
+materials/skybox/ocean_skyft.vtf,4194511,1074388
+materials/skybox/ocean_skylf.vmt,85,86
+materials/skybox/ocean_skylf.vtf,4194511,1157447
+materials/skybox/ocean_skyrt.vmt,85,86
+materials/skybox/ocean_skyrt.vtf,4194511,1170980
+materials/skybox/ocean_skyup.vmt,85,86
+materials/skybox/ocean_skyup.vtf,4194511,2504558
+materials/sulliven/models/cowboycat.vmt,111,107
+materials/sulliven/models/cowboycat.vtf,174984,92179
+materials/tools/toolsnodraw.vmt,254,206
+materials/tools/toolsnodraw.vtf,2936,567
+materials/tools/toolsskybox2d.vmt,289,232
+materials/tools/toolsskybox2d.vtf,11168,1201
+materials/tools/toolstrigger-dx10.vtf,5720,1012
+materials/tools/toolstrigger.vmt,394,268
+materials/tools/toolstrigger.vtf,5680,979
+models/heart/railing_01.dx80.vtx,24723,3818
+models/heart/railing_01.dx90.vtx,24723,3818
+models/heart/railing_01.mdl,1768,436
+models/heart/railing_01.sw.vtx,24723,3795
+models/heart/railing_01.vvd,123328,24079
+models/heart/railing_frame09.dx80.vtx,1005,276
+models/heart/railing_frame09.dx90.vtx,1005,274
+models/heart/railing_frame09.mdl,1780,428
+models/heart/railing_frame09.sw.vtx,1005,275
+models/heart/railing_frame09.vvd,4672,512
+models/props/cs_militia/tree_large_militia.dx80.vtx,462985,90938
+models/props/cs_militia/tree_large_militia.dx90.vtx,462985,90938
+models/props/cs_militia/tree_large_militia.mdl,1488,445
+models/props/cs_militia/tree_large_militia.phy,4027,2247
+models/props/cs_militia/tree_large_militia.sw.vtx,462985,90789
+models/props/cs_militia/tree_large_militia.vvd,935552,466289
+models/props/de_inferno/light_streetlight.dx80.vtx,55988,9834
+models/props/de_inferno/light_streetlight.dx90.vtx,55988,9834
+models/props/de_inferno/light_streetlight.mdl,2264,587
+models/props/de_inferno/light_streetlight.phy,3248,1985
+models/props/de_inferno/light_streetlight.sw.vtx,55988,9854
+models/props/de_inferno/light_streetlight.vvd,112864,35057
+models/sulliven/cat.dx80.vtx,140586,33111
+models/sulliven/cat.dx90.vtx,140586,33111
+models/sulliven/cat.mdl,1736,415
+models/sulliven/cat.sw.vtx,140586,32905
+models/sulliven/cat.vvd,589184,289552
+models/viper/autumn/credit1.dx80.vtx,478179,61719
+models/viper/autumn/credit1.dx90.vtx,478179,60793
+models/viper/autumn/credit1.mdl,1756,433
+models/viper/autumn/credit1.sw.vtx,478179,47093
+models/viper/autumn/credit1.vvd,2042304,302386
+sound/viper/trikzmusic.mp3,8495916,8458528
