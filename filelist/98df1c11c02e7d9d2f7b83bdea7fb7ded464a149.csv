@@ -1,0 +1,421 @@
+filename,size,compressed
+maps/mg_panzers_supermario64_course_v1.nav,6599,6599
+materials/arcade/mario/finnish.vmt,87,87
+materials/arcade/mario/finnish.vtf,349760,349760
+materials/croc/button2.vmt,101,101
+materials/croc/button2.vtf,5712,5712
+materials/maps/mg_panzers_supermario64_course_v1_1/c-7752_6782_1608.hdr.vtf,28753,28753
+materials/maps/mg_panzers_supermario64_course_v1_1/c-7752_6782_1608.vtf,28753,28753
+materials/maps/mg_panzers_supermario64_course_v1_1/cubemapdefault.hdr.vtf,28753,28753
+materials/maps/mg_panzers_supermario64_course_v1_1/cubemapdefault.vtf,28753,28753
+materials/mario hd textures/block_01.vmt,332,332
+materials/mario hd textures/block_01.vtf,175000,175000
+materials/mario hd textures/boost_pad_01.vmt,133,133
+materials/mario hd textures/boost_pad_01.vtf,175000,175000
+materials/mario hd textures/brick_wall_01.vmt,104,104
+materials/mario hd textures/brick_wall_01.vtf,175000,175000
+materials/mario hd textures/brick_wall_02.vmt,104,104
+materials/mario hd textures/brick_wall_02.vtf,175000,175000
+materials/mario hd textures/brick_wall_03.vmt,104,104
+materials/mario hd textures/brick_wall_03.vtf,175000,175000
+materials/mario hd textures/brick_wall_04.vmt,104,104
+materials/mario hd textures/brick_wall_04.vtf,175000,175000
+materials/mario hd textures/brick_wall_05.vmt,104,104
+materials/mario hd textures/brick_wall_05.vtf,175000,175000
+materials/mario hd textures/brick_wall_06.vmt,104,104
+materials/mario hd textures/brick_wall_06.vtf,175000,175000
+materials/mario hd textures/brick_wall_07.vmt,104,104
+materials/mario hd textures/brick_wall_07.vtf,175000,175000
+materials/mario hd textures/brick_wall_08.vmt,104,104
+materials/mario hd textures/brick_wall_08.vtf,175000,175000
+materials/mario hd textures/bubble_01.vmt,94,94
+materials/mario hd textures/bubble_01.vtf,349776,349776
+materials/mario hd textures/bubble_02.vmt,94,94
+materials/mario hd textures/bubble_02.vtf,349776,349776
+materials/mario hd textures/carpet_red_01.vmt,106,106
+materials/mario hd textures/carpet_red_01.vtf,175000,175000
+materials/mario hd textures/cloud_01.vmt,93,93
+materials/mario hd textures/cloud_01.vtf,87632,87632
+materials/mario hd textures/cloud_02.vmt,93,93
+materials/mario hd textures/cloud_02.vtf,174960,174960
+materials/mario hd textures/coin_01.vmt,117,117
+materials/mario hd textures/coin_01.vtf,349776,349776
+materials/mario hd textures/coin_02.vmt,117,117
+materials/mario hd textures/coin_02.vtf,349776,349776
+materials/mario hd textures/coin_03.vmt,117,117
+materials/mario hd textures/coin_03.vtf,349776,349776
+materials/mario hd textures/coin_04.vmt,122,122
+materials/mario hd textures/coin_04.vtf,349776,349776
+materials/mario hd textures/coincrate_1_front.vmt,108,108
+materials/mario hd textures/coincrate_1_front.vtf,175000,175000
+materials/mario hd textures/coincrate_1_side.vmt,111,111
+materials/mario hd textures/coincrate_1_side.vtf,175000,175000
+materials/mario hd textures/coincrate_2_front.vmt,112,112
+materials/mario hd textures/coincrate_2_front.vtf,175000,175000
+materials/mario hd textures/coincrate_2_side.vmt,111,111
+materials/mario hd textures/coincrate_2_side.vtf,175000,175000
+materials/mario hd textures/coincrate_3_front.vmt,112,112
+materials/mario hd textures/coincrate_3_front.vtf,175000,175000
+materials/mario hd textures/coincrate_3_side.vmt,111,111
+materials/mario hd textures/coincrate_3_side.vtf,175000,175000
+materials/mario hd textures/coincrate_4_front.vmt,132,132
+materials/mario hd textures/coincrate_4_front.vtf,349776,349776
+materials/mario hd textures/coincrate_4_side.vmt,131,131
+materials/mario hd textures/coincrate_4_side.vtf,349776,349776
+materials/mario hd textures/concrete_floor_01.vmt,111,111
+materials/mario hd textures/concrete_floor_01.vtf,175000,175000
+materials/mario hd textures/crate_01.vmt,103,103
+materials/mario hd textures/crate_01.vtf,175000,175000
+materials/mario hd textures/crate_02.vmt,103,103
+materials/mario hd textures/crate_02.vtf,175000,175000
+materials/mario hd textures/crate_03.vmt,102,102
+materials/mario hd textures/crate_03.vtf,175000,175000
+materials/mario hd textures/crate_04.vmt,102,102
+materials/mario hd textures/crate_04.vtf,175000,175000
+materials/mario hd textures/crate_05.vmt,102,102
+materials/mario hd textures/crate_05.vtf,175000,175000
+materials/mario hd textures/crate_06.vmt,103,103
+materials/mario hd textures/crate_06.vtf,175000,175000
+materials/mario hd textures/crate_07.vmt,103,103
+materials/mario hd textures/crate_07.vtf,175000,175000
+materials/mario hd textures/crate_08.vmt,103,103
+materials/mario hd textures/crate_09.vmt,103,103
+materials/mario hd textures/crate_09.vtf,175000,175000
+materials/mario hd textures/crate_10.vmt,103,103
+materials/mario hd textures/crate_10.vtf,175000,175000
+materials/mario hd textures/crystal_01.vmt,120,120
+materials/mario hd textures/crystal_01.vtf,87632,87632
+materials/mario hd textures/darkgreen.vmt,100,100
+materials/mario hd textures/darkgreen.vtf,175000,175000
+materials/mario hd textures/decoration_01.vmt,98,98
+materials/mario hd textures/decoration_01.vtf,349776,349776
+materials/mario hd textures/decoration_02.vmt,103,103
+materials/mario hd textures/decoration_02.vtf,175000,175000
+materials/mario hd textures/decoration_03.vmt,103,103
+materials/mario hd textures/decoration_03.vtf,175000,175000
+materials/mario hd textures/dirt_floor_01.vmt,103,103
+materials/mario hd textures/dirt_floor_01.vtf,175000,175000
+materials/mario hd textures/dirt_wall_01.vmt,102,102
+materials/mario hd textures/dirt_wall_01.vtf,175000,175000
+materials/mario hd textures/dirt_wall_02.vmt,102,102
+materials/mario hd textures/dirt_wall_02.vtf,175000,175000
+materials/mario hd textures/edge_01.vmt,97,97
+materials/mario hd textures/edge_01.vtf,175000,175000
+materials/mario hd textures/edge_02.vmt,97,97
+materials/mario hd textures/edge_02.vtf,175000,175000
+materials/mario hd textures/edge_03.vmt,97,97
+materials/mario hd textures/edge_03.vtf,175000,175000
+materials/mario hd textures/edge_04.vmt,103,103
+materials/mario hd textures/edge_04.vtf,87560,87560
+materials/mario hd textures/effect_fireball.vmt,100,100
+materials/mario hd textures/effect_fireball.vtf,22080,22080
+materials/mario hd textures/ex_crate_front.vmt,129,129
+materials/mario hd textures/ex_crate_front.vtf,349776,349776
+materials/mario hd textures/fencerail_01.vmt,127,127
+materials/mario hd textures/fencerail_01.vtf,349776,349776
+materials/mario hd textures/flag_01.vmt,92,92
+materials/mario hd textures/flag_01.vtf,349776,349776
+materials/mario hd textures/flower_01.vmt,119,119
+materials/mario hd textures/flower_01.vtf,349776,349776
+materials/mario hd textures/glass_01.vmt,99,99
+materials/mario hd textures/glass_01.vtf,175000,175000
+materials/mario hd textures/glass_02.vmt,118,118
+materials/mario hd textures/glass_02.vtf,349776,349776
+materials/mario hd textures/glow_light_01.vmt,104,104
+materials/mario hd textures/glow_light_01.vtf,175000,175000
+materials/mario hd textures/glow_light_02.vmt,104,104
+materials/mario hd textures/glow_light_02.vtf,175000,175000
+materials/mario hd textures/grass_floor_01.vmt,105,105
+materials/mario hd textures/grass_floor_01.vtf,175000,175000
+materials/mario hd textures/grass_floor_02.vmt,105,105
+materials/mario hd textures/grass_floor_02.vtf,175000,175000
+materials/mario hd textures/grass_floor_03.vmt,105,105
+materials/mario hd textures/grass_floor_03.vtf,175000,175000
+materials/mario hd textures/gravel_edge_01.vmt,106,106
+materials/mario hd textures/gravel_edge_01.vtf,87560,87560
+materials/mario hd textures/gravel_floor_01.vmt,107,107
+materials/mario hd textures/gravel_floor_01.vtf,175000,175000
+materials/mario hd textures/green.vmt,96,96
+materials/mario hd textures/green.vtf,175000,175000
+materials/mario hd textures/ice_floor_01.vmt,101,101
+materials/mario hd textures/ice_floor_01.vtf,175000,175000
+materials/mario hd textures/ice_spikes_01.vmt,121,121
+materials/mario hd textures/ice_spikes_01.vtf,349776,349776
+materials/mario hd textures/ice_wall_01.vmt,100,100
+materials/mario hd textures/ice_wall_01.vtf,175000,175000
+materials/mario hd textures/ice_wall_02.vmt,100,100
+materials/mario hd textures/ice_wall_02.vtf,175000,175000
+materials/mario hd textures/ice_wall_03.vmt,100,100
+materials/mario hd textures/ice_wall_03.vtf,175000,175000
+materials/mario hd textures/item_key.vmt,118,118
+materials/mario hd textures/item_key.vtf,349776,349776
+materials/mario hd textures/ivy_01.vmt,116,116
+materials/mario hd textures/ivy_01.vtf,174960,174960
+materials/mario hd textures/ivy_fence_01.vmt,127,127
+materials/mario hd textures/ivy_fence_01.vtf,349776,349776
+materials/mario hd textures/ivy_wall_01.vmt,121,121
+materials/mario hd textures/ivy_wall_01.vtf,349776,349776
+materials/mario hd textures/keyhole_01.vmt,100,100
+materials/mario hd textures/keyhole_01.vtf,175000,175000
+materials/mario hd textures/keyhole_02.vmt,119,119
+materials/mario hd textures/keyhole_02.vtf,349776,349776
+materials/mario hd textures/lavarocks_edge_01.vmt,109,109
+materials/mario hd textures/lavarocks_edge_01.vtf,87560,87560
+materials/mario hd textures/lavarocks_floor_01.vmt,110,110
+materials/mario hd textures/lavarocks_floor_01.vtf,175000,175000
+materials/mario hd textures/metal_door_01.vmt,104,104
+materials/mario hd textures/metal_door_01.vtf,349704,349704
+materials/mario hd textures/metal_door_02.vmt,104,104
+materials/mario hd textures/metal_door_02.vtf,349704,349704
+materials/mario hd textures/metal_door_03.vmt,104,104
+materials/mario hd textures/metal_door_03.vtf,349704,349704
+materials/mario hd textures/metal_door_04.vmt,109,109
+materials/mario hd textures/metal_door_04.vtf,349704,349704
+materials/mario hd textures/metal_fence_01.vmt,124,124
+materials/mario hd textures/metal_fence_01.vtf,349776,349776
+materials/mario hd textures/metal_fence_02.vmt,124,124
+materials/mario hd textures/metal_fence_02.vtf,349776,349776
+materials/mario hd textures/metal_fence_03.vmt,124,124
+materials/mario hd textures/metal_fence_03.vtf,349776,349776
+materials/mario hd textures/metal_fence_04.vmt,124,124
+materials/mario hd textures/metal_fence_04.vtf,349776,349776
+materials/mario hd textures/metal_fence_05.vmt,124,124
+materials/mario hd textures/metal_fence_05.vtf,349776,349776
+materials/mario hd textures/metal_floor_01.vmt,124,124
+materials/mario hd textures/metal_floor_01.vtf,349776,349776
+materials/mario hd textures/metal_floor_02.vmt,105,105
+materials/mario hd textures/metal_floor_02.vtf,175000,175000
+materials/mario hd textures/metal_floor_03.vmt,105,105
+materials/mario hd textures/metal_floor_03.vtf,175000,175000
+materials/mario hd textures/metal_grid_01.vmt,123,123
+materials/mario hd textures/metal_grid_01.vtf,349776,349776
+materials/mario hd textures/metal_grid_02.vmt,123,123
+materials/mario hd textures/metal_grid_02.vtf,349776,349776
+materials/mario hd textures/metal_grid_03.vmt,123,123
+materials/mario hd textures/metal_grid_03.vtf,349776,349776
+materials/mario hd textures/metal_pipes_01.vmt,124,124
+materials/mario hd textures/metal_pipes_01.vtf,349776,349776
+materials/mario hd textures/metal_plate_01.vmt,110,110
+materials/mario hd textures/metal_plate_01.vtf,175000,175000
+materials/mario hd textures/metal_plate_02.vmt,110,110
+materials/mario hd textures/metal_plate_02.vtf,175000,175000
+materials/mario hd textures/metal_plate_03.vmt,110,110
+materials/mario hd textures/metal_plate_03.vtf,175000,175000
+materials/mario hd textures/metal_wall_01.vmt,109,109
+materials/mario hd textures/metal_wall_01.vtf,175000,175000
+materials/mario hd textures/metal_wall_02.vmt,109,109
+materials/mario hd textures/metal_wall_02.vtf,175000,175000
+materials/mario hd textures/metal_wall_03.vmt,109,109
+materials/mario hd textures/metal_wall_03.vtf,175000,175000
+materials/mario hd textures/moss_floor_01.vmt,104,104
+materials/mario hd textures/moss_floor_01.vtf,175000,175000
+materials/mario hd textures/moss_floor_02.vmt,104,104
+materials/mario hd textures/moss_floor_02.vtf,175000,175000
+materials/mario hd textures/npc_boo.vmt,117,117
+materials/mario hd textures/npc_boo.vtf,87616,87616
+materials/mario hd textures/npc_lakitu.vmt,120,120
+materials/mario hd textures/npc_lakitu.vtf,1398352,1398352
+materials/mario hd textures/painting_01.vmt,107,107
+materials/mario hd textures/painting_01.vtf,175000,175000
+materials/mario hd textures/painting_02.vmt,107,107
+materials/mario hd textures/painting_02.vtf,175000,175000
+materials/mario hd textures/painting_03.vmt,107,107
+materials/mario hd textures/painting_03.vtf,175000,175000
+materials/mario hd textures/painting_04.vmt,107,107
+materials/mario hd textures/painting_04.vtf,175000,175000
+materials/mario hd textures/painting_05.vmt,107,107
+materials/mario hd textures/painting_05.vtf,175000,175000
+materials/mario hd textures/painting_06.vmt,107,107
+materials/mario hd textures/painting_06.vtf,175000,175000
+materials/mario hd textures/painting_07.vmt,107,107
+materials/mario hd textures/painting_07.vtf,175000,175000
+materials/mario hd textures/painting_08.vmt,107,107
+materials/mario hd textures/painting_08.vtf,175000,175000
+materials/mario hd textures/painting_09.vmt,107,107
+materials/mario hd textures/painting_09.vtf,175000,175000
+materials/mario hd textures/painting_10.vmt,107,107
+materials/mario hd textures/painting_10.vtf,175000,175000
+materials/mario hd textures/painting_11.vmt,107,107
+materials/mario hd textures/painting_11.vtf,175000,175000
+materials/mario hd textures/pipe_side.vmt,100,100
+materials/mario hd textures/pipe_side.vtf,175000,175000
+materials/mario hd textures/pointer_01.vmt,95,95
+materials/mario hd textures/pointer_01.vtf,349776,349776
+materials/mario hd textures/powerup_feather.vmt,100,100
+materials/mario hd textures/powerup_feather.vtf,349776,349776
+materials/mario hd textures/powerup_fire.vmt,122,122
+materials/mario hd textures/powerup_fire.vtf,349776,349776
+materials/mario hd textures/powerup_shroom.vmt,124,124
+materials/mario hd textures/powerup_shroom.vtf,349776,349776
+materials/mario hd textures/rock_floor_01.vmt,103,103
+materials/mario hd textures/rock_floor_01.vtf,175000,175000
+materials/mario hd textures/rock_floor_02.vmt,103,103
+materials/mario hd textures/rock_floor_02.vtf,175000,175000
+materials/mario hd textures/rock_floor_03.vmt,103,103
+materials/mario hd textures/rock_floor_03.vtf,175000,175000
+materials/mario hd textures/rock_floor_04.vmt,103,103
+materials/mario hd textures/rock_floor_04.vtf,175000,175000
+materials/mario hd textures/rock_floor_05.vmt,103,103
+materials/mario hd textures/rock_floor_05.vtf,175000,175000
+materials/mario hd textures/rock_floor_06.vmt,103,103
+materials/mario hd textures/rock_floor_06.vtf,175000,175000
+materials/mario hd textures/rock_wall_01.vmt,102,102
+materials/mario hd textures/rock_wall_01.vtf,175000,175000
+materials/mario hd textures/rockpointer_edge_01.vmt,109,109
+materials/mario hd textures/rockpointer_edge_01.vtf,87560,87560
+materials/mario hd textures/sand_floor_01.vmt,103,103
+materials/mario hd textures/sand_floor_01.vtf,175000,175000
+materials/mario hd textures/sand_floor_02.vmt,103,103
+materials/mario hd textures/sand_floor_02.vtf,175000,175000
+materials/mario hd textures/sand_floor_03.vmt,103,103
+materials/mario hd textures/sand_floor_03.vtf,175000,175000
+materials/mario hd textures/sand_floor_04.vmt,103,103
+materials/mario hd textures/sand_floor_04.vtf,175000,175000
+materials/mario hd textures/sand_floor_05.vmt,103,103
+materials/mario hd textures/sand_floor_05.vtf,175000,175000
+materials/mario hd textures/sand_floor_06.vmt,103,103
+materials/mario hd textures/sand_floor_06.vtf,175000,175000
+materials/mario hd textures/sand_floor_07.vmt,103,103
+materials/mario hd textures/sand_floor_07.vtf,175000,175000
+materials/mario hd textures/sand_wall_01.vmt,102,102
+materials/mario hd textures/sand_wall_01.vtf,175000,175000
+materials/mario hd textures/seawheat_01.vmt,121,121
+materials/mario hd textures/seawheat_01.vtf,349776,349776
+materials/mario hd textures/sky_ceiling_darkblue.vmt,80,80
+materials/mario hd textures/sky_ceiling_darkblue.vtf,87604,87604
+materials/mario hd textures/snow_floor_01.vmt,103,103
+materials/mario hd textures/snow_floor_01.vtf,175000,175000
+materials/mario hd textures/square_plate_01.vmt,111,111
+materials/mario hd textures/square_plate_01.vtf,175000,175000
+materials/mario hd textures/star_01.vmt,117,117
+materials/mario hd textures/star_01.vtf,349776,349776
+materials/mario hd textures/star_02.vmt,103,103
+materials/mario hd textures/star_02.vtf,175000,175000
+materials/mario hd textures/stone_wall_01.vmt,107,107
+materials/mario hd textures/stone_wall_01.vtf,175000,175000
+materials/mario hd textures/stone_wall_02.vmt,107,107
+materials/mario hd textures/stone_wall_02.vtf,175000,175000
+materials/mario hd textures/tile_floor_01.vmt,103,103
+materials/mario hd textures/tile_floor_01.vtf,175000,175000
+materials/mario hd textures/tile_floor_02.vmt,103,103
+materials/mario hd textures/tile_floor_02.vtf,175000,175000
+materials/mario hd textures/tile_floor_03.vmt,103,103
+materials/mario hd textures/tile_floor_03.vtf,175000,175000
+materials/mario hd textures/tile_floor_04.vmt,103,103
+materials/mario hd textures/tile_floor_04.vtf,175000,175000
+materials/mario hd textures/tile_floor_05.vmt,103,103
+materials/mario hd textures/tile_floor_05.vtf,175000,175000
+materials/mario hd textures/tile_floor_06.vmt,103,103
+materials/mario hd textures/tile_floor_06.vtf,175000,175000
+materials/mario hd textures/tile_floor_07.vmt,103,103
+materials/mario hd textures/tile_floor_07.vtf,175000,175000
+materials/mario hd textures/tree_01.vmt,117,117
+materials/mario hd textures/tree_01.vtf,1398352,1398352
+materials/mario hd textures/tree_02.vmt,117,117
+materials/mario hd textures/tree_02.vtf,699248,699248
+materials/mario hd textures/tree_03.vmt,117,117
+materials/mario hd textures/tree_03.vtf,699248,699248
+materials/mario hd textures/tree_04.vmt,117,117
+materials/mario hd textures/tree_04.vtf,699248,699248
+materials/mario hd textures/wall_mix_01.vmt,101,101
+materials/mario hd textures/wall_mix_01.vtf,175000,175000
+materials/mario hd textures/water_01.vmt,99,99
+materials/mario hd textures/water_01.vtf,175000,175000
+materials/mario hd textures/water_02.vmt,99,99
+materials/mario hd textures/water_02.vtf,175000,175000
+materials/mario hd textures/window_01.vmt,124,124
+materials/mario hd textures/window_01.vtf,349776,349776
+materials/mario hd textures/window_02.vmt,100,100
+materials/mario hd textures/window_02.vtf,175000,175000
+materials/mario hd textures/window_03.vmt,119,119
+materials/mario hd textures/window_03.vtf,349776,349776
+materials/mario hd textures/window_04.vmt,124,124
+materials/mario hd textures/window_04.vtf,349776,349776
+materials/mario hd textures/window_05.vmt,100,100
+materials/mario hd textures/window_05.vtf,175000,175000
+materials/mario hd textures/window_06.vmt,99,99
+materials/mario hd textures/window_06.vtf,175000,175000
+materials/mario hd textures/wood_bridge_01.vmt,129,129
+materials/mario hd textures/wood_bridge_01.vtf,349776,349776
+materials/mario hd textures/wood_bridge_02.vmt,129,129
+materials/mario hd textures/wood_bridge_02.vtf,349776,349776
+materials/mario hd textures/wood_bridge_03.vmt,129,129
+materials/mario hd textures/wood_bridge_03.vtf,349776,349776
+materials/mario hd textures/wood_door_01.vmt,127,127
+materials/mario hd textures/wood_door_01.vtf,699248,699248
+materials/mario hd textures/wood_door_02.vmt,108,108
+materials/mario hd textures/wood_door_02.vtf,349704,349704
+materials/mario hd textures/wood_fence_01.vmt,128,128
+materials/mario hd textures/wood_fence_01.vtf,699248,699248
+materials/mario hd textures/wood_fence_02.vmt,128,128
+materials/mario hd textures/wood_fence_02.vtf,349776,349776
+materials/mario hd textures/wood_floor_01.vmt,109,109
+materials/mario hd textures/wood_floor_01.vtf,175000,175000
+materials/mario hd textures/wood_floor_02.vmt,109,109
+materials/mario hd textures/wood_floor_02.vtf,175000,175000
+materials/mario hd textures/wood_floor_03.vmt,109,109
+materials/mario hd textures/wood_floor_03.vtf,175000,175000
+materials/mario hd textures/wood_wall_01.vmt,108,108
+materials/mario hd textures/wood_wall_01.vtf,175000,175000
+materials/mario hd textures/wood_wall_02.vmt,108,108
+materials/mario hd textures/wood_wall_02.vtf,175000,175000
+materials/mario hd textures/wood_wall_03.vmt,108,108
+materials/mario hd textures/wood_wall_03.vtf,175000,175000
+materials/mario hd textures/wood_wall_04.vmt,108,108
+materials/mario hd textures/wood_wall_04.vtf,175000,175000
+materials/models/player/slow/amberlyn/sm_galaxy/star/slow_body.vmt,219,219
+materials/models/player/slow/amberlyn/sm_galaxy/star/slow_body.vtf,87616,87616
+materials/models/player/slow/amberlyn/sm_galaxy/star/slow_body_2.vmt,221,221
+materials/models/player/slow/amberlyn/sm_galaxy/star/slow_body_2.vtf,87616,87616
+materials/models/player/slow/amberlyn/sm_galaxy/star/slow_eye.vmt,97,97
+materials/models/player/slow/amberlyn/sm_galaxy/star/slow_eye.vtf,576,576
+materials/panzer/panzer_avatar.vmt,68,68
+materials/panzer/panzer_avatar.vtf,699232,699232
+materials/rgb_117_colors/01_red_ff0000_red.vmt,101,101
+materials/rgb_117_colors/01_red_ff0000_red.vtf,2976,2976
+materials/rgb_117_colors/02_orange_331900.vmt,100,100
+materials/rgb_117_colors/02_orange_331900.vtf,2976,2976
+materials/rgb_117_colors/02_orange_663300.vmt,100,100
+materials/rgb_117_colors/02_orange_663300.vtf,2976,2976
+materials/rgb_117_colors/04_green_yellow_80ff00_green_yellow.vmt,119,119
+materials/rgb_117_colors/04_green_yellow_80ff00_green_yellow.vtf,2976,2976
+materials/rgb_117_colors/13_black_grey_white_000000_black.vmt,116,116
+materials/rgb_117_colors/13_black_grey_white_000000_black.vtf,2976,2976
+materials/rgb_117_colors/13_black_grey_white_202020.vmt,110,110
+materials/rgb_117_colors/13_black_grey_white_202020.vtf,2976,2976
+materials/rgb_117_colors/13_black_grey_white_606060.vmt,110,110
+materials/rgb_117_colors/13_black_grey_white_606060.vtf,2976,2976
+materials/rgb_117_colors/13_black_grey_white_a0a0a0.vmt,110,110
+materials/rgb_117_colors/13_black_grey_white_a0a0a0.vtf,2976,2976
+materials/rgb_117_colors/13_black_grey_white_c0c0c0.vmt,110,110
+materials/rgb_117_colors/13_black_grey_white_c0c0c0.vtf,2976,2976
+materials/rgb_117_colors/13_black_grey_white_e0e0e0.vmt,110,110
+materials/rgb_117_colors/13_black_grey_white_e0e0e0.vtf,2976,2976
+materials/rgb_117_colors/13_black_grey_white_ffffff_white.vmt,116,116
+materials/rgb_117_colors/13_black_grey_white_ffffff_white.vtf,2976,2976
+materials/skybox/simpsonshdbk.vmt,89,89
+materials/skybox/simpsonshdbk.vtf,699288,699288
+materials/skybox/simpsonshddn.vmt,89,89
+materials/skybox/simpsonshddn.vtf,699288,699288
+materials/skybox/simpsonshdft.vmt,89,89
+materials/skybox/simpsonshdft.vtf,699288,699288
+materials/skybox/simpsonshdlf.vmt,89,89
+materials/skybox/simpsonshdlf.vtf,699288,699288
+materials/skybox/simpsonshdrt.vmt,89,89
+materials/skybox/simpsonshdrt.vtf,699288,699288
+materials/skybox/simpsonshdup.vmt,89,89
+materials/skybox/simpsonshdup.vtf,699288,699288
+models/player/slow/amberlyn/sm_galaxy/star/slow.dx80.vtx,7446,7446
+models/player/slow/amberlyn/sm_galaxy/star/slow.dx90.vtx,7446,7446
+models/player/slow/amberlyn/sm_galaxy/star/slow.mdl,26972,26972
+models/player/slow/amberlyn/sm_galaxy/star/slow.phy,707,707
+models/player/slow/amberlyn/sm_galaxy/star/slow.sw.vtx,7430,7430
+models/player/slow/amberlyn/sm_galaxy/star/slow.vvd,22848,22848
+scripts/soundscapes_mg_panzers_supermario64_course_v1.txt,875,875
+sound/1mg_panzers_supermario64_course/music1.mp3,4472718,4472718
+sound/1mg_panzers_supermario64_course/music2.mp3,7036897,7036897
+sound/1mg_panzers_supermario64_course/soundscapes/castle.mp3,3416953,3416953
+sound/1mg_panzers_supermario64_course/soundscapes/cave.mp3,5473939,5473939
+sound/1mg_panzers_supermario64_course/soundscapes/final.mp3,1512313,1512313
+sound/1mg_panzers_supermario64_course/soundscapes/theme.mp3,5141035,5141035
+sound/sound.cache,283,283
