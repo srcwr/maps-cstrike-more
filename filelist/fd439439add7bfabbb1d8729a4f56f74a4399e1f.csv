@@ -1,0 +1,15 @@
+filename,size,compressed
+maps/de_sweeperhouse.nav,5846040,5846040
+materials/TDM_SWEEPERHOUSE/CONCRTWALL.vmt,75,75
+materials/TDM_SWEEPERHOUSE/CONCRTWALL2.vmt,76,76
+materials/TDM_SWEEPERHOUSE/CONCRTWALL_BLU.vmt,79,79
+materials/TDM_SWEEPERHOUSE/CONCRTWALL_RED.vmt,79,79
+materials/TDM_SWEEPERHOUSE/FLOOR.vmt,70,70
+materials/maps/de_sweeperhouse/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_sweeperhouse/cubemapdefault.vtf,9832,9832
+materials/maps/de_sweeperhouse/dev/dev_slime_depth_8.vmt,99,99
+materials/tdm_sweeperhouse/concrtwall.vtf,174984,174984
+materials/tdm_sweeperhouse/concrtwall2.vtf,174984,174984
+materials/tdm_sweeperhouse/concrtwall_blu.vtf,174984,174984
+materials/tdm_sweeperhouse/concrtwall_red.vtf,174984,174984
+materials/tdm_sweeperhouse/floor.vtf,43912,43912
