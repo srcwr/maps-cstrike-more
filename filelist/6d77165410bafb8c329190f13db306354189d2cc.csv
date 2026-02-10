@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/cs_cinderblock_v5/c0_-1408_576.hdr.vtf,76528,76528
+materials/maps/cs_cinderblock_v5/c0_-1408_576.vtf,28753,28753
+materials/maps/cs_cinderblock_v5/concrete/concretewall041c_0_-1408_576.vmt,142,142
+materials/maps/cs_cinderblock_v5/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cs_cinderblock_v5/cubemapdefault.vtf,28753,28753
+materials/maps/cs_cinderblock_v5/dev/dev_water2_0_-1408_576.vmt,154,154
+materials/maps/cs_cinderblock_v5/glass/glasswindow032a_0_-1408_576.vmt,138,138
+materials/maps/cs_cinderblock_v5/maps/cs_cinderblock_v5/dev/dev_water2_0_-1408_576_depth_18.vmt,136,136
+materials/maps/cs_cinderblock_v5/metal/citadel_tilefloor016a_cheap_0_-1408_576.vmt,150,150
+materials/maps/cs_cinderblock_v5/metal/metaldoor034a_0_-1408_576.vmt,136,136
+materials/maps/cs_cinderblock_v5/nature/blendcliffgrass001a_wvt_patch.vmt,332,332
+materials/maps/cs_cinderblock_v5/nature/blendgrassgrass001a_wvt_patch.vmt,181,181
+materials/maps/cs_cinderblock_v5/props/metalduct001a_0_-1408_576.vmt,136,136
