@@ -1,0 +1,18 @@
+filename,size,compressed
+maps/de_cupfoods.nav,391821,391821
+materials/maps/de_cupfoods/c0_0_0.hdr.vtf,76528,76528
+materials/maps/de_cupfoods/c0_0_0.vtf,28753,28753
+materials/maps/de_cupfoods/concrete/concretefloor019a_0_0_0.vmt,131,131
+materials/maps/de_cupfoods/concrete/concretefloor033k_c17_0_0_0.vmt,174,174
+materials/maps/de_cupfoods/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_cupfoods/cubemapdefault.vtf,28753,28753
+materials/maps/de_cupfoods/glass/glasswindow017a_0_0_0.vmt,126,126
+materials/models/de_cupfoods/cupfoods_sign.vmt,70,70
+materials/models/de_cupfoods/cupfoods_sign.vtf,4177984,4177984
+models/de_cupfoods/cupfoods_sign.dx80.vtx,47319,47319
+models/de_cupfoods/cupfoods_sign.dx90.vtx,47319,47319
+models/de_cupfoods/cupfoods_sign.mdl,1764,1764
+models/de_cupfoods/cupfoods_sign.phy,10670,10670
+models/de_cupfoods/cupfoods_sign.sw.vtx,47319,47319
+models/de_cupfoods/cupfoods_sign.vvd,232128,232128
+sound/cupfoods/That1Loser - I can't breathe (George Floyd).wav,26927994,26927994
