@@ -6,23 +6,17 @@
 	- Compressed (.gz) entity lump files for each map
 - `filelist`
 	- CSV with the list of packed files in a .bsp
-- `auto.cmd`
-	- Automatic... processor... thing for this repo. Used by [maps-cstrike](https://github.com/srcwr/maps-cstrike)'s `gamebanana-automatic.py`
-- `cubemapper.py`
-	- Attempts to deduce a .bsp file's originally compiled map/file name from packed cubemaps, .nav's, and more.
-- `dumper.py`
-	- Dumps entity lumps and file lists
 - `ignore.csv`
 	- CSV with the list .bsp's that had errors or warnings from `dumper.py`
 - `ignore_pak.csv`
 	- CSV with the list .bsp's that had errors or warnings from `dumper.py`'s filelist step
-- `lump_checksummer.py`
-	- Generates the lump checksum that is used by the Source Engine to verify players are on the correct map. This checksum is also in server logs when changing maps.
 - `lump_checksums.csv`
-	- Lump checksums...... ^^^^^
+	- Lump checksums that are used by the Source Engine to verify players are on the correct map. This checksum is also in server logs when changing maps.
 - `original_mapname.csv`
-	- Potentially original map names from `cubemapper.py`
+	- Potentially original map-names deduced from file names of packed files, such as cubemaps, .nav's, and more.
 - `timestamper.py`
-	- Something
+	- Something.  Unused now.
 - `timestamps.csv`
 	- Timestamps for .bsp files. May or may not be close to a map's creation.
+- `vscript_probably.csv`
+	- Maps that pack or run vscript code; probably.
