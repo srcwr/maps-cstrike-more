@@ -1,0 +1,57 @@
+filename,size,compressed
+materials/TOOLS/TOOLSNODRAW.vmt,254,254
+materials/TOOLS/TOOLSSKYBOX.vmt,285,285
+materials/TOOLS/toolsnodraw.vtf,2952,2952
+materials/TOOLS/toolsskybox.vtf,11144,11144
+materials/custom/blackmatta.vmt,65,65
+materials/custom/blackmatta.vtf,699272,699272
+materials/custom/bluefade.vmt,130,130
+materials/custom/bluefade.vtf,699272,699272
+materials/custom/bluefadewater.vmt,68,68
+materials/custom/bluefadewater.vtf,699272,699272
+materials/custom/bluegray.vmt,63,63
+materials/custom/bluegray.vtf,699272,699272
+materials/custom/counter-terrorist rsk gray.vmt,81,81
+materials/custom/counter-terrorist rsk gray.vtf,699272,699272
+materials/custom/grayfade.vmt,114,114
+materials/custom/grayfade.vtf,699272,699272
+materials/custom/punk gray.vmt,64,64
+materials/custom/punk gray.vtf,699272,699272
+materials/custom/still.vmt,60,60
+materials/custom/still.vtf,699272,699272
+materials/custom/terrorist rsk gray.vmt,73,73
+materials/custom/terrorist rsk gray.vtf,699272,699272
+materials/custom/texture1rsk.vmt,66,66
+materials/custom/texture1rsk.vtf,699272,699272
+materials/custom/texture2rsk.vmt,66,66
+materials/custom/texture2rsk.vtf,699272,699272
+materials/custom/texture3rsk.vmt,66,66
+materials/custom/texture3rsk.vtf,699272,699272
+materials/custom/texture4rsk.vmt,66,66
+materials/custom/texture4rsk.vtf,699272,699272
+materials/custom/time gray.vmt,64,64
+materials/custom/time gray.vtf,699272,699272
+materials/custom/wata.vmt,78,78
+materials/custom/wata.vtf,699272,699272
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,699272,699272
+materials/glass/metal_door_glass_001.vmt,520,520
+materials/maps/am_kristall_csgo/c-8549_-8143_-4394.vtf,4952,4952
+materials/maps/am_kristall_csgo/cubemapdefault.vtf,4952,4952
+materials/models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_glass.vtf,174984,174984
+materials/neon_go/teal.vmt,126,126
+materials/neon_go/teal.vtf,174984,174984
+materials/overlays/QPCM.vmt,80,80
+materials/overlays/QPCM.vtf,349760,349760
+materials/skybox/nightocean_bk.vtf,699272,699272
+materials/skybox/nightocean_dn.vtf,699272,699272
+materials/skybox/nightocean_ft.vtf,699272,699272
+materials/skybox/nightocean_lf.vtf,699272,699272
+materials/skybox/nightocean_rt.vtf,699272,699272
+materials/skybox/nightocean_up.vtf,699272,699272
+materials/skybox/nightoceanbk.vmt,97,97
+materials/skybox/nightoceandn.vmt,97,97
+materials/skybox/nightoceanft.vmt,97,97
+materials/skybox/nightoceanlf.vmt,97,97
+materials/skybox/nightoceanrt.vmt,97,97
+materials/skybox/nightoceanup.vmt,97,97
