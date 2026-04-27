@@ -1,0 +1,36 @@
+filename,size,compressed
+detail.vbsp,5268,587
+materials/dev_nyro/dev_gray-01.vmt,71,77
+materials/dev_nyro/dev_gray-01.vtf,22064,346
+materials/dev_nyro/dev_gray-06.vmt,71,77
+materials/dev_nyro/dev_gray-06.vtf,22064,445
+materials/dev_nyro/dev_gray-08.vmt,71,77
+materials/dev_nyro/dev_gray-08.vtf,22064,492
+materials/dev_nyro/dev_gray-16.vmt,71,77
+materials/dev_nyro/dev_gray-16.vtf,22064,454
+materials/dev_nyro/dev_red_a-01.vmt,72,78
+materials/dev_nyro/dev_red_a-01.vtf,22064,440
+materials/maps/bhop_test/cubemapdefault.hdr.vtf,76528,266
+materials/maps/bhop_test/cubemapdefault.vtf,28753,113
+materials/noahhh/bonus.vmt,79,85
+materials/noahhh/bonus.vtf,349760,55616
+materials/noahhh/fetal.vmt,60,70
+materials/noahhh/fetal.vtf,43912,29272
+materials/noahhh/made by fetal.vmt,87,92
+materials/noahhh/made by fetal.vtf,349760,61641
+materials/noahhh/made by.vmt,81,87
+materials/noahhh/made by.vtf,349760,70293
+materials/silkroad/egypt/teleport2.vmt,234,166
+materials/silkroad/egypt/teleport2.vtf,349760,247110
+materials/skybox/hlw_night_bk.vmt,86,88
+materials/skybox/hlw_night_bk.vtf,4194511,461294
+materials/skybox/hlw_night_dn.vmt,86,88
+materials/skybox/hlw_night_dn.vtf,4194511,452263
+materials/skybox/hlw_night_ft.vmt,86,88
+materials/skybox/hlw_night_ft.vtf,4194511,417613
+materials/skybox/hlw_night_lf.vmt,86,88
+materials/skybox/hlw_night_lf.vtf,4194511,448573
+materials/skybox/hlw_night_rt.vmt,86,88
+materials/skybox/hlw_night_rt.vtf,4194511,389316
+materials/skybox/hlw_night_up.vmt,86,88
+materials/skybox/hlw_night_up.vtf,4194511,385065
