@@ -1,0 +1,70 @@
+filename,size,compressed
+maps/ze_subway_surfers_v1_1.nav,205,205
+maps/ze_subway_surfers_v1_1_particles.txt,65,65
+materials/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie.vmt,290,290
+materials/maps/ze_subway_surfers_v1_1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/ze_subway_surfers_v1_1/cubemapdefault.vtf,28753,28753
+materials/maps/ze_subway_surfers_v1_1/de_train/blendgrassdirt001a_wvt_patch.vmt,129,129
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie.vmt,290,290
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie.vtf,349760,349760
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_bump.vtf,349760,349760
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_cockpit.vmt,306,306
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_cockpit.vtf,349688,349688
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_glass.vmt,340,340
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_glass.vtf,43856,43856
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_interior.vmt,214,214
+materials/models/bf2/helicopters/mh-53j pave low iiie/mh-53j pave low iiie_interior.vtf,349760,349760
+materials/subwaysurfers/enemies.vmt,67,67
+materials/subwaysurfers/enemies.vtf,349760,349760
+materials/subwaysurfers/main.vmt,78,78
+materials/subwaysurfers/main.vtf,699272,699272
+materials/subwaysurfers/nidecontest_banner_2026.vmt,97,97
+materials/subwaysurfers/nidecontest_banner_2026.vtf,349688,349688
+materials/subwaysurfers/props.vmt,79,79
+materials/subwaysurfers/props.vtf,174984,174984
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.dx80.vtx,231528,231528
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.dx90.vtx,231528,231528
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.mdl,2396,2396
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.phy,6802,6802
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.sw.vtx,231528,231528
+models/bf2/helicopters/mh-53j pave low iiie/mh53_b.vvd,1092672,1092672
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.dx80.vtx,26916,26916
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.dx90.vtx,26916,26916
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.mdl,1764,1764
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.phy,3391,3391
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.sw.vtx,26916,26916
+models/bf2/helicopters/mh-53j pave low iiie/mh53_r.vvd,141312,141312
+models/subwaysurfers/animatedcop_fixjank.dx80.vtx,14364,14364
+models/subwaysurfers/animatedcop_fixjank.dx90.vtx,14364,14364
+models/subwaysurfers/animatedcop_fixjank.mdl,7936,7936
+models/subwaysurfers/animatedcop_fixjank.phy,18810,18810
+models/subwaysurfers/animatedcop_fixjank.sw.vtx,14260,14260
+models/subwaysurfers/animatedcop_fixjank.vvd,52736,52736
+models/subwaysurfers/coin.dx80.vtx,1359,1359
+models/subwaysurfers/coin.dx90.vtx,1359,1359
+models/subwaysurfers/coin.mdl,1672,1672
+models/subwaysurfers/coin.sw.vtx,1359,1359
+models/subwaysurfers/coin.vvd,5312,5312
+models/subwaysurfers/shoes.dx80.vtx,5595,5595
+models/subwaysurfers/shoes.dx90.vtx,5595,5595
+models/subwaysurfers/shoes.mdl,1736,1736
+models/subwaysurfers/shoes.phy,2139,2139
+models/subwaysurfers/shoes.sw.vtx,5595,5595
+models/subwaysurfers/shoes.vvd,21952,21952
+particles/cockpackage.pcf,14412,14412
+sound/subway_surfers/bbno$ - pissman (official music video).mp3,1024762,1024762
+sound/subway_surfers/cartoon-falling.mp3,17482,17482
+sound/subway_surfers/cartoon-jump.mp3,17389,17389
+sound/subway_surfers/hurgh.wav,173620,173620
+sound/subway_surfers/maxammo44100.wav,527580,527580
+sound/subway_surfers/subway surfers_ (main theme)_ 2012 original [official].mp3,2209051,2209051
+sound/subway_surfers/subway-surfers-coin-collect.mp3,10943,10943
+sound/subway_surfers/subway-surfers-new-record.mp3,195085,195085
+sound/subway_surfers/subway-surfers-power-up.mp3,25153,25153
+sound/subway_surfers/subway-surfers-revive.mp3,94775,94775
+sp_0.vhv,36352,36352
+sp_1.vhv,36352,36352
+sp_2.vhv,36352,36352
+sp_hdr_0.vhv,36352,36352
+sp_hdr_1.vhv,36352,36352
+sp_hdr_2.vhv,36352,36352
