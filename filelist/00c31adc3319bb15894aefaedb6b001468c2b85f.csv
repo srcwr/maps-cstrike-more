@@ -1,0 +1,117 @@
+filename,size,compressed
+materials/concrete/concretefloor001a.vmt,197,197
+materials/cs_italy/black.vmt,57,57
+materials/detail/detailsprites.vmt,114,114
+materials/eobgo/e_justplay.vmt,64,64
+materials/eobgo/e_justplay.vtf,87544,87544
+materials/eobloveyou/city.vmt,63,63
+materials/eobloveyou/city.vtf,174984,174984
+materials/eobloveyou/haibao01.vmt,106,106
+materials/eobloveyou/haibao01.vtf,87544,87544
+materials/maps/de_vertigo_t2/buildings/gen15_976_1083_215.vmt,128,128
+materials/maps/de_vertigo_t2/buildings/gen15_982_-6_215.vmt,126,126
+materials/maps/de_vertigo_t2/buildings/gen17_976_1083_215.vmt,128,128
+materials/maps/de_vertigo_t2/c-1010_138_-22.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-1010_138_-22.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-1027_-229_-84.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-1027_-229_-84.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-1085_568_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-1085_568_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-134_-73_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-134_-73_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-157_1060_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-157_1060_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-157_142_-84.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-157_142_-84.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-180_558_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-180_558_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-539_-223_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-539_-223_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-578_554_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-578_554_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-582_113_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-582_113_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-611_84_-84.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-611_84_-84.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-929_988_174.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-929_988_174.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-970_-767_-84.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-970_-767_-84.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-970_-771_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c-970_-771_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c1009_-963_233.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c1009_-963_233.vtf,28753,28753
+materials/maps/de_vertigo_t2/c300_556_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c300_556_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c415_60_-84.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c415_60_-84.vtf,28753,28753
+materials/maps/de_vertigo_t2/c438_39_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c438_39_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c480_-330_-11.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c480_-330_-11.vtf,28753,28753
+materials/maps/de_vertigo_t2/c480_-633_260.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c480_-633_260.vtf,28753,28753
+materials/maps/de_vertigo_t2/c574_988_193.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c574_988_193.vtf,28753,28753
+materials/maps/de_vertigo_t2/c608_516_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c608_516_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c699_-311_150.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c699_-311_150.vtf,28753,28753
+materials/maps/de_vertigo_t2/c735_39_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c735_39_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c776_458_346.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c776_458_346.vtf,28753,28753
+materials/maps/de_vertigo_t2/c976_1083_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c976_1083_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/c982_-6_215.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/c982_-6_215.vtf,28753,28753
+materials/maps/de_vertigo_t2/concrete/concretefloor005a_976_1083_215.vmt,139,139
+materials/maps/de_vertigo_t2/concrete/concretefloor005a_982_-6_215.vmt,137,137
+materials/maps/de_vertigo_t2/cs_assault/pavement001_1009_-963_233.vmt,136,136
+materials/maps/de_vertigo_t2/cs_assault/pavement001_976_1083_215.vmt,135,135
+materials/maps/de_vertigo_t2/cs_assault/pavement001_982_-6_215.vmt,133,133
+materials/maps/de_vertigo_t2/cubemapdefault.hdr.vtf,28753,28753
+materials/maps/de_vertigo_t2/cubemapdefault.vtf,28753,28753
+materials/maps/de_vertigo_t2/environment maps/pipemetal001a_-134_-73_215.vmt,143,143
+materials/maps/de_vertigo_t2/environment maps/pipemetal001a_438_39_215.vmt,141,141
+materials/maps/de_vertigo_t2/environment maps/pipemetal001a_480_-330_-11.vmt,143,143
+materials/maps/de_vertigo_t2/environment maps/pipemetal001a_699_-311_150.vmt,143,143
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_-134_-73_215.vmt,143,143
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_-157_142_-84.vmt,143,143
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_-539_-223_215.vmt,144,144
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_-611_84_-84.vmt,142,142
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_-970_-771_215.vmt,144,144
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_415_60_-84.vmt,141,141
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_438_39_215.vmt,141,141
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_480_-633_260.vmt,143,143
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_608_516_215.vmt,142,142
+materials/maps/de_vertigo_t2/environment maps/pipemetal004a_776_458_346.vmt,142,142
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_-1027_-229_-84.vmt,148,148
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_-134_-73_215.vmt,146,146
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_-157_142_-84.vmt,146,146
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_-539_-223_215.vmt,147,147
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_-611_84_-84.vmt,145,145
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_-970_-771_215.vmt,147,147
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_300_556_215.vmt,145,145
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_415_60_-84.vmt,144,144
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_438_39_215.vmt,144,144
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_480_-330_-11.vmt,146,146
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_480_-633_260.vmt,146,146
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_608_516_215.vmt,145,145
+materials/maps/de_vertigo_t2/metal/citadel_tilefloor016a_cheap_776_458_346.vmt,145,145
+materials/maps/de_vertigo_t2/metal/metalwall058a_-157_1060_215.vmt,133,133
+materials/maps/de_vertigo_t2/metal/metalwall058a_-578_554_215.vmt,132,132
+materials/maps/de_vertigo_t2/metal/metalwall058a_-929_988_174.vmt,132,132
+materials/maps/de_vertigo_t2/metal/metalwall058a_480_-633_260.vmt,132,132
+materials/maps/de_vertigo_t2/metal/metalwall058a_776_458_346.vmt,131,131
+materials/models/props_junk/trashdumpster02.vmt,96,96
+materials/models/props_junk/trashdumpster02.vtf,699256,699256
+materials/overviews/de_vertigo_csgo.vmt,183,183
+materials/overviews/de_vertigo_csgo.vtf,1398336,1398336
+models/props_junk/TrashDumpster02.dx80.vtx,67748,67748
+models/props_junk/TrashDumpster02.dx90.vtx,67748,67748
+models/props_junk/TrashDumpster02.phy,4447,4447
+models/props_junk/TrashDumpster02.sw.vtx,67748,67748
+models/props_junk/trashdumpster02.mdl,1468,1468
+models/props_junk/trashdumpster02.vvd,100416,100416
+resource/overviews/de_vertigo_t3.txt,157,157
