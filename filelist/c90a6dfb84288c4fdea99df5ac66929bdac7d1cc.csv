@@ -1,0 +1,14 @@
+filename,size,compressed
+materials/maps/cs_fortmac/c0_0_0.hdr.vtf,76528,76528
+materials/maps/cs_fortmac/c0_0_0.vtf,9832,9832
+materials/maps/cs_fortmac/concrete/concretefloor038b_0_0_0.vmt,130,130
+materials/maps/cs_fortmac/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/cs_fortmac/cubemapdefault.vtf,9832,9832
+materials/maps/cs_fortmac/de_piranesi/woodfloor03_0_0_0.vmt,127,127
+materials/maps/cs_fortmac/perftest/water_pretty1_0_0_0.vmt,226,226
+materials/maps/cs_fortmac/perftest/water_pretty1_beneath_0_0_0.vmt,157,157
+materials/maps/cs_fortmac/perftest/water_pretty1_depth_136.vmt,110,110
+materials/maps/cs_fortmac/perftest/water_pretty1_depth_40.vmt,109,109
+materials/maps/cs_fortmac/perftest/water_pretty1_depth_76.vmt,109,109
+materials/maps/cs_fortmac/vehicle/rubbertrainfloor001a_0_0_0.vmt,132,132
+materials/maps/cs_fortmac/wood/woodfloor007a_0_0_0.vmt,122,122
