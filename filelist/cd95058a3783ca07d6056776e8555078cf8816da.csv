@@ -1,0 +1,43 @@
+filename,size,compressed
+materials/CRASH BANDICOOT/METAL_CRATE_NORMAL.vmt,107,107
+materials/CRASH BANDICOOT/metal_crate_normal.vtf,87616,87616
+materials/RealWorldTextures/de_artcenter/concrete01.vmt,160,160
+materials/RealWorldTextures/de_artcenter/concrete01.vtf,174984,174984
+materials/RealWorldTextures/grass/deadgrass.vmt,156,156
+materials/RealWorldTextures/grass/deadgrass.vtf,4194511,4194511
+materials/RealWorldTextures/grass/deadgrass_normal.vtf,4194511,4194511
+materials/RealWorldTextures/newer/1/Asphalt_1_07.vmt,113,113
+materials/RealWorldTextures/newer/1/Asphalt_1_07.vtf,174984,174984
+materials/color/dodger blue.vmt,95,95
+materials/color/dodger blue.vtf,11144,11144
+materials/color/vermilion.vmt,66,66
+materials/color/vermilion.vtf,11144,11144
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/maps/de_mk_bombus_k1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_mk_bombus_k1/cubemapdefault.vtf,28753,28753
+materials/models/leshiy/veh_buus.vmt,69,69
+materials/models/leshiy/veh_buus.vtf,1398336,1398336
+materials/models/leshiy/veh_buus_vnutr.vmt,75,75
+materials/models/leshiy/veh_buus_vnutr.vtf,699256,699256
+materials/realworldtextures2/concrete/Wall/concrete_wall_18.vmt,328,328
+materials/realworldtextures2/concrete/Wall/concrete_wall_18.vtf,174984,174984
+materials/realworldtextures2/detail/detailconcrete001a.vtf,262567,262567
+materials/skybox/sky_gravitybk.vmt,87,87
+materials/skybox/sky_gravitybk.vtf,4194511,4194511
+materials/skybox/sky_gravitydn.vmt,87,87
+materials/skybox/sky_gravitydn.vtf,4194511,4194511
+materials/skybox/sky_gravityft.vmt,87,87
+materials/skybox/sky_gravityft.vtf,4194511,4194511
+materials/skybox/sky_gravitylf.vmt,87,87
+materials/skybox/sky_gravitylf.vtf,4194511,4194511
+materials/skybox/sky_gravityrt.vmt,87,87
+materials/skybox/sky_gravityrt.vtf,4194511,4194511
+materials/skybox/sky_gravityup.vmt,87,87
+materials/skybox/sky_gravityup.vtf,4194511,4194511
+models/leshiy/veh_bus_01.dx80.vtx,316107,316107
+models/leshiy/veh_bus_01.dx90.vtx,316107,316107
+models/leshiy/veh_bus_01.mdl,1588,1588
+models/leshiy/veh_bus_01.phy,58730,58730
+models/leshiy/veh_bus_01.sw.vtx,316107,316107
+models/leshiy/veh_bus_01.vvd,1453440,1453440
