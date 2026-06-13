@@ -1,0 +1,15 @@
+filename,size,compressed
+materials/cartoon/sign_dead.vmt,65,65
+materials/cartoon/sign_dead.vtf,2952,2952
+materials/cartoon/sign_laser.vmt,66,66
+materials/cartoon/sign_laser.vtf,2952,2952
+materials/cartoon/sign_opendoor.vmt,69,69
+materials/cartoon/sign_opendoor.vtf,2952,2952
+materials/colors/green.vmt,60,60
+materials/colors/green.vtf,43912,43912
+materials/colors/grey.vmt,59,59
+materials/colors/grey.vtf,43912,43912
+materials/maps/surf_bigmac/c0_0_0.vtf,9824,9824
+materials/maps/surf_bigmac/cubemapdefault.vtf,9824,9824
+materials/maps/surf_bigmac/nature/water_canals03_0_0_0.vmt,149,149
+materials/maps/surf_bigmac/nature/water_canals03_depth_4.vmt,107,107
