@@ -1,0 +1,401 @@
+filename,size,compressed
+materials/bmx2/material__252.vmt,72,72
+materials/bmx2/material__254.vmt,71,71
+materials/bmx2/material__255.vmt,71,71
+materials/bmx2/material__256.vmt,71,71
+materials/bmx2/material__307.vmt,71,71
+materials/bmx2/material__319.vmt,71,71
+materials/bmx2/material__331.vmt,71,71
+materials/bmx2/material__355.vmt,72,72
+materials/bmx2/material__391.vmt,72,72
+materials/bmx2/material__403.vmt,66,66
+materials/bmx2/material__415.vmt,70,70
+materials/bmx2/material__416.vmt,70,70
+materials/bmx2/material__418.vmt,72,72
+materials/custom/sa.vmt,55,55
+materials/custom/sa.vtf,5592568,5592568
+materials/de_nuke/nuke_metaldoor_01.vmt,172,172
+materials/de_nuke/nuke_metaldoor_01.vtf,349672,349672
+materials/de_nuke/nuke_metaldoor_01_ref.vtf,349672,349672
+materials/decals/naz.vmt,185,185
+materials/decals/naz.vtf,1398272,1398272
+materials/detail/detailsprites.vmt,131,131
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/groves/material__636.vmt,102,102
+materials/grovestreetgtasa/material__1269.vmt,64,64
+materials/grovestreetgtasa/material__1284.vmt,52,52
+materials/grovestreetgtasa/material__1299.vmt,64,64
+materials/grovestreetgtasa/material__1314.vmt,64,64
+materials/grovestreetgtasa/material__1329.vmt,64,64
+materials/grovestreetgtasa/material__1344.vmt,64,64
+materials/grovestreetgtasa/material__1359.vmt,64,64
+materials/grovestreetgtasa/material__1374.vmt,64,64
+materials/grovestreetgtasa/material__1389.vmt,64,64
+materials/grovestreetgtasa/material__1404.vmt,64,64
+materials/grovestreetgtasa/material__1419.vmt,64,64
+materials/grovestreetgtasa/material__1434.vmt,65,65
+materials/grovestreetgtasa/material__1459.vmt,65,65
+materials/grovestreetgtasa/material__1471.vmt,65,65
+materials/grovestreetgtasa/material__1483.vmt,65,65
+materials/grovestreetgtasa/material__1495.vmt,65,65
+materials/grovestreetgtasa/material__1507.vmt,65,65
+materials/grovestreetgtasa/material__1519.vmt,65,65
+materials/grovestreetgtasa/material__2268.vmt,65,65
+materials/grovestreetgtasa/material__2280.vmt,65,65
+materials/grovestreetgtasa/material__2292.vmt,65,65
+materials/grovestreetgtasa/material__2304.vmt,65,65
+materials/grovestreetgtasa/material__2599.vmt,66,66
+materials/grovestreetgtasa/material__2623.vmt,66,66
+materials/grovestreetgtasa/material__2635.vmt,66,66
+materials/grovestreetgtasa/material__2647.vmt,66,66
+materials/grovestreetgtasa/material__2659.vmt,66,66
+materials/grovestreetgtasa/material__2671.vmt,66,66
+materials/grovestreetgtasa/material__2693.vmt,66,66
+materials/grovestreetgtasa/material__2705.vmt,66,66
+materials/grovestreetgtasa/material__2717.vmt,66,66
+materials/grovestreetgtasa/material__2729.vmt,66,66
+materials/grovestreetgtasa/material__2741.vmt,66,66
+materials/grovestreetgtasa/material__2753.vmt,66,66
+materials/grovestreetgtasa/material__2765.vmt,66,66
+materials/grovestreetgtasa/material__2777.vmt,66,66
+materials/grovestreetgtasa/material__2789.vmt,66,66
+materials/grovestreetgtasa/material__2823.vmt,66,66
+materials/grovestreetgtasa/material__2835.vmt,66,66
+materials/grovestreetgtasa/material__2847.vmt,66,66
+materials/grovestreetgtasa/material__2883.vmt,66,66
+materials/grovestreetgtasa/material__2895.vmt,66,66
+materials/grovestreetgtasa/material__2907.vmt,66,66
+materials/grovestreetgtasa/material__2919.vmt,66,66
+materials/grovestreetgtasa/material__816.vmt,98,98
+materials/halo_textures/halo_metal024.vmt,100,100
+materials/halo_textures/halo_metal024.vtf,43912,43912
+materials/map _100/47.vtf,87640,87640
+materials/map _101/51.vtf,22104,22104
+materials/map _102/52.vtf,22104,22104
+materials/map _103/53.vtf,87640,87640
+materials/map _104/54.vtf,5720,5720
+materials/map _105/55.vtf,11128,11128
+materials/map _106/56.vtf,5720,5720
+materials/map _162/86.vtf,87640,87640
+materials/map _163/87.vtf,87640,87640
+materials/map _164/88.vtf,349784,349784
+materials/map _165/87.vtf,87640,87640
+materials/map _17/bmxtexpage.vtf,5720,5720
+materials/map _187/106.vtf,2936,2936
+materials/map _189/107.vtf,22104,22104
+materials/map _19/bmxdetail.vtf,1624,1624
+materials/map _190/108.vtf,22104,22104
+materials/map _191/109.vtf,11128,11128
+materials/map _192/110.vtf,87640,87640
+materials/map _193/111.vtf,22104,22104
+materials/map _194/112.vtf,5720,5720
+materials/map _195/113.vtf,87640,87640
+materials/map _196/114.vtf,22104,22104
+materials/map _197/115.vtf,87640,87640
+materials/map _198/116.vtf,22104,22104
+materials/map _199/117.vtf,5720,5720
+materials/map _20/bmxdetail.vtf,1624,1624
+materials/map _200/118.vtf,22104,22104
+materials/map _201/119.vtf,11128,11128
+materials/map _202/120.vtf,11128,11128
+materials/map _204/122.vtf,22104,22104
+materials/map _205/123.vtf,22104,22104
+materials/map _206/124.vtf,11128,11128
+materials/map _209/122.vtf,22104,22104
+materials/map _21/bmxdetail.vtf,1624,1624
+materials/map _210/125.vtf,22104,22104
+materials/map _211/126.vtf,22104,22104
+materials/map _212/127.vtf,11128,11128
+materials/map _239/bballboard128.vtf,22104,22104
+materials/map _240/drkbrownmetal.vtf,5720,5720
+materials/map _241/gen_chrome.vtf,22104,22104
+materials/map _242/cratetop128.vtf,22104,22104
+materials/map _243/wire2.vtf,5720,5720
+materials/map _244/car1_128.vtf,22104,22104
+materials/map _248/metalox64.vtf,5720,5720
+materials/map _249/car1_128.vtf,22104,22104
+materials/map _252/metalox64.vtf,5720,5720
+materials/map _254/car2_128.vtf,22104,22104
+materials/map _266/roadsignbackground128.vtf,5720,5720
+materials/map _267/metal1_128.vtf,22104,22104
+materials/map _268/telepole2128.vtf,22104,22104
+materials/map _269/telepole2128.vtf,22104,22104
+materials/map _270/metatelepole1.vtf,43896,43896
+materials/map _271/steel64.vtf,5720,5720
+materials/map _272/teleconect2.vtf,5720,5720
+materials/map _274/cj_slatedwood.vtf,22104,22104
+materials/map _28/bmxdetail.vtf,1624,1624
+materials/map _29/bmxdetail.vtf,1624,1624
+materials/map _30/bmxdetail.vtf,1624,1624
+materials/map _32/bmxtexpage.vtf,5720,5720
+materials/map _35/bmxtexpage.vtf,5720,5720
+materials/map _36/cvet.vtf,5720,5720
+materials/map _37/bmxwheel.vtf,5720,5720
+materials/map _38/bmxwheel.vtf,5720,5720
+materials/map _40/bmxtexpage.vtf,5720,5720
+materials/map _59/10.vtf,87640,87640
+materials/map _69/21.vtf,22104,22104
+materials/map _89/40.vtf,2936,2936
+materials/map _90/41.vtf,43896,43896
+materials/map _91/42.vtf,22104,22104
+materials/map _92/43.vtf,87640,87640
+materials/map _93/44.vtf,43896,43896
+materials/map _94/45.vtf,22104,22104
+materials/map _95/46.vtf,22104,22104
+materials/map _96/47.vtf,87640,87640
+materials/map _97/48.vtf,87640,87640
+materials/map _98/49.vtf,22104,22104
+materials/map _99/50.vtf,87640,87640
+materials/maps/fy_corridor_c1/buildings/gen24_592_-928_64.vmt,129,129
+materials/maps/fy_corridor_c1/c592_-928_64.hdr.vtf,76536,76536
+materials/maps/fy_corridor_c1/c592_-928_64.vtf,4968,4968
+materials/maps/zm_nomercy_r1/buildings/gen07_7313_7518_5419.vmt,131,131
+materials/maps/zm_nomercy_r1/c7313_7518_5419.hdr.vtf,76528,76528
+materials/maps/zm_nomercy_r1/c7313_7518_5419.vtf,306024,306024
+materials/maps/zm_sa_grove_street_v3/buildings/gen01_0_0_0.vmt,130,130
+materials/maps/zm_sa_grove_street_v3/buildings/gen12_0_0_0.vmt,130,130
+materials/maps/zm_sa_grove_street_v3/buildings/gen15_0_0_0.vmt,130,130
+materials/maps/zm_sa_grove_street_v3/buildings/gen16_0_0_0.vmt,130,130
+materials/maps/zm_sa_grove_street_v3/buildings/gen17_0_0_0.vmt,130,130
+materials/maps/zm_sa_grove_street_v3/buildings/gen18_0_0_0.vmt,130,130
+materials/maps/zm_sa_grove_street_v3/buildings/gen19_0_0_0.vmt,130,130
+materials/maps/zm_sa_grove_street_v3/concrete/concretefloor019a_c17_0_0_0.vmt,184,184
+materials/maps/zm_sa_grove_street_v3/concrete/concretefloor033a_0_0_0.vmt,141,141
+materials/maps/zm_sa_grove_street_v3/concrete/concretefloor033o_0_0_0.vmt,141,141
+materials/maps/zm_sa_grove_street_v3/concrete/concretefloor037b_0_0_0.vmt,180,180
+materials/maps/zm_sa_grove_street_v3/glass/glasswindowbreak070b_0_0_0.vmt,114,114
+materials/maps/zm_sa_grove_street_v3/glass/offwndwb_0_0_0.vmt,212,212
+materials/maps/zm_sa_grove_street_v3/glass/offwndwc_0_0_0.vmt,129,129
+materials/maps/zm_sa_grove_street_v3/nature/infblendgrassdirt001a_wvt_patch.vmt,143,143
+materials/maps/zm_sa_grove_street_v3/tile/tileroof003b_0_0_0.vmt,132,132
+materials/maxofs2d/terrain_detail.vtf,349733,349733
+materials/models/props/cs_office/light_shop.vmt,180,180
+materials/models/props/cs_office/light_shop.vtf,87600,87600
+materials/models/props/cs_office/light_shop_ref.vtf,11128,11128
+materials/models/props/cs_office/sofa.vmt,294,294
+materials/models/props/cs_office/sofa.vtf,174968,174968
+materials/models/props/cs_office/sofa_chair.vmt,313,313
+materials/models/props/cs_office/sofa_spec.vtf,174984,174984
+materials/models/props/cs_office/vending_machine.vmt,190,190
+materials/models/props/cs_office/vending_machine.vtf,349760,349760
+materials/models/props/cs_office/vending_machine_ref.vtf,174968,174968
+materials/models/props_foliage/tree_springers_cards_01.vmt,995,995
+materials/models/props_foliage/tree_springers_cards_01.vtf,699232,699232
+materials/models/props_rooftop/acvent01.vmt,78,78
+materials/models/props_rooftop/acvent01.vtf,87568,87568
+materials/models/props_rooftop/roof_dish001.vmt,102,102
+materials/models/props_rooftop/roof_dish001.vtf,43896,43896
+materials/models/props_vehicles/4carz1024.vmt,287,287
+materials/models/props_vehicles/4carz1024.vtf,349760,349760
+materials/models/props_vehicles/4carz1024_envmask.vtf,175008,175008
+materials/models/props_wasteland/controlroom_tables001.vmt,364,364
+materials/models/props_wasteland/controlroom_tables001.vtf,349744,349744
+materials/models/props_wasteland/fence_alpha.vmt,231,231
+materials/models/props_wasteland/fence_alpha.vtf,349784,349784
+materials/models/props_wasteland/prison_yard001.vmt,206,206
+materials/models/props_wasteland/prison_yard001.vtf,174968,174968
+materials/myproject3/material__1284.vmt,98,98
+materials/propsgtasa/material__3273.vmt,76,76
+materials/propsgtasa/material__3286.vmt,76,76
+materials/propsgtasa/material__3298.vmt,73,73
+materials/propsgtasa/material__3310.vmt,74,74
+materials/propsgtasa/material__3322.vmt,68,68
+materials/propsgtasa/material__3344.vmt,71,71
+materials/propsgtasa/material__3392.vmt,72,72
+materials/propsgtasa/material__3404.vmt,71,71
+materials/propsgtasa/material__3440.vmt,72,72
+materials/propsgtasa/material__3464.vmt,71,71
+materials/propsgtasa/material__3655.vmt,84,84
+materials/propsgtasa/material__3667.vmt,73,73
+materials/propsgtasa/material__3689.vmt,75,75
+materials/propsgtasa/material__3701.vmt,75,75
+materials/propsgtasa/material__3713.vmt,76,76
+materials/propsgtasa/material__3725.vmt,70,70
+materials/propsgtasa/material__3737.vmt,74,74
+materials/propsgtasas/material__3784.vmt,76,76
+materials/realworldtextures2/concrete/road_street_03.vmt,234,234
+materials/realworldtextures2/concrete/road_street_03.vtf,174984,174984
+materials/realworldtextures2/detail/detailconcrete001a.vtf,262567,262567
+materials/realworldtextures2/wall/brick_wall_08.vmt,391,391
+materials/realworldtextures2/wall/brick_wall_08.vtf,174984,174984
+materials/realworldtextures2/wall/brick_wall_08_nrm.vtf,174984,174984
+materials/skybox/iraqibk.vmt,85,85
+materials/skybox/iraqibk.vtf,349632,349632
+materials/skybox/iraqidn.vmt,85,85
+materials/skybox/iraqidn.vtf,349688,349688
+materials/skybox/iraqift.vmt,85,85
+materials/skybox/iraqift.vtf,349632,349632
+materials/skybox/iraqilf.vmt,85,85
+materials/skybox/iraqilf.vtf,349632,349632
+materials/skybox/iraqirt.vmt,85,85
+materials/skybox/iraqirt.vtf,349632,349632
+materials/skybox/iraqiup.vmt,85,85
+materials/skybox/iraqiup.vtf,349632,349632
+materials/tools/toolsinvisible-dx10.vtf,5720,5720
+materials/tools/toolsinvisible.vmt,378,378
+materials/tools/toolsinvisible.vtf,5680,5680
+materials/tools/toolsskybox.vmt,285,285
+materials/tools/toolsskybox.vtf,11128,11128
+materials/tools/toolstrigger-dx10.vtf,5720,5720
+materials/tools/toolstrigger.vmt,394,394
+materials/tools/toolstrigger.vtf,5680,5680
+materials/wasabi_mat/blade_body.vmt,65,65
+materials/wasabi_mat/blade_body.vtf,43912,43912
+materials/wasabi_mat/blade_body_2.vmt,65,65
+materials/wasabi_mat/blade_dash.vmt,65,65
+materials/wasabi_mat/blade_dash.vtf,1600,1600
+materials/wasabi_mat/blade_interior.vmt,69,69
+materials/wasabi_mat/blade_interior.vtf,22080,22080
+materials/wasabi_mat/blade_light_1.vmt,68,68
+materials/wasabi_mat/blade_light_1.vtf,11144,11144
+materials/wasabi_mat/blade_light_2.vmt,68,68
+materials/wasabi_mat/blade_light_3.vmt,68,68
+materials/wasabi_mat/blade_light_4.vmt,68,68
+materials/wasabi_mat/blade_light_5.vmt,68,68
+materials/wasabi_mat/blade_plate.vmt,66,66
+materials/wasabi_mat/blade_plate.vtf,1528,1528
+materials/wasabi_mat/blade_plate_charset.vmt,74,74
+materials/wasabi_mat/blade_plate_charset.vtf,2872,2872
+materials/wasabi_mat/blade_steering.vmt,69,69
+materials/wasabi_mat/blade_steering.vtf,22080,22080
+materials/wasabi_mat/blade_wheels.vmt,67,67
+materials/wasabi_mat/blade_wheels.vtf,2952,2952
+materials/wasabi_mat/blade_wheels_2.vmt,67,67
+materials/wasabi_mat/vechicle_generic.vmt,71,71
+materials/wasabi_mat/vechicle_generic.vtf,43912,43912
+materials/wasabi_mat/vechicle_generic_2.vmt,71,71
+materials/wasabi_mat/vechicle_generic_3.vmt,71,71
+models/bmx2/chassis.dx80.vtx,52110,52110
+models/bmx2/chassis.dx90.vtx,52110,52110
+models/bmx2/chassis.mdl,4088,4088
+models/bmx2/chassis.phy,3468,3468
+models/bmx2/chassis.sw.vtx,52110,52110
+models/bmx2/chassis.vvd,232704,232704
+models/grovestreetgtasa/compfukhouse006.dx80.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse006.dx90.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse006.mdl,2764,2764
+models/grovestreetgtasa/compfukhouse006.sw.vtx,5373,5373
+models/grovestreetgtasa/compfukhouse006.vvd,25216,25216
+models/grovestreetgtasa/compmedhos3_lae002.dx80.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae002.dx90.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae002.mdl,2972,2972
+models/grovestreetgtasa/compmedhos3_lae002.sw.vtx,2403,2403
+models/grovestreetgtasa/compmedhos3_lae002.vvd,9536,9536
+models/grovestreetgtasa/lae2_roads50.dx80.vtx,4149,4149
+models/grovestreetgtasa/lae2_roads50.dx90.vtx,4149,4149
+models/grovestreetgtasa/lae2_roads50.mdl,2364,2364
+models/grovestreetgtasa/lae2_roads50.sw.vtx,4149,4149
+models/grovestreetgtasa/lae2_roads50.vvd,19200,19200
+models/grovestreetgtasa/market2_lae.dx80.vtx,7212,7212
+models/grovestreetgtasa/market2_lae.dx90.vtx,7212,7212
+models/grovestreetgtasa/market2_lae.mdl,4140,4140
+models/grovestreetgtasa/market2_lae.sw.vtx,7212,7212
+models/grovestreetgtasa/market2_lae.vvd,31360,31360
+models/grovestreetgtasa/mcstraps_lae2.dx80.vtx,17376,17376
+models/grovestreetgtasa/mcstraps_lae2.dx90.vtx,17376,17376
+models/grovestreetgtasa/mcstraps_lae2.mdl,3356,3356
+models/grovestreetgtasa/mcstraps_lae2.sw.vtx,17376,17376
+models/grovestreetgtasa/mcstraps_lae2.vvd,84224,84224
+models/grovestreetgtasa/rydhou01_lae2.dx80.vtx,8049,8049
+models/grovestreetgtasa/rydhou01_lae2.dx90.vtx,8049,8049
+models/grovestreetgtasa/rydhou01_lae2.mdl,2760,2760
+models/grovestreetgtasa/rydhou01_lae2.sw.vtx,8049,8049
+models/grovestreetgtasa/rydhou01_lae2.vvd,37120,37120
+models/gtasa/gta_blade_car.dx80.vtx,49062,49062
+models/gtasa/gta_blade_car.dx90.vtx,49062,49062
+models/gtasa/gta_blade_car.mdl,4900,4900
+models/gtasa/gta_blade_car.phy,8470,8470
+models/gtasa/gta_blade_car.sw.vtx,49062,49062
+models/gtasa/gta_blade_car.vvd,216832,216832
+models/props/cs_office/light_shop.dx80.vtx,5649,5649
+models/props/cs_office/light_shop.dx90.vtx,5649,5649
+models/props/cs_office/light_shop.mdl,1560,1560
+models/props/cs_office/light_shop.phy,694,694
+models/props/cs_office/light_shop.sw.vtx,5649,5649
+models/props/cs_office/light_shop.vtx,5109,5109
+models/props/cs_office/light_shop.vvd,25920,25920
+models/props/cs_office/sofa.dx80.vtx,53731,53731
+models/props/cs_office/sofa.dx90.vtx,54178,54178
+models/props/cs_office/sofa.mdl,1764,1764
+models/props/cs_office/sofa.phy,2443,2443
+models/props/cs_office/sofa.sw.vtx,53731,53731
+models/props/cs_office/sofa.vvd,107584,107584
+models/props/cs_office/sofa_chair.dx80.vtx,10755,10755
+models/props/cs_office/sofa_chair.dx90.vtx,40141,40141
+models/props/cs_office/sofa_chair.mdl,1776,1776
+models/props/cs_office/sofa_chair.phy,2448,2448
+models/props/cs_office/sofa_chair.sw.vtx,10755,10755
+models/props/cs_office/sofa_chair.vvd,81728,81728
+models/props/cs_office/vending_machine.dx80.vtx,5565,5565
+models/props/cs_office/vending_machine.dx90.vtx,5565,5565
+models/props/cs_office/vending_machine.mdl,1480,1480
+models/props/cs_office/vending_machine.phy,3501,3501
+models/props/cs_office/vending_machine.sw.vtx,5565,5565
+models/props/cs_office/vending_machine.vvd,27712,27712
+models/props_foliage/tree_springers_card_01_skybox.dx80.vtx,5535,5535
+models/props_foliage/tree_springers_card_01_skybox.dx90.vtx,5535,5535
+models/props_foliage/tree_springers_card_01_skybox.mdl,1472,1472
+models/props_foliage/tree_springers_card_01_skybox.vvd,28608,28608
+models/props_rooftop/acvent01.dx80.vtx,6420,6420
+models/props_rooftop/acvent01.dx90.vtx,6420,6420
+models/props_rooftop/acvent01.mdl,1732,1732
+models/props_rooftop/acvent01.phy,4268,4268
+models/props_rooftop/acvent01.sw.vtx,6420,6420
+models/props_rooftop/acvent01.vtx,6420,6420
+models/props_rooftop/acvent01.vvd,32512,32512
+models/props_rooftop/roof_dish001.dx80.vtx,37454,37454
+models/props_rooftop/roof_dish001.dx90.vtx,37454,37454
+models/props_rooftop/roof_dish001.mdl,1464,1464
+models/props_rooftop/roof_dish001.phy,711,711
+models/props_rooftop/roof_dish001.sw.vtx,37454,37454
+models/props_rooftop/roof_dish001.vvd,93376,93376
+models/props_vehicles/cara_84sedan.dx80.vtx,86034,86034
+models/props_vehicles/cara_84sedan.dx90.vtx,86034,86034
+models/props_vehicles/cara_84sedan.mdl,1732,1732
+models/props_vehicles/cara_84sedan.phy,4503,4503
+models/props_vehicles/cara_84sedan.sw.vtx,86034,86034
+models/props_vehicles/cara_84sedan.vvd,375552,375552
+models/props_wasteland/controlroom_desk001b.dx80.vtx,8306,8306
+models/props_wasteland/controlroom_desk001b.dx90.vtx,8306,8306
+models/props_wasteland/controlroom_desk001b.mdl,1548,1548
+models/props_wasteland/controlroom_desk001b.phy,2519,2519
+models/props_wasteland/controlroom_desk001b.sw.vtx,8306,8306
+models/props_wasteland/controlroom_desk001b.vtx,6237,6237
+models/props_wasteland/controlroom_desk001b.vvd,33088,33088
+models/props_wasteland/interior_fence002c.dx80.vtx,22076,22076
+models/props_wasteland/interior_fence002c.dx90.vtx,22076,22076
+models/props_wasteland/interior_fence002c.mdl,1736,1736
+models/props_wasteland/interior_fence002c.phy,739,739
+models/props_wasteland/interior_fence002c.sw.vtx,22076,22076
+models/props_wasteland/interior_fence002c.vvd,31568,31568
+models/propsgtasa/bskballhub_lax01.dx80.vtx,3270,3270
+models/propsgtasa/bskballhub_lax01.dx90.vtx,3270,3270
+models/propsgtasa/bskballhub_lax01.mdl,2556,2556
+models/propsgtasa/bskballhub_lax01.phy,1510,1510
+models/propsgtasa/bskballhub_lax01.sw.vtx,3270,3270
+models/propsgtasa/bskballhub_lax01.vvd,14464,14464
+models/propsgtasa/gen_roadsign2.dx80.vtx,2880,2880
+models/propsgtasa/gen_roadsign2.dx90.vtx,2880,2880
+models/propsgtasa/gen_roadsign2.mdl,1956,1956
+models/propsgtasa/gen_roadsign2.phy,1604,1604
+models/propsgtasa/gen_roadsign2.sw.vtx,2880,2880
+models/propsgtasa/gen_roadsign2.vvd,13760,13760
+models/propsgtasa/la_fuckcar002.dx80.vtx,9078,9078
+models/propsgtasa/la_fuckcar002.dx90.vtx,9078,9078
+models/propsgtasa/la_fuckcar002.mdl,2548,2548
+models/propsgtasa/la_fuckcar002.phy,4292,4292
+models/propsgtasa/la_fuckcar002.sw.vtx,9078,9078
+models/propsgtasa/la_fuckcar002.vvd,43008,43008
+models/propsgtasa/telgrphpoleall_l002.dx80.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l002.dx90.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l002.mdl,2560,2560
+models/propsgtasa/telgrphpoleall_l002.phy,1849,1849
+models/propsgtasa/telgrphpoleall_l002.sw.vtx,5337,5337
+models/propsgtasa/telgrphpoleall_l002.vvd,23360,23360
+models/propsgtasas/dyn_f_r_wood_1b.dx80.vtx,8475,8475
+models/propsgtasas/dyn_f_r_wood_1b.dx90.vtx,8475,8475
+models/propsgtasas/dyn_f_r_wood_1b.mdl,1768,1768
+models/propsgtasas/dyn_f_r_wood_1b.phy,1701,1701
+models/propsgtasas/dyn_f_r_wood_1b.sw.vtx,8475,8475
+models/propsgtasas/dyn_f_r_wood_1b.vvd,44480,44480
+sound/mysounds/song/gta san andreas theme song full ! !.mp3,8863797,8863797
