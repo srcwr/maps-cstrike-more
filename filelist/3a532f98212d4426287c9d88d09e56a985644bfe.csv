@@ -1,0 +1,17 @@
+filename,size,compressed
+materials/maps/de_province_ea1/c0_0_0.hdr.vtf,76528,76528
+materials/maps/de_province_ea1/c0_0_0.vtf,9832,9832
+materials/maps/de_province_ea1/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/de_province_ea1/cubemapdefault.vtf,9832,9832
+materials/maps/de_province_ea1/de_chateau/cnstrcttarp_0_0_0.vmt,131,131
+materials/maps/de_province_ea1/de_chateau/cnstrcttarpb_0_0_0.vmt,132,132
+materials/maps/de_province_ea1/de_piranesi/wooddoor01_0_0_0.vmt,131,131
+materials/maps/de_province_ea1/metal/metalceiling005a_0_0_0.vmt,131,131
+materials/maps/de_province_ea1/metal/metalroof006a_0_0_0.vmt,128,128
+materials/maps/de_province_ea1/metal/metalwall031a_0_0_0.vmt,128,128
+materials/maps/de_province_ea1/metal/metalwall061g_0_0_0.vmt,128,128
+materials/maps/de_province_ea1/stone/stonestair001a_0_0_0.vmt,129,129
+materials/maps/de_province_ea1/tile/tileroof002a_0_0_0.vmt,126,126
+materials/overviews/de_province_ea1.vmt,147,147
+materials/overviews/de_province_ea1.vtf,1398352,1398352
+resource/overviews/de_province_ea1.txt,364,364
