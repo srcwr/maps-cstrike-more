@@ -1,0 +1,12 @@
+filename,size,compressed
+materials/maps/dm_duke3d_l1_v1_d/building_template/building_template021c_0_0_0.vmt,150,150
+materials/maps/dm_duke3d_l1_v1_d/c0_0_0.hdr.vtf,76528,76528
+materials/maps/dm_duke3d_l1_v1_d/c0_0_0.vtf,9832,9832
+materials/maps/dm_duke3d_l1_v1_d/concrete/concretefloor028c_c17_0_0_0.vmt,180,180
+materials/maps/dm_duke3d_l1_v1_d/concrete/concretefloor028d_0_0_0.vmt,137,137
+materials/maps/dm_duke3d_l1_v1_d/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/dm_duke3d_l1_v1_d/cubemapdefault.vtf,9832,9832
+materials/maps/dm_duke3d_l1_v1_d/de_nuke/nukwindowc_0_0_0.vmt,129,129
+materials/maps/dm_duke3d_l1_v1_d/glass/unbreakable_0_0_0.vmt,128,128
+materials/maps/dm_duke3d_l1_v1_d/metal/metalwall031a_0_0_0.vmt,130,130
+materials/maps/dm_duke3d_l1_v1_d/wood/offdesktop_0_0_0.vmt,126,126
