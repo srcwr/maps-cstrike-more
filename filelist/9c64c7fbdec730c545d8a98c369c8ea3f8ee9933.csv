@@ -1,0 +1,355 @@
+filename,size,compressed
+materials/0023_rpg.vmt,211,211
+materials/0023_rpg.vtf,43912,43912
+materials/0055_steroids.vmt,216,216
+materials/0055_steroids.vtf,43912,43912
+materials/0057_jetpack.vmt,215,215
+materials/0057_jetpack.vtf,43912,43912
+materials/1405_duke.vmt,58,58
+materials/1405_duke.vtf,174984,174984
+materials/1680_trooper_blue.vmt,66,66
+materials/1680_trooper_blue.vtf,174984,174984
+materials/1680_trooper_green.vmt,67,67
+materials/1680_trooper_green.vtf,174984,174984
+materials/de_train/train_metalceiling_02.vmt,108,108
+materials/de_train/train_metalceiling_02.vtf,174968,174968
+materials/detail/detailsprites.vmt,155,155
+materials/detail/detailsprites.vtf,1398336,1398336
+materials/hoteliteactionxxx_clickhere.vtf,22052,22052
+materials/maps/dm_duke3d_l1_v2/building_template/building_template021c_0_0_0.vmt,148,148
+materials/maps/dm_duke3d_l1_v2/c0_0_0.hdr.vtf,76528,76528
+materials/maps/dm_duke3d_l1_v2/c0_0_0.vtf,9832,9832
+materials/maps/dm_duke3d_l1_v2/concrete/concretefloor028c_c17_0_0_0.vmt,178,178
+materials/maps/dm_duke3d_l1_v2/concrete/concretefloor028d_0_0_0.vmt,135,135
+materials/maps/dm_duke3d_l1_v2/cubemapdefault.hdr.vtf,76528,76528
+materials/maps/dm_duke3d_l1_v2/cubemapdefault.vtf,9832,9832
+materials/maps/dm_duke3d_l1_v2/de_nuke/nukwindowc_0_0_0.vmt,127,127
+materials/maps/dm_duke3d_l1_v2/glass/unbreakable_0_0_0.vmt,126,126
+materials/maps/dm_duke3d_l1_v2/metal/metalwall031a_0_0_0.vmt,128,128
+materials/maps/dm_duke3d_l1_v2/wood/offdesktop_0_0_0.vmt,124,124
+materials/models/jason278/duke nukem forever/cdplayer_d.vmt,309,309
+materials/models/jason278/duke nukem forever/cdplayer_d.vtf,87616,87616
+materials/models/jason278/duke nukem forever/cdplayer_e.vtf,87616,87616
+materials/models/jason278/duke nukem forever/cdplayer_n.vtf,349760,349760
+materials/models/jason278/duke nukem forever/condommachine_diff.vmt,174,174
+materials/models/jason278/duke nukem forever/condommachine_diff.vtf,87616,87616
+materials/models/jason278/duke nukem forever/condommachinesigns_diff.vmt,104,104
+materials/models/jason278/duke nukem forever/condommachinesigns_diff.vtf,22080,22080
+materials/models/jason278/duke nukem forever/condomtamponmachine_norm.vtf,87616,87616
+materials/models/jason278/duke nukem forever/condomtamponmachineknob_diff.vmt,188,188
+materials/models/jason278/duke nukem forever/condomtamponmachineknob_diff.vtf,5696,5696
+materials/models/jason278/duke nukem forever/condomtamponmachineknob_norm.vtf,5696,5696
+materials/models/jason278/duke nukem forever/dartboard.vmt,152,152
+materials/models/jason278/duke nukem forever/dartboard.vtf,1398336,1398336
+materials/models/jason278/duke nukem forever/dartboard_n.vtf,1398336,1398336
+materials/models/jason278/duke nukem forever/dukecutout.vmt,154,154
+materials/models/jason278/duke nukem forever/dukecutout.vtf,699232,699232
+materials/models/jason278/duke nukem forever/dukecutout_n.vtf,699232,699232
+materials/models/jason278/duke nukem forever/foodtray_diff.vmt,158,158
+materials/models/jason278/duke nukem forever/foodtray_diff.vtf,87616,87616
+materials/models/jason278/duke nukem forever/foodtray_norm.vtf,87616,87616
+materials/models/jason278/duke nukem forever/gothicblueboyduke_d.vmt,170,170
+materials/models/jason278/duke nukem forever/gothicblueboyduke_d.vtf,349760,349760
+materials/models/jason278/duke nukem forever/gothicblueboyduke_n.vtf,349760,349760
+materials/models/jason278/duke nukem forever/handdryer1_diff.vmt,96,96
+materials/models/jason278/duke nukem forever/handdryer1_diff.vtf,87616,87616
+materials/models/jason278/duke nukem forever/handdryer2_diff.vmt,96,96
+materials/models/jason278/duke nukem forever/handdryer2_diff.vtf,22080,22080
+materials/models/jason278/duke nukem forever/monalisaduke_d.vmt,160,160
+materials/models/jason278/duke nukem forever/monalisaduke_d.vtf,349760,349760
+materials/models/jason278/duke nukem forever/monalisaduke_n.vtf,349760,349760
+materials/models/jason278/duke nukem forever/paintingframe_diff.vmt,168,168
+materials/models/jason278/duke nukem forever/paintingframe_diff.vtf,5696,5696
+materials/models/jason278/duke nukem forever/paintingframe_norm.vtf,5696,5696
+materials/models/jason278/duke nukem forever/pornmag.vmt,148,148
+materials/models/jason278/duke nukem forever/pornmag.vtf,349760,349760
+materials/models/jason278/duke nukem forever/pornmag2.vmt,149,149
+materials/models/jason278/duke nukem forever/pornmag2.vtf,349760,349760
+materials/models/jason278/duke nukem forever/pornmag3.vmt,149,149
+materials/models/jason278/duke nukem forever/pornmag3.vtf,349760,349760
+materials/models/jason278/duke nukem forever/pornmag_n.vtf,349760,349760
+materials/models/jason278/duke nukem forever/pornmagd.vmt,149,149
+materials/models/jason278/duke nukem forever/pornmagd.vtf,349760,349760
+materials/models/jason278/duke nukem forever/pornmage.vmt,149,149
+materials/models/jason278/duke nukem forever/pornmage.vtf,349760,349760
+materials/models/jason278/duke nukem forever/posters_duke3d_d.vmt,164,164
+materials/models/jason278/duke nukem forever/posters_duke3d_d.vtf,349760,349760
+materials/models/jason278/duke nukem forever/posters_duke3d_n.vtf,349760,349760
+materials/models/jason278/duke nukem forever/shit.vmt,167,167
+materials/models/jason278/duke nukem forever/shit.vtf,87616,87616
+materials/models/jason278/duke nukem forever/signbook1tw_d.vmt,163,163
+materials/models/jason278/duke nukem forever/signbook1tw_d.vtf,87616,87616
+materials/models/jason278/duke nukem forever/signbook1tw_normal.vtf,87616,87616
+materials/models/jason278/duke nukem forever/signbook2tw_d.vmt,163,163
+materials/models/jason278/duke nukem forever/signbook2tw_d.vtf,349760,349760
+materials/models/jason278/duke nukem forever/signbook2tw_normal.vtf,349760,349760
+materials/models/jason278/duke nukem forever/sodaftn_body.vmt,158,158
+materials/models/jason278/duke nukem forever/sodaftn_body.vtf,87616,87616
+materials/models/jason278/duke nukem forever/sodaftn_body_n.vtf,87616,87616
+materials/models/jason278/duke nukem forever/sodaftn_drnksign.vmt,97,97
+materials/models/jason278/duke nukem forever/sodaftn_drnksign.vtf,43872,43872
+materials/models/jason278/duke nukem forever/sodaftn_duf.vmt,173,173
+materials/models/jason278/duke nukem forever/sodaftn_duf.vtf,22080,22080
+materials/models/jason278/duke nukem forever/sodaftn_esprit.vmt,176,176
+materials/models/jason278/duke nukem forever/sodaftn_esprit.vtf,22080,22080
+materials/models/jason278/duke nukem forever/sodaftn_grill.vmt,293,293
+materials/models/jason278/duke nukem forever/sodaftn_grill.vtf,11104,11104
+materials/models/jason278/duke nukem forever/sodaftn_grill_n.vtf,11104,11104
+materials/models/jason278/duke nukem forever/sodaftn_ice.vmt,156,156
+materials/models/jason278/duke nukem forever/sodaftn_ice.vtf,22080,22080
+materials/models/jason278/duke nukem forever/sodaftn_ice_n.vtf,22080,22080
+materials/models/jason278/duke nukem forever/sodaftn_pep.vmt,175,175
+materials/models/jason278/duke nukem forever/sodaftn_pep.vtf,22080,22080
+materials/models/jason278/duke nukem forever/sodaftn_pepdiet.vmt,177,177
+materials/models/jason278/duke nukem forever/sodaftn_pepdiet.vtf,22080,22080
+materials/models/jason278/duke nukem forever/sodaftn_spaz.vmt,159,159
+materials/models/jason278/duke nukem forever/sodaftn_spaz.vtf,22080,22080
+materials/models/jason278/duke nukem forever/sodaftn_water.vmt,160,160
+materials/models/jason278/duke nukem forever/sodaftn_water.vtf,22080,22080
+materials/models/jason278/duke nukem forever/sodaftn_water_n.vtf,22080,22080
+materials/models/jason278/duke nukem forever/steroidbottle1tw_d2.vmt,342,342
+materials/models/jason278/duke nukem forever/steroidbottle1tw_d2.vtf,349760,349760
+materials/models/jason278/duke nukem forever/steroidbottle1tw_e3.vtf,87616,87616
+materials/models/jason278/duke nukem forever/steroidbottle1tw_normal2.vtf,87616,87616
+materials/models/jason278/duke nukem forever/tampon_d.vmt,148,148
+materials/models/jason278/duke nukem forever/tampon_d.vtf,22080,22080
+materials/models/jason278/duke nukem forever/tampon_n.vtf,22080,22080
+materials/models/jason278/duke nukem forever/tamponmachinesigns_diff.vmt,104,104
+materials/models/jason278/duke nukem forever/tamponmachinesigns_diff.vtf,22080,22080
+materials/models/jason278/duke nukem forever/toilets_clean_d.vmt,156,156
+materials/models/jason278/duke nukem forever/toilets_clean_d.vtf,1398336,1398336
+materials/models/jason278/duke nukem forever/toilets_d.vmt,150,150
+materials/models/jason278/duke nukem forever/toilets_d.vtf,1398336,1398336
+materials/models/jason278/duke nukem forever/toilets_n.vtf,1398336,1398336
+materials/models/jason278/duke nukem forever/toys/plastictoys_characters_d.vmt,190,190
+materials/models/jason278/duke nukem forever/toys/plastictoys_characters_d.vtf,349760,349760
+materials/models/jason278/duke nukem forever/toys/plastictoys_characters_n.vtf,349760,349760
+materials/models/jason278/duke nukem forever/toys/toyscover_d.vmt,322,322
+materials/models/jason278/duke nukem forever/toys/toyscover_d.vtf,174944,174944
+materials/models/jason278/duke nukem forever/toys/toyscover_n.vtf,174944,174944
+materials/models/jason278/duke nukem forever/toys/vibr8cover_hv_dif.vmt,359,359
+materials/models/jason278/duke nukem forever/toys/vibr8cover_hv_dif.vtf,22080,22080
+materials/models/jason278/duke nukem forever/turd1tw_normal.vtf,87616,87616
+materials/models/jason278/duke nukem forever/turntable_d.vmt,314,314
+materials/models/jason278/duke nukem forever/turntable_d.vtf,87616,87616
+materials/models/jason278/duke nukem forever/turntable_e.vtf,87616,87616
+materials/models/jason278/duke nukem forever/turntable_n.vtf,349760,349760
+materials/models/props_urban/dumpster001.vmt,75,75
+materials/models/props_urban/dumpster001.vtf,175008,175008
+materials/zm_duke3d/alienreactor.vmt,89,89
+materials/zm_duke3d/alienreactor.vtf,87616,87616
+materials/zm_duke3d/arcade_sign.vmt,69,69
+materials/zm_duke3d/arcade_sign.vtf,349688,349688
+materials/zm_duke3d/bleached_blonde_bikers_poster.vmt,112,112
+materials/zm_duke3d/bleached_blonde_bikers_poster.vtf,174984,174984
+materials/zm_duke3d/cinema_sign.vmt,113,113
+materials/zm_duke3d/cinema_sign.vtf,87552,87552
+materials/zm_duke3d/collumn_brick.vmt,105,105
+materials/zm_duke3d/collumn_brick.vtf,349688,349688
+materials/zm_duke3d/concrete_bricks.vmt,107,107
+materials/zm_duke3d/concrete_bricks.vtf,43912,43912
+materials/zm_duke3d/concrete_bricks_tile.vmt,78,78
+materials/zm_duke3d/concrete_bricks_tile.vtf,174984,174984
+materials/zm_duke3d/creditsduke1.vmt,70,70
+materials/zm_duke3d/creditsduke1.vtf,699272,699272
+materials/zm_duke3d/curtain.vmt,65,65
+materials/zm_duke3d/curtain.vtf,2796424,2796424
+materials/zm_duke3d/donotcross.vmt,68,68
+materials/zm_duke3d/donotcross.vtf,174904,174904
+materials/zm_duke3d/donotcross_yellow.vmt,75,75
+materials/zm_duke3d/donotcross_yellow.vtf,904,904
+materials/zm_duke3d/duke2_poster.vmt,70,70
+materials/zm_duke3d/duke2_poster.vtf,349688,349688
+materials/zm_duke3d/duke3d_poster.vmt,71,71
+materials/zm_duke3d/duke3d_poster.vtf,699272,699272
+materials/zm_duke3d/duke_endbutton_1.vmt,74,74
+materials/zm_duke3d/duke_endbutton_1.vtf,87544,87544
+materials/zm_duke3d/duke_graffiti_1.vmt,92,92
+materials/zm_duke3d/duke_graffiti_1.vtf,87616,87616
+materials/zm_duke3d/duke_graffiti_2.vmt,92,92
+materials/zm_duke3d/duke_graffiti_2.vtf,174944,174944
+materials/zm_duke3d/duke_graffiti_3.vmt,92,92
+materials/zm_duke3d/duke_graffiti_3.vtf,174944,174944
+materials/zm_duke3d/duke_graffiti_4.vmt,92,92
+materials/zm_duke3d/duke_graffiti_4.vtf,349760,349760
+materials/zm_duke3d/dukeforevertheme.vmt,93,93
+materials/zm_duke3d/dukeforevertheme.vtf,87616,87616
+materials/zm_duke3d/megadeththeme.vmt,90,90
+materials/zm_duke3d/megadeththeme.vtf,87616,87616
+materials/zm_duke3d/moviesign_fill.vmt,72,72
+materials/zm_duke3d/moviesign_fill.vtf,11128,11128
+materials/zm_duke3d/moviesign_front.vmt,73,73
+materials/zm_duke3d/moviesign_front.vtf,174984,174984
+materials/zm_duke3d/moviestripper_anim.vmt,297,297
+materials/zm_duke3d/moviestripper_anim.vtf,1485944,1485944
+materials/zm_duke3d/originaltheme.vmt,90,90
+materials/zm_duke3d/originaltheme.vtf,87616,87616
+materials/zm_duke3d/plasterwall_stripe.vmt,104,104
+materials/zm_duke3d/plasterwall_stripe.vtf,87544,87544
+materials/zm_duke3d/playmag_red.vmt,101,101
+materials/zm_duke3d/playmag_red.vtf,87616,87616
+materials/zm_duke3d/sexy_poster.vmt,88,88
+materials/zm_duke3d/sexy_poster.vtf,174944,174944
+materials/zm_duke3d/sexy_poster_2.vmt,71,71
+materials/zm_duke3d/sexy_poster_2.vtf,174984,174984
+materials/zm_duke3d/sisteract3_poster.vmt,75,75
+materials/zm_duke3d/sisteract3_poster.vtf,174984,174984
+materials/zm_duke3d/theatre_doors_wood_fulldouble.vmt,117,117
+materials/zm_duke3d/theatre_doors_wood_fulldouble.vtf,699272,699272
+materials/zm_duke3d/tvstripper_anim.vmt,291,291
+materials/zm_duke3d/tvstripper_anim.vtf,262432,262432
+models/duke nukem forever/cd_player.dx80.vtx,5178,5178
+models/duke nukem forever/cd_player.dx90.vtx,5178,5178
+models/duke nukem forever/cd_player.mdl,1476,1476
+models/duke nukem forever/cd_player.phy,1986,1986
+models/duke nukem forever/cd_player.sw.vtx,5170,5170
+models/duke nukem forever/cd_player.vvd,22912,22912
+models/duke nukem forever/condom_machine.dx80.vtx,6131,6131
+models/duke nukem forever/condom_machine.dx90.vtx,6131,6131
+models/duke nukem forever/condom_machine.mdl,2756,2756
+models/duke nukem forever/condom_machine.phy,1660,1660
+models/duke nukem forever/condom_machine.sw.vtx,6099,6099
+models/duke nukem forever/condom_machine.vvd,26176,26176
+models/duke nukem forever/dart.dx80.vtx,2061,2061
+models/duke nukem forever/dart.dx90.vtx,2061,2061
+models/duke nukem forever/dart.mdl,1484,1484
+models/duke nukem forever/dart.phy,793,793
+models/duke nukem forever/dart.sw.vtx,2053,2053
+models/duke nukem forever/dart.vvd,8256,8256
+models/duke nukem forever/dart_board.dx80.vtx,1686,1686
+models/duke nukem forever/dart_board.dx90.vtx,1686,1686
+models/duke nukem forever/dart_board.mdl,1484,1484
+models/duke nukem forever/dart_board.phy,2235,2235
+models/duke nukem forever/dart_board.sw.vtx,1678,1678
+models/duke nukem forever/dart_board.vvd,6784,6784
+models/duke nukem forever/duke_book.dx80.vtx,7754,7754
+models/duke nukem forever/duke_book.dx90.vtx,7754,7754
+models/duke nukem forever/duke_book.mdl,2184,2184
+models/duke nukem forever/duke_book.phy,698,698
+models/duke nukem forever/duke_book.sw.vtx,7730,7730
+models/duke nukem forever/duke_book.vvd,31808,31808
+models/duke nukem forever/duke_cutout.dx80.vtx,6435,6435
+models/duke nukem forever/duke_cutout.dx90.vtx,6435,6435
+models/duke nukem forever/duke_cutout.mdl,1476,1476
+models/duke nukem forever/duke_cutout.phy,1615,1615
+models/duke nukem forever/duke_cutout.sw.vtx,6427,6427
+models/duke nukem forever/duke_cutout.vvd,31424,31424
+models/duke nukem forever/food_tray.dx80.vtx,3759,3759
+models/duke nukem forever/food_tray.dx90.vtx,3759,3759
+models/duke nukem forever/food_tray.mdl,1480,1480
+models/duke nukem forever/food_tray.phy,1413,1413
+models/duke nukem forever/food_tray.sw.vtx,3751,3751
+models/duke nukem forever/food_tray.vvd,15552,15552
+models/duke nukem forever/handdryer.dx80.vtx,4689,4689
+models/duke nukem forever/handdryer.dx90.vtx,4689,4689
+models/duke nukem forever/handdryer.mdl,1676,1676
+models/duke nukem forever/handdryer.phy,2522,2522
+models/duke nukem forever/handdryer.sw.vtx,4673,4673
+models/duke nukem forever/handdryer.vvd,17408,17408
+models/duke nukem forever/painting_1.dx80.vtx,834,834
+models/duke nukem forever/painting_1.dx90.vtx,834,834
+models/duke nukem forever/painting_1.mdl,1684,1684
+models/duke nukem forever/painting_1.phy,701,701
+models/duke nukem forever/painting_1.sw.vtx,818,818
+models/duke nukem forever/painting_1.vvd,3392,3392
+models/duke nukem forever/painting_4.dx80.vtx,834,834
+models/duke nukem forever/painting_4.dx90.vtx,834,834
+models/duke nukem forever/painting_4.mdl,1680,1680
+models/duke nukem forever/painting_4.phy,701,701
+models/duke nukem forever/painting_4.sw.vtx,818,818
+models/duke nukem forever/painting_4.vvd,3392,3392
+models/duke nukem forever/porn_mag_1.dx80.vtx,777,777
+models/duke nukem forever/porn_mag_1.dx90.vtx,777,777
+models/duke nukem forever/porn_mag_1.mdl,1824,1824
+models/duke nukem forever/porn_mag_1.phy,947,947
+models/duke nukem forever/porn_mag_1.sw.vtx,769,769
+models/duke nukem forever/porn_mag_1.vvd,2880,2880
+models/duke nukem forever/porn_mag_2.dx80.vtx,1047,1047
+models/duke nukem forever/porn_mag_2.dx90.vtx,1047,1047
+models/duke nukem forever/porn_mag_2.mdl,1816,1816
+models/duke nukem forever/porn_mag_2.phy,602,602
+models/duke nukem forever/porn_mag_2.sw.vtx,1039,1039
+models/duke nukem forever/porn_mag_2.vvd,4800,4800
+models/duke nukem forever/poster_1.dx80.vtx,813,813
+models/duke nukem forever/poster_1.dx90.vtx,813,813
+models/duke nukem forever/poster_1.mdl,1484,1484
+models/duke nukem forever/poster_1.phy,700,700
+models/duke nukem forever/poster_1.sw.vtx,805,805
+models/duke nukem forever/poster_1.vvd,3648,3648
+models/duke nukem forever/shit.dx80.vtx,1500,1500
+models/duke nukem forever/shit.dx90.vtx,1500,1500
+models/duke nukem forever/shit.mdl,1480,1480
+models/duke nukem forever/shit.phy,1706,1706
+models/duke nukem forever/shit.sw.vtx,1492,1492
+models/duke nukem forever/shit.vvd,5120,5120
+models/duke nukem forever/soda_fountain.dx80.vtx,9690,9690
+models/duke nukem forever/soda_fountain.dx90.vtx,9690,9690
+models/duke nukem forever/soda_fountain.mdl,3240,3240
+models/duke nukem forever/soda_fountain.phy,987,987
+models/duke nukem forever/soda_fountain.sw.vtx,9610,9610
+models/duke nukem forever/soda_fountain.vvd,41280,41280
+models/duke nukem forever/steroids_pill.dx80.vtx,1014,1014
+models/duke nukem forever/steroids_pill.dx90.vtx,1014,1014
+models/duke nukem forever/steroids_pill.mdl,1488,1488
+models/duke nukem forever/steroids_pill.phy,602,602
+models/duke nukem forever/steroids_pill.sw.vtx,1006,1006
+models/duke nukem forever/steroids_pill.vvd,3712,3712
+models/duke nukem forever/tampon_used.dx80.vtx,1332,1332
+models/duke nukem forever/tampon_used.dx90.vtx,1332,1332
+models/duke nukem forever/tampon_used.mdl,1484,1484
+models/duke nukem forever/tampon_used.phy,697,697
+models/duke nukem forever/tampon_used.sw.vtx,1324,1324
+models/duke nukem forever/tampon_used.vvd,5120,5120
+models/duke nukem forever/toy_duke_package.dx80.vtx,21120,21120
+models/duke nukem forever/toy_duke_package.dx90.vtx,21120,21120
+models/duke nukem forever/toy_duke_package.mdl,1892,1892
+models/duke nukem forever/toy_duke_package.phy,794,794
+models/duke nukem forever/toy_duke_package.sw.vtx,21096,21096
+models/duke nukem forever/toy_duke_package.vvd,85888,85888
+models/duke nukem forever/turntables.dx80.vtx,18897,18897
+models/duke nukem forever/turntables.dx90.vtx,18897,18897
+models/duke nukem forever/turntables.mdl,1476,1476
+models/duke nukem forever/turntables.phy,1650,1650
+models/duke nukem forever/turntables.sw.vtx,18889,18889
+models/duke nukem forever/turntables.vvd,83008,83008
+models/duke nukem forever/urnial.dx80.vtx,26423,26423
+models/duke nukem forever/urnial.dx90.vtx,26423,26423
+models/duke nukem forever/urnial.mdl,2260,2260
+models/duke nukem forever/urnial.phy,4588,4588
+models/duke nukem forever/urnial.sw.vtx,26399,26399
+models/duke nukem forever/urnial.vvd,100480,100480
+models/duke.dx80.vtx,44655,44655
+models/duke.dx90.vtx,44655,44655
+models/duke.mdl,1908,1908
+models/duke.phy,4345,4345
+models/duke.sw.vtx,44631,44631
+models/duke.vvd,186432,186432
+models/dukerpg.dx80.vtx,7404,7404
+models/dukerpg.dx90.vtx,7404,7404
+models/dukerpg.mdl,1512,1512
+models/dukerpg.phy,2995,2995
+models/dukerpg.sw.vtx,7396,7396
+models/dukerpg.vvd,33792,33792
+models/props_urban/dumpster001.dx90.vtx,60969,60969
+models/props_urban/dumpster001.mdl,1720,1720
+models/props_urban/dumpster001.phy,4316,4316
+models/props_urban/dumpster001.vvd,265024,265024
+models/steroids.dx80.vtx,1143,1143
+models/steroids.dx90.vtx,1143,1143
+models/steroids.mdl,1588,1588
+models/steroids.phy,1319,1319
+models/steroids.sw.vtx,1135,1135
+models/steroids.vvd,4800,4800
+models/trooper_green.dx80.vtx,24297,24297
+models/trooper_green.dx90.vtx,24297,24297
+models/trooper_green.mdl,1548,1548
+models/trooper_green.phy,17322,17322
+models/trooper_green.sw.vtx,24297,24297
+models/trooper_green.vvd,91200,91200
+sound/lee jackson - grabbag (96khz-24bit 2018 remaster) (loop.wav,2741912,2741912
+sound/zm_duke3d/duke nukem 3d soundtrack remixed - alien reactor (acid banging remix).mp3,4830386,4830386
+sound/zm_duke3d/duke nukem 3d theme song (hd).mp3,2040634,2040634
+sound/zm_duke3d/duke nukem forever- official soundtrack -theme song.mp3,3412668,3412668
+sound/zm_duke3d/lookingood.mp3,53288,53288
+sound/zm_duke3d/megadeth - duke nukem theme.mp3,3748575,3748575
+sound/zm_duke3d/playwithmyself.mp3,68335,68335
