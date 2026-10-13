@@ -1,0 +1,971 @@
+filename,size,compressed
+materials/3amlol.vmt,54,66
+materials/3amlol.vtf,349760,70121
+materials/adamboy.vmt,57,68
+materials/adamboy.vtf,43912,36494
+materials/blender/astro/clamps.vmt,66,77
+materials/blender/astro/clamps.vtf,408,80
+materials/blender/astro/coinslot.vmt,68,78
+materials/blender/astro/coinslot.vtf,408,80
+materials/blender/astro/flatsquare.vmt,70,80
+materials/blender/astro/flatsquare.vtf,699288,29581
+materials/blender/astro/hull.vmt,64,75
+materials/blender/astro/hull.vtf,408,80
+materials/blender/astro/instruction.vmt,71,80
+materials/blender/astro/instruction.vtf,699288,1944
+materials/blender/astro/invis.vmt,90,95
+materials/blender/astro/key.vmt,63,74
+materials/blender/astro/key.vtf,408,80
+materials/blender/astro/marquee.vmt,67,78
+materials/blender/astro/marquee.vtf,175000,10655
+materials/blender/astro/p1color.vmt,67,78
+materials/blender/astro/p1color.vtf,408,80
+materials/blender/astro/p2color.vmt,67,78
+materials/blender/astro/p2color.vtf,408,80
+materials/blender/astro/screen.vmt,66,76
+materials/blender/astro/screen.vtf,699288,249907
+materials/blender/astro/side.vmt,64,75
+materials/blender/astro/side.vtf,699288,32585
+materials/blender/astro/speaker.vmt,67,78
+materials/blender/astro/speaker.vtf,699288,328070
+materials/blender/astro/stickpart.vmt,69,80
+materials/blender/astro/stickpart.vtf,699288,17952
+materials/blender/astro/sticks.vmt,66,77
+materials/blender/astro/sticks.vtf,408,74
+materials/blender/astro/yen.vmt,63,74
+materials/blender/astro/yen.vtf,175000,6296
+materials/blender/epic/arms.vmt,63,73
+materials/blender/epic/arms.vtf,21980,3190
+materials/blender/epic/bars.vmt,63,73
+materials/blender/epic/bars.vtf,175000,176
+materials/blender/epic/car.vmt,62,72
+materials/blender/epic/car.vtf,349660,66986
+materials/blender/epic/dg_eye.vmt,65,75
+materials/blender/epic/dg_eye.vtf,5684,2052
+materials/blender/epic/dkbarrel.vmt,67,76
+materials/blender/epic/dkbarrel.vtf,175000,98734
+materials/blender/epic/dkbox.vmt,64,74
+materials/blender/epic/dkbox.vtf,349748,49923
+materials/blender/epic/dklogo.vmt,65,74
+materials/blender/epic/dklogo.vtf,175000,16368
+materials/blender/epic/doghouse.vmt,67,76
+materials/blender/epic/doghouse.vtf,175000,96177
+materials/blender/epic/epicpanda.vmt,80,86
+materials/blender/epic/epicpanda.vtf,4319,307
+materials/blender/epic/gamecubeprop.vmt,71,79
+materials/blender/epic/gamecubeprop.vtf,699288,328498
+materials/blender/epic/hedgetextured.vmt,72,75
+materials/blender/epic/hedgetextured.vtf,175000,149820
+materials/blender/epic/hose.vmt,63,73
+materials/blender/epic/hose.vtf,2796440,695477
+materials/blender/epic/invisgrass.vmt,129,99
+materials/blender/epic/invismetal.vmt,129,99
+materials/blender/epic/inviswood.vmt,128,98
+materials/blender/epic/kpoptwitter.vmt,82,90
+materials/blender/epic/kpoptwitter.vtf,4319,259
+materials/blender/epic/lb1.vmt,62,72
+materials/blender/epic/lb1.vtf,175000,91541
+materials/blender/epic/lb2.vmt,62,72
+materials/blender/epic/lb2.vtf,175000,91541
+materials/blender/epic/lb3.vmt,62,72
+materials/blender/epic/lb3.vtf,175000,91541
+materials/blender/epic/lb4.vmt,62,72
+materials/blender/epic/lb4.vtf,175000,91541
+materials/blender/epic/lb5.vmt,62,72
+materials/blender/epic/lb5.vtf,175000,91541
+materials/blender/epic/lb6.vmt,62,72
+materials/blender/epic/lb6.vtf,175000,91541
+materials/blender/epic/mayflash.vmt,67,76
+materials/blender/epic/mayflash.vtf,2796440,363221
+materials/blender/epic/moter.vmt,64,73
+materials/blender/epic/moter.vtf,175000,48937
+materials/blender/epic/orange.vmt,65,74
+materials/blender/epic/orange.vtf,699288,15566
+materials/blender/epic/redbull.vmt,66,75
+materials/blender/epic/redbull.vtf,5592656,299704
+materials/blender/epic/sib_a_all.vmt,68,78
+materials/blender/epic/sib_a_all.vtf,349748,84304
+materials/blender/epic/sib_a_hand.vmt,69,79
+materials/blender/epic/sib_a_hand.vtf,22068,6506
+materials/blender/epic/tiredk.vmt,65,74
+materials/blender/epic/tiredk.vtf,43852,9211
+materials/blender/epic/tobj_0.vmt,68,78
+materials/blender/epic/tobj_0.vtf,349748,51033
+materials/blender/epic/tobj_11.vmt,69,79
+materials/blender/epic/tobj_11.vtf,87604,8500
+materials/blender/epic/tobj_12.vmt,69,79
+materials/blender/epic/tobj_12.vtf,87604,8649
+materials/blender/epic/tobj_13.vmt,69,79
+materials/blender/epic/tobj_13.vtf,43852,7822
+materials/blender/epic/tobj_14.vmt,69,79
+materials/blender/epic/tobj_14.vtf,22068,4534
+materials/blender/epic/tobj_15.vmt,69,79
+materials/blender/epic/tobj_15.vtf,11084,2821
+materials/blender/epic/tobj_16.vmt,69,79
+materials/blender/epic/tobj_16.vtf,43852,8479
+materials/blender/epic/tobj_17.vmt,69,79
+materials/blender/epic/tobj_17.vtf,22068,3295
+materials/blender/epic/tobj_18.vmt,69,79
+materials/blender/epic/tobj_18.vtf,87604,14593
+materials/blender/epic/tobj_19.vmt,69,79
+materials/blender/epic/tobj_19.vtf,43852,6787
+materials/blender/epic/tobj_2.vmt,68,78
+materials/blender/epic/tobj_2.vtf,174924,11406
+materials/blender/epic/tobj_21.vmt,69,79
+materials/blender/epic/tobj_21.vtf,174924,26253
+materials/blender/epic/tobj_23.vmt,69,79
+materials/blender/epic/tobj_23.vtf,87604,15103
+materials/blender/epic/tobj_24.vmt,69,79
+materials/blender/epic/tobj_24.vtf,22068,4899
+materials/blender/epic/tobj_25.vmt,69,79
+materials/blender/epic/tobj_25.vtf,349748,33621
+materials/blender/epic/tobj_4.vmt,68,78
+materials/blender/epic/tobj_4.vtf,174924,18363
+materials/blender/epic/tobj_6.vmt,68,78
+materials/blender/epic/tobj_6.vtf,43852,9140
+materials/blender/epic/tobj_7.vmt,68,78
+materials/blender/epic/tobj_7.vtf,174924,6459
+materials/blender/epic/tobj_9.vmt,68,78
+materials/blender/epic/tobj_9.vtf,349748,31650
+materials/blender/epic/trashcanblack.vmt,72,80
+materials/blender/epic/trashcanblack.vtf,699288,119222
+materials/blender/gamecube/gamecube.vmt,71,73
+materials/blender/gamecube/gamecube.vtf,699288,15948
+materials/blender/hunluff.vmt,82,89
+materials/blender/hunluff.vtf,2796400,182579
+materials/blender/poopemoji.vmt,65,75
+materials/blender/poopemoji.vtf,349776,36072
+materials/challenge1/troll.vmt,56,68
+materials/challenge1/troll.vtf,43912,19007
+materials/classictokyo.vmt,60,70
+materials/classictokyo.vtf,1398336,119984
+materials/color/white.vmt,56,66
+materials/color/white.vtf,11144,110
+materials/colors/toolstrigger.vmt,278,206
+materials/colours/lightgrey.vmt,65,74
+materials/colours/lightgrey.vtf,174984,160
+materials/concrete/concrete_floor_02_blue.vmt,115,111
+materials/concrete/concrete_floor_02_blue.vtf,349760,119972
+materials/concrete/concreteceiling003a.vmt,186,156
+materials/concrete/concreteceiling003a.vtf,174968,115115
+materials/cs_italy/black.vmt,62,73
+materials/cs_italy/black.vtf,1600,81
+materials/custom/ggez.vmt,236,154
+materials/custom/ggez.vtf,491584,136302
+materials/custom/goat.vmt,282,173
+materials/custom/goat.vtf,9614144,1054457
+materials/customdev/whiteblock.vmt,96,96
+materials/customdev/whiteblock.vtf,22080,152
+materials/death cox/death of jelq god 2023-04-05_18-55-20.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_18-55-20.vtf,349768,168169
+materials/death cox/death of jelq god 2023-04-05_18-58-24.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_18-58-24.vtf,349768,182062
+materials/death cox/death of jelq god 2023-04-05_19-18-25.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_19-18-25.vtf,349768,161080
+materials/death cox/death of jelq god 2023-04-05_19-20-17.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_19-20-17.vtf,349768,153278
+materials/death cox/death of jelq god 2023-04-05_19-21-43.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_19-21-43.vtf,349768,152216
+materials/death cox/death of jelq god 2023-04-05_19-23-16.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_19-23-16.vtf,349768,155490
+materials/death cox/death of jelq god 2023-04-05_19-25-18.vmt,98,105
+materials/death cox/death of jelq god 2023-04-05_19-25-18.vtf,349768,178037
+materials/death cox/death of jelq god 2023-04-05_19-25-53.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_19-25-53.vtf,349768,171957
+materials/death cox/death of jelq god 2023-04-05_19-29-34.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_19-29-34.vtf,349768,161625
+materials/death cox/death of jelq god 2023-04-05_19-30-32.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_19-30-32.vtf,349768,164162
+materials/death cox/death of jelq god 2023-04-05_19-31-21.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_19-31-21.vtf,349768,169439
+materials/death cox/death of jelq god 2023-04-05_19-31-58.vmt,98,105
+materials/death cox/death of jelq god 2023-04-05_19-31-58.vtf,349768,164086
+materials/death cox/death of jelq god 2023-04-05_19-32-58.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_19-32-58.vtf,349768,166774
+materials/death cox/death of jelq god 2023-04-05_20-09-20.vmt,98,103
+materials/death cox/death of jelq god 2023-04-05_20-09-20.vtf,349768,175778
+materials/death cox/death of jelq god 2023-04-05_20-10-10.vmt,98,102
+materials/death cox/death of jelq god 2023-04-05_20-10-10.vtf,349768,171012
+materials/death cox/death of jelq god 2023-04-05_20-15-47.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_20-15-47.vtf,349768,193764
+materials/death cox/death of jelq god 2023-04-05_20-20-08.vmt,98,103
+materials/death cox/death of jelq god 2023-04-05_20-20-08.vtf,349768,107715
+materials/death cox/death of jelq god 2023-04-05_20-21-33.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_20-21-33.vtf,349768,151643
+materials/death cox/death of jelq god 2023-04-05_20-22-58.vmt,98,105
+materials/death cox/death of jelq god 2023-04-05_20-22-58.vtf,349768,143360
+materials/death cox/death of jelq god 2023-04-05_20-25-40.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_20-25-40.vtf,349768,103978
+materials/death cox/death of jelq god 2023-04-05_20-46-26.vmt,98,105
+materials/death cox/death of jelq god 2023-04-05_20-46-26.vtf,349768,140078
+materials/death cox/death of jelq god 2023-04-05_20-51-11.vmt,98,105
+materials/death cox/death of jelq god 2023-04-05_20-51-11.vtf,349768,137438
+materials/death cox/death of jelq god 2023-04-05_20-53-34.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_20-53-34.vtf,349768,149415
+materials/death cox/death of jelq god 2023-04-05_20-55-02.vmt,98,105
+materials/death cox/death of jelq god 2023-04-05_20-55-02.vtf,349768,149982
+materials/death cox/death of jelq god 2023-04-05_20-55-47.vmt,98,104
+materials/death cox/death of jelq god 2023-04-05_20-55-47.vtf,349768,146885
+materials/death cox/death of jelq god 2023-04-05_20-56-32.vmt,98,105
+materials/death cox/death of jelq god 2023-04-05_20-56-32.vtf,349768,148684
+materials/death cox/death of jelq god 2023-04-25_22-29-41.vmt,98,105
+materials/death cox/death of jelq god 2023-04-25_22-29-41.vtf,349768,158847
+materials/death cox/death of jelq god 2023-04-25_23-12-03.vmt,98,104
+materials/death cox/death of jelq god 2023-04-25_23-12-03.vtf,349768,161216
+materials/death cox/death of jelq god 2023-04-25_23-16-43.vmt,98,104
+materials/death cox/death of jelq god 2023-04-25_23-16-43.vtf,349768,175985
+materials/death cox/death of jelq god 2023-04-25_23-18-24.vmt,98,104
+materials/death cox/death of jelq god 2023-04-25_23-18-24.vtf,349768,159348
+materials/death cox/death of jelq god 2023-04-25_23-41-12.vmt,98,104
+materials/death cox/death of jelq god 2023-04-25_23-41-12.vtf,349768,169697
+materials/death cox/death of jelq god 2023-04-26_00-17-26.vmt,98,104
+materials/death cox/death of jelq god 2023-04-26_00-17-26.vtf,349768,148175
+materials/death cox/death of jelq god 2023-04-26_01-26-06.vmt,98,104
+materials/death cox/death of jelq god 2023-04-26_01-26-06.vtf,349768,159524
+materials/death cox/death of jelq god 2023-04-26_18-54-01.vmt,98,105
+materials/death cox/death of jelq god 2023-04-26_18-54-01.vtf,349768,148506
+materials/death cox/death of jelq god 2023-04-26_19-09-41.vmt,98,104
+materials/death cox/death of jelq god 2023-04-26_19-09-41.vtf,349768,136089
+materials/death cox/death of jelq god 2023-04-26_19-41-45.vmt,98,104
+materials/death cox/death of jelq god 2023-04-26_19-41-45.vtf,349768,150252
+materials/death cox/death of jelq god 2023-04-29_21-42-49.vmt,98,104
+materials/death cox/death of jelq god 2023-04-29_21-42-49.vtf,349768,174302
+materials/death cox/death of jelq god 2023-04-29_22-39-04.vmt,98,104
+materials/death cox/death of jelq god 2023-04-29_22-39-04.vtf,349768,132008
+materials/death cox/death of jelq god 2023-04-29_23-13-13.vmt,98,102
+materials/death cox/death of jelq god 2023-04-29_23-13-13.vtf,349768,141599
+materials/death cox/death of jelq god 2023-04-29_23-15-56.vmt,98,104
+materials/death cox/death of jelq god 2023-04-29_23-15-56.vtf,349768,152624
+materials/death cox/death of jelq god 2024-04-09_01-42-06.vmt,98,103
+materials/death cox/death of jelq god 2024-04-09_01-42-06.vtf,699304,230612
+materials/death cox/death of jelq god 2024-04-09_01-45-24.vmt,98,103
+materials/death cox/death of jelq god 2024-04-09_01-45-24.vtf,699304,214329
+materials/death cox/death of jelq god 2024-04-09_01-49-34.vmt,98,103
+materials/death cox/death of jelq god 2024-04-09_01-49-34.vtf,699304,249241
+materials/death cox/death of jelq god 2024-04-09_20-37-46.vmt,98,104
+materials/death cox/death of jelq god 2024-04-09_20-37-46.vtf,699304,240805
+materials/death cox/death of jelq god 2024-04-09_20-56-12.vmt,98,104
+materials/death cox/death of jelq god 2024-04-09_20-56-12.vtf,699304,310631
+materials/death cox/death of jelq god 2024-04-09_21-14-09.vmt,98,102
+materials/death cox/death of jelq god 2024-04-09_21-14-09.vtf,699304,220970
+materials/death cox/death of jelq god 2024-04-10_20-48-38.vmt,98,104
+materials/death cox/death of jelq god 2024-04-10_20-48-38.vtf,699304,233344
+materials/death cox/death of jelq god 2024-04-10_21-22-20.vmt,98,104
+materials/death cox/death of jelq god 2024-04-10_21-22-20.vtf,699304,238119
+materials/death cox/death of jelq god 2024-04-10_21-50-58.vmt,98,104
+materials/death cox/death of jelq god 2024-04-10_21-50-58.vtf,699304,235208
+materials/death cox/death of jelq god 2024-04-11_17-34-11.vmt,98,103
+materials/death cox/death of jelq god 2024-04-11_17-34-11.vtf,699304,245272
+materials/death cox/death of jelq god 2024-04-11_18-05-28.vmt,98,104
+materials/death cox/death of jelq god 2024-04-11_18-05-28.vtf,699304,238275
+materials/death cox/death of jelq god 2024-04-11_20-20-50.vmt,98,103
+materials/death cox/death of jelq god 2024-04-11_20-20-50.vtf,699304,236869
+materials/death cox/death of jelq god 2024-04-11_20-50-16.vmt,98,104
+materials/death cox/death of jelq god 2024-04-11_20-50-16.vtf,699304,287977
+materials/death cox/death of jelq god 2024-04-11_21-07-19.vmt,98,104
+materials/death cox/death of jelq god 2024-04-11_21-07-19.vtf,699304,259347
+materials/death cox/death of jelq god 2024-04-11_21-20-52.vmt,98,104
+materials/death cox/death of jelq god 2024-04-11_21-20-52.vtf,699304,302782
+materials/death cox/death of jelq god 2024-04-11_21-26-31.vmt,98,104
+materials/death cox/death of jelq god 2024-04-11_21-26-31.vtf,699304,224489
+materials/death cox/death of jelq god 2024-04-11_21-44-20.vmt,98,104
+materials/death cox/death of jelq god 2024-04-11_21-44-20.vtf,699304,275965
+materials/death cox/death of jelq god 2024-04-11_22-26-48.vmt,98,104
+materials/death cox/death of jelq god 2024-04-11_22-26-48.vtf,699304,249186
+materials/death cox/death of jelq god 2024-04-11_23-59-36.vmt,98,105
+materials/death cox/death of jelq god 2024-04-11_23-59-36.vtf,699304,237967
+materials/death cox/death of jelq god 2024-04-12_00-55-20.vmt,98,104
+materials/death cox/death of jelq god 2024-04-12_00-55-20.vtf,699304,274284
+materials/death cox/death of jelq god 2024-04-12_01-51-50.vmt,98,103
+materials/death cox/death of jelq god 2024-04-12_01-51-50.vtf,699304,238166
+materials/death cox/death of jelq god 2024-04-13_01-06-24.vmt,98,104
+materials/death cox/death of jelq god 2024-04-13_01-06-24.vtf,699304,249117
+materials/death cox/death of jelq god 2024-04-13_01-13-32.vmt,98,104
+materials/death cox/death of jelq god 2024-04-13_01-13-32.vtf,699304,279984
+materials/death cox/death of jelq god 2024-04-13_02-58-24.vmt,98,104
+materials/death cox/death of jelq god 2024-04-13_02-58-24.vtf,699304,185244
+materials/death cox/death of jelq god 2024-04-13_15-03-23.vmt,98,104
+materials/death cox/death of jelq god 2024-04-13_15-03-23.vtf,699304,227821
+materials/death cox/death of jelq god 2024-04-13_15-07-55.vmt,98,104
+materials/death cox/death of jelq god 2024-04-13_15-07-55.vtf,699304,241649
+materials/death cox/death of jelq god 2024-04-14_22-22-14.vmt,98,103
+materials/death cox/death of jelq god 2024-04-14_22-22-14.vtf,699304,254329
+materials/death cox/death of jelq god 2024-04-14_23-32-53.vmt,98,104
+materials/death cox/death of jelq god 2024-04-14_23-32-53.vtf,699304,269383
+materials/death cox/death of jelq god 2024-04-15_02-28-53.vmt,98,104
+materials/death cox/death of jelq god 2024-04-15_02-28-53.vtf,699304,269278
+materials/death cox/death of jelq god 2024-04-15_03-52-48.vmt,98,105
+materials/death cox/death of jelq god 2024-04-15_03-52-48.vtf,699304,251255
+materials/death cox/death of jelq god 2024-04-15_04-17-49.vmt,98,103
+materials/death cox/death of jelq god 2024-04-15_04-17-49.vtf,699304,324986
+materials/death cox/death of jelq god 2024-04-15_05-29-14.vmt,98,104
+materials/death cox/death of jelq god 2024-04-15_05-29-14.vtf,699304,258084
+materials/death cox/death of jelq god 2024-04-15_05-33-57.vmt,98,104
+materials/death cox/death of jelq god 2024-04-15_05-33-57.vtf,699304,246833
+materials/death cox/death of jelq god 2024-04-15_06-12-36.vmt,98,104
+materials/death cox/death of jelq god 2024-04-15_06-12-36.vtf,699304,225774
+materials/death cox/death of jelq god 2024-04-29_05-50-45.vmt,98,104
+materials/death cox/death of jelq god 2024-04-29_05-50-45.vtf,699304,237276
+materials/death cox/death of jelq god 2024-04-29_07-22-50.vmt,98,105
+materials/death cox/death of jelq god 2024-04-29_07-22-50.vtf,699304,224664
+materials/death tob/death of jelq god 2023-05-05_01-58-40.vmt,98,103
+materials/death tob/death of jelq god 2023-05-05_01-58-40.vtf,349768,134072
+materials/death tob/death of jelq god 2023-07-24_18-02-06.vmt,98,104
+materials/death tob/death of jelq god 2023-07-24_18-02-06.vtf,349768,98568
+materials/death tob/death of jelq god 2023-07-24_18-32-07.vmt,98,104
+materials/death tob/death of jelq god 2023-07-24_18-32-07.vtf,349768,112163
+materials/death tob/death of jelq god 2024-04-12_16-51-58.vmt,98,103
+materials/death tob/death of jelq god 2024-04-12_16-51-58.vtf,699304,217299
+materials/death tob/death of jelq god 2024-04-12_16-58-53.vmt,98,103
+materials/death tob/death of jelq god 2024-04-12_16-58-53.vtf,699304,148138
+materials/death tob/death of jelq god 2024-04-12_17-15-57.vmt,98,104
+materials/death tob/death of jelq god 2024-04-12_17-15-57.vtf,699304,203049
+materials/death tob/death of jelq god 2024-04-21_01-18-22.vmt,98,104
+materials/death tob/death of jelq god 2024-04-21_01-18-22.vtf,699304,170020
+materials/death tob/death of jelq god 2024-04-21_01-32-03.vmt,98,104
+materials/death tob/death of jelq god 2024-04-21_01-32-03.vtf,699304,119829
+materials/death tob/death of jelq god 2024-04-21_01-46-52.vmt,98,104
+materials/death tob/death of jelq god 2024-04-21_01-46-52.vtf,699304,283809
+materials/death tob/death of jelq god 2024-04-21_01-52-19.vmt,98,104
+materials/death tob/death of jelq god 2024-04-21_01-52-19.vtf,699304,171464
+materials/death tob/death of jelq god 2024-04-21_01-59-07.vmt,98,104
+materials/death tob/death of jelq god 2024-04-21_01-59-07.vtf,699304,196054
+materials/death tob/death of jelq god 2024-04-21_02-08-43.vmt,98,103
+materials/death tob/death of jelq god 2024-04-21_02-08-43.vtf,699304,139230
+materials/death tob/death of jelq god 2024-04-21_02-26-47.vmt,98,104
+materials/death tob/death of jelq god 2024-04-21_02-26-47.vtf,699304,309799
+materials/death tob/death of jelq god 2024-04-22_00-31-53.vmt,98,104
+materials/death tob/death of jelq god 2024-04-22_00-31-53.vtf,699304,208859
+materials/death tob/death of jelq god 2024-04-22_00-46-48.vmt,98,104
+materials/death tob/death of jelq god 2024-04-22_00-46-48.vtf,699304,275929
+materials/death tob/death of jelq god 2024-04-22_01-07-05.vmt,98,103
+materials/death tob/death of jelq god 2024-04-22_01-07-05.vtf,699304,221426
+materials/death tob/death of jelq god 2024-04-22_02-30-33.vmt,98,102
+materials/death tob/death of jelq god 2024-04-22_02-30-33.vtf,699304,196962
+materials/death tob/death of jelq god 2024-04-22_02-42-45.vmt,98,102
+materials/death tob/death of jelq god 2024-04-22_02-42-45.vtf,699304,187958
+materials/death tob/death of jelq god 2024-04-22_02-54-48.vmt,98,104
+materials/death tob/death of jelq god 2024-04-22_02-54-48.vtf,699304,287008
+materials/death tob/death of jelq god 2024-04-22_03-01-11.vmt,98,103
+materials/death tob/death of jelq god 2024-04-22_03-01-11.vtf,699304,169567
+materials/death tob/death of jelq god 2024-04-22_03-17-29.vmt,98,104
+materials/death tob/death of jelq god 2024-04-22_03-17-29.vtf,699304,185583
+materials/death tob/death of jelq god 2024-04-22_03-27-05.vmt,98,104
+materials/death tob/death of jelq god 2024-04-22_03-27-05.vtf,699304,217602
+materials/death tob/death of jelq god 2024-04-22_03-41-29.vmt,98,104
+materials/death tob/death of jelq god 2024-04-22_03-41-29.vtf,699304,179891
+materials/death tob/death of jelq god 2024-04-22_03-49-09.vmt,98,104
+materials/death tob/death of jelq god 2024-04-22_03-49-09.vtf,699304,197971
+materials/death tob/death of jelq god 2024-04-22_03-59-07.vmt,98,104
+materials/death tob/death of jelq god 2024-04-22_03-59-07.vtf,699304,156449
+materials/death tob/death of jelq god 2024-04-22_04-40-25.vmt,98,103
+materials/death tob/death of jelq god 2024-04-22_04-40-25.vtf,699304,169721
+materials/death tob/death of jelq god 2024-04-22_04-43-20.vmt,98,103
+materials/death tob/death of jelq god 2024-04-22_04-43-20.vtf,699304,193009
+materials/death tob/death of jelq god 2024-04-22_04-51-24.vmt,98,103
+materials/death tob/death of jelq god 2024-04-22_04-51-24.vtf,699304,215271
+materials/death tob/death of jelq god 2024-04-22_04-54-54.vmt,98,101
+materials/death tob/death of jelq god 2024-04-22_04-54-54.vtf,699304,214084
+materials/death tob/death of jelq god 2024-04-23_02-05-27.vmt,98,103
+materials/death tob/death of jelq god 2024-04-23_02-05-27.vtf,699304,140978
+materials/death tob/death of jelq god 2024-04-23_02-12-07.vmt,98,103
+materials/death tob/death of jelq god 2024-04-23_02-12-07.vtf,699304,174833
+materials/death tob/death of jelq god 2024-04-23_02-15-12.vmt,98,103
+materials/death tob/death of jelq god 2024-04-23_02-15-12.vtf,699304,205697
+materials/death tob/death of jelq god 2024-04-23_02-19-35.vmt,98,104
+materials/death tob/death of jelq god 2024-04-23_02-19-35.vtf,699304,201131
+materials/death tob/death of jelq god 2024-04-24_00-33-52.vmt,98,103
+materials/death tob/death of jelq god 2024-04-24_00-33-52.vtf,699304,191700
+materials/death tob/death of jelq god 2024-04-24_00-51-48.vmt,98,104
+materials/death tob/death of jelq god 2024-04-24_00-51-48.vtf,699304,240238
+materials/death tob/death of jelq god 2024-04-24_01-05-09.vmt,98,103
+materials/death tob/death of jelq god 2024-04-24_01-05-09.vtf,699304,148065
+materials/death tob/death of jelq god 2024-04-24_01-43-56.vmt,98,104
+materials/death tob/death of jelq god 2024-04-24_01-43-56.vtf,699304,150862
+materials/death tob/death of jelq god 2024-04-24_02-10-21.vmt,98,103
+materials/death tob/death of jelq god 2024-04-24_02-10-21.vtf,699304,194615
+materials/death tob/death of jelq god 2024-04-24_02-48-43.vmt,98,103
+materials/death tob/death of jelq god 2024-04-24_02-48-43.vtf,699304,145506
+materials/death tob/death of jelq god 2024-04-24_03-13-48.vmt,98,103
+materials/death tob/death of jelq god 2024-04-24_03-13-48.vtf,699304,239817
+materials/death tob/death of jelq god 2024-04-24_03-29-34.vmt,98,103
+materials/death tob/death of jelq god 2024-04-24_03-29-34.vtf,699304,176035
+materials/death tob/death of jelq god 2024-04-24_03-40-27.vmt,98,103
+materials/death tob/death of jelq god 2024-04-24_03-40-27.vtf,699304,164967
+materials/death tob/death of jelq god 2024-04-24_21-37-27.vmt,98,104
+materials/death tob/death of jelq god 2024-04-24_21-37-27.vtf,699304,221398
+materials/death tob/death of jelq god 2024-04-24_21-57-01.vmt,98,104
+materials/death tob/death of jelq god 2024-04-24_21-57-01.vtf,699304,215026
+materials/death tob/death of jelq god 2024-04-24_22-13-18.vmt,98,103
+materials/death tob/death of jelq god 2024-04-24_22-13-18.vtf,699304,181321
+materials/death tob/death of jelq god 2024-04-24_22-42-23.vmt,98,103
+materials/death tob/death of jelq god 2024-04-24_22-42-23.vtf,699304,140225
+materials/death tob/death of jelq god 2024-04-25_00-42-04.vmt,98,104
+materials/death tob/death of jelq god 2024-04-25_00-42-04.vtf,699304,204451
+materials/death tob/death of jelq god 2024-04-25_00-49-10.vmt,98,104
+materials/death tob/death of jelq god 2024-04-25_00-49-10.vtf,699304,204999
+materials/death tob/death of jelq god 2024-04-25_01-00-08.vmt,98,103
+materials/death tob/death of jelq god 2024-04-25_01-00-08.vtf,699304,152643
+materials/death tob/death of jelq god 2024-04-25_01-46-29.vmt,98,104
+materials/death tob/death of jelq god 2024-04-25_01-46-29.vtf,699304,219272
+materials/death tob/death of jelq god 2024-04-25_01-51-23.vmt,98,104
+materials/death tob/death of jelq god 2024-04-25_01-51-23.vtf,699304,186111
+materials/death tob/death of jelq god 2024-04-25_02-48-46.vmt,98,103
+materials/death tob/death of jelq god 2024-04-25_02-48-46.vtf,699304,191070
+materials/death tob/death of jelq god 2024-04-25_04-13-47.vmt,98,104
+materials/death tob/death of jelq god 2024-04-25_04-13-47.vtf,699304,128893
+materials/deaths toa/death of jelq god 2023-04-03_19-20-51.vmt,96,104
+materials/deaths toa/death of jelq god 2023-04-03_19-20-51.vtf,349768,131305
+materials/deaths toa/death of jelq god 2023-04-03_20-28-48.vmt,99,105
+materials/deaths toa/death of jelq god 2023-04-03_20-28-48.vtf,349768,113421
+materials/deaths toa/death of jelq god 2023-04-03_23-41-17.vmt,99,105
+materials/deaths toa/death of jelq god 2023-04-03_23-41-17.vtf,349768,102891
+materials/deaths toa/death of jelq god 2023-04-04_00-00-46.vmt,99,103
+materials/deaths toa/death of jelq god 2023-04-04_00-00-46.vtf,349768,142566
+materials/deaths toa/death of jelq god 2023-04-04_00-41-23.vmt,99,105
+materials/deaths toa/death of jelq god 2023-04-04_00-41-23.vtf,349768,123796
+materials/deaths toa/death of jelq god 2023-04-04_01-15-54.vmt,99,105
+materials/deaths toa/death of jelq god 2023-04-04_01-15-54.vtf,349768,127293
+materials/deaths toa/death of jelq god 2023-04-04_19-50-38.vmt,99,105
+materials/deaths toa/death of jelq god 2023-04-04_19-50-38.vtf,349768,109387
+materials/deaths toa/death of jelq god 2023-04-04_20-13-14.vmt,99,104
+materials/deaths toa/death of jelq god 2023-04-04_20-13-14.vtf,349768,143676
+materials/deaths toa/death of jelq god 2023-04-04_20-56-09.vmt,99,105
+materials/deaths toa/death of jelq god 2023-04-04_20-56-09.vtf,349768,122492
+materials/deaths toa/death of jelq god 2023-04-04_22-31-00.vmt,99,105
+materials/deaths toa/death of jelq god 2023-04-04_22-31-00.vtf,349768,95950
+materials/deaths toa/death of jelq god 2023-04-05_00-19-32.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-05_00-19-32.vtf,349768,132454
+materials/deaths toa/death of jelq god 2023-04-05_00-21-54.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-05_00-21-54.vtf,349768,152314
+materials/deaths toa/death of jelq god 2023-04-05_02-03-35.vmt,99,105
+materials/deaths toa/death of jelq god 2023-04-05_02-03-35.vtf,349768,164071
+materials/deaths toa/death of jelq god 2023-04-05_03-15-58.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-05_03-15-58.vtf,349768,139016
+materials/deaths toa/death of jelq god 2023-04-05_16-33-06.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-05_16-33-06.vtf,349768,107942
+materials/deaths toa/death of jelq god 2023-04-05_16-42-21.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-05_16-42-21.vtf,349768,157914
+materials/deaths toa/death of jelq god 2023-04-05_17-52-28.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-05_17-52-28.vtf,349768,138837
+materials/deaths toa/death of jelq god 2023-04-13_01-39-20.vmt,99,107
+materials/deaths toa/death of jelq god 2023-04-13_01-39-20.vtf,349768,132102
+materials/deaths toa/death of jelq god 2023-04-13_01-53-02.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-13_01-53-02.vtf,349768,107712
+materials/deaths toa/death of jelq god 2023-04-13_02-03-19.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-13_02-03-19.vtf,349768,161360
+materials/deaths toa/death of jelq god 2023-04-22_00-16-04.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-22_00-16-04.vtf,349768,118659
+materials/deaths toa/death of jelq god 2023-04-22_00-21-05.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-22_00-21-05.vtf,349768,127616
+materials/deaths toa/death of jelq god 2023-04-23_21-43-51.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-23_21-43-51.vtf,349768,139389
+materials/deaths toa/death of jelq god 2023-04-23_22-24-12.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-23_22-24-12.vtf,349768,113198
+materials/deaths toa/death of jelq god 2023-04-30_19-05-45.vmt,99,106
+materials/deaths toa/death of jelq god 2023-04-30_19-05-45.vtf,349768,171703
+materials/deaths toa/death of jelq god 2023-11-22_00-21-00.vmt,99,105
+materials/deaths toa/death of jelq god 2023-11-22_00-21-00.vtf,349768,157782
+materials/deaths toa/death of jelq god 2024-04-09_00-38-27.vmt,99,105
+materials/deaths toa/death of jelq god 2024-04-09_00-38-27.vtf,699304,258591
+materials/deaths toa/death of jelq god 2024-04-10_17-25-13.vmt,99,106
+materials/deaths toa/death of jelq god 2024-04-10_17-25-13.vtf,699304,249268
+materials/deaths toa/death of jelq god 2024-04-11_16-10-43.vmt,99,106
+materials/deaths toa/death of jelq god 2024-04-11_16-10-43.vtf,699304,143840
+materials/deaths toa/death of jelq god 2024-04-11_16-36-18.vmt,99,106
+materials/deaths toa/death of jelq god 2024-04-11_16-36-18.vtf,699304,228583
+materials/detail/detailconcrete001a.vtf,174984,103558
+materials/devneons/red_neon.vmt,102,98
+materials/devneons/red_neon.vtf,43912,136
+materials/epic/brewmaster.vmt,80,89
+materials/epic/brewmaster.vtf,1398352,217732
+materials/epic/classicspray.vmt,65,75
+materials/epic/classicspray.vtf,699288,493988
+materials/epic/crt.vmt,73,83
+materials/epic/crt.vtf,1398352,268353
+materials/epic/donkeykong.vmt,81,89
+materials/epic/donkeykong.vtf,174960,49982
+materials/epic/falco.vmt,75,85
+materials/epic/falco.vtf,349748,71896
+materials/epic/fang.vmt,57,68
+materials/epic/fang.vtf,349704,180309
+materials/epic/fatman.vmt,59,70
+materials/epic/fatman.vtf,349660,93192
+materials/epic/feng.vmt,74,84
+materials/epic/feng.vtf,87616,30300
+materials/epic/gyrocopter.vmt,80,89
+materials/epic/gyrocopter.vtf,1398336,364311
+materials/epic/hoerang.vmt,77,85
+materials/epic/hoerang.vtf,11184992,1975159
+materials/epic/jack.vmt,74,84
+materials/epic/jack.vtf,22369856,3738612
+materials/epic/jobsdone.vmt,61,72
+materials/epic/jobsdone.vtf,349704,121657
+materials/epic/kadeem.vmt,59,70
+materials/epic/kadeem.vtf,349748,135674
+materials/epic/keeper_of_the_light.vmt,89,96
+materials/epic/keeper_of_the_light.vtf,1398352,219589
+materials/epic/kuma.vmt,75,84
+materials/epic/kuma.vtf,699232,175477
+materials/epic/leshrac.vmt,77,85
+materials/epic/leshrac.vtf,1398352,386442
+materials/epic/ling.vmt,74,84
+materials/epic/ling.vtf,5592640,612784
+materials/epic/machomega.vmt,62,72
+materials/epic/machomega.vtf,175000,68601
+materials/epic/meepo.vmt,75,85
+materials/epic/meepo.vtf,1398352,146380
+materials/epic/myticteam.vmt,62,73
+materials/epic/myticteam.vtf,175000,132277
+materials/epic/nicorobin.vmt,79,88
+materials/epic/nicorobin.vtf,174944,35269
+materials/epic/np.vmt,72,82
+materials/epic/np.vtf,1398336,257557
+materials/epic/ogre_magi.vmt,80,89
+materials/epic/ogre_magi.vtf,1398352,287779
+materials/epic/pranked.vmt,60,71
+materials/epic/pranked.vtf,175000,91877
+materials/epic/purpbk.vmt,59,70
+materials/epic/purpbk.vtf,699288,342175
+materials/epic/ring.vmt,57,68
+materials/epic/ring.vtf,349704,169700
+materials/epic/road1.vmt,58,69
+materials/epic/road1.vtf,349688,230589
+materials/epic/road3.vmt,58,69
+materials/epic/road3.vtf,699272,399781
+materials/epic/road4.vmt,58,69
+materials/epic/road4.vtf,699272,429569
+materials/epic/rubick.vmt,77,86
+materials/epic/rubick.vtf,1398352,193537
+materials/epic/shaheen.vmt,77,86
+materials/epic/shaheen.vtf,22369856,3233144
+materials/epic/shoutoutmessage.vmt,68,76
+materials/epic/shoutoutmessage.vtf,349768,40340
+materials/epic/sitfuckingrat.vmt,66,76
+materials/epic/sitfuckingrat.vtf,349768,63215
+materials/epic/slim.vmt,74,84
+materials/epic/slim.vtf,1398352,150542
+materials/epic/spirit_breaker.vmt,84,93
+materials/epic/spirit_breaker.vtf,1398352,407715
+materials/epic/sumo.vmt,57,68
+materials/epic/sumo.vtf,699208,278187
+materials/epic/techies.vmt,78,86
+materials/epic/techies.vtf,1398352,307258
+materials/epic/treant.vmt,76,86
+materials/epic/treant.vtf,1398352,247369
+materials/epic/vengeful.vmt,79,88
+materials/epic/vengeful.vtf,1398336,360117
+materials/epic/venomancer.vmt,80,89
+materials/epic/venomancer.vtf,1398352,156149
+materials/epic/winter_wyvern.vmt,83,92
+materials/epic/winter_wyvern.vtf,1398352,418496
+materials/epic/wisp.vmt,74,84
+materials/epic/wisp.vtf,1398336,289928
+materials/floor.vmt,53,64
+materials/floor.vtf,43912,21461
+materials/gauntletfloormid.vmt,64,74
+materials/gauntletfloormid.vtf,22080,5522
+materials/gauntletsmallwall.vmt,65,73
+materials/gauntletsmallwall.vtf,349760,68855
+materials/gauntletwall.vmt,60,70
+materials/gauntletwall.vtf,1398272,223357
+materials/glass.vmt,48,53
+materials/glass/offwndwb_break_hdr.vmt,338,205
+materials/glass/offwndwb_break_hdr.vtf,349760,265886
+materials/icecreamlock/lightglass.vmt,118,101
+materials/icecreamlock/lightglass.vtf,2952,91
+materials/insidewall.vmt,58,69
+materials/insidewall.vtf,349760,57511
+materials/kd.vmt,50,62
+materials/kd.vtf,699272,441192
+materials/keelfan.vmt,55,66
+materials/keelfan.vtf,43912,31751
+materials/mappbydy.vmt,56,66
+materials/mappbydy.vtf,349748,18578
+materials/maps/finalcompile_fixed3/c0_0_0.hdr.vtf,28753,162
+materials/maps/finalcompile_fixed3/c0_0_0.vtf,28753,113
+materials/maps/finalcompile_fixed3/cubemapdefault.hdr.vtf,28753,162
+materials/maps/finalcompile_fixed3/cubemapdefault.vtf,28753,113
+materials/maps/finalcompile_fixed3/de_nuke/nukwater_movingplane_beneath_depth_33.vmt,123,113
+materials/maps/finalcompile_fixed3/glass/offwndwb_break_hdr_0_0_0.vmt,136,128
+materials/maps/surf_legendary/concrete/concretefloor033o_-6664_1904_-4272.vmt,145,136
+materials/maps/surf_legendary/metal/citadel_metalwall076a_-7752_1904_-4048.vmt,146,141
+materials/models/antosha/fortony/outline.vmt,133,105
+materials/models/antosha/fortony/text.vmt,92,89
+materials/models/blender/whitechair.vmt,71,79
+materials/models/blender/whitechair.vtf,5592656,588606
+materials/models/cs_italy/market_dolly01.vmt,76,86
+materials/models/cs_italy/market_dolly01.vtf,174984,97624
+materials/models/epicpanda/eustace.vmt,85,91
+materials/models/epicpanda/eustace.vtf,87604,10189
+materials/models/epicpanda/eustacekart.vmt,89,95
+materials/models/epicpanda/eustacekart.vtf,87604,16108
+materials/models/epicpanda/eustacewheel.vmt,90,96
+materials/models/epicpanda/eustacewheel.vtf,43852,4465
+materials/models/epicpanda/steeringwhl.vmt,89,96
+materials/models/epicpanda/steeringwhl.vtf,5684,1094
+materials/models/props/de_dust/hr_dust/dust_cubemap/dust_cubemap.vtf,65600,25632
+materials/models/props/de_dust/hr_dust/dust_detail/dust_detail_metal_01.vtf,174984,107915
+materials/models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage.vmt,671,260
+materials/models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster_color.vmt,671,260
+materials/models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster_color.vtf,2796424,1772757
+materials/models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster_tint.vtf,699272,356091
+materials/models/props/de_nuke/car_nuke_animation.vmt,163,122
+materials/models/props/de_nuke/car_nuke_animation.vtf,174984,82316
+materials/models/props/de_nuke/car_nuke_animation_black.vmt,169,127
+materials/models/props/de_nuke/car_nuke_animation_black.vtf,174984,59731
+materials/models/props/de_nuke/car_nuke_animation_red.vmt,167,125
+materials/models/props/de_nuke/car_nuke_animation_red.vtf,174984,101678
+materials/models/props/de_nuke/car_nuke_ref.vtf,43912,9333
+materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_car_detail.vtf,174984,105654
+materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_cars_color.vmt,533,234
+materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_cars_color.vtf,1398336,51047
+materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_cars_spec.vtf,174984,78698
+materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_tires_color.vmt,145,125
+materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_tires_color.vtf,43912,24588
+materials/models/props/de_nuke/truck_nuke.vmt,157,117
+materials/models/props/de_nuke/truck_nuke.vtf,699272,375132
+materials/models/props/de_nuke/truck_nuke_ref.vtf,174984,36036
+materials/models/props/de_train/hr_t/trash_a/trash_bags_a.vmt,569,310
+materials/models/props/de_train/hr_t/trash_a/trash_bags_a.vtf,174984,47366
+materials/models/props/de_vertigo/construction_stack_plywood_01.vmt,99,104
+materials/models/props/de_vertigo/construction_stack_plywood_01.vtf,699272,351970
+materials/models/props/hr_massive/hr_foliage/hr_deadwood_floor_color.vmt,184,121
+materials/models/props/hr_massive/hr_foliage/hr_deadwood_floor_color.vtf,349688,234779
+materials/models/props/hr_massive/hr_foliage/hr_deadwood_floor_normal.vtf,87544,13582
+materials/models/props/hr_massive/hr_foliage/hr_tree_stump_color.vmt,253,182
+materials/models/props/hr_massive/hr_foliage/hr_tree_stump_color.vtf,174984,97891
+materials/models/props_junk/trashdumpster01a.vmt,151,137
+materials/models/props_junk/trashdumpster01a.vtf,174984,112689
+materials/models/props_rooftop/satellitedish01a.vmt,195,153
+materials/models/props_rooftop/satellitedish01a.vtf,87544,59197
+materials/models/roblox/bhopmaster.vmt,82,90
+materials/models/roblox/bhopmaster.vtf,1398352,79531
+materials/models/roblox/epicpanda.vmt,81,88
+materials/models/roblox/epicpanda.vtf,1398352,35356
+materials/narutroas.vmt,57,68
+materials/narutroas.vtf,2796384,468542
+materials/narutto.vmt,55,66
+materials/narutto.vtf,1398264,620775
+materials/neogeo.vmt,54,64
+materials/neogeo.vtf,174976,13165
+materials/nodraw/invis.vmt,75,84
+materials/nodraw/invis.vtf,188,60
+materials/pappyyy/beastmart.vmt,270,145
+materials/pappyyy/beastmart.vtf,174976,13686
+materials/pappyyy/dietredbull.vmt,67,75
+materials/pappyyy/dietredbull.vtf,87616,27216
+materials/pappyyy/nami.vmt,73,80
+materials/pappyyy/nami.vtf,2796384,218184
+materials/pappyyy/redbull.vmt,63,73
+materials/pappyyy/redbull.vtf,87616,35293
+materials/proctuah.vmt,56,67
+materials/proctuah.vtf,699232,218335
+materials/real_dev/dev_black.vmt,66,76
+materials/real_dev/dev_black.vtf,699272,225
+materials/real_dev/dev_gray1.vmt,66,76
+materials/real_dev/dev_gray1.vtf,699272,222
+materials/real_dev/dev_gray4.vmt,66,76
+materials/real_dev/dev_gray4.vtf,699272,236
+materials/real_dev/dev_gray8.vmt,66,76
+materials/real_dev/dev_gray8.vtf,699272,234
+materials/real_dev/dev_white.vmt,66,76
+materials/real_dev/dev_white.vtf,699272,225
+materials/real_dev/dev_yellow4.vmt,68,78
+materials/real_dev/dev_yellow4.vtf,699272,255
+materials/realworldtextures/floor/mixtile/bump/512.vtf,174984,64547
+materials/realworldtextures/floor/mixtile/solid/brown2.vmt,360,255
+materials/realworldtextures/floor/mixtile/solid/brown2.vtf,174984,75568
+materials/realworldtextures/floor/wood_floor_3.vmt,108,105
+materials/realworldtextures/floor/wood_floor_3.vtf,43912,29784
+materials/realworldtextures/new/tiles_c.vmt,229,154
+materials/realworldtextures/new/tiles_c.vtf,174984,3468
+materials/realworldtextures/new/tiles_c_nrm.vtf,174984,2994
+materials/realworldtextures/new/tiles_nrm01.vtf,174984,5329
+materials/realworldtextures/new/tiles_red01.vmt,233,153
+materials/realworldtextures/new/tiles_red01.vtf,174984,3097
+materials/realworldtextures/newer/0/roof_0_12.vmt,162,120
+materials/realworldtextures/newer/0/roof_0_12.vtf,174984,118327
+materials/realworldtextures/newer/0/roof_0_12_nrm.vtf,174984,88534
+materials/realworldtextures/newer/1/grass_1_04.vmt,109,107
+materials/realworldtextures/newer/1/grass_1_04.vtf,174984,124182
+materials/realworldtextures/newer/1/road_1_01.vmt,110,109
+materials/realworldtextures/newer/1/road_1_01.vtf,174984,100134
+materials/realworldtextures/newer/1/wood_1_01.vmt,107,107
+materials/realworldtextures/newer/1/wood_1_01.vtf,174984,86436
+materials/realworldtextures/newer/1/wood_1_04.vmt,107,107
+materials/realworldtextures/newer/1/wood_1_04.vtf,174984,112265
+materials/realworldtextures/newer/2/marble_2_01.vmt,196,139
+materials/realworldtextures/newer/2/marble_2_01.vtf,174984,128712
+materials/realworldtextures/newer/2/marble_2_01_spec.vtf,174984,111923
+materials/realworldtextures/walls/antiquesilver.vmt,246,202
+materials/realworldtextures/walls/antiquesilver.vtf,174984,68374
+materials/realworldtextures/walls/wall_1_02.vmt,279,203
+materials/realworldtextures/walls/wall_1_02.vtf,87544,31185
+materials/realworldtextures/walls/wall_1_03.vmt,279,203
+materials/realworldtextures/walls/wall_1_03.vtf,87544,42563
+materials/realworldtextures/walls/wall_1_04.vmt,279,203
+materials/realworldtextures/walls/wall_1_04.vtf,87544,25279
+materials/realworldtextures/walls/wall_1_05.vmt,279,202
+materials/realworldtextures/walls/wall_1_05.vtf,87544,40825
+materials/realworldtextures/walls/wall_1_05_nrm.vtf,87544,33975
+materials/realworldtextures/walls/wall_1_13.vmt,158,114
+materials/realworldtextures/walls/wall_1_13.vtf,87544,45859
+materials/realworldtextures/walls/wall_1_13_nrm.vtf,87544,34728
+materials/realworldtextures/walls/woodchuck.vmt,242,200
+materials/realworldtextures/walls/woodchuck.vtf,174984,72242
+materials/ryan_dev/10.vmt,59,71
+materials/ryan_dev/10.vtf,11144,107
+materials/ryan_dev/85.vmt,59,71
+materials/ryan_dev/85.vtf,11144,102
+materials/ryan_dev/brown6.vmt,63,74
+materials/ryan_dev/brown6.vtf,11144,119
+materials/ryan_dev/brown7.vmt,63,74
+materials/ryan_dev/brown7.vtf,11144,132
+materials/saspatoon/plaster/plasterseamlessblack.vmt,223,183
+materials/saspatoon/plaster/plasterseamlessblack.vtf,174984,36747
+materials/test/grid_black.vmt,91,94
+materials/test/grid_black.vtf,11144,312
+materials/texture.vmt,55,62
+materials/texture.vtf,174984,279
+materials/thosewhoknow.vmt,60,71
+materials/thosewhoknow.vtf,349688,108266
+materials/tools/toolsclip.vmt,313,244
+materials/tools/toolsclip.vtf,5696,761
+materials/tools/toolsnodraw.vmt,254,206
+materials/tools/toolsnodraw.vtf,2936,568
+materials/tools/toolsskybox.vmt,285,228
+materials/tools/toolsskybox.vtf,11128,958
+materials/tools/toolstrigger.vmt,285,226
+materials/tools/toolstrigger.vtf,5696,987
+materials/tunnel1.vmt,55,66
+materials/tunnel1.vtf,1398336,171305
+materials/tunnel2.vmt,55,66
+materials/tunnel2.vtf,349760,77781
+materials/tunnel3.vmt,55,66
+materials/tunnel3.vtf,349760,82329
+materials/tunnel5.vmt,55,66
+materials/tunnel5.vtf,349760,63765
+materials/tunnel6.vmt,55,66
+materials/tunnel6.vtf,699232,155998
+materials/tunnel7.vmt,55,66
+materials/tunnel7.vtf,349688,102742
+materials/tunnel8.vmt,55,66
+materials/tunnel8.vtf,174976,49595
+materials/tunnel9.vmt,55,66
+materials/tunnel9.vtf,87552,7804
+materials/typeshizz.vmt,82,82
+materials/typeshizz.vtf,1398336,240545
+models/antosha/fortony/bhop_lego3.dx90.vtx,93146,16617
+models/antosha/fortony/bhop_lego3.mdl,2104,546
+models/antosha/fortony/bhop_lego3.vvd,413376,67775
+models/blender/dk.dx80.vtx,65970,14114
+models/blender/dk.dx90.vtx,65970,14114
+models/blender/dk.mdl,5144,863
+models/blender/dk.sw.vtx,65970,14056
+models/blender/dk.vvd,256896,122535
+models/blender/dkbarrel.dx80.vtx,6768,1355
+models/blender/dkbarrel.dx90.vtx,6768,1356
+models/blender/dkbarrel.mdl,1924,449
+models/blender/dkbarrel.sw.vtx,6768,1344
+models/blender/dkbarrel.vvd,28096,9343
+models/blender/dkbox.dx80.vtx,13293,2425
+models/blender/dkbox.dx90.vtx,13293,2422
+models/blender/dkbox.mdl,1732,404
+models/blender/dkbox.sw.vtx,13293,2445
+models/blender/dkbox.vvd,63808,17260
+models/blender/dkcar.dx80.vtx,15012,2989
+models/blender/dkcar.dx90.vtx,15012,2994
+models/blender/dkcar.mdl,2288,511
+models/blender/dkcar.sw.vtx,15012,2967
+models/blender/dkcar.vvd,65472,18851
+models/blender/doggo.dx80.vtx,10080,2525
+models/blender/doggo.dx90.vtx,10080,2510
+models/blender/doggo.mdl,2120,483
+models/blender/doggo.sw.vtx,10080,2507
+models/blender/doggo.vvd,37760,17699
+models/blender/doghouse.dx80.vtx,8301,1719
+models/blender/doghouse.dx90.vtx,8301,1720
+models/blender/doghouse.mdl,1740,417
+models/blender/doghouse.sw.vtx,8301,1600
+models/blender/doghouse.vvd,41536,6416
+models/blender/hedge.dx80.vtx,207039,47377
+models/blender/hedge.dx90.vtx,207039,47377
+models/blender/hedge.mdl,1740,422
+models/blender/hedge.sw.vtx,207039,45133
+models/blender/hedge.vvd,641216,300662
+models/blender/hose.dx80.vtx,190863,41713
+models/blender/hose.dx90.vtx,190863,41725
+models/blender/hose.mdl,1732,414
+models/blender/hose.sw.vtx,190863,37162
+models/blender/hose.vvd,635072,305883
+models/blender/lawnmo.dx80.vtx,48027,9732
+models/blender/lawnmo.dx90.vtx,48027,9732
+models/blender/lawnmo.mdl,2848,569
+models/blender/lawnmo.sw.vtx,48027,9646
+models/blender/lawnmo.vvd,181696,70188
+models/blender/mayflash.dx80.vtx,122313,25911
+models/blender/mayflash.dx90.vtx,122313,25990
+models/blender/mayflash.mdl,1740,417
+models/blender/mayflash.sw.vtx,122313,24477
+models/blender/mayflash.vvd,459072,172733
+models/blender/model.dx80.vtx,282225,72356
+models/blender/model.dx90.vtx,282225,71981
+models/blender/model.mdl,1736,415
+models/blender/model.sw.vtx,282225,72159
+models/blender/model.vvd,915264,471501
+models/blender/redbull.dx80.vtx,118515,26445
+models/blender/redbull.dx90.vtx,118515,26445
+models/blender/redbull.mdl,1736,400
+models/blender/redbull.sw.vtx,118515,24853
+models/blender/redbull.vvd,373184,160021
+models/blender/rsarcadekpop.dx80.vtx,33438,5316
+models/blender/rsarcadekpop.dx90.vtx,33438,5315
+models/blender/rsarcadekpop.mdl,1744,424
+models/blender/rsarcadekpop.sw.vtx,33438,5198
+models/blender/rsarcadekpop.vvd,190080,17760
+models/blender/rsepicpanda.dx80.vtx,53016,8628
+models/blender/rsepicpanda.dx90.vtx,53016,8629
+models/blender/rsepicpanda.mdl,1744,421
+models/blender/rsepicpanda.sw.vtx,53016,8627
+models/blender/rsepicpanda.vvd,299136,26455
+models/blender/trashcan.dx80.vtx,15543,3166
+models/blender/trashcan.dx90.vtx,15543,3218
+models/blender/trashcan.mdl,1740,419
+models/blender/trashcan.sw.vtx,15543,3065
+models/blender/trashcan.vvd,67776,22394
+models/eustace.dx80.vtx,6921,1410
+models/eustace.dx90.vtx,6921,1410
+models/eustace.mdl,2324,519
+models/eustace.vvd,31744,10878
+models/gamecube/gamecube.dx80.vtx,282225,71712
+models/gamecube/gamecube.dx90.vtx,282225,72080
+models/gamecube/gamecube.mdl,1736,416
+models/gamecube/gamecube.sw.vtx,282225,72159
+models/gamecube/gamecube.vvd,915264,477833
+models/gamecuber/gamecube.dx80.vtx,5988,1408
+models/gamecuber/gamecube.dx90.vtx,5988,1408
+models/gamecuber/gamecube.mdl,1744,415
+models/gamecuber/gamecube.sw.vtx,5988,1423
+models/gamecuber/gamecube.vvd,24576,4788
+models/giga/gigagaming.dx80.vtx,292431,67338
+models/giga/gigagaming.dx90.vtx,292431,67941
+models/giga/gigagaming.mdl,1740,419
+models/giga/gigagaming.sw.vtx,292431,63838
+models/giga/gigagaming.vvd,945344,452160
+models/models/segafix.dx80.vtx,769380,140642
+models/models/segafix.dx90.vtx,769380,140642
+models/models/segafix.mdl,4380,817
+models/models/segafix.sw.vtx,769380,140363
+models/models/segafix.vvd,3572992,958019
+models/models/segafix1.dx80.vtx,174,76
+models/models/segafix1.dx90.vtx,174,76
+models/models/segafix1.mdl,1664,388
+models/models/segafix1.sw.vtx,174,75
+models/models/segafix1.vvd,256,79
+models/models/segafix10.dx80.vtx,174,76
+models/models/segafix10.dx90.vtx,174,76
+models/models/segafix10.mdl,1664,388
+models/models/segafix10.sw.vtx,174,75
+models/models/segafix10.vvd,256,79
+models/models/segafix2.dx80.vtx,174,76
+models/models/segafix2.dx90.vtx,174,76
+models/models/segafix2.mdl,1664,387
+models/models/segafix2.sw.vtx,174,75
+models/models/segafix2.vvd,256,79
+models/models/segafix3.dx80.vtx,174,76
+models/models/segafix3.dx90.vtx,174,76
+models/models/segafix3.mdl,1664,387
+models/models/segafix3.sw.vtx,174,75
+models/models/segafix3.vvd,256,79
+models/models/segafix4.dx80.vtx,174,76
+models/models/segafix4.dx90.vtx,174,76
+models/models/segafix4.mdl,1664,389
+models/models/segafix4.sw.vtx,174,75
+models/models/segafix4.vvd,256,79
+models/models/segafix5.dx80.vtx,174,76
+models/models/segafix5.dx90.vtx,174,76
+models/models/segafix5.mdl,1664,388
+models/models/segafix5.sw.vtx,174,75
+models/models/segafix5.vvd,256,79
+models/models/segafix6.dx80.vtx,174,76
+models/models/segafix6.dx90.vtx,174,76
+models/models/segafix6.mdl,1664,388
+models/models/segafix6.sw.vtx,174,75
+models/models/segafix6.vvd,256,79
+models/models/segafix7.dx80.vtx,174,75
+models/models/segafix7.dx90.vtx,174,75
+models/models/segafix7.mdl,1664,386
+models/models/segafix7.sw.vtx,174,74
+models/models/segafix7.vvd,256,79
+models/models/segafix8.dx80.vtx,174,76
+models/models/segafix8.dx90.vtx,174,76
+models/models/segafix8.mdl,1664,388
+models/models/segafix8.sw.vtx,174,75
+models/models/segafix8.vvd,256,79
+models/models/segafix9.dx80.vtx,174,76
+models/models/segafix9.dx90.vtx,174,76
+models/models/segafix9.mdl,1664,388
+models/models/segafix9.sw.vtx,174,75
+models/models/segafix9.vvd,256,79
+models/props/cs_italy/market_dolly01.dx80.vtx,12108,2139
+models/props/cs_italy/market_dolly01.dx90.vtx,12108,2140
+models/props/cs_italy/market_dolly01.mdl,1768,437
+models/props/cs_italy/market_dolly01.phy,714,438
+models/props/cs_italy/market_dolly01.sw.vtx,12108,2108
+models/props/cs_italy/market_dolly01.vvd,49920,14594
+models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster.dx90.vtx,70810,13609
+models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster.mdl,1956,499
+models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster.phy,10307,4164
+models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster.vvd,288256,51659
+models/props/de_nuke/car_nuke_animation.dx80.vtx,32340,5972
+models/props/de_nuke/car_nuke_animation.dx90.vtx,32372,5966
+models/props/de_nuke/car_nuke_animation.mdl,5200,1531
+models/props/de_nuke/car_nuke_animation.phy,50303,27685
+models/props/de_nuke/car_nuke_animation.sw.vtx,32324,5956
+models/props/de_nuke/car_nuke_animation.vvd,152000,59846
+models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon01_low.dx90.vtx,38255,6895
+models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon01_low.mdl,2152,514
+models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon01_low.phy,3550,2048
+models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon01_low.vvd,172928,47690
+models/props/de_nuke/truck_nuke.dx80.vtx,319826,51083
+models/props/de_nuke/truck_nuke.dx90.vtx,368572,57799
+models/props/de_nuke/truck_nuke.mdl,1768,452
+models/props/de_nuke/truck_nuke.phy,19473,9455
+models/props/de_nuke/truck_nuke.sw.vtx,319826,49389
+models/props/de_nuke/truck_nuke.vtx,115450,21415
+models/props/de_nuke/truck_nuke.vvd,1131712,298774
+models/props/de_train/hr_t/trash_a/trash_a.dx90.vtx,17122,4187
+models/props/de_train/hr_t/trash_a/trash_a.mdl,1880,499
+models/props/de_train/hr_t/trash_a/trash_a.phy,702,457
+models/props/de_train/hr_t/trash_a/trash_a.vvd,57856,33515
+models/props/de_vertigo/construction_stack_plywood_01.dx90.vtx,14803,2757
+models/props/de_vertigo/construction_stack_plywood_01.mdl,1808,454
+models/props/de_vertigo/construction_stack_plywood_01.phy,2238,1191
+models/props/de_vertigo/construction_stack_plywood_01.vvd,68800,8566
+models/props/hr_massive/hr_foliage/hr_tree_stump_01.dx90.vtx,8162,2061
+models/props/hr_massive/hr_foliage/hr_tree_stump_01.mdl,2128,542
+models/props/hr_massive/hr_foliage/hr_tree_stump_01.phy,3908,2231
+models/props/hr_massive/hr_foliage/hr_tree_stump_01.vvd,28992,13752
+models/props/hr_massive/hr_foliage/hr_tree_stump_02.dx90.vtx,8606,2147
+models/props/hr_massive/hr_foliage/hr_tree_stump_02.mdl,2128,541
+models/props/hr_massive/hr_foliage/hr_tree_stump_02.phy,3812,2225
+models/props/hr_massive/hr_foliage/hr_tree_stump_02.vvd,31552,15184
+models/props_junk/trashdumpster01a.dx80.vtx,41889,3411
+models/props_junk/trashdumpster01a.dx90.vtx,11767,2093
+models/props_junk/trashdumpster01a.mdl,1860,489
+models/props_junk/trashdumpster01a.phy,7835,3597
+models/props_junk/trashdumpster01a.sw.vtx,41889,3400
+models/props_junk/trashdumpster01a.vvd,59840,14923
+models/props_rooftop/satellitedish02.dx90.vtx,6760,1450
+models/props_rooftop/satellitedish02.mdl,1732,433
+models/props_rooftop/satellitedish02.phy,1697,1098
+models/props_rooftop/satellitedish02.vvd,24768,8486
+models/roblox/bhopmaster.dx80.vtx,126393,28295
+models/roblox/bhopmaster.dx90.vtx,126393,28214
+models/roblox/bhopmaster.mdl,1728,409
+models/roblox/bhopmaster.vvd,442432,202880
+models/roblox/epicpanda.dx80.vtx,69378,13459
+models/roblox/epicpanda.dx90.vtx,69378,13460
+models/roblox/epicpanda.mdl,1728,409
+models/roblox/epicpanda.vvd,292992,101611
