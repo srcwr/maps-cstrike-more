@@ -186,3 +186,4 @@ b99677e6e6fbe173449b18585d8530eb96ad8866,failed to parse bsp
 b78e593452855e2d7c1266bc16857ad17864bcf5,failed to parse bsp
 bb4a1ea45fa5ae2f673db97a730cc77ea5688eed,entities bsp lump is out of bounds of the bsp file
 a1a1e213d75e9081270641dba558abc309ac034b,entities bsp lump is out of bounds of the bsp file
+b12e845c7a89cdc852f20d1108fb8cc26b4fc3eb,entities error while decompressing lump
